@@ -1,0 +1,9 @@
+kinetic theory of weakly ionized homogeneous plasmas part
+    the second order approximation to the electron velocity
+    distribution function relating to the energy exchanges between
+    an applied electric field and the plasma in a lorentz type gas
+    is developed the resulting expression contains a divergent term
+    corresponding to a nonstationary state in which the electron
+    gas continually heats up the quality factor q of the plasma is
+    calculated the derivation of certain formulae used in part is
+    given in an appendix

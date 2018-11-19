@@ -1,0 +1,4 @@
+online training sessions' suggested guidelines. tables
+    are shown giving guidelines for beginning training, advanced
+    training, subject training, data base producer training and
+    introductory workshops.

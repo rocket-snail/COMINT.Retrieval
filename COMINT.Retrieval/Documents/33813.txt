@@ -1,0 +1,5 @@
+compensation networks for carrier frequency
+    servomechanisms methods are described for determining the
+    transfer function and for the synthesis of gain and phase
+    correction networks particularly symmetrical bridged t and
+    parallel t networks

@@ -1,0 +1,6 @@
+on-line information retrieval systems. 1977-december,
+    1981 (citations from the ntis data base). on-line computer
+    systems for retrieval of information are described in the
+    reports cited. systems development, formats of large and small
+    systems, instructions for use and comparisons of operating
+    networks are included.

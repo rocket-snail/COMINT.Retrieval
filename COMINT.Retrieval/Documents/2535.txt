@@ -1,0 +1,5 @@
+induced and spontaneous emission in a coherent field
+    theory developed in parts dealing with the interaction between
+    the em field in a cavity resonator and a number of two level
+    molecules is generalized to include a gaussian spread in the
+    molecular frequency

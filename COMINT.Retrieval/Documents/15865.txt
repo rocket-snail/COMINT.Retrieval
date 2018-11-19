@@ -1,0 +1,6 @@
+toroidal transformers pass video bandwidths television
+    video transformers are wound on supermalloy tape wound toroids
+    having a low frequency permeability of diminishing with
+    increasing frequency a bandwidth of is obtainable these
+    transformers may be used for matching a coaxial cable and for
+    interstage coupling in transistor video amplifiers

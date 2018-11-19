@@ -1,0 +1,4 @@
+harmonic generation in a cyclotron resonant plasma the
+    harmonic conversion efficiencies are comparable to those for
+    crystals and over the same power range superior to those for
+    ferrite multipliers

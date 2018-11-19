@@ -1,0 +1,4 @@
+pulse analysis the mathematical apsects of the
+    determination of the response of systems by pulse techniques is
+    discussed with particular reference to many of the practical
+    problems involved in applying the techniques

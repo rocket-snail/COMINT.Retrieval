@@ -1,0 +1,7 @@
+microwave diffraction measurements in a parallel plate
+    region diffraction of a plane or a cylindrical wave by wedges
+    covered with silver foil was investigated experimentally by a
+    probe method the wedge the line source and the probe were
+    located between two large parallel duralumin sheets spaced in
+    apart the measured values of field strength are compared with
+    values derived from previously published theory

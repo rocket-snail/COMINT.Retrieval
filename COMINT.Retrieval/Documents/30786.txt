@@ -1,0 +1,10 @@
+computing services association study on text processing.
+    describes a *61/3 million consultancy study by the computing
+    services association on text processing. the project has 3
+    parts' part 1-background research, development of the work
+    programme for text processing strategy studies and selection of
+    participants for part 2; part 2-undertaking individual text
+    processing strategy studies for 10 major uk organisations; and
+    part 3-summary of results to produce reports relevant to both
+    users and manufacturers of new text processing systems. the
+    study was sponsored by the department of trade.

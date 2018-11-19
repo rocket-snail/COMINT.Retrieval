@@ -1,0 +1,8 @@
+a basic transistor circuit for the construction of
+    digital computing systems a circuit comprising one transistor
+    one capacitor and three resistors forms the basis of a complete
+    digital computing system for use where high operation speed is
+    not essential the construction of well known computer circuits
+    from the basic circuit is described and a complete logical
+    computing system using circuits is developed to demonstrate
+    their application

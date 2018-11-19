@@ -1,0 +1,4 @@
+transistor tape preamplifier the play back head is used
+    as the inductance in a feedback inductance resistance
+    integrating circuit a signal noise ratio is obtained and the
+    frequency response is flat within from to

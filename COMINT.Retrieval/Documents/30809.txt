@@ -1,0 +1,6 @@
+simulation vf inductance by an integrating circuit an
+    operational amplifier used as integrator has an inductive input
+    impedance when a resesthve feedback loop is added between input
+    and output theoretical and measured ualues of inductance
+    qfactor and selfcapacitance are given and the possibility of
+    raising q by positive feedback is examined

@@ -1,0 +1,4 @@
+fluctuations in a multicomponent plasma a theory of
+    fluctuations in a plasma consisting of electrons and one kind
+    of ion below is generalized to apply to several species of
+    ions

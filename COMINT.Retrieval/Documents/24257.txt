@@ -1,0 +1,9 @@
+piezoelectricity ferroelectricity and crystal structure
+    by visualizing polar crystals as a network of permanent dipole
+    moments the piezoelectric and ferroelectric properties of
+    dielectrics may be deduced from considerations of molecular
+    symmetry this approach is used to clarify the relation between
+    the sphalerite cubic and wurtzite hexagonal structures the
+    ferroelectric feedback effect in aspects of domain formation
+    and the interrelation between ferro electricity and
+    piezoelectricity

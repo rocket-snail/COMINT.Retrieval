@@ -1,0 +1,2 @@
+on concavity of resistance functions a short proof is
+    given of a theorem presented by shannon and hagelbarger

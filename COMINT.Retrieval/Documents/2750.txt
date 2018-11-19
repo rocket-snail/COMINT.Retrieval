@@ -1,0 +1,8 @@
+theory of correlation tables. 1. a possible mathematical
+    model is presented for correlation tables used in spectroscopy.
+    a process based on information theory is demonstrated through
+    an example for the optimum construction of correlation tables.
+    in this example the construction of an nmr correlation table is
+    investigated; the method is general and is suitable for the
+    construction of correlation tables used in computerised
+    evaluation of spectra.

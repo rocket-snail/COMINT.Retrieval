@@ -1,0 +1,6 @@
+a wide band multiplier using crystal diodes the quarter
+    square multiplication is used the squaring being performed by
+    networks of biased ge diodes in the feed back paths of standard
+    computing amplifiers these networks have phase shifts of less
+    than at and the errors of the multiplier are less than of
+    maximum output

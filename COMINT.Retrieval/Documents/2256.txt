@@ -1,0 +1,13 @@
+use of proprietary biological and chemical data at merck
+    & co., inc. describes the merck sharp & dohme research
+    laboratories (rahway, new jersey) open-ended computer system
+    for the collection, storage, retrieval and dissemination of
+    biological data. interface is commonly made with other data
+    bases, using the compound registration number as the link; the
+    output display may then include records from any or all the
+    data bases accessed and also counts, computation results or
+    tables, as requested by the user. analyses searches performed
+    on the laboratories' biodata and chemdata systems in 1977 and
+    discusses the results with emphasis on the interplay between
+    the chemical structure, substructure, and biological data
+    segments of the overall system.

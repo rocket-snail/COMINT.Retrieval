@@ -1,0 +1,5 @@
+current noise and nonlinearity in pyrolytic carbon films
+    a high correlation exists between noise and nonlinearity when
+    the variations in film dimensions are taken into account a
+    balanced bridge method for measuring nonlinearity is
+    described

@@ -1,0 +1,11 @@
+forces for change in bibliographic business databases.
+    the on-line industry has experienced rapid growth in the past
+    decade, and the bibliography business files are emerging as one
+    of the fastest growing areas of the industry. a number of
+    trends in the industry are identified, and their effects on
+    bibliographic business data bases are analysed. a key trend is
+    that of the availability of more full-text data bases. in the
+    next 3-5 years 'hybrid files' consisting of indexing,
+    abstracts, and the full texts of documents will emerge as a
+    desirable structure for new bibliographic business data
+    bases.

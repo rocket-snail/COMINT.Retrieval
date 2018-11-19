@@ -1,0 +1,4 @@
+fluctuations in quartz crystal oscillators results of an
+    analysis using symbolic differential equations show that the
+    noise and thermal fluctuations are not determining factors for
+    stability see also of

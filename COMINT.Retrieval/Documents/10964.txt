@@ -1,0 +1,5 @@
+impedance boundary conditions for imperfectly conducting
+    surfaces it is shown how the exact em boundary conditions at
+    the surface of a material of large refractive index can be
+    approximated to yield the usual impedance or leontovich
+    boundary conditions

@@ -1,0 +1,5 @@
+constant s equalizers equations are derived for high
+    medium and low frequency equalizers based on a bridged t
+    configuration as equalization is varied from step to step the
+    point of maximum equalization changes and the insertion loss s
+    of unequalized frequencies remains constant

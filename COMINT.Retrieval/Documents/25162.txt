@@ -1,0 +1,11 @@
+a few practical remarks on the user-friendliness of
+    online systems. a list of general properties of a user-friendly
+    on-line system is presented. unfortunately, the requirements of
+    experienced users on the one hand, and of the beginners or
+    incidental users on the other hand, are contradictory.
+    synonymous commands, less strictly formalised input data
+    transformed to standardised formats by intelligent input
+    programs, explicit as well as implicit input data, free choice
+    between default or user's own parameters and procedures or
+    macrocommands, can make any system more friendly even for
+    heterogeneous user population.

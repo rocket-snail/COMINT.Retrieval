@@ -1,0 +1,7 @@
+minimum noise figure of the variable capacitance
+    amplifier a discussion of the minimum noise figure of variable
+    capacitance diode amplifiers on the assumption that the series
+    resistance is the only parasitic element some experimental
+    figures are given for dsb operation at and universal curves are
+    included which illustrate the effect of changing network
+    parameters and component temperatures

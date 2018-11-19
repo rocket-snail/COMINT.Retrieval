@@ -1,0 +1,3 @@
+variational method for transport parameters in electron
+    conductors the method described results in a simplification and
+    clarification of calculation procedure

@@ -1,0 +1,3 @@
+theory of ferromagnetism and the ordering of electronic
+    energy leve s the ordering of the energy levels of a system of
+    interacting fermions is considered mathematically

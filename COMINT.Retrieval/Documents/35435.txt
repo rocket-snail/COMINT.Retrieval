@@ -1,0 +1,4 @@
+ferrite core memory systems with rapid cycle times the
+    normal cycle time of for square loop ferrite cores is reduced
+    to a system suitable for a store of words of digits with a
+    cycle time of is developed

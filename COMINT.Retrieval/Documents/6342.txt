@@ -1,0 +1,6 @@
+a phasor method of nonlinear network analysis the network
+    is represented by the sum of a finite number of simple
+    sinusoidal functions with time chosen from a knowledge of the
+    network experiment and preliminary analysis an appendix
+    illustrates stability tests and an application of the method to
+    a typical problem

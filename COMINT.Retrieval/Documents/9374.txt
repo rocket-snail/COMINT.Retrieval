@@ -1,0 +1,5 @@
+an electronic square law circuit for use with a graphic
+    recorder the curvature of valve characteristics is used to
+    produce an output voltage proportional to the square of the
+    input voltage circuit details are given of a mean square value
+    meter suitable for graphic recording of the output

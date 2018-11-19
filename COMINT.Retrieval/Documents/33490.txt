@@ -1,0 +1,9 @@
+the direct method of filter and delay line synthesis
+    extension of previous work of the direct method consists in
+    postulating an indefinitely recurring network in which each
+    recurring element is coupled to all elements of the network and
+    in determining the values of these elements and of their
+    indefinitely extended couplings which will yield the exact
+    phase characteristics desired within the exact pass band
+    desired examples are given of the application of the method to
+    the design of ideal band pass filters

@@ -1,0 +1,4 @@
+drift rate in a dipole field expressions are found for
+    drift rate and period and the results are applied to the drift
+    of trapped electrons and protons in the geomagnetic
+    field

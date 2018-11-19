@@ -1,0 +1,7 @@
+linguistic support in building up multi-lingual thesauri.
+    choice of equivalents. the most difficult task when compiling
+    multi-lingual thesauri is to choose the equivalents for words
+    which are partial synonyms. with this in mind, considers the
+    main types of lexical systems and paradigmatic relations and
+    gives an example of the semantic description of terminal
+    lexical systems in russian and english.

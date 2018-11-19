@@ -1,0 +1,4 @@
+conductivity of plasmas to microwaves a new derivation of
+    an expression previously obtained for plasma conductivity see
+    of and an alternative expression which avoids previous
+    difficulties with negative conductivities

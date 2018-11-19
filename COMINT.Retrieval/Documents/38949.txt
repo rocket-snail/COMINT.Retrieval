@@ -1,0 +1,11 @@
+microwave investigation of disintegrating gaseous
+    discharge plasmas the phenomenon of afterglow is investigated
+    both theoretically and experimentally by considering the shift
+    of the resonance frequency of a microwave cavity enclosing the
+    plasma measurements using binary gas mixtures show the
+    production of a considerable number of atomic ions of the
+    admixture even at low concentrations the process concerned in
+    helium neon is a charge transfer one between a ion and a neon
+    atom the relevant cross section being cm in other mixtures the
+    atomic ions are produced by the penning effect and possibly the
+    charge transfer process

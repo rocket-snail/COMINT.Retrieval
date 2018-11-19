@@ -1,0 +1,6 @@
+some magnetic properties of metals part diamagnetic
+    resonance em radiation incident on a large system of electrons
+    moving in a constant magnetic field h in a metal is strongly
+    absorbed near a frequency where m is the effective mass the
+    resonance absorption is of the same order of magnitude as the
+    absorption due to skin effect part of

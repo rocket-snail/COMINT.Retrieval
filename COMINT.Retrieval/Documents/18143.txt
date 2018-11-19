@@ -1,0 +1,7 @@
+ferroelectric memory in the parametron circuits
+    difficulties experienced in the use of ferroelectric materials
+    in pulse type storage systems are shown to be partly overcome
+    in parametron circuits the present limitation is due to
+    unsuitable ferroelectric materials batio shows a high fatigue
+    phenomenon and triglycine sulphate a low switching
+    velocity

@@ -1,0 +1,4 @@
+a four transistor dc converter circuit for use with
+    relatively high voltage supplies an experimental bridge circuit
+    is described with a power output of and conversion
+    efficiency

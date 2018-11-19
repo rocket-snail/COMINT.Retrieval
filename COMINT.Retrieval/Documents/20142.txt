@@ -1,0 +1,7 @@
+a new transformerless amplifier circuit four valves in a
+    bridge circuit are driven in appropriate phase and amplitude so
+    as to deliver equal power to a common load no dc flows through
+    the load negative feedback is easily applied a and an amplifier
+    are described response characteristics are flat over the audio
+    range at all levels of operation the unit weighs including
+    power supply and pre amplifier

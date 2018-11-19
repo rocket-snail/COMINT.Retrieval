@@ -1,0 +1,2 @@
+matrix inversion ii (algorithm 120) august, 1962 george,
+    r. ca620812 jb march 17, 1978 9:42 pm

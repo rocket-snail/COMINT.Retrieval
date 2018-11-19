@@ -1,0 +1,8 @@
+absorption in an electron gas mixture the influence of
+    the collision damping on the polarization of an electron gas
+    mixture subjected to an alternating electric field is
+    calculated using the kinetic theory of gases and assuming the
+    simplest type of elastic collision the nonlinear effect of the
+    absorption is estimated to a first approximation this
+    nonlinearity is significant for long waves propagated in the
+    ionosphere

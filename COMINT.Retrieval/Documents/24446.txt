@@ -1,0 +1,6 @@
+multi electrode counting tubes applications other than
+    straightforward counting operations are discussed for decimal
+    counting tubes of various types the design of a pulse amplitude
+    analyser using trochotrons and dekatrons in a matrix system is
+    outlined the life of the tubes is comparable to that of
+    ordinary valves

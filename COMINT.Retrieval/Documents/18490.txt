@@ -1,0 +1,5 @@
+interesting nonlinear effects experiments show that
+    simple circuits comprising ordinary electric lamps together
+    with iron core transformer coils and capacitors have properties
+    similar to some multivibrators and ring circuits applications
+    to switching counting and delaying are indicated

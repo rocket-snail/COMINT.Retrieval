@@ -1,0 +1,19 @@
+the synergism of user needs, system requirements and
+    technological limitations. user perception of data importance
+    and the economic feasibility of hardware and storage devices
+    will determine the future direction of on-line systems. a
+    retrieval system's functions are ultimately dictated by data
+    base design. early on-line systems were designed for
+    bibliographic information limited to citations only using
+    sequential files. now full text information, numeric
+    information, and manipulative systems are being perceived by a
+    class of users not interested in specialised vocabulary skills.
+    these users are placing demands that will require sophisticated
+    internal technology, improved and expanded storage capability,
+    more sophisticated file structure, and transparent data
+    manipulative devices. the economic potential of these demands
+    will bring about the development of a new generation of
+    multitiered data bases that allow users at all skill levels to
+    approach them. the point is that, as the user's need for types
+    of data to be retrieved changes, so must the data base
+    technology change. report not available from ntis.

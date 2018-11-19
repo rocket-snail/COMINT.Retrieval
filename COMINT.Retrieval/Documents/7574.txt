@@ -1,0 +1,6 @@
+microwave measurements on a high frequency excited gas
+    discharge waves were transmitted through the discharge vessel
+    and amplitude and phase changes were measured as a function of
+    the anode voltage of the plasma producing hf generator horn
+    radiators were applied to the ends or sides of the vessel and
+    the direction of polarization was varied

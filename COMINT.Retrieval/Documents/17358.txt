@@ -1,0 +1,5 @@
+solar bursts of type and their relation to flares
+    recordings of bursts made by radiometer and radio spectrograph
+    at freiburg and other observatories are analysed and their
+    relation to flares observed in the same period is
+    studied

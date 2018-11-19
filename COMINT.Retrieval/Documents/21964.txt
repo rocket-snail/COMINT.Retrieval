@@ -1,0 +1,3 @@
+structure of a magnetohydrodynamic sho k wave in a
+    partially ionized gas an approximate solution of the equation
+    for the transition zone is given for some special cases

@@ -1,0 +1,5 @@
+thermally stimulated emission and conductivity peaks in
+    the case of temperature dependent trapping cross sections
+    original theory is extended and a method is proposed for
+    determining by a single experiment the ionization energy and
+    temperature dependent cross section of a trapping level

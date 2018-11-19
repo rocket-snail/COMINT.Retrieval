@@ -1,0 +1,4 @@
+doppler measurements on soviet satellites the first two
+    soviet satellites were successfully tracked by means of doppler
+    measurements alone the apparatus and the method of analysis
+    used are described

@@ -1,0 +1,5 @@
+heat to ac conversion using thermoelectric generators and
+    tunnel diodes single cell generators operating between and
+    produce of electric power the dc output of at is converted to
+    high voltage power by using a high current tunnel diode as a dc
+    ac converter

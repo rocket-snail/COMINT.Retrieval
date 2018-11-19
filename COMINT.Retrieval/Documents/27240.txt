@@ -1,0 +1,9 @@
+earth satellite observations of the ionosphere the
+    various methods of deriving integrated electron content below a
+    satellite are critically reviewed although the methods are
+    theoretically capable of giving information of the diurnal
+    seasonal and latitude variations of content interpretation of
+    the measurements is difficult because of all these variations
+    are present simultaneously hence some assumptions about one or
+    two of the variables must be made in order that the third one
+    may be studied

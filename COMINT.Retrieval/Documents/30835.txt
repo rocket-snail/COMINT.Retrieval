@@ -1,0 +1,7 @@
+new modulation system of radio reception of weak signals
+    and its application in the design of a radiotelescope of
+    extremely high resolving power features of the systems
+    described by vitkevich of and mills and little see eg of were
+    combined to give a high resolution a swinging aerial beam is
+    obtained by varying the electrical lengths of the feeders the
+    system is explained with the aid of a block diagram

@@ -1,0 +1,4 @@
+ada a transistor decimal digital differential analyser
+    circuit techniques and assembly and construction methods are
+    discussed the specification of the machine is summarized and
+    some typical problems are considered

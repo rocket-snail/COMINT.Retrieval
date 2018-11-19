@@ -1,0 +1,9 @@
+design of practical linear networks with optimum signal
+    noise ratios a general method is described for the design of
+    networks for which the relation between the input and output
+    signals is represented by linear equations the frequency
+    spectra of signal and noise being assumed known the application
+    of the method of analysis in the design of the optimum
+    ionization chamber amplifier is illustrated and the signal
+    noise ratios attainable are compared with those for an rc
+    discrimination network and a delay line clipping circuit

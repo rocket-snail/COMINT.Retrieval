@@ -1,0 +1,7 @@
+the interaction between an obliquely incident plane
+    electromagnetic wave and an electron beam parts two and three
+    the work described earlier is extended in part two to include
+    the case where there is no static magnetic field present in
+    part three results obtained are analysed for possible resonance
+    conditions to provide a more direct physical interpretation of
+    the formulae derived

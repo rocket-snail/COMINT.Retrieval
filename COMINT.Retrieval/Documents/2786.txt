@@ -1,0 +1,14 @@
+the duality of classification' taxonomy and meronomy.
+    contribution to a section on current trends in classification
+    research. in the context of natural classification systems
+    development, classification is viewed as the grouping of
+    objects in classes (taxons) and as the finding of common
+    structures (archetypes) within the objects. an archetype is a
+    structure of parts (merons). the classification procedure can
+    be represented as an interactive process whereby the grouping
+    by taxons alternates with the identification of taxon
+    archetypes, which are used again to update the taxon
+    composition. presents a mathematical description of the
+    relationship between the taxonomic grouping of objects and
+    their partitioning into merons, with special mention of the
+    methodological problems of classification.

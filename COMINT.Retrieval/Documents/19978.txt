@@ -1,0 +1,5 @@
+an analysis of some statistical properties of auroral
+    radar reflections and their relationships to the detection
+    capabilities of the radar expressions are derived from an
+    analysis of protracted observations relating radar parameters
+    to echo statistics

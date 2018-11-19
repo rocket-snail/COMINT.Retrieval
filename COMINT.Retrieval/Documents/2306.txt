@@ -1,0 +1,5 @@
+collective oscillations and characteristic electron
+    energy losses an attempt is made to give a simple theory of the
+    interaction of fast electrons with thin films of solids
+    adequate for interpreting results of past experiments and for
+    suggesting new crucial tests

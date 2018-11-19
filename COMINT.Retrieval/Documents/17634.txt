@@ -1,0 +1,5 @@
+push pull transistor amplifiers a description is given of
+    a practical af power amplifier us ng point contact transistors
+    and developed from the class b thermionic valve amplifier by
+    appli ation of the duality principle this amplifier an deliver
+    at harmonic distortion

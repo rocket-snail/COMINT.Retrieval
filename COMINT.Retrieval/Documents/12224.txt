@@ -1,0 +1,15 @@
+backscattering from wide angle and narrow angle cones
+    solutions are obtained for the diffraction of the waves
+    radiated by scalar and vector point sources on the axis of a
+    semi infinite cone the scalar problems are solved by the method
+    of characteristic greens functions to yield directly various
+    alternative representations whose different convergence
+    properties are discussed the vector problem is solved by an
+    application of spherical transmission line theory to evaluate
+    the plane wave scattering observed far from the cone tip a
+    highly convergent contour integral representation is selected
+    and evaluated approximately for the special case of
+    backscattering from cones having large and small apex angles
+    the results for the large angle cone exhibit the transition
+    from a backscattered spherical wave to a plane wave as the cone
+    degenerates into an infinite plane

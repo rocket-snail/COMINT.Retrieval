@@ -1,0 +1,12 @@
+utilization of chemical abstracts service (cas) data
+    bases. application for the idc-inorganica-documentation-system.
+    a method is developed describing the economic utilisation of
+    the chemical abstracts service data bases; ca condensates and
+    chemical abstracts subject index alert in order to supplement
+    the data base of the idc-inorganica-documentationsystem built
+    up to meet the peculiarities of inorganic chemistry. the method
+    consists of edp-programs and processes at which special
+    authority files for coded compound and subject entries play an
+    important role. one of the advantages of the method is that the
+    intellectual effort necessary to create such a data base is
+    reduced to a minimum.

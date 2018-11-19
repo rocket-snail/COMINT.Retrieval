@@ -1,0 +1,11 @@
+a queueing study of public catalog use. discusses a
+    6-week queuing study of public catalogues in the iowa state
+    university library system. data gathered are analysed primarily
+    to determine if routinely gathered library statistics can
+    validly be used to predict catalogue usage, to discover the
+    ratio between the usage of the card catalogue and the senate
+    catalogue, and to pinpoint the time of peak card catalogue
+    usage in order to measure more closely the rate of use. this
+    measurement, then, can provide 1 factor in a simulation model
+    that can be constructed to predict accurately the number of
+    devices needed for an alternative catalogue format.

@@ -1,0 +1,9 @@
+minimizing contact potential in apparatus design
+    consideration is given particularly to the design of radio
+    equipment required to function under adverse conditions such as
+    exposure to humid or salt laden atmosphere a table reproduced
+    from the inter services document rcs gives the potentials of
+    various metals in sea water against the saturated calomel
+    electrode as a guide to the choice of metal coatings the latter
+    may be applied by electroplating spraying or hot
+    dippling

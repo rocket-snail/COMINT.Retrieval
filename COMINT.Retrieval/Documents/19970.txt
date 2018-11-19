@@ -1,0 +1,5 @@
+hard tube pulsers for radar developments in design of
+    high vacuum valves make possible the construction of blocking
+    oscillator pulse modulators comparable in size and efficiency
+    with line type thyratron modulators with advantages in
+    stability resulting from the pulse shape

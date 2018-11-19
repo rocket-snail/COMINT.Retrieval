@@ -1,0 +1,9 @@
+simplified solution of phase shift networks the method is
+    particularly applicable to phase shift circuits in rc
+    oscillators and selective amplifiers the arbitrary initial
+    assumption is made that all reactive network elements can be
+    treated algebraically as resistances ie as scalar quantities
+    this enables mesh equations to be written down and solved
+    simply the results being then interpreted in terms of the
+    complex quantities involved three illustrative examples are
+    worked out

@@ -1,0 +1,4 @@
+exact solution of the one dimensional bunching problem a
+    solution is derived for the bunching of an infinite electron
+    beam modulated by an infinitesimal gap the solution is valid
+    when no overtaking occurs

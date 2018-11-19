@@ -1,0 +1,4 @@
+band pass ladder filter half sections considering purely
+    reactive half sections general formulae for branch and image
+    impedances and reflectionless interconnections are
+    examined

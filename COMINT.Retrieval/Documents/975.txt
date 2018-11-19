@@ -1,0 +1,3 @@
+a diffraction problem analysis is presented for the case
+    of a plane wave incident normally on an infinitely long
+    perfectly conducting strip

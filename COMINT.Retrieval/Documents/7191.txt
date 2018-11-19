@@ -1,0 +1,5 @@
+concerning the disturbances produced by a body moving in
+    a plasma formulae derived for the disturbance of electron
+    density are used to calculate the effective cross section for
+    the scattering of em waves at this disturbance in particular
+    cases

@@ -1,0 +1,6 @@
+an exploratory assessment of electronic message transfer
+    technology. (phd thesis-cornell university, new york state.)
+    identifies and examines planned and unplanned consequences of
+    electronic message transfer developments in order to help
+    decision makers to anticipate and to plan for contingencies
+    associated with this technology's implementation.

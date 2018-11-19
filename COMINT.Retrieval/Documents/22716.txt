@@ -1,0 +1,9 @@
+a ferromagnetic scaling circuit each incoming pulse
+    triggers the discharge of a capacitor through the primary coil
+    on an iron wire core the maximum voltage of the pulse induced
+    in the secondary depends on the core magnetization and thus on
+    the number of incoming pulses on reaching a preselected level a
+    thyratron is fired and operates a mechanical counter the core
+    being restored to its initial state of magnetization scales of
+    up to are stable in operation design details and theory are
+    discussed

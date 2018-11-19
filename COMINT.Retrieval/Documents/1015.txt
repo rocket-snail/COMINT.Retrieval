@@ -1,0 +1,6 @@
+on the value measurement of information. considers a
+    theoretical mathematical model of information value
+    determination and proposes a criterion for practical
+    information value estimation. shows that such an approach
+    represents a generalisation of the statistical amount of
+    information.

@@ -1,0 +1,6 @@
+a new technique in ferrite phase shifting for beam
+    scanning of microwave antennas in the device described a
+    longitudinal magnetic field is applied to a ferrite rod in a
+    rectangular waveguide excited in the te mode phase shifts of
+    over and variations in transmitted power of less than have been
+    obtained with aa field of oersteds see also of

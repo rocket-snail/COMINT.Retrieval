@@ -1,0 +1,7 @@
+thermally compensated crystal oscillators frequency
+    stability is achieved by using thermistors in a temperature
+    sensitive phase shifting network incorporated in the oscillator
+    circuit a stability of about in is obtained over a wide
+    frequency range without thermostats or ovens it is suggested
+    that even better compensation would be achieved by attaching
+    the thermistor bead to the crystal

@@ -1,0 +1,12 @@
+information and management. demonstrates how recent
+    developments in information management techniques can be used
+    in administration. the importance of information in decision
+    making is discussed with reference to the manager's
+    responsibility for coordinating access to information resources
+    and ensuring that exploitation is cost effective. proposes a
+    practical model for organising an integrated information
+    service, sufficiently flexible to draw on all available
+    existing information networks in an organisation, through a
+    common codification. then discusses codification operations,
+    emphasising the importance of standardisation here if the
+    information system is to function successfully.

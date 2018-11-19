@@ -1,0 +1,3 @@
+high speed counter requiring n carry propagation the
+    method depends on forming complements but the need for
+    complementing the entire register is eliminated

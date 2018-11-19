@@ -1,0 +1,9 @@
+measurement of the current during the formative time lag
+    of sparks in uniform fields in air measurements were made of
+    the current in a parallel plane gap during the period between
+    application of a voltage and occurrence of breakdown the
+    current increased from a few microseconds after application of
+    the voltage to just before breakdown for time lags between and
+    the results are in agreement with previously developed theory
+    except for an observed delay in the initial current rise a
+    possible explanation of this is discussed

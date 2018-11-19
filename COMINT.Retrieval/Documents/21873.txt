@@ -1,0 +1,9 @@
+esusa' us endangered species distribution file. describes
+    a file containing distribution data on endangered species of
+    the usa. included for each species are the common name, the
+    scientific name, the family, the group (mammal, bird, etc.),
+    fish and wildlife service (fws) listing and recovery
+    priorities, the federal legal status, the geographic
+    distribution by counties or islands, federal register citations
+    and the sources of the information on distribution of the
+    species.

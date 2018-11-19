@@ -1,0 +1,3 @@
+measurement of auroral radiation a with a photon counter
+    a copper cathode counter is satisfactory for measuring this
+    radiation

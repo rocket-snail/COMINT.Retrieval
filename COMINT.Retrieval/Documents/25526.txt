@@ -1,0 +1,4 @@
+a note on harmonic analysis of geophysical data with
+    special reference to the analysis of geomagnetic storms the
+    effect of the earths rotation on the determination of magnetic
+    disturbance variations ds and dst is discussed

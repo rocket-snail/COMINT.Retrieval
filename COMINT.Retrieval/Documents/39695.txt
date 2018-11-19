@@ -1,0 +1,9 @@
+a receiver for radio astronomy and some observational
+    results description of a superheterodyne receiver in which the
+    hf amplifier contains two disk seal triode valves in cascode
+    the effective cathode resistance of the second valve being made
+    very high by a simple neutralization circuit a noise factor of
+    has been obtained at radio astronomy observations are described
+    which have been made with this receiver and the parabolic
+    reflector at swingeloo an isophot chart of the sky drawn from
+    these observations is reproduced

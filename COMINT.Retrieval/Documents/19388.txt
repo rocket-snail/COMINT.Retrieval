@@ -1,0 +1,12 @@
+the relation between electrical and diffusion currents a
+    linear relation is derived between the electric current through
+    a conducting gas in a magnetic field and the currents due to
+    diffusion of the charge carriers in the gas from this relation
+    the vertical displacements of the ionosphere e layer due to
+    lunar effects are determined from the current system inferred
+    from the lunar changes of the geomagnetic field both the
+    amplitude and phase of the displacement are consistent with
+    observations if it is assumed that the main lunar current flows
+    in the lower part of the e layer and that approximately equal
+    numbers of ions and electrons are present at the point of
+    observation

@@ -1,0 +1,5 @@
+the representation of multipoles by scattering matrix the
+    scattering matrix is defined and its properties are summarized
+    the application of the matrix to the calculation of multipole
+    networks including quadripoles is detailed with tables giving
+    the matrices of some basic circuits

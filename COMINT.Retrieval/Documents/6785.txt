@@ -1,0 +1,12 @@
+the algebraic theory of linear transmission networks the
+    theory is based on the series combination of two networks with
+    equal numbers of input and output terminals to form a semi
+    group the theory is developed in a series of definitions
+    theorems and proofs fundamental properties of transmission
+    networks are derived and principal types of network are
+    classified by means of a factorization theorem a simple
+    criterion for symmetry can be derived the necessary and
+    sufficient conditions for the existence of a characteristic
+    impedance are determined the theory provides a concise
+    definition and a method of rigorous treatment of the general
+    transmission line

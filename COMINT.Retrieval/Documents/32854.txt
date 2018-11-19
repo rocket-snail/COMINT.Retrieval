@@ -1,0 +1,5 @@
+theory of the trentini absorption grid exact theory is
+    developed for absorption of a normally incident wave by a
+    loaded grid placed near and parallel to a conducting surface
+    the case when a dielectric intermediate layer is present is
+    also considered

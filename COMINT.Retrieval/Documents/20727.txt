@@ -1,0 +1,6 @@
+statistical study in the occurrence of polar blackouts
+    the distributions of radio blackouts in both hemispheres are
+    examined using data at stations in the north and stations in
+    the south the changes of blackout occurrence and times of
+    maximum occurrence frequency with pso position are
+    studied

@@ -1,0 +1,4 @@
+rotating disk function generator for analogue computers a
+    variable radius revolving lamina modulates the light incident
+    upon the cathode of a photomultiplier tube to produce a
+    required voltage time function

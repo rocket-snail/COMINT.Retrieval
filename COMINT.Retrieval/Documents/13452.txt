@@ -1,0 +1,2 @@
+the dual input describing function and its use in the
+    analysis on nonlinear feedback systems

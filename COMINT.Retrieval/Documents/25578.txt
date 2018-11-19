@@ -1,0 +1,3 @@
+a dynamic spectrum analyzer for solar studies the range
+    is swept three times a second in three overlapping bands
+    results appear as a frequency intensity display on film

@@ -1,0 +1,6 @@
+dc amplifiers with negative feedback methods are
+    described for automatically compensating the input impedance of
+    current amplifiers or the input admittance of voltage
+    amplifiers details are given of the design and performance of
+    several circuits for measurement purposes in which very high
+    input impedance with low capacitance is achieved

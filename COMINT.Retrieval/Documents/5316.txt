@@ -1,0 +1,9 @@
+evaluation of the working of a specialised data automated
+    information retrieval system for chemistry. a soviet
+    non-bibliographic information retrieval system for chemistry,
+    ftor, uses a specially developed descriptor language with
+    lexical units that are (1) structural fragments of chemical
+    compounds and (2) those chemical bonds which change during
+    reactions. the precision of retrieval was investigated and
+    found to decrease when the retrieval language was not used
+    properly.

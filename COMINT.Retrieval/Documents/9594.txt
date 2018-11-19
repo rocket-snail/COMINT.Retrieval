@@ -1,0 +1,10 @@
+statistical analysis of radio star scintillation radio
+    star scintillation data are analysed by statistical techniques
+    t find the auto correlation functions and power density spectra
+    of the fluctuations in amplitude and phase interpretation is
+    given in terms of a drifting phase changing screen as
+    postulated by booker ratcliffe shinn of it is shown how the
+    drift velocity of the irregularities in ionospheric electron
+    density that lead to the scintillations as well as the mean
+    square amplitude and phase of the fluctuations may be obtained
+    from these records

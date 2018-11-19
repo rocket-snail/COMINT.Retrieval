@@ -1,0 +1,5 @@
+interstage design for stagger loaded amplifiers a family
+    of low pass butterworth amplifiers each stage having a
+    different load impedance is described the resulting stagger
+    loaded amplifier has high gain and large band width an example
+    shows half power points at and and a mid band gain of

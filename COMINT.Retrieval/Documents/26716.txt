@@ -1,0 +1,15 @@
+the main results of the research project of the
+    automation of the czechosovak sti system as represented in the
+    sutz system within the state information policy programme for
+    years 1976-1980. a survey of the most important results of a
+    5-year research project on the czechoslovak unified automated
+    system of processing and dissemination of sti in connection
+    with automated management information systems and
+    computer-assisted sti systems from abroad. the global topic is
+    divided into several sections, such as systems and design tools
+    (including methodology); standards and unified technologies of
+    computer and reprographic information processing; applied
+    software for sti; and the application of unified means in
+    czechoslovak branch and specialized sti systems. research
+    projects concerning the automatic processing of natural texts
+    in czech are also surveyed.

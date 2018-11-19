@@ -1,0 +1,11 @@
+temperature distribution of the ionosphere under control
+    of thermal conductivity bates theory is extended the energy
+    absorbed in the region is assumed to be conducted downward into
+    a denser region where it is dissipated by infrared emission
+    calculations indicate that the atmosphere is isothermal above
+    about and that there is a very strong temperature gradient
+    between and the temperature in the isothermal region must be
+    assumed to be to meet the requirement for the atmosphere near
+    to support an region the low temperature at is due primarily to
+    the lack of absorbed energy there rather than to the presence
+    of a strongly emitting layer

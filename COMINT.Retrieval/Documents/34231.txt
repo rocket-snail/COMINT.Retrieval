@@ -1,0 +1,5 @@
+lifetime of an artificial russian satellite a simple
+    formula for the calculation of lifetime from data on the
+    initial orbit is given it was applied to observations made at
+    johannesburg of the doppler effect on signals received at from
+    the first russian satellite

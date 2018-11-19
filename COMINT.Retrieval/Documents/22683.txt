@@ -1,0 +1,12 @@
+broadband transistor feedback amplifiers negative
+    feedback amplifiers involving three cascaded common emitter
+    junction transistor stage are discussed with large feedback
+    stability conditions can be determined with sufficient accuracy
+    by considering the forward and return paths of the feedback
+    loop separately the maximum feedback possible without
+    instability depends on the frequency characteristic of the
+    transistor current gain this characteristic can be represented
+    with adequate accuracy by a minimum phase approximation
+    amplifiers with overall gain of and negative feedback of are
+    described in which stability is secured by means of phase
+    advancing networks in the return path

@@ -1,0 +1,5 @@
+a multichannel switch for operation in a microwave
+    circuit description of a rotating disk type of switch for cro
+    display of a rapid succession of pulses picked up by a number
+    of probes arranged at different points along a waveguide
+    passing signals

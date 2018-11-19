@@ -1,0 +1,9 @@
+study of high frequency fluctuations from light sources
+    using phototubes and tuned radio frequency amplifiers
+    observations have been made at frequencies up to using two
+    different amplifiers for the ranges below and above the methods
+    of connecting the photocell to the amplifiers are described the
+    spatial distribution of some types of oscillation along the
+    axis of vapour discharges was investigated attempts to observe
+    fluctuations of light from the sun have been made only during
+    quiet periods and have so far yielded negative results

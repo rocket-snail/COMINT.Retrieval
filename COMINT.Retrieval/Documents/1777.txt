@@ -1,0 +1,6 @@
+electromechanical quadripoles as coupling filters the
+    equivalent circuits of mechanical resonators and
+    electromechanical transducers are derived and the design of
+    band pass filters consisting of input and output
+    electromechanical transducers coupled by a mechanical
+    transmission line is described

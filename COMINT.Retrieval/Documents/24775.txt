@@ -1,0 +1,5 @@
+vacuum tube circuits without plate supplies the existence
+    of thermal emf and contact potential makes circuit operation
+    possible with out application of voltage to valve anodes a
+    limiter a low gain amplifier a multivibrator and an oscillator
+    circuit are described

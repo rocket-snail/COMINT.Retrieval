@@ -1,0 +1,7 @@
+the absorption of centimetre electromagnetic waves in
+    artificially anisotropic media two methods of equalizing the
+    complex permeability and dielectric coefficient of a medium to
+    obtain absorption at are discussed in one case the medium
+    consists of thin parallel layers in the other use is made of
+    gyromagnetic resonance in ferrite material subjected to a
+    static magnetic field experimental results are given

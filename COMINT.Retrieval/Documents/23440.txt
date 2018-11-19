@@ -1,0 +1,4 @@
+transistor amplifiers with feedback analysis of the
+    properties of transistor amplifiers using the parameters
+    feedback circuits with special characteristics are reviewed
+    over references

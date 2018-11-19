@@ -1,0 +1,3 @@
+extension of nose whistler analysis a method of analysis
+    is described which gives the nose frequency and the time delay
+    to the nose when the nose is not directly observable

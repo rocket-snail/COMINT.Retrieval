@@ -1,0 +1,6 @@
+certain applications of matrices to circuit theory
+    matrices can be constructed for circuits so that their
+    eigenvalues and vectors relate to the circuit parameters
+    propagation constants characteristic impedances and symmetrical
+    components in polyphase systems are considered from this point
+    of view

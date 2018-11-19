@@ -1,0 +1,3 @@
+sunspot and geomagnetic storm data derived from greenwich
+    observations includes explanatory notes and literature
+    references and some diagrams

@@ -1,0 +1,6 @@
+analysis of the variation of e and index of solar
+    activity it is assumed that for both the diurnal and annual
+    changes in the critical frequency is proportional to cos the
+    values of are extrapolated to for several stations and an
+    empirical relation between the values for and the sunspot
+    number is derived

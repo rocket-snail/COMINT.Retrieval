@@ -1,0 +1,7 @@
+the mean free path of conduction electrons in bismuth
+    experimental results for bi single crystals are given from
+    which it is concluded that in agreement with the suggestion of
+    sondheimer of the mean free path of the conduction electrons in
+    bi is much longer than in normal metals and that for electrons
+    travelling perpendicular to the triad axis the path length is
+    probably in the range at room temperature

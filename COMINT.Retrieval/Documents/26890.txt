@@ -1,0 +1,8 @@
+intensities of discrete radio sources in cygnus and
+    cassiopeia at measured intensities are and for the sources in
+    cassiopeia and cygnus respectively comparison with intensities
+    measured previously at higher frequencies indicates that in the
+    spectrum of the cassiopeia source intensity is proportional to
+    frequency the variation in the cygnus source being similar
+    except at lower frequencies where the rate of increase of
+    intensity is reduced

@@ -1,0 +1,6 @@
+how to generate accurate sawtooth and pulse waves two
+    circuits giving stable sawtooth and rectangular pulse outputs
+    are described in which a high speed switching transistor is
+    controlled by a zener diode pulse width and amplitude and
+    waveform timing are independent of active elements in the
+    circuit

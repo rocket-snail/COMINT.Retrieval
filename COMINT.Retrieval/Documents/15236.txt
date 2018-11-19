@@ -1,0 +1,4 @@
+restoration in the presence of errors a discussion of the
+    relationship between observed aerial temperatures and the true
+    distribution of a celestial source techniques for allowing for
+    certain errors are described

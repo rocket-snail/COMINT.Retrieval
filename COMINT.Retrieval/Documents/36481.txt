@@ -1,0 +1,5 @@
+statistical spectral output of powerlaw nonlinearity
+    methods are given for calculating the output power and the
+    error power for nonlinearities which can be described by power
+    series for gaussian and for certain other special kinds of
+    input signals

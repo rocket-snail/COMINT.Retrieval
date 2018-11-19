@@ -1,0 +1,9 @@
+the practice of operations research in libraries. the
+    application of operations research methods to library-type
+    problems has a long history which predates the formation of the
+    operations research society. its practice continues today but
+    much of its emphasis has shifted from concern with the specific
+    problems of a librarian or a library manager to the more
+    general problems of designing large information networks and
+    satisfying the information needs of large classes of users
+    through a variety of services.

@@ -1,0 +1,6 @@
+resistance as dissipation into many reactive circuits
+    landau damping and nyquists noise theorem nonradiative
+    dissipation is not a loss of energy but its dispersal into a
+    large number of degrees of freedom resistance can be simulated
+    by purely reactive elements this lead to an understanding of
+    landau damping and nyquists noise theorem

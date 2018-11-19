@@ -1,0 +1,4 @@
+a method for generating signals of arbitrary yet
+    frequency independent phase differences two balanced peak
+    detectors are used the phase difference remains constant over a
+    range

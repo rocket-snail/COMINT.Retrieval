@@ -1,0 +1,7 @@
+proposed negative mass microwave amplifier it is pointed
+    out that negative masses occur in semiconductors at energies
+    close to the band edge if the energy contours are reentrant
+    there it is suggested that such a semiconductor might be used
+    as the active element in a microwave amplifier although
+    preliminary experiments with germanium did not show the effect
+    see also of

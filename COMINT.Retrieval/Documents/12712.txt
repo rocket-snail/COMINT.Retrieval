@@ -1,0 +1,7 @@
+sideband correlation of lunar and echo satellite
+    reflection signals in the range measurements are described and
+    records of signal variation are illustrated with lunar
+    reflections a correlation of was obtained between sidebands
+    with separation the correlation of signals reflected from echo
+    baloon with sideband separation was better than that of lunar
+    reflections with separation

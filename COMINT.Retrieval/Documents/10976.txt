@@ -1,0 +1,9 @@
+the radio echo from the head of meteor trails
+    calculations based on diffraction theory give values for the
+    intensity of head echoes in agreement with observation and also
+    indicate that the ratio between the intensity of the head echo
+    and that of a specularly reflected body echo should be
+    proportional to the radio wavelength and inversely proportional
+    to the difference in range between these echoes other anomalous
+    meteor echoes may arise from discontinuities associated with
+    visual flares

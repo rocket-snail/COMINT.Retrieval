@@ -1,0 +1,6 @@
+latching counters the causes of low reliability of single
+    pulse counter chains are examined a circuit with a multiphase
+    output is described which has a frequency range from d c to and
+    eliminates spurious pulses reset facilities and general design
+    features including the use of transistor circuits are
+    discussed

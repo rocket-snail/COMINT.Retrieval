@@ -1,0 +1,12 @@
+a nonlinear statistical filter a method is described for
+    using the statistical differences between a periodic
+    rectangular pulse the wanted signal and the envelope of
+    fluctuation noise the interfering signal for the purpose of
+    discriminating between the two signals expressions are derived
+    for the density distribution probability of noise and of signal
+    plus noise a description is given of a practical filter which
+    was checked experimentally under conditions when the signal was
+    completely masked by the noise both aurally and visually but
+    could be reliably detected by means of the statistical filter
+    possible application to secret transmission systems is
+    discussed

@@ -1,0 +1,7 @@
+co-authorship as communication measure. the entropy
+    measure for information for determining the contribution made
+    by authors in a communication system is refined and applied.
+    highly collaborative authors are found to be highly prolific.
+    in computational musicology, however, productivity does not
+    imply collaboration, lending credence to the traditional belief
+    that humanists tend to work alone.

@@ -1,0 +1,7 @@
+measurements of lunar reflectivity using the millstone
+    radar highly stable coherent pulse measurements made at mc s
+    enable range doppler frequency contours to be plotted for the
+    rotating moon a precision of two parts in ten for the observed
+    doppler frequency has been obtained a number of measurements
+    are described substantial echoes are observed out to the lunar
+    limbs

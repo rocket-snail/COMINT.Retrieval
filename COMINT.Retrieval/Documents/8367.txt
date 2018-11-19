@@ -1,0 +1,18 @@
+minicomputers and available packages. developments in the
+    computer field in recent years are described with particular
+    emphasis on the facilities available for the mechanisation of
+    library and information tasks. with the development of
+    minicomputers a new era opened up for information workers but a
+    major problem had to be overcome, namely the lack of suitable
+    software to provide those facilities. following the
+    introduction of ibm's stairs program for information storage
+    and retrieval on a large mainframe computer, similar programs
+    soon became available for use on the range of minicomputers
+    which had started to penetrate the market. many were specially
+    commissioned for library and information use; discusses cairs
+    and status. a major breakthrough came with the introduction of
+    word processors, particularly the programmable shared logic
+    systems. manufacturers started to produce specific software
+    packages, including information storage and retrieval programs,
+    for this type of equipment. examples of relevant hardware and
+    software and various applications are given.

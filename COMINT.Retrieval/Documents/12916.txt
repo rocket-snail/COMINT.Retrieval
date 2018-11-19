@@ -1,0 +1,8 @@
+energy conversion mechanism in a bounded magnetized
+    current carrying plasma for a finite plasma coupling exists
+    between quasi transverse em waves and quasi longitudinal space
+    charge waves this can lead to an energy transfer between the
+    kinetic energy of drifting plasma and em energy this mechanism
+    may be useful for heating a thermonuclear plasma using the
+    runaway electrons certain types of clf radio noise can als be
+    explained

@@ -1,0 +1,3 @@
+background noise in nonlinear oscillators an examination
+    of the effects on self excited oscillators of wide bead noise
+    at or near the frequency of oscillation

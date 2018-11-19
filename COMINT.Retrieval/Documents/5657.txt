@@ -1,0 +1,4 @@
+induced and spontaneous emission in a coherent field
+    previous theoretical work on the interaction of molecules and
+    em fields in a resonant cavity is extended to take account of
+    large perturbations

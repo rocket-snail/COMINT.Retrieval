@@ -1,0 +1,3 @@
+quantitative analysis of a nonlinear second order
+    differential equation of a self oscillating system with a
+    limited increment region

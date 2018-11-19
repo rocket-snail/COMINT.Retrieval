@@ -1,0 +1,8 @@
+a classification scheme for local government documents
+    collections. the university of dayton's roesch library required
+    a classification scheme for its local documents collection. it
+    needed a scheme that would assign each title a unique call
+    number. existing schemes were examined but rejected. a new
+    alphanumeric scheme was devised. it is intended primarily for
+    collections limited to publications from the government and
+    civic organisations of no more than several counties.

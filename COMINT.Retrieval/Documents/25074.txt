@@ -1,0 +1,19 @@
+the complete specification of a network by a single
+    parameter if the transfer function of a linear passive network
+    is defined as the output response divided by the input driving
+    force it can be written in iether polar of cartesian form where
+    is the amplitude response is the phase characteristic is the in
+    phase component and is the quadrature component the transient
+    response to a unit step function can be determined within a
+    constant from either alone and are all related and any one can
+    be used to compute the other two the derivation of these
+    relations is valid for networks with either distributed or
+    lumped constants including transducers and the question of
+    minimum phase does not arise a graphic method is described for
+    computing from either and universal curves are included
+    equipment is described which sweeps or a polar plot of and
+    directly an intensity frequency marker circuit is included
+    which produces multiple harmonically related dots on the sweep
+    response it is also possible to sweep the departure from phase
+    linearity by a heterodyne process the sweep can be used on low
+    pass or band pass systems

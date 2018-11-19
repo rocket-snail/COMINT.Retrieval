@@ -1,0 +1,5 @@
+self oscillation in a transmission line with a tunnel
+    diode a theoretical analysis of the circuit is given together
+    with experimental results the self oscillation can be explained
+    as a periodic solution of the linear wave equation with a
+    nonlinear boundary condition

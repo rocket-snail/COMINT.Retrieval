@@ -1,0 +1,3 @@
+electromechanical filters for use in telecommunication
+    equipment includes descriptions of construction and performance
+    of reed type magnetostrictive and piezoelectric filters

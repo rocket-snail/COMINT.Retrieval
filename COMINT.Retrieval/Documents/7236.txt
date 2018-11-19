@@ -1,0 +1,3 @@
+transistorized photomultiplier has resolution description
+    of high sensitivity photomultiplier circuit for use in a
+    scintillation counter

@@ -1,0 +1,4 @@
+formation of the sporadic e layer in the temperate zones
+    an extension of work described earlier of to include regions
+    where the gyro frequency of the ions is less than their
+    collision frequency

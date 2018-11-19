@@ -1,0 +1,5 @@
+diffraction of a plane wave by an almost circular
+    cylinder the two dimensional problem of an incident e plane
+    wave is treated the method of solution is based on infinite
+    fourier transform techniques an analysis involving a watson
+    transform is also given in an appendix

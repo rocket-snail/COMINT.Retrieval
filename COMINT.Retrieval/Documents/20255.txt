@@ -1,0 +1,8 @@
+the anomalous skin effect in anisotropic metals
+    application of the ineffectiveness concept of leads to the same
+    answer as a sondheimers exact method above for spheroidal fermi
+    surfaces and for a two dimensional isotropic metal a complete
+    solution for the general case is given in a form which
+    illustrates the potential value of anomalous skin effect
+    studies as a tool in determining the shape of the fermi surface
+    of a real metal

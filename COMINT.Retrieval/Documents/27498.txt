@@ -1,0 +1,4 @@
+micro module design progress details are given of the
+    application of a modular technique in the construction of a
+    complete prototype communication receiver and certain digital
+    circuits for multiplex equipment

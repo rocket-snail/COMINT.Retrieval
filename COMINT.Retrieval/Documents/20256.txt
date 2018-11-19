@@ -1,0 +1,6 @@
+the physical principles of a negative mass amplifier
+    negative effective masses for relatively low energies may be
+    obtained if the energy contours are reentrant near the edge of
+    the frequency band as in the case for heavy holes in germanium
+    and certain other semiconductors with degenerate band edges
+    operation at frequencies up to mm is envisaged

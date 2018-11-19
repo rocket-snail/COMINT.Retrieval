@@ -1,0 +1,5 @@
+twin cavity for nh masers a system of two coupled
+    cavities is described replacing the single cavity of an nh
+    maser using this system the curve of the oscillation frequency
+    against cavity temperature presents a plateau thus reducing
+    considerably the pulling effects of the cavity

@@ -1,0 +1,6 @@
+electroacoustic coupling at the boundary of an ionized
+    medium an analysis is developed to explain the production of a
+    reflected sound wave and a transmitted modified sound wave at
+    the boundary of an ionized medium when an em wave is incident
+    at the boundary in the presence of a transverse magnetic
+    field

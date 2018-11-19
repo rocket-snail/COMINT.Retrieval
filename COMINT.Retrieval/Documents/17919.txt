@@ -1,0 +1,13 @@
+intensity and polarization of electromagnetic waves
+    diffracted at a slit part diffraction of electromagnetic waves
+    at a slit is investigated under the supposition that the
+    electric field vector is perpendicular to the slit edges
+    magnetic case this supplements the investigation of the same
+    problem for the case where the electric field vector is
+    parallel to the slit edges electric case of and the combination
+    of both cases makes it possible to calculate the intensity and
+    polarization of the wave field for incident polarized and
+    unpolarized radiation in the case of very narrow slits to which
+    the fresnel kirchhoff theory is no longer applicable the
+    electric component normal to the slit edges is determinative
+    for the diffracted field

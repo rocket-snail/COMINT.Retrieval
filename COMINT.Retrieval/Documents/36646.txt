@@ -1,0 +1,4 @@
+the role of phonons in paramagnetic relaxation theory is
+    given for the coupled spin lattice bath system with
+    nonequilibrium phons experiments fail to indicate the presence
+    of such phonons

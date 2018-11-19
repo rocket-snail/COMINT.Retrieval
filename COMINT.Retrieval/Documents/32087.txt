@@ -1,0 +1,5 @@
+tiros radiation experiment and its physical significance
+    the five channel radiometer which scans the earth by satellite
+    rotation is described a mz map of the radiation received by the
+    channel sensitive to wavelength is compared with a conventional
+    weather chart

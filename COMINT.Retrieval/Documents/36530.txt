@@ -1,0 +1,5 @@
+a variable multiple pulse stream generator apparatus
+    designed for checking the logic of electronic computer circuits
+    which require numerous pulse streams for their operation is
+    described the electrostatic pickup described previously of is
+    used

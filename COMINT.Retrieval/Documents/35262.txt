@@ -1,0 +1,13 @@
+comparative analysis of hardware versus software text
+    seach. presents a hybrid approach to data base text searching,
+    using the best features of inversion and streaming searching
+    techniques to minimise data flow and obtain complete functional
+    capability. the query is broken into 2 parts based upon the
+    existence of terms (offensive terms) having leading or imbedded
+    'don't cares'. those documents satisfying the part of the query
+    without offensive terms are identified via inversion. these
+    documents are accessed and the offensive terms are searched for
+    via streaming. discusses the results of the 1st set of
+    simulation runs in which the experimenters performed
+    sensitivity analysis on machine processing power and % of terms
+    with leading variable-length 'don't cares'.

@@ -1,0 +1,4 @@
+control pulse generation for a digital differential
+    analyser circuit details are given of a transistorized unit
+    which generates control pulses by a pulse division method
+    involving some unusual processes

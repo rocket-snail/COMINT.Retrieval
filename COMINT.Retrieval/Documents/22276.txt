@@ -1,0 +1,6 @@
+amplitude distribution for radio signals reflected by
+    meteor trails part vhf signals are propagated to distances of
+    by reflection from meteor trails a probability distribution for
+    the envelope of the received signal is derived for the case of
+    reflections from numerous small meteors coincident with
+    residual signals from infrequent large meteors

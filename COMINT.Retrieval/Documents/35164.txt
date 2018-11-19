@@ -1,0 +1,6 @@
+piezoelectric excitation of quartz oscillators operating
+    in the thickness mode by means of a parallel field the parallel
+    field excitation of at and bt cut crystals is considered and
+    its advantages are discussed equivalent circuits are given of
+    two experimental oscillators for and using cut quartz crystal
+    resonators

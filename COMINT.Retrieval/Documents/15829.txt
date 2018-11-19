@@ -1,0 +1,3 @@
+a z transform describing function for on off type sampled
+    data systems the derivation of the function for a sinusoidal
+    error signal is fully described

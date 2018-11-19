@@ -1,0 +1,11 @@
+analysis and coding of generic chemical formulae in
+    chemical patents. presents a formal linguistic approach to the
+    representation of generic chemical formulae in chemical
+    patents, within the context of use of the alwin line-formula
+    notation (an algorithmic version of the wiswesser line
+    notation). the objective of the representation is to permit
+    searches for specific structures and for substructures which
+    are included within the generic expression. the relevance of
+    pattern analysis methods to this problem is highlighted and
+    preliminary suggestions on algorithm development are put
+    forward.

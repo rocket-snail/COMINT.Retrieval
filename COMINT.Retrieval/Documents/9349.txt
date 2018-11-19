@@ -1,0 +1,5 @@
+the equilibrium states of a bistable flip flop from the
+    point of view of reliable and stable operation the influence of
+    individual components on the functioning of the eccles jordan
+    circuit is discussed and permissible tolerances for given
+    performance are determined

@@ -1,0 +1,8 @@
+distortion of a frequency modulated wave passing through
+    a mismatched quaripole analysis is based on the transfer
+    coefficient of the network and a formula is derived for
+    nonlinear distortion in the general case from this the
+    percentage of odd and even harmonics generated and the upper
+    limit of the distortion factor can be determined application of
+    the formula in the case of transmission lines is
+    illustrated

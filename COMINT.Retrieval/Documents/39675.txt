@@ -1,0 +1,10 @@
+charge densities in the ionosphere from radio doppler
+    data a method is described whereby the directly observable
+    radial velocities of a missile relative to a ground receiver
+    both in a radio doppler electronic system of tracking may be
+    compared to radial velocities determined by vacuum trajectory
+    formulae and the differences converted to ionization densities
+    at the levels through which the rocket is passing this method
+    was used to compute ion densities for several missiles fired at
+    the white sands proving ground new mexico results gave density
+    maximums of

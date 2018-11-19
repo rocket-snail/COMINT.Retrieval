@@ -1,0 +1,4 @@
+a multipurpose computer element a long tailed pair
+    waveform reshaper is described which in conjunction with a
+    number of logical gates can be used as a basic element in
+    computer design

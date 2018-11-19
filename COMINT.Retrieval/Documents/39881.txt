@@ -1,0 +1,5 @@
+the hall effect and related phenomena a brief review is
+    presented of recent work on the theory of the hall effect in
+    ferromagnetic in strongly paramagnetic and in semiconducting
+    materials practical applications of the effect such as in the
+    power amplifier are also mentioned

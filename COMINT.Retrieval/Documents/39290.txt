@@ -1,0 +1,3 @@
+the stability of the hour satellite perturbations of the
+    orbit by the sun earth and particularly the moon are
+    investigated using a method of numerical integration

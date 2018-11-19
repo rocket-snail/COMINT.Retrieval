@@ -1,0 +1,3 @@
+library handbook. the purpose of this publication is to
+    describe the resources of the u.s. army infantry school
+    library.

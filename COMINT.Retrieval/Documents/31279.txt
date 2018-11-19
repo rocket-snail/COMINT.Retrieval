@@ -1,0 +1,6 @@
+a method of reducing the time lag of transducers which
+    have an exponential response the response of a transducer such
+    as a thermocouple is corrected for phase and amplitude by
+    adding its output voltage to its amplified derivative details
+    of a drift corrected dc amplifier and highly stable power
+    supply are given

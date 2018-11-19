@@ -1,0 +1,7 @@
+low cost variable phase shifter the basis of the circuit
+    is a linear resistance potentiometer divided by tappings into
+    four equal sections neighbouring sections being fed by a pair
+    of transformer secondaries with voltages phase separated by the
+    value of the potentiometer resistance is not critical providing
+    it is large compared with the impedance of the transformer
+    secondaries

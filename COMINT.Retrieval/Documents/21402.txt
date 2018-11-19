@@ -1,0 +1,4 @@
+two magnon processes in ferromagnetic relaxation a theory
+    is developed from the assumption that all magnons of equal
+    energy are so tightly coupled that they may be considered as a
+    unit in any process involving degenerate magnons

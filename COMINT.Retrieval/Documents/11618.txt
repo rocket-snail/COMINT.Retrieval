@@ -1,0 +1,9 @@
+the coefficient of diffusion of ions in the f regions the
+    application of sutherlands molecular model to the f region
+    gives too large a coefficient of diffusion if recent rocket
+    estimates of f layer molecular density are correct if langevins
+    formula for the diffusion coefficient is used instead the
+    discrepancy is less but for an f region in which diffusion is
+    in inappreciable calculated values of the coefficient are still
+    about times too large possible influencing factors are
+    discussed

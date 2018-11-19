@@ -1,0 +1,5 @@
+the cold cathode gas diode an outline is given of
+    technique used to improve the diode characteristics involving
+    aging by application of voltage pulses basic circuits using
+    these diodes as computer elements for gating storage etc are
+    described

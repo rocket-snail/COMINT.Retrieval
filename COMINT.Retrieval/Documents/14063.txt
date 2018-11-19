@@ -1,0 +1,4 @@
+transient response of bandpass filters to modulated
+    signals laurents low pass band transformation is used with
+    suitable approximations to obtain the response to a suddenly
+    applied carrier the derived filter is analysed

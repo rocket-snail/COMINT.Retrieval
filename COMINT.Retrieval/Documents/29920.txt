@@ -1,0 +1,5 @@
+a fatigue test for printed wiring boards and through
+    connections a krouse flat plate fatigue testing machine was
+    modified to take the larger specimens to be examined typical
+    test data are presented in the form of strain cycle life
+    diagrams

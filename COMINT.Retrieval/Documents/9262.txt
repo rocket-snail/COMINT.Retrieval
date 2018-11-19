@@ -1,0 +1,4 @@
+new horizons in computing a report of some of the
+    computer engineering techniques which were described in papers
+    read at the international conference on information processing
+    held in paris

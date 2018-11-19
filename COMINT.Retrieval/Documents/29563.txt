@@ -1,0 +1,11 @@
+a new method of synthesis of reactance networks since the
+    chain matrix of a cascade combination of quadripoles is the
+    product of the individual chain matrices and since synthesis of
+    a complicated network by the insertion loss method involves
+    obtaining a number of simple sections to be connected in
+    cascade the chain matrix is chosen for this purpose a method of
+    factorizing any relizable chain matrix into two such matrices
+    of lower order is presented repeated factorizationsections
+    simple enough to be synthesized the method involves only simple
+    algebra and a new theorem concerning reactance and impedance
+    functions

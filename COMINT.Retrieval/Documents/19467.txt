@@ -1,0 +1,12 @@
+an investigation of the nonlinear distortion of a
+    quadripole using a continuous spectrum signal fo measuring the
+    nonlinear distortion introduced by an af transmission system it
+    is necessary to use a continuous spectrum of frequencies with a
+    given shape of the envelope relations are derived from which it
+    is possible to calculate the spectra at the output of certain
+    nonlinear systems for input signals covering a continuous band
+    of frequencies and having envelopes represented by an
+    exponential function or a difference between two exponential
+    functions as compared with tests using one or two spot
+    frequencies the results so obtained are more in accordance with
+    results of subjective listening tests

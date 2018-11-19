@@ -1,0 +1,5 @@
+cavity method for measurement of high electron densities
+    in plasmas conventional microwave cavity techniques may be used
+    to measure electron densities considerably above that
+    corresponding to plasma resonance at tht the particular
+    microwave frequency employed

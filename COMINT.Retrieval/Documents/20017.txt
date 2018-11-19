@@ -1,0 +1,4 @@
+multiple feedback audio amplifier the power output of the
+    williamson circuit is increased and the power supply
+    requirements reduced by using tetrode output valves with anode
+    to grid feedback

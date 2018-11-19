@@ -1,0 +1,3 @@
+design problems of multivibrators design calculations for
+    free running and for cathode coupled and anode coupled
+    monostable multivibrator circuits are discussed

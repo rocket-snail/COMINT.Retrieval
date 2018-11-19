@@ -1,0 +1,11 @@
+on multipole expansions in the theory of electromagnetic
+    radiation a new method is developed for expanding the
+    electromagnetic field of radiating charges and currents in
+    multipole components outside a sphere enclosing all sources the
+    field is represented in terms of debye potentials which are
+    shown to be closely related to the radial components of the
+    electric and magnetic vectors attention is drawn to remarkably
+    simple source representations of these radial components a
+    discussion of vector potential versus debye potential
+    representation of multipole fields is included only familiarity
+    with ordinary vector calculus is required

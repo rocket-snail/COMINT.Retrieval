@@ -1,0 +1,5 @@
+electrodynamics of turbulent ionized media the scattering
+    of power in a turbulent ionized medium is discussed to be
+    applicable for arbitrary values of electron density analysis
+    should take account of multiple scattering suitably modified
+    forms of naviers equations are indicated

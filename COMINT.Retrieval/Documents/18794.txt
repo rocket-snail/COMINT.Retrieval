@@ -1,0 +1,8 @@
+non-print media-audio hardware and software. traces the
+    development of audio hardware for commercial purposes and the
+    cost-effective trade-offs from the technology which have been
+    used in its adaptation for the print handicapped. briefly
+    discussed are methods used in software preparation' high volume
+    for libraries, medium volume for academic use and low volume
+    for special information materials for private
+    individuals.

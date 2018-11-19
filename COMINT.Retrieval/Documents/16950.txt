@@ -1,0 +1,9 @@
+display of text on television. a videotex service whereby
+    the general public will be able to access various kinds of
+    information from central data bases displays textual and
+    graphical information on television receivers. technical and
+    graphic design problems related to the display of such
+    information on a colour television are addressed. the results
+    of several studies concerned with the display of text are
+    described, and the relative merits of red-green-blue versus
+    composite video input are discussed.

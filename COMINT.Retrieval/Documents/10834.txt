@@ -1,0 +1,5 @@
+theory of internal field emission difficulties in the
+    solution of the schrodinger equation in the quantum mechanical
+    treatment of internal field emission are avoided by the use of
+    bloch functions instead of those based on houstons
+    theory

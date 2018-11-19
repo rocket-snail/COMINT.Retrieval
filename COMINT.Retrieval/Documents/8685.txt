@@ -1,0 +1,4 @@
+steady state analysis of self saturating magnetic
+    amplifiers based on linear approximations of the magnetization
+    curve a method is described for predicting the output currents
+    of self saturating magnetic amplifiers

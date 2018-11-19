@@ -1,0 +1,7 @@
+optimal distributed routing in data-communication
+    networks. a model is developed for routing in data
+    communication networks. it gives rise to a routing algorithm
+    that can be implemented in a distributed fashion and
+    furthermore has the properties of being loop-free, reducing the
+    delay in the network at each step, and converging to optimal
+    minimum delay routing.

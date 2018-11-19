@@ -1,0 +1,4 @@
+audio nomographs charts are presented for designing a
+    pentode af amplifier to have desired gain and bandwidth the
+    method involves the use of separate equivalent circuits for the
+    upper middle and lower parts of the frequency band

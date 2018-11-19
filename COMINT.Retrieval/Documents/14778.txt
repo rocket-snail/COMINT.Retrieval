@@ -1,0 +1,10 @@
+atmospheric scale height as a modifying influence on
+    linear trend of region electron density with sunspot number
+    twelve month running average values of noon maximum electron
+    density and true height of the layer at christchurch are
+    plotted against twelve month running average sunspot numbers
+    for the period a departure from linearity is apparent above a
+    sunspot number of it is suggested that increases in scale
+    height near the sunspot maximum were large enough to modify the
+    increase in the rate of ion production with a consequent
+    relative decrease in maximum electron density

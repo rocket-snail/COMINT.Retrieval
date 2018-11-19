@@ -1,0 +1,10 @@
+large reduction of free electromagnetic oscillations in
+    cylindrical regions due to slight departures from cylindricity
+    a theoretical investigation of the effect of small deformations
+    on long cylindrical resonators with perfectly conducting walls
+    the diminution of the field is proportional to the product of
+    the relative distortion and the square of the ratio of the
+    length of the cylinder to its radius standard mathematical
+    notation is used and the expressions for are given in terms of
+    bessel functions and the function which is defined as the root
+    of j

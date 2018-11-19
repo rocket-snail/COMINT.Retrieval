@@ -1,0 +1,14 @@
+experiments and analysis on a computer interface to an
+    information retrieval network. a primary goal of this project
+    was to develop an interface that would provide direct access
+    for inexperienced users to existing on-line bibliographic
+    information retrieval networks. the experiment tested the
+    concept of a virtual-system mode of access to a network of
+    heterogeneous interactive retrieval systems and data bases. an
+    experimental translating computer interface named conit was
+    developed as a research test vehicle. the interface was
+    designed to make the basic functions of 3 different
+    bibliographic retrieval systems easy to use, even by
+    inexperienced users, by providing a simplified common command
+    language coupled with extensive on-line instruction. report not
+    available from ntis.

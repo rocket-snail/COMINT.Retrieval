@@ -1,0 +1,12 @@
+multiple coincidence magnetic storage systems in existing
+    magnetic matrix storage systems a given location is selected by
+    applying to two intersecting wires a current equivalent to one
+    half of the selecting field this situation is generalized so
+    that any core is selected by energizing wires each with a
+    current equivalent to of the selecting field the advantages
+    gained are in the correspondingly smaller fields applied to the
+    nonselected cores or alternatively in the faster switching
+    times obtainable by applying a total field greater than the
+    coercive force to the selected core specifically a storage
+    matrix is illustrated in which the cores are toroids etched
+    from a continuous sheet of magnetic material

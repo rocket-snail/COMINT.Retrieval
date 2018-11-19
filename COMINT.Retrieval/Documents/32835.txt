@@ -1,0 +1,4 @@
+stable local oscillator for s band radar a continous
+    frequency range of is obtained using six crystal oscillators
+    tunable over over lapping ranges of the desired output
+    frequency is obtained by means of harmonic amplifiers

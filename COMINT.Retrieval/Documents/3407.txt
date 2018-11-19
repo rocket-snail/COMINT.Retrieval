@@ -1,0 +1,4 @@
+development of an absorber for electromagnetic waves
+    theory is given relative to the design of mesh networks
+    suitable for screening electrical equipment from em radiation
+    within a specified frequency band

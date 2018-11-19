@@ -1,0 +1,11 @@
+oclc search key usage in a large research library. many
+    libraries use the oclc online union catalog and shared
+    cataloging subsystem to perform various library functions, such
+    as acquisitions and cataloguing. as an initial part of the
+    operation, users must search and retrieve a bibliographic
+    record for an item from the large oclc data base. various types
+    of derived search key are available for retrieval. this study
+    of actual search keys entered by on-line users of oclc was
+    conducted to determine the types of search key users prefer for
+    performing various library operations and to find out whether
+    the preferred search keys are effective.

@@ -1,0 +1,8 @@
+on information equivalence of data bases. uses an
+    algebraic approach to explain the concept of relational data
+    bases. a query language based on predicate calculus, a query
+    algebra, an algebraic structure on the set of classes of
+    equivalent formulae, and a corresponding relational algebra are
+    constructed. in terms of these, definitions are given for data
+    base scheme and subscheme, the equivalence of subschemes of
+    different users, and data base state.

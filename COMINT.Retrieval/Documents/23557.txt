@@ -1,0 +1,6 @@
+the bbc ionospheric storm warning system the various data
+    on which the bbc warning system is based are noted and a
+    statistical review is presented of the correlation between
+    actual and forecast ionospheric conditions in the period the
+    accuracy of the forecasts during this period was of the order
+    of

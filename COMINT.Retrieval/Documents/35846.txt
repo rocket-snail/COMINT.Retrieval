@@ -1,0 +1,7 @@
+calculations and measurements for the optimum design of
+    low noise transistor amplifiers the conditions for making the
+    transistor noise factor a minimum are calculated for white
+    noise equations are given for the most favourable combination
+    of source impedance and emitter current measurements were made
+    of these optimum values as a function of various transistor
+    parameters and of temperatures

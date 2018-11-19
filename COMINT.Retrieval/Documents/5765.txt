@@ -1,0 +1,10 @@
+numerical calculation of filter circuits with tchebycheff
+    characteristics after the method of w cauer formulae for
+    tchebycheff type filters are derived from those previously
+    given for filters with generalized parameters of three types of
+    antimetrical filter are considered the formulae necessary for
+    numerical calculation of both symmetrical and antimetrical
+    normalized filters are derived and applied to examples by
+    suitable frequency transformation the normal type of
+    tchebycheff filter can be dealt with a complete set of curves
+    is provided for evaluation of the required parameters

@@ -1,0 +1,6 @@
+branched filters the theories of cauer and piloty
+    relating to constant impedance branched networks are
+    supplemented and applied using image attenuation functions
+    instead of cauers insertion loss function an eight terminal
+    network using two low pass and two high pass filters without a
+    differential transformer is described

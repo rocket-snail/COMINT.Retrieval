@@ -1,0 +1,5 @@
+the effect of reaction on the gain of nonlinear
+    amplifiers an analysis in which it is shown that in certain
+    conditions the nonlinear differential equation may be reduced
+    to a linear equation of infinite order with constant
+    coefficients

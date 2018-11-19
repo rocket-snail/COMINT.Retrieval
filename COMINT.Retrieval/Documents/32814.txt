@@ -1,0 +1,5 @@
+gaussian response filter design exact data are given for
+    the design of both low and band pass filters having
+    characteristics which are nth order approximations to the
+    perfect gaussian amplitude response n being the number of
+    elements in the complete filter

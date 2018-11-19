@@ -1,0 +1,3 @@
+weak field nuclear magnetic resonance maser description
+    of an instrument for nuclear magnetic resonance investigations
+    based on proton spin resonance in circulating benzene

@@ -1,0 +1,13 @@
+the inhouse solution for document processing and
+    retrieval by axp. with idor-inhouse document online
+    retrievalsystem-a self-supporting and complete technology of
+    document processing, is introduced. this new technology offers
+    the usual convenience of minicomputers with the speed of
+    processing of mainframes. this is accomplished by the
+    implementation of a special firmware-product, the axp-associate
+    crosspoint processor. axp compares the contents of the data
+    bank at transfer-rates up to 1.2 megabytes per second with
+    8,192 bytes of parallel query term memory. the normal effort of
+    the input-processing in this system brings with it the
+    additional advantages of further processing such as retrieval,
+    correction, updating etc.

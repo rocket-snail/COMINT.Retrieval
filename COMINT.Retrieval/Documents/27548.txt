@@ -1,0 +1,5 @@
+a new high speed digital technique for computer use
+    square loop ferrite cores and transistors are used operating at
+    digit rates of only two low voltage dc supplies are required
+    and the system is not critically dependent on voltage and
+    component variations

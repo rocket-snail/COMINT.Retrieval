@@ -1,0 +1,3 @@
+resistance potentiometers as function generators the
+    generation of functions of a single variable by means of
+    resistance potentiometers is reviewed see also

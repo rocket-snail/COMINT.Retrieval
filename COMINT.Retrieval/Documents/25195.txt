@@ -1,0 +1,9 @@
+analog computing by heat transfer multiplier divider ac
+    integrating and differentiating circuits are described based on
+    the use of a thermal transducer this transducer consists
+    basically of a pair of heater elements each one of which is in
+    thermal contact with one of a pair of temperature sensing
+    elements mounted in a wheatstone bridge circuit appropriate
+    application to the heater elements of two electrical input
+    signals creates a temperature difference proportional to their
+    product between the sensing elements

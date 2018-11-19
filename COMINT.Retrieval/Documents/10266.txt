@@ -1,0 +1,7 @@
+iterative networks as coupling networks in oscillator
+    circuits the conditions for self oscillation are established
+    for valve and transistor oscillators the characteristics of
+    iterative networks consisting of purely resistive and reactive
+    elements are summarized and their application in valve and
+    transistor oscillators is investigated formulae are given for
+    operating parameters and are verified experimentally

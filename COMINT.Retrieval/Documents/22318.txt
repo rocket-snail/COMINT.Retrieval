@@ -1,0 +1,4 @@
+the new isodyne phase splitter details are given of an
+    amplifier in which the phase splitter is directly coupled and
+    the output to the final stage is taken from a cathode
+    follower

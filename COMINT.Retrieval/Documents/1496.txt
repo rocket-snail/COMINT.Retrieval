@@ -1,0 +1,8 @@
+calculation of group indices and group heights at low
+    frequencies a formula is derived from which the group index
+    designated for normal incidence including collision effects can
+    be easily computed as a function of the real and imaginary
+    parts of the refractive index for frequencies below a set of
+    curves can then be prepared from which the group height to be
+    expected from a given electron density profile can be quickly
+    determined by graphical methods

@@ -1,0 +1,6 @@
+volt second transfer efficiency in fast response magnetic
+    amplifiers part and control analysis for the case of finite
+    control circuit resistance and non ideal core characteristics
+    defined as the summation of the quotients of the square of the
+    number of turns and the circuit resistance for all control
+    circuits is shown to be a basic reactor parameter

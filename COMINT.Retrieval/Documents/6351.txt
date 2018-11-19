@@ -1,0 +1,7 @@
+on deviations from ohms law in metals it is shown on the
+    basis of the kinetic equations of electrons in metals in strong
+    fields that the deviations observed are due primarily to the
+    delayed transmission of energy at the collision of electrons
+    with the lattice at sufficiently low temperatures the
+    resistance should pass through a minimum at a given
+    current

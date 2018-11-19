@@ -1,0 +1,3 @@
+signal flow graphs an article in three parts covering
+    basic theory topological relations for network synthesis and
+    applications to feedback theory

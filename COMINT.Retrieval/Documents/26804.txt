@@ -1,0 +1,10 @@
+juding the quality of oscillator circuits discussion of
+    the frequency and amplitude stability of oscillators considered
+    as composed of a slightly nonlinear frequency independent
+    amplifier and a linear frequency dependent feedbz feedback
+    quadripole stability is found to depend on the rate of change
+    of the imaginary part of the voltage transfe transfer
+    characteristic of the feedback quadripole the use of this
+    criterion in the design of bridge stabilized rc oscillators is
+    illustrated measurements on and various faults of experimental
+    oscillators are briefly discussed

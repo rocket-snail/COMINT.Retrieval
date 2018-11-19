@@ -1,0 +1,10 @@
+a method of finding a large class of electrostatic and
+    magnetic fields for which the solutions of the fundamental
+    equation of electron optics may be expressed in terms of known
+    functions exact solutions of equation are of great interest for
+    various types of e s and magnetic fields until recently such
+    solutions were known only for a very limited number of cases
+    grinberg in particular indicated a class of fields for which
+    the trajectories of electrons are expressed in terms of
+    cylindrical functions solutions are now found for a much larger
+    class of fields

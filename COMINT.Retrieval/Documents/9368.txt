@@ -1,0 +1,11 @@
+lcs' automated resource sharing in illinois. the library
+    computer system (lcs) network in illinois provides circulation
+    control for its member libraries. in addition, resource sharing
+    has been implemented by allowing each member library to search
+    and borrow items from the collections of the other members. the
+    network is comprised of the 3 campuses of the university of
+    illinois and 14 other academic libraries in the state. the
+    collective lcs data base contains over 10 million volumes. each
+    lcs member library can better serve its patrons because its
+    access goes beyond its individual collection to the entire lcs
+    data base.

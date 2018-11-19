@@ -1,0 +1,4 @@
+the logical design of an idealized general purpose
+    computer a detailed discussion emphasizing the distinction
+    between the logic requirements and the particular physical form
+    of a digital computer

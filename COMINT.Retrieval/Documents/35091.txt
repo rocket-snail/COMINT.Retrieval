@@ -1,0 +1,8 @@
+waveform computations by the time series method the time
+    series method greatly reduces the work of computation in the
+    solution of waveform or transient response problems of cascade
+    connected linear quadripoles practical procedures for dealing
+    with time series are described and illustrated by numerical
+    calculations relating to waveform tests on a mile coaxial cable
+    television link with a nominal upper cut off frequency
+    of

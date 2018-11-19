@@ -1,0 +1,3 @@
+the application of magnetic resonance to solid state
+    electronics a description of the basic principles and
+    techniques and an outline of some recent applications

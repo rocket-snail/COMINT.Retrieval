@@ -1,0 +1,11 @@
+a theory of time series for waveform transmission systems
+    a theoretical study is made of time series suitable for
+    application to low pass systems with a fixed upper limit to the
+    pass band for division and inversion of time series algebraic
+    division is not in general legitimate for time series related
+    to bandwidth limitation although it is legitimate for certain
+    other forms of time series more general methods of inversion
+    are treated and an iterative method which can always be used is
+    discussed in detail and a practical computing scheme is
+    outlined see also of january lewis which also deals with the
+    time series method

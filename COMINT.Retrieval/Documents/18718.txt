@@ -1,0 +1,7 @@
+the characteristic frequencies of negative molecular ions
+    of oxygen between and observed in ionized air discharge tubes
+    absorption frequencies are determined from the current
+    variations in a coil round a discharge tube containing pure air
+    supplemented in some cases by at pressures of absorption
+    frequencies above give rise to strong absorption at pressures
+    below mm hg

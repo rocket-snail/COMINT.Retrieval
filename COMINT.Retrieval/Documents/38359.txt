@@ -1,0 +1,11 @@
+approaches to forecasting demands for library network
+    services. the problem of forecasting monthly demands for
+    library network services is considered, especially in terms of
+    using forecasts as inputs to policy analysis models and in
+    terms of the use of forecasts as an aid to budgeting and
+    staffing decisions. forecasting methods considered include
+    box-jenkins time-series methodology, adaptive filtering, and
+    linear regression. using demand data from the illinois library
+    and information network for 1971-78, it is shown that
+    fading-memory regression is the most appropriate method, in
+    terms of both accuracy and ease of use.

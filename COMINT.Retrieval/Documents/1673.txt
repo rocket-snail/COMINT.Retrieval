@@ -1,0 +1,5 @@
+reliability of airborne electronic components an analysis
+    is made of typical failures reliability may be improved by
+    modifications to present day components and by substitution of
+    less vulnerable elements such as transistors and magnetic
+    amplifiers

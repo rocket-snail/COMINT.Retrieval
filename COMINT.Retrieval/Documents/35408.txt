@@ -1,0 +1,13 @@
+electron density in the upper atmosphere and
+    interpretation of the curves of ionosphere virtual height part
+    a calculation is made of the optical path of a wave reflected
+    by a chapman layer with a semithickness where h is the scale
+    height comparison of the results with those obtained previously
+    indicates that the lower half of such a layer is closely
+    approximated by a parabolic layer of semithickness the electron
+    density distribution is investigated for regions of
+    superposition of the f and true f layers taking recombination
+    into account the linear superposition formula used previously
+    is found to be inadequate and is replaced by the formula where
+    n and n are the independent densities of the f and true f
+    layers

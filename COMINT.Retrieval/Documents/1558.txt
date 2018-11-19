@@ -1,0 +1,5 @@
+a network theorem the impedance level of half a
+    symmetrical network can be changed without altering the
+    frequency response the use of this theorem for the solution of
+    network problems is discussed and illustrated by an
+    example

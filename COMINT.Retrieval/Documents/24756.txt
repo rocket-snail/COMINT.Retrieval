@@ -1,0 +1,10 @@
+a nines complement decade counter with recorder a brief
+    outline of decimal counting using weighted binary digits is
+    given with special reference to systems giving complements of
+    nine a binary decade electronic counter arranged so as to allow
+    the reading of nines complements which may be used to represent
+    negative numbers is then described in the circuit arrangement
+    used in this counter the maximum counting rate remains the same
+    as that of a simple binary counter recording of the number
+    counted is made on teledeltos paper the record and counter
+    reset being carried out simultaneously

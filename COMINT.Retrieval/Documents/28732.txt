@@ -1,0 +1,6 @@
+the design of logical or and or pyramids for digital
+    computers recent improvements in design technique are described
+    leading to reduction of number of diodes required reduction of
+    voltage and power requirements and speeding up of operation
+    basic considerations involved in the choice of elements are
+    discussed

@@ -1,0 +1,3 @@
+unilateral four terminal circuits networks of ge diodes
+    and carbon resistors suitable for purposes of directional
+    coupling and isolating are described

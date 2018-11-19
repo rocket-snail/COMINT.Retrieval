@@ -1,0 +1,17 @@
+statistical indices systems as a basis for evaluation of
+    the work of scientific and technical information centres. 2
+    systems of statistical indices for evaluation of information
+    work are presented: system of primary indices for quantitative
+    evaluation of individual information tasks; and system of
+    'relative' indices which express the relationship between
+    individual parameters and which can be used to evaluate the
+    effectiveness of information services and to determine the
+    amount of work undertaken by information workers; the system
+    can be used to carry out comparative analyses of the activities
+    of information centres. using these 2 systems, a complex method
+    for evaluation of the work of branch information centres was
+    developed. the method employs an algorithm designed by the
+    computing centre of the siberian branch of the ussr academy of
+    sciences. the method was used to evaluate the work of 33 branch
+    information centres; results of the evaluation are
+    presented.

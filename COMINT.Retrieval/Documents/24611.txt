@@ -1,0 +1,7 @@
+the use of silicon diodes in d c modulators and their
+    applications to drift correctors for computing amplifiers
+    advantages over the conventional relay modulator include good
+    high frequency response low noise level low switching power
+    requirements and an operational life limited only by the
+    thermionic valves zero stability is comparable wite that of the
+    conventional relay

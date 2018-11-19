@@ -1,0 +1,4 @@
+a uhf solid state maser maser action at a frequency of
+    has been obtained by using a cavity mode at the pumping
+    frequency and a lumped resonant circuit at the amplifying
+    frequency

@@ -1,0 +1,4 @@
+a triode connected pentode with stabilized anode current
+    drift in dc coupled circuits caused by heater supply voltage
+    variation is minimized by the use of a triode connected pentode
+    stabilized by variation of grid current with emission

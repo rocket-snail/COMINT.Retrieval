@@ -1,0 +1,5 @@
+retrieval of medicinal chemical information-an overview.
+    considers the individual functions that comprise the total drug
+    development process; the corresponding information needs; and
+    the current status, organisation, and likely future direction
+    of medicinal chemical information.

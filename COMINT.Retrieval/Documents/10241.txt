@@ -1,0 +1,7 @@
+analysis of library networks. the emergence of library
+    networks is discussed. management issues involving network
+    structure, economics, and applications of computer technology
+    are considered. a variety of library network models are
+    reviewed, including both analytical and simulation models.
+    typical problems in applying models to the analysis of library
+    networks are discussed.

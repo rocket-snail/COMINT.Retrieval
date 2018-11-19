@@ -1,0 +1,8 @@
+reflection from a wire grid parallel to a conducting
+    plane the parallel wire grid backed by a conducting plane can
+    be represented by an impedance shunted across a transmission
+    line as in the case of a single wire the value of this
+    impedance depends on the angle of incidence the spacing of the
+    grid wires and the distance between grid and backing plane
+    conditions are derived for the reflection coefficient to become
+    zero

@@ -1,0 +1,6 @@
+output power and possible continuous operation of ruby
+    lasers pink ruby was used in an arc imaging furnace capable of
+    concentrating of energy as blue green light with starting
+    voltages between and average output power in a pulse ranged
+    from to the threshold of continuous operation was nearly
+    achieved

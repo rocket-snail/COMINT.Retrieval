@@ -1,0 +1,6 @@
+a low pass band pass frequency transformation a simple
+    transformation is presented for converting a low pass insertion
+    power ratio into a band pass ratio the technique facilitates
+    the design of band pass filters when the attenuation curves on
+    either side of the pass band are required to be
+    asymmetrical

@@ -1,0 +1,14 @@
+feedback control systems the following papers are
+    included quick methods for evaluating the closed loop poles of
+    feedback control systems discussion correlation between
+    frequency and transient responses of feedback control systems p
+    coulomb friction in feedback control systems discussion
+    describing function method of servomechanism analysis applied
+    to most commonly encountered nonlinearities optimization of
+    nonlinear feedbacks a relative damping criterion for linear
+    systems errors in relay servo systems discussion effects of
+    friction in an optimum relay servomechanism backlash in a
+    velocity lag servomechanism determination of the maximum
+    modulus or of the specified gain of a servomechanism by complex
+    variable differentiation abstracts of others papers appear
+    separately

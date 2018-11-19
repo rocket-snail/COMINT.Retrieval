@@ -1,0 +1,5 @@
+notes on the effect of noise on langmuir probe
+    characteristics the effects of periodic fluctuations of
+    electron temperature random current and space potential are
+    considered in many cases the electron concentration will be
+    underestimated

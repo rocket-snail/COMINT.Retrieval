@@ -1,0 +1,6 @@
+magnetostatics with ferromagnetic materials a variational
+    principle is formulated and proved in the theory of
+    ferromagnetic materials in the field of electric currents a
+    direct method is developed for investigating magnetic fields in
+    the general case of a nonlinear dependence of permeability on
+    magnetic field strength

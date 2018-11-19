@@ -1,0 +1,4 @@
+general formulae for the theory of polarized media the
+    classical equations of electromagnetic theory are generalized
+    and are all derived from two fundamental formulae by a chain of
+    definitions and identities

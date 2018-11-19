@@ -1,0 +1,7 @@
+amplifier stage with monotonically rising response to a
+    step signal the problem is to combine the monotonic response
+    shortest possible rise time starting from consideration of a
+    simple coupling and analysis based on laplace transforms the
+    coupling circuit giving the required response is found in the
+    form of a network with parallel vertical and series horizontal
+    arms

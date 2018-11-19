@@ -1,0 +1,7 @@
+quantum theory of fluctuation on the basis of an analysis
+    of method of measurement an operator is constructed for the
+    spectral density of a fluctuating variable the classical
+    dynamic variables are replaced by time dependent operators the
+    theory is used to deduce law for a particular case and to
+    calculate the shot effect for free uncorrelated
+    electrons

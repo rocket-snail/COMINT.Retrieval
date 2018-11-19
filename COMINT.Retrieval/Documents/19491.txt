@@ -1,0 +1,6 @@
+use of z mode propagation for observing cosmic radio
+    noise from earth satellites the use of z mode propagation for
+    reception of signals from satellites above the height of
+    maximum ionization density gives an effective improvement in
+    angular resolution stability of radiation pattern and pencil
+    beam configuration

@@ -1,0 +1,8 @@
+construction and calibration of a very high frequency
+    transformer a matching device for insertion in a coaxial line
+    consists of a pair of rings which can be slid independently
+    along the line between the inner and outer conductors without
+    touching either of them the frequency range for the type
+    described is theory is developed on the basis of the
+    equivalence of the device to a cascade connection of two loss
+    free quadripoles

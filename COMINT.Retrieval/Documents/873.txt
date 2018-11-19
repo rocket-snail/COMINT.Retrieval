@@ -1,0 +1,8 @@
+a graphical sinusoidal analysis of a nonlinear rc phase
+    shift feedback circuit frequency response curves are discussed
+    of af oscillator circuits including nonlinear eg thyrite
+    resistors in the feedback loop over a part of the frequency
+    range the voltage function is triple valued the method used
+    involves the graphical superposition of the voltage resistance
+    characteristic of the nonlinear resistor on that of the
+    parallel circuit

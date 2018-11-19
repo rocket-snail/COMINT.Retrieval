@@ -1,0 +1,3 @@
+electromagnetic variometer for the vertical component of
+    the geomagnetic field an instrument is described it operates on
+    the same principles as the electromagnetic seismograph

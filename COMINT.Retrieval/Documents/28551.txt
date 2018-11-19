@@ -1,0 +1,4 @@
+propagation at oblique incidence over cylindrical
+    obstacles the effect of oblique incidence can be considered as
+    a change in the effective radius of curvature of the
+    diffracting obstacle

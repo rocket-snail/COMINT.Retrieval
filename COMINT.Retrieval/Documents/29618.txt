@@ -1,0 +1,4 @@
+nonlinearity of propagation in ferrite media measurements
+    are briefly reported both losses and phase shift varied with
+    temperature at constant power level the results are compared
+    with those of

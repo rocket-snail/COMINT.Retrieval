@@ -1,0 +1,7 @@
+nonlinear and controllable inductances made of thin and
+    magnetic films the inductance considered which may be used for
+    parametric amplification takes the form of a thin ferromagnetic
+    film in a magnetizing coil the effect of film premagnetization
+    on the inductance value is calculated experimental results
+    obtained for a coaxial oscillator system are compared with
+    theory

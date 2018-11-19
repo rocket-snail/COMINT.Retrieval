@@ -1,0 +1,10 @@
+computer-assisted mechanistic evaluation of organic
+    reactions. 2. perception of rings, aromaticity, and tautomers.
+    new algorithms for the perception of rings, aromaticity, and
+    tautomers were developed in conjunction with the cameo program
+    for computer-assisted mechanistic evaluation of organic
+    reactions. a noteworthy aspect of the ring algorithm is that
+    only rings belonging to the smallest set of smallest rings are
+    found. results for representative molecules are presented, and
+    rules for determining the aromaticity/tautomer status of rings,
+    especially heterocycles, are discussed.

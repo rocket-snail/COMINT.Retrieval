@@ -1,0 +1,2 @@
+the minimum moment f of error squared criterion a new
+    performance criterion for servo mechanisms

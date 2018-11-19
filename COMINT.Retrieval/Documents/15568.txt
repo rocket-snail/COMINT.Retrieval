@@ -1,0 +1,4 @@
+compensation of space charge in an electron beam
+    measurements of the electric field of the space charge in the
+    beam were carried out to evaluate the lifetime of the virtual
+    cathode

@@ -1,0 +1,6 @@
+magnetically confined cold cathode gas discharges at low
+    pressures a theory is developed taking account of the effects
+    of space charge in inverted and in normal magnetrons and in
+    penning structures discharges of much greater intensity may be
+    expected in normal magnetrons than in inverted
+    magnetrons

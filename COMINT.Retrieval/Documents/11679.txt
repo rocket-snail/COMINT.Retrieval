@@ -1,0 +1,7 @@
+transresonant electron acceleration describes a mechanism
+    additional to that of helliwell for the acceleration of van
+    allen electrons by whistlers non relativistic electrons would
+    be accelerated by whistlers of about field strength the
+    mechanism depends on the whistler frequency doppler shifted by
+    the electron velocity passing through the electron gyro
+    frequency

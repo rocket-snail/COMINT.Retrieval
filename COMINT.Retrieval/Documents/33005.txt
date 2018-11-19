@@ -1,0 +1,5 @@
+the magnetic fields produced by uniformly magnetized
+    ellipsoids of revolution formulae graphs and tables are given
+    for the numerical evaluation of the field strengths in the
+    equatorial plane and on the magnetic axis of prolate and oblate
+    spheroids

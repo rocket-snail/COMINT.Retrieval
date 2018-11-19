@@ -1,0 +1,2 @@
+the analysis and design of constant voltage
+    regulators

@@ -1,0 +1,5 @@
+the helix parametric amplifier a broad band solid state
+    microwave amplifier the amplifier uses a helix as a slow wave
+    distributed interaction structure and has variable capacitance
+    solid state diodes distributively coupled to the helix gains
+    above have been obtained in the region

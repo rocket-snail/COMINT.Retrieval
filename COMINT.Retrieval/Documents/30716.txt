@@ -1,0 +1,12 @@
+the design of a radio frequency coaxial resistor
+    characteristics of the cylindrical coaxial resistor intended
+    for use as a reflection free termination are discussed and
+    design curves given the jacket diameter is chosen to maintain
+    the resistive component of the resistor at the required value
+    the reactive component may be compensated in two ways the first
+    suitable for resistor lengths consists in undercutting the line
+    the second requires the insertion of a short circuited
+    transmission line in series with the resistor and will give
+    either perfect compensation over a restricted frequency range
+    or less accurate compensation over a wide range the effect of
+    the holder is taken into account

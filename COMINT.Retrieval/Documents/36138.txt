@@ -1,0 +1,5 @@
+quasi distortionless filter functions the quasi
+    distortionless filter network function is specified by
+    expressing the input and output functions as time power series
+    and equating their coefficients such filter functions are
+    derived and discussed

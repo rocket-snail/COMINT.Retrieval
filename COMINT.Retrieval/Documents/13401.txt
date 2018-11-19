@@ -1,0 +1,7 @@
+service is the bottom line'. describes the development of
+    the personal book order service and medical book store run by
+    the library of the mayo clinic, rochester, usa. gives brief
+    details of the types of books ordered, and the procedures
+    involved. notes the benefits of such a service both to its
+    users and to the library, and urges other librarians to
+    consider offering a similar service.

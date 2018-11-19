@@ -1,0 +1,9 @@
+a theoretical model of electron density distribution
+    along a geomagnetic line of force in the exosphere a model of
+    electron density in the exosphere is set up by supposing
+    electrons to diffuse along tubes of force electron densities in
+    ionosphere and exosphere are related by steady state solutions
+    the particle source is in the ionosphere under normal
+    conditions but during a magnetic storm particles are injected
+    into a tube of force at its furthest point from earth the role
+    of collisions is discussed

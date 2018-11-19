@@ -1,0 +1,7 @@
+automatic beam current stabilization for williams tube
+    memories one of the storage points in the memory tube is used
+    as a test point at regular intervals this is cleared and
+    recharged and the output is sampled the beam current being
+    adjusted to keep the sampled output at a constant level the
+    whole operation takes to complete circuit details are
+    given

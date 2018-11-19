@@ -1,0 +1,8 @@
+data from the drug abuse warning network (dawn). contains
+    information on the frequencies of drugs associated with drug
+    abuse episodes reported by emergency rooms and medical
+    examiners affiliated with the drug abuse warning network (dawn)
+    during oct-dec 79. this introduction is divided into 3
+    sections' dawn's objectives, history, system design and data
+    collection methods; report format; data limitations which
+    describes the uses and limitations of dawn data.

@@ -1,0 +1,6 @@
+an experimental and indirect method for determining the
+    high atmospheres density an approximate method is described for
+    calculating the density of the atmosphere above km using as
+    data observed life times of artificial satellites no longer in
+    orbit calculated densities are compared with those measured by
+    means of rocket probes

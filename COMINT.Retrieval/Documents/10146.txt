@@ -1,0 +1,3 @@
+electromechanical analogies a discussion of the physical
+    significance f various analogies and of circuit concepts and
+    terminal representation in mechanics

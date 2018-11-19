@@ -1,0 +1,7 @@
+the sense of rotation and curvature of the impedance loci
+    of real and ideal two poles the impedance of a two terminal
+    network as represented on thegauss number sphere describes a
+    closed curve revolving completely at least once in a clockwise
+    direction for a frequency variation from a method is given for
+    synthesizing two poles which h ve impedance loci turning
+    anticlockwise in places

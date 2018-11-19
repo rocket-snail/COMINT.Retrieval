@@ -1,0 +1,8 @@
+a stable dc source of low voltage with low internal
+    resistance a mainsdriven source providing a direct voltage of
+    constant to within for mains voltage variations of and current
+    drain of uses a magnetic amplifier as an impedance transformer
+    to provide a very low output resistance from a gas filled
+    reference tube type long term stability depends mainly on the
+    reference tube which has a nominal drift of per h after an
+    aging period

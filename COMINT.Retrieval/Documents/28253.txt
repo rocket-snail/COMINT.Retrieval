@@ -1,0 +1,17 @@
+a library school course to teach graduate level students
+    two commercial interactive systems. proficiency in searching 2
+    commercial systems (dialog and orbit) is the objective of the
+    15 week course taught to graduate students in the school of
+    library and information science (slis) at pittsburgh
+    university. software was developed to replicate the language,
+    formats and search capabilities of dialog, orbit and brs. 60
+    students are taught each term; the course is offered 3 times
+    annually. the students attend a lecture and a 2 hour supervised
+    laboratory session each week. the lectures are structured to
+    give the students an overview of various aspects of the
+    computer-based information profession. the laboratory sessions
+    are of prime importance because throughout the course emphasis
+    is placed on learning the systems by being on-line. each
+    student has the use of a terminal during the laboratory
+    session; and consequently is on-line a minimum of 30 hours per
+    term.

@@ -1,0 +1,10 @@
+an analysis of electric field after lightning discharges
+    the thundercloud is represented by a vertical dipole and the in
+    it is represented by a constant current generator the electric
+    field comprises components due to the charge on each pole which
+    depends on the conductivity of the air space charge related to
+    the charge on the poles and free decaying space charge released
+    after a lightning discharge dissimilarity between the field
+    recovery curves for near discharges and distant discharges are
+    explained by thid theory stant discharges are explained by this
+    theory

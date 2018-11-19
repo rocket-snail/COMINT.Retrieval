@@ -1,0 +1,3 @@
+avalanche pulse generators a method is given for
+    optimizing the switching time and the pulse repetition rate of
+    avalanche transistor operation

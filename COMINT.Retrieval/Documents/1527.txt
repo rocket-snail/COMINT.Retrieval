@@ -1,0 +1,4 @@
+the use of dekatrons for pulse distribution specific
+    methods are discussed for increasing the number of output lines
+    available from cold cathode selector tubes used for
+    distributing pulses in a fixed time sequence

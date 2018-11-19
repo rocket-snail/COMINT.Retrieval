@@ -1,0 +1,6 @@
+on the design of four terminal interstages for pulse
+    applications the limits set by the input and output capacitance
+    on the time response and the conditions for no overshoot are
+    determined methods for achieving the necessary pole
+    distributions are described and circuit networks
+    suggested

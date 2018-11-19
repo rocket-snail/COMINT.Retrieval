@@ -1,0 +1,5 @@
+the effect of atmospheric rotation on the orbital plane
+    of a near earth satellite theoretical formulae are derived for
+    the rotation of the orbital plane and change in orbital
+    inclination of a near earth satellite due to the influence of
+    the atmosphere

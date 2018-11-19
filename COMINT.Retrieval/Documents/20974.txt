@@ -1,0 +1,5 @@
+physical basis of thermal noise an examination is made of
+    methods developed by various workers for analysing circuit
+    noise due to random motion of charge carriers it is concluded
+    that it is not necessary to postulate thermodynamic equilibrium
+    in order to be able to calculate the thermal noise

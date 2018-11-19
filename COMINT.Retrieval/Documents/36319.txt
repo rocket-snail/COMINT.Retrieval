@@ -1,0 +1,8 @@
+mains voltage stabilizers a fast acting stabilizer is
+    described combining features of the magnetic and feedback types
+    the voltage sensitive element is a bridge containing an
+    indirectly heated thermistor a stability to within over the
+    temperature range can be achieved for mains voltage
+    fluctuations between and mains frequency variations between and
+    and load variations from no load to full load recovery time is
+    cycles

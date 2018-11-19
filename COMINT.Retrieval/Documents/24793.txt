@@ -1,0 +1,8 @@
+roughness of the moon as a radar reflector measurements
+    have been made at a wavelength of ten cm and pulse duration of
+    five of the angular scattering properties of the moons surface
+    from the results a law of scattering has been obtained which is
+    consistens with scattering from a rough surface which has
+    irregularities much greater than a wavelength and a horizontal
+    scale equivalent to about twenty times the vertical
+    deviations

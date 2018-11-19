@@ -1,0 +1,5 @@
+diffraction of a shock or an electromagnetic pulse by a
+    right angled wedge solutions given in a previous paper of
+    keller and blank are used as a basis for calculating the field
+    distribution comparison with measurements made for the acoustic
+    case shows satisfactory agreement

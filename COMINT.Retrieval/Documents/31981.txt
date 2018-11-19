@@ -1,0 +1,10 @@
+oclc's database conversion' a user's perspective.
+    describes the experience of a large academic library with
+    headings in the oclc data base that have been converted to
+    aacr2 form. it also considers the use of lc authority records
+    in the data base. specific problems are discussed, including
+    some resulting from lc practices. nevertheless, the presence of
+    the authority records, and especially the conversion of about
+    40% of the headings in the bibliographic file, has been of
+    great benefit to the library, significantly speeding up the
+    cataloguing operation.

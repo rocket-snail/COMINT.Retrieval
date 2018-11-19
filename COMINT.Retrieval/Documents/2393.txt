@@ -1,0 +1,3 @@
+nomenclature of band filters and of band filter design
+    the principal design formulae and symbols and definitions of
+    filter characteristics are summarized in tabular form

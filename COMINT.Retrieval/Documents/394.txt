@@ -1,0 +1,6 @@
+predictable design of transistor amplifiers the transfer
+    characteristic of a multistage low frequency amplifier using
+    junction transistors may be made independent of the transistor
+    characteristics by the use of degenerative current feedback at
+    the same time improving linearity the importance of stable
+    biasing arrangements is emphasized

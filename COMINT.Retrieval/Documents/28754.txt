@@ -1,0 +1,5 @@
+certain transmission and reflection theorems established
+    theory is used to analyse transmission and reflection of em and
+    acoustic waves by a uniform planar distribution of cylinders
+    reflection by a planar distribution of bosses is also
+    considered see also of and back references

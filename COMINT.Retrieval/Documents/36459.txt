@@ -1,0 +1,4 @@
+exact foundations of the theory of spin waves the
+    validity of equations of the type of blochs spin wave equations
+    is proved for the multi electron problem disregarding spin
+    interactions

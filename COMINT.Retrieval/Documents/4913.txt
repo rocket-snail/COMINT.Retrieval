@@ -1,0 +1,10 @@
+threshold of secondary electron emission of nickel and
+    molybdenum the threshold is defined as the minimum energy of
+    primary electrons for which the number of slow secondary
+    electrons differ from zero experimental results show that it is
+    equal to the work function within the limits of experimental
+    error the velocity distribution of secondary electron including
+    reflected electrons at various primary electron energies and
+    the effect of pe treatment of mo by heating at for a period up
+    to days are discussed and the experimental results shown
+    graphically

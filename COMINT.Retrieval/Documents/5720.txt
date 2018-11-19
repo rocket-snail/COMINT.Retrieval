@@ -1,0 +1,9 @@
+from the utilization of udas to outlook the development
+    of a bibliographic information retrieval system in the r.o.c.
+    (in chinese). udas (universal database access service) is an
+    international on-line real time information retrieval system.
+    it was inaugurated in dec 79. gives an introduction to its
+    bibliographic information retrieval system, including the
+    procedure for establishing the data base. the current status of
+    its use is investigated and suggestions for developing
+    bibliographic information retrieval are provided.

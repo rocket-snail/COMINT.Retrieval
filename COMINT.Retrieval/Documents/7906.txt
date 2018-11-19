@@ -1,0 +1,4 @@
+tunable rejection filters an analysis of the requirements
+    for a rejection filter is used in the design of some practical
+    circuits tunable over half an octave and covering the hf
+    band

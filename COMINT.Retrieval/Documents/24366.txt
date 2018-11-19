@@ -1,0 +1,10 @@
+electro fusion a new phenomenon observed in the phase
+    changes of dielectrics under the influence of an electric field
+    experiments are described which indicate that application of a
+    field between the electrodes of a capacitor with the dielectric
+    partly in the solid and partly in the liquid state accelerates
+    the phase change in the dielectric from measurements of the
+    current and calculation of the joule energy dissipated it is
+    shown that this energy is several hundred times smaller than
+    the heat necessary for the normal fusion of the corresponding
+    mass of the dielectric

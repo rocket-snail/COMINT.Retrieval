@@ -1,0 +1,5 @@
+rectifier filter characteristics approximate calculations
+    are described for the design of half wave rectifiers with
+    capacitor input filters and of full wave rectifiers with
+    capacitor choke input filters the method gives results within
+    about of measured values

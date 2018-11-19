@@ -1,0 +1,5 @@
+transistor bias circuits a detailed comparison of four
+    bias circuits with reference to performance and the operating
+    point stability a practical stability factor is derived
+    together with general design formulae for bias components
+    the

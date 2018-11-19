@@ -1,0 +1,10 @@
+theory of nonlinear coupling in a novel ferro electric
+    device a device which can be used as a modulator or as a
+    frequency divider or multiplier comprises a block of
+    ferroelectric material witnh electrodes arranged on two pairs
+    of facing sides on connecting an inductance across one pair of
+    electrodes a resonant circuit is provided in which the
+    capacitance varies periodically oscillations being sustained
+    when the frequency of this parametric excitation is twice the
+    resonance frequency of the circuit analysis is presented using
+    the mathieu equation

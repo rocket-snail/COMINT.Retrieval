@@ -1,0 +1,5 @@
+sawtooth generator with almost infinite linearity the
+    miller integrator using junction transistors is analysed
+    maximum linearity is achieved with the transistor operating
+    without feedback in an earthed base circuit practical circuits
+    for generating various sawtooth waveforms are given

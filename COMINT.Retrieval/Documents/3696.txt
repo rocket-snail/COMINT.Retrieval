@@ -1,0 +1,15 @@
+study of gyromagnetic resonance in the penning gauge
+    conditions in the penning gauge are particularly favourable for
+    studying r f radiation resulting from gyromagnetic resonance of
+    electrons both longitudinal oscillations thermal agitation
+    electrons involved resulting in accumulation in the anode
+    planes the presence of plasma has an important effect on the
+    potential distribution introducing a radial electric field the
+    equations of electron motion are established some particular
+    solutions indicate the possibility of a circular path in the
+    anode plane with an angular frequency about half the
+    gyrofrequency with values of magnetic induction between and
+    radiation at decimetre wavelengths was produced measurements of
+    the radiation are described investigation of the complete
+    spectrum emitted indicates that coherent oscillations may occur
+    the results are compared with those of other workers

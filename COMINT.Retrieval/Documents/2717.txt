@@ -1,0 +1,5 @@
+theoretical analysis of an inter digital resonator with
+    radial vanes general expressions are derived for calculating to
+    successively better approximations the resonant frequencies of
+    modes perturbed by the vanes and anode examples of calculations
+    are verified experimentally

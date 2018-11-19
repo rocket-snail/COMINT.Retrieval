@@ -1,0 +1,6 @@
+radio observations of the russian earth satellite
+    observations were made at and at the mull rd radio observatory
+    cambridge using interferometer and doppler techniques details
+    of the calculation of the orbit are given and possible new
+    methods of finding the distribution of electron density with
+    height are suggested

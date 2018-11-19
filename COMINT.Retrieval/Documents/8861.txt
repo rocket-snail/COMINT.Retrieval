@@ -1,0 +1,7 @@
+use of the incoherent scatter technique to obtain
+    ionospheric temperatures if the ionization above the f peak is
+    in diffusive equilibrium its density decreases exponentially
+    with height with a scale height proportional to the temperature
+    of the neutral gas electron density profiles obtained by the
+    incoherent scatter method at are consistent with a temperature
+    of about between and

@@ -1,0 +1,7 @@
+the half plane diffraction problem for harmonic time
+    dependence greens functions are obtained for the boundary value
+    problems of mixed type describing the general two dimensional
+    diffraction problems at a screen in the form of a half plane
+    sommerfelds problem applicable to acoustically rigid or soft
+    screens and to the full electromagnetic field at a perfectly
+    conducting screen

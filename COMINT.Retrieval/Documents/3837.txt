@@ -1,0 +1,6 @@
+theory of synchronization of self oscillations of
+    arbitrary form analysis is given for an oscillation containing
+    only a few harmonic components the effect of applying a
+    sinusoidal force of a frequency near the third harmonic is
+    investigated by a method involving the use of fourier series
+    coefficients

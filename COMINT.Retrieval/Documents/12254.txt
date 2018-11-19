@@ -1,0 +1,3 @@
+constant frequency oscillators without stabilized voltage
+    supplies four valve oscillators controlled by thermistor bridge
+    circuits are described

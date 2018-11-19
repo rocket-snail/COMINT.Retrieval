@@ -1,0 +1,6 @@
+a flexible single channel pulse amplitude analyser the
+    instrument described is designed for measuring the amplitude of
+    voltage pulses of duration by pre setting two voltage limits it
+    can also be used as a simple discriminator the complete circuit
+    diagram is given including details of component values valve
+    types etc

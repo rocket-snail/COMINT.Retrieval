@@ -1,0 +1,3 @@
+anisotropic curie temperature a theoretical treatment
+    showing how the curie temperature in an anisotropic ferromagnet
+    varies with the direction of magnetization

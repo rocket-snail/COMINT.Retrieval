@@ -1,0 +1,5 @@
+silicon epitaxial microcircuit a si microcircuit formed
+    by vapour phase deposition techniques is described an eight
+    layered epitaxial structure was formed which was capable of
+    oscillation in different modes shunting capacitive and
+    resistive leakage effects are discussed

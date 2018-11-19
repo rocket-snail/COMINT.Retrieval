@@ -1,0 +1,6 @@
+approximate calculations of the diffraction of plane
+    electromagnetic waves by some metallic bodies application of
+    the approximate method described in part one to diffraction of
+    a plane wave by a perfectly conducting disk or cylinder results
+    are shown graphically and compared with experimental
+    data

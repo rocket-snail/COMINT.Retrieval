@@ -1,0 +1,5 @@
+optical analogue computers a general theory of optical
+    analogue computers based on characteristics of the photographic
+    process is developed and applications of photosensitive
+    materials and photocells for performing mathematical operations
+    are reviewed

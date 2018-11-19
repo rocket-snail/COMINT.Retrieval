@@ -1,0 +1,4 @@
+theory of a frequency synthesizing network by the
+    introduction of sideband algebra and a frequency symbolic
+    network a formal method of designing frequency combining and
+    selecting circuits is developed

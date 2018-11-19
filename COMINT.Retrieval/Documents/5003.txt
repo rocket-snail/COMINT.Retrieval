@@ -1,0 +1,21 @@
+integration of thesauri in the social sciences. paper
+    presented at the conta conference, bielefeld, 24-27 may 81.
+    discusses the objectives and compilation of the proposed
+    integrated thesaurus of the social sciences, which is intended
+    to act as a master reference tool, as an aid in searching
+    across data bases, or a switching mechanism. the 1st step in
+    compilation should be the merging of terms to form a descriptor
+    bank. to compare the merged terms at the concept level,
+    analysis in sub-fields is proposed within a classification
+    framework, preferably 1 with a faceted structure, such as the
+    2nd edition of the 2bliss bibliographic classification. 1the
+    classification would serve as the master against which the
+    terms from the merged information languages, arranged in a
+    compatibility matrix, would be compared. the master
+    classification would be modified during interaction with the
+    matrix terms, and emerge as the integrated thesaurus in a
+    format similar to that of the bsi root thesaurus, having a d
+    etailed classified display and full alphabetical section.
+    provides an example worked out in the sub-field of unemployment
+    using terms from 5 thesauri and the udc. also considers
+    multilingual implications, testing and updating.

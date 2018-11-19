@@ -1,0 +1,5 @@
+the relations between circuit bandwidth and time constant
+    a correct method for specifying bandwidth involves fixing a
+    priori limits for a response curve and considering the relation
+    between amplitude and phase distortion in order to determine
+    the limits applicable under transient conditions

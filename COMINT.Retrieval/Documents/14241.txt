@@ -1,0 +1,6 @@
+study of the electromagnetic field in the vicinity of a
+    reflecting surface analysis is given for the general case of a
+    plane incident wave with elliptical polarization if the
+    reflecting surface is an infinite plane the reflected wave is
+    also plane modifications of the reflected wave by other types
+    of reflecting surface are mentioned

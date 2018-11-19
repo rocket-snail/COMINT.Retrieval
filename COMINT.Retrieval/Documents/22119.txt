@@ -1,0 +1,5 @@
+the production, dissemination and costs of an integrated
+    public transport travel information system. describes the field
+    trial of an information system which disseminates answers to
+    queries on public transportation. several methods are compared
+    for cost effectiveness.

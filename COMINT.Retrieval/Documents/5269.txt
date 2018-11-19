@@ -1,0 +1,6 @@
+barkhausen noise in transformer cores the following are
+    discussed isolation and measurement of the noise its relation
+    to the slope of the hysteresis loop and the cycling rate an
+    equivalent circuit which includes the noise source and the
+    frequency spectrum of the noise when sinusoidally
+    polarized

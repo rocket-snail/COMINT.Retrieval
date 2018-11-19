@@ -1,0 +1,8 @@
+theory of the radio echo meteor height distribution in a
+    non isothermal atmosphere the height distribution of echoing
+    points of shower and sporadic meteors belonging to a
+    homogeneous velocity group is calculated for a model atmosphere
+    whose scale height is a linear function of height experimental
+    cut off and the theoretical approximations involved limit the
+    accuracy with which actual scale height and density may be
+    found from observed meteor trails

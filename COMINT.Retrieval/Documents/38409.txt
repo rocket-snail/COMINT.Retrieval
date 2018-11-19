@@ -1,0 +1,4 @@
+design of radio telescopes for extragalactic surveys
+    design formulae are given for ensuring that the number of
+    sources resolved is equal to the number detected long
+    wavelengths have several advantages

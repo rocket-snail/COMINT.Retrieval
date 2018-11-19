@@ -1,0 +1,2 @@
+sampled data control systems studied through comparison
+    of sampling with amplitude modulation

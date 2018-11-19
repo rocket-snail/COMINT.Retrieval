@@ -1,0 +1,4 @@
+multivibrator circuit for millimicrosecond pulses pulse
+    rise times of about and a repetition frequency of several can
+    be achieved with the value circuit described pulse width can be
+    adjusted continuously without affecting the rise time

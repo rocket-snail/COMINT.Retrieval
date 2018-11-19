@@ -1,0 +1,7 @@
+transistor converters a transistor in a relaxation
+    oscillator is arranged to interrupt a circuit energy is stored
+    in the transformer inductance during the on period and is
+    delivered to the output circuit at an increased voltage during
+    the off period the circuit thus acting as a step up device
+    design and operation of practical arrangements are discussed a
+    shorter account of the work is given in wireless world

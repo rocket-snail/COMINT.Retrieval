@@ -1,0 +1,5 @@
+ionization of e layer by x rays the total amount of solar
+    x ray energy absorbed within the e layer is calculated from
+    available rocket and absorption measurements only x rays in the
+    wave length region are absorbed the amount of energy involved
+    being estimated at

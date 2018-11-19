@@ -1,0 +1,7 @@
+the logistics computer construction and operation of a
+    digital computer for logistics research are described
+    consideration of the particular requirements for this work led
+    to a design incorporating high speed magnetic tape in addition
+    to punched tape input and output equipment fixed sequence
+    operation magnetic drum storage with capacity for decimal
+    digits and plug board programming

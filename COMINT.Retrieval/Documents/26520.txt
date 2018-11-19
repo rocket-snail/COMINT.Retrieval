@@ -1,0 +1,6 @@
+electrical breakdown in high vacuum report of an
+    investigation using gaps shorter than cm between tungsten
+    electrodes in most cases of breakdown field emission currents
+    from small irregularities on the cathode cause evaporation of
+    metal from the anode the breakdown occurring in the resulting
+    vapour

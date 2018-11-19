@@ -1,0 +1,12 @@
+the nevitron mercury arc rectifier description of a new
+    type of rectifier with the hg pool in a mo cup with external al
+    cooling fins provided the mo cup is wetted by the hg to give a
+    concave meniscus the cathode spot runs in a continuous line
+    round the edge of the hg the cooling system ensures no
+    excessive emission of vapour an auxiliary electrode lifted from
+    the hg by means of a solenoid serves to start the arc the
+    voltage drop across the arc is the weight of a nevitron is only
+    excluding the ignition solenoid types with grid control have
+    also been tested the power required in the grid circuit for
+    full control is only one thousandth of that for a multianode
+    rectifier

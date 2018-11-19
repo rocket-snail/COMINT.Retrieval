@@ -1,0 +1,6 @@
+resonance transitions induced by perturbations at two or
+    more different frequencies expressions are derived for the
+    alteration of magnetic resonance frequency due to the presence
+    of a second oscillation at a nonresonance frequency
+    applications of the formulae to nuclear resonance and molecular
+    beam experiments are discussed

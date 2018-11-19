@@ -1,0 +1,3 @@
+excitation of oscillations in a plasma layer application
+    of theory developed earlier to the excitation of standing waves
+    in a uniform plasma

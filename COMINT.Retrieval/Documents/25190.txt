@@ -1,0 +1,9 @@
+information theory and information science. the empirical
+    import of shannon's information theory and its impact on
+    information science are discussed. it is argued that extension
+    of the scope of information theory as well as development of
+    new theories of information science presupposes better
+    understanding of relevant empirical regularities and laws.
+    possibilities of broadening the empirical foundation of
+    information theory by introduction of appropriate least effort
+    criteria are discussed.

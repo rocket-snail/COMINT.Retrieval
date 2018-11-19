@@ -1,0 +1,7 @@
+a rectifier modulator with stable low carrier leak the
+    action of a constant current ring modulator in which the input
+    transformer is replaced by high impedance valve circuits is
+    analysed in detail the theoretical analysis is confirmed
+    experimentally using a carrier frequency stable carrier leak
+    levels more than below the carrier current from each source are
+    possible

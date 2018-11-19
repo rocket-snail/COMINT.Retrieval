@@ -1,0 +1,6 @@
+effective magnetic anisotropy and magnetostriction of
+    monocrystals a nine constant expression is derived which
+    describes empirically the spontaneous magnetostriction to the
+    sixth order in the direction cosines of the magnetization the
+    relation between the effective anisotropy in domains and domain
+    walls is also studied

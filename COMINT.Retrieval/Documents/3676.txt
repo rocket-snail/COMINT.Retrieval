@@ -1,0 +1,3 @@
+meteor radiation ionization and atomic luminous
+    efficiency a theoretical paper empirically constructed tables
+    are presented for calculating the radiation from meteors

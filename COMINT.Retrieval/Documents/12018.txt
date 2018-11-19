@@ -1,0 +1,4 @@
+noise temperature measurement on a solid state maser
+    noise measurements have been made on a three level maser
+    operating at with sufficient accuracy to establish that its
+    noise temperature does not exceed it

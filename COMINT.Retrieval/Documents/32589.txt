@@ -1,0 +1,11 @@
+a new dc electronic voltage stabilizing circuit the
+    detecting element across the supply consists of a negative
+    resistance and a positive resistance nce element of equal
+    numerical values in series by controlling the negative
+    resistance complete compensation can be achieved a circuit
+    built on a similar principle but using a different type of
+    negative resistance element was described by patchett of a
+    stabilizer with an output of is described in detail the output
+    can be maintained constant to within for an input fluctuation
+    of and a load variation of the circuit is suitable for voltages
+    from upwards

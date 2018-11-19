@@ -1,0 +1,7 @@
+harmonic generation with nonlinear reactances a simple
+    theory of frequency multiplication using nonlinear reactances
+    is derived and compared withe the results obtained with the
+    nonlinear capacitance of a ge point contact diode the theory
+    and the experimental results are in agreement at low input
+    powers possible reasons for the discrepancies at high powers
+    are mentioned

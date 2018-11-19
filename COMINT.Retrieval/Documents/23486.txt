@@ -1,0 +1,3 @@
+determining electron density and distribution in plasmas
+    a microwave interferometer technique is used for measurements
+    on low temperature magnetically contained plasmas

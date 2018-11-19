@@ -1,0 +1,12 @@
+experimental testing of the optimum retrieval strategy
+    used in automated systems. an experiment to find the optimum
+    information retrieval method for the automated system as used
+    by the top management organs of the federal ministry of
+    engineering and capital investment development is described. by
+    means of a combination of various components, described here,
+    16 methods were obtained which were then tested using a
+    representative sample of documents dealing with top management
+    and scientific, technical and economic information. the
+    retrieval efficiency of each method was evaluated by means of
+    coefficients intended to quantify the degree of retrieval
+    completeness and accuracy.

@@ -1,0 +1,10 @@
+cathode follower as high impedance input stage if a
+    cathode follower is used as the first stage of an amplifier in
+    order to raise the input impedance the conductance of the grid
+    leak between grid and cathode may not be negligible compared
+    with the conductance of the source between grid and earth from
+    which the signal is derived the noise performance under these
+    conditions is examined both in terms of the cathode follower
+    regarded as a voltage device and in terms of the noise figure
+    which takes account of the difference between input and output
+    impedances

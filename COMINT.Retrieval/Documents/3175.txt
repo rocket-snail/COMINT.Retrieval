@@ -1,0 +1,7 @@
+the determination of ionospheric electron content from
+    satellite doppler measurements part method of analysis theory
+    is given which is based on measurements of the slopes of the
+    differential doppler and the doppler curves obtained from
+    observations of the transmission at and from sputnik a semi
+    empirical formula is derived for the total electron
+    content

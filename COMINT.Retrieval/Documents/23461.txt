@@ -1,0 +1,4 @@
+low drain transistor audio oscillator description and
+    performance of a oscillator using a western electric type point
+    contact transistor supplied from a single battery the power
+    drain from which does not exceed

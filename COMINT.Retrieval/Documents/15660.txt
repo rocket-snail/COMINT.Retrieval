@@ -1,0 +1,4 @@
+oscillations of a plasma in a static magnetic field the
+    dielectric tensor is calculated and used together wi h the
+    solutions to the propagation problem at zero temperature to
+    allow for thermal effects

@@ -1,0 +1,7 @@
+theory of hall effect in ferromagnetics assuming phonon
+    interaction the hall voltage is given by the equation where are
+    constants are the resistances of the specimen at absolute zero
+    and at temperature respectively is the intensity of
+    magnetization at saturation and is the current density
+    comparison with experimental results obtained from measurements
+    on a bar shaped specimen shows close agreement

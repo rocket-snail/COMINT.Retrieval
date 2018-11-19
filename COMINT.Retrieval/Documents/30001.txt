@@ -1,0 +1,4 @@
+an electrostatic problem involving a nonlinear fluid
+    dielectric an approximate calculation is made of the
+    electrostatic couple on an anisotropic dielectric sphere
+    influenced by a uniform field dielectric

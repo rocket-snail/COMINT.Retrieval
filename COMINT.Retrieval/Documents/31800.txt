@@ -1,0 +1,7 @@
+t stub calculation for transmission line filters a method
+    is presented which has advantages over earlier methods in
+    respect of flexibility and ease calculation it is applicable
+    whether the stubs in a filter are true reciprocals or not and
+    also in cases where another element such as an isolating stub
+    is combined with a stub to give a required frequency
+    response

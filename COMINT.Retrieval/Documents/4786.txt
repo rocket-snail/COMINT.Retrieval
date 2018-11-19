@@ -1,0 +1,8 @@
+adjustable electronic delay circuit for the microsecond
+    range a modification of a pulse discriminator circuit of a type
+    described by moody et al using secondary emission pentodes is
+    described by means of an adjustable capacitance coupling dynode
+    and grid the time interval between successive negative and
+    positive pulses derived in the circuit can be adjusted between
+    and for an application of the method in a delayed coincidence
+    circuit see

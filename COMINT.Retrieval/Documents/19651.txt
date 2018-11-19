@@ -1,0 +1,16 @@
+application of an entropy measure for journal evaluation
+    and its comparison to other quantitative measures. (phd
+    thesis-case western reserve university, ohio). using a set of
+    856 journals indexed in 1978 by 2index medicus1 and by the
+    citing journal package of 2journal citation reports1, a new
+    quantitative measure having a theoretical basis (entropy
+    measure) was tested. the results were compared with those of 4
+    other measures representing an empirical approach. all 5 sets
+    of results were compared with core journal lists and a peer
+    review ranking of some of the titles. the 5 measures seemed to
+    represent different journal properties. the entropy measure
+    involved the brillouin information measure (the contribution of
+    a journal to the communication network related to a journal
+    population). the journal selection process would benefit from
+    the use of any of the 5 measures, even though they produce
+    varying results.

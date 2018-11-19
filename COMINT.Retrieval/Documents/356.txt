@@ -1,0 +1,5 @@
+the determination of the incident flux of radio meteors
+    part sporadic meteors the theory relating the radio echo rate
+    to the incident meteor flux is extended to the case of sporadic
+    meteors results for sporadic meteors and several showers are
+    presented part of

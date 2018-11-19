@@ -1,0 +1,6 @@
+aacr 2: a critical study (in chinese). many libraries in
+    taiwan use aacr so cataloguing practice will be greatly
+    affected by the implementation of aacr 2 and the closing of the
+    library of congress card catalogue in jan 81. provides a
+    critical review of aacr 2 by comparing the merits and defects
+    of the 2 editions.

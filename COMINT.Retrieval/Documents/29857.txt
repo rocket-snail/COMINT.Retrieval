@@ -1,0 +1,10 @@
+prototype input and output data elements for the
+    occupational health and safety information system. the national
+    aeronautics and space administration plans to implement a
+    nasa-wide computerised information system for occupational
+    health and safety. the system is necessary to administer the
+    occupational health and safety programmes and to meet the legal
+    and regulatory reporting, record keeping, and surveillance
+    requirements. some of the potential data elements that nasa
+    will require as input and output for the new occupational
+    health and safety information system are illustrated.

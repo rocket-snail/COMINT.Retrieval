@@ -1,0 +1,5 @@
+electron velocity distributions in a partially ionized
+    gas investigation of the transition from the non maxwellian
+    distribution characteristic of a poorly ionized gas to the
+    maxwellian distribution as the degree of ionization
+    rises

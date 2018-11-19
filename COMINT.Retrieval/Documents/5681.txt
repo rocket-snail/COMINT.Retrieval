@@ -1,0 +1,4 @@
+propagation of plasma waves across a density
+    discontinuity when longitudinal waves are incident on a plasma
+    density or temperature discontinuity energy can be converted to
+    transverse waves the inverse process also occurs

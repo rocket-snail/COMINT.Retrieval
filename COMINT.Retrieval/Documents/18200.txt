@@ -1,0 +1,9 @@
+transistor characteristic parameters for weak alternating
+    currents a method of representation is proposed using an
+    impedance matrix which is completely symmetrical for all six
+    transistor connections formulae derived for input impedance
+    current gain etc have the same form for all the six circuits
+    the method requires a new definition of the currents and
+    voltages but affords the possibility of extension to
+    multielectrode systems the setting up of matrices for complex
+    arrangements of resistors and transistors is illustrated

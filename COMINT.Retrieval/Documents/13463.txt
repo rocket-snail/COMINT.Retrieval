@@ -1,0 +1,4 @@
+effect of an oblate rotating atmosphere on the
+    orientation of a satellite orbit for inclinations of in
+    particular significant rotation of the major axis in the
+    orbital plane occurs due to the atmosphere

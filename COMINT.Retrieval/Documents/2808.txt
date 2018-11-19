@@ -1,0 +1,9 @@
+prestel gateway to third party data bases. the following
+    papers were presented' networking in the german bildschirmtext
+    system, by l. griebl; the bildschirmtext gateway facility-how
+    does it work?, by d. gilbert and i. taylor; on-line banking
+    services using bildschirmtext, by p. kohn; implementation of
+    3rd party data base systems in the uk, by k.e. clarke and s.j.
+    wilders; prestel gateway-the commercial aspects, by i.g.
+    chisholm; the business options for connecting to prestel
+    gateway, by a.r. haines.

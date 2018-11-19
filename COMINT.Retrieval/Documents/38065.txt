@@ -1,0 +1,6 @@
+diffusion of ionization in the sunrise f layer some
+    idealized calculations support the assumption made in above
+    that the rate of increase of f region electron density just
+    after sunrise depends primarily on the rate of production of
+    ionization at this time the loss diffusion and transport of
+    ionization are of secondary importance

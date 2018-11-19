@@ -1,0 +1,6 @@
+transistors in video equipment the importance of the
+    product current gain bandwidth is discussed a new design method
+    is described which gives greater gain bandwidth factors the
+    conditions for maximum signal noise ratio are determined and
+    confirmed experimentally signal noise ratios aad gain bandwidth
+    factors are comparable to those of valves

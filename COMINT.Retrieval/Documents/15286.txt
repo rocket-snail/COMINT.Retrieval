@@ -1,0 +1,6 @@
+library systems analysis 2' planning techniques. the
+    systems analyst must 1st learn everything about the present
+    system and its shortcomings, then find out what is needed to
+    overcome these shortcomings. briefly discusses the techniques
+    of interviewing, input/output analysis, observation and data
+    recording.

@@ -1,0 +1,4 @@
+velocity distribution of electrons in a strong electric
+    field a method is developed for determination of a
+    nonstationary solution of the boltzmann equation in the case of
+    strong electric fields

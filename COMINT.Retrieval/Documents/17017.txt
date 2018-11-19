@@ -1,0 +1,7 @@
+methods for the administration of textual data in
+    database systems. presents observations indicating a trend
+    towards an integrated data base management and information
+    retrieval system (dbmirs). makes a preliminary proposal for the
+    information structure and query language of a dbmirs and
+    discusses related search implementation techniques. considers
+    clustering according to textual attributes.

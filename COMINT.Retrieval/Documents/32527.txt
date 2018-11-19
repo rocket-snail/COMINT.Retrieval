@@ -1,0 +1,5 @@
+transistor preamps discussion of practical design
+    considerations for pre amplifiers for use with gramophones with
+    a boosted low frequency response and a flat response main
+    amplifier and with microphones the pre amplifier in this case
+    having a flat response

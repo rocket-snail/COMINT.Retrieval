@@ -1,0 +1,9 @@
+saponet' a public circuit and packet switching network
+    facility being implemented by the south african post office.
+    the south african post office's saponet will be one of the 1st
+    public data networks to offer circuit as well as packet
+    switching services on the same switches and utilising the same
+    internodal trunks. the facilities to be offered to the public;
+    network access and call set-up procedures; techniques involved;
+    architecture of switches; and network management and control
+    techniques are described.

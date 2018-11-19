@@ -1,0 +1,4 @@
+a low frequency function generator description of a
+    relaxation oscillator capable of giving a constant amplitude
+    output of sine square or triangular waveform in the frequency
+    range

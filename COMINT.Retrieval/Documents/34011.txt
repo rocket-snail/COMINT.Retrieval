@@ -1,0 +1,12 @@
+the stability of quartz oscillators supposing a a series
+    connected crystal in a resonant lc circuit to be short
+    circuited the relative detuning f due to the presence of the
+    crystal is termed the stabilization factor different
+    arrangements of meissner hartley and colpitts circuits are
+    considered the most stable circuit is one in which f is a
+    maximum compatible with oscillation and is independent of
+    change in the valve interlectrode capacitance and the load
+    current through the crystal the properties of a circuit in
+    which the crystal acts as an inductance are similar in all
+    respects to those of a circuit with the crystal operating at
+    series resonance

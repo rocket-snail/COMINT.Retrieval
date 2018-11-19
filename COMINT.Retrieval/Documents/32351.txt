@@ -1,0 +1,8 @@
+distributed routing. in distributed routing each node
+    receives some information about the network from its adjacent
+    nodes and uses the information to determine the manner in which
+    it forwards its traffic. gives 3 examples of distributed
+    routing in a data communication network. a routing algorithm is
+    then given where a generalised distributed routing procedure
+    proposes a flow change and a central node determines the
+    optimal scale of the proposed change.

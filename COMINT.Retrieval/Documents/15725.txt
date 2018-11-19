@@ -1,0 +1,4 @@
+a phase controlled oscillator description of an
+    oscillator whose frequency is an exact multiple of the mains
+    frequency the phase relation is maintained constant by a
+    feedback loop and phase comparator

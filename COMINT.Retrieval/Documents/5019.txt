@@ -1,0 +1,5 @@
+investigation of the effect of unbypassed screen grid
+    resistors on amplification factor a calculation is made of the
+    negative feedback introduced by unbypassed resistors in the
+    screen grid lead this arrangement is usual in dc amplifiers
+    experimental results confirming the theory are presented

@@ -1,0 +1,4 @@
+frequency stable lc oscillators literature on the subject
+    is reviewed and attention is drawn to the chronological order
+    of various publications simple theory is presented for the
+    conditions governing oscillation and frequency stability

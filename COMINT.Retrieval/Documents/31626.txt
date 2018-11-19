@@ -1,0 +1,11 @@
+classification of quartz crystal oscillator circuits
+    classification is based on quadripole representation ad two
+    main classes are distinguished according as the circuit is
+    represented by one or two quadripoles in the feedback line the
+    first class includes type networks subdivided into series
+    resonance and parallel resonance circuits and bridge type
+    circuits variations of the a basic circuits are illustrated and
+    formulae are derived for the properties and operating
+    conditions the main characteristics considered are
+    stabilization factors see of excitation conditions operating
+    frequency and crystal loading

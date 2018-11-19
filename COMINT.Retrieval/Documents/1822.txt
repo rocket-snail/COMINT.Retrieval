@@ -1,0 +1,4 @@
+an airborne frequency generating unit for the hf
+    communication band the unit gives an output frequency with
+    channel spacing of in the band a variable oscillator is phase
+    locked to a frequency derived from a standard

@@ -1,0 +1,4 @@
+a circuit for the protection of a stabilized transistor
+    power supply details are given of a transistorized protection
+    circuit providing switch off times and activated by currents
+    below the full load value

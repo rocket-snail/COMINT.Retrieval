@@ -1,0 +1,4 @@
+pulse compression without dispersive networks pulse
+    compression by means of a three dimensional correlator using
+    light modulation is described the application to radar systems
+    is discussed

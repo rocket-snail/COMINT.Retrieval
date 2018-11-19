@@ -1,0 +1,6 @@
+anomalous skin effect assuming arbitrary collision
+    integral results of a calculation of the surface impedance show
+    that the ratio equals for an arbitrary electron dispersion law
+    and an arbitrary collision integral is proportional to and is
+    independent of temperature in the anomalous skin effect
+    temperature range

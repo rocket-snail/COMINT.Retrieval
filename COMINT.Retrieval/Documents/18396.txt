@@ -1,0 +1,17 @@
+problems in the standardisation of title entries in
+    cataloguing networks. the development of a central title
+    catalogue free of redundancies, and in which titles with
+    multiple locational references occur only once, is possible
+    within a cooperative cataloguing network, where the work load
+    is distributed only through standardisation of the entry form.
+    to achieve this, the detection and prevention of multiple
+    references is especially important. describes the current
+    status of network cataloguing in west germany, the
+    monograph-cataloguing networks in north rhine westphalia,
+    bavaria, and oclc. the more intensive investigation of these
+    problems which thereby become apparent, regarding the
+    establishment of uniform title entries, takes into account the
+    technical aspects of data processing, specific library aspects,
+    and organisational problems. thus can a realistic appraisal of
+    the possibilities of using data processing in libraries be
+    achieved.

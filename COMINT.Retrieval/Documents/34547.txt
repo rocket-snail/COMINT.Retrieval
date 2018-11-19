@@ -1,0 +1,4 @@
+waveguide filters filters having high and low insertion
+    loss are produced by arranging inside a waveguide a number of
+    suitably spaced dielectric sections constituting
+    transformers

@@ -1,0 +1,8 @@
+theory of diffraction by a cylinder taking account of the
+    surface wave maxima and minima observed by a limback in
+    diffraction of centimetre em waves by metal cylinders are found
+    to be due to interference between the waves geometrically
+    reflected from the cylinder surface and the surface wave
+    creeping round to the b ck of the cylinder quantitative
+    calculations based on the integral equations of the diffraction
+    theory of give results in good agreement with experiment

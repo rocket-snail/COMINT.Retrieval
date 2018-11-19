@@ -1,0 +1,3 @@
+magnetic amplifier binary to analogue conversion three
+    saturable reactors are used to convert a ten digit input to an
+    analogue voltage driving a servo magnetic amplifier

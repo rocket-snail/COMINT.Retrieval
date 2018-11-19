@@ -1,0 +1,9 @@
+longitudinal plasma oscillations part the equations
+    derived in part are applied to the investigation of the
+    dispersive properties of the plasma for the case of hf
+    oscillations lf oscillations and high electron drift velocities
+    results show that in the propagation of longitudinal waves in
+    discharge tubes the motion of ions is frequently of importance
+    formulae are derived for the dependence of the space
+    periodicity and the damping coefficient on the discharge
+    parameters

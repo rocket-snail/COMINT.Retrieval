@@ -1,0 +1,2 @@
+find precedence functions (algorithm 265 [l2]) october,
+    1965 wirth, n. ca651004 jb march 6, 1978 6:52 pm

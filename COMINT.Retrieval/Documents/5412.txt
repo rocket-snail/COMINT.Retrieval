@@ -1,0 +1,2 @@
+a simplified theory of two carrier space charge limited
+    current flow in solids

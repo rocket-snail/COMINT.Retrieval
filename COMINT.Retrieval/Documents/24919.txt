@@ -1,0 +1,7 @@
+potential analog network synthesis for arbitrary loss
+    functions a method of network design s described in which the
+    appropriate potential problem is formulated on the basis of a
+    given loss function by introducing continuous charge
+    distribution on the complex frequency plane the technique of
+    charge quantization is used to find the natural modes of the
+    network function

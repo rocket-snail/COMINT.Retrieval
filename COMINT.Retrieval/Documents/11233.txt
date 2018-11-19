@@ -1,0 +1,7 @@
+measurement of the refractive index of lucite by
+    recoilless resonance absorption details are given of a method
+    of modulating the frequency of a monochromatic em wave by
+    varying the optical pathe length between the source and
+    detector in the application described a small frequency shift
+    in radiation is detected by recoilless resonance
+    absorption

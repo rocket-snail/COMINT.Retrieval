@@ -1,0 +1,6 @@
+harmonic distortion in sinusoidal frequency modulation
+    case of an amplifier stage comprising pentode valve and tuned
+    transformer formulae are presented for calculating the
+    harmonics and the total distortion present in the demodulated
+    voltage numerical calculations are performed for five different
+    sets of values of two important circuit parameters

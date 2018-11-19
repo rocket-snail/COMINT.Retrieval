@@ -1,0 +1,6 @@
+improvement of an iteration process suitable for
+    automatic division electronics computers having n organ rf
+    division are provided with a subroutine for the computation of
+    reciprocals an improvement of this subroutine is proposed which
+    permits a reduction of about in the number of operations
+    without affecting the accuracy

@@ -1,0 +1,10 @@
+relating mutagenicity to chemical structure. a computer
+    program correlating chemical structure with mutagenesis
+    activity has been developed as a predictive test for hazard
+    evaluation. sets of substructural units are derived from
+    complete structures, and the probability that a structure
+    containing a given unit will have a designated category of
+    activity is calculated. the program, validated by bacterial
+    mutagenesis testing, is capable of identifying similar
+    structures, showing why they are similar, and estimating the
+    activity of a structure.

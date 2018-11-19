@@ -1,0 +1,5 @@
+the cryosistor a new low temperature three terminal
+    switch a reverse biased pn junction is used to control the
+    ionization between two ohmic contacts its uses might be as a
+    fast monostable or bistable switch and as a pulse
+    amplifier

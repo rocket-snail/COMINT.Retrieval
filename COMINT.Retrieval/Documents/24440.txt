@@ -1,0 +1,14 @@
+the method of analytical signals study of the
+    synchronization of amplitude limited oscillators a method based
+    on that of ville of is used to determine the frequency limits
+    within which synchronization can be effected for a single tuned
+    self limiting valve oscillator the synchronization range is
+    given by where is the difference between the frequency of the
+    synchronization voltage and the natural frequency of the
+    oscillator and e is the amplitude of the oscillation in the
+    steady state the phase angle between the two voltages varies
+    from o for to a system with wide synchronization range is
+    discussed this incorporates a phase discriminator whose output
+    proportional to the phase angle between synchronization and
+    oscillator voltages is applied to a reactance valve which in
+    turn controls oscillator frequency and

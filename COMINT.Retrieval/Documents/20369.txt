@@ -1,0 +1,9 @@
+thermally compensated crystal oscillator frequency
+    stabilization without the use of a temperature controlled oven
+    is obtained by varying the effective shunt load of the crystal
+    a thermistor bead being the temperature sensitive element
+    transistor circuit varies reactance frequency control of a
+    oscillator to within is achieved by means of a variable
+    reactance circuit which produces an effective capacitance
+    change of up to for a change in emitter current from zero
+    to

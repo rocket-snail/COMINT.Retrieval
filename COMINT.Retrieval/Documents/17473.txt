@@ -1,0 +1,3 @@
+arrangement of batteries and relays permitting the
+    solution by analogy of nonlinear partial differential equations
+    by means of a chain of resistances and capacitances

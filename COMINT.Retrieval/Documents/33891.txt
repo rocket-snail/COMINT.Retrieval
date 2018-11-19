@@ -1,0 +1,3 @@
+a study of the playback process of a magnetic ring head a
+    simplified gap loss function is given for the case of finite
+    parameters for tape and head

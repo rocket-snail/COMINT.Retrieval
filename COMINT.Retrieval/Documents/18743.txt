@@ -1,0 +1,8 @@
+library training based on informatics. contribution to a
+    thematic issue on library training. investigates the
+    theoretical foundation of university library training and
+    proposes training based on informatics. presents the most
+    important themes of informatics as shannon's communication
+    theory; scientometrics; document typology; organising library
+    work; information management technology; and information
+    organisation.

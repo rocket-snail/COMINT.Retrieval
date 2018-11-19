@@ -1,0 +1,12 @@
+a computer-produced serials book catalog with
+    automatically generated indexes. the serials book catalogue at
+    the iowa state university library provides access to 33,000
+    serial records by titles, corporate bodies and subject
+    headings. access points are generated automatically from the
+    central serials data base by a unique, locally written computer
+    program which allows great flexibility in records manipulation.
+    local control of catalogue production permits expansion of the
+    program format by the creation of local tags and linkage to
+    related monograph records in the card catalogue, while
+    providing a basis for further automation of serials
+    control.

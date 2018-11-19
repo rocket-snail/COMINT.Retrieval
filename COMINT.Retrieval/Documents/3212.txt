@@ -1,0 +1,2 @@
+theory of laser oscillation in fabry perot resonators an
+    approximate condition for oscillation is derived

@@ -1,0 +1,2 @@
+a sequence switching unit for measurement of ionospheric
+    drift

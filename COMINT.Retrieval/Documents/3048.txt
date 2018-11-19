@@ -1,0 +1,5 @@
+accuracy and limitations of the resistor network used for
+    solving laplaces and poissons equations the accuracy of a
+    resistor network is higher than that of the best comparable
+    electrolyte tank improved methods of simulating boundary
+    conditions are described

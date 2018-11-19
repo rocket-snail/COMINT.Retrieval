@@ -1,0 +1,4 @@
+ferromagnetic amplifiers note on an absorption of
+    microwave power observed with a magnetized garnet sphere in a
+    microwave field at a frequency approximately twice that
+    corresponding to the magnetization

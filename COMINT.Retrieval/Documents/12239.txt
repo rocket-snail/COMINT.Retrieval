@@ -1,0 +1,7 @@
+symmetrical matrix analysis of parametric amplifiers and
+    converters expressions are derived for gain bandwidth and noise
+    figure and by regarding the matrix as a nodal admittance array
+    an equivalent conductance c rcuit is constructed it is shown
+    that for low no se figure and wide bandwidth the idler
+    frequency should be much higher than the signal
+    frequency

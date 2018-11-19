@@ -1,0 +1,9 @@
+investigations on artificial dielectrics at micro wave
+    frequencies the transmission of a wave through a parallel plate
+    array was studied experimentally the observed variation of
+    phase change with angle of incidence is in fair agreement with
+    that calculated from the formula given by the difference
+    between them is attributed to diffraction effects and the
+    presence of higher order modes inside the array values are
+    deduced for the minimum dimensions required to avoid
+    diffraction effects

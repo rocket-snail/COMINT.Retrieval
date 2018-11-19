@@ -1,0 +1,4 @@
+design of transistor regulated power supplies two
+    applications of the circuit are described one giving at and the
+    other at output resistance is about and ripple on full load is
+    less than it

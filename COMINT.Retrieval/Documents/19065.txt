@@ -1,0 +1,5 @@
+some considerations on s square loop magnetic core
+    circuits domain wall motion theory is introduced to correct the
+    simple analysis for determining the driving impedance of a
+    ferrite core the results for peak output voltage are not
+    changed by using the domain theory

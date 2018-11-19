@@ -1,0 +1,8 @@
+polarization of a molecular beam by an alternating field
+    with variable amplitude and phase equations are derived and an
+    exact solution is given for the case when the frequency of the
+    applied field is the same as that of the molecular transition
+    approximate solutions are obtained for slow and rapid
+    variations in the amplitude and frequency of the field during
+    the time of transit of the molecular beam through the resonator
+    cavity

@@ -1,0 +1,5 @@
+contribution on the stabilization of the operating point
+    of transistors direct current positive and negative feedback
+    over two or more stages in earthed emitter transistor
+    amplifiers provides effective stabilization against temperature
+    variations and differences in transistor characteristics

@@ -1,0 +1,3 @@
+parallel network a simplified design method is presented
+    based on finding an equivalent network which is more amenable
+    to mathematical treatment

@@ -1,0 +1,4 @@
+circuits with nonlinear resistance an extension of the
+    study of series circuits with diodes of to the behaviour of
+    parallel combinations of circuit elements each circuit
+    containing a diode as a nonlinear resistance

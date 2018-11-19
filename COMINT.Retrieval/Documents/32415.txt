@@ -1,0 +1,3 @@
+theoretical investigation of a tuning procedure for
+    bridge stabilized crystal oscillators the tuning method
+    described above is analysed

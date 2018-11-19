@@ -1,0 +1,9 @@
+automated loan system at the state scientific library in
+    kosice. surveys the impact of and the problems connected with
+    the application of automation on day to day work at the state
+    scientific library (ssl) in kosice. the use of punched tapes
+    for the preparation of bibliographies, reports, abstracts and
+    documents for publication proved very useful. system tesla rpp
+    16s with real time operation is being used for the processing
+    of loans. the organisation of work connected with it is
+    described in detail.

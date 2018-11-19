@@ -1,0 +1,5 @@
+thermodynamic method for measurement of the refractive
+    index of the atmosphere description of the radiosonde apparatus
+    is described which is capable of determining the distribution
+    of temperature pressure and humidity variations with a fineness
+    sufficient for radio propagation calculations

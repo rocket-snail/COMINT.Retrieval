@@ -1,0 +1,7 @@
+special libraries and databases' a state-of-the-art
+    report. state-of-the-art review, analysis and projection of the
+    use of machine-readable data bases, including on-line search
+    services and on-line support services. emphasises the
+    application of bibliographic data bases for special libraries
+    and the potential of such files for future use. also discusses
+    current use and applications of non-bibliographic files.

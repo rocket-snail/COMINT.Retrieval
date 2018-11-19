@@ -1,0 +1,6 @@
+scattering of electromagnetic waves by lo g cylinders the
+    field scattered by a metal or dielectric cylinder when excited
+    by a wave propagated in a direction normal to the cylinder axis
+    is discussed theoretically for plane and cylindrical waves the
+    radius of the cylinder is comparable with the wave length the
+    dielectric cylinder is a resonant structure

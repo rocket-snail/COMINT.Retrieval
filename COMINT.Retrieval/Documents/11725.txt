@@ -1,0 +1,5 @@
+some problems of the physics of the ionosphere part
+    fluctuation of the electron density and scattering of radio
+    waves electron density usw scattering and turbulence of the
+    ionosphere are discussed and experimental results are analysed
+    references

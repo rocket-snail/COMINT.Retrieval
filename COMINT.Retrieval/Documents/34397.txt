@@ -1,0 +1,3 @@
+band pass amplifiers their synthesis and gain bandwidth
+    factor seven types of band pass amplifier are investigated and
+    compared and their design formulae are given

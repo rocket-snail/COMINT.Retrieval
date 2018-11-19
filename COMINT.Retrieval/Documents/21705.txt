@@ -1,0 +1,5 @@
+a grating spectrometer for the far infrared range and
+    short microwaves a special diffraction grating is incorporated
+    in the equipment described which covers the wavelength range mm
+    for measurements blow mm the source is a mercury vapour lamp
+    above mm a klystron with frequency multiplier is used

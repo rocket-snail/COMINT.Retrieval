@@ -1,0 +1,4 @@
+theory of electrostatic fields in the ionosphere at polar
+    and middle geomagnetic latitudes discussion of paper by
+    spreiter and briggs of and criticism of daggs theory of the
+    formation of irregularities in the f region of and

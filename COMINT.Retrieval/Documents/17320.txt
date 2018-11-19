@@ -1,0 +1,6 @@
+influence of absorption on the reflection coefficient of
+    the ionosphere the reflection coefficient of a stratified layer
+    is considered assuming that electron concentration varies
+    linearsy with height absorption is represented by a viscous
+    resistance proportional to the velocity of free
+    electrons

@@ -1,0 +1,2 @@
+comparison of some magnetic amplifier circuits with
+    internal feedback

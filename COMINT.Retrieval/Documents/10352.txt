@@ -1,0 +1,4 @@
+provision of energy literature. describes both manual and
+    machine-readable access to information on energy sources, and
+    reports on the creation of a nordic energy index on magnetic
+    tape and com-fiche.

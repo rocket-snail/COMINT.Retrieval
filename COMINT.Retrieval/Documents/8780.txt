@@ -1,0 +1,7 @@
+the bridge stabilized transformerless oscillator with
+    complex amplification factor oscillators of the type described
+    by zaiser of with rc frequency determining circuits are
+    discussed the effect of complex transfer factor is investigated
+    and the conditions are determined under which oscillations at
+    unwanted frequencies are suppressed without impairing the
+    frequency stability of the wanted oscillation

@@ -1,0 +1,7 @@
+navy libraries: information storage and retrieval system.
+    proceedings of the consatl workshop and meeting (38th), 23-25
+    april 1980. the following topics are covered' user needs for
+    library automation' overview of the automated library system;
+    outline for a comprehensive information systems analysis;
+    basis-battelle's data management system; data base input,
+    circulation systems.

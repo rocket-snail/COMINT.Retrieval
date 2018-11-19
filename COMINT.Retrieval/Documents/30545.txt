@@ -1,0 +1,5 @@
+principles of creating a logical information system for
+    medical and biological research. discusses the principles of
+    creating a computerised data base for the analysis,
+    manipulation, and application of data obtained by medical and
+    biological investigation.

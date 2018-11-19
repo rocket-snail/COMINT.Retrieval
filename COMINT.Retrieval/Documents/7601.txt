@@ -1,0 +1,12 @@
+automodulation in ferroresonance automodulation of forced
+    oscillations in ferroresonant circuits ie circuits containing
+    nonlinear reactive elements is considered the following
+    examples are examined circuit with a thermistor circuit with a
+    capacitor whose value depends on the field and on temperature
+    an es voltmeter connected to a ferroresonant circuit the
+    stationary operating conditions and their stability in such
+    circuits are discussed and the depth and period of
+    automodulation are determined the discussion is limited to
+    cases in which the circuit is nearly of the linear conservative
+    type and the variations of amplitude and phase are slow in
+    comparison with the period of the external force

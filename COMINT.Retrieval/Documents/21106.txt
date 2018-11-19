@@ -1,0 +1,10 @@
+coaxial cavity tuning element for uhf the design is
+    described of a unit which can be used in television tuners and
+    test instruments for the band the unit consists essentially of
+    a metal cylinder with an axial conductor having a gap at the
+    centre to form a variable capacitor for tuning an accurately
+    machined low loss dielectric tube separates core and cylinder
+    and serves as a close fitting guide for the tuning plunger
+    applications of the unit in a signal generator a frequency
+    sweep generator a wavemeter and a grid dip meter are described
+    briefly

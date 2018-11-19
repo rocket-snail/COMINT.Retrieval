@@ -1,0 +1,7 @@
+theory of pulling in by a small amplitude external force
+    a method is developed for calculating the effect of small
+    periodic external forces on an oscillating system the method is
+    illustrated by considering the effect of a small sinusoidal
+    voltage of frequency on a valve oscillator with a natural
+    frequency the difference between the frequencies being
+    small

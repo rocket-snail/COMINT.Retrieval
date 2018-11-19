@@ -1,0 +1,5 @@
+conversion of a brune cycle with an ideal transformer
+    into a cycle without an ideal transformer an alternative proof
+    to that of bott and duffin is given for the existence of a
+    network configuration without an ideal transformer
+    corresponding to any positive real function

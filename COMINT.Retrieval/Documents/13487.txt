@@ -1,0 +1,3 @@
+doppler effect in an electron plasma in a magnetic field
+    a note on the complex doppler effect occurring in an
+    anisotropic or gyrotropic medium

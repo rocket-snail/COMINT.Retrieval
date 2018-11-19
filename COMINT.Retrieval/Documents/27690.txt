@@ -1,0 +1,6 @@
+photoelectric transformation of mathematical functions
+    solution of equations an arrangement comprising a mirror
+    galvanometer in combination with an appropriately shaped
+    diaphragm and a photocell is used to generate a current when
+    the current flows through the galvanometer elaboration of the
+    arrangement to generate complex functions is discussed

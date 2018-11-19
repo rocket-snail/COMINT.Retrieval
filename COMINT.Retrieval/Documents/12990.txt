@@ -1,0 +1,4 @@
+problems relating to transistor power amplifiers the
+    design of transformerless af output amplifiers is considered
+    and a graphical method for determining transistor thermal
+    stability is given

@@ -1,0 +1,5 @@
+measurement of ionospheric winds experiments made at
+    domont france by the three receiver method are described the
+    electron displacements deduced from observations correspond to
+    some extent with those necessary to account for the daily
+    variations in the earths magnetic field

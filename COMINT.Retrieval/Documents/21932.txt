@@ -1,0 +1,12 @@
+acompline' an on-line information system for local
+    government. gives an account of the setting up of acompline
+    (acomplis before 1981) by the greater london council's research
+    library. the original system, acomplis (a computerised london
+    information service), was introduced in 1973 to provide the
+    research library with in-house facilities; including com
+    indexes to the library's stock, special indexes,
+    bibliographies, sdi and batch (off-line) searching. in 1981,
+    with the european space agency information retrieval services
+    (esrin) acting as host, acompline was launched as the 1st
+    comprehensive on-line data base in the field of local
+    government information.

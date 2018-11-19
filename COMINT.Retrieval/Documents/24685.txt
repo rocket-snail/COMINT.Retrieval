@@ -1,0 +1,6 @@
+energy loss by a charged particle passing through a
+    laminar dielectric part a general expression has been obtained
+    for losses of a particle moving in an unbounded laminar medium
+    or a waveguide filled with a dielectric polarization losses are
+    examined and an expression for the spectral distribution of
+    parametric cherenkov radiation is derived

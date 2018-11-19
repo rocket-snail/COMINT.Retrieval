@@ -1,0 +1,5 @@
+calculation of the attenuation in filtered oscillators a
+    hypothesis previously used is not required in defining the
+    dynamic characteristics of a control system a particular class
+    of nonlinear servo mechanisms is investigated and stability
+    criteria are discussed see also of april of may

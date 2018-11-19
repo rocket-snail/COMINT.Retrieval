@@ -1,0 +1,5 @@
+new physical constants from dimensional analysis three
+    quantities are formulated which represent constants of
+    astronomy and classical mechanics and of submicroscopic physics
+    and which correlate phenomena in electromagnetic quantum and
+    classical physics

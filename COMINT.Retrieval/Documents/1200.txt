@@ -1,0 +1,4 @@
+alphanumeric characters the available characters are
+    displayed by the splot deflection method at a rate of sec a
+    full description of the systems with block and circuit diagrams
+    is given

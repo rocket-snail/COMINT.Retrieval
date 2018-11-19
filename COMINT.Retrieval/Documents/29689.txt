@@ -1,0 +1,5 @@
+a feedback circuit equivalence transfer network
+    representations and their transformations are used to show that
+    the feedback in a bootstrap amplifier with shunt feedback may
+    be considered either positive or negative without
+    inconsistency

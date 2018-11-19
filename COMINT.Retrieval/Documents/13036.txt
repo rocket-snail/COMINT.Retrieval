@@ -1,0 +1,7 @@
+the dielectric properties of water in solutions
+    measurements have been made of the microwave dielectric
+    constants and losses of water and some aqueous solutions over
+    the temperature range using methods described by collie et al
+    the dielectric constant of water at cm rises from at to at
+    results for the solutions are tabulated and their
+    interpretation is discussed

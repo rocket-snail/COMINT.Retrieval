@@ -1,0 +1,10 @@
+equivalent network representations for solid and mercury
+    delay lines an equivalent network representation is obtained
+    from consideration of the piezo electric properties of the
+    quartz crystal used to convert the electrical energy into
+    ultrasonic energy a formula is derived for the transfer
+    function of the line when mercury and fused quartz lines are
+    compared on the basis of the gain bandwidth product only the
+    fused quartz line is superior but other factors eg production
+    of spurious signals must be taken into account when selecting a
+    line for a specific application

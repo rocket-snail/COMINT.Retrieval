@@ -1,0 +1,8 @@
+silicon solar batteries as a source of electrical supply
+    in artificial earth satellites experiments using si pn
+    junctions to convert solar radiation into electrical energy are
+    described photo elements having a surface area of cm and a
+    thickness of mm were used at sea level with the suns rays
+    incident normally an efficiency of was recorded corresponding
+    to for an area of m with a solar constant of a si plate exposed
+    to the sun showed a temperature of

@@ -1,0 +1,3 @@
+high power transistor dc converters circuits are
+    considered for dc dc or dc ac converters using ge and si power
+    transistors which can give power outputs of up to w

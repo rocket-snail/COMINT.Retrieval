@@ -1,0 +1,9 @@
+index of refraction above feet calculations are made on
+    the basis of refractive index measurements reported by in
+    conjunction with relevant meteorological data to an accuracy
+    within only the density of the air has any significant effect
+    in relation to refractive index variations at and only at
+    altitudes up to variations due to water vapour content and
+    electrons in the ionosphere are negligible thus for practical
+    purposes a standard refractive index can be based on a standard
+    density distribution

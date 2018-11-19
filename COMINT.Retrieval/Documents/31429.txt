@@ -1,0 +1,8 @@
+poissons partial difference equation the greens functions
+    and their asymptotic behaviour for poissons partial difference
+    equation in two and three dimensions are discussed and the
+    distribution of potential and current in a regular grid of
+    wires is calculated the method may also be applied to non
+    isotropic grids and can be extended to triangular and hexagonal
+    grids in two dimensions and probably to more complicated
+    patterns in three dimensions

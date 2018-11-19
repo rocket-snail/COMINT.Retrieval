@@ -1,0 +1,5 @@
+a one valve dc amplifier with high impedance input a
+    simple one valve high impedance probe circuit intended for
+    direct connection to a dc amplifier is described drift is about
+    in the first half hour of use a simple method of reducing the
+    input time constant is also given

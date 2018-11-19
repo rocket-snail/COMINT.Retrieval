@@ -1,0 +1,15 @@
+the underlying characteristics of the bradford
+    distribution. the bradford distribution differs from most
+    probability distributions in that it is concerned with the
+    rank-order s of the elements in terms of their productivity
+    (from highest down to lowest) rather than with the numerical
+    values n of the element's productivity. the defining
+    relationship is that s is exponentially related to g, the
+    cumulative production of the elements of rank-order s or less.
+    this implies a zipf-like relationship between mean productivity
+    and rank-order, which is analogous to the weber-fechner law of
+    psychophysics. a variational specification of the distribution
+    is given, and it is pointed out that the relationship between
+    the construction of the bradford and that of the usual
+    distributions is roughly analogous to the relationship between
+    lebesgue and riemann integration.

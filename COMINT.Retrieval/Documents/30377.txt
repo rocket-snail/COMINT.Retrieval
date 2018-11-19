@@ -1,0 +1,4 @@
+an simple electronic fourier synthesizer an experimental
+    model of a machine for two dimensional fourier synthesis is
+    described which incorporates magnetic drum storage of the
+    required sine and cosine functions

@@ -1,0 +1,4 @@
+design of a dual pulse code train generator description
+    of a pulse train generator developed for delay line testing
+    which provides a double train of pulses of variable
+    separation

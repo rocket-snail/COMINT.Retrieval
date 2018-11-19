@@ -1,0 +1,6 @@
+systems for simultaneous image formation with radio
+    telescopes to avoid point by point scanning in radio astronomy
+    an optical and an ultrasonic method of forming instantaneous
+    images are considered practical systems with useful sensitivity
+    and resolution will require further technical
+    development

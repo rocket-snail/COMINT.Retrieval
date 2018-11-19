@@ -1,0 +1,3 @@
+noise output of balanced frequency discriminator a
+    mathematical analysis for gaussian noise input assuming no
+    limiter action

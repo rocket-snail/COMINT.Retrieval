@@ -1,0 +1,8 @@
+trends of development in the field of electrical
+    component for telecommunication component design is considered
+    from the point of view of the physics and chemistry involved in
+    meeting the requirements of operation over a particular
+    frequency band operation under conditions of prescribed current
+    waveform and intensity operation under peak loads operation at
+    low loss operation under given ambient conditions operation
+    under restrictions of tolerance stability and durability

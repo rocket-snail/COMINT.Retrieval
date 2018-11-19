@@ -1,0 +1,6 @@
+the effect of large pump voltage on tunnel diode down
+    converter performance lower noise factor and increased
+    stability can be achieved through the application of relatively
+    large pump voltages the effects are predictable by a theory
+    incorporating a suitable power series representation for the
+    diode characteristic

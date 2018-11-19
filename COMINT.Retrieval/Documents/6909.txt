@@ -1,0 +1,10 @@
+a national information system for archives and manuscript
+    collections. discusses some important considerations concerned
+    with the construction of a national information system for
+    archives and manuscript collections in the usa. these include:
+    the identification of users and potential users; and the
+    approach of these users to the collection; standardisation of
+    entries; and subject access. considers briefly some problems in
+    the implementation and planning of this national system, and
+    the involvement of the archival profession in its
+    design.

@@ -1,0 +1,5 @@
+definition of lossy quadripoles by voltage node
+    displacements in the microwave range equations are derived
+    giving the voltage swr and the position of the voltage node on
+    the input line of a lossy quadripole in terms of the position
+    of the short circuit on its output line

@@ -1,0 +1,9 @@
+derivative controlled magnet amplifiers a two stage
+    circuit for a low level fast response unit is described the
+    first stage acts as derivative amplifier amplifying average
+    increments of signal voltage per half cycle of power supply
+    voltage the second stage acts as integrator amplifying and
+    summing the output voltage of the first stage if the negative
+    feedback applied to the first stage is delayed by a low pass
+    filter the total time constant of a system incorporating the
+    amplifier can be effectively reduced

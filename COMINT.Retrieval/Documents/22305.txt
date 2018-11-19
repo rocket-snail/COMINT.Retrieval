@@ -1,0 +1,4 @@
+checking crystal oscillators simple measurements are
+    suggested to ensure that a crystal will oscillate in a
+    specified circuit without damage and at the required
+    frequency

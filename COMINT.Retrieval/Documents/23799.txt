@@ -1,0 +1,6 @@
+nonlinear theory of plasma oscillations and waves an
+    exact differential equation for density oscillations is found
+    considering only coulomb interactions between electrons a
+    number of properties of plasma oscillations are then derived
+    including the form of stationary spherical waves in an
+    isotropic plasma see also of

@@ -1,0 +1,5 @@
+millimicrosecond microwave ferrite modulator description
+    of a switching device similar to the resonance type isolator
+    described by enander of but with ferrite rings placed inside
+    the helix and with a single straight wire along the axis
+    carrying the modulating current

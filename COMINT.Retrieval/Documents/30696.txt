@@ -1,0 +1,5 @@
+influence of an inhomogeneity of the high frequency field
+    in nuclear magnetic resonance theoretical results show that to
+    a first order approximation the inhomogeneity has no effect on
+    the signal amplitude provided that the conditions for a maximal
+    signal in a homogeneous field are fulfilled

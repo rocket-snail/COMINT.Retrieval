@@ -1,0 +1,6 @@
+thesauri in informatics. the thesaurus is considered as a
+    definite structured system of semantic units with a developed
+    set of relations. questions concerning correlations between the
+    thesaurus and different classifications and between branch
+    thesauri are clarified. the connection between texts and
+    thesaurus construction problems are investigated.

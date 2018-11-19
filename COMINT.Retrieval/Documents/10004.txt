@@ -1,0 +1,6 @@
+the development of the national automated scientific and
+    technical information system in bulgaria. discusses problems
+    involved in the development and activation of bulgaria's
+    national automated scientific and technical information system.
+    describes the principles of such systems and their hardware and
+    software problems.

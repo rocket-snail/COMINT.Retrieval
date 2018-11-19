@@ -1,0 +1,5 @@
+a high voltage medium power rectifier a description is
+    given of the operating characteristics of pnp junction
+    rectifiers prepared by fusing impurity metals to ge wafers the
+    addition of cooling fins enables higher powers to be
+    handled

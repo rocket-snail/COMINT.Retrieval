@@ -1,0 +1,6 @@
+a amplifier employing transistors the amplifier described
+    comprises an input stage a driver and a class b stage with
+    overall feedback the maximum output is measured at with total
+    harmonic distortion mainly third harmonic the sensitivity at
+    the input terminal is about minimum total distortion is at an
+    output of about

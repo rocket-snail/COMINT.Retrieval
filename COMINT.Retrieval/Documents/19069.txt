@@ -1,0 +1,4 @@
+the reactive behaviour of nonlinear negative differential
+    resistors nonlinear negative resistance two poles may have a
+    reactive component when forming part of a given relaxation
+    oscillator circuit

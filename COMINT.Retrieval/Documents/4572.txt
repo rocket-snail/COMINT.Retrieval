@@ -1,0 +1,5 @@
+computation methods for transistors and transistor
+    circuits treated as active quadripoles upper and lower limits
+    for frequency of operation are found using experimentally
+    determined values for the equivalent network impedances
+    stability is discussed

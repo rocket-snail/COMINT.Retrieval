@@ -1,0 +1,13 @@
+tje practical calculation of transient response for
+    arbitrary attenuation and phase distortion phase characteristic
+    is determined from a given attenuation frequency curve by bodes
+    method the locus of the complex transfer coefficient is
+    approximated by fourier series the calculated coefficients are
+    used to evaluate the response function for the case of unit
+    pulse and unit step input as an example the transfer functions
+    are determined for three different amplifier characteristics in
+    a receiver the accuracy of the method in giving the general
+    shape of the transient response curve is verified using
+    samulons method an appendix contains formulae for calculating
+    the fourier coefficients required and tables of the functions
+    sin and sin applying in cases and respectively

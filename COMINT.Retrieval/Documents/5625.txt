@@ -1,0 +1,7 @@
+pulse formation and supply for magnetrons discussion of
+    the design of a modulator capable of handling pulses of the
+    order of at wit a duration of an a repetition rate of per sec
+    the method of pulse formation used is based on the slow
+    charging of a capacitor the use of artifical lines for pulse
+    shaping is described if a pulse transformer is used the
+    charging voltage need not be unduly high

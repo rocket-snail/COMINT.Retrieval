@@ -1,0 +1,6 @@
+current build up in neon gas discharges at small
+    overvoltages the increase is exponential the time constant is
+    calculated theoretically assuming that the discharge is
+    sustained by secondary emission from the cathode caused by ions
+    and metaastable ne atoms there is good agreement with
+    experiment

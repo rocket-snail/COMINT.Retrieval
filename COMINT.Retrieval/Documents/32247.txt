@@ -1,0 +1,4 @@
+qualitative investigation of a new oscillator circuit
+    analysis of a triode oscillator circuit with good frequency
+    stability by mathematical treatment and an analogue
+    differential analyser

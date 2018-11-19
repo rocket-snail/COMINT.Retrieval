@@ -1,0 +1,4 @@
+some remarks about electron correlation a comparison is
+    made between theories representing different approaches to the
+    inclusion of correlation in the wave mechanics treatment of a
+    free electron gas

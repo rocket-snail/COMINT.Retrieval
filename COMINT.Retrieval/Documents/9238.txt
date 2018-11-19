@@ -1,0 +1,10 @@
+online interactive information retrieval services from
+    the inis data base in hungary. an account of the 10-month
+    experimental period of the on-line retrospective search service
+    at the central technical library and documentation centre
+    (omkdk) of hungary. presents a brief overview of the structure
+    and services of the inis (international nuclear information
+    system) data base. the main features and operation of
+    interactive searching are described with an introduction to the
+    stairs system used for searching the data base. gives an
+    example of an on-line session.

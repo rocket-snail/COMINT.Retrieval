@@ -1,0 +1,9 @@
+diffraction by a wide slit and complementary strip the
+    diffraction of e and h polarized waves by an infinite slit is
+    considered induced current densities aperture and far fields
+    and the transmission coefficient are calculated in the form of
+    infinite series in inverse powers of the slit width wavelength
+    ratio the solution for diffraction by a strip is also obtained
+    a comparison is made with previous results this method appears
+    to provide accurate information when the slit width is greater
+    than a wavelength

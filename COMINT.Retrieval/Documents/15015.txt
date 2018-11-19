@@ -1,0 +1,6 @@
+a new method for the solution of a problem of diffraction
+    of electromagnetic plane waves at an unlimited rectilinear slit
+    and related problems using the method described a good
+    approximation to the exact solution of the diffraction problem
+    can be obtained for normally incident plane waves of wavelength
+    much smaller than or equal to the width of the slit

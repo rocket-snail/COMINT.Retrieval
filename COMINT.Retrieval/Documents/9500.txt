@@ -1,0 +1,8 @@
+a further note on dual integral equations and an
+    application to the diffraction of electromagnetic waves a
+    solution obtained previously is extended to cover cases in
+    which the order of the bessel function kernel is not zero as an
+    example the solution is applied to a problem in the diffraction
+    of waves by a plane slit discussion of the problem is
+    criticized results obtained are in agreement with those of
+    muller

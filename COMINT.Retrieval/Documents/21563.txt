@@ -1,0 +1,3 @@
+on the theory of superconductivity an exact treatment of
+    the strong coupling approximation in the theory of bardeen et
+    al and discussion of the meissner effect

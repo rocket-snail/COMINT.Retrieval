@@ -1,0 +1,12 @@
+lf compensation for video amplifiers part negative
+    feedback amplifiers the method outlined in part of august is
+    applied to negative feedback amplifiers if is independent of
+    frequency the overall response is optimum when the indicial
+    response of the path is optimum and the order of compensation
+    is the same if is made frequency dependent by including a
+    capacitor in the feedback path compensation can be obtained
+    which s one order higher than that obtainable from the path
+    alone the method is applied to some simple circuits including
+    cases where a coupling or a decoupling circuit is outside the
+    feedback loop experimental results confirming the theory are
+    reported

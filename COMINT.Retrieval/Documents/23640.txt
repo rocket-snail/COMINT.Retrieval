@@ -1,0 +1,6 @@
+contribution to the study of the operation of magnetic
+    amplifiers the operation of a basic magnetic amplifier circuit
+    is analysed assuming a square wave input and z rectangular
+    hysteresis loop the area of which is increased due to eddy
+    currents an equivalent circuit is derived that is applicable
+    for the case of a periodic or continuous control signal

@@ -1,0 +1,11 @@
+future plans for the ulscs. paper presented at a one-day
+    seminar on the university of london shared cataloguing system,
+    3 apr 81. ulscs is merely a means to an end-that being a
+    university-wide network for resource sharing in libraries. the
+    system will provide many elements needed for a cooperative
+    acquisitions programme, a shared data base to which all the
+    system's libraries will contribute, and user access within the
+    library and academic department of an on-line catalogue. the
+    system should, however be seen in its place in the national
+    network, and it will be accessed along with the marc files and
+    save a geat deal of time.

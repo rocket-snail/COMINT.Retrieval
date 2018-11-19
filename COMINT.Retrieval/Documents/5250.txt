@@ -1,0 +1,4 @@
+the approximation of special frequency laws by means of
+    tables of frequency functions an approximation method
+    facilitating the synthesis of two pole and quadripole networks
+    is described

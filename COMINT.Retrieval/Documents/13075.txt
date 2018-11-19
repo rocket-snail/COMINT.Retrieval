@@ -1,0 +1,14 @@
+euronet and videotex: competitive or complementary?. the
+    possibility of combining communications networks and videotex
+    services is discussed, with particular reference to the ways in
+    which euronet diane network could be interworked with the
+    existing european videotex services. the following
+    possibilities of interworking are considered' euronet as a
+    means of connecting customers to a foreign videotex centre; as
+    a link between videotex centres and the private computers of
+    information providers; as a means of enabling the videotex
+    terminal to access sti data bases; as a means of enabling
+    euronet diane users with a tty-compatible terminal to access a
+    videotex centre. consideration is also given to adapting and
+    connecting terminals, formatting, command sequences and
+    character recognition.

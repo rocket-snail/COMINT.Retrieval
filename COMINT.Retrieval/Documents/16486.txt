@@ -1,0 +1,4 @@
+diffusion in the ionosphere a review of some recent work
+    work by gliddon and kendall of shows considerable support for
+    the hypothesis that f and f regions are produced by the same
+    source of ionization

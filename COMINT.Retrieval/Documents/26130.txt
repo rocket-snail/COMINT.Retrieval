@@ -1,0 +1,11 @@
+diffraction of electromagnetic waves by smooth obstacles
+    for grazing angles the diffraction of electromagnetic waves by
+    a convex cylindrical suface is considered attention is confined
+    primarily to the region near the lightshadow boundary the
+    complex integral representation for the field is utilized to
+    obtain a correction to the kirchhoff theory numerical results
+    are presented which illustrate the influence of surface
+    curvature and polarization on the diffraction pattern good
+    agreement with the experimental results of bachynski neugebauer
+    is obtained the effect of finite conductivity is also
+    considered

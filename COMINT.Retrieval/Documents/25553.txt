@@ -1,0 +1,4 @@
+elementary proof of an extended reactance theorem for two
+    terminal networks a proof is derived for fosters reactance
+    theorem which is also applicable to its extended form covering
+    loss free circuit elements and transmission lines

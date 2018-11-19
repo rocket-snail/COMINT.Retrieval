@@ -1,0 +1,8 @@
+on the molecular theory of electrostriction the case of a
+    sphere of fluid dielectric subjected to a uniform external
+    field is discussed from both macroscopic and microscopic points
+    of view that part of the spur of the stress tensor which
+    depends quadratically on the applied field is calculated for
+    both nonpolar and dipolar dielectrics the lorenz lorentz and
+    debye theories lead to the result that is zero but more modern
+    theories lead to a different result

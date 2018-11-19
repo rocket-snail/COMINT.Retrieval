@@ -1,0 +1,6 @@
+energy spectrum and angular distributions of electrons
+    trapped in the geomagnetic field count rates taken during a
+    sounding rocket flight to km are used to derive distributions
+    of pitch angles at various heights and the energy spectrum the
+    latter was found to be constant above km electron flux for
+    energies at apogee was sec

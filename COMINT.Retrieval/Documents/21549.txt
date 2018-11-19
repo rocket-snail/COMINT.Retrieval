@@ -1,0 +1,10 @@
+criteria for the amplitude stability of a power
+    oscillator stability criteria for a tuned anode oscillator are
+    established in the form of two inequalities derived from
+    differential equations expressing the voltage variations of the
+    grid and anode and involving the ratio of feed back power to
+    anode power the ratio of the time constant of the grid leak and
+    capacitor combination to the time constant of the tank circuit
+    and functions of the angles of current flow for grid and anode
+    experimental verification of the results using a triode is
+    reported

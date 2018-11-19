@@ -1,0 +1,4 @@
+investigation of the ionosphere using signals from earth
+    satellites possible effects of the ionosphere on radio signals
+    from artificial earth satellites are discussed with reference
+    to theoretical results noted earlier of

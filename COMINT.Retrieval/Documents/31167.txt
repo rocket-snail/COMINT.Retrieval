@@ -1,0 +1,4 @@
+idealized treatment of relaxation oscillator circuits
+    topological analysis of idealized circuits with the
+    introduction of critical point notation a correct solution can
+    only be obtained if the system oscillates

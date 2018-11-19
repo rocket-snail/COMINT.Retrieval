@@ -1,0 +1,6 @@
+equipment for the measurement of changes of the phase
+    path of ionospheric echoes the equipment described is built
+    with units conventional in pulse applications and is developed
+    from that described f by findlay and of oscillograms of ground
+    pulse beats and echo patterns of the e and f regions are
+    shown

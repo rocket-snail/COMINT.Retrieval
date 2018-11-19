@@ -1,0 +1,10 @@
+planning and implementing social service information
+    systems' a guide for management and users. deals with the
+    design of a social service information system. identifies
+    critical elements, effective strategies, and potential pitfalls
+    in the planning, implementation, and utilisation of such
+    systems. the information is intended to help administrators and
+    users establish successful social service information systems,
+    anticipate and avoid problems already faced by similar
+    agencies, and maximise the use of existing and future
+    systems.

@@ -1,0 +1,4 @@
+the direction dependence of magnetostriction tensor
+    methods are used to describe the lattice distortion caused by
+    magnetostriction for similar calculations of the direction
+    dependence of crystal energy see

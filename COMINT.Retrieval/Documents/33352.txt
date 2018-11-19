@@ -1,0 +1,3 @@
+a conducting permeable sphere in the presence of a coil
+    carrying an oscillating current the secondary magnetic fields
+    due to the sphere are calculated for frequencies

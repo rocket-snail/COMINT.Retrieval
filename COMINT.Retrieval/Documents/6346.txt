@@ -1,0 +1,5 @@
+resonance effects in the theory of meteor observability
+    the observability theory for forward scattering and revised to
+    cover the resonance that occurs when there is a component of
+    the incident electric vector transverse to the axis of the
+    meteor trail normalized contours are given

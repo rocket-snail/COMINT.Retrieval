@@ -1,0 +1,13 @@
+computer basics for librarians and information
+    scientists. an introductory text on computers and data
+    processing which provide a broad overview of the field, with an
+    emphasis on the needs and interests of the library and
+    information science community. many aspects of computing
+    systems are discussed ranging from hardware and software
+    concepts to personnel and documentation requirements. sections
+    on storage considerations and programming languages stress
+    issues of particular importance in library computing systems.
+    at the same time, special attention has been given to those
+    topics commonly ignored in books dealing with library
+    automation. for example, operating systems and the internal
+    methods of computer memory management are discussed.

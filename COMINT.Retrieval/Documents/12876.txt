@@ -1,0 +1,5 @@
+computer-to-computer communication in the acquisition
+    process. the work of bisac (book industry systems advisory
+    committee) in developing and promoting on-line acquisition via
+    direct computer-to-computer systems and in producing a standard
+    format for data interchange is described.

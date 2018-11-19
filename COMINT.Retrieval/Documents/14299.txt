@@ -1,0 +1,5 @@
+theory of three phase bridge magnetic amplifier part one
+    steady state a discussion of operation at minimum load with the
+    control circuit either open or closed is followed by a study of
+    conditions under normal excitation from minimum to half
+    load

@@ -1,0 +1,4 @@
+the recording of digital information on magnetic drums
+    methods of representing binary digital information on magnetic
+    drums are discussed with regard to their reliability cost and
+    technical merits

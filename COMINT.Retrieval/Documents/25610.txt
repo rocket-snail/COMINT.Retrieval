@@ -1,0 +1,5 @@
+industrial uses of special purpose computers an account
+    is presented of the analysis of a simple machine control
+    problem and the design of a suitable special purpose computer
+    to perform the task economic factors are also briefly
+    considered

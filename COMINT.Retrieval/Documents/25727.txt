@@ -1,0 +1,6 @@
+a set of octave band pass filters for frequencies between
+    and filters designed for eliminating harmonics are described in
+    order to achieve the desired sharp cut off on the high
+    frequency side the filters are operated into an abnormally low
+    impedance about a tenth of the centre frequency
+    impedance

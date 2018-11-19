@@ -1,0 +1,4 @@
+non linear properties of carbon resistors a method of
+    determining the nonlinear characteristics is proposed which is
+    based on the measurement of harmonics produced when a pure
+    sinusoidal current flows through the resistor

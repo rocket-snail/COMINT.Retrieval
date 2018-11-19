@@ -1,0 +1,14 @@
+observations on standards and guidelines concerning
+    thesaurus construction. attempts to compare the existing
+    standards and guidelines for thesaurus construction and
+    development, focussing particularly on the iso, bsi standards
+    as well as on the guidelines suggested by aitchison and
+    gilchrist, and unisist. considers the following aspects'
+    linguistic aspects of thesauri; formal requirements suggested
+    by the standards/guidelines with special emphasis on problems
+    associated with compound terms, homographs, forms of terms,
+    etc.; semantic relationships between terms-synonymy, bt/nt, and
+    associativity; problems peculiar to multilingual thesauri,
+    especially the problem of inexact equivalence between terms;
+    and presentation and arrangement of terms in a
+    thesaurus.

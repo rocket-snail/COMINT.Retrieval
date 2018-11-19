@@ -1,0 +1,11 @@
+algorithmic generation of chemical abstracts index names.
+    1. general design. the chemical abstracts service (cas)
+    chemical registry system is a computer-based chemical
+    information system that uniquely identifies chemical substances
+    on the basis of their molecular structure. an algorithm has
+    been developed for computer generation of chemical abstracts
+    (ca) index names for organic compounds from registry structure
+    records. when programmed and installed in the cas production
+    system, the algorithm will support ca index preparation by
+    generating names for a majority of the approximately 1400 new
+    structures processed per working day at cas.

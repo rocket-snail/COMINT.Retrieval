@@ -1,0 +1,5 @@
+a stabilized dc differential transistor amplifier design
+    details and performance characteristics of a circuit which is
+    insensitive to temperature changes the method employed
+    eliminates feedback and compensating circuits with their
+    attendant complications and disadvantages

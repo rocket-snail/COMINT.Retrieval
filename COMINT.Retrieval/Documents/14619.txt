@@ -1,0 +1,11 @@
+the role of f layer tilts in detection of auroral
+    ionization back scatter echoes received at stanford california
+    from the auroral e region are shown to be propagated by way of
+    a tilted f layer the rays returned from the e region scattering
+    source proceed to the f layer without intermediate earth
+    reflection the f layer is so tilted that the rays are then
+    returned to the receiver a tilted mirror model of the f layer
+    demonstrates the effect this explanation is shown to be more
+    probable than that in which the echoes are presumed to be
+    returned from auroral ionization at great heights although this
+    latter explanation may occasionally be true

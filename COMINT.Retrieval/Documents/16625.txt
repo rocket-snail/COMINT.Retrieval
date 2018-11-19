@@ -1,0 +1,6 @@
+terminal properties of magnetic cores the terminal
+    properties of the cores can be obtained from their dynamic step
+    response it is shown that for thick mils or more thin mil and
+    intermediate sized cores there is a unique relation between the
+    flux in the core and the applied coulomb turns the analysis is
+    verified by experiment

@@ -1,0 +1,4 @@
+the theory of magnetic ring modulators the equivalent
+    circuit of the magnetic ring modulator is derived for idealized
+    b h characteristics and the design of a modulator circuit is
+    given

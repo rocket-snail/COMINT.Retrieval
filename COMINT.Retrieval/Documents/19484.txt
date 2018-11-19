@@ -1,0 +1,7 @@
+echostant matching a new method of matching image
+    parameter filters with the type of impedance matching described
+    better matching conditions are obtained and fewer reactance
+    elements are required than with the use of double m derived
+    image impedances the simulation of tchebycheff type insertion
+    loss and the compensation of losses by ihis method are also
+    considered

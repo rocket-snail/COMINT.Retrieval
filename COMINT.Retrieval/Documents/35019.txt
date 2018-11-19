@@ -1,0 +1,7 @@
+compensation of the temperature effect in lc circuits by
+    means of negative coefficient capacitors compensation at a
+    given frequency is obtained by connecting in parallel with a
+    variable capacitor a series arrangement of a fixed negative
+    coefficient capacitor and a variable capacitor the experimental
+    method of adjustment is described frequency variation with
+    temperature for uncompensated settings is studied

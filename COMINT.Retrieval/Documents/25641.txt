@@ -1,0 +1,6 @@
+maximum transmission of electromagnetic waves by a pair
+    of wire gratings an experimental investigation was made of the
+    transmission waves through a pair of parallel wire gratings
+    with various wire and grating spacings for various angles of
+    incidence results are compared with values derived from
+    theory

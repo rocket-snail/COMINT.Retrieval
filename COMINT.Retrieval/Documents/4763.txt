@@ -1,0 +1,2 @@
+evaluation of jacobi symbol (algorithm 99) november, 1962
+    may, r. w. ca621117 jb march 17, 1978 6:02 pm

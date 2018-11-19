@@ -1,0 +1,4 @@
+reactive t r sections resolvable into two matched half
+    sections means are indicated for determining whether the
+    resolution into half sections with matched terminal impedances
+    is possible

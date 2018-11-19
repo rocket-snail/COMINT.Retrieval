@@ -1,0 +1,5 @@
+the mechanism of high field electron emission from
+    tarnished metal surfaces a theory of field dependent thermal
+    emission is proposed which takes into account the existence of
+    patch fields due to variation in work function over the
+    surface

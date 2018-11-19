@@ -1,0 +1,7 @@
+the stability of relaxation oscillations synchronized by
+    pulses a finite difference equation is derived for the pulse
+    synchronization of relaxation oscillators solutions are
+    obtained by a graphical method and possibilities of
+    simplification are considered the procedure is also applied to
+    the case of frequency division calculated parameters are
+    verified by measurements on a multivibrator circuit

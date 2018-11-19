@@ -1,0 +1,2 @@
+a formula for an integral occurring in the theory of
+    linear servomechanisms and control systems

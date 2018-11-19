@@ -1,0 +1,4 @@
+millimicrosecond pulses in the millimetre wave region a
+    technique is described for the generation amplification and
+    detection of pulses in the mm region the pulses are wide at the
+    base with a peak power of a few milliwatts

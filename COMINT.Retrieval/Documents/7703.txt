@@ -1,0 +1,3 @@
+quantum theory of free carrier absorption quantum theory
+    becomes equivalent to classical boltzmann theory for photon
+    energies small compared to carrier energies

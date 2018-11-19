@@ -1,0 +1,4 @@
+transistor oscillator for use in multifrequency pulsing
+    current supply discussion of an oscillator for use in the
+    transmission of digital information at frequencies in the band
+    over telephone trunk lines performance details are given

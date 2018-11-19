@@ -1,0 +1,8 @@
+the japanese word processor jw-10. describes the japanese
+    word processor jw-10, which is the 1st such processor in the
+    world. the most difficult aspect in developing a japanese word
+    processor is finding an easy input method for the numerous
+    chinese characters used in japanese. for text input, jw-10
+    performs a kara-to-kanji (phonogram-to-ideogram) translation
+    through grammatic analysis and consultation with an 80,000-word
+    dictionary.

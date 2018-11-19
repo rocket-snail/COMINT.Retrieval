@@ -1,0 +1,6 @@
+transistor convert sine waves to pulses a circuit using
+    eight point contact transistors to amplify limit and
+    differentiate a sine wave input is described the power supply
+    unit uses junction diodes the frequency range is minimum input
+    is pulse output maximum pulse rise time pulse width adjustable
+    from to and output impedance of

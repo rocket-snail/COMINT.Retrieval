@@ -1,0 +1,2 @@
+a quick method for the design of butterworth filters a
+    design procedure and worked example are given

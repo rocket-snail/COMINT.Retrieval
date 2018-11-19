@@ -1,0 +1,6 @@
+electronic switch doubles as cathode follower basic two
+    way electronic switch may be expanded to multiway unit by
+    adding input selector circuits or may be used as a precision
+    cathode follower by eliminating the selector circuit has near
+    infinite input impedance and near zero output impedance
+    comparator compensation permits accuracy of over

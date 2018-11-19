@@ -1,0 +1,6 @@
+an electronic voltage integrator a feedback amplifier
+    integrating circuit is described the amplifier comprises a
+    cascode connected direct coupled circuit with filament drift
+    compensation and internal positive feedback adjustment the
+    integrator is used with a search coil for magnetic field
+    measurements in the range gauss accuracy is within

@@ -1,0 +1,8 @@
+noise in u h f amplifiers general noise effects in u h f
+    amplifiers of any type are considered relations between the
+    noise parameters are established using the method of the
+    transfer of the current generators proposed previously general
+    expressions for the noise factors are derived and the minimum
+    number of noise parameters required to characterize a circuit
+    is deter mined a concept of partial noise parameters is
+    introduced

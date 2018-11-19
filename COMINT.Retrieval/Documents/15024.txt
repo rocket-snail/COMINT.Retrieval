@@ -1,0 +1,12 @@
+calculations with noise voltages part passage of noise
+    voltages through nonlinear elements the correlation function is
+    used to calculate the modification suffered by a noise spectrum
+    on passing through a quadripole with nonlinear elements the
+    method is based on that of rice the quadripole characteristic
+    is represented as an integral the relation between the
+    correlation functions for input and output voltages is in the
+    form of a double integral which can be expanded in a power
+    series simple expressions are obtained when the quadripole
+    characteristic comprises a sum of hermite polynomials an
+    introduction to the various parameters used is given in
+    part

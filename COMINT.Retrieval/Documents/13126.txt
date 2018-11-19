@@ -1,0 +1,11 @@
+linear and nonlinear effects in reactance and oscillator
+    circuits the analysis presented of the behaviour of a reactance
+    valve in various circuits is based on an expression for the
+    anode current containing terms up to the third degree in trid
+    and anode voltages two nonlinear effects are considered the
+    primary effect of the curvature in the valve characteristic and
+    the secondary effect due to the presence of harmonic components
+    in the applied signal these were also investigated
+    experimentally and the results are presented graphically a
+    circuit for reducing the effect of nonlinearity was also
+    investigated

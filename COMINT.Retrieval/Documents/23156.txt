@@ -1,0 +1,4 @@
+calculation of absorption in the ionospheric propagation
+    of short waves formulae and graphs necessary for calculation of
+    the absorption in the absence of and in the presence of the
+    geomagnetic field are assembled and explained

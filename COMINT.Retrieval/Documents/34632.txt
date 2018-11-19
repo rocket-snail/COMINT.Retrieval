@@ -1,0 +1,8 @@
+zero stabilisation of directly coupled amplifiers details
+    are given of circuits in which stability of a direct coupled
+    amplifier is achieved by use of a second amplifier in s
+    feedback arrangement the auxiliary amplifier is highly stable
+    but has a low cut off frequency hence low frequency signals are
+    pre amplified giving enhanced signal noise ratio at these
+    frequencies for high frequency signals the auxiliary amplifier
+    is by passed

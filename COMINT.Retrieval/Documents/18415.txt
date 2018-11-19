@@ -1,0 +1,9 @@
+international patent classification from the viewpoint of
+    japanese users. to clarify the rules of ipc (international
+    patent classification), the japanese patent office has issued a
+    working standard for assigning ipcs, the contents of which are
+    briefly described. in some selected groups, the japanese patent
+    office uses an ipc subdivision called 'developing marks'; in
+    others, a special classification is used, called 'facet
+    classification marks'. mentions some japanese proposals for the
+    4th edition of ipc, preparation of which is under way.

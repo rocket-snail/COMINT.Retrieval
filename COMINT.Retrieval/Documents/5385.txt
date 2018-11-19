@@ -1,0 +1,4 @@
+inverse feedback stabilizes drycell current sources a
+    transistor emitter follower circuit enables constant heavy
+    currents to be drawn from dry cells despite variations in cell
+    voltage

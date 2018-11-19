@@ -1,0 +1,8 @@
+the effect of series resistance on photovoltaic solar
+    energy conversion the series resistance in a photovoltaic cell
+    is divided into two components contact and sheet resistance
+    each of the components is examined theoretically and
+    experimentally and qualitative agreement between theory and
+    experiment is shown it is concluded that contact resistance
+    reduces the conversion efficiency more than sheet
+    resistance

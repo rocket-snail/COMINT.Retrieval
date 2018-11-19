@@ -1,0 +1,10 @@
+the possibility of adjusting the internal impedance and
+    varying the gain in amplifiers with combined current and
+    voltage feedback the internal impedance can be reduced to and
+    maintained at any desired level r inc independent of the gain
+    or the amount of feedback by using a fixed amount of the total
+    feedback to achieve the impedance reduction and apportioning
+    the remainder so that where r and k are the current and voltage
+    feedback factors of this remainder three commonly used circuits
+    incorporating this feature are discusr attention is devoted to
+    the use of magnetic amsed

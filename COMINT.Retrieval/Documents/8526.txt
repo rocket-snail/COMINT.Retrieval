@@ -1,0 +1,4 @@
+analysis of the common base transistor circuit simple
+    equations are obtained by choosing a hybrid inverted network as
+    the equivalent circuit for investigating the operation of the
+    grounded base point contact transistor amplifier

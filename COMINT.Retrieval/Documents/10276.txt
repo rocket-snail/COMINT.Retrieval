@@ -1,0 +1,13 @@
+the reflexion of radio waves from a stratified ionosphere
+    modified by weak irregularities consideration is given to the
+    scattered wave which accompanies reflexion from a stratified
+    ionosphere in which there are weak irregularities by
+    considering these irregularities to be confined to a thin layer
+    near a given height the possibility is examined that they might
+    produce considerably enhanced scattering if they were situated
+    near the reflexion level calculated on the basis of geometrical
+    optics it is found that they would not have a very much greater
+    effect at this level it is also shown that if the electron
+    collision frequency is of the order likely to be encountered in
+    the real ionosphere there would be little enhancement by
+    resonance effects of the kind suggested by herlofson

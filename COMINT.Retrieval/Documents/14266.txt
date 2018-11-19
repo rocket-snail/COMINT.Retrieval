@@ -1,0 +1,17 @@
+problems associated with the use of compound words in
+    thesauri, with special reference to bs 5723' 1979. although
+    many large systems have by-passed the problem by using natural
+    language, compound words remain a difficulty in thesaurus
+    construction. former attemts to devise rules which attempt to
+    approach the problem via syntax were not altogether
+    satisfactory. proposes that the major criteria for handling
+    compound words should rest upon their orthography, lexicography
+    and semantics, with special attention to the possible
+    occurrence of homographs (words of a common form but different
+    meanings). suggestions contained in british standard
+    5723-2guidelines for the establishment and development of
+    monolingual thesauri1-are assessed in relation to these
+    criteria. the standard is criticised for its insufficient
+    attention to mechanised systems' requirements and partial
+    failure in not recording the divergent needs of pre- and
+    post-coordinate systems.

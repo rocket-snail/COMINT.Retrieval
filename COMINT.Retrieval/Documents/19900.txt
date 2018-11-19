@@ -1,0 +1,12 @@
+interfering queueing processes in packet-switched
+    broadcast communication. considers packet-queueing processes in
+    2 interfering buffered packet radio units that share a slotted
+    aloha broadcast channel. shows that classical approximation
+    schemes fail to provide adequate predictions concerning
+    interfering queueing and introduces a new scheme, topological
+    approximation, which provides an exact solution of an
+    approximate model, obtained by perturbing the topology of
+    interference. analysis shows that interference may be cured by
+    increasing the interference and that 'maximum interference'
+    provides a superb flow-regulating mechanism and the best
+    possible delay-throughout performance.

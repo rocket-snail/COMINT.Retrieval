@@ -1,0 +1,7 @@
+linear network synthesis the rational fraction
+    approximation is obtained dire tly in terms of the pole zero
+    locations in the plane by a process of successive approximation
+    the method differs from others known successive approximation
+    techniques in being purely graphical apart from a final
+    numerical relaxation process a simple step by step account is
+    given of the practical procedure

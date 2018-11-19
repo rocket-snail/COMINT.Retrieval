@@ -1,0 +1,3 @@
+transistor regulated converter regulation is controlled
+    by a blocking oscillator whose frequency varies as a function
+    of the error voltage

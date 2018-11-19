@@ -1,0 +1,7 @@
+the reactance type straight amplifier as a low noise
+    preamplifier stage in the uhf range the signal and noise
+    response of a cascade connected amplifier is investigated which
+    consists of a diode reactance preamplifier see of followed by a
+    conventional triode amplifier results are given of measurements
+    on an experimental circuit using a signal frequency of with
+    pumping at

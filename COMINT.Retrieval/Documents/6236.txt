@@ -1,0 +1,4 @@
+the single layer solenoid as an rf transformer design
+    curves are presented for air cored transformers inductances of
+    coupling coefficients of and inductance ratios of are covered
+    directly

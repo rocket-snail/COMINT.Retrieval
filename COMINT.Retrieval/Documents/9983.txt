@@ -1,0 +1,6 @@
+interaction between classical electron and quantized
+    electromagnetic field the equations of motion are solved by a
+    method involving the corresponding difference equations and an
+    expression is derived for the probability of transition between
+    a high energy state and neighbouring states of the field inside
+    a resonant cavity

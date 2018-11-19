@@ -1,0 +1,4 @@
+variation of electron density in the ionosphere with
+    magnetic dip extension of work described earlier to include the
+    northern winter solstice results show a sharp maximum in the
+    average electron density

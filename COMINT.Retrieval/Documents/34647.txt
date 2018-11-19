@@ -1,0 +1,6 @@
+an amfm electronic analog multiplier a multiplier is
+    described in which frequency deviation and carrier amplitude
+    are made respectively proportional to the two quantities to be
+    multiplied the product is obtained by means of a foster seeley
+    discriminator stabilization is provided by means of feedback
+    the long term error is of full scale output

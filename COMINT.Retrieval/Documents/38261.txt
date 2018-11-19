@@ -1,0 +1,3 @@
+the representation of branched circuits on an analogue
+    computer extension of earlier work of to cover another class of
+    branched network

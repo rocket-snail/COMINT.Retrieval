@@ -1,0 +1,11 @@
+quantum effects in the interaction between electrons and
+    high frequency field part reported an analysis of the effect of
+    the interaction on the motion of the electrons the effect on
+    the field in the resonant cavity is now analysed the value of
+    the field strength differs from the classical value by a small
+    amount due to the wave properties of the electrons the
+    dispersion in the field is evaluated and the number of
+    electrons required in a bunch to produce a field comparable to
+    the dispersion is calculated for typical experimental
+    conditions the highest frequency at which this requirement can
+    be met is of the order

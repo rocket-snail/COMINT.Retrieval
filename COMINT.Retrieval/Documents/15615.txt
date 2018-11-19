@@ -1,0 +1,5 @@
+removal of heat from sealed miniature equipment
+    experimental investigation has shown that the most satisfactory
+    way of dissipating the heat generated internally is by
+    providing thermal conduction paths from the heat sources to the
+    front panel

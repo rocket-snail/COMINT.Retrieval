@@ -1,0 +1,6 @@
+two theorems concerning group delay with practical
+    application to delay correction two theorems a e stated which
+    enable properties of group delay to be expressed directly in
+    terms of the transfer function of a linear transmission system
+    examples are given to show how the results might be usefully
+    applied to certain problems of delay correction

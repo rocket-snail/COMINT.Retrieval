@@ -1,0 +1,7 @@
+electron temperature and electron noise in high frequency
+    torch discharges the noise temperature of an electron torch in
+    air and nitrogen at atmospheric pressure is measured at and
+    found to be of which about is due to electron temperature and
+    to shot noise these results and the measurements of other
+    plasma characteristics are interpreted with reference to the
+    findings of other authors references

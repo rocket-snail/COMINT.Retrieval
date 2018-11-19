@@ -1,0 +1,3 @@
+magnetic film memory design a storage system for ten bit
+    words has been operated successfully in the destructive mode
+    with a minimum cycle time of

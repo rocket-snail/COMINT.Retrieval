@@ -1,0 +1,9 @@
+preliminary data on solar extreme ultraviolet radiation
+    in the upper atmosphere a rocket borne monochromator was flown
+    in august the intensity of the solar spectrum from was scanned
+    in sec at a series of heights up to km tables of the
+    intensities extrapolated to a height above the earths
+    atmosphere are given together with absorption cross sections
+    and t other useful information for completeness similar tables
+    are given for wavelengths outside the range covered by the
+    august measurements

@@ -1,0 +1,6 @@
+the reduction of low frequency noise in feedback
+    integrators a considerable improvement in signal noise ratio
+    compared with that of a conventional direct coupled integrator
+    is obtained either by using an error amplifier containing a
+    single cr coupling or by applying phase correction to the
+    output from a low accuracy direct coupled integrator

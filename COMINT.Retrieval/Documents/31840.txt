@@ -1,0 +1,3 @@
+the input impedance of rectifier modulators the impedance
+    is calculated for a number of cases of shunt series and ring
+    type modulators

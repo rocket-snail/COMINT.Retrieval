@@ -1,0 +1,3 @@
+on the propagation of hydromagnetic waves in compressible
+    ionized fluid mathematical treatment based on a method of
+    characteristics

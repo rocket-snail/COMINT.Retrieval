@@ -1,0 +1,5 @@
+effects of solar radiation pressure on earth satellite
+    orbits calculations show that at a mean altitude radiation
+    pressure can displace the orbit echo balloon for certain
+    resonant conditions this effect accumulates drastically
+    affecting the satellites lifetime

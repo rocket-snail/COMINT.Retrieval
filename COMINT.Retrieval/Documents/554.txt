@@ -1,0 +1,5 @@
+collisional effects and the conduction current in an
+    ionized gas a note on the approximate expression derived by
+    westfold of january for the collision term in the current
+    transport equation for a binary ionized gas in a strong
+    magnetic field

@@ -1,0 +1,5 @@
+infrared and optical masers theoretical aspects of maser
+    like devices for wavelengths much shorter than cm are discussed
+    the short wavelength limit for practical devices is examined
+    design principles are illustrated by a system for the infrared
+    region using potassium vapour

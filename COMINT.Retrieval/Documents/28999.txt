@@ -1,0 +1,16 @@
+finnish online databases. kati data base contains about
+    50,000 references to finnish books and periodical articles. it
+    is meant for general use. it covers 1977-79, but the articles'
+    file should be up-to-date fairly soon. helsinki school of
+    economics offers 4 data bases on-line' finp (finnish
+    periodicals index in economics and business from 1975), bild
+    (bibliographic index of library documents from 1981), scanp
+    (scandinavian periodicals index in economics and business since
+    1977), and scimp (european index of management periodicals
+    since 1978). medic is a finnish medical data base which covers
+    articles and monographs published in finland since 1978. sfs
+    contains information about finnish standards and technical
+    rules and regulations. tenttu contains technical monographs
+    from the main catalogue of the technical university library
+    since 1980. tali contains finnish language technical journal
+    articles.

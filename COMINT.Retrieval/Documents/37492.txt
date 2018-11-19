@@ -1,0 +1,7 @@
+spectral investigations in the wavelength range around mm
+    a description is given of the construction an method of
+    operation of an infrared type spectrometer which has been used
+    with thermal radiator and receiver to obtain absorption spectra
+    at wavelengths over mm the spectrum obtained for water vapour
+    over the range mm is shown as an example results obtained with
+    hcn and are also reported

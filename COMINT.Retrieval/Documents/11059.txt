@@ -1,0 +1,12 @@
+pulse amplitude analysis in nuclear research various
+    voltage discrimination techniques are discussed in detail and
+    descriptions are given of a simple type of analyser and a
+    moderate precision and a high precision analyser analysers are
+    also discussed in which pulse height selection is effected
+    either by mechanical means or by use of diode valves trigger
+    circuits sorting ladder circuits or beam deflection techniques
+    other types of analyser described include those in which height
+    selection is accomplished by an expander amplifier driving a
+    chain of discriminators by conversion of pulse amplitude to
+    pulse duration by means of information storage devices
+    references

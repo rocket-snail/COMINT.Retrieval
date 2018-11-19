@@ -1,0 +1,12 @@
+a method of approximate steady state analysis for non
+    linear networks approximate solutions for the fundamental and
+    third harmonic are obtained by a three stage method involving a
+    first approximation to the fundamental frequency solution
+    usually accurate to within a third harmonic solution generally
+    within using an equivalent circuit which is dependent on the
+    first fundamental solution a correction to the fundamental
+    solution using third harmonic quantities which brings its
+    accuracy to within about adaptations of some standard
+    techniques of solving linear steady state problems for use with
+    this method of analysis are described appendix by gh
+    rawcliffe

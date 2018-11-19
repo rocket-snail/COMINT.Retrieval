@@ -1,0 +1,8 @@
+the suppression of switching transients by a shunt
+    circuit a detailed analysis is presented of the phenomena
+    occurring when apparatus including shunt capacitance is
+    suddenly switched across a low impedance source of power
+    through a short transmission line conditions for the transient
+    voltage in the shunt damping circuit to be nonoscillatory are
+    deduced it is proved that the current through the switch can be
+    made unidirectional numerical illustrations are given

@@ -1,0 +1,6 @@
+four terminal networks ith transfer function having zeros
+    with small real part analysis of low pass filter networks based
+    on insertion loss principles to investigate the effect of
+    critical zeros in the transfer function plot on the reactance
+    to be developed the accuracy required in the calculation and
+    the component values

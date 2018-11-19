@@ -1,0 +1,3 @@
+the transformer as a two terminal network the equivalent
+    two terminal networks are derived for various types of
+    transformer

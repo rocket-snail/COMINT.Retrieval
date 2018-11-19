@@ -1,0 +1,6 @@
+synthesis of narrow band direct coupled filters a general
+    synthesis procedure is described that is based on an
+    approximate first order equivalence between direct coupled and
+    coupled filters the transmission characteristics computed for a
+    cavity filter with an overall q of are in excellent agreement
+    with measurements

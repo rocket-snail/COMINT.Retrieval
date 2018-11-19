@@ -1,0 +1,3 @@
+circuits for space probes brief description of
+    instrumentation in the payload stage of the pioneer vehicle and
+    at tracking stations

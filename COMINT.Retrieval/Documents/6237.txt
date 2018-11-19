@@ -1,0 +1,3 @@
+theory of two phase networks phase splitting networks as
+    used in ssb modulation systems are discussed and calculations
+    by approximation methods are described

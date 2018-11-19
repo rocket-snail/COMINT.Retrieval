@@ -1,0 +1,7 @@
+power amplification bandwidth figure of merit for
+    transducers including transistors a figure of merit based on
+    spot frequency maximum power amplification bandwidth is derived
+    for a transducer which is unilateralized and conjugately
+    matched the result being simplified by assuming a bell shaped
+    frequency response specific formulae are given for valve and
+    transistor circuits see eg of

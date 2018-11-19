@@ -1,0 +1,4 @@
+scattering of electromagnetic waves in a plasma the
+    intensity of combination scattering due to plasma density
+    oscillations is determined with and without a constant uniform
+    magnetic field

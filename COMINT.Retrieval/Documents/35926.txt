@@ -1,0 +1,8 @@
+the problem of increasing the frequency stability of
+    crystal oscillators by means of compensation herzogs method of
+    improving the pierce oscillator by including a compensating
+    resistance is investigated the dependence of the oscillator
+    frequency on the circuit parameters with or without
+    compensation is calculated the advantages of compensation are
+    offset by serious drawbacks especially in crystal clock
+    applications

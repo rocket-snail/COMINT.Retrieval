@@ -1,0 +1,5 @@
+a voltage controlled attenuator a three stage voltage
+    controlled germanium diode attenuator is described transmission
+    may be varied over a range exceeding decibels by a control
+    signal push pull operation is discussed and various
+    applications are suggested

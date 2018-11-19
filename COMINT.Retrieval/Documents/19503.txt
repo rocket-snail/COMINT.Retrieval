@@ -1,0 +1,6 @@
+investigation of the potential barrier between two
+    electrodes of the same metal with different applied potentials
+    a theoretical investigation of the barrier transparency and
+    tunnel effect analysis leads to formulae which for limiting
+    cases give the known results corresponding to a rectangular or
+    triangular type of barrier

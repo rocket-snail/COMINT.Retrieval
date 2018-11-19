@@ -1,0 +1,5 @@
+valve circuits with normalized transfer function for
+    distortionless electrical differentiation the circuit
+    parameters and operating characteristics of several
+    differentiating circuits for obtaining first and second order
+    derivatives are given

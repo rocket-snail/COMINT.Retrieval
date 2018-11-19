@@ -1,0 +1,14 @@
+online periodicals at hull college of higher education.
+    describes the operation, within the college's multi-site
+    library, of an on-line periodicals control system, developed
+    completely in-house, which replaced an inefficient manual
+    system. each subscription record holds details of title,
+    alternative title, location code and subject code and is
+    composed of fixed-length fields with a-character alphanumeric
+    control number. fields include frequency, issues per volume and
+    price, and each entry may be termed 'alive' or 'inactive'.
+    library records were then converted to machine-readable form
+    and may now be sorted by location, type and subject/department.
+    the simple accessioning procedures are detailed. the system
+    which went live in jan 81 is proving very efficient in this
+    particular college situation.

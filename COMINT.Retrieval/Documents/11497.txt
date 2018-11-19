@@ -1,0 +1,4 @@
+transient response of band pass filters analysis for
+    multistage band pass amplifiers with parallel rlc coupling
+    circuits is based on consideration of the characteristic values
+    of the individual circuits

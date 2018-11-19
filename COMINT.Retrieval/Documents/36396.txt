@@ -1,0 +1,5 @@
+flip flop counter has expanded range design procedure is
+    indicated for counter having up to six stable states without
+    using feedback or matrixing long term reliability is a primary
+    objective crystal diodes are used in cross coupling
+    networks

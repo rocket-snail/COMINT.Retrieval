@@ -1,0 +1,5 @@
+silicon junction power diodes simplified semiconductor
+    theory is presented and a description is given of three main
+    methods of making junction diodes and of the properties of the
+    diodes advantageous features and appropriate applications of
+    these rectifiers are indicated

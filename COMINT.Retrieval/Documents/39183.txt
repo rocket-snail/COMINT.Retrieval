@@ -1,0 +1,18 @@
+media control report without perspectives. comments on
+    2automated media control in the public library, 1a joint report
+    by the norwegian association of municipal library workers and
+    the computer committee. the working party on pilot projects
+    does not delineate long-term perspectives for development,
+    making it difficult to see its proposals as part of a whole.
+    the swedish situation of 2 separate data systems for special
+    and public libraries, resulting in duplication of work and
+    under-utilised resources, must be avoided in norway; the report
+    is criticised for not considering computer development in
+    public and special libraries together. it also fails to specify
+    the effects of computerisation on library staffs, borrowers and
+    finance. the committee regards issue control as the routine
+    most requiring computerisation, but many public libraries have
+    other priorities, such as overdue recall work. easily-amassed
+    statistics must not be allowed to build up extra work. several
+    paragraphs from the report are selected for detailed
+    comment.

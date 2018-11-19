@@ -1,0 +1,8 @@
+choosing a microcomputer for the library. an analysis
+    (based loosely on the author's recent experiences) of the
+    hardware, software and information sources available to
+    librarians considering adding a microcomputer to their
+    retrieval and administrative tools. to reduce development time
+    and cost, library procedures should be modified to match
+    available software where possible, rather than commissioning
+    new software.

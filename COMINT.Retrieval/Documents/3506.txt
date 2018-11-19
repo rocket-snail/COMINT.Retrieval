@@ -1,0 +1,14 @@
+electron density in a nonisothermal ionosphere
+    continuation of work noted previously of electron density when
+    the earths curvature is taken into account may be appreciable
+    especially for the winter the corresponding difference in
+    critical frequency may amount to for the period just after
+    sunrise comparison of calculated and observed values of
+    suggests that a representative model of an region can be based
+    on the assumption that the temperature varies linearly with
+    height up to the interface and then remains constant the
+    parabolic law of variation of electron density is acceptable
+    only for heights corresponding to reflection frequencies not
+    less than times the critical frequency a general expression is
+    derived relating temperature electron density density of matter
+    recombination coefficient and adsorption coefficient

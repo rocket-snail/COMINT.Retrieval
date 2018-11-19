@@ -1,0 +1,5 @@
+variable program triggering source a transistorized unit
+    for use with instrumentation cameras is described which
+    generates pulses at an adjustable constant rate or at a rate
+    which is variable for a selected period between predetermined
+    initial and final rates

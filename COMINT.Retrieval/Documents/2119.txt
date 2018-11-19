@@ -1,0 +1,12 @@
+thermodielectric effect a theory is put forth to explain
+    the electrical effects which accompany phase changes occurring
+    in dielectrics and aqueous solutions ionic movement in the
+    interface is treated as a transition between energy levels
+    separated by potential barriers the height of the barriers and
+    the value of the energy levels are supposed to be diferent for
+    positive and negative ions such a model results in a net
+    current flow across the solid liquid interace when the
+    interface moves during a phase change of the system the excess
+    electric charges thus produced constitute space charges in the
+    solid and surface charges in the liquid see also of september
+    and back references

@@ -1,0 +1,5 @@
+the generation of very short needle shaped pulses the
+    design of pulse generators and pulse shaping networks is
+    discussed details are given of a double differentiating network
+    for the generation of pulses of amplitude further improvements
+    by means of tunnel diodes appear possible

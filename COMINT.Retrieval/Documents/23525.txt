@@ -1,0 +1,5 @@
+a systematic procedure for the design of filters
+    continuing previous work on the formulation of the
+    characteristic functions of filters of tables are developed
+    which facilitate the determination of the circuit elements of
+    coupling free filters of various types

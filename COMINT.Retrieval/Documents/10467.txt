@@ -1,0 +1,11 @@
+dynamo theory of geomagnetic tides plasma theory and
+    results of earlier analysis of july are applied in deriving a
+    differential equation expressing height integrated ionospheric
+    current as a function of latitude taking account of coriolis
+    forces and assuming a velocity amplitude of for tidal
+    oscillations at e layer height the calculated magnitude of
+    geomagnetic tides is in agreement with recorded data in
+    particular as regards the large tidal amplitudes at the
+    magnetic equator the theory is consistent with the assumption
+    that the negative particles in the e layer are predominantly
+    electrons rather than ions

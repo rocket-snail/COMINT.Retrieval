@@ -1,0 +1,3 @@
+the motion of an electron in a crystal located in an
+    external field extension of an earlier analysis to the case of
+    uniform magnetic and arbitrary electric fields

@@ -1,0 +1,10 @@
+radio frequency spectrometer with bidirectional square
+    wave frequency modulation modulation is effected by means of a
+    voltage controlled si capacitor coupled to the oscillator tank
+    circuit if the frequency deviation is greater than the line
+    width the absorption line will be displayed with full available
+    intensity and good shape by careful adjustment of the relative
+    amplitude of the positive and negative going deviations
+    incidental amplitude modulation in the rf detector output
+    component can be eliminated this method should be applicable to
+    other types of spectrometers

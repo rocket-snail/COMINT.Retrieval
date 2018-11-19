@@ -1,0 +1,5 @@
+calculation of shunt resistances of rhumbatrontype
+    cavities the calculation is facilitated by deriving the
+    expression for the shunt resistance in a form in which the
+    axial electric field strength is the only independent
+    variable

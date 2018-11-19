@@ -1,0 +1,5 @@
+the ansi standard for summary holdings statements for
+    serials' the rlin implementation. describes the application of
+    the american national standard institute's standard for serial
+    holdings statements (ansi z39.42) to rlin (research libraries
+    information network).

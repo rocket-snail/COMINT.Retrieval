@@ -1,0 +1,5 @@
+project hermes. the project investigates electronic
+    document delivery systems using a 'super-telex'
+    telecommunications facility (teletex) allowing full facsimile
+    transmission, electronic mail and the use of videotex
+    systems.

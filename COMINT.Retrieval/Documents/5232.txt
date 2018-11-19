@@ -1,0 +1,7 @@
+the transbooster description of circuits in which a
+    transductor is used for regulation of the output voltage of a
+    rectifier fed from ac mains under varying load conditions if
+    the transductor is connected on the dc side of the main
+    rectifier a smaller transductor can be used since it will only
+    have to handle the total boost voltage required to cover
+    rectifier regulation and mains voltage variation

@@ -1,0 +1,9 @@
+prestel in use' a consumer view. describes 2 tests on
+    prestel. test 1 explores the adequacy of the data base in
+    giving satisfactory answers to questions from ordinary
+    consumers. test 2 screens prestel's index design and data base
+    criteria against criteria from the literature of consumer
+    economics, consumer behaviour and consumer information systems.
+    make recommendations regarding' the index; optimal means of
+    access; costs and their registration; increases in information
+    and services; and the quality of the files.

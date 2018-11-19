@@ -1,0 +1,4 @@
+high speed light output signals from electroluminescent
+    storage systems the effect of phosphor afterglow pr digit on
+    read out time appears to limit the number of matrices to
+    about

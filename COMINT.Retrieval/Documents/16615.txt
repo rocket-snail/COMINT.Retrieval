@@ -1,0 +1,5 @@
+calculation of the electrostatic capacitance of a
+    conductor by the method of excess and deficit application to
+    the case of the cube using a method based on a theorem due to
+    fichera the capacitance of a cube of side a is found to be
+    between

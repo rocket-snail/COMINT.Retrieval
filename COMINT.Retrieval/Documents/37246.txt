@@ -1,0 +1,17 @@
+general properties of frequency converting networks a
+    generalized analysis of frequency converting systems consisting
+    of networks containing nonlinear inductors capacitors and
+    resistors and including also nonlinear l c and r coupling
+    elements the mesh and nodal equations for a general nonlinear
+    network are given and it is assumed that a certain high voltage
+    and current distribution the so called fundamental state
+    results from the presence of carrier current and voltage
+    sources first order perturbational equations are then derived
+    corresponding to the disturbance of the disturbance of the
+    fundamental state by small signal voltage or current sources
+    linear differential equations with time dependent coefficients
+    are obtained which yield for a periodic fundamental state
+    equations in matrix form methods of simplifying the matrices
+    are shown and the method is used to examine stability
+    conversion gain and loss an example a polyphase magnetic
+    modulator is analysed

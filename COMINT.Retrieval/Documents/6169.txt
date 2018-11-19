@@ -1,0 +1,4 @@
+a decimal product accumulator dekatrons enable the
+    correlation between two series of numbers to be found if all
+    terms are positive given pairs of numbers of two decimal digits
+    each the machine accumulates products per minute

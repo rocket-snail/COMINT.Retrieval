@@ -1,0 +1,6 @@
+multiplier for analog computers multiplication is
+    performed by addition of logarithms using the linear to
+    logarithmic converter described previously of howard et al
+    followed by a logarithmic to linear converter application to
+    solution of nonlinear differential equations is
+    described

@@ -1,0 +1,10 @@
+electron currents in thin oxide films on aluminium at low
+    electric field intensities the electron current in films formed
+    on al in suitable electrolytes depends on the temperature and
+    on the hyperbolic sine of the product of the field strength and
+    a constant dependent on barrier dimensions the oxide film
+    barrier height and trough to peak width are ev and respectively
+    the theoretical current voltage curves given show good
+    agreement with experimental results the origin of the electron
+    current and the presence of trapped charges in the oxide layer
+    near the electrolyte surface are discussed

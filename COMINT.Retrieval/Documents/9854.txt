@@ -1,0 +1,7 @@
+application of delayed feedback in electronic circuits a
+    short general theory is given of a method of generating
+    periodic signals of controlled shape two simple applications of
+    a delay line aa feedback loop are given the signal frequency
+    depends on the delay time and under certain conditions on the
+    triggering frequency and this provides a method measuring the
+    delay time of an element in the feedback loop

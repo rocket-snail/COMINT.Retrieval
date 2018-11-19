@@ -1,0 +1,7 @@
+wide range electronic tuning of microwave cavities
+    analysis is presented for tuning by introducing into the cavity
+    an electron beam with its direction parallel to the magnetic
+    field so that spiralling of the beam is produced measurements
+    are reported indicating that the tuning range is much greater
+    for a cavity containing z a gas at low pressure than for an
+    evacuated cavity

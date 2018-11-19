@@ -1,0 +1,13 @@
+semidiurnal currents and electron drifts in the
+    ionosphere the differential equations of the dynamo theory for
+    the ionosphere are solved numerically under simplifying
+    assumptions the tidal amplification estimated is about for the
+    solar tide the current system in the e layer is in phase with
+    the ground tide but for the lunar tide it it in phase
+    opposition the calculated vertical electron drift is in
+    reasonable agreement with lunar tide observations the
+    calculated horizontal electron drift agrees with observations
+    on long duration meteor trail echoes but the calculated phases
+    are opposed to those obtained from fading measurements
+    indicating that the latter refer to air movements and not to
+    electron drift

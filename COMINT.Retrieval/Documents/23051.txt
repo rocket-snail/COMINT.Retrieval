@@ -1,0 +1,9 @@
+on the scattering cross section of an obstacle the
+    relation between th scattering cross section and the scattered
+    amplitude for an obstacle in an incident plane wave previously
+    discussed by is here established by a calculation of the energy
+    flow when the incident wave emanates from a point source the
+    sum of the scattering and absorption cross sections is
+    determined by the value of a certain field in the neighbourhood
+    of the source the discussion is presented in terms of an wave
+    but is adaptable to sound waves or atomic collisions

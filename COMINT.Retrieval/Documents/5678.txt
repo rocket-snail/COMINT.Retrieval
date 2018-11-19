@@ -1,0 +1,4 @@
+gyro resonance absorption of electromagnetic waves in a
+    plasma an earlier analysis is extended to frequencies near the
+    gyro frequency and multiples of this taking account of the
+    thermal motion of electrons

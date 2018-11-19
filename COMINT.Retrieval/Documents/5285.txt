@@ -1,0 +1,13 @@
+recombination and diffusion and spread echoes from the
+    ionosphere the inclusion of a diffusion term in the
+    differential equation of layer formation to account for
+    ionization due to the influx of charged particles leads to a
+    solution in terms of a doubly periodic elliptic function this
+    solution indicates the possibility of a periodic variation of
+    ionic density within the f layer such as to account for spread
+    echoes which have been observed layers produced by ultra violet
+    radiation are many wavelengths thick those due to particle
+    ionization are only two or three wavelengths thick and are
+    embedded in the background of ionization the existence of
+    auroral curtains provides further evidence of ionization by
+    particles

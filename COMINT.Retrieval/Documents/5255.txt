@@ -1,0 +1,6 @@
+roadblocks in typesetting from the word processor. in the
+    future, manuscripts may flow freely, as electronic data, from
+    the author's word processor to the publisher's and thence to
+    the compositor's photosetter. right now that potential is
+    impeded by lack of standardisation of equipment and
+    codes.

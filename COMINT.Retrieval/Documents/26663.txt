@@ -1,0 +1,4 @@
+free electron in an e and h field the general equations
+    of motion are obtained for an electron in electric and magnetic
+    fields particular cases for various angles between the field
+    and velocity vectors are considered

@@ -1,0 +1,8 @@
+engineering description of the ibm type computer a
+    detailed description is given of this high speed computer for
+    large scale scientific work a complete installation includes
+    analytical control unit es storage unit magnetic tape and
+    magnetic drum readers and recorders punched card reader
+    alphabetic printer punched card recorder power distribution
+    unit and power supply unit a note on maintenance is included
+    see also above

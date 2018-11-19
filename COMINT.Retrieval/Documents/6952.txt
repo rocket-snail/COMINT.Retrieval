@@ -1,0 +1,5 @@
+the generation of extremely steep pulse edges in
+    multistage nonlinear amplifiers the pulse generator described
+    incorporates three transformer coupled amplifier stages for
+    sharpening the multivibrator pulses it can supply pulses with a
+    rise time into a load

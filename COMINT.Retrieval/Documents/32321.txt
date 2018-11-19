@@ -1,0 +1,7 @@
+refraction of extraterrestrial radio waves in the
+    ionosphere expressions are derived for estimating ionospheric
+    refraction at low frequencies horizontal gradients of electron
+    density are considered positions of a discrete source obtained
+    from observation at after applying corrections for refraction
+    are within a few minutes of arc of the observed position at
+    mcs

@@ -1,0 +1,7 @@
+the acousto electric effect theoretical calculations
+    indicate that an electric current should be generated in a
+    crystal by the passage through it of an acoustic wave in a
+    metal the electrons concerned are at the fermi level in an n
+    type semi conductor they are in the conduction band
+    calculations for na and for n type ge indicate that the
+    predicted effect should be measurable

@@ -1,0 +1,8 @@
+semiconductor amplifiers and generators with carriers
+    having negative effective mass it is not possible to produce
+    states with negative losses in a semiconductor by means of a
+    constant electric field it is necessary to have a state with
+    negative losses in a semiconductor by means of a constant
+    electric field it is necessary to have a state with negative
+    temperature as achieved in molecular generators or using pulsed
+    excitation by a electric field

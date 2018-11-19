@@ -1,0 +1,8 @@
+an integrated public/schools library system for malta.
+    (fla thesis.) provides a plan to standardise development in the
+    state-controlled public and school libraries in malta, over a
+    10-year period, in light of the failure of the 7-year malta
+    development plan to mention library development. stresses the
+    fact that malta has a sufficiently well educated and
+    appreciative population to embark on such a programme of
+    integrated service and provision.

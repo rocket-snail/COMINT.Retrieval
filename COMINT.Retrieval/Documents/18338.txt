@@ -1,0 +1,2 @@
+a new method of determining correlation functions of
+    stationary time series

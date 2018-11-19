@@ -1,0 +1,5 @@
+the determination of the velocity of winds from spaced
+    dfading experiments more detailed analysis referred to in above
+    if some assumption is made about the distribution of signal
+    amplitude over the ground the statistics of wind variation can
+    be deduced

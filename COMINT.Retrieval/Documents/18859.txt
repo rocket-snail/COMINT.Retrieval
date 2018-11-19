@@ -1,0 +1,8 @@
+representation of the modes of motion of an undamped
+    linear oscillating system with two degrees of freedom the
+    general solution of the differential equations for a system
+    comprising two coupled mas points corresponds to the
+    superposition of two natural oscillations but a better idea of
+    the phenomenon is obtained by considering the motion as a
+    single oscillation modulated in phase and in amplitude this
+    approach is illustrated graphically

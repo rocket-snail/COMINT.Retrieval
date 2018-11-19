@@ -1,0 +1,7 @@
+compensation against effects of grid cathode capacitance
+    in pulse height selectors the precision of the selector may be
+    reduced by an effect due to the grid cathode capacitance of the
+    input valve when a constant current valve is used in the
+    cathode circuit this effect can be compensated by applying the
+    input signal appropriately modified to the grid of the constant
+    current valve

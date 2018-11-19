@@ -1,0 +1,3 @@
+anisotropic magnetization discussion of the magnitude and
+    temperature dependence of anisotropic magnetization with
+    application to different classes of materials

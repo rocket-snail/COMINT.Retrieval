@@ -1,0 +1,4 @@
+theory of electrical conduction general theory of
+    conduction in pure metals is developed without assuming
+    spherical symmetry for the energy levels this is applied to
+    calculate the conductivity of the alkali metals

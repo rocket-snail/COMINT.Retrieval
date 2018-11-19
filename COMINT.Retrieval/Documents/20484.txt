@@ -1,0 +1,6 @@
+nti: international gateway to transpac. the centre commun
+    d'etudes de television et de telecommunications has developed
+    an international gateway, designated nti, to connect the french
+    transpac public packet switching network with foreign public
+    packet networks and euronet. describes nti and the services
+    available through it.

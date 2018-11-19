@@ -1,0 +1,7 @@
+quantum theory of a damped electrical oscillator and
+    noise field quantization is applied to an electrical
+    oscillating circuit damping effects are treated by perturbation
+    theory quantum effects occur both in the damping and in the
+    noise and are discussed in detail the vacuum fluctuations are
+    shown to be observable in certain low temperature noise
+    experiments

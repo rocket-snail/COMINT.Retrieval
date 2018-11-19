@@ -1,0 +1,4 @@
+the latitude dependence of radar meteor shower
+    observations a simplified method of assessing the relative
+    significance of meteor showers is described which leads to good
+    agreement between surveys in both hemispheres

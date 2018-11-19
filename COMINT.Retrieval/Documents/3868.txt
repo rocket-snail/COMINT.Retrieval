@@ -1,0 +1,16 @@
+hierarchical architecture for computer mail systems. an
+    architectural model for large, distributed computer mail
+    systems is presented. this model specifies' a minimum set of
+    functional components that supports all computer mail
+    functions; the functions and structure of each component; the
+    communication protocol needed for interprocess communication;
+    and the organisation of the identification data base used to
+    support identification services in the architecture. the
+    computer mail protocol of the architecture is specified
+    following the framework of the reference model for open system
+    architectures proposed by the iso, and each layer of the
+    protocol is discussed in detail. the organisation of the
+    identification data base is based on the same layering concept,
+    and special emphasis is given to the role of identification
+    services in large systems and the interconnection of various
+    systems.

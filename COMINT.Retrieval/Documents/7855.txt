@@ -1,0 +1,6 @@
+simultaneous asynchronous oscillations in class c
+    oscillators it is shown theoretically and practically that self
+    starting asynchronous oscillations are possible in a class c
+    pentode oscillator transient and steady state solutions are
+    obtained for such an oscillator with one and two degrees of
+    freedom

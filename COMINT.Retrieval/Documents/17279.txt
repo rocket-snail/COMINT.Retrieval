@@ -1,0 +1,4 @@
+general analysis of optical infrared and microwave maser
+    oscillator emission the equations governing coherent emission
+    are generalized amplitude modulation of the signal is to be
+    expected and this can be used for communication purposes

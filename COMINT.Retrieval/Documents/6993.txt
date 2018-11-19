@@ -1,0 +1,7 @@
+leo lyons electronic office a detailed account of the
+    installation the nucleus of which is a digital computer
+    developed from the edsac operation maintenance and fault
+    finding procedure are described an extensive system of marginal
+    checking has been included punched tape read photoelectrically
+    is used for the input errors in perforation are completely
+    eliminated by use of a special checking device

@@ -1,0 +1,9 @@
+oscillator characteristic equation the equation for an
+    oscillator circuit using a triode is developed in a form
+    involving the differential coefficients of the dynamic
+    resistance of the triode measurements on a hartley oscillator
+    are reported which are in good agreement with the theoretical
+    results over most of the oscillation characteristic particular
+    features of the oscillation characteristics are discussed and
+    the constants of the triode and the tank circuit are deduced
+    from them

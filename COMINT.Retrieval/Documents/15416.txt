@@ -1,0 +1,5 @@
+reflection and refraction in magnetohydrodynamic fluids
+    of finite conductivity are considered on the basis of the euler
+    minkowski system for hydromagnetic waves propagated in a
+    direction differing from that of the external magnetic
+    field

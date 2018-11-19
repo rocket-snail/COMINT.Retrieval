@@ -1,0 +1,3 @@
+theory of noisy two pors networks the geometric analytic
+    theory presented is based on the isometric sphere metred and on
+    a three dimensional conformal transformation

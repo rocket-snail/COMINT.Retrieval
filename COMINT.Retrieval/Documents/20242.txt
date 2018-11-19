@@ -1,0 +1,13 @@
+the library union in hamburg. in 1978 a cooperative
+    scheme was inaugurated between the combined state and
+    university library and over 100 institute and departmental
+    libraries of the colleges of technology to produce a union
+    catalogue and organise cooperative purchasing of books and
+    periodicals. the scheme has also been joined by the technical
+    university at hamburg-harburg and will ultimately include other
+    libraries in north germany. work on the union catalogue has
+    begun with the university's periodicals, for which electronic
+    data processing is used. changes in the data processing system
+    will shortly be made and more work is needed on hardware and
+    software. more space and money will be needed as the scheme
+    expands.

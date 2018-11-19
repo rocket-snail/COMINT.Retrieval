@@ -1,0 +1,4 @@
+cerenkov radiation from extended electron beams
+    calculations are made of the radiation emitted by bunched beams
+    passing close to dielectric surfaces both plane and cylindrical
+    geometries are considered

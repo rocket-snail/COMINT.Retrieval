@@ -1,0 +1,5 @@
+ferroelectrics and the dielectric amplifier
+    galvanomagnetic low frequency amplifier a simple arrangement is
+    described based on the high magnetoresistance at low
+    temperature the device is much less noisy than an ordinary
+    valve or transistor

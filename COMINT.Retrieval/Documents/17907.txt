@@ -1,0 +1,11 @@
+udc and humanities and social sciences. the following
+    papers were given in a udc conference in jyvaskyla in spring
+    81: general overview of present udc; udc and automated
+    information handling; chain indexing; cataloguing finnish
+    literature; and centralised cataloguing. one of the major
+    problems of udc is its slow machinery for revision. the
+    structure of the scheme is well suited for automatic
+    application. udc is used for the classification of legal
+    deposit materials in finland. the present finnish edition of
+    the scheme needs urgent revision, particularly in the
+    humanities subjects.

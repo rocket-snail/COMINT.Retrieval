@@ -1,0 +1,3 @@
+analog computing applied to noise studies methods
+    suitable for studying both linear and nonlinear systems are
+    discussed

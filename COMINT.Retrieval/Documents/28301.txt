@@ -1,0 +1,4 @@
+lumped impedance network transformation given the mz
+    matrix of a network having pairs of terminals an equivalent
+    network involving transmission lines with junction points is
+    discussed

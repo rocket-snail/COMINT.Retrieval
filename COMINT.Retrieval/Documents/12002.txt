@@ -1,0 +1,5 @@
+stability and the effects of valve input conductance in
+    wide band if amplifiers an analysis of the effects of small
+    variations of circuit parameters and of valve input conductance
+    on amplitude and group delay response of double tuned
+    interstage amplifiers see also of

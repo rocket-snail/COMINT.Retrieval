@@ -1,0 +1,4 @@
+magnetohydrodynamic waves in cylindrical waveguides and
+    toroidal resonators investigation of small amplitude
+    magnetohydrodynamic waves in rectangular and circular
+    waveguides and of standing waves in a toroidal resonator

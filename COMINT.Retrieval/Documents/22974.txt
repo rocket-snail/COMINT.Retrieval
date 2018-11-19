@@ -1,0 +1,6 @@
+time and height variations in the daytime processes in
+    the ionosphere part an extension of earlier work of variations
+    of the decay of electron density with height are discussed for
+    the height range km an expression is developed for the loss
+    coefficients over this range for northern middle latitudes at
+    noon

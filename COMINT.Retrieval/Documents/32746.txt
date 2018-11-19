@@ -1,0 +1,2 @@
+group velocity continuation of previous work of theory
+    applicable to the ionosphere and to waveguides is given

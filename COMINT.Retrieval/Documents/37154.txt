@@ -1,0 +1,6 @@
+an analysis of the solar daily variations of the primary
+    cosmic radiation measured with the igy neutron monitor network
+    the results of a harmonic analysis of monthly averaged data
+    from world wide monitoring stations show no asymmetry in
+    amplitude or time of maximum for the northern and southern
+    hemispheres

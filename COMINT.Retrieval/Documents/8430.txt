@@ -1,0 +1,3 @@
+band pass filters having quasi symmetrical attenuation
+    and group delay characteristics description of design procedure
+    and report on experimental results

@@ -1,0 +1,5 @@
+attachment processes in meteor trails the effects of
+    electron attachment to neutral particles on the characteristics
+    of long duration meteor echoes are considered two body and
+    three body attachment processes produce differing effects and
+    these are compared with observations

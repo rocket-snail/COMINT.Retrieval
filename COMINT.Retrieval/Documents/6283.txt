@@ -1,0 +1,6 @@
+rc or direct coupled power stage analysis is performed
+    for an rc or direct coupled output stage consisting of an ideal
+    triode of resistance anode feed resistance r and load
+    resistance r to determine the relations between and for maximum
+    efficiency the formula derived is evaluated for some particular
+    cases

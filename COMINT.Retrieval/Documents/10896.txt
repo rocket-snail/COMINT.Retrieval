@@ -1,0 +1,4 @@
+printed circuitry for transistors the auto sembly
+    technique of february danko is suggested as a simple and
+    effective method for the production of compact transistor
+    circuits

@@ -1,0 +1,3 @@
+location of a vector in a lexicographically ordered
+    listalgorithm 151) february, 1963 walter, h. f. ca630208 jb
+    march 14, 1978 2:17 pm

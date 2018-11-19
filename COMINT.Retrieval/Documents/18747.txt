@@ -1,0 +1,5 @@
+transient analysis of second order flip flops a
+    mathematical analysis of the trigger sensitivity and switching
+    speed of flip flop circuits whose action can be represented by
+    a second order differential equation the method is applied to a
+    point contact emitter input transistor flip flop

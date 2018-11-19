@@ -1,0 +1,11 @@
+computer networks are caught in their own mesh. the
+    object of local networking is to link office equipment such as
+    word processors, computers, disc memory files and printers, but
+    the complexities of such networking are confusing potential
+    customers. the oldest kind of network-the proprietary one which
+    computer makers supply to link particular computers and
+    terminals-is a solution which has been in use for many years.
+    describes various attempts by manufacturers to standardise
+    networking components and procedures, and to introduce low-cost
+    personal computers-felt by some to be the key to the
+    future.

@@ -1,0 +1,9 @@
+the characteristics of an electron beam entering a
+    coaxial magnetic field the effect of nonuniformity field on the
+    convergence of an electron beam is studied by considering a
+    particular field configuration and calculating the path of an
+    electron at the edge of the beam the radius of the beam is
+    plotted as a function of distance travelled in the transition
+    zone for different values of a parameter which is dependent on
+    current density accelerating voltage and length of the
+    transition zone

@@ -1,0 +1,8 @@
+a diode capacitor memory for high speed electronic
+    computers ordinary linear capacitors are used as rapid access
+    storage elements in a matrix arrangement the basic circuit
+    consists of two diodes in series with the anode of one
+    connected to the cathode of the other and the capacitor
+    connected to the junction the other end of the capacitor is
+    used for reading and writing and is connected to earth through
+    a resistor

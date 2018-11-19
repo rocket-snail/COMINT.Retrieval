@@ -1,0 +1,9 @@
+magnetic core circuits for digital data processing
+    systems circuits for interconnecting toroidal cores used to
+    perform various functions in digital computers are discussed a
+    single diode loop permits unconditional transfer of information
+    from one or more transmitting cores to one or more receiving
+    cores a split winding loop permits conditional transfer and
+    hence logical operations an inhibit loop is also described the
+    operation of shift registers cycle distributors counters etc is
+    explained

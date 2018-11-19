@@ -1,0 +1,9 @@
+graph potentials method and its application for chemical
+    information processing. a graph potentials method for the
+    solution of isomorphism and automorpism partitioning problems
+    is proposed. the method is based on an analogy between graphs
+    and electrical networks and serves to compute graph invariants,
+    including vertex potentials and other characteristics and to
+    provide an efficient solution to the problems. some
+    computational results demonstrating sensitivity of the proposed
+    method are presented.

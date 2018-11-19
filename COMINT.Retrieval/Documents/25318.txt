@@ -1,0 +1,4 @@
+a modified synthesis procedure for two terminal pair
+    networks a general theorem given previously of is extended for
+    a particular case of a network with one pair of terminals open
+    circuited

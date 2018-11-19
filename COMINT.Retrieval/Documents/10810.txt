@@ -1,0 +1,10 @@
+a study on the triggering of a plate coupled
+    multivibrator by negative pulses experimental observations
+    showed that voltage waveforms at different electrodes were
+    markedly influenced by the form of the input pulses that
+    triggering action depended largely on the input pulse amplitude
+    that triggering might not take place for either very small or
+    very large pulse amplitudes depending on circuit arrangement
+    but larger amplitudes caused greater difficulties analysis of
+    the circuit response to pulses of various durations and
+    amplitudes gave results supporting the observations

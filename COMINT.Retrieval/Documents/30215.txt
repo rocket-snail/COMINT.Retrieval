@@ -1,0 +1,5 @@
+the method of group numbers nombres combinatifs in the
+    study of electromagnetic fields maxwells field equations and
+    poyntings theorem are given in group number form the method is
+    proposed for problems where the use of complex numbers would
+    give an ambiguous result

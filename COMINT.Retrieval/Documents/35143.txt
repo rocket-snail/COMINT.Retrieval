@@ -1,0 +1,4 @@
+low noise parametric amplifier using germanium p n
+    junction diode at six kmc s experimental arrangements and
+    results are given for noise figure measurements at various bias
+    voltages and temperatures

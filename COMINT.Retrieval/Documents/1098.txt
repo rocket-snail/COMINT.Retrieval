@@ -1,0 +1,6 @@
+transient response calculation approximate method for
+    minimum phase shift networks the well known method of linear
+    segments for the calculation of zero pole locations of the
+    transfer function corresponding to a given attenuation
+    characteristic is extended by allowing the zeros and the poles
+    to assume complex instead of only real values

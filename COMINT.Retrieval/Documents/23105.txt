@@ -1,0 +1,5 @@
+a simple thre terminal micrometer capacitor description
+    of a variable capacitor in which a micrometer spindle moves
+    along the axis of a hollow cylinder which is coaxial with a
+    cylindrical hole bored in the brass block screen typical range
+    is from to for a movement of the spindle

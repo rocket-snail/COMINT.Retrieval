@@ -1,0 +1,9 @@
+quantum analogue of the ferromagnetic microwave amplifier
+    certain resemblances between the modes of operation of the
+    three level maser and the ferromagnetic microwave amplifier are
+    shown to be superficial by constructing a quantum mechanical
+    model of the latter device it is shown that while establishment
+    of a negative temperature for two levels is essential in the
+    three level maser it is inessential in the analogue of the
+    ferromagnetic amplifier which in essence depends only on the
+    time varying part of the density matrix

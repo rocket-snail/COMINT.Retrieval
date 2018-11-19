@@ -1,0 +1,6 @@
+an arithmetic unit for automatic digital computers
+    discussion of the requirements for th arithmetic unit of a
+    computer with magnetic drum store with particular reference to
+    the computer for the swiss federal institute of technology
+    operation with fixed or floating decimal point is provided
+    for

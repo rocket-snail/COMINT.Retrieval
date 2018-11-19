@@ -1,0 +1,13 @@
+carrier leak in rectifier modulators of the shunt type
+    carrier leak is the term used for the unbalance carrier
+    frequency component in the modulator output an experimental
+    investigation is reported of factors affecting the attainment
+    of very low leak levels from to below carrier level and of the
+    possibilities of dc balancing of the rectifier bridge square
+    wave and sinusoidal signals are considered the results indicate
+    that control of carrier leak adjustment by use of a dc meter is
+    likely to be practical the effect of carrier generator
+    impedance is discussed some details are given for a modulator
+    with no transformer very low leak levels are attainable by
+    correct relative j adjustment of the two coupling
+    capacitors

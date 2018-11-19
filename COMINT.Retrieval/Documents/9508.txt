@@ -1,0 +1,6 @@
+ferromagnetic spinels with rectangular hysteresis loops
+    tests made on materials of different composition show to be
+    most suitable for magnetic storage elements for rings of
+    outside diameter inside diameter mil the coercive force is
+    about oersteds and switch over time rings of outside diameter
+    have a lower coercive force

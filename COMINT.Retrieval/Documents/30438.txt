@@ -1,0 +1,4 @@
+composite multistable circuit with natural quinary cycle
+    a circuit composed of binary and ternary stages is used based
+    on design principles described previously details are given of
+    a decade unit embodying the circuit

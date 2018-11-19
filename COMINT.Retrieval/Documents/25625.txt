@@ -1,0 +1,9 @@
+investigations of noise in audio frequency amplifiers
+    using junction transistors noise factor measurements were made
+    using various types of transistor in different circuit
+    arrangements the influence of input termination and operating
+    point are discussed results are presented graphically three
+    distinct sources are identified shot noise and thermal noise
+    are independent of frequency over the af band semiconductor
+    noise varies approximately as noise properties of transistors
+    and thermionic valves are compared

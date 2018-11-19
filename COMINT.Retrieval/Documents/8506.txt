@@ -1,0 +1,4 @@
+how to design pulsed distributed amplifiers principles of
+    operation are discussed and basic design equations are listed
+    details of design procedure and performance of a power
+    amplifier operating around are given

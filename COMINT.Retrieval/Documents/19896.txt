@@ -1,0 +1,4 @@
+precision variable frequency power supply a ballast tube
+    in thermal regulating bridge controls the amplitude of the
+    output and an adjustable filter controls the frequency from
+    to

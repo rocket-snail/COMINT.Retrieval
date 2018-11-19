@@ -1,0 +1,11 @@
+current noise in composition resistors because of the
+    inherent inhomogeneity of the resistor material and because the
+    noise depends on the square of the current density modification
+    of the resistor structure at a few points of high current
+    density can have a large effect on the noise without greatly
+    affecting the dc resistance experimental evidence in support of
+    this view is given the effect may account for the observed lack
+    of correlation between noise and dc resistance with large
+    currents measurements made on resistors of the same rating but
+    different types indicate a relation between noise coefficient
+    and shape factor

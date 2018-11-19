@@ -1,0 +1,8 @@
+coupling of computer processed indexes to a
+    photocomposing unit to improve the readability. describes the
+    details of a project undertaken to explore the possibility of
+    improving the readability of a computer assisted index
+    (presently brought out by a line printer) by taking the output
+    onto a paper tape in a compatible manner that can be fed to a
+    film setter directly to provide lower-case letters and italic
+    founts, with a flexibility of varying the point size.

@@ -1,0 +1,6 @@
+quartz delay lines for radar systems two lines are
+    briefly discussed the electromechanical type in which a silica
+    or quartz bar is used in conjunction with one or two quartz
+    crystal transducers and the rectangular or polygon plate type
+    applicable to ultrasonic frequencies delay times from to are
+    obtainable at low power levels

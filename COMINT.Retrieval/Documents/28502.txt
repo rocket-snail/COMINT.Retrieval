@@ -1,0 +1,4 @@
+transistors part discussion of transistor equivalent
+    circuits analogies between transistors and electronic valves
+    practical transistor circuits noise operational frequency
+    limits part

@@ -1,0 +1,6 @@
+disk seal triode amplifiers for decimetre wavelength
+    radio links amplifiers for increasing the transmitter output
+    power and receiver sensitivity in existing links are considered
+    grounded grid circuits are used simple formulae are derived for
+    gain and bandwidth giving values in good agreement with
+    experimental results obtained with type and type valves

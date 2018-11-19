@@ -1,0 +1,5 @@
+experimental demonstration of parametric amplification
+    simple experiments are described to demonstrate the basic
+    principles of pr parametric amplification using a variable
+    capacitance circuit and by means of a mechanical system for
+    setting up waves on a water surface

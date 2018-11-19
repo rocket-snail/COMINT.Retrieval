@@ -1,0 +1,4 @@
+maser action in ruby by off resonance pumping population
+    inversion peaks have been observed using a pump frequency as
+    much as from the centre frequency the experimental results are
+    discussed and explained

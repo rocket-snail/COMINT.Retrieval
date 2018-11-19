@@ -1,0 +1,13 @@
+indexes as estimates of the amount of information in the
+    indexed material (in hebrew). examines indexes as a source of
+    general information about the indexed material. defines the
+    concepts of index-entry, index-base and index and concludes
+    that an index is a group of data and subjects which the indexer
+    deemed significant and as expressing the content of the indexed
+    material. given an ideal indexer, the size of an index may
+    serve as a measurement of the amount of information in the
+    indexing-base. since perfect indexes do not exist, a careful
+    evaluation of a concordance by vocabulary size and word
+    occurrence could provide an estimate. evaluation must be done
+    very carefully in relation to content, discipline and type of
+    indexed terms.

@@ -1,0 +1,16 @@
+the hollow cathode effect and the theory of glow
+    discharges the electric field between two plane parallel
+    cathodes was investigated by observing the deflection of an
+    electron beam and simultaneously noting other discharge
+    parameters results show that the field in the two cathode dark
+    spaces falls linearly with distance from the cathode and thus
+    the net space charge density is constant as in a conventional
+    discharge the dark sace length was also determined the
+    conclusions lead to a theory of glow discharges which takes
+    account of the effect of ultraviolet quant from the glow on the
+    photoelectric emission from the cathodes the discrepancy
+    between earlier experimental results showing that ions of
+    energy of the order of cathode fall of potential arrive at the
+    cathode and classical calculations leading to low ion energies
+    is resolved by allowing for small angle scattering and charge
+    transfer

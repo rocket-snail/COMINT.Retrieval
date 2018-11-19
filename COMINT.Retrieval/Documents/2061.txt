@@ -1,0 +1,14 @@
+study of noise reduction by feedback in ultra high
+    frequency amplifiers a detailed investigation has been made to
+    determine theoretical and practical limits for the cancellation
+    of valve noise in rf amplifiers measurements were made on a
+    modified planar type of disk seal triode designed to have a
+    transit phase angle of about one radian at mcs the conditions
+    for complete noise cancellation are determined and expressions
+    are derived for input and output admittance available power
+    gain and noise figure can be reduced considerably by means of
+    feedback but w is thereby reduced at an equivalent or greater
+    rate so that the practical application of this method is
+    uneconomical with present valves the uncorrelated part of the
+    induced grid noise is the most important factor in the increase
+    in f at vhf

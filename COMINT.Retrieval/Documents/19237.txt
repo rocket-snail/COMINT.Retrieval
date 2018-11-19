@@ -1,0 +1,12 @@
+direct coupled transitron transitron arrangements are
+    discussed in which the screen grid and suppressor grid of the
+    pentode are connected via a resistance network various
+    practical applications are possible as a result of a
+    discontinuity in the characteristic circuits for detection of
+    direct voltage changes eg amplifier gain alarm detection of
+    alternating voltage changes eg peak suppressors and
+    rectification of voltages exceeding a given level are
+    considered careful design is necessary to overcome variations
+    between individual valves but a very sharp trigger action can
+    be produced the high sensitivity makes circuit economies
+    possible

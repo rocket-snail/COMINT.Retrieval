@@ -1,0 +1,4 @@
+theory of the electrical conductivity of a plasma the
+    calculation presented is based on integration of the boltzmann
+    equation in which the atoms ions and electrons are not treated
+    as rigid perfectly elastic spherical scattering centres

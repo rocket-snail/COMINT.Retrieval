@@ -1,0 +1,4 @@
+pulse height selector with constant analysis time a
+    single channel pulse height selector with a analysis time
+    constant to within independent of the pulse height is
+    described

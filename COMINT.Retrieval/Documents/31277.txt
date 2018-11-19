@@ -1,0 +1,3 @@
+on scattering matrices normalized to complex port numbers
+    a terminal network with generators having complex impedances is
+    considered

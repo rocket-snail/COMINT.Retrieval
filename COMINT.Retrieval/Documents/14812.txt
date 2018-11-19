@@ -1,0 +1,4 @@
+a miniature analogue computer the computer described is
+    capable of solving linear differential equations of orders up
+    to the tenth and is intended for preliminary design
+    investigations and educational purposes

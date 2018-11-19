@@ -1,0 +1,9 @@
+electron densities in the f region of the ionosphere from
+    rocket measurements the recording and analysis of faraday
+    rotation and range error measurements on radio waves from long
+    range military and satellite launching rockets are described
+    corrections for horizontal gradients and refraction are
+    included the results from seven launchings show that the
+    vertical electron density gradient is greatest near sunrise and
+    lowest after sunset suggesting a time lag before diffusive
+    equilibrium is reached

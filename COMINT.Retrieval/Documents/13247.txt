@@ -1,0 +1,3 @@
+the locking band for the automatic phase control of
+    frequency formulae are derived relating the locking band to the
+    filter parameters and the delay time of the circuits

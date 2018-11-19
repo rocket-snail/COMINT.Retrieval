@@ -1,0 +1,5 @@
+the dielectric harmonic amplifier a controllable harmonic
+    generator circuits incorporating ferroelectric capacitors for
+    producing harmonics of power frequencies are described
+    applications as amplifiers or controllable frequency changers
+    are mentioned

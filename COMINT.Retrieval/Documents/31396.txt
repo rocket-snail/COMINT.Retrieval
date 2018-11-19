@@ -1,0 +1,6 @@
+electromagnetic induction in a two layer earth the theory
+    developed by is extended to determine the induced field on the
+    surface of a medium whose conductivity is a function of depth
+    the results are applied to evaluate the field induced when an
+    oscillating magnetic dipole is placed on the surface of a flat
+    two layer earth

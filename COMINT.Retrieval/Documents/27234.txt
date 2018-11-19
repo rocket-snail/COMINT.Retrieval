@@ -1,0 +1,4 @@
+quasi cascaded parametric amplifier a description is
+    given of a circuit based on the resonance modes of a single
+    sample which should significantly improve the power gain of
+    current suhl type amplifiers

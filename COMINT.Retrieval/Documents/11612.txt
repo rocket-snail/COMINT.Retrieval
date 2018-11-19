@@ -1,0 +1,2 @@
+a barkhausen kurz oscillator at centimetre
+    wavelengths

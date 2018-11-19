@@ -1,0 +1,8 @@
+the synthesis of reactance networks consisting only of
+    rejector circuits in series by the method of partial networks
+    the modification required in a filter network with given
+    resonance and anti resonance frequencies in order to introduce
+    a further prescribed resonance or antiresonance frequency is
+    determined numerical examples illustrate the method which is
+    also applied to the reduction of the number of resonance
+    frequencies and to a mechanical oscillator

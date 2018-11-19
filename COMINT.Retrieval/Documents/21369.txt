@@ -1,0 +1,4 @@
+frequency stable oscillators for current and voltage the
+    suitability of bridge type oscillators as current or voltage
+    source under optimum frequency stability conditions is
+    discussed

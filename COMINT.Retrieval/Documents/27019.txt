@@ -1,0 +1,6 @@
+the problem of heating in the selenium rectifier formulae
+    for the calculation of heat losses are derived design for good
+    efficiency and low temperature rise is discussed in detail with
+    reference to the operational demands of various applications in
+    power rectification typical characteristics curves are
+    given

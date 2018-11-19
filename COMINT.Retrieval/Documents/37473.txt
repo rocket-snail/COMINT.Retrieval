@@ -1,0 +1,4 @@
+statistics of electron avalanches in a uniform field the
+    statistical distribution of the number of charge carrier pairs
+    about the mean was determined experimentally by measurements on
+    discharges in ethyl alcohol results agree with theory

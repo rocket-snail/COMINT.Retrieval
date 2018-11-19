@@ -1,0 +1,11 @@
+vendor systems and on-line ordering. contribution to the
+    lita (american library association. library and information
+    technology association) institute. a brief history of the
+    development of automated library acquisitions systems, with
+    emphasis on vendor-developed systems, is given from the 1960s
+    to 1980. definitions for on-line ordering systems and
+    acquisitions systems are developed. describes an 'ideal'
+    on-line acquisitions system; the model developed is not yet
+    fully available. presents a strategy for selecting the best
+    system for a particular library, and makes predictions about
+    the future of library acquisitions from 1980-84.

@@ -1,0 +1,2 @@
+analysing magnetically detected stepper servo
+    motors

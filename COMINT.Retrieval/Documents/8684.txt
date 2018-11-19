@@ -1,0 +1,2 @@
+a new synthesis procedure for two terminal pair networks
+    using the symmetrical lattice structure

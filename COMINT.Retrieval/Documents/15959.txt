@@ -1,0 +1,7 @@
+the application of square hysteresis loop materials in
+    digital computer circuits theories and the practical design of
+    shifting registers are explained core matrix storage systems
+    are reviewed a description is given of a store in which a
+    shifting register is used to convert the parallel output into
+    serial form this register is also used during the writing
+    process

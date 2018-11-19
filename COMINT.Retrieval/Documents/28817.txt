@@ -1,0 +1,7 @@
+highly regulated rf voltage supply a rf output voltage of
+    rms maximum with low harmonic content is obtained by using a
+    crystal controlled pentode oscillator at the fundamental
+    frequency with positive feedback regulation of the output is
+    achieved by means of a negative feedback loop incorporating a
+    high gain dc amplifier which supplies the oscillator screen
+    grid voltage

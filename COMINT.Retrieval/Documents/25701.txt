@@ -1,0 +1,10 @@
+modified exponential line as improved transforming
+    element with high pass characteristic for a given length of
+    exponential line there is a critical frequency above which the
+    transformation property becomes effective at frequencies only a
+    little above critical the transformation is only approximate
+    this drawback can be avoided by designing the line so that the
+    characteristic impedance does not vary exactly exponentially
+    approximate line equations are derived for this case and
+    practical forms of such lines are discussed the influence of
+    constructional defects is examined

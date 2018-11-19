@@ -1,0 +1,9 @@
+a stabilized dc supply unit for output voltages of to a
+    circuit is described in which the whole of the output voltage
+    variation is available for controlling the amplifying valve so
+    that the gain is the same for any output voltage down to zero
+    the control valve is a pentode whose screen grid voltage is
+    stabilized by means of a stabilizer tube the filaments of the
+    amplifying valves which are also fed from this source have low
+    consumption variation of the output voltage is for mains
+    fluctuations up to

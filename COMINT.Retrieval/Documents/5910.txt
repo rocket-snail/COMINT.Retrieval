@@ -1,0 +1,8 @@
+the frequency dependence of transistor quadripole
+    parameters the grounded base connection only is considered
+    oertels equivalent valve circuit above is a satisfactory
+    approximation up to a frequency about half that of cut off but
+    a proper description of rf performance requires the addition of
+    a base resistance and leakage conductance to the basic
+    equivalent circuit measurements on a type oc transistor show
+    satisfactory agreement with theory

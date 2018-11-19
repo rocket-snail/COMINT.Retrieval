@@ -1,0 +1,12 @@
+online document ordering systems of online vendors
+    (abstract only). the number of on-line data base vendors
+    providing document ordering services has increased since 1972,
+    when this service was offered for the 1st time. ordering
+    documents on-line following an on-line search would seem to be
+    an attractive possibility. however, actual use of this system
+    facility is surprisingly low. gives a comparative analysis of
+    selected on-line document ordering systems. system
+    characteristics such as ease-of-use, turn-around time, types of
+    suppliers and charges are outlined. data elements are described
+    and considerations of various system functions are
+    emphasised.

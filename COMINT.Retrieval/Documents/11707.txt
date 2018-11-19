@@ -1,0 +1,2 @@
+shift of the shadow boundary and scattering cross section
+    of an opaque object

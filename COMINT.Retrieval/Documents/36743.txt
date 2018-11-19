@@ -1,0 +1,12 @@
+energy distribution of secondary electrons from magnesium
+    and berylium alloys experiments were carried out at a pressure
+    of mm hg with alloys and activated by heating either in a
+    vacuum or in an atmosphere of oxygen curves showing the
+    dependence of the secondary emission coefficient on the energy
+    of primary electrons and of the secondary current on the
+    voltage at the collector are plotted the mechanism of secondary
+    emission from complex surfaces is not considered to be similar
+    to that of the malter effect the role of the accelerating field
+    is probably reduced here to the compensation of local retarding
+    fields above the inhomogeneous surface of the activated
+    layer

@@ -1,0 +1,4 @@
+magnetic perturbation of an ammonia maser on the line
+    theoretical curves of frequency change as a function of the
+    perturbing field are given for a line maser fluctuations of the
+    field by are shown to give an error of about

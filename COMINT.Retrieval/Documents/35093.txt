@@ -1,0 +1,17 @@
+text passage retrieval based on colon classification'
+    retrieval performance. a set of experiments was conducted to
+    determine the suitability of the colon classification as a
+    foundation for the automated analysis, representation and
+    retrieval of primary information from the full text of
+    documents. full text data bases were created in 2 subject areas
+    and queries solicited from specialists in each area. an
+    automated full text indexing system, along with 4 automated
+    passage retrieval systems, was created to test the various
+    features of the colon classification. 2 boolean-based systems
+    and 1 simple word occurrence system were created in order to
+    compare the retrieval results against types of systems which
+    are in more common use. the systems' retrieval performances
+    were measured using recall and precision and the mean expected
+    search length reduction factors. overall, colon-based systems
+    did not perform significantly better than the other
+    systems.

@@ -1,0 +1,8 @@
+transient analysis of junction transistor amplifiers in
+    analysing transistor operation transit time effects must be
+    taken into account this can be done to a sufficiently close
+    degree of approximation by including in the equivalent circuit
+    an rc network in series with an idealized delay line only
+    simple laplace transforms are then involved in the response
+    calculations the theory is supported by experimental
+    results

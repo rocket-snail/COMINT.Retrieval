@@ -1,0 +1,12 @@
+practical low pass and band pass minimum phase networks
+    with equalized delay and a period transient response a minimum
+    phase shift network with constant delay characteristic is a
+    practical approximation to an idealized low pass filter since
+    its attenuation characteristic in the pass band has a similar
+    shape conditions for delay equalization are investigated for a
+    unit step input in terms of the positions of the zeros and
+    poles of the response function a general method of calculation
+    for filter networks of this type is given the attenuation and
+    group delay characteristics in a simple case are compared with
+    those of an equivalent filter based on image parameter
+    theory

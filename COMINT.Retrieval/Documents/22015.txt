@@ -1,0 +1,2 @@
+v l f attenuation for east west and west east daytime
+    propagation using atmospherics

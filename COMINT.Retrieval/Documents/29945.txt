@@ -1,0 +1,7 @@
+collision processes in meteor trails momentum loss cross
+    sections for impacts between meteor atoms and atmospheric
+    molecules are calculated the values of the ionization cross
+    section derived from them are in agreement with those derived
+    earlier by bates and massey the diffusion of ionization in a
+    meteor trail is also discussed in relation to known mobilities
+    of positive ions in gases

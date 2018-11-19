@@ -1,0 +1,5 @@
+a passive waveform shaping circuit an inductance and
+    suitable semiconductor diodes are combined applications
+    discussed include a change in phase of a square wave b mark
+    space ratio modulation of a square wave c pulse generation
+    lengthening and delay

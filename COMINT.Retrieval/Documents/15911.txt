@@ -1,0 +1,9 @@
+cataloging of audiovisual materials' a manual based on
+    aacr2. manual based on a cataloguing workshop (1979) and on
+    cataloguing experience, presenting a single set of rules for
+    the cataloguing of audiovisual materials, excluding music and
+    cartographic materials. rules for descriptive cataloguing, and
+    coding and tagging of bibliographic records for input into oclc
+    or any marc-based system are given. the history of cataloguing
+    of audiovisual material is given in a chronology by suzanne
+    massoneau.

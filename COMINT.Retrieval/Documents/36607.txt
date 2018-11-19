@@ -1,0 +1,3 @@
+relaxation effects in a maser material the rate equations
+    for the occupation of spin levels are augmented to include
+    cross relaxation processes which can impair maser action

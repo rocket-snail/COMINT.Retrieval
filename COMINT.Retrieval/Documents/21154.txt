@@ -1,0 +1,7 @@
+electromagnetic potentials in a heterogeneous
+    nonconducting medium for em fields in a stationary
+    nonconducting medium isotropic or anisotropic the dielectric
+    constant and permeability of which are given point functions
+    the general theory of representations in terms of scalar and
+    vector potentials and of hertzian potentials is
+    developed

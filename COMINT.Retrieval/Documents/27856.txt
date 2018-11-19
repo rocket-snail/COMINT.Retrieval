@@ -1,0 +1,3 @@
+parametric excited resonator using junction transistor
+    oscillations in the collector circuit are phase locked by a
+    signal applied to the reverse biased emitter

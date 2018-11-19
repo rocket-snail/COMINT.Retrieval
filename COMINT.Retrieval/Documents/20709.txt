@@ -1,0 +1,5 @@
+digital function generation with torsional delay lines a
+    torsional magnetostriction delay line has small magnets to
+    replace the usual control taps since the magnets do not load
+    the line a large number of taps each equivalent to one bit may
+    be used with one common output

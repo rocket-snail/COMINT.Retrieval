@@ -1,0 +1,4 @@
+analogue division circuit the circuit contains only
+    magnetic cores and windings and is suitable for use under
+    severe environmental conditions a detailed analysis is
+    given

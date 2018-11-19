@@ -1,0 +1,8 @@
+a demonstration of promis. the problem-oriented medical
+    information system at the medical center hospital of vermont. a
+    study was conducted to evaluate the impact of the
+    problem-oriented medical information system (promis), which is
+    based on an automated problem-oriented medical record, by
+    comparing the records for 2 generally comparable medical wards,
+    one using the computerised promis record and the other using
+    its manual prototype.

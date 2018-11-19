@@ -1,0 +1,2 @@
+a simplified derivation of the manley and rowe power
+    relationships

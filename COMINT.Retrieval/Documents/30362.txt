@@ -1,0 +1,10 @@
+automating i&r files: word processing, a first step
+    (fresno county information & referral network). paper
+    presented at a seminar 'community information in the 80's'
+    towards automation of information and referral files' at the
+    1980 american library association annual conference. describes
+    the automated system, based on a word processor, used by the
+    fresno county information & referral network to produce
+    semi-annual editions of their 900 page community resources
+    directory for use in 500 locations. the ultimate goal is full
+    on-line access.

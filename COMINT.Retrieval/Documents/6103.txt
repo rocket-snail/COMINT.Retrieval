@@ -1,0 +1,7 @@
+the study of a magnetic inverter for amplification of low
+    input power dc signals the principle of operation of the
+    magnetic inverter differs from the conventional magnetic
+    amplifier in that the load current corresponds to the even
+    harmonic mmfs present in the asymmetrically excited iron core
+    system power gains up to can be obtained with time constants of
+    about sec when operating at the zero stability is within

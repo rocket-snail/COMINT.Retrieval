@@ -1,0 +1,3 @@
+an experimental gas diode switch the ac impedance is a
+    stable negative resistance of about for frequencies up
+    to

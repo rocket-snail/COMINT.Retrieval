@@ -1,0 +1,7 @@
+series capacitors multiply battery voltage the voltage
+    obtainable by charging capacitors in parallel and discharging
+    them in series is increased by using a set of capacitors of
+    graded capacitance values and charging the first by the battery
+    only th second by the battery in series with the first
+    capacitor and so on the method has been used to provide using
+    six capacitors with a battery

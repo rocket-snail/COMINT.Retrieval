@@ -1,0 +1,12 @@
+the solution of a certain differential equation a method
+    of obtaining approximate solutions to a class of nonlinear
+    network problems is discussed the method wal developed in
+    relation to the problem of a capacitor in series with a
+    nonlinear resistor of the type and its application is
+    illustrated by reference to this problem the resistor
+    characteristic being assumed cubic and the applied voltage
+    simple harmonic an exact steady state solution for this network
+    is unobtainable but an approximate solution is obtained by
+    choosing the constants in the formula for the voltage across
+    the resistor such that the applied voltage has no third
+    harmonic component

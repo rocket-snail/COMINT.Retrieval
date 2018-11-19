@@ -1,0 +1,5 @@
+dissipation loss in multiple coupled resonator filters a
+    simple approximate formula enables centre frequency loss to be
+    computed and elsewhere loss may be computed from the prototype
+    low pass filter after suitable circuit modification
+    unsymmetrical and symmetrical designs are considered

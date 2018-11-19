@@ -1,0 +1,4 @@
+tunnel diode as an interstage gain device application of
+    the tunnel diode as a coupling element to provide impedance
+    transformation and power gain between each stage of an i f
+    amplifier

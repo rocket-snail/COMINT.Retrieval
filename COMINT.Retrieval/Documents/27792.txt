@@ -1,0 +1,14 @@
+state of the art reports on australian networks) group of
+    state-of-the-art reports on australian library networks,
+    presented at the 1980 library association of australia
+    cataloguers' section national cataloguing seminar, to which
+    this issue is devoted. the networks are abn (australian
+    bibliographic network), reported on by warwick s. cathro; clann
+    (college libraries activity network in new south wales), by
+    mary bays; caval (cooperative action by victorian academic
+    libraries), by glenn sanders; technilib, by keith davison;
+    saeris (south australian education resources information
+    system), by anne harris; saenet (south australian advanced
+    education computer network), by ed willis; and the oracle
+    system (not a network yet; used at the state library of
+    queensland), by stan bastow.

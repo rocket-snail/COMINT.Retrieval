@@ -1,0 +1,4 @@
+instability of longitudinal oscillations of an electron
+    ion plasma in an isotropic plasma the oscillations are always
+    damped in an anisotropic medium ion motion may lead to
+    instability

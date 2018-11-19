@@ -1,0 +1,6 @@
+calculation of the capacitance of a circular annulus by
+    the method of subareas an approximation method is described and
+    applied to the determination of the capacitance and charge
+    distribution of a circular annulus and of a circular disk the
+    fourth approximations for the capacitance are in good agreement
+    with the known exact values

@@ -1,0 +1,6 @@
+a new concept in computing the phase of a sine wave
+    signal is used as an information bearing medium which together
+    with majority logic permits the realization of logic operations
+    nonlinear reactances are employed computing can be carried out
+    more rapidly than by present techniques if microwave
+    frequencies are used

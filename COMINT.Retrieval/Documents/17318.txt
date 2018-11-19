@@ -1,0 +1,4 @@
+basic properties and characteristics of a synchronous
+    filter the operation of integrating devices used for improving
+    signal noise ratio is discussed a simple circuit with a long
+    open circuited line as store is analysed

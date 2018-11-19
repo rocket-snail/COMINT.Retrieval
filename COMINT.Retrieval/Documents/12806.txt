@@ -1,0 +1,3 @@
+transistor stabilized power supply for circuit details of
+    a unit with output resistance and output voltage variation or
+    less for change in input voltage

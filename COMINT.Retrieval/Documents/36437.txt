@@ -1,0 +1,2 @@
+comments on kluvers paper entitled small signal power
+    conservation theorem for irrotational electron beams

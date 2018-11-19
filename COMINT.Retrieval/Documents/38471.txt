@@ -1,0 +1,8 @@
+air drag effect on a satellite orbit described by
+    difference equations in the revolution number difference
+    equations are derived whose solutions express changes in
+    orbital size and shape and give the satellites time behaviour
+    as functions of the revolution number the results are obtained
+    from a first order perturbation theory using a small air drag
+    parameter and assuming the air density function to be locally
+    exponential see also of

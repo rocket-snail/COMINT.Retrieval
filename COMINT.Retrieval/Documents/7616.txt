@@ -1,0 +1,5 @@
+fast rise pulse generator with high pulse repetition
+    frequency description of a single pole multi position switch in
+    which mercury is ejected through a rotating nozzle on to a
+    series of contact pins thus generating pulses having a rise
+    time at repetition rates with peak pulse power

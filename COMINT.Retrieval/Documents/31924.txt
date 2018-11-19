@@ -1,0 +1,4 @@
+solution of second order differential equations and
+    partial differential equations using a resistance network
+    description of an instrument based on liebmanns design of which
+    has an accuracy within about part in

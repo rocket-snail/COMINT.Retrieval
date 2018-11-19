@@ -1,0 +1,19 @@
+ionization distribution in the f region the height
+    distribution of ionization in the composite f region is
+    calculated on the assumptions that the scale height ie the
+    temperature increases and the recombination coefficient
+    decreases with height in this region the recombination
+    coefficient is assumed to vary in terms of the reduced height
+    that is the height above f max measured in terms of the actual
+    height as had been done earlier by ap mitra in making similar
+    calculations the present assumption automatically takes into
+    account the effect of rising temperature on the value of the
+    recombination coefficient height distribution curves for high
+    and low latitude stations are drawn for typical summer and
+    winter conditions in the high atmosphere in the f region when
+    the possible effect of ionospheric tidal drifts are taken into
+    account the forms of the distribution curves and the separation
+    between the f and f layers agree with those deduced from
+    observations the results support the view that the f and f
+    layers belong to a common bank of ionization produced by solar
+    radiation

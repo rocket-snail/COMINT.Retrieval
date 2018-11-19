@@ -1,0 +1,10 @@
+a proposed modification to the csiro mark computer the
+    suggestion is put forward that a facility be built into the
+    machine for distinguishing between machine commands and
+    interpretive or hyper commands so that the former are performed
+    directly while on receipt of one of the latter control is
+    directed to the head of the interpretation routine with
+    simultaneous storage of the link datum to enable return of
+    control to the nedt programme command after performance of the
+    hyperfunction this would result in a considerable gain in speed
+    see also and of

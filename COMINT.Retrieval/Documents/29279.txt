@@ -1,0 +1,4 @@
+a versatile output transformer for surge generators
+    description of a tapped toroidal transformer designed to match
+    the generator to a wide range of values of load impedance
+    without altering the form of the surge

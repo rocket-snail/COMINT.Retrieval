@@ -1,0 +1,4 @@
+unstable linear systems and the minimum phase condition
+    the relations between transfer functions for unstable systems
+    and the class of minimum phase transfer functions are
+    examined

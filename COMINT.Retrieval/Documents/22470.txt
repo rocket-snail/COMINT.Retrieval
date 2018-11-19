@@ -1,0 +1,8 @@
+the mechanism of secondary electron emission a simple
+    theory based on the constant energy loss per unit path length
+    of primary electrons accounts quantitatively for the variation
+    of secondary electron yield below its maximum value the theory
+    can be extended to include a bethe type energy loss at high
+    primary energies relations between secondary electron emission
+    and atomic structure are discussed secondary emission in
+    insulators and semiconductors is also considered

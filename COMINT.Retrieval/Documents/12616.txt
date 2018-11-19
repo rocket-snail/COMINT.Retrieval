@@ -1,0 +1,6 @@
+electron density measurements in the upper ionosphere
+    using the faraday rotation of radio signals from artificial
+    satellites agreement between observations and the calculated
+    faraday rotation curve is improved when account is taken of
+    horizontal variations of the ionosphere estimated from hourly
+    ionograms

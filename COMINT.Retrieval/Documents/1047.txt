@@ -1,0 +1,9 @@
+ultra high frequency switches and filters discussion pp
+    the design of filters and switches for the london birmingham
+    television relay link is described the type of switch adopted
+    uses resonant stub lines in shunt with the main transmission
+    lines typical performance details are given the filters are of
+    the band stop type and consist of stub lines composed of a
+    series of nominal line sections shunted across the main
+    transmission line design curves are given and typical filter
+    attenuation curves shown

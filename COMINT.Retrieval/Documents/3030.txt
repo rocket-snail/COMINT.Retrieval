@@ -1,0 +1,13 @@
+will viewdata systems be used in education?. an
+    introduction to viewdata systems is provided as a basis for
+    studying their potential for educational use. the bbc are
+    already conducting experiments to use ceefax in education and
+    costs are expected to fall as application becomes more
+    widespread. viewdata systems are considered to be versatile and
+    will probably be used most in specialised education rather than
+    the more general field. future enhancements should include
+    microprocessor-controlled terminals connected in clusters over
+    a single telephone line, improved graphics facilities, and the
+    linking of small in-house systems to the national prestel
+    network as more educational institutions acquire their own
+    computers.

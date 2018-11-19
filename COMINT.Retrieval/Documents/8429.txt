@@ -1,0 +1,5 @@
+mobility in high electric fields conductivity theory is
+    extended to the case of strong es fields all electron
+    collisions being assumed to be elastic a relation is derived
+    between mobility and relaxation time which is valid over a wide
+    range of field strengths

@@ -1,0 +1,7 @@
+the effect of soft x rays from the solar corona on the
+    formation of the normal ionospheric e layer a calculation has
+    been made previously of the soft x rays from the solar corona
+    vol the results are used to determine the height at which the
+    radiation is absorbed and the number of electrons present at
+    this height under equilibrium conditions the results agree well
+    with observations of the normal e layer

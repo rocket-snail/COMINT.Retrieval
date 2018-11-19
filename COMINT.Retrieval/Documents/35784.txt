@@ -1,0 +1,7 @@
+diffraction of electromagnetic waves by an aperture in a
+    large screen the approximate solution of the three dimensional
+    diffraction problem is obtained by using a single component of
+    the hertz vector the results are applied to the calculation of
+    the field in the plane of a circular aperture which is large
+    compared with the wavelength experiments confirm some of the
+    theoretical results

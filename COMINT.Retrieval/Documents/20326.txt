@@ -1,0 +1,7 @@
+a stable wide range dc amplifer description of an ac
+    operated differential push pull amplifier for biological
+    applications with a range from zero to and a maximum gain of
+    about response can be controlled independently at the high and
+    low ends o the range the dc gain can be reduced to of the mid
+    band gain an automatic rebalancing circuit resets the zero of
+    the amplifier at intervals of about sec

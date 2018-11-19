@@ -1,0 +1,6 @@
+conditions for aperiodicity in linear systems the
+    necessary and sufficient conditions are derived when expressed
+    in terms of the coefficients of the characteristic equation
+    they take the form of a number of simple determinantal
+    inequalities which are closely analogous to the rough hurwitz
+    stability criteria

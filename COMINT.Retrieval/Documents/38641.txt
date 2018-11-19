@@ -1,0 +1,3 @@
+tunnel diode fast step generator produces positive or
+    negative steps the generator produces pulses of about duration
+    having a rise time of at recurrence frequencies up to

@@ -1,0 +1,8 @@
+observations of ionospheric absorption at the theory of
+    ionospheric absorption is outlined and measurement difficulties
+    due to fading are discussed the procedure at the netherlands
+    station is to determine the apparent reflection coefficient for
+    vertically incident waves using pulse transmissions with
+    display of the echo amplitude total absorption and absorption
+    index are hence derived the equipment is described and some
+    results are reported

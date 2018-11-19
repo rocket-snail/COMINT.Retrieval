@@ -1,0 +1,3 @@
+high stability mains operated valve heater supply details
+    are given of a circuit using a high gain tuned amplifier with
+    feedback controlled by a thermistor bridge

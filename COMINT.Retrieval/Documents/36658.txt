@@ -1,0 +1,5 @@
+the earthed collector circuit as an amplifier withe high
+    input impedance the earthed collector circuit configuration is
+    analysed and expressions are obtained for its input impedance
+    and frequency response calculated and measured results are
+    compared and circuit stability limits are discussed

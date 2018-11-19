@@ -1,0 +1,4 @@
+asymptotic theory of diffraction in inhomogeneous media
+    problems discussed in above are treated here as boundary value
+    problems they are solved exactly and the solutions are expanded
+    asymptotically for high frequencies

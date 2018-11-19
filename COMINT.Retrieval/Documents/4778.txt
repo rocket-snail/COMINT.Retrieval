@@ -1,0 +1,6 @@
+hhhfn analogue type multiplier a simple multiplying
+    circuit is described in which rectangular pulses are modulated
+    successively in width and amplitude in proportion respectively
+    to the two factors a and b to be multiplied response times for
+    the circuit tested were for the factor a amplitude and
+    irrespective of amplitude for b

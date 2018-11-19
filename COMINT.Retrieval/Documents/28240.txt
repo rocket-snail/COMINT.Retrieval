@@ -1,0 +1,8 @@
+electrodynamics of charge carriers of negative effective
+    mass in crystals the transport properties of negative effective
+    mass carriers in crystals are studied the electrical
+    conductivity of a sample in which the electron distribution
+    function is weakly perturbed from its thermal equilibrium value
+    is always positive even in the presence of a magnetic field
+    cyclotron resonance experiments in equilibrium should therefore
+    display energy absorption

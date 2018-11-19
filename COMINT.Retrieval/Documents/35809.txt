@@ -1,0 +1,3 @@
+an experimental arithmetic unit detailed description of a
+    unit which performs a repetitive multiplication program and
+    checks the results for errors

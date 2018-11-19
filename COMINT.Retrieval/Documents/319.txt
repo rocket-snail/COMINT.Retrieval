@@ -1,0 +1,12 @@
+bandpass amplifiers a design method is presented based on
+    the required overall gain half power bandwidth and centre
+    frequency of the pass band the amplifier considered is composed
+    of a number of identical groups each comprising one or more
+    amplifying stages and having a maximum flatness frequency
+    response conditions for maximum possible gain are found
+    regeneration due to anode grid capacitances is discussed the
+    amount of distortion introduced into the frequency response is
+    related to a regeneration coefficient when is sufficiently
+    large oscillations occur stability conditions for single tuned
+    and stagger tuned and stagger tuned amplifiers are
+    derived

@@ -1,0 +1,4 @@
+the shielding effect of the ionosphere analysis of the
+    effect of the ionosphere in screening the earth from external
+    em fields taking account of the conductivity of the
+    earth

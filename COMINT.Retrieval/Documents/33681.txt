@@ -1,0 +1,7 @@
+an oscillator with constant output voltage the theory and
+    design of an uput voltage stabilizer circuit are given by a
+    suitable choice of the values of two resistors and of the
+    constant reference voltage the oscillator output voltage is
+    made virtually independent of valve characteristics and circuit
+    impedance an application to the calibration of valve voltmeters
+    is described

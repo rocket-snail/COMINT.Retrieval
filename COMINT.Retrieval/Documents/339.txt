@@ -1,0 +1,5 @@
+single operated tone compensation a triode valve is used
+    as variable element of a circuit which boosts amplifier
+    response at both ends of the af range to compensate for the
+    reduced response of the ear the amount of boost thus varies
+    automatically with the input level

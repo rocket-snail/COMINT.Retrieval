@@ -1,0 +1,4 @@
+half cycle resonant delay circuit a new circuit
+    generating a rectangular pulse of duration equal to the natural
+    half cycle of an lc circuit the principles are applicable to
+    the generation of pulses

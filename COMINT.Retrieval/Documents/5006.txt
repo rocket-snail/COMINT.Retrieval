@@ -1,0 +1,5 @@
+a new type of waveguide rotary switch a high speed
+    waveguide switch is described which will connect two receivers
+    or transmitters alternately to one aerial and which is
+    particularly suitable for centimetre wavelengths the
+    performance of a model operating at mm was satisfactory

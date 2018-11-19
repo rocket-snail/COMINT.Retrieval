@@ -1,0 +1,6 @@
+the edge effect of a capacitor of finitely thick plates
+    with application to magnet design conformal mapping is used to
+    determine exactly the fringe capacitance and field strength
+    distribution of a thick plate capacitor general formulae and
+    curves are given the application to magnet systems intended for
+    high frequency devices is described

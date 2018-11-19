@@ -1,0 +1,11 @@
+nikkei on-line with viewdata in japanese. the newspaper
+    publishing interests of the nihon keizai shimbun company
+    (nikkei) are described and its establishment of a total
+    economic information system based on the nikkei data bank
+    called needs is described. international transmission of
+    financial information, an information exchange agreement with a
+    us data bank company, the quick on-line information network and
+    nikkei svp service are discussed. the needs-ir japanese
+    language information retrieval system with on-line access
+    through telephone lines using the one megabit chip and the
+    nikkei news recall service are also examined.

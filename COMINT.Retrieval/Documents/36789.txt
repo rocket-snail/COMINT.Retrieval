@@ -1,0 +1,3 @@
+average prices of british academic books. gives the 1981
+    figures for the average prices of british academic books and
+    shows price trends over the period 1974-81.

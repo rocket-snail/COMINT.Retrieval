@@ -1,0 +1,6 @@
+videa amplifiers using alloy junction transistors
+    grounded emitter video amplifier stages are analysed
+    theoretically using compensated and uncompensated circuits
+    abacs and charts are given to facilitate design procedure for
+    multistage amplifiers together with the practical design of an
+    amplifier with gain and bandwidth

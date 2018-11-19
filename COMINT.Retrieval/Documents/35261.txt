@@ -1,0 +1,8 @@
+some properties of radio waves reflected from the moon
+    and their relation to the lunar surface the properties of the
+    echoes are described in terms of the correlation of the complex
+    amplitudes of two sine waves at frequencies separated by
+    reflected from the surface the correlation technique can be
+    extended to two dimensional mapping of a rotating rough body a
+    statistical model of the lunar sunface roughness is derived in
+    which rms slopes of to are assumed

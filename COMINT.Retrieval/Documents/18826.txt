@@ -1,0 +1,6 @@
+a time delay device using transistors pulse shaping and
+    counting circuits are described in which junction transistors
+    are used for switching in conjunction with magnetic cores with
+    rectangular hysteresis loops the number of pulses required to
+    saturate the core is such that long time delays can be produced
+    published also in communication and electronics

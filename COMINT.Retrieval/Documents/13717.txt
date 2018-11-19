@@ -1,0 +1,7 @@
+an exact formulation of bradford's law. an exact,
+    discrete formulation of bradford's law describing the
+    distribution of articles in journals is derived by showing that
+    it is a special case of the zipf-mandelbrot 'rank frequency'
+    law. a relatively simple method is presented for fitting the
+    model to empirical data and estimating the number of journals
+    and articles in a subject collection.

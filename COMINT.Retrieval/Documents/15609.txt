@@ -1,0 +1,3 @@
+broadening of a beam of electrons by the space charge a
+    recurrence formula is developed for computing the broadening of
+    the beam

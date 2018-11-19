@@ -1,0 +1,11 @@
+guidelines for the development of computer-based
+    circulation control systems in university libraries in nigeria.
+    (phd thesis-university of pittsburgh). analyses the results of
+    a literature review, questionnaire surveys, and interviews and
+    concludes that nigerian university library computer-based
+    circulation control systems should be developed using an
+    integrated systems concept. university computer centre
+    facilities should be used rather than commercial bureaux. given
+    nigeria's infrastructure, a completely on-line real-time system
+    will not be feasible immediately and an intermediate
+    off-line/on-line hybrid is suggested.

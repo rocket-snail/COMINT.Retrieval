@@ -1,0 +1,5 @@
+digital computer adding and complementing circuits
+    various direct coupled transistor circuits are described
+    suitable for use with double gate shifting registers the
+    performance of these circuits operating with a digit spacing of
+    is illustrated with waveform photographs

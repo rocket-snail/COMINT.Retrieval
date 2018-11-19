@@ -1,0 +1,16 @@
+infological models and information user views. the design
+    of information systems requires information content to be
+    defined independently from the handling of information. the
+    infological perspective stresses this and is based on a
+    semantical model rather than a real-world model. some of the
+    basic infological concepts discussed are the informational
+    representation of data items, elementary messages and their
+    structure, and e-sentences. a large number of concepts and
+    terms is required with a qualitative and quantitative
+    information data dictionary consistent with the relevant user
+    view. the characteristics and formation of concept data objects
+    and property references are described, creating a hierarchic
+    concept structure. the hermeneutical circle (infological
+    meaning in hermeneutical texts) is demonstrated, and the
+    infological and datalogical user views are described and
+    compared.

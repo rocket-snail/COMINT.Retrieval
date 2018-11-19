@@ -1,0 +1,5 @@
+foster seeley discriminator a detailed analysis is given
+    of the circuit and the use of the design formulae is
+    illustrated with the circuit arrangement described a
+    sensitivity of af signal per can be obtained with less than
+    second harmonic distortion at modulation

@@ -1,0 +1,5 @@
+active high frequency spectrometers for ionospheric
+    sounding part determination of true height from the virtual
+    height of reflection a new method for determining true hi
+    height is described of august ad its application to daytime and
+    nighttime soundings discussed

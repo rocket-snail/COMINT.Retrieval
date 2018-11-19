@@ -1,0 +1,8 @@
+teleconferenced group decision making' designing for
+    improved performance. (2 parts). this project is concerned with
+    trying to get the best out of teleconferencing. it forms part
+    of a broader programme of research by darpa to build a personal
+    communication system to link members of the government
+    executive and the military command at times of national
+    emergency when it may be inopportune or inadvisable to have all
+    the contributors to decision making in 1 place.

@@ -1,0 +1,2 @@
+the detection of a sine wave in the presence of noise by
+    the use of a nonlinear filter

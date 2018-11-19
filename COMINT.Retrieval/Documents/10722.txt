@@ -1,0 +1,7 @@
+conductivity of plasmas to microwaves the complex
+    conductivity is calculated for a neutral plasma with electrons
+    having a distribution in space and velocity which does not
+    change over a time interval long compared with the period of
+    the microwave field the conductivity is derived for velocity
+    distributions given by the dirac function a step function and a
+    maxwellian distribution

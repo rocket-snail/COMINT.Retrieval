@@ -1,0 +1,3 @@
+diode phase sensitive detectors with load a theoretical
+    and experimental investigation of the nonlinearity introduced
+    by loading a simple diode pushpull phase detector

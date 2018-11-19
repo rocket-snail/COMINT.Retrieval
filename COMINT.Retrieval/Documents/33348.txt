@@ -1,0 +1,3 @@
+travelling wave maser with instantaneous bandwidths more
+    than twice the intrinsic line width of ruby were obtained by
+    stagger tuning the applied external magnetic field

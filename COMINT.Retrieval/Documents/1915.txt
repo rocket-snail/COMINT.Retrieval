@@ -1,0 +1,9 @@
+the measurement of ionospheric absorption using
+    observations of cosmic radio noise ionospheric absorption is
+    specified by the ratio expressed in decibels of p the received
+    cosmic noise power to p the power that would have been received
+    in the absence of absorption from about a years observations of
+    cosmic noise a standard curve of sidereal time can be drawn for
+    all aerial directions analysis of records made at hornsby nsw
+    from june to show that two main components due to absorption in
+    the f and d regions respectively can be distinguished

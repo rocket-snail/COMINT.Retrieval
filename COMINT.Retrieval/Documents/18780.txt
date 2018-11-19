@@ -1,0 +1,11 @@
+reference retrieval without user query formulation.
+    describes a computer program for the purpose of satisfying
+    incompletely defined user needs through a man-machine dialogue
+    which does not require a query formulation by the user. the
+    program attempts to satisfy the user's needs from a model which
+    it builds of his interests; a model which is a subset of its
+    own world model (the data base). explores the possibilities of
+    the program creating virtual world models to prevent the need
+    for unnecessarily accessing the whole data base and
+    incorporating a form of weighting based on association
+    strengths between items in the data base.

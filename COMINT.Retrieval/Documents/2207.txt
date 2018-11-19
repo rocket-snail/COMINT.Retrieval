@@ -1,0 +1,6 @@
+rectifier with smoothing capacitor and high vacuum valves
+    or selenium rectifiers exact equations are derived for a p
+    phase rectifier circuit with a capacitance connected across the
+    load for practical use approximate formulae are derived and
+    their application is illustrated by the design of a two phase
+    rectifier for an output of

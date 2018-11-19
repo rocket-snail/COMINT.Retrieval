@@ -1,0 +1,5 @@
+on the amplitude fluctuation of oscillations of a
+    selfexcited vale oscillator mathematical analysis of the
+    amplitude fluctuations of an oscillator due to thermal noise
+    and shot effect for the case of weak and strong modes of
+    excitation

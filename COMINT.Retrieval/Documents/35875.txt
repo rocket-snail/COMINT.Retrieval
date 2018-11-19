@@ -1,0 +1,11 @@
+investigations of current noise in resistors report of
+    noise voltage measurements over the frequency range kcs with
+    film resistors the mean square noise voltage usually varies
+    approximately inversely as frequency for resistors exhibiting
+    such a frequency variation the noise is proportional to the
+    direct voltage applied deviations from this frequency
+    dependence are accompanied by deviations from this voltage
+    dependence as reported by macfarlane of the behaviour of wire
+    resistors is similar the statistical distribution of amplitude
+    of the current noise agrees with the distribution function for
+    thermal noise indicating that its nature is gaussian

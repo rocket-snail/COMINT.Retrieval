@@ -1,0 +1,4 @@
+noise figure and gain of parametric converters a
+    correction is given for a term in a noise figure equation for a
+    parametric frequency converter given in an earlier
+    communication

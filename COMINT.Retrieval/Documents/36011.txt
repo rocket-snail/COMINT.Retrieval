@@ -1,0 +1,4 @@
+the calculus of deviations applied to transistor circuit
+    an network analysis network analysis is simplified by the
+    method described rules are given for solving various transistor
+    problems including the distributed parameter network

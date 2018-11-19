@@ -1,0 +1,5 @@
+transistor precision pulse shaper with short recovery
+    time the circuit is designed to minimize the effects of
+    temperature changes and individual variations in transistors
+    the pulse duration varied by for a temperature range of and by
+    in ten similar circuits

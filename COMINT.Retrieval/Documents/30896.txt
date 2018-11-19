@@ -1,0 +1,6 @@
+equipment for amplification of weak photoelectric
+    currents description with detailed circuit diagram of equipment
+    using a double electrometer valve mazda type the currents in
+    which are modulated by a square wave applied to the extraction
+    grids the photoelectric voltage being applied to the control
+    grids

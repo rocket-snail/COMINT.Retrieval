@@ -1,0 +1,4 @@
+a fast amplitude discriminator the circuit has a
+    discrimination range of with a threshold stability within the
+    output is a positive pulse in amplitude with rise time and
+    duration

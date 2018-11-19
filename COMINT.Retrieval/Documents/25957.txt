@@ -1,0 +1,9 @@
+the interface of word processing with typesetting. a
+    review is presented of devices currently available that match
+    word processing to typesetting. types of storage media and the
+    most commonly used printers are listed. the advantages of
+    bringing word processing together with typesetting are
+    discussed, with a description of media compatible interfaces
+    and those that require media conversion. finally, consideration
+    is given to the software logic needed to serialise and
+    deserialise the data in telecommunication.

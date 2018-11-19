@@ -1,0 +1,6 @@
+on deriving geomagnetic dipole field coordinates from
+    cosmic ray observations the coordinates of an equivalent dipole
+    representing the external geomagnetic field can be determined
+    from measurements of the nucleonic component longitude and
+    latitude effects in the region of the geomagnetic equator the
+    measurement method and the relevant theory are outlined

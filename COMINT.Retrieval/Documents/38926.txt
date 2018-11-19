@@ -1,0 +1,5 @@
+current derived resistance capacitance oscillators using
+    junction transistors two circuits using phase shift networks
+    suitable for use at very low frequencies and one with a phase
+    shift network giving a maximum frequency of are
+    described

@@ -1,0 +1,6 @@
+on explanations of electric and magnetic constants and
+    units using dimensional methods the relation of freespace
+    dielectric constant and magnetic permeability constant to four
+    fun amental quantities is considered other constants are also
+    analysed to obtain methods of understanding the submicroscopic
+    nature of electric and magnetic phenomena

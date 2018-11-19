@@ -1,0 +1,6 @@
+observations of the van allen radiation regions during
+    august and september part the inner belt ionization chamber and
+    gm counter data from explorer are used to obtain the two
+    constants in an assumed energy spectrum for inner belt protons
+    of the form electron fluxes of low energy are estimated from
+    scintillation counts

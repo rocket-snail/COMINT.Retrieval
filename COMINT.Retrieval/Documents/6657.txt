@@ -1,0 +1,9 @@
+comparison of system-2000 and scientific information
+    retrieval (sir) in a specific scientific application. compares
+    specific procedures of 2 data base management systems available
+    at brookhaven national laboratory, system-2000 (s2k) and
+    scientific information retrieval (sir). all jobs were run in
+    batch mode to get accurate statistics on computer time and
+    resources. discusses the results of certain specific procedures
+    in terms of computer resources and the ease of implementing
+    these procedures from the user's standpoint.

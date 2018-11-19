@@ -1,0 +1,8 @@
+variational formulation of two dimensional diffraction
+    problems with application to diffraction by a slit diffraction
+    particularly of waves is discussed analysis shows that for
+    incident plane wave the complex amplitude of the far zone
+    diffracted field can be expressed in a stationary form of the
+    type indicated by levine schwinger the case of a diffracting
+    slit of infinite length and finite width treated in detail for
+    normal incidence the results agree with those

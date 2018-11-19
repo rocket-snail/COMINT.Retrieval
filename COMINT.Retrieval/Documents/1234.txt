@@ -1,0 +1,4 @@
+binary decimal counter operates at mcs a design of
+    counter which produces one output pulse for every ten input
+    pulses is described it uses logical and gates in a feedback
+    loop

@@ -1,0 +1,5 @@
+invariance and mutual relations of electrical network
+    determinants work by earlier authors is generalized the basic
+    values of the impedance and admittance determinants are
+    connected by a simple relation involving the determinant of the
+    branch parameter matrix

@@ -1,0 +1,6 @@
+the field along the axes of symmetry of equal semi
+    infinite rectangular magnetic pole pieces the method of
+    conformal representation is used the field along the axes of
+    symmetry is calculated for a number of values of the ratio of
+    the width of the pole pieces to the distance separating them
+    expressions for the potential function are also given

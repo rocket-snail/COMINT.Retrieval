@@ -1,0 +1,13 @@
+experimental investigations on electron interaction
+    certain observations in low pressure gas discharges and in
+    magnetrons suggest an electron interaction effect several
+    orders of magnitude in excess of the theoretical values based
+    on binary encounters only the validity of the theory was tested
+    by experiments in which a carefully colimated electron beam was
+    shot through a charge cloud the scattering of the beam being
+    directly observed both plasmas in thermal equilibrium and pure
+    electronic space charges were investigated in both cases the
+    degree of scattering observed is less than five times the value
+    predicted by theories neglecting simultaneous multiple
+    collisions hence the latter cannot account for the observed
+    anomalies

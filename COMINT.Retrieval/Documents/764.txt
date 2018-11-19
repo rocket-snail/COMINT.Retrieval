@@ -1,0 +1,7 @@
+mechanism of discharge between plane plates the problem
+    is considered using the diffusion theory of the positive column
+    with a term added to take account of the character of the
+    discharge measurements show that the electron temperature is
+    higher than in a discharge under similar conditions a theory is
+    proposed which explains the dependence of the running potential
+    on frequency

@@ -1,0 +1,4 @@
+simple logarithmic dc amplifier a simple double triode
+    amplifier is described it has an accuracy within for input
+    voltages from to and is easily adjusted for differing valve
+    characteristics

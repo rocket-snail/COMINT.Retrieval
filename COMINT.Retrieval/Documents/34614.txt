@@ -1,0 +1,4 @@
+worlds largest radio telescope an illustrated description
+    of the design and construction of the fully steerable
+    paraboloid of the jodrell bank instrument with details of the
+    driving system and drive control equipment

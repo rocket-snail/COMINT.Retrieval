@@ -1,0 +1,10 @@
+thickness vibrations of piezoelectric crystal plates
+    continuation of investigation noted in of the retroaction
+    occurring in piezoelectric processes modifies not only the
+    modulus of elasticity but also the direction of motion the
+    influence of this secondary effect is studied and a complete
+    theory of the mechanical electrical oscillating system is
+    developed for plates of infinite area for plates of finite area
+    the amplitude distribution becomes nonuniform the effect of
+    this modification is studied in relation to the equivalent
+    circuit

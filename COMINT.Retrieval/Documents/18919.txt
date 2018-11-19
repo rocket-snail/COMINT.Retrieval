@@ -1,0 +1,2 @@
+curves obtained by van der pols method for an oscillator
+    with cubic nonlinearity

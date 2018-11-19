@@ -1,0 +1,11 @@
+space charge field emission and the ionic condenser high
+    es fields measured at the electrodes during gas discharge
+    experiments in h indicate that the mechanism initiating a flash
+    of intermittent glow is field emission from the cathode or from
+    the negative space charge the hypothesis is applied to the
+    experimental results of other workers and is confirmed it is
+    shown to provide simple explanations for many gas discharge
+    phenomena it is suggested that the measured high fields are due
+    to concentrated space charges forming ionic condensers with the
+    electrodes or within the gas itself in the form of stationary
+    striations

@@ -1,0 +1,5 @@
+loop controls scatter power to offset fading a closed
+    loop servo system is described where by the transmitted power
+    of an uhf tropospheric scatter link is reduced under conditions
+    of good reception and increased under fading conditions a
+    statistical analysis of the system is given

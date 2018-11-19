@@ -1,0 +1,4 @@
+design of aperiodic oscillator circuit with inductive
+    quartz crystal the discussion is illustrated by a numerical
+    example of an oscillator using a valve and suitable in the or
+    band

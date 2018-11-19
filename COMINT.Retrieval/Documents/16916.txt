@@ -1,0 +1,5 @@
+transistors theory and applications part physical
+    properties of electrons in solids presents a concept of the
+    electron that fits with generally accepted explanations of
+    phenomena in semi conductor materials that are responsible for
+    transistor action

@@ -1,0 +1,2 @@
+exponentiation of series (algorithm 158) september, 1963
+    lawrence, j. d. ca630921 jb march 13, 1978 7:19 pm

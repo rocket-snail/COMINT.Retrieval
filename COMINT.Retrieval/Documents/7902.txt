@@ -1,0 +1,6 @@
+a new type of ferroelectric shift register ferroresonant
+    circuits for digital computers an analysis of bistability in
+    ferroresonant circuits and the practical application to high
+    frequency operation present limit circuits are shown for a
+    shift register stage binary counter and input logical
+    adder

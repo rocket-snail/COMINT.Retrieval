@@ -1,0 +1,4 @@
+a differential analyzer study of certain nonlinearly
+    damped servomechanisms advantages of the system described by
+    lewis of over corresponding linear systems are illustrated and
+    modifications to improve its operation are suggested

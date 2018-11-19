@@ -1,0 +1,5 @@
+alteration of dynamic response of magnetic amplifiers
+    analysis is presented indicating how a magnetic amplifier of
+    full wave self saturating type can be made to exhibit phase
+    lead or lag by adjusting the parameters of the feedback
+    networks

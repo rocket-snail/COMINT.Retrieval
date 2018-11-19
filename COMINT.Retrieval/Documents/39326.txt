@@ -1,0 +1,2 @@
+a new high slope multigrid valve and its application in
+    pulse and switching circuits

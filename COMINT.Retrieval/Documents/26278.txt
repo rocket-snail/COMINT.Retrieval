@@ -1,0 +1,5 @@
+an analysis of the distribution of alternating current in
+    a solid cylindrical conductor the equivalent circuit method of
+    approach selected is designed t keep the physical basis of th
+    problem in view at every stage of the work the expressions
+    derived apply to a conductor of any material

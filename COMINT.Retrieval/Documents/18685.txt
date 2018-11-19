@@ -1,0 +1,7 @@
+an energy principle for hydromagnetic stability problems
+    the problem of the stability of static highly conducting fully
+    ionized plasmas is investigated by means of an energy principle
+    developed from one introduced by lundquist of the method is
+    applied to the general axisymmetric system and to plasmas which
+    are completely separated from the magnetic field by an
+    interface

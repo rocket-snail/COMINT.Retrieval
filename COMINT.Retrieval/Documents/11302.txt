@@ -1,0 +1,4 @@
+oscillations of coupled windings digest of paper using
+    the mutual inductances functions the integral equation method
+    of determining the natural frequencies is extended to take
+    account of the effect of a transformer secondary winding

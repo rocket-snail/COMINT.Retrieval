@@ -1,0 +1,3 @@
+interpretation of the transmission line parameters with a
+    negative conductance load and application to negative
+    conductance amplifiers

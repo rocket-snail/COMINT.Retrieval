@@ -1,0 +1,4 @@
+sustained localized pulsed micro wave discharge in air
+    details are given of a small localized discharge obtained in
+    low pressure air using a pulsed x band radar transmitter as the
+    microwave source

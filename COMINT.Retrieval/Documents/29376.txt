@@ -1,0 +1,8 @@
+theory of ionized media with distant boundaries
+    continuation of work noted in of the theory is developed for a
+    configuration in which the electrodes are relatively close
+    while the boundaries are relatively distant experimental
+    results confirm the theory the solution of the differential
+    equations involved and summarized theory of the potential
+    distribution in the mercury vapour rectifier arc are given in
+    appendices

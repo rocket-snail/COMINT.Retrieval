@@ -1,0 +1,4 @@
+rotary and slider potentiometers with variable
+    characteristic any resistance slider position characteristic
+    can be approximated by connecting suitable resistors in
+    parallel with short sections of the potentiometer

@@ -1,0 +1,6 @@
+high frequency diffraction by a wedge with a linearly
+    varying surface impedance an asymptotic representation valid
+    both in the illuminated and shadow regions is derived for the
+    scattered field due to an incident plane wave and its
+    properties are analysed as a function of the rate of variation
+    of surface impedance

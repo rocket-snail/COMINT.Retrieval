@@ -1,0 +1,5 @@
+dielectric constant of plasma the definition of
+    dielectric constant used by gallop et al is criticized on
+    theoretical grounds in reply the authors point out that the
+    definition is justified on experimental evidence relating to
+    the particular conditions under discussion

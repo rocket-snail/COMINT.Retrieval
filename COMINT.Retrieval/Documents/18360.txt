@@ -1,0 +1,2 @@
+dynamic accuracy as a design criterion of linear
+    electronic analogue differential analyzers

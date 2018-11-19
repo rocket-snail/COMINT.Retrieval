@@ -1,0 +1,8 @@
+security in the art library. notes that the nature of
+    much material in the art library poses security problems.
+    considers some solutions-closed access, electronic security
+    devices, owner identification, and provision of good
+    photocopying facilities. points out that efficient library
+    administration (including regular stock checking and enforcing
+    of sanctions) is essential and considers library planning from
+    the security viewpoint.

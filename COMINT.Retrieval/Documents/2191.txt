@@ -1,0 +1,4 @@
+the development of the flexible disk magnetic recorder
+    the optimum operating conditions for supporting a rotating
+    flexible mylar disk with magnetic coating above a rigid back
+    plate using a gas film are discussed

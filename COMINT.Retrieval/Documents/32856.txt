@@ -1,0 +1,7 @@
+wide band transformer characteristics a parameter is
+    defined for wide band transformers which represents the series
+    resonance of the leakage inductance and the primary and
+    secondary stray capacitances it is shown that this parameter
+    may be determined from the low frequency requirements on the
+    transformer and then used as a guide to the attainable high
+    frequency response

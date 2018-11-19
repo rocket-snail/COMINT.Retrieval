@@ -1,0 +1,4 @@
+some circuit applications of avalanche devices
+    applications of pnpn avalanche diodes in analogue computers
+    process con rol oscillography and telemetry are
+    discussed

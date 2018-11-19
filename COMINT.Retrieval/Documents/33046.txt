@@ -1,0 +1,9 @@
+deciding the future of the catalog in small libraries. in
+    jan 81, the library of congress closed its card catalogue and
+    adopted aacr 2 (the anglo-american cataloguing rules, 2nd
+    edition). now, every us library must decide upon the future of
+    its catalogue in the face of these decisions. each must decide
+    whether or not to use aacr 2, and if so, when to implement it.
+    presents a checklist which will aid the library in its
+    planning, with a brief bibliography of items relating to the
+    future of the catalogue vis-a-vis the new code.

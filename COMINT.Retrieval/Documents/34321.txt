@@ -1,0 +1,10 @@
+the electromagnetic properties of a plane grating a plane
+    grating is considered which consists of a number of parallel
+    conducting planes between which electron streams pass and its
+    waveguide properties are discussed taking into account the
+    velocity scatter of the electrons a general solution of the
+    problem is given for an arbitrary type o of scatter function
+    the velocity scatter narrows the range of average velocities of
+    the streams for which amplification is possible and displaces
+    it towards the higher velocity values the maximum amplification
+    is also reduced

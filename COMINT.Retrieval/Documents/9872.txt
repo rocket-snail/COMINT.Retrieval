@@ -1,0 +1,22 @@
+information processing in industrial concerns. discusses
+    a thesis by j. luef' storage and retrieval of information in
+    industrial concerns, presented to the danish technical
+    university. the problem of how knowledge which is important for
+    selection of material for constructions, for example, can best
+    be described in data form is now internationally recognised
+    with the creation of the international council of scientific
+    unions' committee for scientific and technical data. luef
+    distinguishes between retrieval of references and of data; very
+    detailed specifications are needed to describe physical objects
+    so that they can be referred to in a system. he studies the
+    area of anticipative intelligence, i.e. the possibility of
+    creating new solutions to a problem and thereby increase
+    innovation within the firm. the theoretical discussions are
+    soundly based on practical experience and he regards the
+    process of retrieval as a tool to be used by the
+    decision-maker. the thesis has sections on software and
+    hardware, including discussion of the role of man in the search
+    process. the 2nd part concerns practical system design in 4
+    concerns and description of a demonstration system dart (data
+    analysis, retrieval and taxonomy), with cost-benefit
+    analysis.

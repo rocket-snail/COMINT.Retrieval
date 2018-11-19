@@ -1,0 +1,8 @@
+managing the bell laboratories technical report service.
+    the technical report service (trs) of bell laboratories (usa)
+    uses a computer-driven, microfiche-based system to manage its
+    technical report collection and services. presents an overview
+    of trs systems and services, including its methods of
+    acquiring, announcing and distributing technical reports, and
+    providing specialised reference and retrieval services to a
+    large, sophisticated user community.

@@ -1,0 +1,7 @@
+on the theory of the diffraction of a plane wave by a
+    large perfectly conducting circular cylinder the boundary value
+    problem is treated for the case of an incident harmonic plane
+    em wave on a cylinder of radius much greater than the
+    wavelength the method used is a straight forward application of
+    a fourier integral transform analysis to a boundary value
+    problem

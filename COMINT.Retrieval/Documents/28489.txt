@@ -1,0 +1,9 @@
+mirror and azimuthal drift frequencies for
+    geomagnetically trapped particles the charged particles trapped
+    in the geomagnetic field the frequencies of the mirror
+    oscillations and the azimuthal drift are defined as appropriate
+    averages over the helical motion around the field lines and the
+    mirror motion between reflection points in the two magnetic
+    hemispheres these integrals for and are evaluated numerically
+    results are tabulated illustrated and represented by
+    approximate analytical expressions

@@ -1,0 +1,6 @@
+the magnetic field of a model radiation belt numerically
+    computed the magnetic field of a model ring current belt is
+    calculated numerically over the earths surface the field of the
+    ring current is nearly uniform although the diamagnetism of the
+    belt produces an insignificant irregularity in the disturbance
+    field in auroral latitudes

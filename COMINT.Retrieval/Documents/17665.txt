@@ -1,0 +1,5 @@
+the performance of filter networks consisting of equal
+    half sections formulae are given for the open circuit impedance
+    of an n section network from which the transmission
+    characteristics can be derived calculations for various simple
+    filters are included

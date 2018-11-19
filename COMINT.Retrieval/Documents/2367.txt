@@ -1,0 +1,8 @@
+the sirio programme and developments in satellite
+    communications. sirio is an italian geostationary satellite
+    developed for advanced space technology experiments and for
+    propagation and communication experiments in the 12 and 18 ghz
+    frequency bands. describes the italian national research
+    council's sirio programme, the aims and organisation of the
+    propagation and communication experiments, and the satellite
+    itself.

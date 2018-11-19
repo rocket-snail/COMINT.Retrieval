@@ -1,0 +1,6 @@
+limited gain operational amplifiers the effect of finite
+    gain can be allowed for by assuming infinite amplifier gain and
+    then adding fictitious elements to the feedback network to
+    reduce the gain to its actual value this leads to a more
+    convenient equivalent network of which simple examples are
+    given

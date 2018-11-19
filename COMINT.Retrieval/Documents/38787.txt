@@ -1,0 +1,7 @@
+amplitude modulation of centimetre waves by means of
+    ferroxcube losses in a ferroxcube rod caused by a modulating
+    magnetic field vary the amplitude of a centimetre wave
+    reflected from it the nature of the losses and the maximum
+    frequency at which they occur are examined theoretically an
+    experimental circuit has been constructed operating at with a
+    modulation frequency of wide bandwidths are not possible

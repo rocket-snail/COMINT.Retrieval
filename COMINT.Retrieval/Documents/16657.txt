@@ -1,0 +1,11 @@
+computer perception of topological symmetry via canonical
+    numbering of atoms. an algorithm for perception of topological
+    symmetry has been programmed for computer use. the algorithm is
+    based on the concept of the smallest binary code for a graph
+    and requires generation of all numberings for a structure which
+    will produce the canonical form for the adjacency matrix. the
+    unique adjacency matrix corresponds to the smallest possible
+    (binary) number representing the structure when its rows are
+    read from top to bottom and from left to right. operation of
+    the program is illustrated with a selection of polycyclic
+    structures.

@@ -1,0 +1,3 @@
+artificial electron clouds values have been derived for
+    diffusion coefficients chemical yield thermal ionization
+    efficiency and wind velocity and shear

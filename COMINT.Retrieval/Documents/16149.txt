@@ -1,0 +1,9 @@
+the use of automatic indexing for authority control.
+    thesaurus-based automatic indexing and automatic authority
+    control share common ground as word-matching processes. to
+    demonstrate the resemblance, an experimental system utilising
+    automatic indexing as its core process was implemented to
+    perform authority control on a collection of bibliographic
+    records. details of the system are given and results discussed.
+    the benefits of exploiting the resemblance between the 2
+    systems are examined.

@@ -1,0 +1,5 @@
+a simple method of calculating electrostatic capacity
+    attention is drawn to a simple theorem for evaluating the
+    capacitance of certain conductors in free space such as a
+    system of two spheres in contact with each other or a ring
+    without hole

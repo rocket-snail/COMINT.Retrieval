@@ -1,0 +1,5 @@
+low voltage stabilization a form of secondary cell is
+    described having applications to the cathode biasing of valves
+    it provides a stable voltage of about which is practically
+    independent of the current passed the impedance is and is
+    independent of frequency

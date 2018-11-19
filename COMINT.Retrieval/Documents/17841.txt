@@ -1,0 +1,13 @@
+statistical description of assemblies with collective
+    interaction parts a critical review of literature on the
+    subject is presented two types of assemblies of electrons and
+    ions are distinguished those with a finite number of discrete
+    beams with definite velocity and those with thermally
+    disordered motion with or without superimposed beams
+    investigations of the first type of assembly lead to
+    satisfactory results the difficulties encountered in dealing
+    with assemblies of the second type are due to neglecting the
+    limitations of the models used the model of the dispersed
+    charge carrier assembly presented by twiss of is then
+    considered and the concepts of collision and the collision zone
+    are discussed

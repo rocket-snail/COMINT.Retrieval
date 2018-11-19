@@ -1,0 +1,5 @@
+multistage amplifier stability design criteria the
+    stability of a cascade amplifier is considered for the two
+    cases where the stability factors of all the stages are equal a
+    before cascading and b after cascading a short discussion of
+    the results is given

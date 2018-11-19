@@ -1,0 +1,7 @@
+broad band parametric amplifiers by simple experimental
+    techniques maximum use is made of the parasitic elements of the
+    varactor diode and simple measurements enable the diode unit
+    with the best characteristics to be chosen the pass band
+    characteristics of diode mount combinations are also measured
+    single channel gain band width products approaching have been
+    achieved

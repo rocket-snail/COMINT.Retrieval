@@ -1,0 +1,5 @@
+electrodynamics without potentials by means of a more
+    general approach based on the em field and not potential field
+    equations of a general type are derived these contain the
+    equations of diracs new theory of electrodynamics of as an
+    important special case

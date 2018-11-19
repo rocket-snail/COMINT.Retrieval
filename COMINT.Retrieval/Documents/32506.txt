@@ -1,0 +1,7 @@
+intelligent automatic information retrieval. considers
+    the present state and possible development of document
+    retrieval systems as intelligent automatic information
+    retrieval systems. it relates document retrieval to data
+    retrieval on the one hand and fact retrieval on the other, and
+    argues that document retrieval should be less narrow in its
+    preconceptions.

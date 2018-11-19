@@ -1,0 +1,4 @@
+the representation in pulse form of the noise of
+    amplifiers the noise characteristics of pulse amplifiers are
+    derived without reference to the reference spectrum as a
+    function of the pulse response of the amplifier

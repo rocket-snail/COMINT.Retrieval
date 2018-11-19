@@ -1,0 +1,6 @@
+a note on uniqueness proofs for boundary value problems
+    in potential theory and steady heat conduction by allowing the
+    boundary to tend to infinity in two directions and considering
+    the problem in a semi infinite region it is possible to prove
+    uniqueness by classical methods for a very large class of
+    boundary conditions

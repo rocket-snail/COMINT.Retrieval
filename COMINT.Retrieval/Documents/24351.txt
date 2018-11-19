@@ -1,0 +1,8 @@
+voltage regulators using nonlinear elements a simple
+    method of determining the parameters of circuits providing
+    reference voltages working o into a constant load is described
+    and is illustrated by calculations for arrangements using
+    either a single element or a pair of the nonlinear resistors
+    manufactured by the compagnie generale de tsf of power
+    limitations restrict the field of application of this type of
+    voltage regulator

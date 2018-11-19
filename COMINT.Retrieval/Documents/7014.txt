@@ -1,0 +1,3 @@
+transistor wide band amplifiers the design of rc coupled
+    multistage amplifiers is considered only the earthed emitter
+    configuration is suitable for this application

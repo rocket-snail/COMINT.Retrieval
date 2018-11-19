@@ -1,0 +1,6 @@
+correlation energy of a high density gas plasma
+    coordinates the model hamiltonian of sawada which describes
+    electron correlation at high density is examined it is shown
+    that the set of scattering modes for momentum transfers below a
+    certain is not complete it is completed by the plasma mode is
+    the natural debye length of the theory

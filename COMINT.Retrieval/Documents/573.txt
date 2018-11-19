@@ -1,0 +1,9 @@
+data/direct information-data documentation. data is also
+    described as non-bibliographic information; quantitative data
+    or textual data. handling, types and sources of such data are
+    discussed, with particular reference to scientific and
+    technical information. data indexing in documentation is
+    possible by indicative (flag) and more detailed (tag)
+    indicators. examples justify the necessity of strengthening the
+    link between bibliographic and data information
+    activities.

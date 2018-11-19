@@ -1,0 +1,5 @@
+cosmic ray measurements in the uk scout satellite the
+    main purpose is to measure accurately the primary cosmic ray
+    energy spectrum and the changes in it due to modulation by the
+    interplanetary magnetic field gm counters and a cherenkov
+    counter will be used

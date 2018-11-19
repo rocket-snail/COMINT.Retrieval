@@ -1,0 +1,7 @@
+photoionization heating in the f region of the atmosphere
+    an estimate of the total f region heating due to
+    photoionization is made based on a comparison of theoretical
+    and observed models of several atmospheric parameters the heat
+    flux due to photoionization is estimated to be approximately
+    erg cm sec which would be a major if not predominant source of
+    heat in this region

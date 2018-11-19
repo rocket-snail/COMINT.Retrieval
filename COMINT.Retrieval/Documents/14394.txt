@@ -1,0 +1,5 @@
+normalized representation of transients in filter
+    amplifiers with double elements the response of amplifiers with
+    frequency dependent negative feedback is analysed for various
+    pulse and step waveforms the frequency spectrum corresponding
+    to a train of square pulses is determined

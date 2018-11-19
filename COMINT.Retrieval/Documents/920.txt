@@ -1,0 +1,3 @@
+quadripole networks for phase correction in low pass and
+    band pass amplifiers the design of delay equalizers for
+    television transmission systems is described

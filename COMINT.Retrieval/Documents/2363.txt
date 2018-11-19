@@ -1,0 +1,10 @@
+zero-base budgeting for libraries' a second look.
+    zero-base budgeting (zbb) was given considerable attention in
+    the management literature during the latter 1970s. zbb offers
+    many concepts and budgeting techniques that may prove
+    especially useful to library administrators in the budget-tight
+    1980s. includes a brief review of the key features of zbb as a
+    budgeting/planning system, a discussion of the applications of
+    zbb reported in the literature, and a summary of the special
+    benefits and problems for libraries that use of concepts
+    derived from zbb, if not zbb itself, might provide.

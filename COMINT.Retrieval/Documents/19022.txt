@@ -1,0 +1,3 @@
+a fatigue free silicon device structure by using hard
+    solder instead of soft solder to make joints in the device
+    raptures are no longer produced by cyclic thermal stress

@@ -1,0 +1,3 @@
+the pulse response of a delay line an expression is
+    developed for each element of the network and a solution is
+    obtained in the form of a convergent neumann series

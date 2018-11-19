@@ -1,0 +1,9 @@
+geomagnetic distortion of the f region on the magnetic
+    equator calculations based on an atmospheric model inferred
+    from rocket observations and using the dynamo theory of the
+    earths magnetic field show that the diurnal variation of the
+    vertical electron drift due to the es field is sufficient to
+    account for the observed distortion of the f region over the
+    magnetic equator the presence of the f layer is also accounted
+    for changes following the sunspot cycle may be caused by a
+    slight shift of the phase of the drift

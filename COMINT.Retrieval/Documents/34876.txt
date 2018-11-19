@@ -1,0 +1,8 @@
+pesticide label file update. the federal insecticide,
+    fungicide, and rodenticide act requires that the labels of all
+    registered pesticides contain certain specific types of
+    information. included in the information of the labels are
+    active ingredients and percentages of same; common name, if
+    any, of active chemical; sites and pests for usage, as well as
+    dosage; safety information, and the product name and
+    manufacturer for that specific product.

@@ -1,0 +1,12 @@
+wide band if amplifiers bandwidths such as are required
+    for dealing satisfactorily with very short pulses are achieved
+    without necessitating alignment of the amplifier with a
+    particular set of valves by using a negative feedback design
+    technique the amplifier is treated as a series of pairs of
+    valves the first of each pair operating without and the second
+    with feedback a table gives component values in a form
+    requiring a minimum of computation a particular stage amplifier
+    designed by this method for a centre frequency of had a
+    bandwidth of to the points and an overall gain of about the
+    response varied only very slightly when all the valves were
+    changed

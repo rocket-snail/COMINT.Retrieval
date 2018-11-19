@@ -1,0 +1,3 @@
+electromagnetic energy density in dispersive media
+    general expressions for energy densities and losses are
+    derived

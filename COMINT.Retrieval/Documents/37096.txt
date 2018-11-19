@@ -1,0 +1,7 @@
+a servo system for digital data transmission the
+    stability of the servo system is affected by the quantized
+    nature of the digital data and by time delays inherent in the
+    transmission and digital systems a method of synthesis is
+    discussed enabling a degree of prediction to be incorporated
+    which ensures that the regenerated data do not lag on the
+    original data under steady state conditions

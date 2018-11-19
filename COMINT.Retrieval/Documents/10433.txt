@@ -1,0 +1,4 @@
+oscillations of electron cloud in external fields the
+    density fluctuations are analysed in a pure electron gas not
+    neutralized by positive ions and under the influence of an
+    external magnetic field

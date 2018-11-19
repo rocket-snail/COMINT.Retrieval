@@ -1,0 +1,3 @@
+a kilowatt microsecond vacuum tube pulser a full
+    description is given of a circuit designed for operation of gas
+    discharge tubes in plasma research

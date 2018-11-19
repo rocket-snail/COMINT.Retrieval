@@ -1,0 +1,9 @@
+a mathematical technique for the analysis of linear
+    systems the technique of the transformation developed for
+    investigating sampled data systems is applied to the numerical
+    solution of continuous linear systems a model of the linear
+    system is devised in which sampling is introduced at some
+    convenient point a polygonal approximation to the sampled
+    function is reconstructed by means of a holding operator and
+    the output of the system is computed as a train of
+    pulses

@@ -1,0 +1,8 @@
+characteristics of magnetic amplifiers for industrial use
+    a specification for standard units for regulator applications
+    is drawn up the relative importance of the advantages and
+    disadvantages of magnetic amplifiers is considered in detail
+    for pre amplifiers limited range regulators motor field current
+    regulators ward leonard drives amplifiers have a faster
+    response than other types but at extra expense and with added
+    complication

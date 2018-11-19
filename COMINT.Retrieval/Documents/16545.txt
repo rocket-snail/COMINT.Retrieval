@@ -1,0 +1,9 @@
+notes on correlation methods for evaluating ionospheric
+    winds from radio fading records a method requiring only six
+    values of the correlation coefficient obtained from fading
+    records at three receiver stations is developed the theory is
+    extended to include elliptical constant correlation contours in
+    the horizontal plane data obtained during february indicate
+    that the correlation ellipse shows a preferred orientation and
+    that fading associated with random changes in the ionosphere is
+    as important as that associated with drift

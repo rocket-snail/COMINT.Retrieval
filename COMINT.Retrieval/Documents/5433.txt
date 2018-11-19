@@ -1,0 +1,7 @@
+analysis of probe characteristics in drifting plasma for
+    a spherical langmuir probe moving relatively to a plasma the
+    ion sheath is deformed positive ion densities determined from
+    rocket measurements in the ionosphere for certain sheath
+    configurations have been compared with simultaneous
+    observations of density deduced from curves agreement is
+    good

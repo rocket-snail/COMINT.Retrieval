@@ -1,0 +1,5 @@
+ionosphere electron densities and differential absorption
+    a review of daytime ionosphere measurements made over new
+    mexico using a rocket to ground cw radio propagation method and
+    a preliminary report of similar measurements made in the arctic
+    ionosphere during polar blackouts

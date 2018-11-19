@@ -1,0 +1,7 @@
+network file storage system. the common file system (cfs)
+    is a large on-line centralised storage system for the los
+    alamos national laboratory's computer network. the cfs provides
+    los alamos computer users a relatively simple set of primitives
+    with which they can store and retrieve files. a tree-structured
+    directory allows the users to organise their data in a logical
+    and reasonable manner.

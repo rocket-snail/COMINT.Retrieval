@@ -1,0 +1,7 @@
+daytime and night time atmospheric properties derived
+    from rocket and satellite observations a summary of the values
+    of atmospheric density obtained during the interval from
+    rockets and satellites is presented and is fitted into a model
+    atmosphere obtained by integrating the hydrostatic equation a
+    general decrease since in atmospheric density at all z
+    altitudes is confirmed

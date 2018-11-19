@@ -1,0 +1,5 @@
+valve amplifiers for very low frequencies amplifier
+    circuits are briefly reviewed an descriptions are given of a
+    high gain voltage amplifier using two triodes and a low output
+    impedance current amplifier using four triodes in a push pull
+    arrangement

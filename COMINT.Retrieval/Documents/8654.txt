@@ -1,0 +1,8 @@
+sharpening of observational data in two dimensions the
+    problem considered is that of recovering true distributions
+    from smoothed observed distributions this involves the solution
+    of a linear integral equation several methods of solving the
+    equation are examined and a technique for the application of
+    polynomial solutions is presented the effect of random errors
+    in the observational data is taken into account wherever
+    possible

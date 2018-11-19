@@ -1,0 +1,4 @@
+the equivalent network of a piezoelectric crystal with
+    divided electrodes a general equivalent circuit is worked out
+    for the crystal treated as a quadripole for frequencies close
+    to that of mechanical resonance

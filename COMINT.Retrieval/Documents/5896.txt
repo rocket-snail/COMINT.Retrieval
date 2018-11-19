@@ -1,0 +1,4 @@
+low pass and high pass ladder filters using piezoelectric
+    crystals and designed by the image impedance method for single
+    cut off frequency filter structures several design methods are
+    suggested see also of

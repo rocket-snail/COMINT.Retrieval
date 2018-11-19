@@ -1,0 +1,4 @@
+transistor q multiplier for audio frequencies the use of
+    positive feedback to increase the selectivity of a tuned
+    circuit is discussed the performance of a practical circuit
+    giving for example a q of at is described

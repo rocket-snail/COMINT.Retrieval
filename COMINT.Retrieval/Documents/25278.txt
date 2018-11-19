@@ -1,0 +1,6 @@
+self-evaluation guidelines for special libraries' a
+    review of possibilities. project financed by the british
+    library research and development department. the collection and
+    collation of views on requirements for a self-evaluation
+    methods package for special libraries was followed by the
+    designing, testing and evaluation of possible tools.

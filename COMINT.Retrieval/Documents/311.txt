@@ -1,0 +1,5 @@
+diffraction of electromagnetic waves by ribbon and slit
+    rigorous solutions are presented for a wave incident on a plane
+    normal to the edge of the ribbon or slit but with arbitrary
+    angles of incidence and polarization for diffraction by
+    circular plate and hole see of

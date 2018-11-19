@@ -1,0 +1,15 @@
+conceptual information retrieval. outlines recent
+    research in natural-language processing carried out as part of
+    the yale artificial intelligence project; discusses the 4 key
+    issues to be addressed in designing a system able to organise
+    and retrieve facts in relatively unconstrained domains
+    (organising memory, analysing input text, automatically
+    updating memory, and answering questions); and describes the
+    project's computer system, cyfr. cyfr comprises 2 systems.
+    frump (fast reading understanding and memory program) reads
+    stories from the united press international news wire and
+    outputs a conceptual representation of the important events of
+    each story it understands. conceptual summaries concerning the
+    us secretary of state are sent to cyrus, which fills in
+    contextual details, adds new information to its data base, and
+    can then be interrogated about the new information.

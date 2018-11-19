@@ -1,0 +1,6 @@
+delay line equalizer experimental equipment designed for
+    low definition television can be used either in conjunction
+    with test signals or on lines in service manual adjustments are
+    made according to the position of the pulse on the oscillograph
+    screen a total delay of is provided in steps of and the cut off
+    frequency

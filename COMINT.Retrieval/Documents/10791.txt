@@ -1,0 +1,3 @@
+a cascode trigger circuit using a pnp and npn transistor
+    a monostable circuit preceded by a diode pump integrator acts
+    as a frequency dividing stage

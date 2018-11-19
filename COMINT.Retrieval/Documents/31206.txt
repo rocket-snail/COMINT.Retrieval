@@ -1,0 +1,7 @@
+high speed electronic analogue computing techniques an
+    investigation has been made of the upper limits of speed
+    conveniently attainable in various basic operations performed
+    with a particular differential analyser with multidimensional
+    displays and electronic programming a very large increase in
+    information capacity is attainable in problems requiring
+    systematic search processes for their solution

@@ -1,0 +1,5 @@
+a modern broadcasting pre amplifier description of a
+    simple stage feedback amplifier using type low noise pentodes
+    and suitable for use with sound reproduction equipment
+    distortion is low gain practically uniform from to and pick up
+    of stray fields effectively negligible

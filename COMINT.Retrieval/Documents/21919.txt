@@ -1,0 +1,12 @@
+the synthesis of a network to have a sine squared impulse
+    response the method of moments of the mean moment type used by
+    moss is applied to the problem of designing a network with an
+    impulse response of prescribed form the method is not
+    applicable in all cases but is particularly suitable for the
+    design of a low pass system with not too sharp a cut off and
+    not too oscillatory an impulse response calculation for the
+    case of the sine squared pulse results in design data for a
+    ladder network of inductors and capacitors with resistive
+    terminations the discrepancy between the impulse response curve
+    and the exact sine square curve at no point exceeds of the peak
+    amplitude of the pulse

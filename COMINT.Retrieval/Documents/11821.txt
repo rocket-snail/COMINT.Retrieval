@@ -1,0 +1,7 @@
+rocket measurement of the upper ionosphere by a radio
+    propagation technique an example of measurement of the electron
+    density profile up to by means of the tso two frequency
+    technique is presented including the determination of inferred
+    scale height and temperature of the upper ionosphere a
+    correction procedure is outlined necessary for the
+    determination of local electron density data

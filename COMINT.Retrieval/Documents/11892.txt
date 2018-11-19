@@ -1,0 +1,4 @@
+random pulse generator tests circuits encodes messages
+    the shift register generator uses high speed logic circuits in
+    producing complicated pulse sequences up to bits in
+    length

@@ -1,0 +1,6 @@
+a hard valve pulse generator description with circuit
+    details of a triggered generator producing pulses of width
+    variable from to slight modifications result in a free running
+    generator a triggered generator of pulses which is easily
+    converted to free running with a repetition period od of ms
+    pulses of either polarity can be used for triggering

@@ -1,0 +1,4 @@
+a simple method of detecting solar flare effects in the
+    lower ionosphere field strength records of transmitters
+    operating at frequencies over a distance of provide a sensitive
+    means of detecting and identifying solar flare effects

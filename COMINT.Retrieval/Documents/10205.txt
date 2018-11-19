@@ -1,0 +1,1 @@
+a low power vhf radar for auroral research

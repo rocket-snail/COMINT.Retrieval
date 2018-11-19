@@ -1,0 +1,2 @@
+the synthesis of a network to have a sine squared impulse
+    response discussion on paper abstracted in of february

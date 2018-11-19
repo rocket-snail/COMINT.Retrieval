@@ -1,0 +1,7 @@
+theory of secondary emission the elementary theory of
+    secondary electron emission has been generalized and modified
+    to incorporate results of recent measurements of the range
+    energy relation and the dissipation of energy by slow electrons
+    iin solids these modifications give considerably improved
+    agreement between the theoretical and experimental universal
+    reduced yield curves

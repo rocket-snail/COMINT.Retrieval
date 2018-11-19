@@ -1,0 +1,6 @@
+transistor application fundamentals a comparison is made
+    of valve and transistor characteristics in relation to a f
+    amplifier circuits the design of a gramophone pickup amplifier
+    using the twin triode and ge fused junction transistors is
+    described circuit diagrams characteristic curves and relevant
+    formulae are given

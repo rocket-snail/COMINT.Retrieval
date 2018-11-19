@@ -1,0 +1,7 @@
+automated scientific and technical information system in
+    heavy and transport mechanical engineering. describes the
+    organisational and technological structure of the soviet heavy
+    and transport engineering information system (known as asnti
+    tyazhmash); development criteria; software; information base;
+    information retrieval procedure; and data processing
+    capabilities.

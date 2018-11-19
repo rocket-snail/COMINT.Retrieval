@@ -1,0 +1,23 @@
+cairs-a computer assisted information retrieval system. a
+    flexible low cost minicomputer based information retrieval
+    system is described. cairs (computer assisted information
+    retrieval system) allows information in the form of documents,
+    text, records or abstracts to be stored in a computer data
+    base. the programs have been written in rtl2, a high level
+    transportable computer language, which allows cairs to run on
+    most popular minicomputers. data entry is carried out using a
+    direct key to disc facility, with formatted visual display
+    screens being presented to speed input. the advantages of input
+    validation and efficient editing of entered material are fully
+    exploited, and an interactive thesaurus may also be used. data
+    on cairs can be indexed using classification systems or
+    hierarchical structures. alternatively, keyword indexing of the
+    automatic, semi-automatic or manual type may be applied, plus
+    either a free or controlled language vocabulary. searching
+    proceeds via inverted file and ser ial (string) search
+    functions, although a variety of specialised tasks allow
+    bulletins, lists and catalogues to be produced. cairs is
+    designed to replace any applications where manual card index
+    filing systems are employed, and is available as both a
+    software system or as a complete software/hardware
+    package.

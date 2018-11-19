@@ -1,0 +1,4 @@
+ring modulator reads low level dc dc signals in the range
+    are fed via a logarithmic si diode attenuator to a ring
+    modulator and converted to ac which is amplified and serves as
+    a measure of the dc input

@@ -1,0 +1,11 @@
+intelligent access to prestel. the facilities of prestel,
+    the uk post office viewdata service, are outlined, emphasising
+    the aspects of its design which make it very easy to use. the
+    very simple structure of the data is also discussed and
+    compared with other viewdata systems. normal prestel terminals
+    have limited capabilities but intelligent terminals are being
+    developed which will allow telesoftware to be used for program
+    distribution. an example of the use of such programs is to
+    improve the method of access to specific data. some examples
+    are described with emphasis on the need to retain the
+    underlying simplicity when adding new capabilities.

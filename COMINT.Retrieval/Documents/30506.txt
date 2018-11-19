@@ -1,0 +1,6 @@
+minimum energy triggering signals the optimum signat is
+    defined as that which produces a given current through or a
+    voltage across a resistive output element at a given time while
+    requiring a minimum of energy from the generator the solution
+    of this problem is discussed and illustrated by a simple
+    case

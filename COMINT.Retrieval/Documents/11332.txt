@@ -1,0 +1,11 @@
+frequency discrimination and stabilization of square wave
+    modulated microwave transmissions the method described is a
+    modification of that due to aurell mit technical report no the
+    frequency of the oscillations from a reflex klystron is
+    compared with the resonance frequency of a high q cavity and a
+    correction voltage depending on the frequency difference is fed
+    back to the klystron reflector electrode via the modulator
+    where it is combined with the square wave modulation voltage
+    the method of alignment of the microwave circuits is discussed
+    in detail and the effect of misalignment on the discriminator
+    characteristics is shown

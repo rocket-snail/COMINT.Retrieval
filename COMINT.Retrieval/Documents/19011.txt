@@ -1,0 +1,5 @@
+logic for a digital servo system a cr tube beam in a
+    photographic storage system is positioned by comparing a binary
+    address with a digital indication of the present position
+    digital servo logic circuitry is described for obtaining the
+    sign and magnitude of the positional error

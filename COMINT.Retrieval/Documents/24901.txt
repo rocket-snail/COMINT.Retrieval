@@ -1,0 +1,5 @@
+theory design and performance of maximum efficiency
+    variable reactance frequency multipliers the maximum efficiency
+    with a given nonlinear element and circuitry is predicted from
+    the analysis and circuit configurations for improved efficiency
+    at a given harmonic are indicated

@@ -1,0 +1,3 @@
+variable ultrasonic water delay line the unit described
+    produces a delay variable from and stable w to within the
+    bandwidth is at

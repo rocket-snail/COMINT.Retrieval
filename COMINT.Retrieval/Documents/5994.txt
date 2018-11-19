@@ -1,0 +1,6 @@
+on interaction of nonlinear oscillations general
+    considerations regarding the existence stability and certain
+    topological rules of selection between several oscillations are
+    outlined the results are used to investigate the differential
+    equation using the stroboscopic method of some special cases
+    are examined

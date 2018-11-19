@@ -1,0 +1,6 @@
+ionospheric critical frequencies and magnetic parameters
+    of the day before the correlation between and at capetown and
+    local magnetic activity was calculated the correlation is
+    greatest when the magnetic indices for the previous day are
+    used this is true both when and means of are used in the
+    correlations

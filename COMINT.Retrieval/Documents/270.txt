@@ -1,0 +1,6 @@
+the design of thermocouple transformers for infrared
+    chopped beam systems description of transformer for operation
+    at to be inserted between a thermocouple detector and an
+    amplifier the design is such as to give at the amplifier output
+    a signal noise ratio approaching that at the thermocouple
+    terminals

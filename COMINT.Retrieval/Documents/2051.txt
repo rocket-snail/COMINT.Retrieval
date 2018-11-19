@@ -1,0 +1,5 @@
+variational method for the propagation of electromagnetic
+    waves in a plasma using a variationalprinciml a first
+    approximation is obtained for the propagation constant of the
+    te mode in a rectangular waveguide containing a thin layer of
+    gyroelectric plasma

@@ -1,0 +1,11 @@
+status report on the map cataloging project at the
+    illinois state library. illinois state library began its map
+    cataloguing project on 1 aug 80. all formerly uncatalogued
+    sheet maps are being catalogued in marc map format and those
+    already catalogued by various methods are being recatalogued,
+    using oclc. because the state library is a regional government
+    printing office depository, the federal maps are being
+    classified according to the sudoc (superintendent of documents)
+    system. all other maps are being classified by the library of
+    congress g system. describes progress on the project and
+    discusses problems encountered and their solution.

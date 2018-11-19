@@ -1,0 +1,5 @@
+fast response magnetic amplifiers expressions are given
+    for the number of control turns and the gain of magnetic
+    amplifiers of the type described by ramey in which load and
+    control circuits operate on the magnetic state of the core on a
+    time sharing basis

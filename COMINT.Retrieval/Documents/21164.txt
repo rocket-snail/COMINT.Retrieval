@@ -1,0 +1,6 @@
+high speed logic circuits using diode logical networks
+    and current switching amplifiers the use of diode networks as
+    an alternative to transistors in logical networks is considered
+    the circuits are versatile and economical but require
+    associated amplifiers and are likely to have a limiting
+    switching time of about

@@ -1,0 +1,6 @@
+amplitude stabilized low frequency oscillator the
+    performance of a vlf oscillator for the range with the output
+    stabilized by biased diodes or lamps is analysed formulae for
+    the harmonic content with different initial damping are deduced
+    and means of reducing it are indicated a circuit for measuring
+    the harmonic content is described

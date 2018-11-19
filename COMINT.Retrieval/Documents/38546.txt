@@ -1,0 +1,6 @@
+junction transistor circuits a method is described for
+    calculating current drift due to changes of junction
+    temperature in a direct coupled transistor circuit with series
+    negative feed ba k the design of drift compensating circuits is
+    considered and a brief comparison is made with parallel
+    feedback circuits

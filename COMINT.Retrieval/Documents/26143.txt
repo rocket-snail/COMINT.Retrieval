@@ -1,0 +1,11 @@
+the faraday fading of radio waves from an artificial
+    satellite faraday fading of signals from an artificial
+    satellite is analysed in terms of the difference between the
+    doppler shifts of the ordinary and extraordinary components in
+    the ionosphere a procedure is outlined for determining the
+    vertical distribution of electron density in the upper
+    ionosphere explanations are given forthe apparently excessive
+    values of electron content yielded by measurements of faraday
+    fading and for the observation that the rate of faraday fading
+    is not exactly inversely proportional to the square of the wave
+    frequency

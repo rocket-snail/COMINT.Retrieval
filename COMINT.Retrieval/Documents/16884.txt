@@ -1,0 +1,3 @@
+generation of bell shaped pulses a pulse generating
+    circuit is described for producing pulses to long at a
+    repetition frequency of

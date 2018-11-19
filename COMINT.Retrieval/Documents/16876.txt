@@ -1,0 +1,11 @@
+micro computer systems. the micro computer system is not
+    unique, but just a simpler version of the mini and mainframe.
+    it is only cheaper because less is provided, the facilities are
+    inadequate for many operations, and if significant once-off
+    programme development is required, most cost advantages of a
+    micro system may be lost. discusses questions which should be
+    raised when considering micro computer systems in the context
+    of library automation and information retrieval. suggests that
+    processor, memory and logic boards should cost no more than
+    *62,000, and mass storage should be limited to floppy discs
+    and/or cassette.

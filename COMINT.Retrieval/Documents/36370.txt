@@ -1,0 +1,10 @@
+clustering in free-text data bases. defines clusters as
+    sets of chemical compounds related by similar chemical
+    structure and activity and applies heuristic clustering methods
+    for text data to a data base describing chemical compounds with
+    medical uses. concludes that consideration of multiple medical
+    use clustering assures comprehensiveness and supplements any
+    weakness of purely heuristic searching. the existence of the
+    aforementioned chemical similarities permits the exploration of
+    new or previously unreported uses of chemical compounds by
+    computer manipulation of data.

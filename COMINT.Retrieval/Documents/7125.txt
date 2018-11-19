@@ -1,0 +1,6 @@
+interaction of a modulated electron beam with a plasma
+    report on theoretical and experimental investigations of the
+    interaction between a microwave modulated electron beam and a
+    mercury arc discharge and of the interaction between a
+    modulated electron beam and a slow es wave on a plasma
+    column

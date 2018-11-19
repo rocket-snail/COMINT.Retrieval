@@ -1,0 +1,6 @@
+equipment for excitation of spectra by high frequency
+    pulses the equipment comprises a pulse generator which controls
+    a clapp oscillator of followed by a frequency multiplier and
+    amplifiers average hf power transferred to the discharge tube
+    is about with peak power of the frequency is about mcs argon
+    spectra obtained are shown

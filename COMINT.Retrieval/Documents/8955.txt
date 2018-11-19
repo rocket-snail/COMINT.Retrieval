@@ -1,0 +1,5 @@
+cathode follower phase shift oscillator analysis
+    indicates that better frequency stability is obtained by
+    connecting the phase shifting network between grid and cathode
+    than by connecting it in the anode circuit calculations are
+    made for three typical circuits

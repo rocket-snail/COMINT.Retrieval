@@ -1,0 +1,10 @@
+development of platon' a local computer network at the
+    university of ottawa. report of work supported in part by the
+    natural sciences and engineering research council of canada
+    (operating grant nserc a-8450). platon (processing local area
+    terminal oriented network) was developed at the department of
+    electrical engineering, university of ottawa, ontario, and is a
+    local network which will interconnect the department's
+    computers, terminals, and peripheral devices, and the
+    university's mainframe. the network is of the ethernet type and
+    uses microcomputer interfaces based on the intel sdk-85.

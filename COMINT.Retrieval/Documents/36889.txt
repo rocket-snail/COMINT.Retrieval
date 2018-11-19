@@ -1,0 +1,9 @@
+the future of videotex systems' a personal view. reviews
+    the technology of viewdata, in europe and the uk, its brief
+    history, present problems and possible future. reference is
+    made to panda (prestel advanced network design architecture),
+    prestel's gateway system and picture prestel. concludes that
+    videotex on an international scale could develop in 2
+    directions' local information provision by distributed data
+    base networks in individual countries, and as a 1st entry port
+    to international data bases and data banks.

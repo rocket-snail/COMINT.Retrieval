@@ -1,0 +1,11 @@
+starting of an electrical gas discharge in a uniform
+    alternating field in the sub critical range when the half
+    period of the alternating field is greater than the duration of
+    an ionization step the number of ionization steps in a half
+    period varies with frequency and with field strength over this
+    range the breakdown voltage frequency characteristic is
+    positive but beyond a certain value of frequency it becomes
+    negative later undergoing a further inflection so that at a
+    frequency of it is again positive comprehensive experimental
+    results illustrating these phases and the influences of
+    pressure and electrode separation on them are presented

@@ -1,0 +1,4 @@
+motion of a satellite in the earths gravitational field
+    the equations of motion of a satellite are given in a general
+    form taking account of the precession and nutation of the
+    earth

@@ -1,0 +1,5 @@
+plate voltage control of phantastron frequency two
+    pentodes each forming a phantastron circuit are interconnected
+    so that both mark and space of their combined output waveforms
+    are controlled by linear rather than exponential sweeps circuit
+    jitter is less than at pulses sec repetition rate

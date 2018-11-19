@@ -1,0 +1,4 @@
+the southern auroral zone in geomagnetic longitude sector
+    visual auroral observations at antarctic bases are tabulated to
+    show the variation of the frequency of aurora occurrences with
+    geomagnetic latitude

@@ -1,0 +1,8 @@
+solar reliability and materials library. volume 1'
+    library overview. the reliability and materials library that is
+    an integral part of the argonne national laboratory solar
+    reliability and materials programme is described. the design of
+    the library, the software selection, and the data structure are
+    explained in this volume of the report. the procedures for
+    obtaining outputs and examples of actual outputs from the
+    library are presented.

@@ -1,0 +1,3 @@
+arithmetical counters for pulses a list is given of
+    relevant publications with short notes indicating their
+    scope

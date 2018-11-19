@@ -1,0 +1,6 @@
+step by step transition from wave optics to ray optics in
+    inhomogeneous absorbing media part equations for wave normal
+    refractive index and polarization the transition is made by
+    successive approximations each approximation is considered from
+    the physica point of view and th physical significance of the
+    equations derived is considered

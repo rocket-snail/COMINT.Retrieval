@@ -1,0 +1,7 @@
+a curve analyzer and general purpose graphical computer
+    the analogue computer described comprises five photoelectric
+    curve followers two integrators nine adding amplifiers and a
+    pen recorder the independent variable is represented by a low
+    alternating voltage increasing linearly with time the from of
+    the equation is determined by the connections between the units
+    and the values of constants are set by potentiometers

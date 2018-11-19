@@ -1,0 +1,5 @@
+magnetic inverter uses tubes or transistors a means of
+    producing ac from dc the collector and emitter coil windings of
+    the on transistor of a multivibrator are differentially
+    connected across the input voltage so that the drive winding
+    partially determines the frequency of oscillation

@@ -1,0 +1,11 @@
+the structure of the f region of the ionosphere the
+    effects of temperature cycles of a decay coefficient which is
+    nonuniform with height and of vertical tidal drifts are
+    considered the diurnal and seasonal height variations of the f
+    region are explained qualitatively by postulating in addition
+    to the vertical tides acting on an isothermal chapman region a
+    diurnal temperature cycle this requires a decay coefficient
+    which does not change rapidly with height on an alternative
+    hypothesis involving discontinuities in the height gradient of
+    the decay coefficient tidal drifts are still necessary but a
+    diurnal temperature cycle is not of major importance

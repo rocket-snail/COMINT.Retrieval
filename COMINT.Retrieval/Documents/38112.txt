@@ -1,0 +1,6 @@
+saturable reactor frequency divider a saturable reactor
+    is used in conjunction with a rc network to provide a circuit
+    capable of producing a pulse output at the frequency or a
+    submultiple of the frequency of a sinusoidal input a circuit
+    providing synchronizing pulses for a radar modulator at half
+    the frequency of the power supply is described

@@ -1,0 +1,3 @@
+cherenkov radiation a brief explanation is given of the
+    mechanism of cerenkov radiation which may find application in
+    oscillators

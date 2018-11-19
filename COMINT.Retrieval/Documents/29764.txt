@@ -1,0 +1,9 @@
+image parameters of filters with one or two cut off
+    frequencies and notes on the decomposition of the transfer
+    coefficient a table is given of formulae for the image transfer
+    coefficients and image impedances of high pass band pass and
+    band stop filters methods of expressing the transfer
+    coefficients as the sum of the transfer coefficients of the
+    basic sections are explained though the band stop case cannot
+    be included the filters are considered to be without loss and
+    without mutual inductance

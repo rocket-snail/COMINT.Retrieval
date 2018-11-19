@@ -1,0 +1,4 @@
+a microwave spectrometer for the study of free radicals
+    description of apparatus suitable for the study of short lived
+    molecules in the gas phase and operating in the frequency
+    range

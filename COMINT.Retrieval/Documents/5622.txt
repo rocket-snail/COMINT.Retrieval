@@ -1,0 +1,3 @@
+matrix analysis of vacuum tube circuits the equivalent
+    four terminal network for a feedback amplifier is derived and
+    the criterion for oscillation is deduced

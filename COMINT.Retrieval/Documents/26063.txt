@@ -1,0 +1,6 @@
+on the diffraction of electromagnetic pulses by curved
+    conducting surfaces starting with the known steady state
+    solutions for diffraction by a perfectly conducting convex
+    surface the corresponding transient responses are derived using
+    fourier laplace inversion explicit results are given for an
+    incident wave which varies with time as a step function

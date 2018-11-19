@@ -1,0 +1,2 @@
+the design of stagger tuned double tuned amplifiers for
+    arbitrarily large bandwidth

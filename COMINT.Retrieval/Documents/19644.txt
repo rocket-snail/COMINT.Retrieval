@@ -1,0 +1,7 @@
+fluctuations in a plasma ion electron temperature
+    relaxation the rate of relaxation calculated on the basis of
+    the fluctuation dissipation theorem assuming interaction
+    between the ion and the fluctuating electric field caused by
+    the surrounding electrons is found to agree with the result
+    obtained considering interactions with individual
+    electrons

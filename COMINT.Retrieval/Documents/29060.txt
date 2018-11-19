@@ -1,0 +1,8 @@
+the impact of office automation on libraries. describes
+    the processes and component features of the automated office
+    and the relationships among them. since most people in the
+    library world spend a considerable portion of their time
+    performing traditional 'office' functions, the library
+    community should become more fully aware of developments,
+    testing, and applications of integrated office
+    technologies.

@@ -1,0 +1,5 @@
+the stability of thermistors experimental results
+    indicate that though the constants of two thermistors tested
+    undergo changes over a period of months the changes are slow
+    enough for temperature measurements to be made to an accuracy
+    within over a range of in experiments lasting up to

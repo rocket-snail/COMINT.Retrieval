@@ -1,0 +1,7 @@
+general design considerations of a cavity type power
+    amplifier details r are given of the construction of a single
+    stage amplifier using a type triode valve constant current
+    curves for class c grounded grid operation were used to
+    determine the operating parameters of the triode a stage
+    amplifier using and triodes is described with performance
+    details

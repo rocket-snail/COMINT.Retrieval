@@ -1,0 +1,7 @@
+operating experience with a transistor digital computer a
+    description of the performance of a small laboratory model
+    digital computer over a period of a year with analysis of
+    service ability and transistor failures the failure rate of
+    point contact transistors was higher than expected but was of
+    the same order as that quoted by other workers for standard
+    thermionic valves in digital computers

@@ -1,0 +1,10 @@
+the optimum piston position for wide band coaxial to
+    waveguide transducers matching of a coaxial line to a waveguide
+    can be effected by means of a probe located ahead of a short
+    circuiting piston in the waveguide matching can usually be
+    achieved by varying any two of the following dimensions off
+    centre distance of the probe probe length distance from piston
+    to probe as there is theoretically an optimum piston position
+    giving greatest bandwidth it is convenient to vary dimensions
+    and experimental results are quoted which corroborate the
+    theory bandwidths to the swr points were obtained

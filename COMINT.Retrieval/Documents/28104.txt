@@ -1,0 +1,6 @@
+options for integrating information systems. discusses 4
+    approaches to achieving a fully integrated company system for
+    word, information, and data processing-devices enabling
+    incompatible machines to communicate, input/output peripheral
+    devices, black boxes (converters), and use of outside
+    communications networks.

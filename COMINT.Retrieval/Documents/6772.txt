@@ -1,0 +1,4 @@
+calculation of the duration of a quasi equilibrium state
+    in a phantastron circuit a formula is derived and typical
+    operating conditions of phantastron circuits are
+    considered

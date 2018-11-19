@@ -1,0 +1,4 @@
+the formulation of electron diffraction by means of a
+    scattering matrix and its practical applicability electron
+    diffraction by a crystal plate is treated by dynamic
+    diffraction theory

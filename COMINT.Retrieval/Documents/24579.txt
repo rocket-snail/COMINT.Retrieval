@@ -1,0 +1,4 @@
+designing a computerised catalogue using cobol. reports
+    the results of an experiment conducted at bhel, delhi library
+    with e.c. 1020 using cobol language for creating a machine
+    readable bibliographic data base.

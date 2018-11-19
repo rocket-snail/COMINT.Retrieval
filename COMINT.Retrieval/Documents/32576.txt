@@ -1,0 +1,3 @@
+a pulse delay system details are given of a phase shift
+    circuit followed by a pulse shaping stage a maximum delay of
+    about one ms can be achieved

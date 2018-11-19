@@ -1,0 +1,5 @@
+design methods for control systems the nyquist diagram
+    method of analysing feedback systems is discussed stability
+    problems can be simplified by using a method based on the
+    attenuation frequency characteristics the speed control of a dc
+    motor is considered as an example

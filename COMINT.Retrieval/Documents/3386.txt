@@ -1,0 +1,6 @@
+self trapping of an electron by the acoustical mode of
+    lattice vibration when the coupling constant between the
+    electron and acoustic mode vibration exceeds a critical value
+    the effective mass of the electron increases discontinuously
+    and the electron takes a localized self trapping state as an
+    eigenstate

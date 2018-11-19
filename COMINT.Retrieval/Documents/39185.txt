@@ -1,0 +1,4 @@
+direct digital conversion of pulse width multiplexed data
+    pulse width data are converted to a binary form by relating the
+    incidence of leading and trailing pulse edges to the state of a
+    counter driven by an asynchronous oscillator

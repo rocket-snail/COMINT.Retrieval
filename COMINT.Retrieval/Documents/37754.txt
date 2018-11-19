@@ -1,0 +1,8 @@
+distortion of arbitrarily shaped curves by rc sections a
+    method is given of calculating the distortion by a rc network
+    of any signal which is expressible as the sum of a power series
+    and terms containing exponential functions of the circuit time
+    constants tables and nomograms are given for calculating the
+    output form given the input curve and vice versa for
+    rectangular trapezoidal triangular parabolic and exponential
+    type pulses

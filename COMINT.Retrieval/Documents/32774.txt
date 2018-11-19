@@ -1,0 +1,4 @@
+an analysis of the modes of operation of a simple
+    transistor oscillator an analysis predicting two modes of
+    oscillation a two terminal transit time mode and a three
+    terminal mode

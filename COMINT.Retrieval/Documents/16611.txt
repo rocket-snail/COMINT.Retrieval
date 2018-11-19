@@ -1,0 +1,6 @@
+lowest eigenvalues of nearly circular regions analysis
+    relevant to waveguides and vibrating membranes is presented the
+    principal eigenvalue of the nearly circular element is found by
+    a method involving the circle of equal area the usefulness of
+    the method is illustrated by comparing approximate values thus
+    found for a rectangle with the exact values

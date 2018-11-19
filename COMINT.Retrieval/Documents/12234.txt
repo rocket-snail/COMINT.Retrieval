@@ -1,0 +1,12 @@
+the transvar directional coupler the coupling element
+    consists of closely spaced identical apertures separated by
+    grid wires in the common narrow wall between two waveguides by
+    changing the relative longitudinal position of the two
+    waveguides the number of exposed apertures and hence the
+    effective coupling length can be changed power transfer is
+    variable between and at maximum power transfer is available at
+    one frequency only and hence bandwidth depends on the tolerable
+    decrease in power transfer two models with and differing only
+    in grid wire diameter have maximum power transfer at about and
+    respectively agreement between theory and performance is
+    close

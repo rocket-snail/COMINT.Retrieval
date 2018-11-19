@@ -1,0 +1,4 @@
+miniaturization of airborne filter chokes a calculation
+    charts is given for chokes using mil laminations of si steel
+    with square stack use of the chart is illustrated by numerical
+    examples

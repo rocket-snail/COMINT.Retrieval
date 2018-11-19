@@ -1,0 +1,8 @@
+isolating direct current amplifiers a circuit providing
+    an output direct current or voltage proportional to an input
+    direct voltage and having no common point between input and
+    output uses fixed frequency crystal controlled oscillator in
+    conjunction with a discriminator whose phase is varied by means
+    of an electromechanical modulator which converts the input
+    signal into a capacitance variation several applications are
+    mentioned

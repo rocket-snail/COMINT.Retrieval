@@ -1,0 +1,7 @@
+connection and measurement of transform functions on an
+    analogue computor the transfer function of linear systems is
+    split into products of partial transfer functions which
+    facilitates the solution of network problems by analogue
+    computer circuits representing the partial functions are given
+    and methods of measuring the frequency and time characteristics
+    of filter networks are described

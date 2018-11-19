@@ -1,0 +1,7 @@
+effects of heater voltage variations of valves in certain
+    stabilizer circuits calculations further to those presented
+    previously show that in series parallel stabilizer circuits
+    having a resistor in the cathode lead of the amplifier the
+    effect of heater voltage variations is not serious because the
+    two valves produce output voltage changes of opposite
+    sign

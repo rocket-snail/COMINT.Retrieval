@@ -1,0 +1,6 @@
+propagation of electromagnetic waves in a gyrotropic
+    medium faradays law of rotation of the plane of polarization is
+    extended to take account of the reflection and refraction at
+    the boundaries of the medium the relation between path length
+    and the angle of rotation is derived and results for a lyer of
+    are shown graphically for a frequency of

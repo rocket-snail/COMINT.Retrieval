@@ -1,0 +1,5 @@
+a low frequency selective amplifier the frequency is
+    variable in steps from to the selectivity can be set up to the
+    amplifier is dc coupled a twin t network shunted by a capacitor
+    acts as a selective network in the negative feedback
+    line

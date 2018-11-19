@@ -1,0 +1,6 @@
+travelling wave parametric amplifier analysis using
+    difference equations a second order difference equation is
+    derived for both periodically and uniformly distributed
+    parametric amplifiers gain and voltage output are calculated
+    the results are specifically applied to an lc distributed
+    amplifier

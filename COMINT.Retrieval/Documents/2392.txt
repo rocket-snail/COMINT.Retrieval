@@ -1,0 +1,4 @@
+a transistor quadrature suppressor for a c servo systems
+    the spurious quadrature component rn the error signal of an a c
+    servo system is cancelled by a self balancing circuit including
+    thermistors

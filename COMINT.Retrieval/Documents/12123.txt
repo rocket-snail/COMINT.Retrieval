@@ -1,0 +1,2 @@
+a generalized polyphase merge algorithm november, 1961
+    reynolds, s. w. ca611104 jb march 15, 1978 10:56 pm

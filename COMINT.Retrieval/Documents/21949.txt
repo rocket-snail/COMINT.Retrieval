@@ -1,0 +1,4 @@
+starvation circuits and their limitations the under
+    running of valves is deprecated on technical grounds the valves
+    so operated generally tend to be unstable with variations in
+    the supply voltage and with age

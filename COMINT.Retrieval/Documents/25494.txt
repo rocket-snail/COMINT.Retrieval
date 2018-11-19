@@ -1,0 +1,13 @@
+a wide band oscillator using a conical helix tuning
+    inductor description of an oscillator working over a frequency
+    range of and using a single tank circuit between the grid and
+    the anode of a triode the tuning circuit consists of a variable
+    inductor formed by two conical helices connected at their
+    apices by a large capacitor and two variable cylindrical
+    capacitors for the high frequency end the leads connecting the
+    coils to the grid and the anode are used as transmission lines
+    the main tuning circuit being automatically isolated methods of
+    calculating the oscillation frequency in terms of the circuit
+    parameters are described simplifying assumptions being mace a
+    description is given of the design and performance of an
+    experimental model for the range mcs

@@ -1,0 +1,7 @@
+a note on bandwidth the concept of bandwidth is examined
+    in relation to networks such as integrators which are not
+    designed to provide faithful transmission of a waveform the
+    bandwidth of such a network is defined as the maximum bandwidth
+    of the input signal for which the output does nt differ from
+    that of an ideal network by more than a prescribed
+    amount

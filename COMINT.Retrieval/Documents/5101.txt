@@ -1,0 +1,5 @@
+a full binary adder employing two negative resistance
+    diodes this adder provides outputs which are virtually in
+    coincidence with the input signal a full adder is described
+    using positive gap diodes of the type described by reeves and
+    cooke of which operate with pulses

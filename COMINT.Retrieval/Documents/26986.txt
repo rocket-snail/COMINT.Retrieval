@@ -1,0 +1,2 @@
+on the theory of surface states a new method is proposed
+    for calculating shockley type surface states

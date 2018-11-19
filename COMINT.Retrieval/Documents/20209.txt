@@ -1,0 +1,5 @@
+masers and reactance amplifiers basic power relations an
+    alternative derivation based on circuit theory of the
+    expressions of manley and rowe the power relations involve only
+    the source and load frequencies and are independent of the
+    specific characteristics of the nonlinear device

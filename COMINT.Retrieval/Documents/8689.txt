@@ -1,0 +1,8 @@
+theory of stochastic linear systems with gaussian
+    parameter variations a theory of linear systems with randomly
+    varying parameters id is developed under the assumption that
+    the parameter processes are gaussian processes obtained by
+    linear filtering of white noise a theory of mean and mean
+    square stability is given and applied to an circuit with
+    randomly varying capacitance an error in a previous analysis is
+    corrected

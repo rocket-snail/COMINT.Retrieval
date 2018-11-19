@@ -1,0 +1,5 @@
+practical decimetre wavelength harmonic generator a
+    frequency stable coaxial type harmonic generator is described
+    whose design is based on the rod wavemeter four patterns are
+    available covering different fundamental wavelength ranges the
+    highest usable harmonic frequency

@@ -1,0 +1,6 @@
+blocking oscillators the use of blocking oscillators as
+    generators of voltage or current pulses or of repetitive
+    sawtooth voltage or current waveforms is examined in some
+    detail with a description of thd mode of operation of the vz
+    various circuits considered and discussion of the factors
+    affecting their practical design

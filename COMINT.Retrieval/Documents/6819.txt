@@ -1,0 +1,8 @@
+the theory and design of coaxial resistor mounts for the
+    frequency band a design is described in which the resistive
+    inner conductor has uniform diameter while the outer conductor
+    has a tractrix profile lead in cones are designed to avoid
+    discontinuity at the connections experimental results indicate
+    that the impedance is within of the resistance with an
+    extremely small phase angle at all frequencies up to the
+    highest measured namely

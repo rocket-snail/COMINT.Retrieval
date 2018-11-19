@@ -1,0 +1,5 @@
+the change of state crystal oven the action of the oven
+    depends upon the constancy of the melting point of crystalline
+    material and the thermal ballasting due to the latent heat of
+    fusion an oven of this type can restrict the frequency shift to
+    parts in for a temperature change of

@@ -1,0 +1,6 @@
+prevention of ionization in small power transformers the
+    ionization onset voltage is raised for a given total thickness
+    of insulation by inserting foils in the insulation so as to
+    split it into n sections with of the total voltage across each
+    section design details and test results for a typical
+    transformer are given

@@ -1,0 +1,4 @@
+the mechanical considerations of magnetic recording heads
+    manufacturing problems associated with multitrack heads are
+    discussed in relation to the effects of mechanical variations
+    on head performance performance criteria are listed

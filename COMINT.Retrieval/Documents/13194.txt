@@ -1,0 +1,6 @@
+reporting requirements for the army library. the reports
+    described in this document have been developed specifically for
+    the army library, pentagon. they constitute a subset of the
+    general reports developed for the circulation module of the
+    national library of medicine, lister hill national center for
+    biomedical communication's integrated library system.

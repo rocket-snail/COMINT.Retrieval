@@ -1,0 +1,13 @@
+from the national diet library, tokyo. 2. a proposal for
+    a standard common core character set (cccs). shortened version
+    of a paper presented to the section on information technology,
+    ifla manila conference, 1980. to attain the goal of universal
+    bibliographic control, an east asian version of unimarc must be
+    developed; each country using chinese characters must formulate
+    a standardised chinese character set; and conversion tables
+    must be devised to enable such countries to exchange marc tapes
+    with meaningful results. a common core character set
+    (comprising chinese characters having the same meaning in all
+    these countries) could be compiled. japan's national diet
+    library is willing to work on this. for part 1, 2see1
+    82/5413.

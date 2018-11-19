@@ -1,0 +1,14 @@
+the online information service in jicst and the special
+    characteristics of the japanese language' implementation of
+    automatic processing of japanese. the japan information center
+    of science and technology (jicst) developed the kanji-kana
+    automatic conversion system (k-kacs) and the japanese keyword
+    automatic extraction system for the purpose of giving easier
+    access to jicst files through kana and kanji terminals, and
+    complement the controlled vocabulary of jicst thesaurus. in
+    order to explain the necessity of developing theese systems,
+    the current on-line information service in japan and the
+    present status and utilisation of jicst files are also
+    mentioned. the characteristics of japanese sentences are
+    explained briefly from the viewpoint of constructing the 2
+    systems.

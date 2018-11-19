@@ -1,0 +1,6 @@
+influence of inhomogeneity of a plasma on its resonance
+    frequency nonuniformity of the electron concentration in the
+    plasma may give rise to variations of in the resonance
+    frequency this explains the langmuir relation and experimental
+    results the effect of damping is however negligible as are also
+    magnetic effects

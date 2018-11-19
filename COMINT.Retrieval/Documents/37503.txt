@@ -1,0 +1,6 @@
+electromagnetic surface waves on a plane interface
+    surface waves are defined as waves exponentially decreasing on
+    both sides of a plane interface the relations between the
+    propagation parameters and the material constants are derived
+    in a general case which includes media with different magnetic
+    permeabilities

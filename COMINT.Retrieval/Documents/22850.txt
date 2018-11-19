@@ -1,0 +1,6 @@
+stimulated emission of radiation by relativistic
+    electrons in a ma gnetic field an expression is derived for the
+    transfer of energy between an alternating electric field and
+    electrons moving at right angles to a magnetic field it is
+    shown that for relativistic electrons a net stimulated emission
+    is possible

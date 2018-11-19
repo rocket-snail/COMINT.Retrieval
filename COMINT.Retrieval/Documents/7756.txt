@@ -1,0 +1,6 @@
+the banco del libro gives technical advice on colombia's
+    mobile library service. a description of the implementation of
+    a unesco sponsored project under the supervision of a
+    venezuelan public libraries expert. details are given of the
+    planning and operation of the service, and staff
+    training.

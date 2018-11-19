@@ -1,0 +1,3 @@
+magneto optical readout of magnetic recordings this
+    technique is based on the rotation of the plane of polarization
+    of a light beam reflected from a magnetized surface

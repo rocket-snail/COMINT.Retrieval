@@ -1,0 +1,3 @@
+an adaptive communications filter a filter is described
+    which is optimum for a completely random communication
+    signal

@@ -1,0 +1,9 @@
+frequency feedback discussion of a phenomenon which
+    occurs in all resonant systems possessing a relation between
+    resonance frequency and amplitude in such systems there may be
+    an external feedback channel or internal feedback due to
+    nonlinear reactors or to nonlinear resistors combined with
+    fixed reactors as in the so called rx modulators the phenomenon
+    shows itself in asymmetrical deformation of the resonance curve
+    applications of the effect in a m fm conversion and in fm
+    conversion for frequency shift reception are noted

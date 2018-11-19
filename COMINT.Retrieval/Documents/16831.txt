@@ -1,0 +1,3 @@
+scale height of the upper atmosphere the effect of air
+    drag on the orbit of an earth satellite is calculated allowing
+    for the ellipticity of the earth

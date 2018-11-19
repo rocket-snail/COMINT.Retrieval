@@ -1,0 +1,12 @@
+representation of knowledge in a legal information
+    retrieval system. the legal research system is a
+    knowledge-based computer retrieval system for use by lawyers
+    and legal assistants and containing information about 200 court
+    decisions and 200 statutes concerning us negotiable instruments
+    law (cheques and promissory notes). 4 kinds of knowledge about
+    legal concepts and related court cases are
+    represented-functional, structural, semantic, and factual.
+    discusses the motivation for including each kind of knowledge.
+    describes their computer representation and gives examples of
+    their use. describes how the system's structure is used to
+    understand and interpret user queries.

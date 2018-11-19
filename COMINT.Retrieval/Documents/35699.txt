@@ -1,0 +1,9 @@
+milwaukee public library, 1942-1980' a pioneer in data
+    processing. milwaukee public library, with its present system
+    of 50 circulation control terminals, 17 crts, 4 mini-computers,
+    105 billion characters of on-line disc storage, 7 tape drives,
+    as well as the use of the city hall main frames, has had a long
+    history of data processing dating back to 1942. the
+    disappointments, problems, and successes, especially with major
+    control of its data processing operations, are
+    discussed.

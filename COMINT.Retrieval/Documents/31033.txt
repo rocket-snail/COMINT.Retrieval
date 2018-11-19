@@ -1,0 +1,4 @@
+restrictions imposed upon the unit step response of
+    linear phase shift networks limits are defined for the rise
+    time and overshoot of the unit step response of networks free
+    from phase distortion

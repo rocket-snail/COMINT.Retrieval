@@ -1,0 +1,3 @@
+linear amplifier for negative pulses a two valve
+    amplifier is described which has a gain of and a rise time of
+    for outputs up to

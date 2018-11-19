@@ -1,0 +1,7 @@
+comments on a 'method for generating a chemical reaction
+    index for storage and retrieval of information'. a recently
+    proposed method for generating numeric identifiers for chemical
+    reactions is discussed. it is shown that the method depends
+    upon the exact form in which the reaction is described and also
+    the method results in the same identifier being assigned to
+    different reaction types.

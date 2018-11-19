@@ -1,0 +1,3 @@
+a stabilized and programme controlled power supply using
+    positive feedback a power supply for a mass spectrometer magnet
+    is described with an output continuously variable

@@ -1,0 +1,12 @@
+effect of secondary electrons on initiation of discharges
+    initiation of discharges between parallel electrodes in inert
+    gases was investigated at pressures of using a frequency of and
+    magnetic fields up to two effects due to a transverse magnetic
+    field were observed decrease of breakdown potential and
+    suppression of a glow discharge the former is due to the
+    cyclotron effect the maximum reduction of occurred at a field
+    strength where is the frequency of the electric field the
+    latter is shown to be due to prevention of the secondary
+    electron resonance effect observed in a longitudinal magnetic
+    field and noted by in his work on the secondary electron
+    multiplier

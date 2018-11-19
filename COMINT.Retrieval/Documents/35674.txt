@@ -1,0 +1,4 @@
+ahalwo trigger circuits useful as sources of rectangular
+    pulses a modified eccles jordan circuit having low output
+    impedance and a development of schmitt cathode oupled trigger
+    circuit are presented

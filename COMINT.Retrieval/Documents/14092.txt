@@ -1,0 +1,4 @@
+the physical realizability of a microwave junction the
+    conditions are derived which must be satisfied by a matrix to
+    represent the admittance impedance or scattering matrix of a
+    junction at a given fixed frequency

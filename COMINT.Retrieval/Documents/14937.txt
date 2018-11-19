@@ -1,0 +1,7 @@
+piezoelectrically activated low frequency mechanical
+    resonators discussion of resonators comprising plates or bars
+    carrying two relatively small piezoelectric crystals the
+    parameters of the equivalent electrical quadripole are
+    determined for flexural modes of some circular chladnis plate
+    type resonators application to stabilization of sinusoidal
+    oscillators is briefly described

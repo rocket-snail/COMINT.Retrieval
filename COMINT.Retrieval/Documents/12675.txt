@@ -1,0 +1,7 @@
+the role and practice of reference statistics (in
+    chinese). reference statistics, an integral part of library
+    statistics, is a significant element in performance evaluation,
+    budget allocation, and short term and long-range planning in a
+    library. highlights some important aspects of collecting,
+    analysing and applying reference statistical information, from
+    a practical point of view.

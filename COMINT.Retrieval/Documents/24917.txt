@@ -1,0 +1,9 @@
+dynamical structure of the ionospheric f layer formulae
+    giving diffusion velocity and its divergence are derived for
+    the electron ion gas in the ionosphere on the assumption of a
+    linear temperature gradient the change in electron density
+    distribution is then calculated using these formulae for
+    different models of the ionosphere comparisons of the
+    calculated and observed changes in the f layer show that
+    bradburys rather than chapmans theory is more
+    appropriate

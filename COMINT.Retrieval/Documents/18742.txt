@@ -1,0 +1,4 @@
+feedback amplification improves hall effect multipliers a
+    transistor feedback amplifier supplies a field coil current in
+    phase with the input signal a dc component is added to increase
+    the common mode signal rejection

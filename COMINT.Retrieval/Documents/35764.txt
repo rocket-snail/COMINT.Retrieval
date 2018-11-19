@@ -1,0 +1,10 @@
+general expression for the conductivity tensor and for
+    the dielectric tensor in an ionized medium various applications
+    hall effect and generalization of langevins formula for
+    mobility a calculation to a first order of approximation is
+    made of the distribution function for electrons in an ionized
+    gas exposed to crossed magnetic and electric fields the rate of
+    diffusion of the electrons is deduced and expressions are
+    derived for the conductivity and dielectric tensors in a later
+    paper the formulae obtained are to be discussed and compared
+    with those established by huxley of

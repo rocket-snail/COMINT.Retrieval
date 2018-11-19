@@ -1,0 +1,9 @@
+extension of the possibilities of filter circuit
+    construction by means of regions of imaginary characteristic
+    impedance in the pass bad and regions of real characteristic
+    impedance in the stop band the choice of filters with
+    favourable transient characteristics the design of networks
+    with the desired characteristics for pulse shaping circuits is
+    based on an analogue computer method of examples are given of
+    filters with idel idealized response or with transfer function
+    approximated by polynomials

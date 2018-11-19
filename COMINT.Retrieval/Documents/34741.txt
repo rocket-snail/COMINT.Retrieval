@@ -1,0 +1,10 @@
+active error feedback and its application to a specific
+    driver circuit feedback amplifiers are discussed in which the
+    feedback signal is nominally equal to the input the difference
+    which is proportional to the distortion or error in the output
+    is amplified in s a separate circuit and reinjected with the
+    proper polarity to reduce the output error analysis is given
+    for a cathode follower circuit incorporating this principle the
+    arrangement is especially suitable for driving the grid of an
+    output valve highly positive experimental results support the
+    theory

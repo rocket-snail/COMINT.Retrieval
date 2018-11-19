@@ -1,0 +1,10 @@
+correlation between the mean level of atmospherics and
+    the degree of intelligibility in a kilometre wave radio link
+    measurements made on june at the laboratoire national de radio
+    electricite using a wavelength of are reported the signalling
+    speed was words min and the signal strength at the receiver a
+    vertical aerial was used and atmospherics were received
+    simultaneously with the signal the numbers of wrong or
+    indecipherable figures and letters received are indicated on a
+    graph of mean field strength of atmospherics plotted against
+    hour of day good correlation is observed

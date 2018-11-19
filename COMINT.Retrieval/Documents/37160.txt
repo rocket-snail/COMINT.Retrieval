@@ -1,0 +1,18 @@
+database communication in a heterogenous database
+    management system network. an architectural approach is
+    outlined, to fulfil the need for an integrated data base
+    communication system able to support any user in any network
+    node, without incurring mass migration of data. a global query
+    translator processes queries into a global conceptual model of
+    information content, and a global internal model of data to
+    form an access-path oriented model of the structure of the
+    integrated system. sub-queries are formed using a query
+    decomposer and access path selectors, and are translated into
+    the data base language. the role of layers and mappings in the
+    proposed architecture is defined between the virtual model and
+    the local physical data base. the entity-relationship and
+    diam-sddt models are described and compared with general data
+    base management systems. an example of an integrated network
+    heterogenous data base is followed by a description of
+    inter-data base relationships in the unified global conceptual
+    model.

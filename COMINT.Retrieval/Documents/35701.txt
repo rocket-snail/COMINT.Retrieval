@@ -1,0 +1,9 @@
+word processor (hermes wp-6000) and its application to
+    library work. a word processor, hermes wp-6000, was installed
+    in tokyo metropolitan gerontology center library in feb 80.
+    detailed descriptions are provided for the system components,
+    which include a crt displayer, disk drive, keyboard, a printer
+    and a floppy disk. the library applications of word processors
+    are explored in the area of catalogue card production, book
+    catalogue production, and current foreign serial record
+    maintenance.

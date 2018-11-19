@@ -1,0 +1,4 @@
+the magnetic ring modulator and demodulator advantages
+    and disadvantages are outlined with reference to the equivalent
+    circuit and to a practical modulator for use with a carrier
+    frequency

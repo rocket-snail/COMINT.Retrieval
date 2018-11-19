@@ -1,0 +1,12 @@
+mechanism of the synchronization of lc oscillators the
+    pulling effect on the phase a and frequency of an lc oscillator
+    due to interference is considered the phase change is
+    calculated for the case of a single interfering pulse a series
+    of equidistant pulses and a sinusoidal voltage interfering
+    pulses occurring at an oscillator voltage peak affect the
+    amplitude those occurring at zero voltage cause a change in
+    phase only these phase changes are permanent a differential
+    equation relating oscillator voltage phase deviation time peak
+    oscillator voltage and the magnitude of the interference
+    current is solved and the conditions for synchrononism are
+    obtained

@@ -1,0 +1,5 @@
+allowed and forbidden regions in the motion of
+    electrically charged particles in axially symmetric magnetic
+    fields diagrammatic methods are applied to the case of motion
+    in the field of a magnetic dipole and of a circular line
+    current

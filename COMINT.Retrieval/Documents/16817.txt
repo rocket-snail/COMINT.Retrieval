@@ -1,0 +1,6 @@
+the phased superposed epoch method of analysis and an
+    application to geomagnetic activity a method is described in
+    which geomagnetic activity variations are analysed by grouping
+    the data according to their phases increasing decreasing or no
+    change as determined by considering the characteristics for
+    pairs of successive days

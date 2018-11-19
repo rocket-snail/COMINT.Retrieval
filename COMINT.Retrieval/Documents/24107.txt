@@ -1,0 +1,8 @@
+fishers gyromagnetic effect observed in a body placed in
+    a waveguide the component of magnetization produced in a
+    ferrite perpendicular to the plane of a rotating magnetizing
+    field may be detected in an ellipsoidal specimen placed in a
+    waveguide excited in the h mode the theory and experiments
+    which gave negative results were discussed by fisher on the
+    effect can be used in determining magnetic fields at very high
+    frequencies

@@ -1,0 +1,8 @@
+space charge waves in cylindrical plasma columns the
+    existence of space charge waves in stationary plasmas of finite
+    cross section has been demonstrated theoretically and
+    experimentally in addition to forward waves a plasma can
+    support backward waves when there is a finite axial magnetic
+    field this makes possible the design of a back ward wave
+    oscillator in which the plasma is the slow wave circuit other
+    possible applications are noted

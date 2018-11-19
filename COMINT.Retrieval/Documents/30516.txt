@@ -1,0 +1,7 @@
+the motion of an artificial satellite in the noncentral
+    field of terrestrial gravitation in the presence of atmospheric
+    resistance the orbit of a fictitious satellite of weight kg and
+    diameter has been calculated in four hours using an electronic
+    computer the perigee revolves around the earth times in days
+    the ascending node regresses in the direction opposite to the
+    earths rotation at a rate of about per day

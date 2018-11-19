@@ -1,0 +1,7 @@
+the phase bistable transistor circuit properties of
+    transistor switching circuits are discussed a unit is described
+    which comprises a commutating ring of two transistors each
+    connected as a one shot multi vibrator the two being
+    alternately triggered by a series of clock pulses the
+    arrangement is used in a binary counter with a clock pulse
+    frequency of

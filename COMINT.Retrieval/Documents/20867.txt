@@ -1,0 +1,3 @@
+parametric amplification with transistors a note on the
+    operation and characteristics of a parametric amplifier using
+    transistors operating beyond cut off frequency

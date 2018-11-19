@@ -1,0 +1,3 @@
+zener diodes stabilize tube heater voltages typical
+    applications of zener power diodes to the regulation of ac and
+    dc heater supplies are described

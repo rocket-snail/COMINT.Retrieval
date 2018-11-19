@@ -1,0 +1,5 @@
+lunar geomagnetic tides at kodaikanal tschus method has
+    been applied to the calculation of the lunar semi diurnal
+    variation of the horizontal intensity of the earths magnetic
+    field at kodaikanal the solar diurnal variation is also
+    determined

@@ -1,0 +1,10 @@
+the structure of the layer as deduced from its daily
+    variations observed variations in the region may be accounted
+    for by assuming that in consequence of the decrease with height
+    of the effective decay coefficient the maximum electron density
+    in the region is at a level above that of maximum electron
+    production and that vertical semidiurnal tidal drift is
+    nonuniform at the level of maximum electron production the rate
+    of production varies inversely as temperature an attachment
+    coefficient of at is indicated with a solar temperature
+    of

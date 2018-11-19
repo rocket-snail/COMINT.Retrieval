@@ -1,0 +1,12 @@
+magnetic tape service of viniti. reviews briefly some of
+    the data bases available in western europe and the usa (inspec,
+    biosis, metadex, cas etc). discusses the work of the major
+    producers of ussr data bases, amongst which are' the all-union
+    institute of scientific and technical information which
+    prepares machine readable versions of its information
+    publications; the central scientific research institute of
+    patent information and technical and economical studies which
+    processes patent information from comecon countries which is
+    included in the inpadoc database; and the all-union scientific
+    and technical information centre which produces data bases
+    containing information on theses and scientific reports.

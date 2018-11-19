@@ -1,0 +1,13 @@
+optical theory of thermal velocity effects in cylindrical
+    electron beams the present theory is based on a nonlaminar
+    optical model which treats thermal velocities as an integral
+    part of the motion a maxwellian distribution of initial
+    transverse velocities is assumed at the cathode and a first
+    order focusing theory is applied in order to calculate
+    trajectories at any point in the beam it is shown that whenever
+    a long beam is confined by a focusing field images of the
+    cathode are formed repeatedly along the axis when applied to
+    uniform magnetic focusing fields the theory predicts the
+    periodic formation along the axis of cathode images and
+    crossovers and a relative rotation of successive images such
+    effects have been reported

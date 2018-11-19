@@ -1,0 +1,9 @@
+a piezoelectric high pass filter a lattice filter is
+    considered whose special feature is the use of transformers in
+    its arms with crystals included in the secondary circuits the
+    main parameters of the filter are determined and formulae are
+    derived for calculating the resonances and antiresonance
+    frequencies of the arms a method is proposed for designing the
+    filter elements and for calculating its basic loss the
+    experimental curve of a filter designed in this manner shows a
+    sharp cut off

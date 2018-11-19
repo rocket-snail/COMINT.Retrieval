@@ -1,0 +1,3 @@
+an automatic graph plotter the adaptation of an analogue
+    plotting table for accepting input data in digital form is
+    described

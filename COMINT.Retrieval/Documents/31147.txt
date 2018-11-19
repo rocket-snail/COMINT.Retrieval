@@ -1,0 +1,13 @@
+noise discriminator for periodic signals the periodic
+    signal of any waveform is applied through a phase inverter to
+    one pair of terminals of a resistance bridge including two
+    diode rectifiers periodic pulses are applied to the other pair
+    of bridge terminals during each pulse the diodes are unblocked
+    and the signal passes to an integrating circuit with an
+    adjustable time constant if the pulse frequency is slightly
+    greater than the signal frequency the output obtained has the
+    waveform of the noise free input signal and a much lower
+    frequency random noise mains interference and any other
+    disturbance of a frequency which is not a multiple of the
+    signal frequency will not be reproduced the unit was designed
+    for use with nuclear magnetic resonance apparatus

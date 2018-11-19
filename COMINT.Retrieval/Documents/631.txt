@@ -1,0 +1,5 @@
+an analog computer for the solution of tangents a
+    modified wheatstone bridge arrangement is described permitting
+    computation of the tangents of angles between and only linear
+    elements are used the accuracy achieved is within part in the
+    design of plug in units is discussed

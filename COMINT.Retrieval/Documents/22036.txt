@@ -1,0 +1,5 @@
+time delay in high speed ferrite microwave switches
+    measurements indicate that for an x band switch using a rod of
+    a particular mg mn ferrite and actuated by a current pulse of
+    given magnitude and rise time the time delay of the switch is
+    about

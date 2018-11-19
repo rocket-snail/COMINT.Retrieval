@@ -1,0 +1,8 @@
+stability criteria for linear systems and realizability
+    criteria for rc networks a new set of stability criteria in
+    linear systems is drived about half of the hurwitz criteria can
+    be neglected when certain of the coefficients of the
+    characteristic equation are positive the conditions for
+    realizability of rc networks are closely related to the
+    stability and aperiodic criteria and are given in the form of
+    polynomial coefficients

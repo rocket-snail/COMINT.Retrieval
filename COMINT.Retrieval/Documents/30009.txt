@@ -1,0 +1,7 @@
+transistors and saturable core transformers as square
+    wave oscillators the use of transistors as switches for the dc
+    supply to saturable core transformers is described and it is
+    shown that by this means small and efficient convertors and
+    invertors can be constructed the common base common emitter and
+    common collector configurations are considered and methods of
+    obtaining a multiphase output are described

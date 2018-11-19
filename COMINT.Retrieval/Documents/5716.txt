@@ -1,0 +1,7 @@
+energy considerations for growth and decay transients in
+    a simple resonator circuit analysis is presented for a series
+    circuit values of current voltage being determined in terms of
+    the characteristic resistance the solution of the differential
+    equations is simplified by taking the energy of the circuit as
+    the basic time variable since this is fixed by thinintial
+    conditions

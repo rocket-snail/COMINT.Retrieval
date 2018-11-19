@@ -1,0 +1,15 @@
+an associative file store using fragments for run-time
+    indexing and compression. an associative file store (afs) is
+    offered as a simple solution to current problems with on-line
+    information retrieval systems. it would be a single-instruction
+    multiple-data stream machine, dedicated to associative file
+    searching while overall control of the system would be
+    entrusted to a conventional single-instruction single-data
+    stream machine. the associative parallel processor (a major
+    component of afs) would support 'on-the-fly' file searching and
+    simplify the indexing problems of directly accessing single
+    records to that of indicating the most probable scan block for
+    a high recall of matching records. initial considerations
+    suggest that afs would out-perform conventional file stores by
+    over 2 orders of magnitude, be simple to maintain, and offer
+    full free-text retrieval flexibility.

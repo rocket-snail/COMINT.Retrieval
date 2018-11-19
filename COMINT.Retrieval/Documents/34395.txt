@@ -1,0 +1,14 @@
+new telecommunication services and network architecture'
+    a tentative survey. briefly surveys events during the last 10
+    years which show an increased interpenetration of the
+    telecommunications and information processing worlds. considers
+    technical work at the international organization for
+    standardization and ccitt (international telegraph and
+    telephone consultative committee, part of the international
+    telecommunication union) on the definition of a model of
+    network architecture, its advantages, and its limitations. lays
+    special emphasis on the definition of a network-independent
+    data transmission service, now a key issue in the world of
+    standards. indicates how new telecommunication services (such
+    as teletex, fax, and videotex) may be accommodated in france
+    over the next few years.

@@ -1,0 +1,7 @@
+the response of a tuned circuit to a ramp function a ramp
+    function is defined as one whose value increases linearly up to
+    a certain point and then remains constant response curves are
+    shown for a parallel tuned lrc circuit subjected to a linearly
+    increasing driving force ramp voltages with various rise times
+    in each case curces are given for circuit q values of
+    and

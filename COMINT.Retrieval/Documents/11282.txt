@@ -1,0 +1,10 @@
+effect of an electric field on a continuously excited
+    phosphor when an alternating electric field is applied to a zns
+    cu phosphor excited to steady state luminescence a momentary
+    increase of luminescence is observed with a subsequent drop and
+    a slow change to a new steady state a periodic intensity ripple
+    of double the field frequency e being superposed switching off
+    the field generally results in a new momentary intensity with
+    subsequent gradual return to the initial value these effects
+    are explained on the basis of theory given by randall and
+    wilkins of

@@ -1,0 +1,7 @@
+reflection of electromagnetic waves from a plasma moving
+    in slow wave waveguides report of an experimental investigation
+    carried out at using a a helix slow wave structure to reduce
+    the phase velocity of the waves to the double doppler effect
+    observed in reflection from a plasma piston increased the
+    frequency by application of the effect for microwave
+    amplification and frequency multiplication is indicated

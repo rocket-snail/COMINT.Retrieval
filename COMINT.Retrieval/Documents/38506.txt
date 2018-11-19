@@ -1,0 +1,4 @@
+simple method for producing pulses of short duration and
+    large amplitude pulses of duration about and peak to peak
+    amplitude about are obtained from the tuned secondary of a
+    transformer in the cathode circuit of a thyratron

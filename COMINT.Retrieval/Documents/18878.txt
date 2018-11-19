@@ -1,0 +1,4 @@
+methods of evaluation of public library systems. reviews
+    techniques for evaluating the performance of public library
+    systems. interlibrary comparison methods are studied with
+    reference to a british library project (see 81/1927).

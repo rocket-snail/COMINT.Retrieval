@@ -1,0 +1,7 @@
+the representation of ladder network parameters through
+    continued fraction polynomials euler polynomials are used to
+    derive concise expressions for the transmission parameters of
+    linear ladder networks in terms of the branch and terminating
+    immittances a generalized form of the polynomials is helpful in
+    the design of reactively coupled multiple tuned narrow band
+    pass filters

@@ -1,0 +1,3 @@
+analysis of magnetic amplifier with diodes an analysis
+    restricted to amplifiers terminated in a resistive load and to
+    voltage waveforms typical of such amplifiers

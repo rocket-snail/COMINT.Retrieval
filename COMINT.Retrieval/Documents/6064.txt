@@ -1,0 +1,5 @@
+a note on calculating the total impedance of impedors
+    connected in parallel three methods one involving use of a desk
+    calculating machine and another use of a linear nomogram are
+    compared and contrasted from the point of view of speed and
+    accuracy

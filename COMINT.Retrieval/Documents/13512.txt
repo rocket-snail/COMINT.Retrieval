@@ -1,0 +1,7 @@
+a time sharing analog multiplier the circuit is based on
+    the same principle as that of broomall and riebman of accuracy
+    to within is achieved for a range of input voltages from to
+    when the comparator voltage lies between and depending on the
+    circuit arrangements multiplications per second were made
+    indicating the suitability of the circuit for time sharing
+    techniques but higher rates of operation seem possible

@@ -1,0 +1,14 @@
+serial acquisition as a capital budgeting problem.
+    examines the costs and benefits of purchasing periodicals on a
+    1-year versus a 3-year subscription basis. the decision problem
+    is viewed as a capital budgeting problem where the objective is
+    cost minimisation over a 6-year time span. the variables
+    considered critical to the decision include cost of capital,
+    subscription reorder cost facing the library, annual rate of
+    change of subscription rates, and ratio of 3-year to 1-year
+    subscription costs. the model was developed and applied with
+    the assistance of library managers at the university of
+    rochester. results of the study indicate that, even under those
+    conditions most favourable to maintaining a 1-year subscription
+    policy, substantial savings can accrue by shifting to a 3-year
+    subscription policy.

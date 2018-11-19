@@ -1,0 +1,5 @@
+radiation from a modulated electron beam with a plasma
+    background expressions are derived for the electromagnetic
+    radiation of current modulated electron beams which emerge from
+    a plasma simple expressions are derived in the case where the
+    dielectric constant of the plasma is zero or infinity

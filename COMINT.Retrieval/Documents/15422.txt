@@ -1,0 +1,5 @@
+some measurements of atmospheric noise levels at low and
+    very low frequencies in canada values are expressed in terms of
+    mean noise power and are compared with predictions effects of
+    location of source and propagation conditions are discussed
+    amplitude frequency curves are studied in detail

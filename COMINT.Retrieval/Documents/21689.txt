@@ -1,0 +1,4 @@
+particle transport electric current and pressurehe
+    problem discussed by tonks is treated without detailed analysis
+    of particle trajectories qualitatively similar results are
+    obtained

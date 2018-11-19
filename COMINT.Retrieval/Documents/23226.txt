@@ -1,0 +1,9 @@
+the uk's prestel adopted as international standard. ccitt
+    study groups have adopted the british prestel as a recommended
+    international standard for viewdata systems. the french system,
+    teletel, has also been recognised as an international standard.
+    standardisation work has involved 2 study groups, 1 dealing
+    with the service aspects and the other covering technical
+    issues relating to viewdata. included are details of this
+    standardisation work and a note of the 4 kinds of viewdata
+    system recognised by the study groups.

@@ -1,0 +1,14 @@
+teleordering-a luxury?. paper presented at the public
+    libraries group weekend school. the author is a director of
+    h&a john (booksellers) ltd. discusses the implementation
+    and operation by a uk bookseller of software sciences
+    teleordering, a computer based communication system between
+    booksellers and publishers using isbns. gives brief technical
+    details of the hardware used, and describes a typical operation
+    sequence. shows that teleordering is an easy to use and
+    efficient means of sending orders and hopefully eventually,
+    cancellations and possibly chasers. notes some of the
+    implications of teleordering for librarians, particularly the
+    better service on supply of books and of reports. suggests that
+    the booksellers association and the library association should
+    consider the possible uses of teleordering together.

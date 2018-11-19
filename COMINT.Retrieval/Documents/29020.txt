@@ -1,0 +1,11 @@
+amplifier stages with transitionally coupled two stage
+    band pass filters particularly for large bandwidths the
+    amplitude and group delay characteristics of an amplifier stage
+    consisting of two coupled circuits are analysed for the case
+    when the amplification is constant over a wide frequency band
+    transitional coupling the case when the damping factors d and d
+    of the two circuits are equal is considered first and formulae
+    are also given for the cases of either d or d tending to zero
+    formulae are also given for transforming a filter with indirect
+    inductive coupling into one with direct inductive coupling
+    design curves are shown

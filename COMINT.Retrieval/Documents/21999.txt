@@ -1,0 +1,5 @@
+control of the ionosphere by means of radio waves a note
+    on the possibility of using radio waves near the gyrofrequency
+    of electrons in the ionosphere to control the electron
+    temperature and hence the rates of diffusion attachment and
+    recombination

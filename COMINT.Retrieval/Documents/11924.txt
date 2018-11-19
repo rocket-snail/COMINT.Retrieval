@@ -1,0 +1,5 @@
+dead programmes for a magnetic drum automatic computer
+    breakdown due to a wrong instruction can be prevented by
+    blocking part of the magnetic drum memory for writing and
+    placing in this dead part standard sub programmes which occur
+    frequently

@@ -1,0 +1,6 @@
+the wang mailway electronic mail and messaging. the
+    customer's need for an electronic message system or a document
+    message system or a document distribution system is considered.
+    the wang mailway system is discussed. the system architecture,
+    with the network topology and types of data transmitted, is
+    described.

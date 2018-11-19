@@ -1,0 +1,4 @@
+the vector field proton magnetometer for i g y satellite
+    ground stations vector magnetic field measurements of high
+    accuracy can be obtained by applying homogeneous bias fields to
+    a proton precessional magnetometer

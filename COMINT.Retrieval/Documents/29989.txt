@@ -1,0 +1,5 @@
+a particular mode of relaxation oscillations in a triode
+    valve operation of an arrangement witha very high resistance
+    between the grid and the point of application of grid voltage
+    is discussed the characteristic is two valued giving rise to
+    relaxation oscillations

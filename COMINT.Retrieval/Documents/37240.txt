@@ -1,0 +1,7 @@
+analysis of series connected saturable reactor with
+    capacitive loading and finite control resistance by use of
+    difference equations observation of transients in the series
+    connected saturable reactor with high impedance control source
+    details are given of apparatus for observing the effects of
+    transients introduced into a reactor operating in the
+    proportional mode

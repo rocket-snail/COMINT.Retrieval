@@ -1,0 +1,12 @@
+waves in a plasma in a magnetic field an analysis of the
+    small amplitude oscillations of a fully ionized quasi neutral
+    plasma in a uniform externally produced magnetic field no self
+    excitation of waves around thermal equilibrium is predicted in
+    contrast to the results of gordeyev for longitudinal electron
+    oscillations propagated perpendicularly to the constant
+    magnetic field there are gaps in the spectrum of allowed
+    frequencies at multiples of the electron gyration frequency but
+    zero landau damping when the ion dynamics are included two
+    classes of low frequency oscillations are found and the results
+    for the propagation of em waves in an ionized atmosphere are
+    also derived

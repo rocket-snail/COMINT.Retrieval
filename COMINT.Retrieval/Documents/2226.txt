@@ -1,0 +1,7 @@
+fonofax sf' an automatic document transmission system.
+    the british post office has recently completed development of
+    an advanced store and forward facsimile terminal. it provides
+    for fast document loading and storage, has many sophisticated
+    facilities and offers a service with high integrity.
+    transmission is effected using standard facsimile methods to
+    ensure maximum compatibility with existing equipment.

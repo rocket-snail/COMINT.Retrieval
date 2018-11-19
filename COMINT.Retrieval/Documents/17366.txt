@@ -1,0 +1,10 @@
+radar methods of measuring the cislunar electron density
+    six related techniques for measuring the integrated electron
+    density between the earth and the moon are discussed these are
+    based on the determination of the group retardation suffered by
+    low frequency radar echoes very high peak power pulse technique
+    or very high equipment stability cw technique would be required
+    to measure absolute radar range but this difficulty can be
+    avoided by sending a reference signal with the measuring signal
+    the effects of path splitting electron blobs and lunar surface
+    irregularities are considered

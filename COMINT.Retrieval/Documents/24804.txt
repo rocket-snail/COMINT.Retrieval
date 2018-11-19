@@ -1,0 +1,5 @@
+on the origin of vlf noise in earths exosphere the
+    primary cause of vlf noise in the exosphere is cerenkov
+    radiation due to high speed protons the natural thermal noise
+    and proton cyclotron radiation effects are considered to be
+    secondary noise sources

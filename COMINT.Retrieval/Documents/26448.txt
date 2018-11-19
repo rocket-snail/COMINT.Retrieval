@@ -1,0 +1,6 @@
+a derivation of generalized microscopic electrodynamic
+    equations non relativistic maxwells equations and the
+    constitutive relations are derived from the classical
+    microscopic theory without making use of extensive assumptions
+    so that the effects of the higher order electric and magnetic
+    moments are retained in the equations

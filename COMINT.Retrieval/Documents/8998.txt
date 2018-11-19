@@ -1,0 +1,3 @@
+stabilized voltage supplies using transistors two
+    completely transistorized circuits producing from a dc
+    supply

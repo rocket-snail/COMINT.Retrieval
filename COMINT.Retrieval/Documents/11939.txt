@@ -1,0 +1,8 @@
+amplification using a precessing magnetic moment an
+    account is given of the analysis of an arrangement in which two
+    tuned circuits are coupled to a precessing magnetic moment it
+    is shown that with where and are the resonance frequencies of
+    the circuits and the precession frequency useful amplification
+    can be obtained in the course of the analysis the bloch
+    equations are solved to a higher order in approximation than is
+    usual parametric amplification of the fast electron wave

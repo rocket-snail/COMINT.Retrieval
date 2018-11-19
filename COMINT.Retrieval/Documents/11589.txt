@@ -1,0 +1,3 @@
+a simple method for the supervision of the orbital period
+    of artificial satellites a graphical method of detecting
+    changes in orbital period on progression charts

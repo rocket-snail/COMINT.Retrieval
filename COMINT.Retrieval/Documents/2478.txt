@@ -1,0 +1,4 @@
+the four circuit filter with coupled circuits of equal
+    resonance frequency the properties of the circuit are analysed
+    and compared with those of two stage and three stage
+    filters

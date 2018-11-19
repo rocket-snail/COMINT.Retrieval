@@ -1,0 +1,4 @@
+common emitter amplifier the medium frequency performance
+    of common emitter amplifiers is examined in terms of the simple
+    equivalent circuit for a transistor formulae enabling the best
+    type of transistor to be selected are derived

@@ -1,0 +1,14 @@
+essential similarity and relations between amplitude and
+    phase distortions in video amplifiers in the complex method of
+    e representation the transmission function of a video amplifier
+    for steady oscillations can be regarded as the sum of an ideal
+    transmission function and an error function the error function
+    is applied in investigating the relations between an arbitrary
+    transmission function with superposed amplitude and phase
+    errors and the associated distortions for the minimum phase
+    shift condition the investigation gives an insight into the
+    physical relation between the distortions the formulae derived
+    are applied to determine the distortions for a sytem with a
+    tchebycheff type transmission function these distortions are
+    then compared with those for a system with a steady fall of
+    amplitude near the cut off frequency

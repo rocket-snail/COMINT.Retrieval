@@ -1,0 +1,10 @@
+tensor analysis of transistor feedback circuits theory is
+    presented for the grounded base circuit the coefficients of the
+    impedance matrix for the back coupled circuit are obtained by
+    multiplying those for the original circuit by certain
+    characteristic tensors derived from the relation between the
+    currents in the original and in the back coupled arrangements
+    particular conditions examined include current feedback
+    positive and negative voltage feedback and other arrangements
+    involving two feedback paths applicability of the duality
+    principle is discussed

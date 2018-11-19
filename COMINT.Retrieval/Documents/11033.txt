@@ -1,0 +1,4 @@
+two terminal rc networks and theoretically related topics
+    a derivation of the properties of the principal minors f
+    successive orders of the nodal determinant of a lumped linear
+    rc network see also below

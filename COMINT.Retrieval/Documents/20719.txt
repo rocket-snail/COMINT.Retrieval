@@ -1,0 +1,8 @@
+transistor oscillators the characteristics of transistor
+    oscillators are established by analysis in which the
+    conductance form of the transistor equations is used the
+    following circuits are considered transistor with frequency
+    determining quadripole and overall feedback as in but with
+    transformer coupling between transistor and quadripole
+    transistor oscillator with a arrangement of three parallel
+    connected tuned circuits

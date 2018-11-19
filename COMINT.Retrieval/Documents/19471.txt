@@ -1,0 +1,3 @@
+muf factor and solar activity an analysis of ionospheric
+    data for delhi and ahmedabad indicates that a linear relation
+    exists between and the sunspot number for both places

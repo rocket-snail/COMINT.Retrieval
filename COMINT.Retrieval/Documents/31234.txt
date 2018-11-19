@@ -1,0 +1,9 @@
+maximum power transfer in transistor amplifiers the
+    theoretical treatment of transistor amplifier performance is
+    simplified by restricting consideration to the condition of
+    maximum power transfer when it is possible to make a rapid
+    assessment of the available power gain for a particular
+    configuration in terms of the transistor parameters curves show
+    the relation between maximum power gain current gain and
+    transistor constants for grounded base and grounded collector
+    arrangements

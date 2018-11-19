@@ -1,0 +1,5 @@
+the shape of the geomagnetic field boundary under uniform
+    external pressure the shape of the cavity separating the
+    geomagnetic field from the inteplanetary plasma is calculated
+    numerically for an idealized model in which the plasma pressure
+    is assumed to be constant over the surface of the cavity

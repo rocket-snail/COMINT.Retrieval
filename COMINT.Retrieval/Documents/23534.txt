@@ -1,0 +1,10 @@
+automated information & referral at pikes peak
+    library. paper presented at a seminar 'community information in
+    the 80's' towards automation of information and referral files'
+    at the 1980 american library association annual conference.
+    describes the automation of pikes peak library's 4 community
+    information files; call, a list of social service agencies;
+    clubs, clubs and social organisations; courses, educational and
+    recreational courses; and calendar, a list of cultural events
+    in the area. the files function as one system with on-line
+    access.

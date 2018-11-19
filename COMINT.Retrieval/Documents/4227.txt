@@ -1,0 +1,6 @@
+constant amplitude oscillator a circuit developed by nc
+    hekimian comprises a conventional oscillator whose rectified
+    output is applied as a positive voltage to the grid of a clamp
+    valve which shares the voltage dropping resistance in the
+    oscillator anode supply lead for a more detailed account see
+    electronics

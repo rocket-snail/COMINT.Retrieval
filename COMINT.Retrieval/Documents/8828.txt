@@ -1,0 +1,4 @@
+control apparatus for a serial drum memory a detailed
+    circuit description of equipment used for obtaining design data
+    for fast track switching on a serial drum magnetic storage
+    device

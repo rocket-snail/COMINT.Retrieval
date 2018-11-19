@@ -1,0 +1,5 @@
+transistorizing electronic equipment a general discussion
+    of semiconductor devices giving tabulated data on ge and si
+    diodes and transistors specifications of associatted
+    thermistors capacitors and batteries and a note on the
+    construction of solid circuits

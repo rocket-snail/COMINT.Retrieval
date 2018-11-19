@@ -1,0 +1,11 @@
+a backend machine architecture for information retrieval.
+    describes progress to date in the development of backend
+    machine architecture for large textual data bases or
+    information retrieval systems. outlines the use of high-speed
+    pattern matching, string processing, and other non-numeric
+    operations for the basic search module. the investigators have
+    also used a structured approach and functional separation of
+    the parts of the backend machine directly related to the
+    high-level query language, which combines a limited amount of
+    inversion with serial high-speed text processing in a parallel
+    and distributed fashion.

@@ -1,0 +1,5 @@
+tentative recommendations for the definition z and
+    testing of the dynamic performance of analogue to digital
+    converters methods of classifying specifying and testing shaft
+    position and analogue voltage digital converters are
+    suggested

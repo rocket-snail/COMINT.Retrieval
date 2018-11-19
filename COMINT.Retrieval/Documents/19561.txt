@@ -1,0 +1,7 @@
+generation of very low frequency noise in the exosphere
+    by the cerenkov effect the cerenkov effect produced by
+    relatively slow moving particles of solar origin is considered
+    as a possible mechanism for the generation and propagation of
+    vlf noise the theory is briefly discussed in relation to a
+    travelling wave tube model proposed by gallet of to explain
+    similar vlf emissions

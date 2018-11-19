@@ -1,0 +1,5 @@
+circuits for forming pulses from a sinusoidal voltage
+    using a relatively low supply voltage circuits are considered
+    which have a number of advantages over multivibrator and
+    trigger circuits valve transistor or hybrid circuits can be
+    used

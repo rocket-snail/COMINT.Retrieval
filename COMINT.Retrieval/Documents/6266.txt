@@ -1,0 +1,7 @@
+a novel microwave attenuator using germanium the device
+    comprises a thin rectangular slab of ge set obliquely across a
+    waveguide with current leads attached to the two ends and a
+    magnetic field applied parallel to the face of the slab so as
+    to control the concentration of current carriers as described
+    by weisshaar and welker of attenuation of db was obtained with
+    a pulsed control current of

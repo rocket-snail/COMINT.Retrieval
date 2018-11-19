@@ -1,0 +1,10 @@
+alternatives for library catalogues' tools for catalogue
+    planning. many libraries are examining the current state of
+    their catalogues and the impact of various alternatives for
+    their future. presents 2 tools which may be useful in such
+    studies' (1) a checklist of the wide variety of things that
+    should be taken into account when looking at the catalogue as a
+    system and as the result of a complex set of ongoing activities
+    and (2) a table setting out some possible options that could be
+    considered in the face of the implementation of aacr2 and some
+    criteria against which to measure these options.

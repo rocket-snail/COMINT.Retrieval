@@ -1,0 +1,7 @@
+magnetic pulse modulators mathematical analyses are given
+    of and charged series type saturable reactors for generating
+    pulses in radar systems automatic core resetting is achieved
+    the production of pulses of duration and the prevention of
+    parasitics in the output are discussed and a circuit is
+    described enabling the thyratron cathode in a charged modulator
+    to be operated at ground potential

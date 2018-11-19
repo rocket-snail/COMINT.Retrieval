@@ -1,0 +1,4 @@
+the elliott sheffer stroke static switching system a
+    system is described in which interconnections between a number
+    of logic elements all of the same type the sheffer stroke
+    permit any logical configuration or switching sequence

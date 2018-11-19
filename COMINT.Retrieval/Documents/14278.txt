@@ -1,0 +1,6 @@
+a wide band voltage controlled swept frequency rc
+    oscillator oscillators based on the principle of parallel
+    network tuning are examined new equipment using this principle
+    is described in detail frequency variations can be restricted
+    to any limits in the range and the maximum duration of the
+    sweep cycle can be varied from to min

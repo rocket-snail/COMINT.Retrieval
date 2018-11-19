@@ -1,0 +1,13 @@
+the computerization project of the natal provincial
+    library and museum services' contributions by the staff of the
+    library services and the computer bureau of the administration.
+    part 1. in 1974 the director of the natal provincial library
+    and museum services division requested an investigation into
+    computerisation of the provincial library catalogue. a
+    feasibility study recommended the development and
+    implementation of a library catalogue maintenance system
+    entailing the use of a marc library software package, its
+    further development to cater for book ordering and preparation,
+    and a further study of the use of com as a medium for the
+    catalogue. describes the implementation of the recommendations
+    and problems encountered.

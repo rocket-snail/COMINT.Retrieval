@@ -1,0 +1,3 @@
+the freiburg radio spectrograph the design of the solar
+    spectrograph described is based on that of wild and
+    mccready

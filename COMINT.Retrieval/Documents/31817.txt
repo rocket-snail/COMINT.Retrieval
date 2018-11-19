@@ -1,0 +1,5 @@
+a new circuit for balancing the characteristics of pairs
+    of valves both static and dynamic characteristics of a pair of
+    valves are balanced by adjusting the heater voltages by means
+    of a potentiometer of a few ohms resistance in series with the
+    heater supply circuit

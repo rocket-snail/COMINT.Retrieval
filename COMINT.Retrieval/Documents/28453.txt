@@ -1,0 +1,5 @@
+average prices of british academic books. tabulates the
+    average 1980 prices of uk academic books, including a price
+    index for 1974-80 (using 1974 as the base year). the books are
+    subdivided into 45 subject categories and aggregated in each
+    dewey main class.

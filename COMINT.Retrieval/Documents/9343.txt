@@ -1,0 +1,7 @@
+data base management. january, 1975-may, 1981 (citations
+    from the international information service for the physics and
+    engineering communities data base). bibliography covers
+    research and development of software packages and
+    implementation of data base management systems into various
+    information systems. also considered are guidelines for the
+    optimisation and modelling of data bases.

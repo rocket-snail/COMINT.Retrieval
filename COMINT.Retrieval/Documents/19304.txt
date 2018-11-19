@@ -1,0 +1,9 @@
+electromagnet oscillations in a parabolic tube as a
+    particular case of the interactions of tow cavities through a
+    throat free oscillations in a tube of parabolic profile and
+    rectangular cross section are considered the tube is regarded
+    as consisting of two cavities interacting through the throat
+    the wave equation is derived and solutions are found for the
+    cases where the two cavities are identical and not identical
+    experimental results are in good agreement with the theoretical
+    conclusions

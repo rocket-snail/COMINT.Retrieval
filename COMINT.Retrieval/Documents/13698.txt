@@ -1,0 +1,6 @@
+state reference sources. the bibliography lists reference
+    sources and mentions if states have depository arrangements and
+    make their publications available in microformat. such
+    information is useful for developing collections of reference
+    sources and for identifying reference concepts applicable to
+    other states.

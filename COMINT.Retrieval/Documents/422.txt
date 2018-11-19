@@ -1,0 +1,11 @@
+small signal heterodyne mixers with excessive injection
+    amplitudes the theory of small signal heterodyne mixers
+    operating with very large injection potentials is described the
+    mixer properties investigated are the conversion
+    transconductance the relative amplitudes of the difference freq
+    ency and injection frequency components in the output and the
+    amplitude of the injection modulation frequency component in
+    the output in the case where the injection potential is
+    amplitude modulated to a small degree a set of universal
+    performance curves is obtained for mixers of a particular class
+    chosen to illustrate the method

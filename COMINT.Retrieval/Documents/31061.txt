@@ -1,0 +1,3 @@
+matching quadripoles design formulae are derived for ii
+    andt sections and groups of curves are given from which
+    practical design parameters can be obtained

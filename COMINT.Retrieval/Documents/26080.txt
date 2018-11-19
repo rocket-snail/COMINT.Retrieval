@@ -1,0 +1,5 @@
+long period variations in geomagnetic activity analysis
+    of data shows that correlation between the sunspot number and
+    the magnetic figure is markedly improved by taking means for
+    the year sunspot number cycle and for the year sunspot
+    magnetism cycle in place of annual means

@@ -1,0 +1,4 @@
+microcomputers or word processors in the library?.
+    describes the characteristics of microcomputers and word
+    processors, their advantages and disadvantages, existing
+    library applications, and possible further applications.

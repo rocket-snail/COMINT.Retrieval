@@ -1,0 +1,3 @@
+transistor beta phase shift oscillator a new oscillator
+    circuit is described whose performance is analysed
+    theoretically and confirmed by experiment

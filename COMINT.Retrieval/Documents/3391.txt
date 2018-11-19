@@ -1,0 +1,6 @@
+an extension of townsends approximation formula for
+    ionization in a homogeneous electric field the use of an
+    additional parameter improves the approximation and extends the
+    range of validity for lower field strengths a general
+    approximation formula is proposed for ionization dependent
+    simultaneously on both field strength and voltage

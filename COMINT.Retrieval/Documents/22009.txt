@@ -1,0 +1,5 @@
+stepping up frequency with counter circuits precise
+    frequency multiplication is achieved with digital feedback
+    counter divider circuits and a phase comparator the circuit
+    described multiplies frequencies between and by a factor of
+    with an error of

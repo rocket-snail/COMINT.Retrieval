@@ -1,0 +1,3 @@
+design of transistor i f amplifier detector stages with
+    stabilized band pass characteristics an extension of work
+    described earlier

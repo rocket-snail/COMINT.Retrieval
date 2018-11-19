@@ -1,0 +1,8 @@
+a note on the theory of semiconductors two different
+    theories are obtained depending on whether the free energy due
+    to the spin of electrons in impurity centres is or is not taken
+    into account the second of these alternatives is essentially
+    that adopted by wilson and has been used almost universally
+    though the first which is that adopted by mott and gurney
+    electronic processes in ionic crystals can be applied to
+    degenerate semiconductors and is to be preferred

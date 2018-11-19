@@ -1,0 +1,12 @@
+a panoramic ionospheric recorder for the study of
+    travelling disturbances in the ionosphere a description is
+    given of a recorder covering the frequency range in or sec this
+    is achieved by heterodyning an oscillator which is continuously
+    variable from to with a pulsed oscillator and amplifying the
+    resultant pulsed signal to provide the transmitter output the
+    same variable oscillator is used in the superheterodyne
+    receiver a block diagram of the recorder is given and typical
+    records are shown both single records on mm film and continuous
+    records on mm film moving at or in min can be made using cr
+    tubes with long and short persistence screens
+    respectively

@@ -1,0 +1,5 @@
+mode characteristics and coherence in optical ruby masers
+    a discussion of a series of interference experiments in which
+    oscillations are shown to occur at several different
+    frequencies corressponding to various numbers of half
+    wavelengths between the reflecting ends of the ruby

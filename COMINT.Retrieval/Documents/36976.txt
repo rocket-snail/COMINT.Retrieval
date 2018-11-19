@@ -1,0 +1,8 @@
+a new pulse analyzer design description with detailed
+    circuit diagrams of a single channel analyser which serves as
+    the basic design for multichannel analysers details being given
+    of a channel analyser positive pulses are accepted in the
+    amplitude range plus the sum of channel widths the width and
+    position of the channels can be changed quickly without
+    requiring recalibration the design is simple and relatively few
+    valves are required

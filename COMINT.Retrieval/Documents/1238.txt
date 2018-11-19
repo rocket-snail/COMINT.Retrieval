@@ -1,0 +1,6 @@
+predictions of cosmic ray storms from geomagnetic data
+    the need for simultaneous high altitude soundings and ground
+    observations during cosmic ray storms is established the times
+    of the sudden commencement of a geomagnetic storm and the
+    forbush decrease of cosmic ray intensity show insufficient
+    correlation for accurate predictions to be made

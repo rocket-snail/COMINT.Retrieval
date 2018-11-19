@@ -1,0 +1,8 @@
+ionospheric currents responsible for sudden commencements
+    observed at the geomagnetic equator the height and strength of
+    the line current which would account for the sc at two
+    equatorial stations is calculated for storms the height is
+    found to lie between and is independent of the local time of sc
+    a more realistic sheet current model is examined and is found
+    to be insensitive to height an explanation of enhanced at the
+    equator is given

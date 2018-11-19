@@ -1,0 +1,5 @@
+calculation of losses in transformer cores expressions
+    for core losses are developed which take account of the
+    nonuniformity in the flux distribution across the face of the
+    core plates the nonuniformity across the stack of plates is
+    neglected

@@ -1,0 +1,14 @@
+the romanization of cyrillic script. in terms of
+    published literature russian language material is 2nd only to
+    english language production. however, there is still no
+    generally accepted scheme in the western world for converting
+    cyrillic characters into roman script. transcription, by which
+    cyrillic characters are romanized into phonemes, gives good
+    results for pronunciation but leads to a number of alternative
+    spellings, whilst transliteration, by which a single roman
+    character is substituted for each cyrillic character leads to
+    pronunciation difficulties. with the growth in schemes for
+    catalogue automation it is essential that a solution is found
+    to this problem. research has shown that the iso standard
+    offers the best solution although this has unfortunately found
+    little favour in the usa and uk.

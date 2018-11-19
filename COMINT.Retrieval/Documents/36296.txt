@@ -1,0 +1,10 @@
+a travelling wave parametric amplifier a lossless
+    transmission line with periodically varying distributed
+    inductance and a constant distributed capacitance will support
+    a growing current wave for maximum amplification the oscillator
+    used for providing the periodic variation of inductance must be
+    synchronized with the incoming signal the noise figure of such
+    an amplifier should be very favourable an experimental
+    investigation is in progress and related schemes are being
+    studied in which precise frequency and phase relations are not
+    demanded

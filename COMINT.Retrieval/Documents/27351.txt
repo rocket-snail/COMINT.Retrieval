@@ -1,0 +1,2 @@
+comment on a theoretical comparison of average and spot
+    noise figure in transistor amplifiers comment on

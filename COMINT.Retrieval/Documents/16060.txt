@@ -1,0 +1,9 @@
+the impedance of shorted edge wound capacitors results on
+    the frequency variation of the impedance of this type of
+    capacitor obtained by leiterer are discussed using simple
+    mathematics the analysis is given first neglecting losses and
+    is then extended to take account of losses in the dielectric
+    and in the thin metal films eddy currents in the projecting
+    contact layer and in thicker metal foils are also taken into
+    account the method is used to determine the transfer impedance
+    of lead through capacitors

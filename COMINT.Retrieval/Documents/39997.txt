@@ -1,0 +1,4 @@
+voltage conversion with transistor switches the
+    conversion of a dc voltage to ac at high audio frequencies at
+    powers of is achieved using a circuit containing transistors
+    and modern magnetic core components

@@ -1,0 +1,5 @@
+on the cascaded tunnel diode amplifier a mid band
+    equivalent circuit of an artificial transmission line is
+    described for use with tunnel diodes in cascade amplifiers see
+    only one diode is needed in each stage and the shunt resistor
+    is an ordinary passive component

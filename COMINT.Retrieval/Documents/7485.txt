@@ -1,0 +1,13 @@
+four terminal networks a rigorous theory of passive
+    quadripoles in the steady state is presented the general
+    quadripole is regarded as consistent of n meshes and the
+    equations for the system as a whole are obtained by solving the
+    equations for the meshes iterative and image impedances are
+    obtained as properties of a single quadripole and a suitable
+    propagation function is associated with each pair of impedances
+    conditions in quadripoles in two types of cascade arrangement
+    can be deduced immediately from the equations for a single
+    quadripole tables are included giving expressions for the image
+    functions in terms of the iterative functions and vice versa
+    and giving the equations of the quadripole in terms of the
+    iterative and image functions

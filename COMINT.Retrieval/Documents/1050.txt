@@ -1,0 +1,3 @@
+potential of an electrostatic field and trajectories of
+    charged particles a procedure is described for calculating the
+    electric potential in the path of a charged particle

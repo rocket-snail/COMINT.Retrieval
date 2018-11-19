@@ -1,0 +1,5 @@
+stabilization and control of an electromagnet by means of
+    magnetic proton resonance long term magnetic field stability of
+    the order of is obtained by means of a proton resonance system
+    incorporating a magnetic field discriminator circuit and a
+    variable frequency transitron circuit

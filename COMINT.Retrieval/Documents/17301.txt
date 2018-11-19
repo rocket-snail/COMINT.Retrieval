@@ -1,0 +1,10 @@
+some techniques for network synthesis the synthesis of
+    immittances with two poles and two zeros is discussed cauers
+    continued fraction technique is generalized for use in
+    realizing rlc network immittances design procedure is developed
+    for a constant resistance ladder this nt network is shown to
+    have the same field of application as the conventional rlc
+    constant resistance bridge t but has the advantages of greater
+    flexibility and less complexity complicated transfer functions
+    may be realized in a chain of ladder sections having arm
+    immittances with only two poles and two zeros

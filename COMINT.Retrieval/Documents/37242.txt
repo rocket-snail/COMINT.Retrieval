@@ -1,0 +1,10 @@
+symmetrical quadripoles operated as asymmetrical
+    transformers a theoretical investigation is presented of the
+    behaviour of passive linear quadripoles in asymmetrical
+    operation the analysis is based on introduction of the
+    characteristic iterative impedance multisection band pass
+    filters with different output and input impedances are built up
+    with sections which have similar frequency characteristics and
+    phase constants but geometrically graduated impedances a
+    numerical example is given of a transformation for the
+    frequency band

@@ -1,0 +1,4 @@
+representation of propagation parameters for the plasma
+    in a magnetic field the effect of a dc magnetic field on the
+    properties of a uniform plasma for the propagation of em waves
+    is described using three dimensional models see also of

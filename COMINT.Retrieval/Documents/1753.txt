@@ -1,0 +1,4 @@
+growth of current between parallel plates analysis for
+    the initial stages of a discharge involving secondary electron
+    emission is presented in an alternative form to that given
+    previously

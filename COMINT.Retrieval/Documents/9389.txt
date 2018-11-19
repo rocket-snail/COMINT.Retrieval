@@ -1,0 +1,7 @@
+literature storage and retrieval system using a table-top
+    computer. a dialogue-program is described which handles
+    cross-references within a given set of keywords, author names,
+    journal names and specified reference numbers. it uses the set
+    of basic statements available in a wang 2200t version which is
+    connected to a floppy-diskette. the program has convenient
+    features for editing and processing of literature data.

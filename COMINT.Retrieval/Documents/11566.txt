@@ -1,0 +1,7 @@
+the influence of the surface states of electrons on the
+    optical properties of semiconductors and dielectrics the
+    reflection of em waves from a plane surface with electronic
+    surface conduction is considered for incidence angles close to
+    reflection increases with the angle when the electric vector is
+    parallel to the surface but decreases when the electric vector
+    is almost perpendicular to the surface

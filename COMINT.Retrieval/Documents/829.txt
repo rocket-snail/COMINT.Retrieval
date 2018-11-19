@@ -1,0 +1,4 @@
+a simple very low frequency oscillator amplitude
+    limitation is effected by a zener diode and a selective circuit
+    filters out the resulting harmonics giving amplitude
+    stabilization that is not frequency selective

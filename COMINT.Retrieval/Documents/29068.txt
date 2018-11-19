@@ -1,0 +1,5 @@
+determining component variation for gradual transition
+    between dissimilar impedances the problem is attacked by a
+    recursive method needing a minimum of numerical precision the
+    application to an acoustic absorption system is considered see
+    also

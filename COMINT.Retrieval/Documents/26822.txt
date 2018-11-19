@@ -1,0 +1,8 @@
+day to day and station to station correlation of
+    ionospheric f region critical frequencies the correlation of
+    simultaneous values at stations separated by in a north south
+    direction is found to have a semi diurnal variation the phase
+    of which varies with season results at a single station show an
+    important autocorrelation for values at the same time on
+    consecutive days and this is ascribed to magnetic
+    effects

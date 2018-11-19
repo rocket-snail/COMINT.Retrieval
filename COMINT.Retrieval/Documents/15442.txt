@@ -1,0 +1,11 @@
+the capacity and field of a split cylindrical condenser
+    using the method of inversion the complex potential of a split
+    cylindrical condenser is obtained by inversion of a known
+    simpler case expressions are obrained for the value of the
+    electrostatic field at points on the axes of symmetry the
+    surface density of charge on a conductor and the capacity of
+    the condenser the expressions obtained by adams using another
+    method are deduced as one of three special cases for which
+    tables and graphs are provided the results should prove of
+    value in the design of electrode systems for various
+    purposes

@@ -1,0 +1,4 @@
+photoelectric reader feeds business machines ordinary
+    print is scanned by a photocell and the resulting signals are
+    coded and recorded on punched cards or tape for input to
+    computers

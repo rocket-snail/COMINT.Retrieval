@@ -1,0 +1,3 @@
+theory of thermal conductivity of a plasma the treatment
+    is similar to that used previously for investigating the
+    electrical conductivity of plasma

@@ -1,0 +1,6 @@
+on parametric excitation with current saturable
+    inductances a a parametric amplifier circuit with an abrupt
+    nonlinearity is described a method of analysis of relaxation
+    oscillations leads to a physical understanding of the cycle of
+    oscillations and quantitative relations the stability problem
+    is also solved

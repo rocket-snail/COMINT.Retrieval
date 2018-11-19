@@ -1,0 +1,5 @@
+magnetic core memory cell with nondestructive read out
+    outline of a method of using different values of incremental
+    permeability of a dc biased magnetic core to obtain a binary
+    storage cell one of the possible applications is for visible
+    indication of binary states in magnetic shift registers

@@ -1,0 +1,4 @@
+the scattering of electronmagnetic waves by a corrugated
+    sheet the physical optics method is used to determine the
+    scattering of a plane wave by a perfectly conducting sheet
+    having sunusoidal corrugations

@@ -1,0 +1,4 @@
+perturbations in classical mechanics a method similar to
+    quantum mechanics time dependent perturbation theory is
+    described which might be useful in the calculation of satellite
+    orbits and plasma stability

@@ -1,0 +1,4 @@
+transistors theory and application part switching
+    circuits using the transistor counter circuits relaxation
+    oscillators etc using point contact transistors are
+    described

@@ -1,0 +1,5 @@
+the use of full wave solutions in the interpretation of
+    ionospheric absorption measurements a full wave correction is
+    given which can be made to the usual appleton hartree
+    absorption calculation examples show that for a frequency of
+    two mc s this correction cannot be neglected

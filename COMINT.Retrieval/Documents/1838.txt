@@ -1,0 +1,10 @@
+library journal and choice: a review of reviews.
+    discusses the methods by which library journal and choice
+    choose books for review and their reviewers. presents the
+    results of a computerised content analysis of 1,300 reviews
+    from each journal, randomly selected from issues published in
+    1978. concludes that key decisions are made by the editors
+    rather than the reviewers; reviews are relatively uncritical;
+    there is little difference between reviews by college teachers
+    and those by librarians; and that unsigned reviews are no more
+    critical than signed ones.

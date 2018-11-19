@@ -1,0 +1,7 @@
+the charge density near a sharp point on a conductor the
+    idea that surface charge tends to infinity at convex sharp
+    points on conductors and to zero at convace points is
+    investigated on electrostatic principles it is found that the
+    problem has not been solved a new attempt is made using
+    potential theory methods from which a fairly general solution
+    is obtained

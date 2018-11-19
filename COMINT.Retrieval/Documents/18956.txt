@@ -1,0 +1,5 @@
+selection of analogue variables by means of idealized
+    diodes diodes the circuits proposed for the selection of maxima
+    and minima in analogue computer applications introduce only
+    very small errors near the points of discontinuity of the
+    functions

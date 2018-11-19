@@ -1,0 +1,8 @@
+passage of charged particles through plasma a
+    phenomenological approach is used to examine the behaviour of a
+    dispersive plasma and determine its response to an external
+    disturbance in particular that created by a moving point charge
+    the validity of this approach is discussed an analysis is made
+    of the field and the polarization charge density produced by an
+    incident particle and the effectiveness of the plasma in
+    stopping the particle

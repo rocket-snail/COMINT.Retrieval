@@ -1,0 +1,22 @@
+the growth of the high frequency electrodeless discharge
+    the various stages in the growth of electrodeless discharges
+    are discussed in detail with particular consideration of
+    electron multiplication processes increase of the number of
+    positive ions and the effect of charges on the wall of the
+    discharge tube a new experimental technique for measuring the
+    discharge current is described in which the large capacitive
+    current across the external electrodes is balanced in a bridge
+    circuit so that when a discharge occurs the unbalanced voltage
+    after amplification and rectification can be used to give a
+    proportionate representation of the value of the discharge
+    current on a cro for measurement of the growth of the current
+    with time hf voltage pulses are applied to the discharge tube
+    and the timebase of the cro synchronized with the pulses
+    oscillograms show how the growth of current depends on the
+    pressure the nature of the gas the excess voltage and the
+    frequency of the applied field in the initial stage the
+    properties of the tube walls mainly control the multiplication
+    process and thus the starting field in the later stages the
+    properties of the gas become important and so determine the
+    total time of growth of the discharge for previous work see
+    of

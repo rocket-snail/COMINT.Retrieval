@@ -1,0 +1,7 @@
+the synthesis of optimum transient response criteria and
+    standard forms eight mathematical criteria for optimum
+    transient responses are critically examined and the clear
+    superiority of the minimum integral of time multiplied absolute
+    value of error is demonstrated the application of this
+    criterion results in the selection of standard forms which are
+    presented in tables see also of january

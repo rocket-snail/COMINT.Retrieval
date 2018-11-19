@@ -1,0 +1,8 @@
+a mathematical analysis of a dielectric amplifier the
+    fundamental principles of operation of dielectric amplifiers
+    are outlined and a basic circuit with resistive load is
+    analysed in detail it is assumed that the hysteresis curve of
+    the dielectric is represented by a hyperbolic sine function
+    expressions are calculated for the steady state input and
+    output currents and the time constant of the amplifier is
+    estimated from consideration of the transient response

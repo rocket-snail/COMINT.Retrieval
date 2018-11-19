@@ -1,0 +1,8 @@
+loci curve theory applied to high frequency networks the
+    application of the method is shown for the evaluation of such
+    response curves of four terminal networks as are produced by
+    the variation of one parameter examples are given of the
+    calculation of a wide band thermistor mount using a rectangular
+    admittance chart and the variation of the input reflection
+    coefficient with frequency of a given transformer using a smith
+    chart

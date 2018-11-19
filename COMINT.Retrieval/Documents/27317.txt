@@ -1,0 +1,2 @@
+calculation of the behaviour of sparks with resistance
+    and self inductance in the circuit

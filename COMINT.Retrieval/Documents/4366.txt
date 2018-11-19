@@ -1,0 +1,11 @@
+diffraction by two parallel planes of finite length the
+    diffracting system comprises a pair of parallel perfectly
+    conducting planes of infinite width and finite length an
+    incident em wave polarized perpendicular to the edges of the
+    planes is considered the theory thus applies equally to the
+    diffraction of a plane sound wave two integral equations are
+    derived approximate solutions are obtained for the condition an
+    equation is derived giving the value of for resonance of the
+    system this is solved approximately and a formula is given for
+    the end correction ie the difference between the resonant
+    length and

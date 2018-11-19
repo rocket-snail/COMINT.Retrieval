@@ -1,0 +1,8 @@
+cbf-computer handling of chemical and biological facts.
+    2. cbf is an edp-supported documentation and retrieval system
+    for structural formulas of defined organic compounds and their
+    biological activities. it fits the needs of a firm concerned
+    with drug research for prevailing unpublished internal data,
+    which the scientists can use for reflections on
+    structure-activity relationships and to search for lead
+    compounds with special activity profiles.

@@ -1,0 +1,6 @@
+ionization by positive ions a method of measuring the
+    ionization cross section of atoms is described in which
+    electrons are collected from single collisions of an ion beam
+    passing through a gas at low pressures measurements are given
+    for twenty three cases over energy ranges approximately and
+    to

@@ -1,0 +1,7 @@
+experimental study of the diffraction of microwaves by
+    rotationally symmetrical apertures measurements at have been
+    made using circular and annular apertures the results indicate
+    that diffraction calculations based on kirchhoffs approximation
+    are accurate to within at planes as close as twice the diameter
+    of the aperture the accuracy improving as the distance
+    increases

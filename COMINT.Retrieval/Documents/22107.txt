@@ -1,0 +1,7 @@
+rejection factor of difference amplifiers analysis shows
+    that the rejection factor of a differential amplifier can be
+    made arbitrarily large without necessitating pre selection of
+    valves or exact equality of the two halves of the circuit the
+    theory is supported by experimental results the parameter
+    termed rejection factor is the same as that termed transmission
+    factor by parnum

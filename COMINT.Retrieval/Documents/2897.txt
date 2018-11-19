@@ -1,0 +1,13 @@
+online access to the world transindex file. a data base
+    providing bibliographic information and the source for
+    translations of scientific and technical literature from
+    eastern europe and asia into western languages, world
+    transindex includes the information which was published until
+    1977 in the world index of scientific translations, transatom
+    bulletin, and bulletin of translations. it was established in
+    jan 78 using the pascal system of the centre national de la
+    recherche scientifique (cnrs), which permits the publication of
+    indexes by photocomposition as well as on-line searching. since
+    1975, cnrs has had on-line access to its own file of
+    translations; in 1978, searching was extended to the world
+    transindex file. report not available from ntis.

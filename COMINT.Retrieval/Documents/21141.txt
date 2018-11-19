@@ -1,0 +1,7 @@
+longitudinal magneto hydrodynamic waves alfvens theory
+    indicates that the velocity of sound waves in a conducting
+    fluid will be changed by application of a strong magnetic field
+    theory of this effect is presented for a fluid with finite
+    conductivity and is applied to predict effects that should be
+    obtained in propagation of sound in hg in a very strong field
+    in sea water under influence of the geomagnetic field

@@ -1,0 +1,5 @@
+theory of radiation a survey of the application of
+    quantum field theory to the interaction between charged
+    particles and the electromagnetic field within this domain it
+    is now possible to calculate any process with a precision olny
+    limited by the labour of the calculations

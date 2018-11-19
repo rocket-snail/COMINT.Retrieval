@@ -1,0 +1,10 @@
+calculated diffraction patterns of dielectric rods at
+    centimetric wavelengths calculations of the field behind the
+    cylinder are made for the case of a normally incident wave with
+    the electric vector parallel and perpendicular to the cylinder
+    axis the dielectric materials considered include polystyrene
+    lucite and tenite the diffraction pattern is only slightly
+    dependent on the dielectric constant of the rod small
+    discrepancies between the calculated values and values obtained
+    experimentally of are probably due to resistive loss in the
+    dielectric

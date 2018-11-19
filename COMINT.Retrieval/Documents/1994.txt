@@ -1,0 +1,10 @@
+the galvanomagnetic amplifier discussion of theoretical
+    and practical aspects of an amplifier whose operation depends
+    on the magnetic control of electrical resistance gauss effect
+    such an arrangement is less noisy than magnetic or dielectric
+    amplifiers at low temperature among metals bismuth exhibits the
+    greatest sensitivity to this effect by using an appropriate
+    material such as insb the principle can also be applied to
+    amplifiers for ust at room temperature the theoretically
+    possible gain is db at and db at corresponding values which
+    have bee obtained with experimental units are about and

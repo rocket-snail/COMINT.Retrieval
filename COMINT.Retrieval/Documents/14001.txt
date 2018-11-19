@@ -1,0 +1,7 @@
+a scientific data base for the royal aircraft
+    establishment, farnborough. after specifying the data handling
+    problems within the establishment, details are given of a
+    scientific data base which has been developed for use by
+    scientists, engineers and administrators. a specific problem
+    from the aerodynamics field is described and used as an example
+    illustrating the application of the data base.

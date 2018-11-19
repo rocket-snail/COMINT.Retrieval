@@ -1,0 +1,6 @@
+interaction of an electron beam with plasma an
+    experimental investigation of modulated and unmodulated beams
+    of high energy electrons with a high frequency discharge plasma
+    is reported when an unmodulated beam moves through the plasma
+    oscillations are produced in the beam at frequencies close to
+    the plasma frequency

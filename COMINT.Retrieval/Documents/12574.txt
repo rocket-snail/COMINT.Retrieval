@@ -1,0 +1,5 @@
+a band pass filter for low frequencies description with
+    circuit diagrams of a filter with a pass band of consisting of
+    four stagger tuned rc amplifier circuits with inputs and
+    outputs connected in parallel by resistor networks the filter
+    was developed for band encephalography

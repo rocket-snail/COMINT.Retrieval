@@ -1,0 +1,4 @@
+the matching problem of the ring type and double push
+    pull modulator with filter termination at both ends detailed
+    discussion of an impedance matching method for obtaining
+    optimum frequency response and minimum attenuation

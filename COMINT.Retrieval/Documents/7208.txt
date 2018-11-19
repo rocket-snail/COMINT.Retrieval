@@ -1,0 +1,11 @@
+test of the equifrequent character string text search
+    technique. report describes the design and implementation of
+    software, based on the variety generation method, for a search
+    system to match retrieval profiles against document texts in
+    the inspec database, and the evaluation of the system relative
+    to that used by inspec for its sdi service in terms of computer
+    resources and costs. the evaluation favours the
+    variety-generation method. using inspec's charging algorithm,
+    its costs are approximately 75% of those of the operational
+    system, while the central processor time is reduced to
+    1/2.

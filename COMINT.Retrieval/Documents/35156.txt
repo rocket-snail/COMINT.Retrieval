@@ -1,0 +1,6 @@
+generalized magneto hydrodynamic formulae the formulae of
+    magneto hydro dynamic theory are extended by the simpler
+    methods of magneto ionic theory in which mean velocities and
+    forces are used and nonlinearities are avoided by perturbation
+    treatment the results are applied to the case of plane wave
+    propagation in the direction of a primary magnetic field

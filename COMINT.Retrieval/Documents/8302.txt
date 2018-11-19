@@ -1,0 +1,3 @@
+tube transistor hybrids provide design economy a bistable
+    cathode follower and four stage ring counter are described the
+    transistors appear in the cathode circuits of the valves

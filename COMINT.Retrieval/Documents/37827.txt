@@ -1,0 +1,6 @@
+audio frequency input circuits careful design of input
+    circuits is important especially when the input level is low
+    fundamental factors considered include signal noise ratio of
+    the source optimum input impedance for resistive and reactive
+    generators noise in the amplifier valve input transformer and
+    connecting cable characteristics

@@ -1,0 +1,12 @@
+a state transition analysis of online information-seeking
+    behavior. statistical analyses of on-line searching patterns
+    compared the usage of a query language by various groups of
+    searchers. data were gathered by an experimental project,
+    individualized instruction for data access (iida), concerned
+    with developing and testing a system which serves as a teacher
+    and assistant to users of lockheed's dialog system. sequential
+    listings of user commands were classified by corresponding
+    state codes to represent phases of searching. zero- through
+    4th-order markovian analyses of individual commands and strings
+    of like commands were performed to compare searching procedures
+    used by 3 classes of users.

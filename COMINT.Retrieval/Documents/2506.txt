@@ -1,0 +1,5 @@
+a filter system with favourable pulse characteristics
+    analysis of filter performance under pulse conditions on the
+    basis of the distribution of poles and zeros of the transfer
+    function a practical filter circuit is derived and the pulse
+    amplitude calculated

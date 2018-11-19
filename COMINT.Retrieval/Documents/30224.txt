@@ -1,0 +1,8 @@
+a consideration of the mechanism of electron removal in
+    the f layer of the ionosphere the transformation of atomic ions
+    into molecular ions by a transfer of charge and the subsequent
+    recombination of molecular ions with electrons are considered
+    theoretically such a mechanism may possibly explain the
+    attachment type of electron removal but the theory fails to
+    give the value of the attachment coefficient and of its
+    variation with height

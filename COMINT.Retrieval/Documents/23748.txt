@@ -1,0 +1,4 @@
+ionospheric true height and muf calculations mufs
+    calculated from the more accurate determinations of the
+    electron density distribution see above are consistently higher
+    than the slough bulletin values

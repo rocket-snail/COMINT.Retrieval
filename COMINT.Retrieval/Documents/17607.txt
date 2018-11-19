@@ -1,0 +1,4 @@
+theoretical treatment of the kinetics of diffusion
+    limited reactions the diffusion limited reaction has been
+    solved for a random initial distribution of a and b
+    particles

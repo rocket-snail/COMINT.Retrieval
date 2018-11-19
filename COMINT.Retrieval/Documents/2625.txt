@@ -1,0 +1,4 @@
+transistor class b push pull stages the relative merits
+    of single ended and symmetrical output stages are discussed in
+    general the single ended circuit offers considerable
+    advantages

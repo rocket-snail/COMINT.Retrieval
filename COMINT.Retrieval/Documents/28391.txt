@@ -1,0 +1,5 @@
+rating and application of germanium and silicon
+    rectifiers a discussion of the factors limiting the life and
+    rating of semiconductor rectifiers practical design criteria
+    are considered including fusing surge voltage protection and
+    parallel and series operation

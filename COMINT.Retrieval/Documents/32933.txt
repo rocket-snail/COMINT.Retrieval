@@ -1,0 +1,7 @@
+contribution to the theory of general quadripoles the
+    matrix characteristics of general linear quadripoles are
+    investigated and a strict definition of a lossless quadripole
+    is given an equivalent circuit of the quadripole formed by
+    three partial quadripoles connected in tandem is derived
+    matching problems and a formula for power gain are
+    discussed

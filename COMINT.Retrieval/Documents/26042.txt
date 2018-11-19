@@ -1,0 +1,9 @@
+an online union list of serials: meeting the user needs.
+    reports on the development of an on-line union catalogue of
+    serials using oclc by the central new york library resources
+    council. the project is converting from a hard copy union
+    catalogue of serials to an on-line catalogue that will have the
+    important advantage of immediate update. using the oclc
+    interlibrary loan subsystem, the inquiring library may look at
+    a display of library holdings and find up to 5 locations for a
+    given serial.

@@ -1,0 +1,2 @@
+bandwidth limitations in equalizers and transistor output
+    circuits

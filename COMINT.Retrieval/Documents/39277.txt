@@ -1,0 +1,10 @@
+laboratory notebook storage and retrieval systems.
+    despite the general conclusion that laboratory notebooks
+    contain valuable and often needed data, there has been
+    relatively little discussion in the literature on the
+    development of an adequate storage and retrieval system for
+    them. to determine the various possibilities of such a system,
+    a survey of 83 food science libraries was conducted. 60% of the
+    libraries employed some kind of a system. 4 different systems
+    were identified; and the system that allowed access by notebook
+    author and notebook accession number was predominant.

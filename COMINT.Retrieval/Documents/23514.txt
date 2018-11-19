@@ -1,0 +1,11 @@
+linguistic support in automated library systems. aims to
+    show the current position and future development of linguistic
+    support, with particular reference to the state automated
+    system of scientific and technical information (gasnti). the
+    content and structure of linguistic support is defined by the
+    level of development of the library service and the information
+    involved. in practice, linguistic support has to take account
+    of not only the subject content but also a range of external
+    features including bibliographical description. its application
+    in different systems can be seen at an international level in
+    unisist, as well as at national and local level.

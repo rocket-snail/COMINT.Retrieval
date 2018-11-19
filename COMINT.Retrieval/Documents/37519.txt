@@ -1,0 +1,6 @@
+high current superconductivity the barden cooper and
+    schrieffer theory of superconductivity is extended to the case
+    of high current densities by explicitly including in the phonon
+    induced electron electron attraction the modification of the
+    phonon spectrum in a moving coordinate system this modification
+    results from the doppler effect

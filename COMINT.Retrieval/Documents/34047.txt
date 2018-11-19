@@ -1,0 +1,5 @@
+on certain special features of ohmic heating of an
+    electron gas in a plasma an investigation of ohmic heating in a
+    constant field taking account of inelastic collisions shows
+    that the electron temperature may be in a steady state only for
+    low values of electric field intensity see also of

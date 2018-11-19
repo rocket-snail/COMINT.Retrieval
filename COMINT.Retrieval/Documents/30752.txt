@@ -1,0 +1,6 @@
+an ac voltage stabilizer high regulation factor short
+    response time low e weight and frequency independence are
+    achieved in a valve regulator with a carbon pile variable
+    resistor control element and local as well as overall feedback
+    in the form described the regulator is suitable for supplying
+    filament current for a large number of valves

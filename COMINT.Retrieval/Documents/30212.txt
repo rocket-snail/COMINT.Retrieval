@@ -1,0 +1,4 @@
+videotex standards. the need for common standards for
+    videotex systems is explained and the forces which are tending
+    to oppose the development of such standards are
+    described.

@@ -1,0 +1,12 @@
+cozi communication zone indicator a general description
+    with block diagram of timing and indicating circuits is given
+    of a low power oblique incidence ionosphere sounder designed to
+    indicate skip distances and communication zones from to
+    operation is on any one of six pre set frequencies in the range
+    peak pulse power pulse duration and repetition frequency sec
+    the one hop skip distance is obtained directly from the time
+    lag of the back scatter from the ground after single reflection
+    from the ionosphere typical oscillograms show the increase of
+    skip distance as the carrier frequency is increased in steps
+    from the complete series of records two at each frequency being
+    obtained in min

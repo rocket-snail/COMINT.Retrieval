@@ -1,0 +1,4 @@
+some comments on the penetration of whistlers through
+    ionospheric layers ionospheric irregularities smaller than the
+    whistler wavelength may prevent penetration of the layer and
+    lead to the cessation of whistlers at certain times

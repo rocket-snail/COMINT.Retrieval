@@ -1,0 +1,6 @@
+diffraction of waves by a wedge greens functions of the
+    wave equation for a wedge are given in the form of an integral
+    representation for the two dimensional case and are evaluated
+    by the residue theorem the half plane is considered as the
+    limiting case of a wedge with angle the analysis is extended to
+    the three dimensional case

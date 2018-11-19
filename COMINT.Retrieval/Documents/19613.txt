@@ -1,0 +1,4 @@
+staggered operation of doubly resonant parametric
+    amplifiers a broad bandwidth is achieved by staggered operation
+    of doubly resonant variable capacitance parametric amplifiers
+    in the band

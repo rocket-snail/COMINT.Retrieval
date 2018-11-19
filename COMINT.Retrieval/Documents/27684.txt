@@ -1,0 +1,5 @@
+improved control circuit for regulated power supplies a
+    cathode follower is inserted between the control valve and the
+    regulator valve in an electronic voltage regulator to increase
+    the current range over which regulation may be
+    maintained

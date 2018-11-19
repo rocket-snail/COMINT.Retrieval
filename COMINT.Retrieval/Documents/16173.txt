@@ -1,0 +1,5 @@
+dc restoring of variable width rectangular pulses the
+    well known diode dc restoring circuit is discussed the effect
+    of deviations of source impedance diode forward resistance and
+    coupling capacitance from their ideal values is investigated
+    the analysis is illustrated by a practical example

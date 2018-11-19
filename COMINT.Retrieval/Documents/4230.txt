@@ -1,0 +1,4 @@
+multimesh rc networks for phase shift oscillators the
+    required phase shift for each mesh is calculated for a
+    terminated mesh network the values which total differ
+    considerably from

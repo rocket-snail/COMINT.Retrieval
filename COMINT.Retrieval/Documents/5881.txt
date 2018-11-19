@@ -1,0 +1,3 @@
+study of a digital analogue converter a technique is
+    described using bistable multivibrator circuits for generating
+    a current proportional to the numbers on a binary scale

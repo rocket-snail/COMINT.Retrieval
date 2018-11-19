@@ -1,0 +1,17 @@
+the specification of the properties of the thermistor as
+    a circuit element in very low frequency systems an analysis
+    based on sinusoidal applied voltages shows that a conductor
+    whose resistance is a function of temperature may be
+    represented by an equivalent circuit having a semicircular
+    impedance locus an expression for the distortion of the
+    waveform is also obtained and this is found to be small
+    provided that the alternating current is less than a quarter of
+    t steady polarizing current which flows in the conductor the
+    impedance loci of a bead type thermistor are plotted by means
+    of null technique a typical impedance varied from a negative
+    resistance of at very low frequencies to a pure inductance of
+    and then to a positive resistance of at high frequencies the
+    use of the equivalent circuit is illustrated by designing phase
+    shift networks suitable for use in the stabilizing of very low
+    frequency control systems these circuits may be used in systems
+    where either data transmission is employed

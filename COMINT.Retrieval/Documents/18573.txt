@@ -1,0 +1,3 @@
+transistor ac amplifier uses multiple feedback the use of
+    shunt and series negative feedback loops simultaneously in each
+    stage is considered

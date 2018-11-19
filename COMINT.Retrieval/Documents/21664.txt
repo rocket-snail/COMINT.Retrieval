@@ -1,0 +1,5 @@
+the basic design of constant resistance crossovers a
+    simple mathematical analysis of the attenuation and phase
+    characteristics for constant resistance filters consisting of
+    up to four elements the frequency response is shown
+    graphically

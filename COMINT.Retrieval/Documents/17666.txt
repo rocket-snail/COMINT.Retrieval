@@ -1,0 +1,6 @@
+component design trends fixed resistors show stability
+    improvements a survey of available types temperature voltage
+    and power limits are discussed composition resistors continue
+    to be the most generally used developments in pyrolytic carbon
+    film printed wire wound and metal film types are
+    reported

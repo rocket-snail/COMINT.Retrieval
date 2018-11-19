@@ -1,0 +1,6 @@
+the limitations of narrow beam radio equipments in the
+    detection of weak meteor showers fluctuations in background
+    activity diffuseness of shower radiants and the short interval
+    over which some showers are active are the chief limitations a
+    significance test for use as a search method for weak showers
+    is developed

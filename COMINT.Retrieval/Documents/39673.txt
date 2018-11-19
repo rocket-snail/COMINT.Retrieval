@@ -1,0 +1,4 @@
+an equivalent circuit for transformers in which nonlinear
+    effects are present inductive parameters of a transformer are
+    better represented by the two type than by the t type
+    equivalent circuit

@@ -1,0 +1,5 @@
+theory of striae in gas discharge equations are derived
+    connecting the spacing of striae with the radius of the
+    discharge tube the diffusion coefficient and other parameters
+    the calculated spacing is in good agreement with the spacing
+    observed by dzherpetov and zaitsev above and others

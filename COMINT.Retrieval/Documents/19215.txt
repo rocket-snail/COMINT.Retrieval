@@ -1,0 +1,4 @@
+transistors and cores in counting circuits it is shown
+    how square loop magnetic cores and transistors can be combined
+    to form noncritical reliable counting circuits capable of
+    handling input frequencies up to

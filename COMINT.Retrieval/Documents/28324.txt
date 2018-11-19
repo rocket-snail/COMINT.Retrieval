@@ -1,0 +1,6 @@
+active quadripoles with intermediate point earth is
+    earthed generalized analysis is presented using matrices the
+    treatment is suitable for any valve or transistor circuits that
+    can be considered as series parallel or parallel series
+    networks and facilitates the development of some useful new
+    circuits

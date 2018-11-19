@@ -1,0 +1,4 @@
+microwave whistler mode propagation in a dense laboratory
+    plasma the thermonuclear machine zeta at harwell is being used
+    for plasma diagnostics measurements of refractive index and
+    attenuation rate at two frequencies will be attempted

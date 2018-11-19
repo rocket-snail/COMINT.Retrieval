@@ -1,0 +1,6 @@
+standby generating plant for the manchester edinbugh
+    television radio relay link description of equipment driven by
+    an ic engine which automatically restores the supply voltage at
+    unattended relay stations in case of mains failure for more
+    than two seconds the sets are given daily test runs remotely
+    controlled from attended stations

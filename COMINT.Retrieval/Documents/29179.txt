@@ -1,0 +1,6 @@
+scattering of waves by a statistically irregular surface
+    a method is proposed for calculating the field of plane waves
+    scattered by a perfectly reflecting statistically irregular
+    surface the irregularities being large in comparison with the
+    wave length the method can be used for acoustic as well as
+    electromagnetic waves

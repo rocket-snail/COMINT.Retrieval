@@ -1,0 +1,10 @@
+the semantic problems of translated subject headings.
+    study of the problems inherent in the translation of subject
+    headings from english into korean. 4 different semantic
+    entities are involved-the english of the original list, the
+    classification numbers, and the korean translation list which
+    must use both chinese ideograms and the korean alphabet.
+    ultimately the classification number serves as the most
+    accurate guide to the semantic content of the original term, as
+    well as a guide to the most suitable term to express this in
+    the language of the adaptation.

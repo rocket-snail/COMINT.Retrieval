@@ -1,0 +1,5 @@
+theory of the rocket grenade method of determining upper
+    atmospheric properties by sound propagation theory applicable
+    to projected experiments is developed from earlier work a
+    knowledge of the composition of the atmosphere and of the
+    velocity of the sound of the explosions is assumed

@@ -1,0 +1,12 @@
+optic axes and critical coupling in the ionosphere the
+    similarity between the phenomena of double refraction in
+    crystals and in the ionosphere is discussed the ionosphere
+    problem is studied by introducing a reference system based on
+    the principal directions of the three dimensional dielectric
+    ellipsoid these depend only on the direction of the earths
+    field and are essentially constant over the ionosphere optic
+    axes can exist in the ionosphere in the presence of collisions
+    and this is precisely the condition for critical coupling
+    between the ordinary and extraordinary modes the analysis is
+    illustrated by reference to a possible set of ionospheric
+    conditions

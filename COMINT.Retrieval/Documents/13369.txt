@@ -1,0 +1,5 @@
+nd receivers to be operated with a single aerial in the
+    frequency range a coaxial line construction with tuned cavity
+    resonator is used a four coupler system with separation of
+    between channels can provide adjacent channel reduction of with
+    insertion loss of

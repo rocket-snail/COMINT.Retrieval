@@ -1,0 +1,8 @@
+a hyperbolic detector the detector considered comprises a
+    double triode the grids of which are in parallel the anodes in
+    push pull and the cathodes biased separately the detection
+    characteristic will be hyperbolic if a rectangular or
+    trapezoidal characteristic is obtained on plotting the
+    difference between the anode currents against the grid voltage
+    the effect of varying the modulation voltage is
+    considered

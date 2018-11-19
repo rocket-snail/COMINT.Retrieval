@@ -1,0 +1,5 @@
+increased sensitivity of trigger circuits in the cathode
+    coupled monostable multivibrator described the use of a crystal
+    diode in the feedback loop allows one valve to amplify the
+    trigger pulse before it is applied to the other valve the
+    circuit is sensitive to a few millivolts

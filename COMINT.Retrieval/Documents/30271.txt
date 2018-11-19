@@ -1,0 +1,5 @@
+determination of electron densities in the ionosphere
+    from experimental curves an error in the argument used in the
+    original paper of was pointed out by kelso of it is suggested
+    that it may nevertheless be possible to provide a rigorous
+    argument justifying the use of the curves given

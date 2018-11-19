@@ -1,0 +1,5 @@
+a conductivity type molecular beam detector an iodine
+    molecular beam can be detected by observing the change in
+    conductivity due to introduction of impurities in a cu film
+    detector the detection threshold of this device which is
+    briefly described is about molecules cm

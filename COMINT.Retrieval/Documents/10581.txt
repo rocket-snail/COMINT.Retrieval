@@ -1,0 +1,5 @@
+project echo the dual channel travelling wave maser
+    details of the ruby material isolator and amplifier package
+    construction are given an instantaneous bandwidth of and
+    effective noise temperature of were obtained and the gain was
+    sufficient to override the noise of the following stage

@@ -1,0 +1,6 @@
+contribution on the problem of frequency dividing
+    dividing circuits for both pulse and sinusoidal signals are
+    discussed details are given of a simple locked in oscillator
+    giving division factors up to a self starting regenerative
+    divider and a divider with controlled oscillator a laboratory
+    model of which gives division factors in a single step

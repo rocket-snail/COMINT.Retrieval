@@ -1,0 +1,5 @@
+a stable high speed multichannel pulse analyzer pulse
+    selection in each channel is accomplished by a single
+    discriminator whose threshold is set at a height corresponding
+    to the upper boundary of the channel the channel width being
+    determined by suitably shaping the incoming pulses

@@ -1,0 +1,5 @@
+double counter fm and afc discriminator a frequency
+    discriminator with large bandwidth and good stability comprises
+    a pair of pulse counter circuits each preceded by mixer and
+    pulse forming circuits with their outputs connected in
+    series

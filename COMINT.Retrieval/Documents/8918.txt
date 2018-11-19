@@ -1,0 +1,9 @@
+computer assistance in indexing with index. describes the
+    compilation of indexes to 2 books using the program index on
+    the mts (michigan terminal system) operating the ibm 378/3033
+    computer. discusses the advantages of computer indexing, which
+    include' speed in preparation; accuracy in transcription; and
+    ease of transmission from 1 location to another. concludes,
+    however, that it is an aid rather than a competitor to indexes,
+    since an indexer must still make decisions as to cross
+    referencing, subheads, and categories.

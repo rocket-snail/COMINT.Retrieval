@@ -1,0 +1,7 @@
+the cryosar a new low temperature computer component the
+    cryosar is a high speed component whose operation at about is
+    based on impact ionization of impurities in ge two types using
+    compensated and uncompensated ge can be used as bistable and
+    normal diodes respectively turn on time is about sec they are
+    very small and present results suggest excellent
+    reliability

@@ -1,0 +1,12 @@
+stable high speed digital to analogue conversion for
+    storage tube deflection discussion of the design of access
+    circuitry for a barrier grid tube temporary storage system
+    which converts a bit binary address into the analogue voltage
+    necessary to deflect the electron beam to a specific storage
+    area defined by the address a special feedback circuit and
+    raster reference tube control the size and centring of the
+    array of storage s study of the impedance of capacitors as a
+    function of frequency strip stacked and disk type capacitors
+    have been studied the natural resonant frequency is almost
+    entirely dependent on the capacitance value and the
+    connections

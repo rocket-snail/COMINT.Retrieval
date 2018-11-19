@@ -1,0 +1,4 @@
+the ferromagnetism of the plane lattice inconsistencies
+    in the results of the theoretical treatment of ferromagnetism
+    at low temperatures on the basis of the heisenberg model are
+    discussed

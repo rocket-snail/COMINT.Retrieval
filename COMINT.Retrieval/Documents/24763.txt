@@ -1,0 +1,5 @@
+a convenient method of getting representative ionospheric
+    heights a simple method is described for obtaining electron
+    density profiles monthly median hf curves are drawn for each
+    hour and then reduced to true height profiles by any standard
+    method

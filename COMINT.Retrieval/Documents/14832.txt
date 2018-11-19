@@ -1,0 +1,9 @@
+resonance type secondary electron multiplication electron
+    multiplication by means of an hf field applied between a pair
+    of parallel plates with secondary electron emission rate
+    greater than unity is considered theoretically and a relation
+    is derived between the hf amplitude the length of field lines
+    and the phase at impact required for avalanche multiplication
+    expressions ar also obtained for the starting and cut off
+    voltages calculated results are in good agreement with
+    experimental results see also of

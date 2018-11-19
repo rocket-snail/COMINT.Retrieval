@@ -1,0 +1,11 @@
+modern aspects of information communication in education.
+    presents a model of an information communication system in
+    education consisting of 2 subsystems' (a) the subsystem of
+    didactic information processing and the results of the national
+    and international research work in the area of education; and
+    (b) the subsystem of numerical data (data banks) as a national
+    information system for managing staff in education, which
+    specifically provides statistical data concerning the progress
+    of this activity. a description of the information flow within
+    the 2 subsystems is made and several evaluation criteria of the
+    overall system efficiency are given.

@@ -1,0 +1,7 @@
+the design of a simple modulator of moderate cost a low
+    power pulse generator for laboratory work designed to deliver
+    or pulses at varying repetition frequencies when the load
+    impedance may vary between and is described since the power
+    required is low a type thyratron with a delay line in the anode
+    circuit is used to drive the double tetrode modulator
+    stage

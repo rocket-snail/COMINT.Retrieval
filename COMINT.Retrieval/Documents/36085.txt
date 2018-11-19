@@ -1,0 +1,6 @@
+microwave measurements of the radiation temperature of
+    plasmas measurements are described of radiation temperature of
+    positive columns of glow discharges in helium neon and hydrogen
+    the microwave noise radiation was detected at the results are
+    compared with calculations and with langmuir probe measurements
+    of the electron temperature

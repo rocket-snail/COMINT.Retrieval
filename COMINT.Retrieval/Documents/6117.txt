@@ -1,0 +1,3 @@
+tables of phase of a semi infinite unit attenuation slope
+    the five figure tables published previously are to appear
+    together with newly prepared seven figure tables as

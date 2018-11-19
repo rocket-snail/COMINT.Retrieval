@@ -1,0 +1,5 @@
+greater gain bandwidth in trigger circuits a special
+    series connection of two valves produces a gain bandwidth
+    product per stage of up to three times that of a conventional
+    amplifier without introducing the unwanted time delay
+    associated with a distributed amplifier

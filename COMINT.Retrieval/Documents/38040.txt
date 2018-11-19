@@ -1,0 +1,4 @@
+electromechanical low frequency oscillator the sinusoidal
+    linear movement of a slider is converted to a sinusoidal
+    angular motion of a rotary potentiometer contact arm to provide
+    electrical oscillations

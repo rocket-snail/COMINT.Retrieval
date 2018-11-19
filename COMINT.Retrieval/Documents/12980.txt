@@ -1,0 +1,5 @@
+the effects of a solar eclipse on a stratified ionosphere
+    the form of the isoelectronic surfaces in a three layer
+    ionosphere during an eclipse have been calculated tilts in
+    these surfaces may lead to difficulties in the interpretation
+    of ionograms

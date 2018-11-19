@@ -1,0 +1,9 @@
+transistor trigger circuits analysis is presented for
+    transistor trigger circuits which permits prediction as to
+    whether operation will be monostable bistable or astable
+    oscillatory and also of the amplitude and waveform of the
+    output practical pulse circuits for various purposes are
+    described which are so designed that their operation is not
+    affected by reasonable variations of circuit parameters bias
+    voltages transistor characteristics or ambient
+    temperature

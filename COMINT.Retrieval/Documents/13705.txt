@@ -1,0 +1,7 @@
+microwave attenuation by cyclotron resonance in a
+    slightly ionized gas the boltzmann equation is solved for the
+    distribution function of electrons in a static magnetic field b
+    and a hf electric field the tensor dielectric constant and
+    propagation constant k are hence obtained the attenuation
+    spectrum is discussed for the two cases of parallel and
+    perpendicular to b

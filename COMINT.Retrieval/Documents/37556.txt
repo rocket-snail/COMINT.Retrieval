@@ -1,0 +1,5 @@
+elimination of the effect of thermal delay of the cathode
+    on a valve with grid compensation the circuit described earlier
+    of may is adapted for the compensation of transient
+    fluctuations by means of an rc network which delays the
+    application of the compensating voltage to the grid

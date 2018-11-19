@@ -1,0 +1,9 @@
+patent information system' a procedure adopted by iip.
+    describes the use of coordinate indexing at the indian
+    institute of petroleum (iip) to retrieve indian patents on
+    specific subjects, the patent numbers being unknown. the
+    institute indexes the patents using the api (american petroleum
+    institute) thesaurus, the iip thesaurus, and the indian patent
+    office classification number. the resultant in-depth coverage
+    of the patents bridges the inter-discipline gap more
+    satisfactorily than classification alone.

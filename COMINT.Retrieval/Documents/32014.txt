@@ -1,0 +1,8 @@
+magnetic demodulation with sinusoidal variation of the
+    induction flux with magnetic demodulation using sinusoidal
+    current in the demodulating reactor the flux is distorted by
+    arranging instead for the flux to be sinusoidal the power can
+    be increased analysis is given based on analogy with diode
+    theory the flux being treated as the equivalent of the voltage
+    across the diode essential differences between magnetic and
+    diode demodulators are discussed

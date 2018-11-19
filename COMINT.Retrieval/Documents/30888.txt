@@ -1,0 +1,8 @@
+the excitation of molecular vibration and rotation by
+    impact of slow electrons a new approximate formula is derived
+    for the cross sections for excitation of molecular vibration
+    and rotation by impact of slow electrons account is taken of
+    the fact that in such impacts the incident electron is moving
+    much faster than the nuclei in the molecule while its wave
+    function suffers considerable distortion by the molecular
+    field

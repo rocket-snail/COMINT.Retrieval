@@ -1,0 +1,8 @@
+retrieving time information from natural-language texts.
+    presents a procedure (developed during research in
+    natural-language processing at the new york university
+    linguistic string project) to automatically retrieve from
+    hospital discharge summaries information about a patient's
+    state at various times during a hospital stay and information
+    about performance of certain medical procedures and their
+    results.

@@ -1,0 +1,6 @@
+a junction transistor scaling circuit with resolution the
+    basic circuit discussed is a binary scaler using a
+    differentiating transformer instead of capacitors for coupling
+    the speed of operation thus depends only on the transistor
+    characteristics scale of and scale of circuits built up from
+    the basic circuit are described

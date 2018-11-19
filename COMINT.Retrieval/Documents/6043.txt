@@ -1,0 +1,9 @@
+the design of amplifiers for the birmingham manchester
+    coaxial cable description with schematic circuit diagrams of a
+    line amplifier suitable for the transmission of line television
+    signals on a carrier or for telephony channel groups on
+    diameter coaxial cables a constant gain amplifier for the
+    transmitting terminal practical difficulties which limit the
+    performance of the amplifiers and associated transformers are
+    discussed and possible improvements for future designs are
+    suggested

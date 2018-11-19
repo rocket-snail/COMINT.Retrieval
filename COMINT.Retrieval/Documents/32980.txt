@@ -1,0 +1,5 @@
+how small organizations can move from wp into dp.
+    managers of small companies often distrust computers and feel
+    much happier with text-editing machines. outlines the many
+    applications of such machines and how their output can be used
+    as computer input.

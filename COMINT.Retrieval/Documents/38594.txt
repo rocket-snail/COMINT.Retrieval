@@ -1,0 +1,10 @@
+a general purpose electromagnet details are given of a
+    magnet for laboratory purposes with a soft iron yoke having low
+    residual magnetism and poles of diameter together with a table
+    showing the variation of the field in the centre of the gap
+    with excitation and gap length distribution of radio stars a
+    tentative explanation is given of discrepancies between the
+    distribution derived by ryle from interferometer measurements
+    at and that derived by pawsey from mills cross measurements
+    also at as discussed at the recent jodrell bank
+    symposium

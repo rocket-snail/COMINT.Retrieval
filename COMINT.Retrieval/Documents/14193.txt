@@ -1,0 +1,4 @@
+stagger tuned band pass amplifiers a procedure is given
+    for designing narrow band amplifiers with either bandwidth or
+    rise time are specified data are included for single tuned
+    cascades with up to five stages see also of

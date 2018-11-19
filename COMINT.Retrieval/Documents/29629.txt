@@ -1,0 +1,6 @@
+the calculation of meteor velocities from continuous wave
+    radio diffraction effects from trails meteor velocities are
+    calculated from the time interval between cw echo maxima or
+    minima neglect of the initial phase relation between echo and
+    ground wave introduces large errors an analytical method is
+    described and preliminary results are given

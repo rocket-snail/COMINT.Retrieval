@@ -1,0 +1,9 @@
+a formal treatment of document information systems. deals
+    with a mathematical formulation of document information
+    systems. the model of document information systems is given as
+    an interpretation of a formal language. in the formal language,
+    a concept of the labelled terms is introduced as the most basic
+    concept, from a viewpoint of hierarchical semantic structure
+    analysis of documents. the labels are intended to denote the
+    context information, called the information functions in this
+    paper, in the text of documents.

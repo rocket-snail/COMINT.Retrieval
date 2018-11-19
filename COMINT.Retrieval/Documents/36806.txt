@@ -1,0 +1,5 @@
+developing the hall generator equivalent circuit the
+    basic phenomena occurring in the device are described in matrix
+    form and an equivalent circuit is derived by matrix
+    manipulation current gain voltage gain and input impedance are
+    found in terms of the equivalent circuit parameters

@@ -1,0 +1,3 @@
+ferrite cores as logical elements properties are
+    discussed and the operation of a typical circuit is
+    analysed

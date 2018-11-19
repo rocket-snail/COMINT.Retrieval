@@ -1,0 +1,5 @@
+geomagnetic dynamos a rigorous proof is given of the
+    dynamo theory of geomagnetism by postulating a velocity pattern
+    in a sphere filled with conducting fluid so that the
+    arrangement acts as a dynamo producing an external magnetic
+    field

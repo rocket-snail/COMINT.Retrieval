@@ -1,0 +1,5 @@
+a doppler cancellation technique for determining the
+    altitude dependence of gravitational red shift in an earth
+    satellite description of a technique by which the frequency of
+    a moving source is corrected for first order doppler
+    shifts

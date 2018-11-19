@@ -1,0 +1,5 @@
+stabilization of pulse duration in monostable
+    multivibrators pulse duration stabilization of triggered
+    circuits by feedback is described practical circuits suitable
+    for frequency division and pulse generation in television
+    equipment are illustrated

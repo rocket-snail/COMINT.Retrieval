@@ -1,0 +1,6 @@
+measurements of ionospheric electron content by the lunar
+    radio technique measurements of the faraday rotation of lunar
+    radio echoes are used to determine the time variation in the
+    total ionospheric electron content absolute values of electron
+    content are derived from data on the electron content below the
+    f peak computed from vertical incidence experiments

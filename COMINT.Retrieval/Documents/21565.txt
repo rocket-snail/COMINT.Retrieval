@@ -1,0 +1,4 @@
+theory of photoexcitation in solids the theory of optical
+    absorption by photo excitation is reviewed and further
+    investigated a distinction is made between oblique and vertical
+    transitions

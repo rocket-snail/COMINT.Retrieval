@@ -1,0 +1,5 @@
+magnetic recording applied to digital computers the basic
+    considerations involved in the design of the magnetic storage
+    drum used in the cuba machine are discussed optimum dimensions
+    of pole faces for recording and reproducing heads are
+    calculated and design curves are given

@@ -1,0 +1,9 @@
+some results obtained by measuring the magnetic field at
+    the earth with a space rocket results obtained using
+    magnetometers with a range of and a telemetry channel
+    sensitivity of v where oersted indicate that at a distance of
+    earth radii the magnetic field does not depend only on the
+    earthpotential but also on external sources such as charged
+    solar particles measured values recorded by space rocket are
+    lower than calculated ones the difference between these values
+    reaches a maximum at km and a minimum at km

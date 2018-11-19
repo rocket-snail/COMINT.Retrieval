@@ -1,0 +1,6 @@
+transistor circuits based on the half supply voltage
+    principle analysis shows that temperature stabilization of a
+    transistor can be effected by a preceding dc coupled amplifying
+    stage stabilized on the half supply voltage principle practical
+    circuits are described for af amplifiers and stabilized supply
+    units see also of january dammers et al

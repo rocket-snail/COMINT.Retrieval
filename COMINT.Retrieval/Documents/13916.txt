@@ -1,0 +1,2 @@
+a nonlinear integral equation from the theory of
+    servomechanism

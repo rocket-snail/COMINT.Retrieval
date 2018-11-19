@@ -1,0 +1,14 @@
+the ionization of the e layer its measurement and
+    relation to solar eruptions criteria for distinguishing between
+    normal and abnormal layers are discussed relatively thin layers
+    are classed as abnormal their ionization distribution
+    corresponds to a power law with index a definition of is given
+    which remains valid for complex layers is the highest critical
+    frequency of a normal layer preceding or coinciding with the
+    first discontinuity between the e and f echoes application of
+    this definition to the evaluation of ionosphere observations
+    made at freiburg during and leads to greater constancy of the
+    daily variations and monthly means of e examination of the
+    values of e for three summer months indicates that all
+    deviations above the monthly mean are attributable to sudden
+    ionospheric disturbances

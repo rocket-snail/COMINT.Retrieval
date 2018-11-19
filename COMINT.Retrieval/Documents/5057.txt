@@ -1,0 +1,5 @@
+capacitively coupled magnetic amplifiers the amplifier
+    described operates at a high carrier frequency with capacitive
+    coupling of the signal to the load this technique realizes the
+    advantages of true a c amplification an experimental three
+    stage amplifier is described

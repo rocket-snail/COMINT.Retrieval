@@ -1,0 +1,7 @@
+thermal diffusion in ionized gases the thermal diffusion
+    factor which is less than unity in a neutral gas mixture is of
+    order in an ionized gas where is the ionic charge in a mixed
+    ionized gas containing also a small proportion of heavy ions
+    the factor can be much greater and give increased heavy ion
+    density in the hotter regions this effect may be of importance
+    in the solar corona

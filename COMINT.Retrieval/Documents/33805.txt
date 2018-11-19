@@ -1,0 +1,3 @@
+audio amplifier design cuts plate dissipation an
+    auxiliary signal at ultrasonic frequency applied to the grid
+    reduces anode dissipation at low signal levels

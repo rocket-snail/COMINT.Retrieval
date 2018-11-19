@@ -1,0 +1,5 @@
+transistor oscillators detailed discussion of various
+    transistor circuits including different types of sine wave
+    generator relaxation oscillators and a combination of the two
+    giving self quenching oscillations or stabilized frequency
+    division

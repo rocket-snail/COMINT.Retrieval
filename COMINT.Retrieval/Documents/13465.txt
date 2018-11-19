@@ -1,0 +1,17 @@
+experimental determination of the energy distribution of
+    thermoelectron beams an investigation using the lenard
+    retarding field method is reported this method gave results
+    accurate to within for electron energies in the range results
+    indicate that a maxwell distribution occurs only at low beam
+    currents and densities no direct dependence was found on
+    cathode temperature space charge at the cathode or control
+    potential a depence was observed on current density and to a
+    lesser degree on current intensity deviations from maxwells
+    distribution could not be attributed to errors in calculation
+    collisions with the residual gas spectrometer effect of the
+    emitter transverse resistances of cathode or local anomalies of
+    the work function positive results were obtained by relating
+    the electron energy distribution to longitudinal space charge
+    oscillations produced by the shot effect shifts of the energy
+    distribution are due to changes in the work function and the
+    development of a potential barrier near the cathode

@@ -1,0 +1,6 @@
+temperature stabilization of transistors in class b
+    amplifiers factors affecting stability are discussed and a
+    graphical method is described for estimating the maximum
+    temperature for stable operation experimental results obtained
+    using a thermistor to improve stability are in good agreement
+    with theory

@@ -1,0 +1,5 @@
+the production of very homogeneous axially symmetric
+    magnetic fields inhomogeneity in the magnetic field between two
+    pole pieces is due to irregularity in the pole piece and to
+    boundary effects which may be reduced by current shims in the
+    form of compensating coils

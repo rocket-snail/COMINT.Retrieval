@@ -1,0 +1,8 @@
+synthesis of driving point and transfer functions by
+    continued fraction expansion a method of synthesis of driving
+    point functions has been developed in which more than one
+    network element may be included in each branch of the ladder
+    network the method is first applied to rl and lc two element
+    type networks and then extended to the general rlc network four
+    terminal networks having prescribed driving point and transfer
+    impedances are synthesized in a similar manner

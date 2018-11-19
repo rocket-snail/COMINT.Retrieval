@@ -1,0 +1,7 @@
+corbino disk a comprehensive treatment of the behaviour
+    of the electric current and magnetic field distribution
+    patterns in a disk with concentric inner and u outer contacts
+    and a magnetic field applied along its axis the effects
+    discussed are large in materials with a high mobility such as
+    bi ad the corbino disk appears to be useful as a rectifier and
+    voltage regulator

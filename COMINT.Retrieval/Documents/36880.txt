@@ -1,0 +1,4 @@
+note on plasma electron oscillations brief report of the
+    results of experiments on hot cathode discharges in hg vapour
+    or ar at pressures of the order of and discussion of their
+    relation to the work of wild

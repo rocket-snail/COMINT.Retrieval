@@ -1,0 +1,4 @@
+scattering of microwaves from a cylindrical plasma in the
+    born approximation part formulae are derived for the angular
+    distribution function and the effect of special distributions
+    is considered

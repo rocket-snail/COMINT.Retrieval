@@ -1,0 +1,7 @@
+optimisation of a question-answering information service.
+    analyses the organisation of an information service for
+    specialist researchers; uses system analysis methods and
+    statistical modelling to optimise the service; offers a method
+    for determining the optimum composition of a research institute
+    information service; and discusses some of the results of the
+    algorithm implementation on the minsk-32 computer.

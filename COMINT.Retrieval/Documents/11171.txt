@@ -1,0 +1,5 @@
+air core coil design for crossover networks simple
+    analysis is given for determining the correct wire gauge and
+    optimum coil dimensions for specified values of q and l results
+    are shown in charts and numerical examples illustrate their
+    use

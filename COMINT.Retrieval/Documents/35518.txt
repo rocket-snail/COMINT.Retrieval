@@ -1,0 +1,7 @@
+research on submillimetre wave generation and techniques
+    experiments and experimental equipment are described for
+    investigations on sub mm wave generation including a
+    tornadotron in which em radiation is produced by the action f
+    of pulsed magnetic fields of the order of on a trapped electron
+    cloud aspects of instrumentation suitable for these frequencies
+    are briefly discussed

@@ -1,0 +1,5 @@
+band pass filter design technique universal curves
+    provide design information for butterworth and tchebycheff
+    stagger tuned filter networks for band pass amplifiers required
+    number of stages centre frequency cut off frequencies and stage
+    gain requirements can be determined

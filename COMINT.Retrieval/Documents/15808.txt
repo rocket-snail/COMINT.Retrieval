@@ -1,0 +1,10 @@
+harmonic distortion and negative feedback an analysis is
+    made which takes account of the production of harmonics of
+    order higher than the second by the negative feedback process
+    the usual formula for the reduction of distortion by
+    application of negative feedback is accurate if the slope of
+    the amplifier output voltage input voltage curve does not vary
+    appreciably over the working range if a valve with a sharp cut
+    off is used and the input voltage is greater than the cut off
+    value no reduction of distortion can be effected by negative
+    feedback

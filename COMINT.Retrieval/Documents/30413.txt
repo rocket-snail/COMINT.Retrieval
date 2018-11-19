@@ -1,0 +1,7 @@
+on the f region of the ionosphere a continuation of
+    earlier work of to include calculations of diurnal variations
+    of production rate for march using the attachment coefficient
+    model suggested by ratcliffe et al results are compared with
+    those for january given in the earlier paper and are found to
+    be consistent with bradburys hypothesis for the formation of th
+    f layer

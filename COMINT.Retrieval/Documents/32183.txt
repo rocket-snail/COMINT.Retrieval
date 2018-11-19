@@ -1,0 +1,5 @@
+a simple temperature control system for transistors a
+    description of a closed loop servomechanism in which a power
+    transistor which supplies the current for a heating coil is
+    controlled by an error signal produced by a temperature sensing
+    af transistor

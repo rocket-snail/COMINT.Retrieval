@@ -1,0 +1,6 @@
+a voltage tuned resistance capacitance oscillator a
+    circuit is given for an oscillator whose frequency of
+    oscillation is dependent on an applied potential by vartue of
+    the variable capacitance of selenium drydisk rectifiers with
+    reverse bias the characteristics of suitable rectifiers are
+    discussed

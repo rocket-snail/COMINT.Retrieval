@@ -1,0 +1,3 @@
+some class of merging algorithms. a generalised model of
+    merging algorithms of the +n-th order, using the concept of a
+    binary tree, is considered.

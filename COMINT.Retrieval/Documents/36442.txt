@@ -1,0 +1,6 @@
+pert/cpm-its application to library and information
+    systems. introduces the pert/cpm (network analysis) techniques
+    and explains the methodology of their application. applies cpm
+    technique for planning and scheduling publication of an
+    abstracting service. suggests other areas of application of
+    pert/cpm techniques in library and information work.

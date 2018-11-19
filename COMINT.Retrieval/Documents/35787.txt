@@ -1,0 +1,6 @@
+space charge instabilities in synthesized plasmas
+    potential transitions dependent on boundary space charge
+    conditions are shown to be possible by a theoretical analysis
+    of an idealized model such transitions are observed
+    experimentally the voltage jumps are in good agreement with the
+    theory

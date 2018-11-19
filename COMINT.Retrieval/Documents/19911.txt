@@ -1,0 +1,6 @@
+propagation through a dielectric slab propagation from a
+    point source through an infinite slab is considered
+    theoretically with particular reference to the apparent source
+    and its modified polar diagram an appreciable change in polar
+    diagram can be produced by even a thin sheet of
+    dielectric

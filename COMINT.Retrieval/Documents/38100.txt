@@ -1,0 +1,7 @@
+a problem of information retrieval system control and
+    principles of solving problems of evaluation. discusses those
+    information retrieval system evaluation problems which are
+    connected with systems control; proposes an approach to their
+    solution; formulates the main principles of the approach; and
+    presents a method of isolating evaluation problem classes with
+    similar solution models.

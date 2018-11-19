@@ -1,0 +1,7 @@
+technical aspects related to direct broadcasting
+    satellite systems. collection of technical memoranda relating
+    to direct broadcasting satellite (dbs) systems. the material
+    includes a general description of dbs satellites, technical
+    tradeoffs in the design of a system which includes ground
+    receivers, advances in the technology, some information on
+    satellite planning.

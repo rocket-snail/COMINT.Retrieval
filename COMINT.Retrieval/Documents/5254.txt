@@ -1,0 +1,3 @@
+least-squares fit by orthogonal polynomials (algorithm
+    28) december, 1961 macmillan, d. b. ca611204 jb march 15, 1978
+    10:27 pm

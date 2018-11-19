@@ -1,0 +1,12 @@
+use of ferromagnetic materials in electronic tuning of
+    radiofrequency components the change of the incremental
+    permeability of a core of ferrite material due to a secondary
+    superimposed magnetic field is discussed the effect is utilized
+    in the design of toroidal inductors whose inductance can be
+    varied by altering the current in an auxiliary winding
+    inductors of this type are incorporated in a receiver tunable
+    from to with a bandwidth of at and of at the power required in
+    the auxiliary tuning coil is a variable inductor has been
+    developed whose volume is wi weight slightly and tuning range
+    for applied power of in the frequency band falling to in the
+    band see also electronics

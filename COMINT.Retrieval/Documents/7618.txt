@@ -1,0 +1,7 @@
+a theory of electrostatic fields in the ionosphere at
+    nonpolar geomagnetic latitudes es coupling between the dynamo
+    and f regions and between magnetically conjugate parts of the
+    regions themselves the electric source field produced by winds
+    in the dynamo region and the possibility of significant
+    electron density variations in the f region due to es fields
+    are examined

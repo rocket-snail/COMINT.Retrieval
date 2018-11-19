@@ -1,0 +1,9 @@
+oscillator frequency stability the case of an oscillator
+    connected to a mismatched load by a long feeder is considered
+    in addition to hysteresis effects with resonant loads a type of
+    instability occurs which takes the form of a periodic
+    modulation of the oscillation frequency stability criteria
+    appropriate to both effects are derived for various circuit
+    arrangements results of experiments with a triode oscillator
+    operating at are reasonably consistent with the theory in
+    general the hysteresis type of instability predominates

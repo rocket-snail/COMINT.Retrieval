@@ -1,0 +1,6 @@
+an attempt to measure the collision frequency of
+    electrons in the f region of the ionosphere measurem nts have
+    been made of the change in the f layer reflection coefficient
+    with change in group path results indicate that values of
+    collision frequency obtained from this type of measurement are
+    unreliable but an upper limit is deduced

@@ -1,0 +1,7 @@
+reduction of the cathode fall of a normal glow discharge
+    by illumination of the cathode experimental results indicate
+    that the relation between the normal cathode fall the cathode
+    work function and the current density due to illumination is
+    given by where is constant whose magnitude depends on the
+    ionization potential of the gas and i another constant a
+    special based cathode with and adsorbed layers was used

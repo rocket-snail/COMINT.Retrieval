@@ -1,0 +1,12 @@
+on diffraction by a strip limitations of the integral
+    equation and fourier lame methods of dealing with the problem
+    of diffraction by a strip or slit are discussed the variational
+    technique of levine and schwinger of can b used to obtain an
+    approximate value of the far zone field in a form which is
+    stationary with respect to small variations about is true value
+    of the current induced in the strip a calculation using this
+    representation and assuming as a rough approximation as a rough
+    approximation a uniform density distribution of current in the
+    strip gives a good approximation to the value of the far zone
+    field the scattering cross section is then found by using the
+    scattering theorem of papas

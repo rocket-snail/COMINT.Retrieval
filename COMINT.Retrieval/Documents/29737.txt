@@ -1,0 +1,10 @@
+design of triode flip flops for long term stability
+    description of an analytical method of design based on
+    considerations of dc stability limiting tolerances in respect
+    of voltage and component values being taken into account
+    initially an eccles jordan circuit with injection diodes is
+    considered as a general case and equations are derived
+    expressing the operating conditions in the grid and the anode
+    circuits solution of these equations gives appropriate key
+    values the method is applied to three special cases and a
+    numerical example is given

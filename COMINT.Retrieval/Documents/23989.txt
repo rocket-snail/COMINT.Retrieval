@@ -1,0 +1,8 @@
+solar enhanced radiation and plasma oscillations the
+    dispersion formula for plasma oscillations in a static magnetic
+    field is derived by the laplace transform method used by landau
+    of the oscillations are unstable in frequency bands around
+    multiples of the gyrofrequency numerical calculations for
+    sunspot magnetic fields in the corona indicate that random
+    fluctuations may be amplified and afford support for the
+    explanation given by wild of enhanced radiation

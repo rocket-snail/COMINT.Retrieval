@@ -1,0 +1,5 @@
+rlc canonic forms a class of rlc networks is defined
+    which has canonic structure in the foster sense lc and rl rc
+    network and networks with slight dissipation may belong to this
+    class in which case their analysis or synthesis is simplified
+    examples of network synthesis illustrate the method

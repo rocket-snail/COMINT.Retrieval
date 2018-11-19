@@ -1,0 +1,5 @@
+gyro frequency in the ionospheric regions experimental
+    results show that the magnetic fields calculated from gyro
+    frequencies in the e f and f regions are higher than expected
+    the e region gyro frequency las a marked semidiurnal variation
+    with a minimum at midday

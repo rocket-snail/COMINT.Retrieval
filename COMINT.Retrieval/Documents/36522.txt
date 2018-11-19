@@ -1,0 +1,8 @@
+the efficiency of frequency multipliers using detector
+    circuits an analysis is made of the harmonic frequency power
+    obtainable in an oscillatory circuit connected to a generator
+    via a detector whose characteristic is represented
+    approximately by a hyperbola for harmonics of fourth and higher
+    orders the calculations become very difficult it cannot be
+    assumed that for any given harmonic the power is less than for
+    the next lower harmonic

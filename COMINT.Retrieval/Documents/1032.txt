@@ -1,0 +1,5 @@
+on the resonant frequency modes of ruby optical masers
+    using a high resolution spectrograph in conjunction with a
+    fabry perot interferometer of high resolving power shows the
+    output from an optical maser to consist of lines at higher
+    input energies more modes are excited

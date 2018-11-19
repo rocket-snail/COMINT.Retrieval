@@ -1,0 +1,2 @@
+synthesis of switching functions by linear graph
+    theory

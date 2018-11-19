@@ -1,0 +1,2 @@
+collapsed toroidal springs as contact elements in
+    microwave cavities

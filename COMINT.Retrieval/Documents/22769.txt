@@ -1,0 +1,3 @@
+transfer function of relays with inactive zone and
+    hysteresis the equation of transfer for the relay is calculated
+    by the laplace transform method

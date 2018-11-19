@@ -1,0 +1,10 @@
+transformer design on insertion loss principles wide band
+    transformer data can be calculated using the normalized values
+    for the circuit elements of high pass and low pass networks
+    derived from insertion loss theory for reactive quadripoles
+    examples of which are tabulated by considering the transformer
+    equivalent circuit as part of a tchebycheff filter network of
+    higher order significant improvements can be made in the
+    transmission characteristic by introducing special low
+    permittivity layers between windings further improvement is
+    possible

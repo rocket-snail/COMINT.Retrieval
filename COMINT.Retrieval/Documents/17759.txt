@@ -1,0 +1,6 @@
+method of determining the true height of the ionospheric
+    layers part application of the exact value of the refractive
+    index ordinary ray case values obtained using the exact value
+    of the refractive index appleton hartree are somewhat higher
+    than those obtained with the approximate formulae used in part
+    of

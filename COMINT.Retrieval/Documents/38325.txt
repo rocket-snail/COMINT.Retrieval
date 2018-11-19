@@ -1,0 +1,4 @@
+theory of parametric amplifiers and converter amplifiers
+    of resistance type the investigations cover nonlinear reactance
+    and tunnel diode circuits with particular reference to down
+    converters of the type described by et al

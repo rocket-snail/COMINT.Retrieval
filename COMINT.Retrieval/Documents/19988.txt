@@ -1,0 +1,11 @@
+aip en route to demand publishing. the development steps
+    undertaken by the american institute of physics in their move
+    towards a print on demand service for the journals and data
+    base it publishes are described. these include changing to web
+    offset with automatic folding and shrinkwrapping, in-house
+    computerised composition, an atex computerised printing system
+    and plans for digitised illustrations. a system for
+    transmitting the full text of physics experiments for printing
+    into laboratories' digitised data bases is to be developed and
+    a low cost printout device is sought. the advantages and
+    disadvantages of demand publishing are considered.

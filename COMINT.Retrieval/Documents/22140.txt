@@ -1,0 +1,6 @@
+geomagnetic activity at halley bay on disturbed days
+    diurnal variations of geomagnetic activity on disturbed days
+    are related to auroral and ionospheric effects an analysis of
+    five world wide sudden storm commencements ssc shows positive
+    departures of the horizontal field before midnight and negative
+    departures after midnight

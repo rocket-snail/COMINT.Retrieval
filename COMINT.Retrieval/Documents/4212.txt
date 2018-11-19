@@ -1,0 +1,9 @@
+some aspects of patron-based use analysis relevant to
+    acquisitions. considers use analyses that involve knowing the
+    type of patron responsible for a particular loan, reservation
+    request or use of material from reserve. illustrates what is
+    possible for data at various levels of categorising the patron.
+    examines the level of support necessary for the librarian
+    carrying out the study. discusses the privacy difficulties of
+    historical records and indicates the options open to the
+    librarian.

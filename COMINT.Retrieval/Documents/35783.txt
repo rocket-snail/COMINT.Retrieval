@@ -1,0 +1,4 @@
+the equivalent wave source the application of wave
+    parameters to two terminal sources is discussed an equivalent
+    wave source is derived which corresponds to the conventional
+    equivalent voltage or current source

@@ -1,0 +1,6 @@
+spin lattice relaxation it is pointed out that phonon
+    relaxation times can be the dominant quantity measured in the
+    usual saturation spin lattice relaxation measurements the
+    analysis indicates how pulse measurements may be used to
+    evaluate the actual spin lattice relaxation time independently
+    of the phonon relaxation time

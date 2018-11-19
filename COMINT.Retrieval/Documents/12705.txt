@@ -1,0 +1,5 @@
+extension of the dual input describing function technique
+    to systems containing reactive nonlinearity an extension of the
+    work of kochenburger and of west et al enabling the nonlinear
+    coefficient to be associated with any term in the differential
+    equation

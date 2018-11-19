@@ -1,0 +1,7 @@
+on the interpretation of the doppler effect from senders
+    in an artificial satellite the doppler effect is simply related
+    to the angle of incidence of the transmitted signal if the
+    geomagnetic field is ignored otherwise the relationship is
+    complex and an investigation of the actual ray paths is
+    necessary even for the deduction of approximate numerical
+    values

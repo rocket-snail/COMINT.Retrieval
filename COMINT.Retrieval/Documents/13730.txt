@@ -1,0 +1,9 @@
+dielectric potentiometers a voltage divider is described
+    comprising a movable electrode and a system of fixed electrodes
+    all immersed in a lossy liquid dielectric so that the paths
+    between the electrodes are both resistive and capacitive the
+    arrangement is suitable for wide band operation since the
+    product of the equivalent parallel resistance and capacitance
+    is a constant depending only on the nature of the dielectric
+    various practical embodiments are described desirable
+    characteristics for the dielectric are indicated

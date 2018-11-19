@@ -1,0 +1,3 @@
+bi stable multivibrator analysis continuation of paper
+    abstracted in of april the operational calculus is used to
+    analyse the eccles jordan flip flop circuit

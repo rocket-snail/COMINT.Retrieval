@@ -1,0 +1,4 @@
+steering circuits control reversible counters a four
+    stage bistable multivibrator system is used to provide decade
+    counting complementary outputs from each stage dre switched to
+    succeeding stages to give either addition or subtraction

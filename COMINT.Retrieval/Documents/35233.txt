@@ -1,0 +1,2 @@
+development of the transistor inverter at using power
+    transistors

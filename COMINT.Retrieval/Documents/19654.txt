@@ -1,0 +1,10 @@
+nonlinear servomechanism the various factors limiting the
+    application of the linear theory of servomechanisms are
+    discussed the theory of filtered systems using relays developed
+    independently by dutilh of and kochenburger is outlined and two
+    net criteria applicable to all filtered servomechanisms are
+    established the first criterion is concerned with the
+    possibility of hunting taking place and includes the criteria
+    of nyquist and kochenburger as special cases the second
+    criterion determines the stability of such oscillations of the
+    system

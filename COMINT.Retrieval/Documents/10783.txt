@@ -1,0 +1,9 @@
+a general description of telidon' a canadian proposal for
+    videotex systems. some problems in introducing a videotex
+    system suitable for today's technology which also allows for
+    future expansion are discussed, and one solution proposed by
+    the canadian department of communications is outlined. the
+    overall system of telidon, the canadian approach to videotex
+    systems design, is described, with illustrations of various
+    options and their components. report not available from
+    ntis.

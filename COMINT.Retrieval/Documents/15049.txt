@@ -1,0 +1,4 @@
+chord construction for correcting aerial smoothing a
+    graphical method of correcting for aerial smoothing in radio
+    astronomy simpler and no less accurate than methods described
+    previously

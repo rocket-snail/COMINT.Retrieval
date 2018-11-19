@@ -1,0 +1,5 @@
+high density digital magnetic recording techniques a
+    comprehensive readback simulation computer program is described
+    which will automatically simulate for any characteristic pulse
+    all possible readback signal patterns and test them for
+    specified reading logic as a function of bit density

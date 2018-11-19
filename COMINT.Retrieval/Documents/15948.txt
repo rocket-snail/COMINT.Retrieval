@@ -1,0 +1,7 @@
+spin degeneracy and the theory of collective electron
+    ferromagnetism a model is discussed for which the results
+    obtained by neglecting or taking account of spin degeneracy are
+    identical the model can be treated exactly and leads to
+    equations for the free energy magnetization etc which are a
+    generalization of those of stoners theory of collective
+    electron ferromagnetism of

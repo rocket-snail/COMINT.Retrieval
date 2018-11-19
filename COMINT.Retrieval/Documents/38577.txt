@@ -1,0 +1,6 @@
+optical erasure of el pc and neon pc storage elements a
+    new method of selective storage and erasure using optrons is
+    described a single light source of constant intensity with
+    emission within the sensitivity range of the photoconductor
+    will latch optrons with short pulses and erase them with long
+    pulses

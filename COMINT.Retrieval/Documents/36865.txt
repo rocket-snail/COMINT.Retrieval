@@ -1,0 +1,16 @@
+a new method of analysing ionospheric movement records
+    technique based on optical diffraction systems is outlined the
+    ionosphere is provisionally assumed to be a plane reflector and
+    the image of a ground transmitter in it is regarded as a source
+    of coherent radiation giving rise to a diffraction pattern on
+    the ground corresponding to an inhomogeneity moving in or below
+    the ionosphere from the geometry of the system a focal length
+    is deduced and when the record of the diffraction pattern is
+    converted into a variable density photographic record a
+    corresponding visual focal length is obtained from which the
+    velocity of the moving inhomogeneity can be determined the
+    method has been tried at the new zealand dominion physical
+    laboratory using aerials arranged at the corners of a triangle
+    as suggested by mitra holograms showing some results are
+    reproduced from these it is celar that moving objects far below
+    the ionosphere can affect the records significantly

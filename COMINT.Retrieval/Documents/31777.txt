@@ -1,0 +1,8 @@
+hilbert transformations for communications and
+    information theory. january, 1976-december, 1981 (citations
+    from the international information service for the physics and
+    engineering communities data base). this bibliography cites
+    reports on the derivation and applications of hilbert
+    transformations in communications and information theory. a few
+    reports refer to applications to medical diagnostics and
+    industrial ultrasonic detection for material testing.

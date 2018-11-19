@@ -1,0 +1,5 @@
+application of digital computing techniques to physics
+    problems involving matrices ordinary and partial differential
+    equations functions occurring in crystallography and the random
+    walk statistical method are discussed machine design and the
+    training of personnel are considered briefly

@@ -1,0 +1,4 @@
+comment on networks terminated in resistance at both
+    input and output theory presented previously for lattice
+    networks is supplemented by indicating a method for obtaining
+    or terminations

@@ -1,0 +1,6 @@
+perturbations of filtered oscillators part results
+    previously obtained of may regarding the stability
+    synchronization and frequency pulling of a nonlinear oscillator
+    subjected to excitation by an external source are generalized
+    by considering the dependence of amplifier gain on the rate of
+    phase change

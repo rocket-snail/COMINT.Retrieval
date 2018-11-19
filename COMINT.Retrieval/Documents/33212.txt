@@ -1,0 +1,7 @@
+the transient response of direct current amplifier
+    systems dc amplifiers of the dc ac conversion type have an
+    upper frequency response limited by the detector circuit and
+    when negative feedback is used transients are amplified
+    considerably more than the steady signal the form of the
+    transient response and methods of reducing its magnitude ar
+    discussed

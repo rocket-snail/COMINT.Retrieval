@@ -1,0 +1,4 @@
+the calculation of the field in a homogeneous conductor
+    with a wavy interface analysis showing that the perturbation of
+    an em field in the conductor due to the ripples is proportional
+    to their amplitude

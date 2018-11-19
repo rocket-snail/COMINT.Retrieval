@@ -1,0 +1,2 @@
+bounds existing on the time and frequency responses of
+    various types of networks

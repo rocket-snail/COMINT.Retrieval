@@ -1,0 +1,4 @@
+transients in conducting media the effect of incident
+    wave fluctuations on the mean intensity distribution near the
+    focal point of a lens an extension of chernovs analysis of to
+    the case of fluctuations of arbitrary amplitude

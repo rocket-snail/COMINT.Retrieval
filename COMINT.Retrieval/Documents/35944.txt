@@ -1,0 +1,9 @@
+the mechanics of stock-taking in libraries: a case study
+    of indian institute of technology, delhi. examines the problem
+    of stock-taking of books in indian libraries; describes
+    stock-taking methods used in india, their strong points, and
+    their limitations; and discusses the desirability of
+    stock-taking. suggests that in large libraries only
+    computer-based stock-taking can succeed. describes such an
+    operation in the indian institute of technology, delhi, in 1977
+    and provides the cost analysis.

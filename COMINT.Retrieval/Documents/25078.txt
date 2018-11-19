@@ -1,0 +1,8 @@
+further aspects of the theory of the maser problems
+    relating to saturation effects and cavity resonator design for
+    the device discussed previously of february are examined
+    various types of noise and oscillator frequency shift are
+    considered the theoretical minimum detectable beam intensity
+    when the maser is used as a spectrometer for the ammonia line
+    is about molecules sec under typical experimental
+    conditions

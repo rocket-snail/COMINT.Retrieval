@@ -1,0 +1,6 @@
+the amplification of very wide frequency bands various
+    techniques for amplification in bandwidths exceeding are
+    discussed and the suitability of cascade and distributed
+    amplifiers is investigated direct and indirect methods of delay
+    line equalization are outlined and details are given of a seven
+    stage distributed amplifier with gain over a band

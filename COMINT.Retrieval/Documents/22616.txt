@@ -1,0 +1,3 @@
+the external magnetic field of a single thick semi
+    infinite parallel plate terminated by a convex semicircular
+    cylinder

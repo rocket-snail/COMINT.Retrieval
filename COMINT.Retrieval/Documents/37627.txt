@@ -1,0 +1,9 @@
+long range radio echoes from auroral ionization echoes
+    believed to be from auroral ionization are consistently
+    observed using pulse signals on frequencies and at the
+    relatively low latitude of stanford california two types of
+    echo are distinguished discrete of very large amplitude and
+    diffuse of much smaller amplitude echo data show a marked
+    correlation with visual aurorae and with magnetic activity and
+    also indicate that reflections occur at regions well above the
+    e layer

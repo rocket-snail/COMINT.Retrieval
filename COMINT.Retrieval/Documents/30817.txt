@@ -1,0 +1,11 @@
+managing exxon's technical reports. the technical
+    information contained in exxon reports is managed by use of an
+    in-house, computerised system that builds a data base and
+    produces current-awareness 'report alerts', various indexes
+    including a subject kwic, an on-line data base, and
+    reports-distribution control. key elements in the system are:
+    (1) a structural report number that incorporates codes for the
+    issuing unit, major subject, and date; (2) natural-language
+    indexing sentences that make up a pseudo abstract; and (3)
+    controlled subject categories that are a base for the 'reports
+    alerts' system.

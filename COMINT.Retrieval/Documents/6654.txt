@@ -1,0 +1,7 @@
+the distortion of fm signals in passive networks
+    expressions for the fundamental and first four harmonics of the
+    output instantaneous frequency are given in a series expansion
+    in terms of modulation frequency and modulation index the
+    coefficients in the expansion depending on the network
+    parameters effects of detuning are considered and detailed
+    results for the butterworth circuit are presented

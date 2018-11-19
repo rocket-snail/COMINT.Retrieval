@@ -1,0 +1,13 @@
+growing demand for on-line information retrieval systems.
+    the recently-emerged on-line information retrieval systems are
+    able to control the information explosion to a greater extent
+    than previous information systems and are considered to be one
+    of the best media for fast accurate information retrieval.
+    outlines the development, cost, potential applications, and
+    future prospects of on-line systems; highlights some
+    significant achievements during the last 10 years; and
+    emphasises the need for much further research to increase the
+    overall efficiency, effectiveness, and utility of such systems.
+    discusses some problems which are hindering the immediate
+    adoption of on-line information retrieval systems in
+    india.

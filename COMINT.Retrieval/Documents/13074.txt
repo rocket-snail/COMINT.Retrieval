@@ -1,0 +1,6 @@
+magnetic field due to a direct current traversing a solid
+    conductor of arbitrary shape application to a cylindrical
+    conductor laplaces law usually known as biot and savarts law is
+    shown to be more suitable than amperes magnetic sheet concept
+    as a basis for deriving formulae for the magnetic field of a
+    conductor the vector potential is introduced

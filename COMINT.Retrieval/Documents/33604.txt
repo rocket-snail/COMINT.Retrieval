@@ -1,0 +1,6 @@
+graphical procedures for solving the approximation
+    problem of electrical filters three graphical methods of
+    synthesizing filter response characteristics as the sum and
+    difference of functions of similar geometric form are explained
+    the methods are theoretically equivalent but have different
+    fields of application for english version see

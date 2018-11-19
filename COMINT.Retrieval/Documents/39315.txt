@@ -1,0 +1,5 @@
+a new family of transistor switching circuits two pairs
+    of output levels are obtained from the dual range circuits
+    described which incorporate both npn and pnp transistors the
+    possibility of lower stand by power dissipation and greater
+    switching speed than the dctl circuits see of is offered

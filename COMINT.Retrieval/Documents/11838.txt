@@ -1,0 +1,6 @@
+experimental on line catalog for the dartmouth college
+    libraries. this on-line pilot project demonstrates the
+    feasibility of using the oclc transaction tapes to create an
+    on-line catalogue, and the utility of the brs data base
+    structure for loading this data and for on-line searching.
+    report not available from ntis.

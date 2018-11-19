@@ -1,0 +1,7 @@
+electronic order transmission. online computer library
+    center (oclc) plans to use the bisac (book industry systems
+    advisory committee) data transmission protocol and fixed data
+    format in their on-line acquisitions system. isbns will be used
+    to identify publishers and standard address numbers (san),
+    developed by bisac, to identify library vendors, public,
+    academic and and school libraries.

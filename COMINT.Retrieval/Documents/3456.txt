@@ -1,0 +1,12 @@
+an informal survey of operational microprocessor-based
+    systems, autumn, 1979. traditionally computer applications in
+    libraries have been limited, both in scale and type, by the
+    relatively high price of conventional computer equipment.
+    advances in microelectronics technology, and especially
+    microprocessor-based machines, such as microcomputers and word
+    processors, have the potential for radically altering this
+    situation. reports on a survey undertaken by aslib to see how
+    far this technology has penetrated the library and information
+    world. systems in the various organisations visited are
+    described, as well as the applications for which they are
+    utilised.

@@ -1,0 +1,6 @@
+focusing electrified particles a relation is found
+    between h th magnetic field strength and the coordinate such
+    that the trajectories of charged particles in the xy plane pass
+    through both the origin and a given point on the y axis the
+    particles are assumed to have equal mass and charge h is
+    derived in the form of a simple series

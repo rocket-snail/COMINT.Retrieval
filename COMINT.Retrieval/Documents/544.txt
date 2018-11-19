@@ -1,0 +1,3 @@
+the main store of a digital differential analyser a
+    description of the performance and circuits of the main store
+    of corsair

@@ -1,0 +1,4 @@
+electron density fluctuations in a plasma the spatial
+    fourier transform of the electron distribution is in a plasma
+    is obtained together with is time variation using assumptions
+    consistent with an ionospheric application

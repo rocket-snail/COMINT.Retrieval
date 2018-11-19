@@ -1,0 +1,4 @@
+electron plasma oscillations in an external electric
+    field the oscillation frequency is calculated assuming that the
+    electron distribution function satisfies a given kinetic
+    equation

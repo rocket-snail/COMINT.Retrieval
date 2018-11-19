@@ -1,0 +1,10 @@
+arms seminar. report of a seminar on tci's arms
+    installations (automated records management system), 12 june
+    80. each arms application is a separately engineered system,
+    combining advanced micromedia, computer and video techniques to
+    provide secure document control and immediate access. an arms
+    installation could have 4 different subsystems' document
+    indexing, video distribution, digital drawing, and a document
+    scanner/com system. the price ranges from *6500,000 to *62
+    million. questions the need for such systems in the uk and
+    europe.

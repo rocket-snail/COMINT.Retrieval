@@ -1,0 +1,5 @@
+computation of crystal admittance the results of a
+    digital computer program designed to calculate the admittance
+    of a coaxial crystal for various values of video resistance
+    spreading resistance and barrier capacitance over the range are
+    given comparisons with available measurements are made

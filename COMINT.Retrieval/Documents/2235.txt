@@ -1,0 +1,8 @@
+frequency modulation by inductance variation a frequency
+    modulation by inductance variation a magnetically stable
+    ferrite modulator the operation of modulators incorporating a
+    reactance valve or a variable inductance is summarized the
+    losses in the magnetic core of the inductance modulator are
+    considerably reduced by using magnetic ferrites and details of
+    this type of modulator are given it can be used in simple
+    variable frequency circuits up to

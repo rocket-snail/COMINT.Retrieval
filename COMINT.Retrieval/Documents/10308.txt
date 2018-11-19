@@ -1,0 +1,11 @@
+establishing a basis for mapping natural-language
+    statements onto a database query language. describes a project
+    on informal (natural)/formal (data base query) language
+    mapping. a basis was developed for processing english-language
+    requests for information retrieval from an existing dbms (data
+    base management system). the role of each word in the
+    natural-language query was identified by 2 separate methods-a
+    learning algorithm and a statistical technique. the programme
+    was run with a set of 400 sentences from a basic science book.
+    the results, which were judged to be encouraging, are
+    discussed.

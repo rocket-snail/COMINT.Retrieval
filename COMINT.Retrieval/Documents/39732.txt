@@ -1,0 +1,4 @@
+the electromagnetic fields of a dipole in the presence of
+    a thin plasma sheet under the assumption that the thickness of
+    the slab is small expressions for the resultant fields are
+    obtained see also

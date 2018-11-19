@@ -1,0 +1,3 @@
+industrial applications of semiconductors part
+    thermistors description of the characteristics of thermistors
+    typical forms of construction and various applications

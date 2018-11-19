@@ -1,0 +1,5 @@
+a note on time series and the use of jump functions in
+    approximate analysis the response of filters to jump function
+    inputs is investigated jump transfer functions and serial
+    operators for common types of filter are tabulated the method
+    is compared with that described by tustin

@@ -1,0 +1,7 @@
+experimental characteristics of a microwave parametric
+    amplifier using a semiconductor diode a rectangular cavity
+    simultaneously resonant at and is used with a ge junction diode
+    having a zero bias capacitance of and a spreading resistance of
+    with a pumping signal applied at amplification can be obtained
+    at either of the lower frequencies at gain preliminary
+    measurements show a noise figure less than db

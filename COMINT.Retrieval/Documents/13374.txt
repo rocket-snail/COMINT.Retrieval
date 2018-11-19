@@ -1,0 +1,4 @@
+some thermal considerations on the use of solar cells in
+    space vehicles the radiation balance of solar cells in space is
+    discussed for different configurations of the cell assembly and
+    different orbits surface coatings are considered

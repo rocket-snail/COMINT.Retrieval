@@ -1,0 +1,7 @@
+behaviour of a two level solid state maser it is shown
+    under simplifying assumptions that when a system of spins is in
+    resonance with the cavity and when damping effects caused by
+    relaxation phenomena and cavity losses are not excessive
+    modulation of the cavity power output is exactly what is to be
+    expected on the basis of a dynamical analysis see also
+    of

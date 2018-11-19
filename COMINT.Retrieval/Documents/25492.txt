@@ -1,0 +1,7 @@
+theory of molecular oscillator and molecular power
+    amplifier theory is given of a device similar to that described
+    by gordon et al of january the condition for self excitation is
+    stated and expressions are given for the frequency amplitude
+    and maximum power output of the oscillator and for the power
+    amplification factor and the condition for linear amplification
+    of the amplifier

@@ -1,0 +1,3 @@
+interaction of a nonrelativistic particle with a scalar
+    field with application to slow electrons in polar
+    crystals

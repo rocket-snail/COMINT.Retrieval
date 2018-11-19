@@ -1,0 +1,9 @@
+vibrating wire high q resonator resonator units are
+    described in which a wire of high tensile strength is stretched
+    between long pole pieces maintaining a strong transverse
+    magnetic field resonance occurs when the frequency of current
+    sent through the wire coincides with the natural frequency of
+    the system theory is given and the equivalent electrical
+    circuit analysed with a tungsten wire mounted in vacuo a q
+    value of has been obtained at kcs applications of such devices
+    in filters and for frequency control are noted

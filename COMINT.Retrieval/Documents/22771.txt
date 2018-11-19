@@ -1,0 +1,4 @@
+physical theory and technique of electromechanical wave
+    filters equivalent circuits are derived and the design of some
+    practical filters is described with details of their
+    performance

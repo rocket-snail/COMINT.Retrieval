@@ -1,0 +1,12 @@
+edinburgh city libraries' online order experiment.
+    discusses a project devised by the british library research and
+    development department involving edinburgh city libraries to
+    test an on-line information retrieval experiment linked to book
+    ordering. c. askew & sons ltd, library suppliers have a
+    data base containing their stock file, customer order file, and
+    outstanding order file, and edinburgh libraries access the
+    system by vdu. files may be searched using stock titles; order,
+    invoicing and reporting instructions; outstanding order status;
+    and stock titles by dewey number range. the experiment improved
+    the period from issue to receipt of an order by almost a
+    week.

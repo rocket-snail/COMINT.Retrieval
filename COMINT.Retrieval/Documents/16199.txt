@@ -1,0 +1,15 @@
+an s band variable attenuator for high power working the
+    description is given of a waveguide insertion attenuator in
+    which the loss in r f power is produced by the action of a
+    column of water flowing in a glass tube mounted in the
+    waveguide continuous variation of attenuation being obtained by
+    adjustment of the water column height resonance effects in the
+    water column are exploited by choosing the cross sectional
+    dimensions of the glass such that an optimum attenuation per
+    unit length of tube is obtained experimental results are given
+    for a model covering the range the input being at any setting
+    and over the greater part of the range satisfactory operation
+    has been achieved in an evacuated test system fed by a
+    magnetron delivering peak power at a wavelength of various
+    modifications in design are suggested for use with higher mean
+    powers

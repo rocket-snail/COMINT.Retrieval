@@ -1,0 +1,13 @@
+database searching and document delivery via
+    communications satellite. librarians, scientists and engineers
+    at several laboratories associated with nasa used an on-line
+    information system, dialog, to search spin, a computerised data
+    base of abstracts of physics and astronomy articles; requested
+    articles were delivered by facsimile transmitter. a data base
+    of abstracts of articles accepted for publication but not yet
+    in print was also available. searches and document delivery
+    used either the experimental communications technology
+    satellite (cts) or telephone lines; an ats satellite was
+    occasionally used for document delivery. also examines the
+    human factors involved in the acceptance of a new information
+    delivery system.

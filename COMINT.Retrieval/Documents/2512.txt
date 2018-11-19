@@ -1,0 +1,24 @@
+characteristics of micros and their applications. in
+    recent years, the market in microcomputers has mushroomed
+    making such systems available at prices from under
+    *6100-*610,000's, rivalling the facilities and power of
+    minicomputers or even small mainframes. gives a brief history
+    of the development of microcomputers and describes the various
+    components of such a system. pays particular attention to the
+    type of component that is likely to be available in systems
+    which can be classified as 'small business systems' and
+    investigates the applications of such systems. despite the vast
+    market in microcomputers, there are still many restrictions
+    which may prevent their being used in some applications, such
+    as the capacity of the primary memory. furthermore, there are
+    very few standards in the area of microcomputers, leading to
+    problems of compatibility both from the hardware and software
+    viewpoint. such problems are being overcome at present but it
+    is likely that they will persist for some time to come as the
+    pressures of marketing cannot wait for standards to be
+    developed. the restrictions of microcomputers are also being
+    overcome, particularly with the development of 16-bit (and even
+    32-bit) processors and more sophisticated methods of storage,
+    such as 'bubble memories'. examines such developments and
+    briefly contrasts developments in hardware with those in
+    software.

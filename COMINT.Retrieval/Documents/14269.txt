@@ -1,0 +1,11 @@
+on the use of gram charlier series ot represent noise the
+    stochastic time series produced by the random occurrence of
+    identical events is considered if the waveforms corresponding
+    to the individual events and to the resulting autocorrelation
+    function and power spectrum are each represented by a gram
+    charlier series relatively simple relations exist between the
+    different sequences of coefficients if the noise bandwidth is
+    not too great the number of terms in the series is small enough
+    to permit computation the formulae are applied to the analysis
+    of experimental data for noise associated with reverse current
+    in a si diode

@@ -1,0 +1,6 @@
+on the radial extent of glow in microwave gas discharge
+    between coaxial cylinders the glow appears in the region of
+    maximum electric field strength close to the central wire over
+    a radius mm the luminosity depends on the net production rate
+    of electrons pr unit volume this rate is calculated and is
+    shown graphically as a function of radius

@@ -1,0 +1,33 @@
+relative impact of print and database products on
+    database producer expenses and income-trends for database
+    producer organizations based on a thirteen year financial
+    analysis. a 13-year analysis of the finances of a major data
+    base producer organisation, which is also a publisher of
+    abstracting and indexing products, indicates trends regarding
+    the impact that both printed products and data base products
+    have on the financial status of the organisation. the question
+    of 'migration' (from printed to on-line data base products) and
+    the fact that expenses have increased more than income are
+    discussed as they relate to the survival or growth of data base
+    organisations. since the data base has gone on-line, there have
+    been significant increases in the data base revenue, connect
+    hours, and numbers of on-line users. at the same time, there
+    have been decreases in the number of data base leases and
+    licences, the number of print product subscriptions, and the
+    excess of income over expenses. in consta nt dollars, the cost
+    of producing an abstract has decreased, the subscription charge
+    for printed products has increased only slightly, the lease and
+    license fees have decreased, royalty charges have increased,
+    and hourly connect fees have remained steady (even though the
+    size of the on-line file has increased greatly). the problem is
+    that of maintaining a balanced financial status in light of
+    increased income from one class of products, decreased income
+    from another class of products, and increased cost of
+    operation. possible approaches to ensure economic viability are
+    considered in terms of expenses, efficiency of operation,
+    marketing, products, services, and pricing. the most promising
+    approaches lie in the areas of pricing and development of new
+    products and servi ces. the possibility of developing a
+    consortium of data base producers for offering on-line services
+    is proposed. there appears to be no alternative to increasing
+    the prices for on-line users.

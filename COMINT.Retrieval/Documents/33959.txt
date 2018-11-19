@@ -1,0 +1,7 @@
+introducing apple ii. the text of a booklet which
+    provides elementary instruction in using a computer, designed
+    for a quebec children's library project to teach computer
+    literacy. a brief general introduction describes what a
+    computer can do, and how to programme it. specific instructions
+    with examples follow, demonstrating procedures for basic
+    operations and the range of the computer's facilities.

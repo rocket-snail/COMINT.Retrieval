@@ -1,0 +1,13 @@
+experimental studies of the motions of slow electrons in
+    air with application to the ionosphere from experiments on the
+    motion of slow electrons in air empirical formulae were deduced
+    from which the electronic temperature collision frequency drift
+    velocity and the average energy loss per collision ca can be
+    derived the collision cross section of molecules of air and
+    nitrogen at electron temperatures up to is directly
+    proportional to the speed of the electrons the electron
+    collision frequency in the ionosphere up to is linearly
+    proportional to the pressure the important result that is
+    proportional to and not to as believed hitherto where q is the
+    agitational energy of the electron and q the energy of thermal
+    agitation of the gas molecule is discussed briefly

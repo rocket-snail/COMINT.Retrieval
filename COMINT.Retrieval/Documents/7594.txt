@@ -1,0 +1,6 @@
+a technique for nonlinear function generation a method is
+    described for converting a circuit whose output is proportional
+    to the nth root of the input to give the nth power or vice
+    versa a practical circuit based on a variable gain feedback
+    amplifier for dealing with square and square roots is
+    illustrated

@@ -1,0 +1,8 @@
+a note on the use of the titanates as thermoelectric
+    transducers approximate calculations for a solid solution of
+    indicate that it would not be useful as a thermoelectric
+    transducer it seems that if materials could be produced with
+    high permittivity and high temperature coefficient of
+    permittivity but independent of field strength a transducer
+    with an efficiency comparable to that of a steam engine could
+    be developed

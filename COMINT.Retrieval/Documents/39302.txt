@@ -1,0 +1,3 @@
+study of a diode bridge nanosecond resolution coincidence
+    circuit a highly stable circuit is described which can provide
+    a resolution down to

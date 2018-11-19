@@ -1,0 +1,3 @@
+a note on the transfer voltage ratio of passive rlc
+    networks results obtained by failkow and gerst of are
+    generalized to include rlc networks

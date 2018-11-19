@@ -1,0 +1,5 @@
+solution of a diffractive problem the problem of
+    radiation from a semi infinite parallel plate waveguide
+    terminated by an infinite plane flange double wedge is
+    investigated in the k representation when the width of the
+    double wedge is and

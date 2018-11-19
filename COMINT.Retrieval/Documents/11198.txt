@@ -1,0 +1,6 @@
+coils for magnetic fields a comparison between wire wound
+    foil wound and coaxial cable wound solenoids considering the
+    limitations of temperature rise and weight equations relating
+    field power and internal temperature difference are obtained
+    from which the performance of any coil can be calculated the
+    relative advantages of al or cu windings are considered

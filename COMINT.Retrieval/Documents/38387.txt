@@ -1,0 +1,5 @@
+variation in height of anisotropy and random drift
+    velocity of the irregularities in the ionosphere correlation
+    analysis shows that the axial ratio of the anisotropy ellipse
+    and the random change factor are both greatest for waves
+    reflected from heights of

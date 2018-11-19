@@ -1,0 +1,4 @@
+solution of maxwells equations in terms of a spinor
+    notation the direct and inverse problem the use of spinor
+    notation enables the solution to be obtained in more compact
+    form than does vector notation

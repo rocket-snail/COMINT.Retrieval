@@ -1,0 +1,8 @@
+theory of afc synchronization the performance of an afc
+    system can be described in terms of three parameters the gain
+    constant the damping ratio and the resonance or cut off
+    frequency using these parameters expressions v for the
+    performance under conditions of small disturbance to the input
+    phase and for the pull in performance are derived two different
+    types of control network transfer function being
+    considered

@@ -1,0 +1,4 @@
+theory of the diffusion of light by strongly
+    piezoelectric crystals expressions are derived for the
+    variations of electric susceptibility produced in the crystal
+    by passage of a wz wave of thermal agitation

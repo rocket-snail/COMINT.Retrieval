@@ -1,0 +1,7 @@
+the university library and systems theory. outlines the
+    basic principles of systems theory and applies them to
+    university library organisation, as part of the general
+    university supra-system. analysis covers the objectives of the
+    library; the production inputs, i.e. books and periodicals;
+    maintenance, technical, support and adaptation subsystems; and
+    the outputs, i.e. services.

@@ -1,0 +1,3 @@
+cyclotron absorption of electro magnetic waves in a
+    plasma brief analysis of the absorption due to the thermal
+    motion of electrons and ions

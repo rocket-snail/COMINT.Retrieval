@@ -1,0 +1,12 @@
+the enhancement of ionospheric ionization during solar
+    flares study of the recombination coefficient in the lower
+    ionosphere based on the decay of sudden phase anomalies at and
+    on sudden enhancements of atmospherics gives values much
+    smaller than those reported by bates and seaton measurements of
+    the delay between the time of maximum flare and the times of
+    maxima of sudden phase anomalies and sudden enhancements of
+    atmospherics also suggest smaller values these results indicate
+    that for any height the value of the recombination coefficient
+    remains unaltered during a sudden ionospheric disturbance and
+    that the sudden increase in electron concentration is due to an
+    increase in the rate of electron production in the layer

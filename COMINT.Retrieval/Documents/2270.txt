@@ -1,0 +1,5 @@
+new linear passive nonreciprocal microwave circuit
+    component a note calling attention to the fact that the magneto
+    optic element producing the faraday rotations previously
+    reported by goldstein et al of and of constitutes a network
+    element of the tellegen gyrator type se also of hogan

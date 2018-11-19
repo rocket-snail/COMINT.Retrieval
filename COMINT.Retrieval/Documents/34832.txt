@@ -1,0 +1,6 @@
+the influence of positive ions on the propagation of
+    electromagnetic waves in magnetized plasmas theoretical
+    investigations covering a wide range of frequencies up to gyro
+    frequency for the case of a homogeneous infinite plasma and a
+    plasma confined by conducting walls with propagation at various
+    directions relative to the applied magnetic field

@@ -1,0 +1,9 @@
+limits of practical application of pisarenkos formula
+    pisarenkos formula expresses thermoelectric power in terms of
+    charge carrier concentration and effective mass and of absolute
+    temperature a constant factor is included to take account of
+    scattering of the charge carriers in the crystal lattice
+    calculations show that the errors are small up to carrier
+    concentrations of about atomic lattice and ionic lattice
+    crystals the errors are discussed and compared with those of
+    other formulae results are tabulated

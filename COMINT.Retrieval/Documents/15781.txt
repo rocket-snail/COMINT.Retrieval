@@ -1,0 +1,4 @@
+a note on whistler propagation in regions of very low
+    electron density calculations made on a model ionosphere
+    indicate that nose whistlers may exist although attenuation may
+    prevent their observation

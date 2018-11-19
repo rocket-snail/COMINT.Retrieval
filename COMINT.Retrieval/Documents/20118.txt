@@ -1,0 +1,4 @@
+an electrolytic tank as an analogue computing machine for
+    factorizing high degree polynomials by means of simple
+    measurements all the roots of a polynomial as high as the
+    degree can be located to within about

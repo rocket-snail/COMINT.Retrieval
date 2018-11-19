@@ -1,0 +1,7 @@
+anomalous electric fields in the atmosphere the potential
+    gradient in the atmosphere was found to depend to a large
+    extent on the presence of clouds the formula derived which
+    leads to results in good agreement with measurements expresses
+    the potential gradient at any given height in terms of the
+    known gradients at two other heights and the three
+    heights

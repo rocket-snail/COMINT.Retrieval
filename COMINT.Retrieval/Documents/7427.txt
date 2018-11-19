@@ -1,0 +1,3 @@
+ferrites in resonant cavities a formula is derived for
+    the frequency shift produced by introducing a sphere of ferrite
+    into a resonant cavity

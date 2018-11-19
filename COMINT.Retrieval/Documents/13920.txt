@@ -1,0 +1,7 @@
+equivalent circuits of coils with distributed
+    capacitances the equivalent circuit comprises an ideal coil a
+    certain number of positive capacitances two in the case of a
+    coil with one winding and an additional capacitance which can
+    be either positive or negative depending on the relative
+    magnitude and the exact distribution of the various parasitic
+    capacitances

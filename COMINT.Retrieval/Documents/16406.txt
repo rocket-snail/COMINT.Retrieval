@@ -1,0 +1,9 @@
+transductors with four limbed cores transductors with
+    four limbed cores have characteristics which differ from those
+    of conventional transductors in their symmetry with respect to
+    control current changes such transductors are suitable for
+    increasing the sensitivity of non polarized relays and may be
+    operated by either signals the suppression of response to
+    negative signals is also possible with four limbed transductors
+    and this may be used to reduce swamping effects in push pull
+    magnetic amplifiers subjected to large signals inputs

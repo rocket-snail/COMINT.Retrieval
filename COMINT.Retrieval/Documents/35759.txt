@@ -1,0 +1,6 @@
+transistor circuits for analog and digital systems a
+    summing amplifier an integrator and a voltage comparator using
+    junction transistors are described together with a voltage
+    encoder made up from them for translating voltages into
+    equivalent time intervals for analogue to digital
+    conversion

@@ -1,0 +1,4 @@
+variable output mains transformer a design using eight
+    windings giving voltages produces any integral output voltage
+    between and by simple switching auto transformer operation
+    above extends the range to v

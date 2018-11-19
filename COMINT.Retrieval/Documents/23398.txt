@@ -1,0 +1,6 @@
+scattering of a plane wave from a circular dielectric
+    cylinder at oblique incidence analysis is presented for the
+    general case the solution indicates that the scattering field
+    includes a significant cross polarization component which
+    vanishes at normal incidence the results are applicable to
+    scattering by ionized columns such as meteor trails

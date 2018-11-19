@@ -1,0 +1,16 @@
+retrospective bibliographic searching in spanish history.
+    a paper presented at a madrid conference in 1981 to demonstrate
+    the spanish institute of information and documentation in the
+    social sciences and humanities (isoc) approach to retrospective
+    searching when the literature of the subject is mainly in
+    spanish. details are given of the specific subject selected,
+    and its suitability as a sample topic discussed, in relation to
+    general difficulties for the searcher and applicability of
+    techniques employed to the humanities field in general. results
+    obtained using 4 data bases and 2 spanish indexes are presented
+    and analysed in terms of overlap, date of publication, country
+    of origin, and type of periodical. in conclusion a comparison
+    is made showing the advantages of automated over manual
+    searching. a profile of the typical isoc user is presented, and
+    finally recommendations are made concerning user training,
+    pricing of search services, and automation programmes.

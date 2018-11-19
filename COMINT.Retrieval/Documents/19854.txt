@@ -1,0 +1,3 @@
+anisotropic superexchange interaction and weak
+    ferromagnetism a theory is developed by extending the anderson
+    theory of super exchange to include spin orbit coupling

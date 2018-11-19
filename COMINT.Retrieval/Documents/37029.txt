@@ -1,0 +1,4 @@
+on the theory of a half wave magnetic amplifier a
+    detailed theoretical analysis is given of an amplifier proposed
+    by ramey see and of experimental results confirm the
+    theoretical conclusions

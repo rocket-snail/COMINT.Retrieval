@@ -1,0 +1,6 @@
+a rapid method of obtaining accurate virtual heights from
+    an ionogram the variation of apparent vertical height with the
+    amplitude of the reflected signal depends on constants of the
+    equipment these constants are used to construct a transparent
+    slider which corrects for this variation and enables virtual
+    heights to be obtained accurately

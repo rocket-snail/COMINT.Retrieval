@@ -1,0 +1,3 @@
+circuits for ternary switching variables applications of
+    a ternary switching algebra are considered and the synthesis of
+    a ternary adder is described

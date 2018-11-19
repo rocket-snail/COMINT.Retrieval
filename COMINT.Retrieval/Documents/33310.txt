@@ -1,0 +1,4 @@
+subminiature magnetic amplifiers a description of
+    circuits using a new ferristor fast saturable reactor which may
+    be used as a magnetic amplifier or as a bistable ferroresonant
+    element

@@ -1,0 +1,5 @@
+amplitude variations in a frequency modulated oscillator
+    analysis indicates how unwanted am is produced when fm is
+    accomplished by varying the capacitance in a negative
+    resistance oscillator circuit a numerical example is
+    given

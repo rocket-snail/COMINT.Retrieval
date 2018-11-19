@@ -1,0 +1,4 @@
+contribution to the theory of mode conversion maxwells
+    equations are formulated for three dimensional riemann space
+    the propagation of a lecher wave without mode conversion is
+    considered

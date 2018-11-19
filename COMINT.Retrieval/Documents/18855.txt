@@ -1,0 +1,5 @@
+the classification of the motions of an artificial earth
+    satellite about its centre of mass an analysis is given of
+    aerodynamic and gravitational perturbations taking account of
+    orbital repression the aerodynamic effects due to retardation
+    of the satellite rotation are not considered

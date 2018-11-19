@@ -1,0 +1,5 @@
+a method of determining the correlation between f and
+    sunspot number the monthly median critical frequency and the
+    smoothed sunspot number r can be represented for a month m and
+    time of day by the continuous periodic functions a and b are
+    examined using data obtained at six places in japan

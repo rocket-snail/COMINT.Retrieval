@@ -1,0 +1,6 @@
+increasing the frequency stability of homogeneous
+    cylindrical cavity resonators the effect of temperature
+    fluctuations and atmospheric conditions on the resonator
+    dimensions and the characteristics of the dielectric are
+    investigated to determine means of minimizing frequency
+    variations

@@ -1,0 +1,6 @@
+the electron affinity of hydrogen in a microwave gas
+    discharge experiments show that hydrogen in a microwave gas
+    discharge is a much better electron captor than its calculated
+    capture cross section would indicate giving de ionization times
+    in t r switches comparable with those obtained with water
+    vapour

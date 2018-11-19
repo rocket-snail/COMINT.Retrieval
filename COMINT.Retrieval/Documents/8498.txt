@@ -1,0 +1,11 @@
+on-line acquisitions systems for libraries. commissioned
+    and paid for by library technology reports subscribers.
+    describes various options available now/soon for automating the
+    acquisitions function; describes the ideal
+    technologically-feasible on-line acquisitions system against
+    which available systems might be compared; and outlines a
+    procedure for procuring the most suitable system for a
+    particular library. presents questions to ask about systems;
+    specifications for a generalised turnkey system and for a
+    bibliographic utility's acquisitions subsystem; and a list of
+    vendors.

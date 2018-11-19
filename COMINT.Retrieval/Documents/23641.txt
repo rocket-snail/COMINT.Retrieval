@@ -1,0 +1,6 @@
+regenerative fractional frequency generators a self
+    starting regenerative frequency divider circuit is described
+    which has the advantages of simplicity and of lock in stability
+    over a i wide range of frequencies an approximate analysis is
+    given which shows the dependence of performance on diode
+    characteristics and transistor input impedance

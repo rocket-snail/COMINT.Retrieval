@@ -1,0 +1,6 @@
+harmonic generation and frequency mixing in ferromagnetic
+    insulators calculations are made of second harmonic generation
+    and second order frequency mixing for small ellipsoidal samples
+    with loss included in the landau lifshitz form examples are
+    given and a simple case of third harmonic generation is
+    discussed detailed calculations are given elsewhere

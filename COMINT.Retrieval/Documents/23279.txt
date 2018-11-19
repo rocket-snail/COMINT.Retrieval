@@ -1,0 +1,5 @@
+theoretical considerations regarding the application of
+    parametric amplifiers to radio telescopes the improvement of
+    resolving power obtained by using one parametric amplifier
+    immediately preceding the aerial and another as preamplifier
+    stage of the receiver is discussed

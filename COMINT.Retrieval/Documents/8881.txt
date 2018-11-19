@@ -1,0 +1,11 @@
+local newspaper indexing' a public library reports its
+    experience. describes the development and operation of the
+    local newspaper indexing project in progress at the napa
+    city-county library in california. the index encompasses 2 sets
+    of newspapers-selected papers from 1857 to 1900, and a current
+    daily newspaper. the 2 indexes have different scopes and are
+    housed separately, but share a common subject authority file
+    and format. an indexer's manual was developed to provide a
+    portable authority file, and to instruct indexers on indexing
+    principles, scope rules, and difficult components. discusses
+    briefly some of the structural features of the index.

@@ -1,0 +1,7 @@
+a proposal for planning an interlending system for the
+    libraries of cairo city, egypt. (phd dissertation-pittsburgh
+    university). a questionnaire survey, interviews, visits, and a
+    literature analysis were used to expose the factors responsible
+    for the present state of interlibrary loan in cairo. a system
+    for formal interlibrary lending which can be modified for other
+    developing countries is proposed.

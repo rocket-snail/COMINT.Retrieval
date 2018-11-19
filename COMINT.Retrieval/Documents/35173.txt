@@ -1,0 +1,4 @@
+excitation of waves in plasma mathematical analysis of
+    plasma excitation by external currents based on two component
+    plasma theory applicable to wave excitation at any
+    frequency

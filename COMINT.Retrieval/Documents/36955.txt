@@ -1,0 +1,17 @@
+the diffraction of waves in passing through an irregular
+    refracting medium a relation is derived between the angular
+    power spectrum of waves emerging from a thin diffracting screen
+    random in two dimensions and the auto correlation function
+    describing the irregularities of the field as it emerges from
+    the diffracting screen the special case of an isotropic screen
+    characterized by an auto correlation function which depends
+    only on distance and not on direction is discussed for normal
+    and oblique incidence multiple scattering of waves caused by
+    volume irregularities of the dielectric constant is considered
+    the angular power spectrum and the auto correlation function
+    describing the irregularities of the diffraction field caused
+    by multiple scattering in a thick slab are determined the
+    results are compared with those obtained by hewish of for a
+    thin phase changing screen the results are discussed in terms
+    of problems arising in the study of radio wave
+    propagation

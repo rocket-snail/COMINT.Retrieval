@@ -1,0 +1,6 @@
+generating random noise with radioactive sources the
+    system comprises a radio active isotope mixed with a light
+    emitting phosphor and a type photomultiplier tube it was
+    designed for application with a repetitive analogue computer
+    and provides both a random telegraph wave with a mean count
+    rate of and gaussian noise with a power spectrum

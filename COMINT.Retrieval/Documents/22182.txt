@@ -1,0 +1,8 @@
+the initial radius of meteoric ionization trails kinetic
+    theory is applied to the formation of regions of ionized and
+    neutral atoms of meteoric material about the path of a meteor
+    it is found that the high initial velocity of the diffusing
+    particles causes the trail to reach an initial radius quickly
+    and normal diffusion then ensues a reflected signal may be
+    computed as if the initial radius mean free paths were reached
+    instantaneously

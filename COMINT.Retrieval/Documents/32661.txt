@@ -1,0 +1,14 @@
+malmo city library-most assiduous user of teletype within
+    libris. now that the research libraries' information system
+    libris has been transferred to a new central computer the
+    possibility of using teletype (tty) connections to the libris
+    system is open to all types of library besides those already
+    linked to libris. tty enables searching of the libris data
+    base, which contains bibliographic data on new acquisitions in
+    swedish research libraries since the end of the 1960s. each
+    registered book title in libris has its own object number and
+    can be presented in up to 5 different transaction pictures with
+    different bibliographic data, from very few data identifying
+    and locating the object, to a complete description. catalogue
+    cards to suit the individual library's practice of cataloguing
+    and classification can be ordered.

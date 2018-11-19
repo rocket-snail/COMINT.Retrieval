@@ -1,0 +1,6 @@
+a study of whistling atmospherics part diffuseness
+    diffuseness defined as the average time duration of whistler
+    energy on a fixed frequency is found to be twice as large for
+    long as for short whistlers to be independent of season and
+    time of day and to be linearly related to geomagnetic latitude
+    and whistler dispersion

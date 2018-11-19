@@ -1,0 +1,10 @@
+strict theory of the diffraction of electromagnetic waves
+    by plane screens analysis is based on the hertz or fitzgerald
+    vector which can be represented by a double fourier integral
+    the fourier amplitudes giving the angular distribution of the
+    far field are derived from a system of simultaneous integral
+    equations which can be solved approximately by developing in
+    certain orthogonal systems an alternative method of solutions
+    is an iteration process based on the kirchhoff approximation
+    the relation with huyghens principle and with the variation
+    problem of diffraction theory is established

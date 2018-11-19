@@ -1,0 +1,9 @@
+time symmetric filters methods are described for
+    simulating filters that have impulse responses symmetrical in
+    time and their application to the analysis of gliding tones is
+    discussed the response of a narrow band time symmetric filter
+    to a gliding tone is evaluated and shown to consist of an
+    oscillation bounded by a slowly varying envelope the shape is
+    governed by a parameter involving the bandwidth of the filter
+    and the rate of variation of the instantaneous frequency of the
+    tone

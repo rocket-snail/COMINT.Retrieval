@@ -1,0 +1,5 @@
+decicycle magnetic amplifier systems for servos digest of
+    paper published in improvements in circuitry and core materials
+    and the adoption of pulse techniques make possible systems
+    whose response times are one tenth to one hundredth of a cycle
+    of the power supply frequency

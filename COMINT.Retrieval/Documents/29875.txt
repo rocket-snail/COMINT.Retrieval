@@ -1,0 +1,3 @@
+the computer and control for the telescope at jodrell
+    bank the analogue computer and the drive and correction systems
+    which it controls are described

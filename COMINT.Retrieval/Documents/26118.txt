@@ -1,0 +1,5 @@
+simultaneous measurement of sweep frequency and of the
+    ionosphere outline description of frequency sweep equipment
+    designed to cover the range in four bands and used to obtain
+    simultaneous records of the variation of virtual height and
+    critical frequency with time sample records are shown

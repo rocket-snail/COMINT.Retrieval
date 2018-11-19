@@ -1,0 +1,3 @@
+kinematics of growing waves analytical treatment of the
+    problem of distinguishing between amplifying and evanescent
+    waves

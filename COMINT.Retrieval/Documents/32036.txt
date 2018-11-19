@@ -1,0 +1,3 @@
+more matrix driver employing magnetic amplifiers a high
+    frequency magnetic amplifier with high efficiency good signal
+    noise ratio and high output power has been developed

@@ -1,0 +1,11 @@
+a new approach to optimum filtering in filter problems if
+    enough is known about the signal and the noise to describe them
+    accurately by their power spectra conventional methods based on
+    wieners original method will provide the most effective filters
+    an alternative procedure for computing optimum filters based on
+    description of the signal in terms of a partial sum of
+    orthogonal functions is presented this will specify good
+    filters with far less labour than is necessary in the wiener
+    method and it has a wider range of practical application a
+    table of summation orthogonal analogues of the laguerre
+    functions which are useful in this procedure is appended

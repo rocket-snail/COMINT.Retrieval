@@ -1,0 +1,6 @@
+the dual input parallel t network the frequency of
+    maximum attenuation in this type of circuit is a function of
+    the ratio of the two input voltages various potentiometer drive
+    arrangements can be used for external tuning over a wide
+    frequency range experimental results for a circuit with dual
+    potentiometer input are in good agreement with theory

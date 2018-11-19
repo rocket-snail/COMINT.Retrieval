@@ -1,0 +1,4 @@
+transistor filters ripple in a low voltage dc power
+    supply a capacitance of is effectively multiplied by by the
+    addition of a junction transistor operating as an impedance
+    transformer

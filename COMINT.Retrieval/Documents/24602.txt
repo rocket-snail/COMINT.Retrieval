@@ -1,0 +1,5 @@
+the propagation of slow electromagnetic waves in plasma
+    cable a phase difference method of measurement is described
+    which enables the propagation parameters of a travelling wave
+    in a plasma to be determined including the direction of phase
+    and group velocities

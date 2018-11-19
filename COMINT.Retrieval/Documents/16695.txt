@@ -1,0 +1,4 @@
+an electronic ratio calculator use is made of the
+    principle that the amplitude ratio of two signals is
+    approximately linearly related to the phase angle of the
+    sum

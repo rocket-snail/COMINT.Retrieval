@@ -1,0 +1,7 @@
+the frequency lock afc circuit noise free operation of
+    the system is analysed and its performance at low signal noise
+    ratios is considered a theory of the system operation under the
+    latter conditions is developed from an examination of the
+    tracking errors resulting from noise and changes in signal
+    frequency practical results obtained are in agreement with this
+    theory

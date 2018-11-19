@@ -1,0 +1,4 @@
+cathode compensation the design of a cathode compensated
+    pentode video stage is discussed particularly the selection of
+    values for the cathode resistor and capacitor and the use of a
+    bleed resistor

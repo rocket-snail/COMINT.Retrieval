@@ -1,0 +1,7 @@
+networks for which magnitude or phase angle of input
+    impedance or transfer admittance remains constant as load
+    varies the conditions are determined that must be satisfied by
+    a network at constant frequency to obtain a particular
+    variation of input impedance or transfer admittance when the
+    load changes in a specified way results are tabulated for ten
+    special cases

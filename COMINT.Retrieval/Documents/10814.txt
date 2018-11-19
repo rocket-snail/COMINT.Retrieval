@@ -1,0 +1,4 @@
+lunar echoes received on spaced receivers results
+    obtained imply that a minimum diversity distance of about one
+    km on the earths surface is adequate to achieve diversity
+    reception for communications via the moon

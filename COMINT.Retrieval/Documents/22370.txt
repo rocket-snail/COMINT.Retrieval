@@ -1,0 +1,5 @@
+switching circuits for missile count downs a transistor
+    circuit is described which produces a switching pulse if its
+    input differs by more than a predetermined amount from a given
+    reference level the use of nonlinear negative feedback ensures
+    stable operation over a wide temperature range

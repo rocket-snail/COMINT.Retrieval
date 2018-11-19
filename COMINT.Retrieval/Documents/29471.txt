@@ -1,0 +1,4 @@
+thermistors for linear temperature readings two circuits
+    are described for deriving an error voltage which varies
+    linearly with the difference between actual and desired
+    temperature

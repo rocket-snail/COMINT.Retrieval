@@ -1,0 +1,9 @@
+plasma diffusion in a magnetic field the equations
+    governing the diffusion of a fully ionized plasma across a
+    magnetic field are derived it is assumed that macroscopic
+    quantities vary slowly across an ion radius of gyration and
+    that the interparticle collision frequency is much less than
+    the gyration frequency the relevant transport coefficients
+    electrical resistivity thermal conductivity and thermoelectric
+    coefficient are derived some similarity solutions of the
+    equations are found

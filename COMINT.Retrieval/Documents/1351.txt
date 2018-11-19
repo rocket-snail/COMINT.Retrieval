@@ -1,0 +1,15 @@
+bibliographic retrieval versus availability of documents'
+    the problem of selection. librarians are constantly faced with
+    the task of supplying literature on rapidly developing
+    subjects, especially in technology and medicine. mechanical
+    information retrieval is apt to yield vast amounts of
+    references which have to be weeded out. criteria for this vary,
+    but are usually dictated by necessity, namely the actual
+    availability of documents. thus the user can readily be
+    supplied with the relevant literature in well known journals
+    stocked by the library. it is questionable whether the user
+    gets a good coverage initially, or whether he must insist on
+    total retrieval of documents. the problem of selection will
+    probably become more acute in the future. a possible solution
+    is to analyse the growth and spread of papers relevant to a
+    specific topic in broader based journals.

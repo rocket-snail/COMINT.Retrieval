@@ -1,0 +1,4 @@
+electrical and acoustic oscillation build up phenomena
+    mathematical treatment of build up phenomena such as those
+    investigated experimentally by trendelenburg et al of for organ
+    pipe sounds

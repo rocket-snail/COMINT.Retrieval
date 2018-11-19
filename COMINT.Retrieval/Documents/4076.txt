@@ -1,0 +1,6 @@
+preliminary results of an experiment to determine initial
+    precedence of organized electrification and precipitation in
+    thunderstorms it is shown that electrification of clouds begins
+    before any radar echo is observed this raises doubts about the
+    assumption that precipitation is the primary cause of charge
+    generation

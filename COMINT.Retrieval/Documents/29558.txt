@@ -1,0 +1,5 @@
+discharge between positive point and plane in compressed
+    air at gas pressures of several tens of atmospheres the spark
+    discharge from a point may be preceded by relatively large
+    currents which are due either to the corona effect or to a dark
+    discharge resulting from the emission from the cathode

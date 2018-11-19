@@ -1,0 +1,6 @@
+asymptotic solutions of maxwells equations involving
+    fractional powers of the frequency the principal theorem
+    derived indicates the method of obtaining steady state
+    solutions provided that the behaviour of the corresponding
+    pulse solutions in the neighbourhood of the singularities is
+    known

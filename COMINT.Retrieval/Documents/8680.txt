@@ -1,0 +1,6 @@
+helical fields simple analytic helically invariant
+    solutions of the laplace equation are given and combined to
+    describe the e s field of a charged helix and the magnetic
+    field of a helical electric current certain graphical flux
+    plotting methods are out lined and illustrated and network
+    analogies are suggested for solving these fields

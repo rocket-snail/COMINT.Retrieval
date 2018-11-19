@@ -1,0 +1,5 @@
+the mechanism of electroluminescence part theoretical
+    considerations an account based on destriaus treatment
+    attributing the phenomena of electroluminescence to collisions
+    of field accelerated electrons in the conduction band
+    references

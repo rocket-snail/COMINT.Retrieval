@@ -1,0 +1,16 @@
+the development of lidas. describes the on-line serials
+    control system library information on the distribution of all
+    serials (lidas) developed for the central management library of
+    the uk civil service department. the main objectives of the
+    system are' that serials are checked in quickly and easily on
+    the terminal, producing distribution labels and circulation
+    lists, shelf marks for copies for the library and any relevant
+    information the clerical staff need to be aware of when
+    receiving issues of particular serials; that a number of
+    standard reports be readily available; that overdue and missing
+    issues be automatically spotted and reported on; that ad-hoc
+    enquiries can be quickly answered by accessing the data base
+    and generating one-off reports; that it replaces kardex and
+    other manual systems; that it is simple to understand and can
+    be maintained by library staff; that it is easy to use; and
+    that it remains flexible.

@@ -1,0 +1,4 @@
+the influence of the coefficients of the transfer
+    function of a transmission system on the output characteristics
+    as a function of time the input considered is in the form of a
+    step function

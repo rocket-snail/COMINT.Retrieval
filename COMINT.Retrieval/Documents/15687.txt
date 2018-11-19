@@ -1,0 +1,5 @@
+field theory of wave propagation along coils expressions
+    are derived for phase and group velocities and surge impedance
+    in air cored and iron cored coils and transformer windings
+    theoretical and experimental data for frequencies up to are
+    compared

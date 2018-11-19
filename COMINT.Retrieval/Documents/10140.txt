@@ -1,0 +1,4 @@
+microsystem circuit analysis a general method for
+    analysing film type networks based on the theory of indefinite
+    matrices is presented simple rules are developed for generating
+    sub networks from a given four terminal network

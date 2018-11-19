@@ -1,0 +1,8 @@
+the sunspot number series because of the lack of a truly
+    periodic term in the sunspot number series predictions have so
+    far been made on an empirical basis a more satisfactory
+    representation is obtained by plotting the numbers with
+    reversed sign for alternative year periods to give a year cycle
+    with practically zero mean value a significant degree of
+    correlation is found between the slopes of adjacent flanks of
+    the successive year cycles

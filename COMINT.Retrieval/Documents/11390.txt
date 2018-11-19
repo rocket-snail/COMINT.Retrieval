@@ -1,0 +1,4 @@
+satellite tracking by hf direction finder a twin channel
+    cr df with an adcock aerial was used on the signals from
+    satellites and the results obtained and their accuracy are
+    discussed

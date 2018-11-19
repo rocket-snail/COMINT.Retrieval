@@ -1,0 +1,7 @@
+satellite perturbations from extra terrestrial
+    gravitation and radiation pressure the equations of motion of a
+    satellite are written in terms of displacement components
+    relative to the unperturbed elliptic orbit a moving system of
+    co ordinates is used which consists of an orthogonal triad
+    whose origin is always located at the nominal satellite
+    position on the elliptic orbit

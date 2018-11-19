@@ -1,0 +1,4 @@
+movements of rarefied plasma in an alternating magnetic
+    field an expression is derived showing that even with constant
+    current the energy of rotation of plasma particles can increase
+    many times in consequence of the decrease of the radius

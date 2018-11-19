@@ -1,0 +1,5 @@
+a small high speed transistor and ferrite core memory
+    sistem a description is given of the design and operation of a
+    four hundred bit storage system used in a time division
+    switching system where the number of circuits controlled
+    required a simultaneous read out of twenty bits

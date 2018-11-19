@@ -1,0 +1,5 @@
+modified rice neutralization the theory of rice and
+    modified rice neutralization are discussed an formulae are
+    derived for maximum stability with no feedback voltage on the
+    grid the conditions for positive and negative feedback are also
+    derived

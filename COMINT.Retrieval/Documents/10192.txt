@@ -1,0 +1,5 @@
+satellite orbits about a planet with rotational symmetry
+    an approximate closed form solution of high accuracy and
+    without restriction on the inclination angle or eccentricity is
+    obtained for the equations of motion of an earth
+    satellite

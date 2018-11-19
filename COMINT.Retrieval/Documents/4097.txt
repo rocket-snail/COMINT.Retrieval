@@ -1,0 +1,5 @@
+the law of induction a survey of the literature indicates
+    a lack of clarity on this subject the law of induction is
+    formulated generally in terms of a geometrical entity called
+    the flux line which exists in te field of a solenoidal
+    vector

@@ -1,0 +1,8 @@
+geomagnetic activity and average deviations of daytime
+    layer critical frequencies in different geomagnetic latitudes
+    analysis of data from six ionospheric sounding stations and one
+    geomagnetic observatory shows a distinct dependence of the
+    average daytime deviations from median valves on the
+    geomagnetic latitude the seasons and the sunspot cycle the
+    effect on the prediction of ionospheric disturbances is
+    discussed and the reliability of predictions is assessed

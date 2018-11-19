@@ -1,0 +1,3 @@
+note on the theory of brownian motion in nonlinear
+    systems the hypothesis advanced by macdonald is shown to be not
+    self consistent

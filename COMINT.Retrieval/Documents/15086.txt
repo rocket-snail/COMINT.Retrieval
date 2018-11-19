@@ -1,0 +1,11 @@
+network developments and future trends. paper presented
+    at a one-day seminar on the university of london shared
+    cataloguing system, 3 apr 81. summary of the author's paper,
+    which surveyed the us and european network scene, and outlined
+    the development of cooperative networks in the uk, stressing
+    the contribution made by the british library research &
+    development department. anticipates the development of a uk
+    national data base incorporating all locally generated emma
+    records. discusses cataloguing and on-line costs, and looks to
+    the future of fault-tolerant, self-repairing cybernetic
+    systems.

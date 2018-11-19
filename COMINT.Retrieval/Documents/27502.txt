@@ -1,0 +1,8 @@
+parametric amplification along nonlinear transmission
+    lines a pump signal propagating along a dispersionless
+    transmission line with a distributed nonlinear capacitance is
+    subject to deformation since different parts of the signal move
+    with different velocities the deformation will affect the
+    parametric amplification process so that in general a
+    sinusoidal will not be increased inits fundamental frequency bi
+    travelling down the line

@@ -1,0 +1,8 @@
+a south african library network (sabnet)' progress
+    report. describes the progress made by the computerized
+    cataloguing network project on the development of a
+    computerised library network for south africa. discusses the
+    various network architectures available; the results of a study
+    of the library community's preferences in this respect; the
+    proposed network architecture; and its advantages and
+    disadvantages.

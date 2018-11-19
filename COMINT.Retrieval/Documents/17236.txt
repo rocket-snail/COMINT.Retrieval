@@ -1,0 +1,9 @@
+diurnal and storm time variations of geomagnetic and
+    ionospheric disturbance analysis of records obtained at abinger
+    and slough during a period of months shows the diurnal
+    variations to be very complex with significant differences
+    dependent on season and on activity level the hr component is
+    important in both geomagnetic and ionospheric phenomena but a
+    component is found only in ionospheric f disturbance the storm
+    time variations of f and of horizontal magnetic force h are
+    statistically closely linked

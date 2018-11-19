@@ -1,0 +1,7 @@
+determination of electron density and collision frequency
+    in a gaseous discharge by microwave propagation measurements
+    the gaseous discharge to be measured fills a section of
+    waveguide several wavelengths long and measurements are made of
+    the absorption and phase shift of a low power microwave signal
+    passing through the discharge results are quoted for ar at
+    pressures respectively of and mm hg

@@ -1,0 +1,14 @@
+cowocor' the +c+omputer +w+ord +coding and +research
+    documentation system of the hoechst company. cowocor has been
+    developed since 1968 to rationalise documentation of chemical
+    literature and improve its technical and economic content.
+    information and documentation are carried out in 1 process by
+    means of modern text processing machinery. the process is
+    described in detail; abstracts are recorded on magnetic tapes,
+    whose texts are used as printer's copy for a fortnightly
+    abstracting journal. 150,000 abstracts are stored at present.
+    the tapes are the basis of input, coding and retrieval. the
+    cowocor thesaurus contains 75,000 terms including synonyms. the
+    classification is basically monohierarchic with additional
+    polydimensions; the treatment of synonyms, composite terms and
+    homographs is discussed.

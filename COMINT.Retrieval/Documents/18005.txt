@@ -1,0 +1,11 @@
+automatic control of power equipment for
+    telecommunications and other essential services two types of no
+    break generating sets are described an all electric battery
+    operated equipment and a diesel electric equipment detailed
+    descriptions are given of three electronic devices used with
+    these sets a static exciter automatic voltage regulator making
+    use of two saturated transductors an alternator synchronizer in
+    which the generator and mains voltages are compared in a triode
+    circuit speed regulator using a thyratron which feeds the
+    control field of the motor and also incorporates alarm and
+    protection devices

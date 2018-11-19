@@ -1,0 +1,8 @@
+the automated office: online access in a records
+    management system. during the introduction of word-processing
+    equipment the problem of indexing and retrieving the processed
+    documents arose. the records management system allows the
+    on-line indexing of records, while the thesaurus can be
+    consulted on-line as well. secretaries are able to create their
+    own departmental thesaurus by selecting the relevant terms from
+    the corporate thesaurus.

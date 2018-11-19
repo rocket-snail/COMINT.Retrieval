@@ -1,0 +1,13 @@
+lister hill center's ils. describes the lister hill
+    center integrated library system (ils), at the lister hill
+    auditorium, national library of medicine, bethesda, maryland.
+    ils is a research and development effort to meet the library
+    automation needs of nlm and other health science libraries, to
+    improve information services, to provide better management of
+    library collections and to promote more effective resource
+    sharing. specific design objectives include modular integration
+    of functions and files, operation on a range of hardware
+    affordable even by small libraries, software responsive to
+    varying demands, transportability of programs, multi-level user
+    interfaces, system-network access, and compatibility with nlm's
+    planned medlars iii system.

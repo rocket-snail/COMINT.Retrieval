@@ -1,0 +1,6 @@
+building a readership for an online scientific journal.
+    inspec recently launched emis (electronic materials information
+    service). one of the facilities offered is electronic
+    publication of research results and the authors discuss some of
+    the problems encountered, as well as the solutions
+    adopted.

@@ -1,0 +1,8 @@
+reciprocal ladder networks the transfer impedance of a
+    system comprising generator and load with ladder network
+    interposed is unchanged if instead of the original network a
+    reciprocal network is connected in reverse the reciprocal
+    network is derived from the original one by replacing series
+    impedances by shunt impedance and vice versa the product of the
+    original and new impedances being in each case equal to the
+    product of the generator and load impedances

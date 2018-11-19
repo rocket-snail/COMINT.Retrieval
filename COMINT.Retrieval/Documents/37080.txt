@@ -1,0 +1,5 @@
+a special effect in some pulse systems the order of the
+    transfer function of pulse driven closed circuit systems can
+    under certain conditions be increased by one degree relative to
+    the corresponding steady state system the reasons for this
+    effect are given with experimental confirmation

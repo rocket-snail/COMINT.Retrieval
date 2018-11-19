@@ -1,0 +1,5 @@
+saturation effects in a travelling wave parametric
+    amplifier equations of voltage distribution are solved in terms
+    of elliptic functions and an expression for the maximum power
+    gain is derived the positions of gain maxima are
+    calculated

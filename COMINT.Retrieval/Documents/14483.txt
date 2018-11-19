@@ -1,0 +1,6 @@
+a new analogue computer a general purpose computer of
+    differential analyser type designed for economic quantity
+    production is described three basic elements are used viz
+    scaling units essentially decade variable resistors function
+    units comprising rc networks high gain amplifiers facilities
+    for cro and graphical display are provided

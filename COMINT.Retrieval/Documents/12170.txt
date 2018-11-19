@@ -1,0 +1,3 @@
+a simple phase detector a phase sensitive detector is
+    described for use when the reference and variable signals have
+    a common terminal

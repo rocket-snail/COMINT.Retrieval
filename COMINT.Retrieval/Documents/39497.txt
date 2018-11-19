@@ -1,0 +1,9 @@
+computer-aided management of requests for photocopies
+    received by a documentation centre' annual report and
+    statistical interpretation of results. describes a method for
+    studying, by computer, requests to information centres and
+    libraries for technical literature. details of the requests,
+    such as periodical title, date of publication, source of
+    supply, language, etc. are stored, counted, ranked and compared
+    to allow annual assessment to be made of factors influencing
+    the spread between various types of requests.

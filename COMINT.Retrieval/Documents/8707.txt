@@ -1,0 +1,5 @@
+the inverse skin effect the axial current density in an
+    infinite cylindrical conductor is calculated as a function of
+    radius and time rigid and radially expanding conductors are
+    treated current density distributions are obtained which
+    sometimes have no resemblance to the normal skin effect

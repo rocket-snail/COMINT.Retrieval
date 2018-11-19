@@ -1,0 +1,5 @@
+the theory of ferromagnetic resonance expressions based
+    on a temperature difference greens function are derived for the
+    susceptibility tensor some general properties are established
+    which are independent of a specific hamiltonian form the energy
+    damping of a spin system is also considered

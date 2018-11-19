@@ -1,0 +1,8 @@
+the development of clindata, a clinical trial data
+    management system. describes the design and implementation of a
+    clinical trial data management system at the wellcome research
+    laboratories. based on an ibm 3031 computer, the system
+    provides the capability for on-line data input, searching and
+    comprehensive data analysis. the data base also performs an
+    adverse reaction reporting function and provides for long term
+    follow-up of patients.

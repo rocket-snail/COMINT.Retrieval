@@ -1,0 +1,7 @@
+evaluation of transport integrals for mixed scattering
+    and application to galvanomagnetic effect the johnson whitesall
+    evaluations of the conductivity integrals for mixed scattering
+    have been extended to allow their application to the high
+    mobility semiconductors applications in the analysis of hall
+    effect corbino magnetoresistance and thermomagnetic phenomena
+    as functions of magnetic field are illustrated

@@ -1,0 +1,5 @@
+the equations of propagation of electromagnetic waves in
+    an ionized gas two different methods are used to derive the
+    equations for the propagation of em waves in an ionized gas
+    subjected to a time varying em field and to a constant magnetic
+    field terms depending on past states are found to occur

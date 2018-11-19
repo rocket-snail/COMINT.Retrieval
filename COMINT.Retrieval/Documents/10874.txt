@@ -1,0 +1,3 @@
+an voltage stabilizer a temperature limited diode placed
+    in one arm of a resistance bridge controls the output voltage
+    through a saturable reactor and autotransformer

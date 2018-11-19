@@ -1,0 +1,7 @@
+stabilization of the magnetic field of an electromagnet a
+    system is described for controlling both rapid and slow
+    variations of the magnetic field by means of a transistorized
+    control stage and feedback winding slow variations are detected
+    by the magnetic resonance of protons in a ferric nitrate
+    solution using a technique similar to that described
+    earlier

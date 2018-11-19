@@ -1,0 +1,4 @@
+theory of impurity resistance in metals part the many
+    body theory developed in a previous paper of is extended to
+    include all corrections resulting from electron electron
+    interactions

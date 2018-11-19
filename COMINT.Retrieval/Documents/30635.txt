@@ -1,0 +1,8 @@
+silicon pn junction power rectifiers and lightning
+    protectors a method of preparing large area junction diodes is
+    indicated in which donor eg or acceptor eg b impurities are
+    diffused into high purity single crystals of si at temperatures
+    above low resistivity surface layers are produced facilitating
+    the application of contacts electrical characteristics are
+    presented of a power rectifier and a lightning protector
+    prepared by this method

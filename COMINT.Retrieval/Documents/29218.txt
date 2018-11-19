@@ -1,0 +1,4 @@
+transistor power converter capable of watts d c output a
+    unit based on the circuit described previously has been
+    developed giving output from a input experimental performance
+    figures are given

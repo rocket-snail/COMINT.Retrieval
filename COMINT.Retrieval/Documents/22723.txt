@@ -1,0 +1,5 @@
+national education practices file development project.
+    procedures documentation. product 2.1. documents procedures for
+    maintaining and upgrading the national education practices
+    file, a programme designed to identify needs in education and
+    to develop a resource system for educators.

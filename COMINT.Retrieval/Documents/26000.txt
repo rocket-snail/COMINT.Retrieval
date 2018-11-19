@@ -1,0 +1,9 @@
+effect of surface roughness on losses in microwave
+    resonant cavities measurements of value were made on a
+    cylindrical mode cavity specially designed so that the internal
+    surface could be treated in various ways eg by plating or
+    polishing the magnitude of the discrepancies between the
+    measured values and those calculated for a perfectly smooth
+    surface depends on the dimensions of the surface irregularities
+    and is very small when the surface unevenness is no greater
+    than the skin depth

@@ -1,0 +1,4 @@
+polyhedral satellite for more accurate measurement of
+    orbit data of earth satellites a face polyhedron would reflect
+    to an observer a light pulse of intensity more than times that
+    from a sphere

@@ -1,0 +1,13 @@
+electric currents in the ionosphere part the conductivity
+    the effective height integrated conductivity of the ionosphere
+    calculated on the dynamo theory and taking account of
+    inhibition of the hall current due to polarization of the
+    medium is greater than the pedersen conductivity by a factor of
+    at least and near the magnetic equator is further increased by
+    a factor of to this calculation is shown to overestimate the
+    reduction in total current flow in the ionosphere due to the
+    shunting effect of the f region when the motion of the f region
+    is considered the dynamo theory as presented here gives results
+    in agreement with observations and accounts in particular for
+    the anomalously large magnetic variations observed near the
+    equator

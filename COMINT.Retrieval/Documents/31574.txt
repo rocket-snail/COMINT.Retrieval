@@ -1,0 +1,10 @@
+amplification and bandwidth of video amplifiers the
+    characteristics of the ideal amplifier with constant
+    amplification and constant phase transit throughout the pass
+    band are briefly reviewed and the principal types of amplifier
+    are analysed with particular reference to amplification and
+    bandwidth the theoretical maximum values of these parameters
+    are determined for the various types and compared with the
+    values obtained in practice and with one another arrangements
+    using distributed amplification ad having very wide pass bands
+    are considered briefly

@@ -1,0 +1,9 @@
+automating the vertical file index. the boys town
+    center's library services division maintains a substantial
+    collection of ephemeral research materials. extensive subject
+    indexing was required for optimum use of timely data in the
+    file. through cooperative efforts with a computer programmer,
+    an on-line indexing system was implemented on a local
+    minicomputer. the user-oriented system has improved reference
+    services and serves as a prototype for an on-line
+    catalogue.

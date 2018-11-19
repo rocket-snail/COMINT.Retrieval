@@ -1,0 +1,6 @@
+evaluation of texas air control board management and
+    operations systems requirements. (2 reports). provides
+    information for the design of management and operations systems
+    to implement and control the collection, storage, verification,
+    and dissemination of emissions inventory information within the
+    texas air control board (tacb).

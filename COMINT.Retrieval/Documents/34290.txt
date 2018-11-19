@@ -1,0 +1,6 @@
+parametric behaviour of an ideal two frequency varactor
+    an analysis in which pump and signal voltages of large
+    amplitude are allowed and the complete varactor characteristic
+    is used with linear signal termination the ratio of signal to
+    pump frequency must be where is an integer all possible
+    operating modes are identified

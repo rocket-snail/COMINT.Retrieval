@@ -1,0 +1,3 @@
+theory of quantum oscillators in a multimode cavity the
+    distribution of power in the various modes in the steady state
+    operation of an optical maser is studied

@@ -1,0 +1,10 @@
+harmonic distortion and negative feedback different
+    methods of defining gain in relation to the output voltage
+    input voltage characteristic of an amplifier are discussed for
+    a nonlinear amplifier it is reasonable to base the definition
+    on the average slope a method is indicated for constructing the
+    characteristic of the amplifier with feedback from that of the
+    amplifier without distortion can be reduced by means of
+    feedback even for flat regions of the characteristic this
+    result is in disagreement with that of rowlands of detailed
+    analysis is given for several types of amplifier

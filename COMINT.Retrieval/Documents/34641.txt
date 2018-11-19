@@ -1,0 +1,7 @@
+design of video couplings a method is presented for
+    designing low rise time video amplifier coupling networks with
+    three of four independent elements by the proper location of
+    complex zeros and poles of the network function the relations
+    between rise time overshoot and delay are determined graphs are
+    presented for determining the type of response of a circuit
+    with given type of response

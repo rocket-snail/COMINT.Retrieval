@@ -1,0 +1,13 @@
+an alternative isbn checking algorithm. the international
+    standard book number is well known as a title identifier in
+    bibliographic retrieval systems, as a control number for isbn
+    assigned monographs appearing on the uk marc record, and as a
+    stock-item identifier in the book trade. equally well-known is
+    the helpful characteristic that isbns exhibit whereby their
+    10th and final character serves as a check-digit, minimising
+    data entry errors. other well-known identifiers, such as the
+    library of congress number and the british national
+    bibliography number which serve respectively as control numbers
+    on the lc marc record and on the uk marc record for non-isbn
+    assigned monographs, do not exhibit comparable self-validating
+    characteristics.

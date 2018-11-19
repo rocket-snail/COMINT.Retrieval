@@ -1,0 +1,6 @@
+a balanced unregulated dual power supply a circuit is
+    described for simultaneously providing positive and negative
+    voltages which remain equal in face of line voltage variations
+    practical details are given for a unit supplying a graph shows
+    the performance of the unit used with a amplifier providing a
+    balanced load

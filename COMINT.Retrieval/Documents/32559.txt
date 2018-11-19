@@ -1,0 +1,11 @@
+topological centric coding and nomenclature of polycyclic
+    hydrocarbons. 1. condensed benzenoid systems (polyhexes,
+    fusenes). on the basis of the focal numbering of each benzenoid
+    ring in the graphite lattice, any polyhex (cata-, peri, and
+    corona-fused polycyclic benzenoid system) can be coded by
+    making use of (1) the dualist graph of the polyhex and (2) the
+    recent generalisation of the topological centre concept. the
+    numerical code can be used for nomenclature purposes, and the
+    present approach can be easily generalised to condensed
+    nonbenzenoid systems as will be shown in future
+    publications.

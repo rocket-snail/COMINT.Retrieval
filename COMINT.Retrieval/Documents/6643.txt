@@ -1,0 +1,5 @@
+basic features of neels theory of impurity atom after
+    effects exposition in simple terms of neels theory of magnetic
+    diffusion after effects of the equivalent circuit of a bloch
+    wall is derived which allows for the influence of impurity
+    atoms

@@ -1,0 +1,5 @@
+on the theory of diffraction by a composite cylinder
+    general formulae are developed for the diffraction field around
+    a perfectly conducting cylinder with a dielectric sleeve these
+    formulae represent the field due to a unit electric line source
+    parallel to the cylinder limiting cases are examined

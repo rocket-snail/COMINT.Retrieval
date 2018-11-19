@@ -1,0 +1,9 @@
+shock spectrum computer for frequencies up to an
+    arrangement for investigating the effects of mechanical shock
+    on electronic equipment installed in guided missiles comprises
+    an analogue computer which operates on an accelerometer signal
+    either direct or recorded and solves the differential equation
+    for the part involved the result being displayed on a screen
+    the computer can be tuned up to thus covering the range within
+    which the fundamental resonance of any delicate structure is
+    likely to occur

@@ -1,0 +1,10 @@
+scattering of electromagnetic waves from a lossy strip on
+    a conducting plane an examination is made of the error
+    introduced in the analysis of radiation and propagation
+    problems by assuming perfect conductivity in media such as the
+    ground which are in fact imperfectly conducting the result of
+    the approximate calculation is compared with that of an exact
+    calculation involving elliptic wave functions for the
+    approximation to be permissible the surface impedance o the
+    lossy regions should not exceed times the impedance of free
+    space

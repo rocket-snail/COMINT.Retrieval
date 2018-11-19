@@ -1,0 +1,6 @@
+auger ejection of electrons from tungsten by noble gas
+    ions report of an experimental investigation using atomically
+    clean tungsten and ions with various charges the results
+    indicate a value of about for the energy of the fermi level
+    above the ground state in the conduction band in
+    tungsten

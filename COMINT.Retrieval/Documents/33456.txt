@@ -1,0 +1,4 @@
+plasma oscillations of a large number of electron beams
+    longitudinal oscillations of a large number of electron beams
+    are investigated the problem of passing to the limit of a
+    continuous velocity distribution is considered in detail

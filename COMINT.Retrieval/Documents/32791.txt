@@ -1,0 +1,7 @@
+some experiments with miniature power triodes description
+    including complete circuit diagrams and discussion of
+    performance of two af amplifiers with an output of about one of
+    which uses valves in push pull and the other four valves in
+    parallel in a single ended output using unselected components
+    the latter amplifier gave a more satisfactory
+    performance

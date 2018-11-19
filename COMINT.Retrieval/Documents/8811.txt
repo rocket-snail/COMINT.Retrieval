@@ -1,0 +1,4 @@
+the ionospheric faraday effect and its applications
+    measurements of ionospheric characteristics by means of lunar
+    radio reflections and satellite radio transmissions using the
+    faraday effect are discussed

@@ -1,0 +1,15 @@
+techniques of classification in psychology i' factor
+    analysis, facet analyses, multidimensional scaling, latent
+    structure analysis. classification problems are quite common in
+    psychology, and many classification procedures have been
+    developed and applied to this science. the most commonly used
+    technique in psychology is factor analysis. describes the
+    underlying model of factor analysis, its indeterminacy
+    problems, modifications and extensions. also discusses facet
+    analysis and multidimensional scaling (mds), which can be used
+    either as a preliminary stage for other classification
+    procedures or as a classification method itself. a distinction
+    is made between metric and non-metric mds procedures, and
+    between methods for proximity data, dominance data, profile
+    data, and conjoint measurement data. finally the models and
+    applications of latent structure analysis are discussed.

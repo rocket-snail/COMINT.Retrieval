@@ -1,0 +1,6 @@
+investigation of vertical movements of the f layer
+    calculations based on observations of the rate of fading of
+    signals and simultaneous independent determinations of e layer
+    vertical movements confirm that the vertical drift velocity of
+    the f layer at morning and evening is greater than that of the
+    e layer

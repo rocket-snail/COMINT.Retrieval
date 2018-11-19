@@ -1,0 +1,4 @@
+self setting servo gate simple circuit used in
+    ionospheric pulse experiments picks out pulses transmitted at a
+    fixed repetition frequency in the pres ce of random noise and
+    improves reliability of synchronizing link by factor of

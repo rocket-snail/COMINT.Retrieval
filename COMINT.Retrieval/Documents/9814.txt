@@ -1,0 +1,12 @@
+a method of analysis of fundamental and overtone crystal
+    oscillator circuits use of the method of loci facilitates
+    comparison between the pierce miller and the pierce colpitts
+    type of crystal oscillator circuit type is much more suitable
+    for harmonic oscillation and very high frequencies because it
+    requires less mutual conductance type is under certain
+    conditions particularly suitable for frequency standards
+    circuits with the crystal connected between anode and cathode
+    have under certain conditions low power dissipation in the
+    crystal conditions for frequency stability are analysed and a
+    simple and accurate method of determining crystal parameters is
+    described

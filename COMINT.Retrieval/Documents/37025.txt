@@ -1,0 +1,4 @@
+the climatic fitness of carbon film resistors for use in
+    electrical communications and measurements equipment for
+    climatic tests is described effects observed in resistors
+    subjected to such tests are discussed

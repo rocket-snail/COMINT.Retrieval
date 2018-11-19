@@ -1,0 +1,8 @@
+phase stabilization of microwave oscillators description
+    of a circuit incorporating a single stable feedback loop that
+    has been used to stabilize the frequency of a type band
+    klystron by locking it to a harmonic of a quartz controlled
+    oscillator any phase modulation in the klystron is detected in
+    a phase discriminator the resulting signal is amplified in a
+    differential dc amplifier and applied to the klystron repeller
+    electrode

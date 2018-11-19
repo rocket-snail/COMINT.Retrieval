@@ -1,0 +1,14 @@
+automation in the library of the unilever research
+    laboratory in vlaardingen. the library of the unilever research
+    laboratory at vlaardingen in the netherlands serves
+    approximately 450 laboratory staff. the collection contains
+    some 10,000 books and 800 current periodicals, covering edible
+    oils and fats and soap products, and has a staff of 7. at
+    present the production of the annual periodicals list, the sdi
+    of new periodical articles, the periodicals administration and
+    the control of the library budget are carried out on the
+    laboratory's mini-computer, to which the library is linked by
+    means of a visual display unit. in addition, the book catalogue
+    is produced on microfiche using the headquarters computer in
+    rotterdam. in the near future it is planned to automate the
+    loan system and the book-ordering and invoice system.

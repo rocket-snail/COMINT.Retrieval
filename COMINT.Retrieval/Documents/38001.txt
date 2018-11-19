@@ -1,0 +1,10 @@
+lf compensation for video amplifiers part amplifiers
+    without feedback the departure from the ideal flat top response
+    caused by low frequency distortion can be reduced by making the
+    differential coefficients of the output function equal to zero
+    at the order of compensation is designated by the number of
+    derivatives equal to zero general theory is given and is
+    applied to some typical resistance coupled amplifiers a single
+    rc coupled stg stage can have second order compensation and
+    multistage amplifiers can have higher orders of compensation
+    experimental results confirm the analysis

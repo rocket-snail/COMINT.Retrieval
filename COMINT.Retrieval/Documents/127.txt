@@ -1,0 +1,11 @@
+design of series peaking transformers essential features
+    of this type of transformer are the load current is arranged to
+    be negligible compared with the magnetizing current and the
+    magnetizing current is allowed to reach a value much greater
+    than that required to saturate the core an easy and accurate
+    design method is presented which does not require an analytical
+    representation of the by bh characteristic the example of a
+    transformer to produce a voltage pulse of about for triggering
+    a thyratron is worked out numerically the voltage and duration
+    of the pulse can be predicted to within about of the measured
+    values

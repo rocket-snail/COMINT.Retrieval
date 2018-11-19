@@ -1,0 +1,6 @@
+directly coupled transistor circuits switching circuits
+    using surface barrier and alloy junction transistors are
+    described in many cases the only other circuit components
+    required are resistors rise and fall times of about and
+    respectively are obtained applications in digital computers are
+    mentioned

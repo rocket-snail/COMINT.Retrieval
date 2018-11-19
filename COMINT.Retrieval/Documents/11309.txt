@@ -1,0 +1,5 @@
+thermoelectric phenomena associated with electron field
+    emission the equilibrium temperature distribution in an ideal
+    metal rod one end of which is subjected to an intense electric
+    field is studied the application of the system as a heat pump
+    is considered

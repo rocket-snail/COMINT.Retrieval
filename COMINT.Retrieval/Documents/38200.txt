@@ -1,0 +1,4 @@
+magnetic voltage stabilizers the use of saturation
+    effects in a number of basic designs is described brief details
+    of a valve controlled automatic stabilizer circuit are
+    given

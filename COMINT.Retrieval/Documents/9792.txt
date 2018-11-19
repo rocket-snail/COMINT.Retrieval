@@ -1,0 +1,4 @@
+thermal conductivity of an electron gas in a gaseous
+    plasma experimental techniques used with ne and he plasmas are
+    described conductivity values obtained by two separate methods
+    are in agreement and consistent with theory

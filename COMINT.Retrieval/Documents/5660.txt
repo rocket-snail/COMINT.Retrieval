@@ -1,0 +1,7 @@
+potential distribution between two plane emitting
+    electrodes part thermionic engines all potential distributions
+    can be represented by a two parameter family of curves the
+    parameters depending on the electrode temperatures potentials
+    and work functions the computed results show clearly th
+    relative influence of these quantities on the potential minimum
+    between the electrodes

@@ -1,0 +1,3 @@
+limiting in feedback control systems study of the effect
+    of limiting on system performance in terms of the frequency
+    response

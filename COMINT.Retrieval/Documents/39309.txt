@@ -1,0 +1,9 @@
+particle transport electric currents and pressure balance
+    in a magnetically immobilized plasma an analysis of a plasma
+    immobilized by a magnetic field shows that each kind of charged
+    particle has a general drift perpendicular to the gradient of
+    the field but that there is no corresponding electric current
+    density there is an exact cancellation arising from the
+    gradient of the larmor radius the current density which is
+    present arises exclusively from the particle density gradient
+    and is not associated with any drift of matter

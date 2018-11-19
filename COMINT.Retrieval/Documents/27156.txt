@@ -1,0 +1,7 @@
+instabilities of a cylindrical electron hole plasma in a
+    magnetic field the stability of an electron hole plasma
+    carrying current parallel to a magnetic field is investigated
+    instabilities are predicted and the calculated values of
+    electric field magnetic field and lowest oscillation frequency
+    are compared with available observations agreement is
+    reasonably satisfactory

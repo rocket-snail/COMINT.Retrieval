@@ -1,0 +1,4 @@
+some scattering problems in conduction theory an
+    expression derived for the scattering of electrons by
+    inhomogeneous slowly varying strain fields is applied to
+    scattering by dislocations and stacking faults

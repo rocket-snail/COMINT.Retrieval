@@ -1,0 +1,5 @@
+the magnetic fields of a ferrite ellipsoid approximate
+    expressions are found for the internal and the adjacent
+    external magnetic fields of a small ferrite ellipsoid under
+    plane wave excitation consideration is given to the variation
+    of apparent susceptibility with the size of the ferrite

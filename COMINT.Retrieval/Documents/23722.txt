@@ -1,0 +1,8 @@
+pulsar' a personalized microcomputer-based system for
+    keyword search and retrieval of literature information. a
+    keyword-based storage and retrieval system for literature
+    references has been developed with a trs-80-ii microcomputer.
+    the system, called pulsar, has been designed to provide and
+    maintain rapid access to a personalised data base. application
+    of the pulsar system to the literature of synthetic organic
+    chemistry is described.

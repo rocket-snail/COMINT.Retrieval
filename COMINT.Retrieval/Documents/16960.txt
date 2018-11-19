@@ -1,0 +1,6 @@
+ionosphere review twelve month running averages and
+    monthly mean values are plotted for the sunspot numbers and the
+    noon and midnight f critical frequencies from it is inferred
+    that the critical frequencies are likely to decrease only very
+    slightly before the next sunspot minimum and that the latter is
+    to be expected between march and april

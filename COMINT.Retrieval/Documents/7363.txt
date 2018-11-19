@@ -1,0 +1,6 @@
+q factor anomalies in series coupled ferrite rod
+    inductances an examination of the variation of the q factor of
+    a coil divided into two series coupled parts positioned at
+    different points on the core results are discussed with
+    reference to high q oscillatory circuits and in particular the
+    efficiency of ferrite rod aerials

@@ -1,0 +1,7 @@
+stimulated rf amplifiers working on hyperfine levels of
+    paramagnetic atoms a note on the possibility of obtaining
+    signal amplification in the frequency range using crystals of
+    salts containing bivalent ions of the isotope with oersteds to
+    and number of paramagnetic ions the stored energy for one pair
+    of hyperfine levels will be of the order of to ergs for a pulse
+    duration of sec the output power may reach w

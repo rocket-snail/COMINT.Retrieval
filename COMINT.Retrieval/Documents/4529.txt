@@ -1,0 +1,5 @@
+the movement of charge carriers in gases with crossed
+    electric and magnetic fields the cases discussed are static
+    magnetic field with alternating electric field at right angles
+    both fields static and both fields alternating
+    synchronously

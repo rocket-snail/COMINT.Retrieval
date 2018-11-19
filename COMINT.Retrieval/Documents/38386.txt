@@ -1,0 +1,6 @@
+electronic voltage regulators relatively simple circuits
+    giving a high degree of stabilization have been designed at the
+    national bureau of standards using beam power series valves
+    with separate screen supplies a power supply unit is briefly
+    described containing four regulated sources and giving outputs
+    of and

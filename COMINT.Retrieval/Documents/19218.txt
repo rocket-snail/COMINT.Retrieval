@@ -1,0 +1,14 @@
+possibility oy obtaining very short continuous waves
+    using a reylex klystron supplying energy at high order
+    harmonics oy the fundamental oscillation a yormula is given yor
+    determining the wavelengths oy the natural resonances oy the
+    klystron cavity the dependence oy these wavelengths on the grid
+    separation is shown graphically together with curves giving the
+    values corresponding to exact harmonics oy the fundamental the
+    two families oy curves intersect at an infinite number oy
+    points at each oy which the cavity is capable oy oscillating at
+    both fundamental and harmonic frequency using a klystron with a
+    beam voltage oy about and current and reylector voltage oy
+    about and current and reylector voltage wavelengths down to
+    harmonic have been generated with a power oy some tens oy
+    microwatts

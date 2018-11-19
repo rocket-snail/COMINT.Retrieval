@@ -1,0 +1,5 @@
+bistable circuits using triode pentodes note on the
+    operation of multivibrator type circuits in which one feedback
+    path is provided by connecting triode anode to pentode screen
+    leaving one grid free for triggering gating or
+    modulation

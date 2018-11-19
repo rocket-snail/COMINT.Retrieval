@@ -1,0 +1,7 @@
+forces and stresses in an electromagnetic field the
+    theories of faraday larmor and livens and the energy method are
+    compared and applied to some illustrative examples the three
+    theories may lead to different results for nonrigid magnetic
+    materials and the larmor and livens theory may not be
+    applicable to magnetostriction a discussion by r m lichtenstein
+    giving a further thermodynamic method is included

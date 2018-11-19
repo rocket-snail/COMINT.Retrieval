@@ -1,0 +1,17 @@
+a view of the future of library networking. future
+    developments in library networks will include growth of
+    computer-based networks in number and variety of libraries, in
+    use of various subsystems, and in size of data bases used.
+    services provided by on-line systems will expand to include
+    improved subject access, on-line catalogues, serials lists and
+    inventory control, acquisitions functions, interlibrary
+    lending, circulation, and reference services. additional
+    services will include home delivery of information, text
+    transmission, home-computing support, library management
+    systems, and interface between bibliographic utilities.
+    increasing interaction is breaking open the artificial
+    compartments in which libraries and librarians have seen
+    themselves. the demands placed on library personnel in network
+    development will need continued exercise of skill, knowledge,
+    and integrity as the collective common sense works for the
+    common good.

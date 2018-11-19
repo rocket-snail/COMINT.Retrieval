@@ -1,0 +1,3 @@
+derivation of the phase characteristic from the
+    attenuation curve in minimum phase systems the graphical method
+    described is illustrated by numerical examples

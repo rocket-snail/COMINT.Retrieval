@@ -1,0 +1,6 @@
+ac controlled magnetic amplifiers a method is described
+    for controlling full wave amplifiers with ac signals the
+    response characteristic is similar to that of dc controlled
+    amplifiers and high gain is achieved with no current limiting
+    resistors or demodulator the method is based on cancelling the
+    induced emf in the control circuit

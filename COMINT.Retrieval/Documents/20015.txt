@@ -1,0 +1,8 @@
+study of the dielectric in paper capacitors measurements
+    were made of the loss angle of wet and dry paper at and of the
+    permittivity of the impregnant and of the impregnated paper
+    from these an equivalent circuit was derived for the capacitor
+    which can be used in estimating the quality of the paper and
+    desirable conditions of manufacture breakdown strength
+    measurements were also made to determine the optimum applied
+    voltage

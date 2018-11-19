@@ -1,0 +1,6 @@
+unique serial title entries. aacr 2 requires a much
+    higher proportion of periodicals to be entered under title,
+    whether or not the title is unique. the code does not provide
+    rules for the creation of uniform titles for periodicals. as a
+    result, the library of congress drew up guidelines for uniform
+    titles.

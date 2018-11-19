@@ -1,0 +1,4 @@
+dynamics of plasma part plasma with neutral gas
+    continuation of work noted in of to illustrate theory it is
+    applied to investigate the influence of self magnetic field on
+    a glow discharge

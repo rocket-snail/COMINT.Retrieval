@@ -1,0 +1,3 @@
+geomagnetic noise results of observations made are
+    compared with estimates of the noise intensity to be expected
+    from a cherenkov radiation mechanism

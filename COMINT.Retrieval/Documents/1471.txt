@@ -1,0 +1,3 @@
+choke or capacitor input basic differences of operation
+    and application of the two systems of power supplies are
+    explained

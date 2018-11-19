@@ -1,0 +1,12 @@
+the quality of automated systems and information
+    analysis. a paper presented at a 1979 brazilian conference.
+    while information control and document access techniques have
+    benefited from the introduction of automated information
+    retrieval systems and developments in information technology,
+    it is on the quality of information input that the efficiency
+    of automated systems depends. information processing should be
+    integrated into the procedures for systems organisation and
+    administration, and linked directly to information
+    dissemination services. the chief factor governing quality of
+    system input is information analysis, and in brazil this is
+    almost totally neglected.

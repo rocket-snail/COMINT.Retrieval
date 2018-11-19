@@ -1,0 +1,8 @@
+temperature compensation in a low consumption transistor
+    amplifier the circuit design is developed for a two stage
+    amplifier for the frequency range giving a stable distortion
+    free output of with an ambient temperature variable over the
+    range by suitable choice of circuit elements compensation is
+    obtained without increased power consumption and the amplifier
+    characteristics may be made independent of the actual
+    transistors used

@@ -1,0 +1,8 @@
+direct measurement of electron spin lattice relaxation
+    times a discussion of the experimental problems encountered in
+    making spin lattice relaxation measurements in electron
+    paramagnetic systems at low temperatures gadolinium and chrome
+    ion spin lattice relaxation times are given the relation of
+    these spin lattice relaxation times to relaxation times
+    measured in the frequency domain by observing a saturation
+    parameter is discussed

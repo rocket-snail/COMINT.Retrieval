@@ -1,0 +1,4 @@
+magnetostrictive delay line equivalent electromechanical
+    circuit for a magnetostrictive nickel delay line is given the
+    optimum matching at the input and output end is
+    discussed

@@ -1,0 +1,7 @@
+how to design bistable multivibrators the design
+    procedure described is intended to ensure reliable operation in
+    spite of deviations of resistors from nominal values variations
+    of supply voltage and deterioration of valve cathode emission
+    formulae are given for determining th appropriate values of
+    coupling capacitance triggering networks for dealing with
+    pulses of different amplitude and duration are shown

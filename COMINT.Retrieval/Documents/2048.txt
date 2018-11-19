@@ -1,0 +1,5 @@
+determination of the noise factor of various amplifiers
+    by a comparison method the relative noise factor can be
+    determined by using a standard type signal generator connected
+    to the input of the amplifier and a band pass filter coupled to
+    a valve voltmeter at the output

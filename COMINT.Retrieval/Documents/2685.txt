@@ -1,0 +1,7 @@
+the efficiency of a ferrite as a microwave mixer it is
+    shown theoretically that a polycrystalline ferrite should
+    behave like a single crystal sample magnetization measurements
+    taken previously are explained by assuming a basic permeability
+    line width of a few gauss and a spread in resonant fields from
+    point to point the efficiency appears to be lower than for a
+    conventional crystal mixer

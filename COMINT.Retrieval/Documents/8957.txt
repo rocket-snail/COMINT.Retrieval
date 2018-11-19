@@ -1,0 +1,5 @@
+e c class resistors discussion of performance
+    characteristics of highly stable resistors consisting of a thin
+    conductive coating on heat resistant glass ratings range from
+    to resistance change is for temperature cycles between
+    and

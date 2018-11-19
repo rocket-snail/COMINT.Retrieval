@@ -1,0 +1,4 @@
+solar emission at millimetre wavelengths solar flux
+    density measurements at indicate that the radiation is
+    primarily from the photosphere and corresponds to the thermal
+    radiation from a black body at

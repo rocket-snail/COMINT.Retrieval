@@ -1,0 +1,8 @@
+surface barrier transistor measurements and applications
+    circuits for determining the transistor characteristics are
+    described and examples of applications taking advantage of the
+    high frequency cut off of the surface barrier transistor are
+    given these include a two stage video amplifier for with
+    measured power gain of at a crystal controlled oscillator
+    delivering conversion gain from and a non saturating flip flop
+    circuit with rise time and fall time

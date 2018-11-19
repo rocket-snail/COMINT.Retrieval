@@ -1,0 +1,4 @@
+derivation of the laws of relativistic electro dynamics
+    for a vacuum from the energy quantum model theory developed
+    previously of june is extended to include the case of systems
+    in motion

@@ -1,0 +1,6 @@
+lotka's test. presents a step-by-step procedure for
+    testing if a given set of author productivity data conforms to
+    lotka's law. the steps proposed are' collection of data;
+    determination of the slope +n; calculation of the constant +c;
+    and application of kolmogorov-smirov one sample goodness-of-fit
+    test to experimental and calculated data.

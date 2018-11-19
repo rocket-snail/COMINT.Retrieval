@@ -1,0 +1,11 @@
+design study for an anomalous state of knowledge based
+    information retrieval system. the long term aim of this
+    research is to develop a retrieval system in which no explicit
+    query formulation will be necessary, the system instead
+    constructing a picture of the user's information need, and
+    choosing a retrieval strategy appropriate to the particular
+    type of need. the authors report on a preliminary study in
+    which they analysed unstructured problem statements obtained by
+    interviewing a number of users, used similar analysis
+    techniques to represent document abstracts, and developed a
+    classification scheme for problem statements.

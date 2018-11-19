@@ -1,0 +1,7 @@
+fast response high current thyratron power supplies for
+    inductive loads several methods for energizing loads such as
+    fields of large motor generators solenoids magnetic clutches
+    and electromagnets are discussed including the half wave
+    circuit with an optimum value of capacitance in parallel with
+    the load this method provides the fastest response for the
+    equipment required

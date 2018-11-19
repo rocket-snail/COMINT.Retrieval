@@ -1,0 +1,4 @@
+propagation characteristics of whistlers trapped in field
+    aligned columns of enhanced ionization whistler data are
+    examined using ray theory to deduce properties o field aligned
+    ducts in the outer atmosphere

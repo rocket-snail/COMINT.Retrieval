@@ -1,0 +1,4 @@
+computation of noise figure for quantum mechanical
+    amplifiers an expression is derived in terms of the physical
+    quantities of the electromagnetic structure and of the
+    paramagnetic salt used

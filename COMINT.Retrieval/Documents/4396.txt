@@ -1,0 +1,6 @@
+an improved type of differential amplifier a differential
+    amplifier stage capable of giving a high rejection ratio with
+    unselected valves and components and without a balance control
+    is analysed and a particular amplifier is described in some
+    detail the stage is particularly suitable for converting
+    balanced to unbalanced signals

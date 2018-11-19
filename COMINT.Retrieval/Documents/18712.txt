@@ -1,0 +1,12 @@
+frequency variations of current amplification factor for
+    junction transistors in a grounded emitter or grounded
+    collector connection of a junction type transistor the
+    effective current amplification is proportional to where is the
+    current gain of the transistor as a result of the phase shift
+    associated with the value of decreases rapidly with increasing
+    frequency so that the upper frequency limit of the grounded
+    emitter or grounded collector arrangements may be considerably
+    lower than has been expected results of measurements of the
+    frequency variation of for several fused impurity pnp junction
+    transistors developed by saby below are shown
+    graphically

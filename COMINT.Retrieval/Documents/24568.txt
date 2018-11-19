@@ -1,0 +1,8 @@
+field of a uniformly charged disk and magnetic field of a
+    thin circular cylinder coil with contiguous turns traversed by
+    a direct current the field of the uniformly charged disk is
+    used to study that of the coil by virtue of the magnetic ee
+    between the coil and a magnet of the same shapquivalence
+    between coil and magnet and same shape with opposite magnetic
+    poles on the two end faces formulae for mutual and self
+    inductance are hence derived

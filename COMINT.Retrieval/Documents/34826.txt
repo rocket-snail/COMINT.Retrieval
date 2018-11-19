@@ -1,0 +1,7 @@
+the design of filters using only rc sections and gain
+    stages a method is described of synthesizing filters using rc
+    sections within a feedback loop design information is given for
+    high and low pass filters of and per octave slope and fixed cut
+    off frequency and others of approximately and per octave slope
+    whose cut off frequency is variable continuously by the
+    adjustment of a single element

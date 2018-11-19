@@ -1,0 +1,11 @@
+scattering and attenuation by non spherical atmospheric
+    particles gans theory of em scattering and absorption by
+    ellipsoids is applied to atmospheric particles if these have
+    preferred orientations the amount of back scattered energy
+    depends on particle shape and on orientation of the particle
+    relative to the incident beam the effect is negligible in the
+    case of snow if the particles have random orientations the
+    observed scattering is independent of aerial orientation but
+    greater for ellipsoidal shape and for water particles than for
+    ice these theoretical considerations account well for known
+    melting band phenomena

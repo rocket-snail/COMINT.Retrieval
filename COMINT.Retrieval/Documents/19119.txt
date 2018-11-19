@@ -1,0 +1,7 @@
+modelling and evaluating effectiveness of an information
+    retrieval system with combined retrieval scheme. discusses a
+    model of an information retrieval system based on the use of a
+    retrieval scheme which combines direct and inverse retrieval
+    principles. describes how the information process is simulated
+    and evaluated in the model. presents and analyses some
+    experimental results.

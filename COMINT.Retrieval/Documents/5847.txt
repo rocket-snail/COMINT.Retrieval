@@ -1,0 +1,12 @@
+on the dynamo theory of geomagnetic field variations
+    chapmans expression for the current function is solved in the
+    most general way assuming that the main component in
+    atmospheric oscillation is semidiurnal and using th same
+    conductivity function as chapman tables of coefficients of the
+    current function and numerical equinoctial values of th
+    coefficients deduced by the authors and by chapman are given
+    the sq variations of h and v are deduced and compared with the
+    results of observations at abinger and alibag and with chapmans
+    analysis in these calculations the phase of the atmospheric
+    oscillations has been taken as and results compare well with
+    observations

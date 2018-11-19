@@ -1,0 +1,3 @@
+dynamic range of negative feed back pulse amplifiers
+    analysis of the limiting conditions for grid current in two or
+    three stage amplifiers

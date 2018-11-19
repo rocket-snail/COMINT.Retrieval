@@ -1,0 +1,7 @@
+tunnel diode straight amplifier as low noise preamplifier
+    stage for the uhf range the signal and noise characteristics
+    are investigated of a conventional triode amplifier with a
+    tunnel diode circuit as preamplifier stage and experimental
+    results obtained at and are found to agree well with theory for
+    similar investigations on a diode reactance preamplifier
+    see

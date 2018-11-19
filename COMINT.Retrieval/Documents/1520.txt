@@ -1,0 +1,4 @@
+investigation of a plasma column continuously fed and
+    subjected to an electromagnetic field conditions for the
+    existence of non centred maxwellian solutions equations of
+    density

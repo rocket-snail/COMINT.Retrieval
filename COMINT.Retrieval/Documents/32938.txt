@@ -1,0 +1,4 @@
+duration and bandwidth of short lived transients in solar
+    noise histograms of single frequency measurements made at and a
+    table of results for a two channel receiver covering the band
+    are given see also of

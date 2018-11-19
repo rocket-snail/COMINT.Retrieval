@@ -1,0 +1,6 @@
+models of auroral ionization part auroral ionization
+    models and their radio reflection characteristics several
+    general models of auroral ionization are developed by
+    considering the ionization as an assembly of scattering centres
+    it is possible to include a unified treatment of weak
+    scattering and critical reflection

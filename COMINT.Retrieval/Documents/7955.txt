@@ -1,0 +1,6 @@
+new rejector circuit a circuit used in some colour
+    television receivers is described it uses a conventional
+    parallel trap connected into circuit via a centre tapped
+    bifilar wound coil with a resistance across one half it is
+    characterized by negative inductance and capacitance the
+    circuit is discussed further in

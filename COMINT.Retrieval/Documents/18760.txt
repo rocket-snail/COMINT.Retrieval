@@ -1,0 +1,4 @@
+subjective expected utility: a model of decision-making.
+    reviews 1 line of research, namely the subjective expected
+    utility (seu) model, into the process of decision
+    making.

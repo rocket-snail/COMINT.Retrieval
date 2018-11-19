@@ -1,0 +1,5 @@
+angular variation of axial spin hamiltonian eigenvalues
+    in strong magnetic field the expressions for the energies of
+    transitions between levels with strong field quantum numbers m
+    and m the tables give the values of the coefficients containing
+    and for a range of values of these parameters

@@ -1,0 +1,4 @@
+the electron content and distribution in the ionosphere
+    electron content and distribution are determined from an
+    analysis of measurements of the faraday rotation rate on
+    transmissions received near colombus ohio

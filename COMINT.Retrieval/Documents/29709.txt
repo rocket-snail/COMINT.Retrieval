@@ -1,0 +1,3 @@
+aperture fields in the diffraction by a slit a
+    description of measurements at using a parallel plate device of
+    the field distribution over apertures of width and

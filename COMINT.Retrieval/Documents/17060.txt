@@ -1,0 +1,8 @@
+wave matrices of a quadripole th use of scattering and
+    transmission matrices for cm wave quadripoles is considered and
+    the essential properties of these wave matrices are determined
+    the method is illustrated by a practical example in which an
+    examination is made of the modulus and phase of the reflection
+    coefficient of a waveguide filter consisting of two equal
+    inhomogeneities and separated by a section of waveguide
+    propagating an wave

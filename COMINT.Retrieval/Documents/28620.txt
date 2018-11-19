@@ -1,0 +1,9 @@
+auto self excited transductors and push pull circuit
+    theory the modes of operation of transductors with parallel
+    bridge and centre tap connections are explained expressions are
+    derived for the sensitivity and time constant under idealized
+    conditions an examination is made of the use of transductors in
+    push pull pairs to obtain magnetic amplifiers with outputs
+    whose polarity depends on the signal sense the transductors are
+    assumed to e be of the auto self excited type with resistance
+    loads

@@ -1,0 +1,5 @@
+tentative graphical representation of the image transfer
+    coefficient of ladder type filters with or without losses the
+    method is based on the expression of the image transfer
+    coefficient as a function of frequency in accordance with the
+    classification of filters given previously of and

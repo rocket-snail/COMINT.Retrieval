@@ -1,0 +1,10 @@
+a procedure for the determination of the vertical
+    distribution of the electron density in the ionosphere
+    description of a method based on application of the gauss
+    christoffel quadrature formula to the numerical integration of
+    the well known integral for true reflection height s as a
+    function of group height the earths magnetic field and the
+    effects of electron collisions are neglected ray theory is
+    assumed applicable and the electron density height curve is
+    assumed to have no maxima or minima in the region
+    considered

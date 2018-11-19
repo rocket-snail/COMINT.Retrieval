@@ -1,0 +1,8 @@
+effect of component tolerances in low frequency selective
+    amplifiers an analysis amplifiers with wien bridge or twin t
+    selective feedback networks are considered when the networks
+    are designed for maximum selectivity the factor of the
+    amplifier relatively sensitive variation network component
+    value this sensitivity can be reduced by suitable choice of
+    component relative values but a higher gain is then required to
+    obtain the same selectivity

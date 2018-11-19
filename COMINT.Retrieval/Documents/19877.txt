@@ -1,0 +1,6 @@
+a laguerre function equalizer a waveform corrector is
+    described in which the input signal is successively
+    differentiated and the differentials added to or subtracted
+    from the input the waveforms being given by laguerre functions
+    results are given for an experimental equalizer which need
+    contain only passive elements

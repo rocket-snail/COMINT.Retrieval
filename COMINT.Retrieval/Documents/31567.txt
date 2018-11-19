@@ -1,0 +1,3 @@
+an approximation to the harmonic response of saturating
+    devices an exponential curve is used to approximate the system
+    characteristics

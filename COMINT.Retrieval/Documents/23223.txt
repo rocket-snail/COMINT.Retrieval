@@ -1,0 +1,3 @@
+tolerances of quartz crystals for filters and their
+    measurement methods for measuring series resonance and crystal
+    inductance are indicated

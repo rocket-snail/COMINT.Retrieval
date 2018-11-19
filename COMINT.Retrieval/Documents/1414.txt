@@ -1,0 +1,7 @@
+tunable rc bridge network with only one variable element
+    a circuit is described with which an output of required phase
+    is obtained by varying either one resistance or one capacitance
+    the magnitude of the output voltage remaining constant details
+    are given of a stable valve generator with frequency ranging
+    from a very low value to the circuit can also be used in phase
+    shifters frequency meters and selective amplifiers

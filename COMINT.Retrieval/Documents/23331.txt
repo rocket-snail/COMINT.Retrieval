@@ -1,0 +1,2 @@
+magnetic field due to circular current analysis is
+    simplified by applying recent work on elliptic integrals

@@ -1,0 +1,13 @@
+pekos-the automated periodicals-control system of the
+    eth-bibliothek, zurich. contribution to a thematic issue on
+    on-line technology. discusses the automated periodicals-control
+    system (pekos), which forms part of the integrated circulation
+    system developed at the eth-bibliothek, zurich. at present
+    pekos controls the 8,000 current periodicals until storage of
+    completed volumes; it will eventually be extended to the entire
+    periodicals holdings. explains how access to the data files can
+    be obtained by either title or call number. describes how pekos
+    can be used for registration of incoming issues; printout of
+    claims; binding and storage handling; call-number
+    identification; and the answering of enquiries from other
+    departments.

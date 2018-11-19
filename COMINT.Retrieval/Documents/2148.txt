@@ -1,0 +1,13 @@
+on the d electron and ion density distributions from the
+    lower up to the uppermost pz part of the f region the thesis
+    that the main ionizing radiations in the f region are the
+    helium resonance lines at and the lyma continuum leads to the
+    following results the calculated electron density distribution
+    in the lower f region is in good agreement with experimental
+    electron density profiles the observed and calculated relative
+    abundances of the ions and are not in good agreement unless
+    their charge exchange reactions are assumed to be a few orders
+    of magnitude slower than expected on simple theory and if a
+    scale height gradient of is assumed then the calculated and
+    experimental electron densities are in agreement up to above
+    the f region maximum

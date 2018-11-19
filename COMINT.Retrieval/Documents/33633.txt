@@ -1,0 +1,7 @@
+note on the kramers kronig relations this explicit form
+    of the relationship between the real and imaginary parts of a
+    physically realizable network function is correlated with the
+    alternate conventions available for such problems the
+    transformation from a linear frequency scale to a logarithmic
+    one is simply effected by considering the mellin transforms of
+    the appropriate functions

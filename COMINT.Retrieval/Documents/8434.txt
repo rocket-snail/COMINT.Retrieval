@@ -1,0 +1,3 @@
+determination of trajectories of relativistic charged
+    particles in electric and magnetic fields by the adams method
+    of finite differences

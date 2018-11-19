@@ -1,0 +1,4 @@
+on vertical drift velocities of the f layer vertical
+    drift velocities in the f layer are deduced by evaluating the
+    equation of continuity of electron density and compared with
+    observed movements some correlation is found

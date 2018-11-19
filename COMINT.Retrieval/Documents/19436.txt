@@ -1,0 +1,2 @@
+motion of a sphere through a conducting fluid in the
+    presence of a strong magnetic field

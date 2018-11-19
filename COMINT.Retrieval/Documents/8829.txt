@@ -1,0 +1,4 @@
+a word magnetic core memory the storage matrix consists
+    of ferrite cores and has a read write cycle of its construction
+    is described together with the driver and sense amplifier
+    circuits

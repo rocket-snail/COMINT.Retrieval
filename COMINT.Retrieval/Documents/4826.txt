@@ -1,0 +1,10 @@
+the parallel t dc amplifier a low drift amplifier with
+    wide frequency response the frequency response of a modulated
+    dc amplifier is broadened by the parallel addition of a
+    conventional ac amplifier which has inherently a response
+    capable of being made complementary to that of the dc amplifier
+    the result is a homogeneous design without excessive phase
+    shift circuit details are given of an amplifier designed for
+    use with a high speed pen recorder in the frequency range the
+    avoidance of direct coupling renders the use of electrometer
+    valves unnecessary

@@ -1,0 +1,5 @@
+theory of equivalent circuits for junction transistors an
+    equivalent circuit is discussed which differs from that of
+    pritchard of only in respect of the arrangement of the current
+    and voltage sources a simplified equivalent circuit including a
+    triode valve is also presented

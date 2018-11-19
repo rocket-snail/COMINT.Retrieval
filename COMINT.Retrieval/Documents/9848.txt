@@ -1,0 +1,2 @@
+error analysis in floating point arithmetic may, 1959
+    carr iii, j. w. ca590501 jb march 22, 1978 6:43 pm

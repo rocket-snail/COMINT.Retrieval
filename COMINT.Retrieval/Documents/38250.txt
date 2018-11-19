@@ -1,0 +1,6 @@
+parametric amplifiers as superregenerative detectors the
+    details of superregenerative operation are described and
+    effects permitting self quenching are explained two cavity type
+    parametric amplifiers using semiconductor diodes are
+    investigated one in the l band near and the other in the s band
+    near

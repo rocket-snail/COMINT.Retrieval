@@ -1,0 +1,14 @@
+a ferroelectric amplifier a lf signal was applied to a
+    capacitor with ceramic dielectric thereby causing its
+    capacitance to vary the capacitor formed part of a tuned
+    circuit fed by a hf voltage the resulting am hf voltage was
+    applied to a detector circuit to recover the signal analysis
+    for this arrangement indicates the conditions for maximum
+    amplification with a signal frequency of hf of and load
+    resistance a power gain of was obtained with the signal source
+    removed and the output fed back to the input terminals
+    sustained lf oscillations were obtained with only the hf
+    voltage applied the oscillation frequency could be varied
+    continuously from to by varying the value of a rf choke in the
+    input lead and of a capacitor in the detector circuit see also
+    of vincent

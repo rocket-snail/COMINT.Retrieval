@@ -1,0 +1,9 @@
+impedance transformations through lossless two ports
+    represented by fractional linear transformations of the unit
+    circle the automorphism of a unit circle corresponding to an
+    impedance transformation is characterized by three parameters
+    and can be represented by three successive elementary
+    transformations this leads to a simple graphical method using
+    caoter or smith charts for the determination of the transformed
+    impedance and for the treatment of cascades of lossless two
+    ports

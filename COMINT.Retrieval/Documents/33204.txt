@@ -1,0 +1,6 @@
+many particle approach to the one electron problem of
+    insulators and semiconductors motion of an electron near the
+    bottom of the conduction band in the presence of external
+    electric and magnetic fields whose variation over one lattice
+    spacing is small is governed by a simple schrodinger
+    equation

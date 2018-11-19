@@ -1,0 +1,6 @@
+radiation of plasma noise from arc discharge radiation
+    from cold cathode dc are discharges in air has been observed at
+    frequencies of and the oscillation is thought to be generated
+    by periodic electron emission from the cathode caused by a
+    small perturbation of the potential gradient due to variation
+    of the ion sheath potential

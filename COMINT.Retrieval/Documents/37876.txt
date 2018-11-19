@@ -1,0 +1,4 @@
+impurity scattering in super conductors perturbation
+    theory is used to determine the reduction in super conducting
+    transition temperature due to scattering by impurities
+    dissolved in the superconductor

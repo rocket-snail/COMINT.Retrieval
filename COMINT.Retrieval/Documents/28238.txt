@@ -1,0 +1,4 @@
+transient phenomena in an oscillator circuit with
+    variable inductance the operation of the circuit is discussed
+    and a formula is derived for determining the variation of the
+    current in the circuit a numerical example is given

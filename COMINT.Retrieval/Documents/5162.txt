@@ -1,0 +1,7 @@
+defense energy information system (deis) deis-80 design
+    system specification revision a. the defense energy information
+    system (deis) is a worldwide, automated, energy management
+    information system. it provides data on petroleum products used
+    as mobility fuels by the military departments as well as most
+    energy sources used for utility services at dod
+    installations.

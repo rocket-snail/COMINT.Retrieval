@@ -1,0 +1,5 @@
+the abc's of the awln (advanced wisswesser line
+    notation). the advanced wiswesser line notation (awln) is a
+    proposed solution for chemists and computerised information
+    systems which takes into account the recent developments in
+    on-line information retrieval.

@@ -1,0 +1,6 @@
+automatic frequency control of high power klystrons a
+    method of control is described in which a cavity resonator and
+    two microwave crystals are used as a standing wave
+    discriminator in a system for automatic frequency search and
+    lock for a pulsed klystron oscillator frequency stability to
+    within part in is achieved

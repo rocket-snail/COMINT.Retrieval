@@ -1,0 +1,4 @@
+x band electronically variable attenuator the attenuator
+    described comprises a pair of matched crystal diodes with
+    variable external bias mounted in a symmetric stripline
+    structure

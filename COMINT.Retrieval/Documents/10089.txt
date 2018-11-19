@@ -1,0 +1,10 @@
+geac; a brief introduction. describes the geac computer
+    corporation's on-line library information system and plans for
+    its future development. started in 1977, the system was
+    developed for academic libraries, but has accommodated the
+    public library situation. it is adapted at specific points to
+    individual library policy. it carries out standard library
+    functions and also contains a public query module whereby a
+    patron (identified by means of a personal barcode) can search
+    his personal record or (no identification needed) the
+    bibliographic file.

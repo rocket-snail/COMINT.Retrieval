@@ -1,0 +1,4 @@
+transport phenomena in slightly ionized gases low
+    electric fields calculation of transport properties in the
+    presence of a magnetic field for low electric field the results
+    can be expressed as linear functions

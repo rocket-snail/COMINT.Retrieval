@@ -1,0 +1,6 @@
+a frequency stable transistor audio oscillator of very
+    simple design a circuit is described in which a point contact
+    transistor maintains oscillations by supplying current pulses
+    to a series circuit during half cycle periods when the emitter
+    is conducting frequency stability is improved by including a
+    diode in the emitter circuit

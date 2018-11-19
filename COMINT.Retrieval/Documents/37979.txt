@@ -1,0 +1,11 @@
+electro thermal behaviour of point contacts to
+    semiconductors joule heating effects due to current flow
+    through a point contact to a semiconductor with no barrier
+    layer were investigated theoretically and the results were
+    confirmed experimentally for tungsten points in contact with
+    sintered disks of mg ti the values of the contact radius
+    calculated from dc and ac experiments are in fair agreement as
+    are the calculated and measured variations with frequency of
+    the impedance to sinusoidal ripple superimposed on steady
+    current minor anomalies in the dc characteristic are assumed to
+    be due to field emission around the contact

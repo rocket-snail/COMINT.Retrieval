@@ -1,0 +1,5 @@
+audio oscillator uses new design a general generator
+    covering the range in four bands has both low pass and high
+    pass rc filters incorporated in the feedback loop to give good
+    frequency stability and good waveform amplified agc is included
+    in a commercial adaptation of the circuit

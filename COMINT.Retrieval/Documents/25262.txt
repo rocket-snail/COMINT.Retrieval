@@ -1,0 +1,3 @@
+a graphical analysis of the blocking oscillator a
+    detailed analysis of the circuit and its mode of operation is
+    given and a practical design precedure is described

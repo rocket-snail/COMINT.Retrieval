@@ -1,0 +1,5 @@
+maxwells tensor without modifying the classical em field
+    equations it is possible to replace maxwells tensor by another
+    which gives the same expression for the lorentz force but a
+    different and in some ways more satisfactory expression for the
+    distribution of energy in the field

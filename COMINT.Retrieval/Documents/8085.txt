@@ -1,0 +1,6 @@
+quantum effects in the interaction between free electrons
+    and electromagnetic fields a discussion of the possibility of
+    arranging experiments so that the spread of an electron beam in
+    a transverse field due to the quantum dispersion of the energy
+    exchange can be distinguished from that due to practical
+    experimental factors

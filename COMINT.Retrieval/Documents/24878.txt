@@ -1,0 +1,7 @@
+radio emission by plasma oscillations in nonuniform
+    plasmas equations of motion for small amplitude plasma
+    oscillations interacting with the e m field in slowly varying
+    density or temperature gradients are established the r f noise
+    excited by a wave packet of plasma oscillations traversing such
+    gradients is calculated using the wkb approximation a similar
+    calculation is made for a density discontinuity

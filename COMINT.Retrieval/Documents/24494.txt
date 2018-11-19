@@ -1,0 +1,13 @@
+interaction of microwaves propagated through a gaseous
+    discharge plasma experimental observations are reported on the
+    interaction of and signals in discharge plasma produced in he
+    ne ar kr xe and h gases over the pressure range mm hg pulse
+    excitation being used the disturbing wave was pulse modulated
+    and the wanted cw transmitted through the decaying plasma was
+    detected by means of a cavity resonator the amplified envelope
+    being displayed on a cro typical oscillograms showing the
+    modification of the envelope of the wanted wave due to the
+    pulsed disturbing wave are reproduced when a magnetic field is
+    applied the interaction is observed at low signal levels for
+    which no effect is found in the absence of the magnetic field
+    see also of goldstein et al and back reference

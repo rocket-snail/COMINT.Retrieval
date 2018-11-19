@@ -1,0 +1,5 @@
+propagation of a wave front in anisotropic dispersive
+    media extension of work previously noted of february to the
+    case of anisotropic media expressions are derived for the
+    velocity of propagation and for the field in the vicinity of
+    the wave front

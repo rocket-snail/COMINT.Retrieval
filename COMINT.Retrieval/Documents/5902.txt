@@ -1,0 +1,3 @@
+the economics of the transistor dc transformer hv supply
+    units using power junction transistors are compared with
+    conventional hv sources

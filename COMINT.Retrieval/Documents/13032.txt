@@ -1,0 +1,2 @@
+a transistor regulated power supply for video
+    circuits

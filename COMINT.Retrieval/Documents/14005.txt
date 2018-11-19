@@ -1,0 +1,7 @@
+design of microwave filters with quarter wave couplings
+    resonator diaphragms are constructed from triplets of inductive
+    posts whose spacing and radii are chosen to prevent the
+    generation of the first five non propagating modes this is
+    sufficient to ensure negligible coupling at quarter wave
+    separation measurements on filters at indicate a satisfactory
+    performance

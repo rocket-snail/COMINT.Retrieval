@@ -1,0 +1,8 @@
+pressure effects of ionic currents in atmospheric air
+    with various discharge configurations the mechanical pressures
+    produced by steady and modulated ion currents were investigated
+    theoretically for parallel plate concentric sphere and
+    concentric cylinder electrode systems and experimentally for a
+    point and plate system the agreement between theoretical and
+    experimental results is good the investigation is of interest
+    in relation to the ionic loudspeaker

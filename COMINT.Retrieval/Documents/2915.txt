@@ -1,0 +1,8 @@
+small signal power conservation theorem for irrotational
+    electron beams the theorem describes the balance between the rf
+    kinetic and rf electromagnetic powers in a laminar beam the
+    thermal velocity distribution at the cathode is neglected the
+    kinetic power flow is expressed in terms of the chu potential
+    the longitudinal component of the rf beam current and the
+    equivalent longitudinal surface current on the beam boundary
+    see

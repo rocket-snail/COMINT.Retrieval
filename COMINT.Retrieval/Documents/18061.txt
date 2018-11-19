@@ -1,0 +1,6 @@
+coils and transformers under normal room climatic
+    conditions the influence of environmental conditions on the
+    operating characteristics of wire wound components with
+    magnetic cores is investigated methods of reducing inductance
+    and q factor changes caused by climatic effects are
+    considered

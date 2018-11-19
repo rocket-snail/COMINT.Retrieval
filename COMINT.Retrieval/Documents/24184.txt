@@ -1,0 +1,8 @@
+comb filters for pulsed radar use the use of comb filters
+    for improving signal noise ratio is discussed in relation to
+    the variation of the frequency spectrum of a radar signal with
+    the number of pulses in the received trains the relative merits
+    of the simple uniform type the rectangular sin type and the
+    north type sin matched filters are compared the small gain in
+    sensitivity obtained with type does not warrant the greater
+    complexity of its design

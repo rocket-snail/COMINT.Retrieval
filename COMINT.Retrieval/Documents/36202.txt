@@ -1,0 +1,12 @@
+feature comparison of an in-house information retrieval
+    system with a commercial search service. a commercially
+    available on-line search service was used as a standard for
+    comparative searching and evaluation of an in-house information
+    system based on automatic indexing. system features were
+    identified and evaluated on the basis of their usefulness in
+    various kinds of searching, their ease in implementation, and
+    how they are influenced by differences in user type or specific
+    applications. some common features of the commercial system,
+    such as on-line instruction, user-specified print formats,
+    dictionary display, and truncation, are seen to be unnecessary
+    or impractical for the in-house system.

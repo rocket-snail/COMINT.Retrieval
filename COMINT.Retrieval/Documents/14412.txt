@@ -1,0 +1,6 @@
+computer-aided spectral identification of laser-induced
+    plasma emmission. the analysis of the electronic emission
+    spectra produced by a laser-induced plasma may be performed by
+    computer analysis. presents 2 algorithms for matching such
+    spectra against standard tables. the relative efficiencies of
+    the 2 algorithms are analysed.

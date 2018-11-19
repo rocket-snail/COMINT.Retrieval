@@ -1,0 +1,7 @@
+on the stability of random systems and the stabilization
+    of deterministic systems with random noise a general theory of
+    mean square stability of random linear systems in which
+    parameters may vary as white noise processes is developed and
+    applied to a rlc circuit the possibility of stabilizing
+    unstable deterministic systems by means of random noise is
+    predicted

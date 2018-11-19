@@ -1,0 +1,6 @@
+analogue computer with stepping switch drive for the
+    solution of algebraic equations of up to sixth degree the
+    analogy used is that between a sinusoidal voltage and a complex
+    quantity the representation of the polynomials is effected
+    using feedback amplifiers as computing elements the zero points
+    corresponding to the solutions are found automatically

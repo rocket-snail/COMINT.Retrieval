@@ -1,0 +1,9 @@
+data activities: an overview. paper presented at the
+    documentation research and training centre refresher seminar on
+    data accessibility and dissemination, aug 80. defines 'data' in
+    the context of 'information'; surveys problems associated with
+    compilation of and access to reliable scientific data;
+    indicates areas in which the information scientist can play a
+    significant role in solving these problems; and emphasises the
+    need for developing manpower for data services from within the
+    information science profession.

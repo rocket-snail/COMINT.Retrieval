@@ -1,0 +1,6 @@
+sauter theory of the photoelectric effect the
+    photoelectric effect cross section for arbitrary x ray
+    polarization and arbitrary initial and final orientations of
+    electron spin is expressed in the form of a transition matrix
+    approximation shows its relation to bremsstrahlung
+    theory

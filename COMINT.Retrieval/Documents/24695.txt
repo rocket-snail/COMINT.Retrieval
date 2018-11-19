@@ -1,0 +1,10 @@
+selenium rectifier instantaneous characteristics current
+    voltage characteristics obtained by applying a rectified
+    sinusoidal voltage to a cell in the reverse direction have been
+    recorded a current in the forward direction flows during a
+    large part of the cycle a convenient equivalent circuit to
+    explain this result comprises nonlinear capacitance and
+    nonlinear resistance in parallel both resistance and
+    capacitance decrease with increasing reverse voltage and are
+    relatively independent of the frequency of the supply voltage
+    over a wide range

@@ -1,0 +1,7 @@
+resistance and frequency variations due to unwanted modes
+    in quartz crystals a numerical relation is shown to exist
+    between the peak resistance increase and peak frequency
+    departure caused by an unwanted mechanically coupled mode the
+    value provides a useful means of estimating frequency
+    departures and determining whether a particular crystal is
+    satisfactory

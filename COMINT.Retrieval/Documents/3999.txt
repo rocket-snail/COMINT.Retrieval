@@ -1,0 +1,6 @@
+a property of passive lossless quadripoles and its
+    application in the design of ladder filters the validity of
+    formulae giving the values of elements of various filter
+    structures is established by expressing the insertion loss as a
+    function of the iterative parameters of a fictitious
+    network

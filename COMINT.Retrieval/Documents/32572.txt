@@ -1,0 +1,16 @@
+low noise in solid state parametric amplifiers at
+    microwave frequencies the principles of parametric
+    amplification are described through the use of simple low
+    frequency electrical circuits and their mechanical analogues
+    extension of these principles to low noise amplification at
+    microwave frequencies is made in a qualitative way which
+    emphasizes the physical processes involved amplification is
+    only achieved when energy is transferred from a microwave
+    oscillator or pump to the signal frequency and it is shown why
+    such a transfer may take place in circuits exhibiting variable
+    capacitance or inductance but not in circuits where only a
+    resistance is varied major noise sources are discussed and the
+    special role of the image or idler frequency is noted finally
+    experimental data on four different types of parametric
+    amplifier using semiconductor diodes and using ferrite are
+    given

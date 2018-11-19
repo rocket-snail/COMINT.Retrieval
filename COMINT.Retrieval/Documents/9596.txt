@@ -1,0 +1,7 @@
+a stable thermostat for the measurement of the noise and
+    drift of semiconductor circuit elements the rectified output of
+    a bridge circuit containing a resistance thermometer is used to
+    control the heating of a stirred oil bath the noise voltage of
+    transistors in a power supply circuit and of a zener reference
+    diode have been measured at very low and audio frequencies
+    using the apparatus described

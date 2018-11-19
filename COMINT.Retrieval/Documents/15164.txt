@@ -1,0 +1,4 @@
+primary cosmic ray intensity near solar maximum results
+    of measurements of proton and particle fluxes and energy
+    spectra are given comparison is made with an electric field
+    model

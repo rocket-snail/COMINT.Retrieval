@@ -1,0 +1,5 @@
+a new high resolution interferometer for solar studies
+    the device is essentially aa two element interferometer with
+    the two aerials aligned equatorially which permits use far from
+    the median plane and gives a resolving power of the order of
+    alon et al

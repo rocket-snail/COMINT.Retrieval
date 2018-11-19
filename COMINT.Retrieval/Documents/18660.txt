@@ -1,0 +1,6 @@
+wide range operation of grid controlled rectifiers a
+    method of controlling thyratron conduction over a wide range
+    from a dc control signal is described and the steady state
+    characteristics of a dc power amplifier employing this method
+    of control in a bi phase rectifier circuit are discussed and
+    experimental results t given

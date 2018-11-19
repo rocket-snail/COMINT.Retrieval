@@ -1,0 +1,3 @@
+design of attenuators of given characteristics design
+    formulae for quadripole attenuating networks are
+    tabulated

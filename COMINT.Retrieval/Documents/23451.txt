@@ -1,0 +1,3 @@
+hidden-line plotting program (algorithm r420) july, 1973
+    macleod, i. d. g. collins, a. m. hidden-line plot, surface plot
+    4.9 ca730713 jb january 23, 1978 11:14 am

@@ -1,0 +1,3 @@
+stability of a simplified geocyclotron model a treatment
+    of the phase stability of the geocyclotron a mechanism for
+    accelerating electrons in the outer ionosphere

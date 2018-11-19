@@ -1,0 +1,12 @@
+an asymmetrical finite difference network a study is made
+    of a method of solving boundary value problems by means of
+    electrical network analogies consideration is given to the
+    special problems associated with curved boundaries and with the
+    use of meshes of different size at different parts of the
+    network a method is described by means of which the
+    coefficients of the system of algebraic equations can be
+    computed for an arbitrary distribution of node points and the
+    position of the nodes can then be chosen to fit the particular
+    conditions as an illustration the resonance frequencies and
+    field patterns of a conical line cavity resonator are
+    calculated

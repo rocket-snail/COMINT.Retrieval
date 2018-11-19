@@ -1,0 +1,3 @@
+hum in audio stages a design procedure based on
+    measurements on typical valve types for reducing hum in the
+    audio stages of ac dc equipment

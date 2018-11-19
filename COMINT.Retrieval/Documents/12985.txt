@@ -1,0 +1,9 @@
+a study of transistors connected in parallel the
+    performance of the parallel combination of transistors is
+    studied in terms of a single equivalent transistor whose
+    parameters re related in a simple manner to those of the
+    individual transistors expressions are derived for the gain and
+    the input and output impedances for the three basic modes of
+    operation results of experiments with both point contact and
+    junction types are in good agreement with the theoretical
+    results

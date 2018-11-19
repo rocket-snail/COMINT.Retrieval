@@ -1,0 +1,4 @@
+the design of coils for the production of high magnetic
+    fields design curves are presented for coils of rectangular
+    cross section for producing intense transient magnetic fields
+    using energy obtained from a bank of charged capacitors

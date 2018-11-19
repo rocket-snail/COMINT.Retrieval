@@ -1,0 +1,7 @@
+theory of plasma resonance in solids the modes of a
+    confined plasma are studied for simple geometries modes are
+    closely spaced in frequency and unresolvable unless the sample
+    size is comparable to the debye length observation in small
+    samples is made difficult by line broadening due to surface
+    scattering but might be possible in a suitably designed
+    experiment

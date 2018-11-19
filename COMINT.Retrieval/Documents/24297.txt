@@ -1,0 +1,7 @@
+new representation of the longitude effect in the
+    ionosphere f layer the representation is based on a chart with
+    geographic latitude as abscissa and magnetic latitude as
+    ordinate on plotting the positions of existing ionospheric
+    stations the need for stations in certain regions is
+    demonstrated particularly for stations with south geographic
+    and north magnetic latitude

@@ -1,0 +1,7 @@
+a chromium corundum paramagnetic amplifier and generator
+    note on the operation of a paramagnetic amplifier and generator
+    using a single crystal of levels characterized by the quantum
+    numbers when the crystalline axis is oriented parallel to the
+    constant external magnetic field are used absorption lines for
+    different power levels of the auxiliary radiation are
+    shown

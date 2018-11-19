@@ -1,0 +1,5 @@
+theory of geomagnetically trapped electrons from an
+    artificial source the history of electrons resulting from the
+    highaltitude nuclear detonations of the argus experiment is
+    treated theoretically and the results are compared with the
+    jason rocket data and the explorer satellite data

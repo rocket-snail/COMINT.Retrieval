@@ -1,0 +1,7 @@
+surface currents induced by short wavelength radiation
+    the integral equation given by fock of for the surface currents
+    induced in a perfectly conducting convex object by short wave
+    length plane electromagnetic waves is solved directly by the
+    method of fourier transforms the result agrees with focks
+    indirect approach some general properties of the equation are
+    also discussed

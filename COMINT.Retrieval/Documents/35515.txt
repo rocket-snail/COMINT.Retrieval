@@ -1,0 +1,4 @@
+forced oscillations in nonlinear systems with two degrees
+    of freedom analysis is given leading to the establishment of
+    criteria for the stability of oscillations in circuits coupled
+    by mutual inductance

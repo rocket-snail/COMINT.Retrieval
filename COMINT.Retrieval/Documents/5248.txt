@@ -1,0 +1,4 @@
+proposal for a maser amplifier system without
+    nonreciprocal elements a system noise temperature of or less
+    should be obtainable by using two matched masers and a lossless
+    power dividing network such as a hybrid t

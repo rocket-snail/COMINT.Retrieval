@@ -1,0 +1,5 @@
+explicit formulae for the calculation of filter circuits
+    with generalized parameters an extension of previous work of to
+    the anti metrical low pass the symmetrical and the antimetrical
+    band pass characteristic functions and the determination of the
+    transmission factor

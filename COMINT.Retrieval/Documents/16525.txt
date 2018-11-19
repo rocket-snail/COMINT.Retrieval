@@ -1,0 +1,7 @@
+correlation energy of an electron gas at high density
+    plasma oscillations an analysis of the contribution made by
+    zero point oscillations to the correlation energy of an
+    electron gas at high density this contribution is expressed in
+    terms of that from the scattering states by using the analytic
+    properties of the scattering amplitudes the results are
+    compared with those of bohm pines of

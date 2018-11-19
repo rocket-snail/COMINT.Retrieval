@@ -1,0 +1,4 @@
+a tunnel diode frequency multiplier with gain the
+    multiplier described is based on the nonlinear negative
+    resistance characteristic of a tunnel diode and shows a voltage
+    gain for the second and third harmonics

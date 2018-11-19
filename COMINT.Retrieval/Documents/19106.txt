@@ -1,0 +1,3 @@
+application of karnaughs mirror symbols to transfluxors a
+    transfluxor symbol is proposed which is based on the system
+    used by karnaugh of for magnetic core switching circuits

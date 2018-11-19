@@ -1,0 +1,12 @@
+use of jois at tokyo women's medical college library.
+    since the computerised retrieval service, jois, was made
+    available at tokyo women's medical college in apr 79, the
+    number of literature retrieval requests increased by more than
+    100%. however, manual literature searches using japanese
+    indexing journals are still being continued for 2 reasons' (1)
+    on-line data bases included in jois only cover the last 5 years
+    of literature; (2) japanese literature is not adequately
+    covered. of the data bases available on jois, medlars was used
+    the most, followed by toxline. the average search time was 7
+    minutes for all data bases. 3 medlars search samples are
+    shown.

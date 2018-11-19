@@ -1,0 +1,4 @@
+stabilized variable frequency ac instrument calibration
+    source a network is described which renders a amplifier
+    insensitive to variations of signal input power supply and
+    load

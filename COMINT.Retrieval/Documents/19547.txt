@@ -1,0 +1,18 @@
+a simple numeric filing system for 7.5- and 15-minute
+    topographic maps' the mclane system. paper presented at the
+    43rd annual meeting of the association of pacific coast
+    geographers, reno, june 80. until aug 79, mines library, part
+    of the university of nevada library, reno, arranged all of its
+    us geological survey 7&h-minute and 15-minute topographic
+    maps alphabetically by state and quadrangle name, but adjacent
+    quadrangles are then not filed together. alvin mclane,
+    consultant, devised a new system' the mclane system' using the
+    2usgs index to topographic maps1, each 15-minute quadrangle is
+    numbered consecutively from west to east starting from the
+    northwest corner of the state with number one, and assigning
+    numbers to quadrangles regardless of whether they have been
+    mapped. describes the advantages and flexibility, and some of
+    the disadvantages of the system. for a local or regional
+    collection, the investment in time in setting up and using the
+    system would be minimal and the rewards of ea se of accessing
+    and filing would be substantial.

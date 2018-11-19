@@ -1,0 +1,4 @@
+measurements of the quality of very low frequency rc
+    oscillators a figure of merit is calculated for a number of
+    different rc networks and the experimental determination of
+    this coefficient is described

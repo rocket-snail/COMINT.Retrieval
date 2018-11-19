@@ -1,0 +1,10 @@
+cosmic rays in the earths magnetic field discrepancies
+    between centre dipole predictions using the stormer equation
+    and experimental observations of cosmic ray intensities and cut
+    off phenomena are attributed to differences between the earths
+    real field and the dipole approximation to it rather than to
+    distortion of the earths outer magnetic field by ionized
+    interplanetary matter an empirical expression for the cut off
+    phenomena is deduced which is in good agreement with
+    experimental results over a wide range of latitude and
+    longitude

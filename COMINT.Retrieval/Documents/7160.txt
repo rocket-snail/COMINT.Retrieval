@@ -1,0 +1,7 @@
+cut off attenuators for waveguide circuits an equivalent
+    circuit analysis and report of measurements on short and long
+    cut off sections providing attenuation respectively less than
+    and greater than db beyond a certain length the reduction in
+    attenuation due to reflections at the junction is constant so
+    that calibration measurements on long sections are
+    unnecessary

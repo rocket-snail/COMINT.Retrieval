@@ -1,0 +1,4 @@
+diffraction by a spheroid the diffracted field is
+    determined by two methods for wavelengths small compared to the
+    spheroid results are applied to evaluate the back scattered
+    fields

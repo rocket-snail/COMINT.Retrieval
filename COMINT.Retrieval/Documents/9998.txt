@@ -1,0 +1,4 @@
+electromagnetics a treatment of maxwells theory and some
+    of its applications suitable as a reference book for research
+    workers mathematical functions entering into the solution of
+    wave equations are dealt with in an appendix

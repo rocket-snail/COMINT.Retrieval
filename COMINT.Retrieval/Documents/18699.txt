@@ -1,0 +1,5 @@
+applications of integral equations to the solution of
+    nonlinear electric circuit problems the technique described
+    gives practical results in many cases where the approximate
+    solution of the integral equation may be effected by means of
+    laplace transforms

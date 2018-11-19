@@ -1,0 +1,6 @@
+a phase shifting pulse generator for thyratron control
+    description with detailed circuit diagram of equipment
+    producing positive pulses with repetition frequency that of the
+    mains but with phase variable with respect to that of the
+    supply voltage the phase lag is controlled by application of a
+    small direct voltage to the grid of a high vacuum valve

@@ -1,0 +1,8 @@
+magnetic flux produced by a dipole located inside a
+    ferromagnetic circular wire an approximate formula is derived
+    for the magnetic flux through a coaxial plane circular area
+    normal to the wire due to magnetic dipole element inside the
+    wire the radii of the circular area and the wire are assumed to
+    be small compared with the axial distance between the circular
+    area and the dipole element for experimental confirmation of
+    the formula

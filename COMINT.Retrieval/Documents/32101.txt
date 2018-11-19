@@ -1,0 +1,5 @@
+structure input design for an online substructure search
+    system. 2 methods of structure input in cas online are
+    described, graphics structure input and text structure input.
+    examples are given of each type of input. the use of these
+    input methods in cas online is discussed.

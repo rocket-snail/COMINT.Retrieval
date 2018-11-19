@@ -1,0 +1,16 @@
+the most elementary geometrical representation of loss
+    free linear quadripoles it is possible to describe impedance
+    transformations in lossless and linear quadripoles by
+    geometrical quantities and by cascade parameters an unambiguous
+    geometrical representation in the form of a system of two
+    transformation lines equivalent to the one transformation line
+    of an impedance transformation is also possible and this leads
+    to a new and unified method of representing the three different
+    transformations by linear quadripoles and by elliptical and
+    hyperbolic quadripoles as well as by the parabolic reactance
+    quadripole this gives for the linear quadripoles an intuitive
+    and elementary form of treatment which has proved to be very
+    useful for the solution of many quadripole problems an
+    impedance transformation using the images with respect to two
+    transformation lines is given for the example of a parabolic
+    reactance quadripole such as a series capacity

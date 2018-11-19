@@ -1,0 +1,6 @@
+polarization and angle dependence of the reflection
+    factor of absorbers for centimetre electromagnetic waves the
+    dependence of the reflection factor on the angle of incidence
+    and plane of polarization of em waves is investigated for
+    various types of absorbers and results are confirmed
+    experimentally

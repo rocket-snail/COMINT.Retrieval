@@ -1,0 +1,7 @@
+plasma oscillations in a steady magnetic field circularly
+    polarized electromagnetic modes the propagation of em waves in
+    the direction of the field is considered by taking account of
+    the thermal motion of electrons results are derived which
+    differ markedly from those of the appleton hartree
+    electromagnetoionic theory near the cyclotron resonance
+    frequency

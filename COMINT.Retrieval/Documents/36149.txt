@@ -1,0 +1,4 @@
+network transformations a method of finding an equivalent
+    for a given network is outlined a table of equivalent networks
+    is presented and examples of the use of the method are
+    given

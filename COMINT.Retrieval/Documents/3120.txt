@@ -1,0 +1,2 @@
+evaluation of determinant (algorithm 224) april, 1964
+    rotenberg, l. j. ca640415 jb march 10, 1978 1:12 am

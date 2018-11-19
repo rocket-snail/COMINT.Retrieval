@@ -1,0 +1,3 @@
+diffraction of a dipole field by a unidirectionally
+    conducting semi infinite screen an exact solution of the
+    diffraction problem for a dipole is obtained

@@ -1,0 +1,5 @@
+equipment for generating strong magnetic fields f short
+    period constancy a suitably terminated low pass filter network
+    is used to produce flat topped current pulses for generating
+    strong magnetic fields which are constant for periods of the
+    order of

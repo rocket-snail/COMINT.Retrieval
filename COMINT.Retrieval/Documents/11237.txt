@@ -1,0 +1,9 @@
+coaxial resonator filters from an analysis of an
+    equivalent band pass circuit an expression is derived for
+    insertion loss in terms of the loaded and unloaded q factors
+    and the electrical design parameters are related to the
+    dimensions of the coupling loops the insertion loss
+    characteristic of n identical resonators in tandem is
+    determined by considering shunt susceptances equally spaced
+    along a transmission line an alignment procedure and
+    arrangements for frequency multiplexing are described

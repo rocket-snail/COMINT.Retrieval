@@ -1,0 +1,5 @@
+approximation formulae for the electrostatic energy of a
+    space charge an asymptotic approximation for the potential is
+    derived which does not contain terms denoting the number and
+    magnitude of the individual charges making up a space charge
+    cloud

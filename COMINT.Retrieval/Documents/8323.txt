@@ -1,0 +1,3 @@
+multivibrator circuits using junction transistors
+    conventional circuits operating predictably at frequencies up
+    to at least are described

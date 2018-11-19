@@ -1,0 +1,8 @@
+the field due to an infinite dielectric cylinder between
+    two parallel conducting planes if the cylinder radius b is
+    sufficiently small compared with the other dimensions involved
+    the change of capacitance due to its insertion between the
+    plates can be made proportional to where k is the dielectric
+    constant of the cylinder for a conducting cylinder k is put
+    equal to infinity applications include the measurement of the
+    departure from uniformity of threads

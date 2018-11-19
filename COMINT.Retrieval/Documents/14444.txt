@@ -1,0 +1,4 @@
+whistler dispersions for a model of the ionic
+    distribution in the exosphere an investigation into the
+    dispersion of whistlers for a range of exospheric temperature
+    latitude and ion content

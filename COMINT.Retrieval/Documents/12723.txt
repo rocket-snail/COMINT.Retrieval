@@ -1,0 +1,4 @@
+voltage sensitivity of local oscillators the dependence
+    of the oscillation frequency of valve oscillators on certain
+    operating conditions is discussed and defined mathematically in
+    terms of independent variables

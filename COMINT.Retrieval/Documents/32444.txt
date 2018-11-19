@@ -1,0 +1,3 @@
+design of pulse amplifier a relation between gain
+    overshoot and risetime is derived and applied in the design of
+    a single stage valve amplifier

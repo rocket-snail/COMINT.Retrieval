@@ -1,0 +1,7 @@
+a simple microwave correlator the correlator described
+    uses the ring modulator circuit as a rapid response multiplier
+    it accepts signals on coaxial cables and has a wide frequency
+    range two types those with positive and those with negative
+    output pulse applications in the following computer circuits
+    are described single ended electrical delay line store shift
+    register circuits performing logical operations

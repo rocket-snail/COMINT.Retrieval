@@ -1,0 +1,5 @@
+electromagnetic properties of high temperature air if the
+    parameters are normalized the e m characteristics of plasmas
+    can be represented in a universal form in the complex
+    dielectric coeficcient plane or the complex propagation
+    constant plane

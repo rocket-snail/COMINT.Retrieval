@@ -1,0 +1,5 @@
+infrared radiation and its detection a comparison of the
+    sensitivity and time constant of available detectors of
+    infrared radiation thermal detectors of thermocouple bolometer
+    and pneumatic type and photoelectric detectors are
+    discussed

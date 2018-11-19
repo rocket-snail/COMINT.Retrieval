@@ -1,0 +1,10 @@
+of networks and vendors and public library automation. a
+    brief review of the status of automation in us public libraries
+    is presented, stressing the dependence upon networks and
+    vendors for on-line systems. the characteristics of a library
+    network are described. oclc's current role as a network rather
+    than as a utility is defined. a descriptive reference to other
+    library networks is included. finally, a comparison of networks
+    to vendors in a service relationship to the library is
+    presented, followed by a short list of public library
+    automation predictions.

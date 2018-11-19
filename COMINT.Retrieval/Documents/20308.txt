@@ -1,0 +1,4 @@
+a low noise transistor amplifier for acoustic
+    measurements the portable equipment described has a gain of
+    about and a frequency range of with noise output above the
+    theoretical minimum

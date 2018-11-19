@@ -1,0 +1,9 @@
+radar echoes obtained from earth satellites alpha and
+    beta observations at stanford california using a radar with a
+    steerable paraboloid are described echoes from and were seen on
+    occasions the echoes usually lasted abu sec as the satellite
+    crossed the aerial beam cyclic fading at occurred usually with
+    constant polarization and attributable to satellite tumbling on
+    one occasion passed within ki of an auroral disturbance
+    detected on the radar large amplitude fluctuations were seen
+    and the echo lasted longer than usual

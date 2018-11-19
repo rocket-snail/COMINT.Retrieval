@@ -1,0 +1,5 @@
+semiconductor diode circuit provides gain the forward
+    reverse characteristics of a diode can be used to provide
+    amplification see of the characteristics of a circuit operating
+    with power supply frequency considerably higher than the signal
+    frequency are noted

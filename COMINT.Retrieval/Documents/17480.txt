@@ -1,0 +1,7 @@
+maser noise considerations a discussion of the effect of
+    the saturation rf field on the noise figure of a three level
+    maser for the conditions considered the effect is small the
+    spontaneous emission equivalent temperature for a free electron
+    vacuum tube amplifier is one half that of a maser in principle
+    more general quantum mechanical amplifiers can be constructed
+    which will not have spontaneous emission noise

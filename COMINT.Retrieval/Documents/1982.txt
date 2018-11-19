@@ -1,0 +1,3 @@
+three phase static inverters power spacing vehicle
+    equipment a three phase output at is obtained from a dc input
+    of by means of si controlled rectifiers

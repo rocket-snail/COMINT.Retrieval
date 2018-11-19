@@ -1,0 +1,7 @@
+possible transmission of electromagnetic waves through a
+    metal in a strong magnetic field analysis shows that an em wave
+    propagating along a magnetic field can penetrate a metal plate
+    perpendicular to the field if the larmor frequency is higher
+    than the frequency of the wave and much higher than the
+    collision frequency and if the larmor electron radius is
+    smaller than the wave length in the metal

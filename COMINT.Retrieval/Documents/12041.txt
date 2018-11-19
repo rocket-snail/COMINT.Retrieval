@@ -1,0 +1,3 @@
+a collective description of electron interactions part
+    collective vs individual particle aspects of the
+    interactions

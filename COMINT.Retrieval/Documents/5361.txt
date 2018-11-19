@@ -1,0 +1,3 @@
+kinetic theory of the lorentz gas case of maxwellian
+    molecules discussion of differences between the views and
+    results of the author and those of

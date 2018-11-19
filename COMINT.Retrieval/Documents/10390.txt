@@ -1,0 +1,5 @@
+synthesis of a network for a prescribed time function the
+    moment generating function method and the time series method
+    are discussed they yield physically realizable networks under
+    general conditions three particular types of response are
+    considered as illustrations

@@ -1,0 +1,5 @@
+localized magnetic states in metals the conditions
+    necessary for the presence or absence of localized moments on
+    solute atoms containing inner shell electrons are analysed in
+    terms of a simplified model and stability conditions are
+    discussed

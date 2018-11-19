@@ -1,0 +1,18 @@
+the investigation of ionospheric absorption by a new
+    automatic method part measurements on vertical incidence pulse
+    signals equipment is described which automatically measures
+    echo pulse amplitude and produces records at minute intervals
+    of the integral of all echo pulse amplitudes received during
+    each minute the output of a modified communications receiver
+    blanked so as not to respond to the transmitter pulse is fed to
+    two gated amplifiers one of which selects the echo signal and
+    associated noise while the other deals with nose only after
+    integration for min the difference of the output voltages of
+    the integrators is applied to a pen recorder the integrators at
+    the same time being reset to zero under good conditions with
+    little rapid fading the results obtained are in good agreement
+    with results noted by a skilled observer from a cro display of
+    the transmitted and echo pulses wide differences are found
+    under poor conditions with rapid fading and the results
+    furnished by the automatic equipment are considered the more
+    reliable

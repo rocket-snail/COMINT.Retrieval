@@ -1,0 +1,4 @@
+ac voltage stabilizers the operation of the output stage
+    of the valve operated ac mains stabilizer is analysed with th
+    aid of load lines and the relative advantages of various modes
+    of operation are briefly discussed

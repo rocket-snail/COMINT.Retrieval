@@ -1,0 +1,11 @@
+sdi software package on a minicomputer. since 1970, the
+    israeli national centre of scientific and technological
+    information (costi) has been providing a computerised sdi
+    service to academic, research, industrial, and governmental
+    users. the service is run on a pdp 11/70 minicomputer. in mar
+    81, 6 data bases were being used-chemical abstracts search,
+    compendex, inspec, science citation index search, agris, and
+    u.s. government reports announcements. biosis will be added
+    soon. surveys the sdi process at costi, focusing on
+    search-profile construction, update techniques, and the sdi
+    production process.

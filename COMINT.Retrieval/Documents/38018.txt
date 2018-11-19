@@ -1,0 +1,7 @@
+the classical electromagnetic equations expressed as
+    complex four dimensional quantities it is possible to compress
+    the classical em equations into three complex four dimensional
+    quantities representing respectively em field currents and
+    charges and vector and scalar potentials this notation is
+    useful in problems relating to waveguides cavities and aerials
+    for microwaves

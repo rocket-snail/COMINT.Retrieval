@@ -1,0 +1,14 @@
+field dependent conductivity in nonuniform fields and its
+    relation to electrical breakdown a method is given for
+    calculating the resulting field distribution when the
+    conductivity is a function of the field strength this is
+    applied to a point plane electrode system in an amorphous solid
+    with the assumption that the conductivity at low field
+    strengths is electronic and that the conductivity at high field
+    strengths is described by a relation due to frohlich the
+    results show that for polymethylmethacry late with average
+    fields of the order of the reduction in maximum field strength
+    from that calculated for constant conductivity can be a factor
+    of five or more the magnitude of the reduction depending on the
+    degree of non uniformity of the field various other insulating
+    materials are also discussed

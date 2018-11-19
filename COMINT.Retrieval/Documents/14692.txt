@@ -1,0 +1,3 @@
+power semiconductor ratings under transient and
+    intermittent load methods of calculating maximum allowable
+    dissipation are discussed with examples

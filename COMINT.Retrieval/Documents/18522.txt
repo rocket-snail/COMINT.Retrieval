@@ -1,0 +1,6 @@
+an amplitude stabilized transistor oscillator an af
+    oscillator using two junction transistors in push pull class c
+    operation has its amplitude stabilized to within over wide
+    ranges of supply voltage loading and temperature by comparing
+    the output with a stable reference voltage obtained from a
+    junction diode operated at breakdown

@@ -1,0 +1,3 @@
+practical circuits using transistors diagrams and
+    descriptions of operation are given for amplifiers oscillators
+    and switching circuits

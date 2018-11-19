@@ -1,0 +1,3 @@
+application of magnetic amplifiers to engineering
+    problems the various types of magnetic amplifier connection are
+    discussed and a typical application of each is presented

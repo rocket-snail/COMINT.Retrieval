@@ -1,0 +1,11 @@
+some aspects of mixer crystal performance a method of
+    calculating conversion loss and conductances of a crystal mixer
+    is presented and their dependence on terminations at the image
+    frequency and at the sum frequency is considered experimental
+    data from various sources support the calculations graphs
+    showing excess crystal noise versus output frequency and mixer
+    noise temperature versus crystal noise temperature for varying
+    conversion loss are derived and applied together with the
+    conversion loss data to practical calculations of optimum mixer
+    configuration and optimum if two examples are worked out
+    experimental confirmation of results was obtained

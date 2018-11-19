@@ -1,0 +1,10 @@
+electrodynamic averaged boundary conditions for wire mesh
+    equations and are derived which form a system of boundary
+    conditions relating the averaged tangential components of the
+    electric and magnetic fields on the surface of the mesh to the
+    e averaged surface density of the current in the mesh the
+    results obtained are illustrated by calculating the reflection
+    of a plane wave from a plane uniform mesh and by determining
+    the screening effect of a spherical mesh with respect to a
+    small turn of wire carrying a current and located at the centre
+    of the sphere

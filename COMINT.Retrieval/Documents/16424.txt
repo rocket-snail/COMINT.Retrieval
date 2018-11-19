@@ -1,0 +1,5 @@
+the transient response of linear passive networks to
+    phase modulated signals some simple networks are stimulated by
+    a sinusoidal signal phase modulated by a step input analytical
+    solutions are verified experimentally and with an analogue
+    computer

@@ -1,0 +1,5 @@
+transfluxor oscillator gives drift free output a voltage
+    controlled transistor multivibrator circuit incorporating a
+    transfluxor magnetic core is described a feature of the
+    arrangement is the stability of the output frequency after
+    removal of the control signal

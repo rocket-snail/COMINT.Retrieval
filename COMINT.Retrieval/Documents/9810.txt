@@ -1,0 +1,8 @@
+study of layer splitting in the ionosphere an equation is
+    derived expressing the conditions for one or more maxima to
+    occur in the height distributions of temperature and
+    recombination coefficient a numerical treatment is given for
+    splitting with uniform temperature distribution would imply a
+    highly improbable value for the recombination coefficient on
+    the other hand the presence of a warm layer within the layer
+    would lead to results consistent with the observations

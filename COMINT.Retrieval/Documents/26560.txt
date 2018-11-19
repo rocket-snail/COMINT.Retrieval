@@ -1,0 +1,5 @@
+microwave diffraction by apertures of various shapes
+    results of an experimental investigation of the near zone
+    diffraction field of circular elliptical and slit apertures are
+    presented in general these results are consistent with theory
+    presented previously

@@ -1,0 +1,5 @@
+performance of an r f impedance probe in the ionosphere
+    new values of electron density agree with those from other
+    techniques earlier data were found to be to be too low owing to
+    distortion of the environment by the potentials applied to the
+    probe

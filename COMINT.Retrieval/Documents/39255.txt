@@ -1,0 +1,7 @@
+growth of electromagnetic waves in interpenetrating
+    infinite moving media phenomenological treatment of the
+    propagation of plane monochromatic waves in mutually
+    interpenetrating media equations are derived for the refractive
+    index and are applied to the problem of stability build up and
+    damping factors are determined for the case of a plasma moving
+    through a dispersionless dielectric

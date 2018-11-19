@@ -1,0 +1,14 @@
+factographic information service provided by a library.
+    describes the methods and information sources used by the state
+    scientific and technical library of lithuanian ssr for
+    provision of factographic information services. the sources of
+    factographic information include mainly trade literature,
+    standards and patent documentation. because not all
+    factographic enquiries can be answered from sources held by the
+    library, the library cooperates closely with the central
+    scientific research institute for patent information and
+    technical and economical research, with the all-union
+    scientific research institute for technical information,
+    classification and coordination and with a number of special
+    scientific and technical libraries in the ussr and in other
+    socialist countries.

@@ -1,0 +1,6 @@
+analyses of basic dielectric amplifier circuits analysis
+    is based on a simplified charge voltage characteristic
+    neglecting hysteresis both parallel and series connected
+    arrangements are studied the steady state response can be found
+    with succesive approximations transient response is also
+    discussed

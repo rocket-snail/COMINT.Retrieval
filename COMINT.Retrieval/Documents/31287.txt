@@ -1,0 +1,6 @@
+light sensitive neon tube circuits the decrease in the
+    striking voltage and the slight increase in the dark current
+    produced by external illumination in low voltage neon lamps is
+    mac made use of in switching lf relaxation oscillator and other
+    circuits high power illumination glow lamps may also be
+    suitable

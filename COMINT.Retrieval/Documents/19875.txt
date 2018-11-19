@@ -1,0 +1,5 @@
+the possibility of defining the width of the pass band in
+    terms of the distortion of a transient analysis using the
+    definition previously given indicates that it is impossible to
+    define the distortion of a transient by a single build up
+    time

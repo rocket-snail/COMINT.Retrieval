@@ -1,0 +1,3 @@
+zzzz. a summary of the standardisation work in norway in
+    the field of documentation and libraries, and the connections
+    to nordic and international committees.

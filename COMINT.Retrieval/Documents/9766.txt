@@ -1,0 +1,7 @@
+the direct voltage valve amplifier effects of valve and
+    circuit noise fluctuations of the current source and
+    temperature changes are evaluated a review of basic amplifier
+    circuits for measurement purposes illustrates different
+    directly coupled interstage and output arrangements and methods
+    of compensating the above effects methods of amplification
+    involving modulation are noted

@@ -1,0 +1,4 @@
+altitudes of the night airglow radiations observational
+    methods for obtaining the layer heights of airglow emission are
+    briefly reviewed and results derived from ground measurements
+    rocket flights and kinetic temperatures are discussed

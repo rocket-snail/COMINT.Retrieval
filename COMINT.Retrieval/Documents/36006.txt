@@ -1,0 +1,5 @@
+tape recording system speeds data processing a pwm tape
+    recording system is described with a capacity of digits the
+    tape is in wide and carries channels the transport mechanism is
+    electronically controlled and can start stop and reverse within
+    a few milliseconds

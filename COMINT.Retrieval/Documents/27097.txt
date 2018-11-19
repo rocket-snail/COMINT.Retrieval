@@ -1,0 +1,5 @@
+the structure of strong collision free hydrodynamic waves
+    a theoretical study has been made of the structure of strong
+    hydromagnetic waves which are propagated across a magnetic
+    field in a low density plasma where collisions can be
+    neglected

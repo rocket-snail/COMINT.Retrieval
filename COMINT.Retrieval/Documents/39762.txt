@@ -1,0 +1,7 @@
+integrating the data encryption standard into computer
+    networks. the nbs data encryption standard may be integrated
+    into computer networks to protect personal (nonshared) files,
+    to communicate securely both on- and off-line with local and
+    remote users, to protect against key substitution, to
+    authenticate data, and to provide digital signatures using a
+    nonpublic key encryption algorithm.

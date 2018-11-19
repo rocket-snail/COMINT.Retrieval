@@ -1,0 +1,4 @@
+the use of probing electrodes in the study of the
+    ionosphere measurement of electron concentration and
+    temperature and ion mass spectrum concentration and temperature
+    by a satellite borne langmuir probe is considered

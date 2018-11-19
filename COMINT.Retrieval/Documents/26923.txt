@@ -1,0 +1,8 @@
+note on the design of wide band low noise amplifiers
+    methods of reconciling the design requirements for minimum
+    noise factor and those for adequate bandwidth are discussed the
+    problem can be solved by equalization using either feedback or
+    complementary networks some measurements on an experimental
+    grounded cathode amplifier with feedback are reported
+    satisfactory performance with bandwidths up to about appears
+    possible

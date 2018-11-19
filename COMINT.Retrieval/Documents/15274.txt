@@ -1,0 +1,6 @@
+a generalized theory of transistor bias circuits a
+    general method of analysing bias circuits is presented almost
+    all three terminal bias circuits can be reduced to the same
+    standard form for which the analysis is given an example from
+    current practice shows the unifying concepts resulting from the
+    general theory

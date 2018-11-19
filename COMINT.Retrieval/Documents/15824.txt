@@ -1,0 +1,5 @@
+waveguide components with nonreciprocal properties the
+    mechanism of the nonreciprocal effects occurring when an e m
+    wave is propagated through a magnetized material particularly a
+    ferrite is discussed the gyrator the isolator and the
+    circulator are described

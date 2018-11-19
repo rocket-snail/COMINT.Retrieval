@@ -1,0 +1,4 @@
+c w millimetre wave maser characteristics are summarized
+    and some useful properties of the paramagnetic material are
+    described results indicate that the material will be useful far
+    beyond the frequency range investigated

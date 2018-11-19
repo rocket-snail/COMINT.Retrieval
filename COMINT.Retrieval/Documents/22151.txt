@@ -1,0 +1,8 @@
+computerized speech synthesis and speech recognition
+    january, 1975-august 1981 (citations from the international
+    information services for the physics and engineering
+    communities data base). citations in this bibliography cover
+    the principles, design, development, and various applications
+    of computerised speech synthesis and speech recognition.
+    techniques, software, hardware, and systems are
+    considered.

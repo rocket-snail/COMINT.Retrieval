@@ -1,0 +1,5 @@
+masers and related quantum mechanical devices theoretical
+    aspects are considered leading to the computation of the
+    dielectric constant of a gaseous medium in a form which can be
+    directly applied to the solution of problems in waveguides and
+    cavities

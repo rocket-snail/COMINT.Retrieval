@@ -1,0 +1,5 @@
+comments on frequency pulling of maser oscillators the
+    physical origin is illustrated of the theoretically predicted
+    reduction in frequency pulling with increasing number of beam
+    molecules and reasons are given for its failure to occur in
+    practice

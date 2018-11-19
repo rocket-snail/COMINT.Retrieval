@@ -1,0 +1,5 @@
+constant current coup transistor power supply by feeding
+    a constant current through a fixed resistor across the supply
+    output an unattenuated error voltage can be applied to the
+    error correcting amplifier of a series regulated power
+    supply

@@ -1,0 +1,9 @@
+incoherent scattering of radio waves by free electrons
+    with applications to space exploration by radar a powerful
+    radar can detect the incoherent back scatter from free
+    electrons in and above the earths atmosphere and the received
+    signal is spread in frequency by the doppler shifts associated
+    with the thermal motion of the electrons many practical
+    applications are discussed including measurements of electron
+    density electron temperature auroral ionization and radar
+    echoes from the sun venus and mars

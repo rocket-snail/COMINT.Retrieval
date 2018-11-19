@@ -1,0 +1,4 @@
+determination of corrections to mark two minitrack
+    station coordinates from artificial satellite observations
+    corrections may be deduced from a comparison of radio
+    observations with the predicted orbit

@@ -1,0 +1,11 @@
+university libraries' standards and statistics. the
+    arl-acrl standards for university libraries do not present
+    quantitative standards, but rather place their emphasis on the
+    performance of university libraries. through the statistical
+    techniques of correlation and regression, discriminant
+    analysis, and principal component analysis it is possible to
+    analyse university library data and to derive minimal criteria
+    that statistically distinguish university libraries from other
+    kinds of academic libraries. these criteria look very much like
+    standards, but still fail to relate library size and resources
+    deployed to library performance.

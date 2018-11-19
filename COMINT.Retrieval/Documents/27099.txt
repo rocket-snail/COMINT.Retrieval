@@ -1,0 +1,6 @@
+electric field distribution in an ionized gas part two
+    the method described earlier baranger and mozer is used to
+    calculate the probability distribution of the l f component of
+    the field at a neutral point and also the distributions of the
+    l f component at an ion and of the h f component at an
+    electron

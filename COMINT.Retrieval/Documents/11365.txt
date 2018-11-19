@@ -1,0 +1,8 @@
+incoherent microwave radiation from a plasma in a
+    magnetic field the microwave emission from a plasma in a
+    magnetic field is calculated theoretically using kirchhoffs
+    radiation law for cases when characteristic waves do not couple
+    within the plasma experimental observations of radiation
+    temperatures and cyclotron radiation line breadth and shape are
+    cited to illustrate applications of he theory to
+    experiment

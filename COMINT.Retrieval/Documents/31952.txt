@@ -1,0 +1,4 @@
+linear frequency discriminator a method of distortionless
+    demodulation of lf fm signals with large deviations is
+    described circuit design and performance are discussed and
+    analysed to determine conditions for maximum linearity

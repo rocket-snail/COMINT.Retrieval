@@ -1,0 +1,5 @@
+a planner's guide to the medicare statistical system. the
+    guide is designed to provide sufficient information about the
+    medicare statistical system (mss) to enable readers with
+    responsibilities in health planning and related fields to make
+    appropriate and effective use of the data from the mss.

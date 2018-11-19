@@ -1,0 +1,6 @@
+effect of electrical fluctuations on a valve oscillator
+    the effect of slow normal fluctuations is considered
+    expressions are derived for the one dimensional probability
+    density functions for amplitude and phase an approximate method
+    is shown for calculating the correlation functions for
+    amplitude and phase variations

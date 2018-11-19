@@ -1,0 +1,5 @@
+quantum kinetic equation for plasma taking account of
+    correlation a quantum kinetic equation for a system of
+    particles with coulomb interaction is derived taking into
+    account the correlation of the mutual position of the charged
+    particles

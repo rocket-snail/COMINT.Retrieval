@@ -1,0 +1,4 @@
+statistical fluctuations and optimum transfer functions
+    of a counting rate meter equations are derived to obtain the
+    optimum response conditions and suitable circuits are
+    described

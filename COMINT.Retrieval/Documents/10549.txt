@@ -1,0 +1,3 @@
+critical current for superconducting films mathematical
+    analysis of critical currents for superconducting films
+    thick

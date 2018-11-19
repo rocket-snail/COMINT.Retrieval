@@ -1,0 +1,7 @@
+note on the series correction of wide band amplifiers a
+    variation of the series inductance correction circuit is
+    considered in which the load resistance is connected across the
+    output and the circuit designed for either maximally flat
+    transfer impedance or maximally flat input impedance
+    inconvenient ratios of input t output capacitance can be
+    avoided by using a cathode follower stage

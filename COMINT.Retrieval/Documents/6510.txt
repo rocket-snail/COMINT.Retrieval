@@ -1,0 +1,5 @@
+optimum network functions for the sampling of signals in
+    noise transfer functions are calculated for networks which
+    maximize the ratio between the average amplitude of n
+    successive samples of the output signal and the rms output
+    noise and a continuous sample of the output

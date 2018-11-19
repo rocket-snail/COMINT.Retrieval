@@ -1,0 +1,9 @@
+a photoelectric analogue computer for investigating the
+    dynamic behaviour of linear systems apparatus is described for
+    determining the output function of a linear system such as an
+    amplifier or servomechanism when the input and transfer
+    functions are known the two known functions are represented by
+    appropriately shaped apertures in diaphragms interposed between
+    light source and photocell the mechanical system used to
+    produce the required continuous variation of the input function
+    is described in detail

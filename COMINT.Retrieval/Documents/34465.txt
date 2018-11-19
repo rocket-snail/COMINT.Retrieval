@@ -1,0 +1,7 @@
+theoretical investigation of the electronic energy band
+    structure of solids a review including sections dealing with
+    the elements of energy band theory the uses of group theory and
+    perturbation theory a survey or numerical methods for solving
+    the crystal wave equation examples illustrating complex energy
+    band structures a representative list of about references is
+    given experimental techniques are discussed by lax below

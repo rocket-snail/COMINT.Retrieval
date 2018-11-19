@@ -1,0 +1,9 @@
+ionospheric wind determination from spaced radio receiver
+    fading records direct analysis of the fading patterns of
+    reflected signals at three spaced receivers can indicate the
+    true ionospheric wind and changes in orientation of the
+    patterns without assuming any particular distribution of
+    orientation a new method of analysis of the fading records is
+    proposed together with an alternative method of observation in
+    which a single fixed receiver is used in conjunction with a
+    second one which is moved in a circle round the first

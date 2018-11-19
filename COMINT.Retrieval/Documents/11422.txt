@@ -1,0 +1,4 @@
+effect of electrical fluctuations on valve oscillator the
+    oscillation frequency is considered theoretically and a method
+    of calculating the effect is developed based on the einstein
+    fokker equation

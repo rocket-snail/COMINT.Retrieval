@@ -1,0 +1,10 @@
+an evaluation of some conflation algorithms for
+    information retrieval. a conflation algorithm identifies word
+    variants and reduces them to a single canonical form. discusses
+    its characteristics and gives examples of some types which have
+    been used in computerised information retrieval systems.
+    comparative experiments with a range of keyword dictionaries
+    and with the cranfield documentation test collection suggest
+    that there is relatively little difference in the performance
+    of the algorithms despite the disparate means by which they
+    have been developed and by which they operate.

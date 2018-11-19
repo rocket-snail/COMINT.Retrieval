@@ -1,0 +1,8 @@
+coexistence of graph-oriented and relational data file
+    organisations in a data bank. it is shown that a coexistence of
+    hierarchical and relational data bank structures in computer
+    networks in a common data bank system is possible. the
+    coexistence model regards the graph theory codasyl approach and
+    codd's relational model as graph-oriented, or rather
+    table-oriented, data file organisation as presented to the user
+    of a common logical structure of the data bank.

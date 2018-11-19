@@ -1,0 +1,13 @@
+a test of the differences in the literature history of
+    four historical accounts of the quantum mechanics problem.
+    examines 4 historical accounts of the quantum mechanics problem
+    in physics. the purpose is to describe the literature used by
+    the histories quantitatively using frequency of data of
+    publication. additionally, 1 of the histories was tested
+    against the other 3 to determine differences. a moments test
+    and a t test were employed. the results indicated the
+    literature of quantum mechanics, when plotted as a function of
+    frequency of publication date is non-normal, negatively skewed,
+    and is platykurtic. the test for difference between the one
+    history and the cumulative histories was non-significant.
+    interpretations of the results are discussed.

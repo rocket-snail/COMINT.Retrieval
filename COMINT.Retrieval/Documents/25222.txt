@@ -1,0 +1,4 @@
+mobility and space charge of ions in nonuniform field teh
+    equations developed lead to a generalization of the child
+    langmuir power law to cover the case of arbitrary
+    pressures

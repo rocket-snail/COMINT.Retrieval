@@ -1,0 +1,8 @@
+identification of storage candidates among monographs.
+    investigates the possibility of constructing an algorithm for
+    allocating monographs from the shelves of the washington state
+    library to storage, minimising the probability of the
+    materials' being recalled by user demand. the method can
+    provide management information for a decision as to desired
+    user satisfaction and can indicate the consequent size of the
+    core collection and of the stored collection.

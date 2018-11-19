@@ -1,0 +1,5 @@
+magnetostrictive transducers as selective quadripoles the
+    relations between electrical and mechanical quantities in
+    magnetostrictive energy transducers are given and equivalent
+    circuits derived design formulae are obtained using image
+    parameter theory

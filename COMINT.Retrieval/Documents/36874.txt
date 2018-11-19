@@ -1,0 +1,3 @@
+high frequency pulse counter a circuit based on the
+    secondary emission valve pulse generator described in
+    above

@@ -1,0 +1,15 @@
+the computing information service network in bell
+    laboratories. the computing information service (cis), a
+    network of 5 specialised libraries devoted entirely to
+    computing information, operates in concert with the bell
+    laboratories library network in providing services to some
+    22,000 employees. the cis is dedicated entirely to computing
+    information in all its forms - computer programs, related
+    documentation, machine manuals, audio/video tapes, books,
+    journals, etc. a full range of current awareness, searching,
+    reference, dissemination, and advisory services is provided
+    using a number of computer-aided systems. the network approach
+    for managing computing information services has yielded
+    dividends and has been integrated harmoniously with the
+    extensive resources of the 18 other libraries in the bell labs
+    library network.

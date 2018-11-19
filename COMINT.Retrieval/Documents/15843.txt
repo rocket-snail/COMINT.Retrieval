@@ -1,0 +1,3 @@
+automatic recording of ionospheric characteristics
+    following the proposals of nakata a device is proposed which
+    gives a direct record of

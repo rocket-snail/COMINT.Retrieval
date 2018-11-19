@@ -1,0 +1,14 @@
+home videotex services' some legal issues. revised
+    version of paper presented at a conference, new developments in
+    canadian communications law and policy, ottawa, jan 80. the
+    provision of videotex services raises interesting legal issues.
+    the existing framework of regulations applicable to radio,
+    television, and telecommunications will likely apply to
+    videotex, although different transmission mechanisms may well
+    be regulated differently. it is uncertain if the copyright law
+    in canada covers information stored in computers such as that
+    which would be contained in a videotex system. videotex
+    services originating outside canada would be able to sidestep
+    canadian priorities and canadian legislative requirements. it
+    has been suggested that a way of dealing with the problem would
+    be to regulate the flow of data across national borders.

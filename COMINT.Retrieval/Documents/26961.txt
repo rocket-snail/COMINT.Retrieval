@@ -1,0 +1,9 @@
+measurements on current noise in carbon resistors and in
+    thermistors measurements are reported on carbon and similar
+    resistors in the frequency range from and on negative
+    temperature coefficient thermistors between and in carbon
+    resistors the current and inversely proportional to the square
+    of the current and inversely proportional to approximately the
+    first power of frequency in thermistors the noise level is
+    lower and the spectrum shows deviations from the trlation this
+    is in agreement with measurements by brophy

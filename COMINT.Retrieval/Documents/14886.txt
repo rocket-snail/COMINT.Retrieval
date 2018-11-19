@@ -1,0 +1,4 @@
+designing amplifiers with nonlinear feedback design
+    criteria for the use of a nonlinear feedback loop with a
+    transistor amplifier are given increase of dynamic range and an
+    exponential response can be obtained

@@ -1,0 +1,8 @@
+an application of monitor data analysis techniques to
+    audit trail data from an on-line system. summarising the
+    methods currently being employed at the ohio college library
+    center (oclc) for user interaction analysis, this study
+    presents suggestions and provided examples for the use of audit
+    trail data available from most on-line interactive systems. the
+    sample data used in the analysis are from the oclc on-line
+    system. report not available from ntis.

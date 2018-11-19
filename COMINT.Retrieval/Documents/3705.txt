@@ -1,0 +1,2 @@
+radar scattering cross section applied to moon
+    return

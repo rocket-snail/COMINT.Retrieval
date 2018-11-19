@@ -1,0 +1,5 @@
+the generation of variable square pulses in the
+    nanosecond range a generator is described which is capable of
+    producing pulses of duration variable between and with pulse
+    rise and decay between and of pulse height within
+    correction

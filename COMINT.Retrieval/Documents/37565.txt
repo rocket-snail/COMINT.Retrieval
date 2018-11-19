@@ -1,0 +1,7 @@
+an analysis of the magnetic second subharmonic oscillator
+    the analysis refers to a parametric oscillator with two
+    ferromagnetic cores the steady state operation with both
+    current and voltage pump drives is studied to determine the
+    values of the circuit parameters which will give subharmonic
+    oscillations the experimental waveforms are close to those
+    predicted

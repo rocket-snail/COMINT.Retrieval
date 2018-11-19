@@ -1,0 +1,5 @@
+transistor amplifier stages with prescribed gain and
+    sensitivity a design procedure is developed for circuits
+    meeting prescribed gain and sensitivity criteria in terms of
+    anticipated operational variations and available component
+    data

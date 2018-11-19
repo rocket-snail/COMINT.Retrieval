@@ -1,0 +1,5 @@
+the theory of the realization of linear quadripole
+    networks with prescribed effective transfer function in the
+    presence of lossy circuit elements summary by the author of the
+    results contained in a more extensive paper published in
+    chinese

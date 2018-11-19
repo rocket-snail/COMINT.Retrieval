@@ -1,0 +1,3 @@
+a transistor blocking oscillator frequency divider this
+    includes the design of a staircase waveform generator in which
+    all the voltage increments are equal in amplitude

@@ -1,0 +1,6 @@
+study of some problems of electrostatics elementary
+    electrostatic phenomena are deduced from the simple electronic
+    theory of metals the phenomena of conduction in homogeneous
+    metals and from metal to metal contact potentials and the
+    peltier effect are examined the treatment is essentially
+    nonmathematical

@@ -1,0 +1,4 @@
+a microwave electron spin resonance spectrometer a
+    general description is given of equipment which operates in the
+    x and k bands and has highly stable magnetic and microwave
+    frequency systems

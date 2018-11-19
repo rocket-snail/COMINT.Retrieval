@@ -1,0 +1,6 @@
+limitations in squaring with simple valve circuits of
+    wide bandwidth the errors to be expected from squaring circuits
+    based on curvature of a valve characteristic with input applied
+    to one electrode and b using separate control electrodes with
+    antiphase inputs are compared measurements have been made on
+    the latter type

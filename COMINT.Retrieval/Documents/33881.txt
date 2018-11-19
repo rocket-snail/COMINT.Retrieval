@@ -1,0 +1,7 @@
+gramophone and microphone pre amplifier the equipment is
+    designed primarily for use with the amplifier described
+    previously separate input stages and gain controls for
+    gramophone and microphone channels are followed by a mixing
+    circuit the full output of can be obtained with harmonic
+    distortion for sinusoidal inputs ranging from to about with
+    microphone and from with gramophone

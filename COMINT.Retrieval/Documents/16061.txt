@@ -1,0 +1,5 @@
+ferrites in microwave applications a discussion of the
+    microwave faraday effect and of the mechanism of power
+    absorption in ferrites plane wave theory is given and is
+    extended to cover waveguides the measurement and applications
+    of the effects are surveyed see also of

@@ -1,0 +1,3 @@
+an outline of an electronic arithmetic unit discussion of
+    the design of a digital computer unit capable of performing and
+    checking the operations represented by a b d c

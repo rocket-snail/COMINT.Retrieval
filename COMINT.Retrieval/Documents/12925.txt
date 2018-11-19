@@ -1,0 +1,5 @@
+machine translation 1964-may 1981 (citations from the
+    ntis data base). studies on machine translation of various
+    languages are cited. topics concerning syntax, computer
+    programming, computer hardware, and semantics are
+    included.

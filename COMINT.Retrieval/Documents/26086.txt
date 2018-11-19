@@ -1,0 +1,7 @@
+on the scalar diffraction by a circular aperture in an
+    infinite plane screen application of variational principles
+    reduces the problem of finding the aperture distribution to the
+    solution of an infinite system of linear equations an
+    investigation is made of a particular system of equations based
+    on a convenient expansion of the aperture distribution given by
+    bouwkamp

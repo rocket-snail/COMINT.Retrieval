@@ -1,0 +1,7 @@
+improving library effectiveness: a proposal for applying
+    fuzzy set concepts in the management of large collections.
+    presents' a brief historical perspective on fuzzy sets; an
+    introduction to the fundamentals of fuzzy set theory; an avenue
+    of approach for applications of the theory in a library
+    environment; and suggestions for the future development of
+    fuzzy applications in library management.

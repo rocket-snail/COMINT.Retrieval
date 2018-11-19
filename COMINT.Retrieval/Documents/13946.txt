@@ -1,0 +1,12 @@
+electromagnetic field expansions in loss free cavities
+    excited through holes the electromagnetic field in a loss free
+    cavity excited through holes cannot be completely expressed in
+    terms of the short circuit modes of the cavity satisfying the
+    condition that the tangential component of the electric field
+    is zero on the boundary of the cavity including the openings
+    for a complete expansion it is necessary to add an irrotational
+    magnetic field which contributes a term inversely proportional
+    to the frequency to the usual admittance matrix if the cavity
+    is presumed to include a reasonable portion of the guides
+    feeding the openings this irrotational component becomes almost
+    diagonal

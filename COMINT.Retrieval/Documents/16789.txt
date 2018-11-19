@@ -1,0 +1,9 @@
+instruction tapes for the hp2645a. the aims of the
+    project team were to investigate the facilities of the hp2645a
+    terminal, and to demonstrate its potential as a teaching tool,
+    particularly in relation to the teaching of cataloguing. two
+    trial tapes were produced to run on the terminal. one was a
+    programmed text on chapter 21 of aacr2 (choice of main entry),
+    and the other was an introduction to marc cataloguing. the
+    report describes the tapes and the reactions to them of a group
+    of librarianship students.

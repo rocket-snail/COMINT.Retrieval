@@ -1,0 +1,5 @@
+automatic ionogram scaler an instrument has been designed
+    which projects an ionogram on to a screen the parameters which
+    are read off are recorded simultaneously on punched tapes and
+    in typewritten form the tape can be used to produce punched
+    cards if required

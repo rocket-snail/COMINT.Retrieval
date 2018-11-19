@@ -1,0 +1,11 @@
+automated document retrieval. state of the art review of
+    videomation systems, which are remote document consultation
+    systems operated by means of closed circuit television. they
+    allow remote access to any written or pictorial information,
+    either in its original form or on microfilm. videomation
+    systems, providing for the transmission of both speech and
+    visual image with display and print facilities, are tailored to
+    meet the specific requirements of the user, and thus enable a
+    large number of people in many different locations to view
+    documents and even discuss them without having to leave their
+    own desks.

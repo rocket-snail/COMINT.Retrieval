@@ -1,0 +1,12 @@
+the ignition voltage of gas discharges in a transverse
+    magnetic field over the pressure range torr experiments were
+    made using a discharge space bounded by coaxial cylinders with
+    a coaxial magnetic field a voltage of was sufficient to start a
+    discharge at torr with a suitable magnetic field strength on
+    the basis of these measurements and those of other workers
+    expressions are derived relating ignition voltage to magnetic
+    field strength electrode separation and configuration electrode
+    material nature and pressure of the gas above a critical value
+    of torr cm for air the magnetic field raises the ignition
+    voltage below this critical value the magnetic field reduces
+    the ignition voltage

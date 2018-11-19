@@ -1,0 +1,3 @@
+hydromagnetic waves in plasmas theoretical investigation
+    of wave propagation along and across a strong magnetic field in
+    plasma taking account of electron diffusion

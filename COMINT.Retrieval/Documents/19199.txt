@@ -1,0 +1,6 @@
+diffraction of cm electromagnetic waves by dielectric
+    rods part lucite diameter semicylinder fields very close to
+    surface the diffraction field is examined very close to the
+    surface of a lucite semicylindrical rod with its plane surface
+    at various orientations relative to the axis of propagation of
+    the incident wave parts of

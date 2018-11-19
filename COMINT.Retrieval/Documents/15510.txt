@@ -1,0 +1,3 @@
+a crystal filter of increased bandwidth and its synthesis
+    the method given in of june is applied to a lattice type filter
+    with a crystal in each bridge arm

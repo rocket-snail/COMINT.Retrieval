@@ -1,0 +1,15 @@
+the distribution of temperature along a thin rod
+    electrically heated in vacuo part time lag expressions obtained
+    previously of february for the steady state temperature
+    distribution are used to study the increase of temperature
+    accompanying a small increase in heating current over a
+    considerable region near the centre of the rod the temperature
+    variation can be completely represented by a simple exponential
+    law involving a single relaxation time whose magnitude can be
+    readily calculated this method is compared with that based on
+    the fourier expansion the latter can be adapted for general use
+    by introducing an effective length to replace the actual length
+    of the rod for a given temperature at the centre the relaxation
+    time varies inversely as the ratio of surface to volume and is
+    thus smaller for a ribbon filament than for one of circular
+    cross section as observed by prescott and morrison vol

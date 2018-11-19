@@ -1,0 +1,11 @@
+teaching and training for on-line work in libraries.
+    final report of a project which examined the methods of
+    teaching and training relating to on-line work in libraries
+    with special reference to cost. the cost of using outhouse data
+    bases (lockheed dialog and blaise marc) within programmes
+    designed to make maximum use of inhouse packages was
+    investigated. inhouse programmes are essential for practice
+    work-the blaise editor would be prohibitively expensive to use.
+    software for handling marc was found to be generally
+    inadequate. the hewlett-packard 2645a display station was found
+    acceptable for training purposes.

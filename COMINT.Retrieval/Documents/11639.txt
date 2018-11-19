@@ -1,0 +1,3 @@
+a shell source of radio emission report of observations
+    made with the mc s interferometer at the mullard radio
+    astronomy observatory cambridge

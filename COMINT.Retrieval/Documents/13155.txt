@@ -1,0 +1,10 @@
+information-processing models of cognition. reviews
+    recent progress in modelling human cognitive processes.
+    particular attention is paid to the use of computer programming
+    languages as a formalism for modelling, and to computer
+    simulation of the behaviour of the systems modelled. this
+    article does not deal at all with neural models; it focusses
+    mainly upon higher mental processes, but not without some
+    attention to modelling the elementary processes and especially
+    to the relationships between elementary and complex
+    processes.

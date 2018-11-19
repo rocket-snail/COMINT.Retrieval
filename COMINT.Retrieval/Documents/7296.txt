@@ -1,0 +1,5 @@
+function tables in digital control computers stored
+    function tables with appropriate interpolation techniques can
+    be used with advantage in digital control computers where there
+    are limitations on space and computing time eg the control loop
+    of servo systems

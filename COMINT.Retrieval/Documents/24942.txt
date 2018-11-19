@@ -1,0 +1,7 @@
+the theory of elementary excitations in atomic
+    semiconductors the simplest model of an atomic semiconductor is
+    considered in which every atom has a saturated valence shell
+    with two electrons electrons holes ortho and para exitons are
+    considered as elementary excitations and the hamiltonian
+    describing the system is derived taking account of interaction
+    between them

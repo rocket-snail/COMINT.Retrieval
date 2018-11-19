@@ -1,0 +1,5 @@
+the value of the constant in wiens displacement law the
+    observed value of the wavelength at which maximum radiation
+    occurs for a black body at a given temperature depends on the
+    band pass characteristics of the instrument used as a
+    consequence wiens constant can assume different values

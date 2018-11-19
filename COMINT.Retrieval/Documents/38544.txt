@@ -1,0 +1,3 @@
+the igy optical satellite tracking program as a source of
+    geodetic information a note on the visual and photographic
+    tracking program and the subsequent computations

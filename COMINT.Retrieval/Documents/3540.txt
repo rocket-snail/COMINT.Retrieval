@@ -1,0 +1,4 @@
+the derivation of the six terminal network curve its
+    graphical interpretation and its application in determining the
+    transformation properties of loss free six terminal and eight
+    terminal networks

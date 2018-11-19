@@ -1,0 +1,12 @@
+automatic keyword in context (kwic) indexing. defines the
+    process of indexing and enumerates the processes involved in
+    indexing. discusses the principles of automatic indexing and
+    presents an overview of kwic indexing, its origins and
+    production methods. illustrates the structure of kwic indexes
+    using the analogy of a horizontal wheel and a camera. stresses
+    that continuity of context at the extreme edges should be
+    maintained whenever the beginning or the end of a title forms
+    the part of a kwic entry. suggests an 'altered kwic' (akwic)
+    format. compares title and subject permutation for kwic
+    production, and encourages the adoption of kwic index by indian
+    periodicals.

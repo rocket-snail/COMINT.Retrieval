@@ -1,0 +1,7 @@
+transistors in switching circuits analysis of transistor
+    trigger circuits is based on an approximate representation of
+    the negative resistance characteristic by three straight lines
+    circuits using point contact transistors for waveform
+    generation level restoration delay storage and counting are
+    described and their properties n and limitations are discussed
+    in detail

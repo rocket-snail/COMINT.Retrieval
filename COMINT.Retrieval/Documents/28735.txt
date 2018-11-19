@@ -1,0 +1,9 @@
+transducer design for ultrasonic delay lines the
+    suitability of quartz and transducers is considered for use in
+    conjunction with and bonds between transducer and delay medium
+    to widen the pass band a relative bandwidth of can
+    theoretically be obtained using a transducer composed of with
+    and with a bond to a fused silica delay line using quartz
+    transducers a relative bandwidth of was obtained experimentally
+    with a plastic bond and of with a solder bond theory based on
+    equivalent circuits is given

@@ -1,0 +1,5 @@
+radio frequency forced oscillations in nonuniform plasmas
+    a theory of periodic rf oscillations in a plasma is given
+    neglecting electron ion collisions and temperature variations
+    small signal approximations are derived which are applicable to
+    plasma confinement problems

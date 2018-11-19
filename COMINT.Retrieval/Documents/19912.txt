@@ -1,0 +1,8 @@
+asymmetrical servomechanisms servomechanisms in which the
+    nonlinear element has an input output characteristic asymmetric
+    with respect to the origin are considered even if the input
+    signal is a pure sine wave the output will have a dc component
+    that cannot be filtered out by the linear element the general
+    feedback loop equations are reformulated and the new conditions
+    of stability considered a temperature control device is treated
+    a as an example

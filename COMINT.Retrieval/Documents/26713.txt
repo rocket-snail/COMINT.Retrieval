@@ -1,0 +1,4 @@
+elimination of even order modulation in rectifier
+    modulators the time varying resistance function of the
+    modulator is considered not to be a square wave but to contain
+    even order carrier harmonics

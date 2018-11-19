@@ -1,0 +1,3 @@
+on feedback in magnetic amplifiers part single feedbacks
+    feedback configurations associated with two core full wave self
+    saturating amplifiers are analysed and compared

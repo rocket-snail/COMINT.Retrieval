@@ -1,0 +1,12 @@
+data handling for science and technology' an overview and
+    sourcebook. a guidebook concerned with publishing numerical
+    scientific data, gaining access to it and ascertaining its
+    reliability. it is aimed at producers and users of data as well
+    as information specialists increasingly called upon to provide
+    numerical data to scientific users. papers cover aspects of the
+    generation, publishing, abstracting, collection, evaluation,
+    repackaging, dissemination and application of data. in the
+    physical sciences data are usually sufficiently well defined to
+    be clearly separable from interpretation but this is not the
+    case with biological and geological sciences so special
+    attention is given to data handling in these subjects.

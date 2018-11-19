@@ -1,0 +1,15 @@
+processing of patent bibliographic data at chemical
+    abstracts service. chemical abstracts service (cas) has been
+    involved with chemical patent information since it began in
+    1907. by the early 1970s, its manual data processing system for
+    patents was showing signs of strain with a million records
+    already and 200,000 being added annually. to convert to a
+    computerised system would require 25,000 man-hours if existing
+    records were to be contained in the new system. the solution to
+    this problem was found in 1977. an agreement was negotiated
+    with inpadoc (the international patent documentation centre)
+    for inpadoc to deliver to cas a back-file of 1.2 million patent
+    records in computer-readable form and weekly tapes of current
+    patent bibliographic information. describes how cas selects
+    patents from the tapes and the format of the new patent index,
+    derived from the inpadoc data and introduced in jan 81.

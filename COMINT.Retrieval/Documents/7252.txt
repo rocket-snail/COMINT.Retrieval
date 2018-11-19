@@ -1,0 +1,13 @@
+high power audio amplifiers recent applications for a f
+    power up to include vibration work servomechanism studies
+    pulsed service and variable frequency power sources all of
+    which require response distortion and noise level
+    characteristics similar to those for broadcasting service in
+    high power amplifiers with class b push pull output the output
+    transformer is the largest and most expensive item in the
+    equipment and may weigh some hundreds of pounds a new
+    equivalent circuit is used in the design of such transformers
+    harmonic distortion caused by the transformer is analysed and
+    methods of improving the performance of class b power
+    amplifiers are described a few details are given of a amplifier
+    with a response curve flat to within from to

@@ -1,0 +1,10 @@
+information theory and scientific communication. informal
+    and formal communication processes are documented in the
+    primary journal literature. both processes impose structures on
+    the authors who publish their research, and the formal process
+    imposes a structure on the journals which publish scientific
+    papers. it is shown that information theory can be applied to
+    these structures to evaluate author and journal contributions
+    to the communication of scientific information. experimental
+    results identify the most communicative authors and journals in
+    an area of active research.

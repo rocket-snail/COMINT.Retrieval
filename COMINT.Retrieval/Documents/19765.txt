@@ -1,0 +1,20 @@
+the technique of parsifal. experiment with on-line
+    catalogue searching in copenhagen city libraries. part 2'
+    technical description of a pilot project. for part i 2see1
+    81/5842. describes the experiment's phase 0, which relates to a
+    pilot project based on limited data and an unaltered search
+    system' the library school's subject retrieval system (bes).
+    the phase has the following components' 1. transfer of
+    catalogue entries from kommunedata to recku (the regional
+    computer centre of copenhagen university). 2. change of format
+    from the bc format (danmarc) to the bes format; lists the bes
+    search codes used, with an example. 3. building up of search
+    registers, with list of taboo words. 4. demonstration runs.
+    concludes that phase 0 has shown that data compiled for use in
+    printed catalogues can be used in an on-line system. some
+    problems in connection with input of foreign language items
+    remain. the system enables search via dk5, author and title
+    like manual catalogues, but also terms in the title and note
+    fields and other combinations. although subject searches were
+    not included, the bes program makes input of subject search
+    words possible.

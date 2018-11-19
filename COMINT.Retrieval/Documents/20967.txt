@@ -1,0 +1,4 @@
+faraday effect at centimetre wavelengths a brief note on
+    faraday effect measurements at cm at field strengths up to
+    oersted using a pole symmetrical waveguide system not described
+    results of measurements on and are presented graphically

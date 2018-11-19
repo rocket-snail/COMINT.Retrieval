@@ -1,0 +1,2 @@
+explicit form of fm distortion products with white noise
+    modulation an extension and correction to of medhurst

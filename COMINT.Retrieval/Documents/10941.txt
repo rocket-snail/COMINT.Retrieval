@@ -1,0 +1,5 @@
+transistor waveform generators design of circuits using
+    point contact and junction transistors is considered on the
+    basis of analogies with thermionic valve circuits experimental
+    af tuned circuit crystal controlled and blocking oscillators
+    are described

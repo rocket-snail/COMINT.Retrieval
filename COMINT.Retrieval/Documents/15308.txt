@@ -1,0 +1,6 @@
+a simplified solution and new application of an analyser
+    of algebraic polynomials a description is given of an analyser
+    circuit in which complex numbers are represented by sinusoidal
+    voltages of frequency with amplitude corresponding to the
+    modulus and phase corresponding to the argument of the
+    number

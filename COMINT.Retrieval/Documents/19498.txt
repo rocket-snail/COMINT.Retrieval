@@ -1,0 +1,11 @@
+pre-med, the brs current clinical medicine database.
+    pre-med is a current clinical medicine file which was developed
+    by bibliographic retrieval services as a companion file to
+    medline. pre-med contains citations from 109 journals in
+    clinical medicine, nursing, and hospital literature. pre-med is
+    similar in format to medline and is updated weekly with about
+    500 citations. pre-med indexers supplement the journals' tables
+    of contents with 2medical subject headings1. pre-med uses
+    illustrated in this article include bibliographic
+    verifications, acquisitions searching, updating a medline
+    search, and tables of contents services.

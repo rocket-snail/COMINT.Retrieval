@@ -1,0 +1,3 @@
+study of a weak field maser type self oscillator
+    characteristics of the maser described in below are
+    discussed

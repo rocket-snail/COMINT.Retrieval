@@ -1,0 +1,4 @@
+the design of logical circuits using transistors and
+    square loop ferrite cores some basic circuits are reviewed and
+    a range of practical designs and design procedures is
+    given

@@ -1,0 +1,3 @@
+detection of sputniks and by cw reflection the method
+    described is based on the reception of the transmission of wwv
+    at a distance of about miles

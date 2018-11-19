@@ -1,0 +1,9 @@
+the relativistic flow of electrons in parallel and radial
+    straight lines with no externally imposed magnetic field
+    analysis is given of the possibility of producing relativistic
+    electron flows it is shown that they could not start from a
+    cathode surface where the electrons have zero speed the
+    analysis also applies to flows normally considered
+    nonrelativistic in diodes where the linear dimensions of the
+    electrode surfaces are large compared with the electrode
+    spacing of

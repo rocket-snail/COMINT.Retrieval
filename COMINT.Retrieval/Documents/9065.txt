@@ -1,0 +1,5 @@
+mechanical filters with flexural coupling the use of
+    flexural coupling between longitudinal resonators makes
+    possible the construction of very small mechanical filters for
+    operating around the characteristics of such a system are
+    calculated and two practical examples are given

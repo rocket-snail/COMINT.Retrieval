@@ -1,0 +1,2 @@
+theory of magnetic amplifiers with square loop core
+    materials

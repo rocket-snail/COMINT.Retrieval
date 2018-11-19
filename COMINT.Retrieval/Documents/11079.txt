@@ -1,0 +1,4 @@
+radio doppler measurements on the russian satellites at
+    the national standards laboratory from observations made on the
+    transmission at one station values for the period n and other
+    orbit parameters were deduced using simple methods

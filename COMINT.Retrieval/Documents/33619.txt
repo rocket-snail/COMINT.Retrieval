@@ -1,0 +1,8 @@
+electromagnetic field of a dipole source above a grounded
+    dielectric slab a theoretical investigation using the method of
+    integral transforms solutions in integral form are evaluated
+    asymptotically by the saddle point method the distant field is
+    found to be the resultant of a spherical space wave and a
+    cylindrical surface wave calculated radiation patterns for some
+    particular cases with and without the dielectric slab are
+    presented

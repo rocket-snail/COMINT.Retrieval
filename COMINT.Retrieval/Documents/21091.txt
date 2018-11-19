@@ -1,0 +1,2 @@
+the balanced transistor dc convertor a theoretical
+    analysis of operation is given

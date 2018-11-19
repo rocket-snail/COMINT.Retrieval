@@ -1,0 +1,6 @@
+thermodynamical consideration of equilibrium electrical
+    fluctuations expressions are derived for the mean energy of
+    electrical fluctuations in an lcr circuit maintained at a given
+    temperature and for the spectral density of the fluctuation emf
+    similar expressions published earlier by gorelik and ginzburg
+    are discussed

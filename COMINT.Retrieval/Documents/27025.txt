@@ -1,0 +1,6 @@
+direct or ac coupling for deflexion amplifiers a quasi dc
+    coupling system using a vertical deflection amplifier input
+    switch providing dc reference pulses for level clamping is
+    described it is suitable for the range dc and the range of dc
+    shift can be extended indefinitely as far as insulation
+    permits

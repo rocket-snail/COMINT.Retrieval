@@ -1,0 +1,12 @@
+selective dissemination of information services'
+    techniques for elaboration and refinement of user interest
+    profiles. details procedures for improving recall and precision
+    performance in user interest profiles of automated sdi
+    services, in 5 stages' preliminary information for users,
+    outlining the objectives of the system, how it works, its
+    coverage, and what is meant by exhaustivity and relevance;
+    basic profile data, identifying the user and his interest area;
+    analysis of errors in references recalled; procedures for
+    refinement, by excluding noise, increasing precision of terms,
+    and improving search strategy' examples are given in each
+    case.

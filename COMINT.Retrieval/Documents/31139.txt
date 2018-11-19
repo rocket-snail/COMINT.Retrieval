@@ -1,0 +1,12 @@
+modular indexing in a relationally based document
+    retrieval system. when based on a single model, a document
+    retrieval system may be coherently designed, convenient to use,
+    and easy to maintain. the relational model provides a natural
+    way of viewing document retrieval and has a sound theoretical
+    foundation. a particular area of interest is indexing. all
+    indexingtools (including negative dictionaries, stem
+    dictionaries, and thesauri) are stored as relations and are
+    manipulated using relational operations. this procedure means
+    that, conceptually, all indexing is done at search time in a
+    modular and dynamic fashion. describes this modular approach,
+    gives examples, and summarises the advantages.

@@ -1,0 +1,6 @@
+conformal mappings for filter transfer function synthesis
+    conformal mapping provides a practical way of solving the es
+    potential problems previously considered of analysis in the
+    mapped plane also yields convenient methods for predetermining
+    the number of poles and zeros required to meet given design
+    specifications

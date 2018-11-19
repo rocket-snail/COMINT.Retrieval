@@ -1,0 +1,2 @@
+stability of varying element servomechanisms with
+    polynomial coefficients

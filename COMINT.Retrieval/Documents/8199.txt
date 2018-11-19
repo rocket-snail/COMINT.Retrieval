@@ -1,0 +1,4 @@
+determination of atmospheric densities from satellite
+    observations a discussion of the errors arising from various
+    factors involved in the determination of upper atmosphere
+    densities from satellite drag measurements

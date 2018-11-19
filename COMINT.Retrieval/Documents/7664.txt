@@ -1,0 +1,4 @@
+variational methods for problems in resistance schwingers
+    variational methods are used to calculate upper and lower
+    limits for the resistance of a cylinder with a specified
+    transverse distribution of potential at one end

@@ -1,0 +1,6 @@
+diffraction of a plane wave by a unidirectionally
+    conducting half plane the problem is formulated in terms of an
+    integral equation specifying the screen function whose solution
+    is obtained by the standard wiener hopf procedure expressions
+    for the fields and the current induced on the half plane are
+    given

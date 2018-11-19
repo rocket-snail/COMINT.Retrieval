@@ -1,0 +1,5 @@
+the transistor as a network element the use of
+    transistors for reduction of dissipation elimination of
+    inductance production of delay inversion of impedance is
+    discussed improvements in performance can be achieved which
+    would otherwise be unobtainable or uneconomic

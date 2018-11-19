@@ -1,0 +1,6 @@
+hydromagnetic waves in ionized gas the equation
+    representing the field in a moving isotropically conducting
+    medium is discussed and expressions are derived for the
+    velocities of the ordinary extraordinary and waves for gas
+    pressures much less than and much greater than the magnetic
+    pressure

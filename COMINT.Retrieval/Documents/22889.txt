@@ -1,0 +1,11 @@
+some magnetic properties of metals part properties of
+    small systems of electrons a calculation is made of the
+    magnetic properties of a system of electrons within a cylinder
+    of very small radius with its axis parallel to the field
+    direction the expressions obtained for magnetic susceptibility
+    thermodynamic potential and specific heat contain a steady term
+    which remains of significant magnitude at all temperatures
+    together with terms periodic in the field which are significant
+    only at very low temperatures the influence of electron spin is
+    discussed similar calculations are made for a small spherical
+    system

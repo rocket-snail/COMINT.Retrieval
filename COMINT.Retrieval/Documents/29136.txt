@@ -1,0 +1,7 @@
+coupled cavity travelling wave parametric amplifiers
+    analysis detailed information is given on operating
+    characteristics of a travelling wave circuit consisting of a
+    chain of inductivity coupled cavities loaded by diodes in the
+    capacitive region calculations show that unilateral gains of
+    over relatively wide bandwidths are attainable with
+    diodes

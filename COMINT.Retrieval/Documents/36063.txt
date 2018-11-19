@@ -1,0 +1,6 @@
+use of an electronic analogue computer with resistance
+    network analogues a method for solving partial differential
+    equations of the elliptical type is described the method is
+    iterative and adjustments are made automatically by means of
+    electronic storage elements and a switching mechanism some
+    results are given

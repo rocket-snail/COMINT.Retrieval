@@ -1,0 +1,5 @@
+stray capacitance with high permittivity dielectrics
+    expressions are derived for the stray es field and stray
+    capacitance of a parallel plate capacitor the corrections for
+    stray capacitance of circular parallel plate and cylindrical
+    capacitors are determined

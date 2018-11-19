@@ -1,0 +1,6 @@
+making use of curved characteristics for the higher types
+    of calculation in electronic computers where errors up to a few
+    per cent are permissible deliberate use can be made of the
+    curvature of valve characteristics in analogue computers
+    circuits for multiplying dividing squaring and obtaining square
+    roots are discussed

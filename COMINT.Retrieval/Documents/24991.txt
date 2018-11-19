@@ -1,0 +1,6 @@
+microwave single sideband modulator using ferrites the
+    modulator uses a ferrite rod inserted in a waveguide section
+    and subjected to a rotating transverse magnetic field as a
+    phase shifter a transmission type and a reflection type are
+    described both are designed to shift the frequency of an x band
+    signal by

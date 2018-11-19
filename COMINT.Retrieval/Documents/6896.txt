@@ -1,0 +1,5 @@
+automatic drift compensation in d c amplifiers the
+    circuit discussed is similar to that described by offner it may
+    be used in systems where periodic interruption of the input and
+    noncontinuous compensation are permissible as in analogue
+    computers sampling amplifers etc

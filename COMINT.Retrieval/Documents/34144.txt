@@ -1,0 +1,5 @@
+complementary transistor circuits by the use of p n p and
+    n p n transistors connected back to back a series of circuits
+    become available for which there is no valve equivalent they
+    are symmetrical in operation but do not necessarily require
+    balanced transistors

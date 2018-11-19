@@ -1,0 +1,3 @@
+on the uniqueness theorem for electromagnetic fields
+    resonant modes and mixed boundary condition in the steady state
+    are considered

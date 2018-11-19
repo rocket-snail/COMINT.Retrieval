@@ -1,0 +1,9 @@
+uhf band pass filters a direct method is developed for
+    designing waveguide and coaxial line filters the
+    characteristics of a cavity filter are calculated transverse
+    obstacles comprising sets of thin pins are shown to be better
+    than diaphragms windows or single pins from the point of view
+    of losses and of manufacture and adjustment cavities with q
+    values of can easily be obtained using four pins of diameter mm
+    design charts are given and several types of filter are
+    described and illustrated

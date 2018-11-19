@@ -1,0 +1,6 @@
+use of complex conductivity in the representation of
+    dielectric phenomena a representation for complex conductivity
+    is proposed in which a simple debye mechanism results in a
+    semicircular locus a non zero value of dc conductivity does not
+    cause this plot to lose its unique shape in the low frequency
+    range

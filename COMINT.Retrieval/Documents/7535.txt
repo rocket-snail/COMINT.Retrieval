@@ -1,0 +1,4 @@
+a circuit for the electrical integration and
+    differentiation of periodic phenomena integration or
+    differentiation is carried out by means of two independent rc
+    or rl sections separated by a valve stage

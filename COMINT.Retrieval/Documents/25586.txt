@@ -1,0 +1,4 @@
+the optimum dc design of flip flops a simple criterion is
+    derived by means of which it can immediately be seen whether or
+    not a flip flop circuit corresponding to specified requirements
+    is realizable a numerical example is given

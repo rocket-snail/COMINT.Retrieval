@@ -1,0 +1,6 @@
+the faraday effect in conductors and semiconductors
+    analysis on classical lines is pe presented for the effect on a
+    plane polarized plane em wave of an applied constant magnetic
+    field in the direction of propagation a formula for the
+    rotation of the plane of polarization is derived which may
+    possibly be checked experimentally

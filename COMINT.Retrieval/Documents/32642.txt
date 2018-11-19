@@ -1,0 +1,11 @@
+plasma oscillations in a periodic potential the one zone
+    theory the plasma oscillation theory of collective electron
+    interactions developed by bohm and pines of and back references
+    can be applied to the problem of the cn conduction electrons in
+    metals by modifying it to take account of the periodic
+    potential present this modification is carried out neglecting
+    the interactions of electrons in different zones and assuming
+    that the effect of inter zone transitions on the collective
+    behaviour is small enough to be treated by perturbation theory
+    the main effect of the potential is to alter the effective mass
+    of the electrons

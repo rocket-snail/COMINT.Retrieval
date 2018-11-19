@@ -1,0 +1,3 @@
+oscillations in a plasma in a weak magnetic field
+    previous work by kato is extended using discharge tubes with
+    high emission cathodes and vapour at lower pressure

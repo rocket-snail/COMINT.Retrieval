@@ -1,0 +1,3 @@
+a new technique for investigation of meteor echoes at uhf
+    the application of radar doppler measurements to the study of
+    meteor echo characteristics is described

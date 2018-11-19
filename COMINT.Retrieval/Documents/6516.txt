@@ -1,0 +1,9 @@
+an approximate theory of the diffraction of an
+    electromagnetic wave by an aperture in a plane screen theory
+    based on the sommerfeld half plane solution is developed for
+    certain regions the field can be conceived as arising from the
+    flow of electric and magnetic currents along the edge of the
+    half plane this concept is extended to apertures of arbitrary
+    form the case of the circular aperture being studied
+    particularly the theory is supported by results of
+    measurements

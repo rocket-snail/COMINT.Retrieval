@@ -1,0 +1,7 @@
+propagation of acoustic and electromagnetic waves in a
+    half space a half space is considered in which the impedance at
+    the boundary is given in the form of an arbitrary complex
+    number and a general solution of the wave equation is
+    formulated by introducing a function which reverts to zero at
+    the boundary expressions for the acoustic and e m potential are
+    derived in terms of this function

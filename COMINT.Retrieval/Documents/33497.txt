@@ -1,0 +1,7 @@
+ionospheric information from satellite signals results of
+    observations made over a two year period of the fading rate of
+    satellite signals are briefly described and compared with
+    ionization profiles for the same poriod the fading rate changed
+    abruptly during september form winter to summer values within
+    two days this effect was preceded by a change in the direction
+    of travelling disturbances

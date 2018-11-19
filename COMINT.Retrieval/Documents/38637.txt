@@ -1,0 +1,6 @@
+anomalous ionospheric reflection during solar eclipses
+    analysis of electron densities during an eclipse shows that
+    while the slope and curvature of layer strata are mostly very
+    small effective discontinuities can occur which would produce
+    complexities in ionograms these complexities are due to rays
+    reflected along paths inclined to the vertical

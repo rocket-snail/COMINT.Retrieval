@@ -1,0 +1,12 @@
+performance measurement and information arrangement.
+    describes an attempt by aslib to develop a checklist for the
+    evaluation of information services covering current awareness
+    services, information retrieval services, document delivery and
+    other miscellaneous evaluation activities. there was little
+    support from practitioners for the development of guidelines
+    relating to specific items in the checklist but choosing
+    between an in-house data base and reliance on external supplies
+    was seen as an issue of general significance. suggests the need
+    for a 'user-friendly' package bringing together the best of the
+    literature on performance measurement to encourage its
+    widespread adoption.

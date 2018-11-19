@@ -1,0 +1,7 @@
+some remarks concerning ionospheric absorption work
+    irregularities in the frequency dependence of observed
+    absorption decrements are attributed to focusing effects due to
+    curvature of the layers involved in the layer these effects
+    occur particularly with third order echoes account should be
+    taken of the effect in the analysis of absorption observations
+    made during conditions of rapid fading

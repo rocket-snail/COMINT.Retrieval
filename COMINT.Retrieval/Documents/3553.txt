@@ -1,0 +1,6 @@
+docile behaviour of feedback amplifiers a docile
+    amplifier is one that remains stable when connected to any
+    passive network of a specified class a simplified geometrical
+    approach is used to derive the docility criteria for passive
+    end loading ideal transformer feedback bilateral passive
+    feedback and arbitrary passive feedback

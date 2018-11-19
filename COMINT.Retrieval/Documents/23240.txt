@@ -1,0 +1,8 @@
+modified magic tee phase shifter for microwaves the
+    modified unit described has the symmetrical arms parallel to
+    each other thus allowing both short circuiting plungers to be
+    linked to a common drive the e and h plane arms are replaced by
+    odd and even coupling slots owing to the existence of several
+    sources of impedance mismatch in the complete phase shifter
+    which uses a second magic t junction a special alignment
+    procedure is necessary

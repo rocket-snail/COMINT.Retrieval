@@ -1,0 +1,7 @@
+a double slab ferrite field displacement isolator at
+    brief description with performance figures of an isolator
+    comprising a waveguide with two slabs of ferrite arranged with
+    transverse symmetry and subjected to equal but oppositely
+    directed magnetic fields the forward loss is over most of the
+    range from to and varies by over any channel while the reverse
+    loss is

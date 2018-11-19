@@ -1,0 +1,7 @@
+microwave determination of plasma density profiles a
+    method for the rapid determination of the average electron
+    density and of the spatial electron density distribution in
+    plasmas is presented the technique employed permits time
+    resolved measurements over a wide range of electron densities
+    introducing little or no perturbation into the gaseous
+    discharge

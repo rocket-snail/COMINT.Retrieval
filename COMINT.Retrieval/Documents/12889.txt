@@ -1,0 +1,8 @@
+geomagnetic and geoelectric variations analysis of
+    records of geomagnetic pulsations especially those with periods
+    of sec indicates that they may be associated with ionospheric
+    vibrations caused by a disturbance of the ionization
+    equilibrium information regarding the distribution of ground
+    conductivity is obtained from the relation between the magnetic
+    pulsations and the associated transverse electric field
+    pulsations

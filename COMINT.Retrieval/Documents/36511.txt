@@ -1,0 +1,5 @@
+the laddic a magnetic device for performing logic the
+    laddic is a ladder like structure cut from rectangular
+    hysteresis loop ferrite all magnetic paths are flux limited by
+    controlling the actual switching path any boolean function of n
+    variables can be produced

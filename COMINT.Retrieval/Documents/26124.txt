@@ -1,0 +1,4 @@
+effect of steepness of rise and fall of the input pulse
+    on the response of pulse amplifiers part expressions are
+    derived for the response of rc coupled amplifiers to input
+    pulses of ramp form and of triangular form

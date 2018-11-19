@@ -1,0 +1,7 @@
+large amplitude hydromagnetic waves above the ionosphere
+    the hydromagnetic wave velocity is calculated as a function of
+    altitude there are two regions where the wave velocity changes
+    very rapidly with altitude and it is concluded that
+    hydromagnetic waves above the ionosphere have an amplitude
+    greater than the geomagnetic fluctuations they produce at the
+    surface of the earth see also of october

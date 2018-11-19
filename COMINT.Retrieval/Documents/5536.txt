@@ -1,0 +1,7 @@
+noise of resistors and resistor combinations without and
+    with load noise due to current flow in carbon film type
+    resistors is particularly considered the increase over thermal
+    noise is controlled by a factor which depends on loading film
+    dimensions and the construction of the resistor from this a
+    formula is derived which contains a constant dependent on film
+    material

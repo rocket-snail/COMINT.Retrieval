@@ -1,0 +1,4 @@
+a direct amplifier for voltages down to having low
+    internal resistance the low voltage threshold is zchived by
+    using a crystal contact relay and tesla transformer in the
+    input circuit to convert the dc to ac for amplification

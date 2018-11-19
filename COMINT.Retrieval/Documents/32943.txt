@@ -1,0 +1,7 @@
+consideration of some factors concerning the use of audio
+    transformers the effect on the frequency response of using
+    source or load impedances different from the rated values is
+    discussed methods of reducing distortion due to nonlinear core
+    characteristics and o eliminating noise due to various causes
+    are indicated methods of matching several impedances to a
+    single one simultaneously are shown

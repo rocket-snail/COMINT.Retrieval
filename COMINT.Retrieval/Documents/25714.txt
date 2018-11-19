@@ -1,0 +1,7 @@
+four new public swedish libraries-presentation and
+    comments. contribution to an issue devoted to public library
+    services in sweden. introduction to 4 new swedish public
+    libraries, at nora, sjobo, varberg and orebro, giving design
+    specifications, floor-plans and details of organisation.
+    sections are included on the library in the urban environment
+    and on the book room of each of the 4 libraries.

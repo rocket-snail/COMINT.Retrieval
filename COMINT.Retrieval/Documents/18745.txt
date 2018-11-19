@@ -1,0 +1,6 @@
+hydromagnetic wave propagation in the ionosphere general
+    equations are obtained governing hydromagnetic wave propagation
+    assuming approximations valid for the ionosphere for wave
+    periods of less than one h the equations are very similar to
+    those for the propagation of radio waves in the
+    ionosphere

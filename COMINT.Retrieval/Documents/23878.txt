@@ -1,0 +1,15 @@
+answer-passage retrieval by text searching. passage
+    retrieval (already operational for lawyers) has advantages in
+    output form over reference retrieval and is economically
+    feasible. previous experiments in passage retrieval for
+    scientists have demonstrated recall and false retrieval rates
+    as good or better than those of present reference retrieval
+    services. the present experiment involved a greater variety of
+    forms of retrieval question. in addition, search words were
+    selected independently by 2 different people for each retrieval
+    question. the search words selected, in combination with the
+    computer procedures used for passage retrieval, produced
+    average recall ratios of 72 and 67%, respectively, for the 2
+    selectors. the false retrieval rates were (except for 1
+    predictably difficult question) respectively 13 and 10 falsely
+    retrieved sentences per answer-paper retrieved.

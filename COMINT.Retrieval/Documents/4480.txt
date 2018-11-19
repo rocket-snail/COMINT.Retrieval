@@ -1,0 +1,9 @@
+standards for speakers. a proper sound system is a
+    critical consideration for all audio librarians and archivists.
+    presents guidelines for speaker selection to produce the most
+    authentic reproduction. speakers should' have a wide frequency
+    range-approximately 25-16,000 hertz or better; have a flat
+    response-03 db or less; have low intermodulation
+    distortion-0.5% or less; have minimal differences in speaker
+    arrival time-1 millisecond or less; and be properly placed for
+    best response.

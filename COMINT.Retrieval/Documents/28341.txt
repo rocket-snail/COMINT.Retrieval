@@ -1,0 +1,7 @@
+distribution of trapped radiation in the geomagnetic
+    field an examination of the altitude dependence of trapped
+    radiation from explorer one measurements shows that the
+    radiation intensity data in the vicinity of the magnetic
+    equator can be well represented by the scalar intensity b of
+    the real geomagnetic field the value of b at the lower boundary
+    of the inner zone increases with magnetic dip latitude

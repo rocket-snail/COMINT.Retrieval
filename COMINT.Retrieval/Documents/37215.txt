@@ -1,0 +1,4 @@
+calculation of the spatial and angular distribution of a
+    stream of particles with multiple scattering scattering of
+    electron beams is considered taking account of absorption and
+    retardation effects

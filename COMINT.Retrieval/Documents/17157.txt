@@ -1,0 +1,22 @@
+fact retrieval for the 1980s. reviews prevailing
+    methodologies of fact retrieval in science and technology and
+    makes projections for the decade to come' numeric data bases
+    are shown to overtake in size and number the large
+    bibliographic collections. this is expected to lead toward more
+    sophisticated, interactive data analysis techniques with
+    graphical display options. the availability of low-cost
+    intelligent computer terminals, micro- and minicomputers, is
+    shown to make aggregation and post-processing of retrieved
+    information from different sources readily possible. this
+    capability may come into conflict with legal constraints and is
+    bound to affect the traditional marketing of information. it
+    will lead to the extraction of higher forms of intelligence
+    from text and data. the user community is seen to shift from
+    expert information specialists, who act now as middlemen, to
+    the end-users of information. this less experienced user
+    community will challenge the ingenuity of system designers for
+    self-guiding, adaptive, and yet more sophisticated man-machine
+    interfaces. the merging of wide-band digital communication
+    networks with computer technologies will make it possible to
+    interconnect computers, information centres, word processors,
+    and other peripherals, worldwide.

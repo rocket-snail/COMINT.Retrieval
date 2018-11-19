@@ -1,0 +1,7 @@
+phase fluctuations in a valve generator the effect of
+    shot noise on an oscillator operating in the steady state is
+    considered theoretically the intensity and the statistical
+    properties of the shot current are independent of the feedback
+    circuit and can thus be represented by a separate noise current
+    generator in parallel with the oscillator analysis is presented
+    on the basis of such an equivalent circuit

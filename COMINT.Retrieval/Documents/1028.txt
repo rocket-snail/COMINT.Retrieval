@@ -1,0 +1,5 @@
+a survey of machine readable data bases. 42 of the
+    machine readable data bases available to the technologist and
+    researcher in the natural sciences and engineering are
+    described and compared with the data bases and data base
+    services offered by nasa.

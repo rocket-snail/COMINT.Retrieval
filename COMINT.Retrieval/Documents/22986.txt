@@ -1,0 +1,8 @@
+theoretical and experimental study of back scattering
+    cross section of an infinite ribbon the geometrical optics
+    approximation is derived for the back scattering cross section
+    per unit length of an infinite ribbon a comparison is made with
+    the exact theory the approximate theory of sommerfeld the
+    variation method and with experimental results obtained through
+    the space separation method for the measurement of back
+    scattering cross sections in a parallel plate region

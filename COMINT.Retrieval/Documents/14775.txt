@@ -1,0 +1,5 @@
+new amplifier has bridge circuit output the basic circuit
+    is described and complete circuit diagrams are given of and af
+    amplifiers the advantages of the circuit include absence of
+    switching transients absence of dc current through primary of
+    output transformer and low quiescent current

@@ -1,0 +1,9 @@
+ieee international symposium information theory, held at
+    santa monica california, february 9-12, 1981. contains the
+    abstracts of papers presented at the 1981 ieee international
+    symposium on information theory, feb 9-12 1981, at santa
+    monica, california. papers encompass the following areas'
+    information theory, communications, stochastic processes,
+    communication networks, coding, radar, cryptography,
+    pattern-recognition, image-processing, speech compression,
+    complexity, estimation, and detection.

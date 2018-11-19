@@ -1,0 +1,5 @@
+a digital remote position control a description of a
+    servo shaft position control system using digital techniques
+    throughout the logical circuit arrangements and methods of
+    stabilizing are discussed together with the design
+    procedure

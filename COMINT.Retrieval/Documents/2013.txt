@@ -1,0 +1,7 @@
+nonlinear distortion in transistor amplifiers following
+    an analysis of the causes of distortion in common emitter
+    circuits the distortion factor is derived from the static
+    characteristics the dependence of distortion on temperature
+    collector bias input signal level and load resistance is
+    determined and calculated values are compared with results of
+    measurements

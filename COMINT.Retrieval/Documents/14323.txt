@@ -1,0 +1,10 @@
+bradford's law of bibliographic scatter. analyses the
+    ambiguity inherent in bradford's law, and attributes this to
+    the inconsistencies between the verbal and graphical forms of
+    its expression. demonstrates how bradford's law can be
+    rewritten so that theory and empirical results will correspond
+    exactly. to extend the practical use of such a mathematical
+    model, introduces the concepts of normal situation and
+    normalisation of research, and uses zipf's 2nd law to establish
+    a model valid for normal situations but with wider application
+    and greater objectivity than bradford's.

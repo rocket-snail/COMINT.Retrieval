@@ -1,0 +1,13 @@
+teletext and viewdata' a new challenge for the designer.
+    teletext and viewdata displays present a strong challenge to
+    the information designer. the monospaced dot matrix characters
+    are relatively crude in their design, and their positioning is
+    determined by a fixed grid. the graphics facility is also
+    somewhat crude. the scope for typographic and spatial coding of
+    information is therefore very limited. there is, however, the
+    possibility of using colour as a way of coding information. 7
+    colours, including white, are available, but they are not of
+    equal brightness and this has important implications for
+    legibility. bearing in mind the constraints and freedom offered
+    by this kind of display, ways of presenting text, tables,
+    indexes and graphics of various kinds are discussed.

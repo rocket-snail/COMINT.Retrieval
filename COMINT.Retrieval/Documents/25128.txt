@@ -1,0 +1,7 @@
+ferromagnetic relaxation part the role of four magnon
+    processes in relaxing the magnetization in ferromagnetic
+    insulators the effect of the exchange induced four magnon
+    process should be observable in parallel pumping experiments
+    four magnon processes arising from dipole cubic anisotropy and
+    exchange coupling are not very effective in relaxing the
+    uniform precession

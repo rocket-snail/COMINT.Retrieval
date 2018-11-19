@@ -1,0 +1,7 @@
+the lock in performance of an afc circuit for t the case
+    of rc coupling between phase detector and reactance valve in an
+    afc system an explicit relation is derived which determines the
+    lock in condition in an afc system using a reactance valve
+    controlled oscillator the relation involves the filter time
+    constant the initial frequency error the phase detector
+    constant and the sensitivity of the oscillator

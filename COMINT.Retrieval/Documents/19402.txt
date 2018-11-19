@@ -1,0 +1,7 @@
+synthesis of a dynamically variable electronic filter the
+    principles of network synthesis are applied to the design of a
+    variable bandwidth filter with an upper cut off frequency which
+    can be varied dynamically over the frequency range kcs the
+    bandwidth variation is automatically controlled by voltages
+    applied to the control grids of pentodes slight changes
+    occurring in selectivity and midband gain

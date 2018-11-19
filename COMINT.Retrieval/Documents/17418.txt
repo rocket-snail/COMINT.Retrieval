@@ -1,0 +1,5 @@
+note on the noise figure of negative conductance
+    amplifier the noise figure is calculated for the case when the
+    negative conductance amplifier stage is connected directly to a
+    receiver and when it is connected via a lossless step down
+    transformer

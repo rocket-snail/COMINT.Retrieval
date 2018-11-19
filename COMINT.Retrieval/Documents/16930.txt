@@ -1,0 +1,3 @@
+a possible construction of amplitude analysers a circuit
+    is described by means of which pulses with amplitudes exceeding
+    or lying within certain limits can be counted

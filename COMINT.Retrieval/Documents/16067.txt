@@ -1,0 +1,8 @@
+micro-informatics and library science. a brief survey
+    describing how libraries can capitalise on the opportunities
+    offered by the availability at low cost of microcomputers.
+    details are given of how microcomputers work and their
+    potential applications in library situations; programs for
+    managing loans, acquisitions, and periodical collections are
+    discussed; and the advantages of accessing on-line data bases
+    considered.

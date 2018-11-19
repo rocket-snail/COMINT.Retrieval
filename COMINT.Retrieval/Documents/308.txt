@@ -1,0 +1,7 @@
+a stable and sensitive dc amplifier with high input
+    resistance a line operated dc amplifier for automatic
+    regulation using ac amplification and a breaker modulator has
+    been designed with the following characteristics direct reading
+    instrument zero drift after warming up les than peak to peak in
+    hours test sensitivity short time stability usually input
+    resistance and damping about sec with source resistance

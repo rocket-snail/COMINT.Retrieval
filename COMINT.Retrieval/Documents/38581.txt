@@ -1,0 +1,7 @@
+characteristics of the beam type maser velocity
+    distribution of molecules in a beam type maser is analysed by
+    an approximate method the average velocity of the molecules is
+    much less than the most probable velocity when the power level
+    and focusing voltage are low the relations between amplitude
+    focuser voltage and frequency agree well with experimental
+    results to be detailed in part

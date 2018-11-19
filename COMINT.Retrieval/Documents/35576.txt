@@ -1,0 +1,4 @@
+fluctuations of electron density in the ionosphere
+    discussion of turbulent fluctuations in the lower ionosphere
+    where the frequency of ion collisions with neutral particles is
+    large compared to the larmor frequency

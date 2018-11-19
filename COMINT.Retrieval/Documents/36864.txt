@@ -1,0 +1,5 @@
+linear multitapped potentiometers with loaded outputs an
+    analysis of multitapped linear potentiometers is given for the
+    type in which shunt resistors are connected between adjacent
+    tapping joints and in the presence of an output load
+    resistance

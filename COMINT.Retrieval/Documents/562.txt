@@ -1,0 +1,6 @@
+diffraction by smooth conical obstacles expressions
+    obtained earlier are generalized to oblique incidence and
+    conical surfaces the derivation is based on a generalized
+    concept of the greens function and on the use of corrective
+    factors results are compared with scale model
+    measurement

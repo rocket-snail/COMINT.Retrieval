@@ -1,0 +1,10 @@
+the control of an information retrieval system's input
+    flow. the 2 commonly-used parameters, batch accumulation time
+    and batch size, are inadequate for effective control of an
+    information retrieval system's input. a 3rd parameter is
+    required to describe document input rate. suggests a definition
+    for this parameter, based on the number of documents in each
+    incoming group and the waiting time before a batch is
+    completed, and names it 'document flow momentum'. describes a
+    method for measuring it and gives examples of its use in the
+    optimisation of information input performance.

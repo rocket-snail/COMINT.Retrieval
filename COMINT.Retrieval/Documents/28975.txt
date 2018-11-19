@@ -1,0 +1,13 @@
+deadlock avoidance in store-and-forward networks.
+    store-and-forward network deadlocks may be avoided by
+    forwarding messages from buffer to buffer in accordance with a
+    loop-free directed buffer graph which accommodates all the
+    desired message routes. use of guaranteed paths in the buffer
+    graph and optional path switching are described, along with
+    message reclassification to free members of the common buffer
+    pool. an efficient buffer-counting procedure in each node
+    handles messages requiring several buffers, increases
+    flexibility of buffer usage, minimises overheads during message
+    reclassification or path switching, and simplifies jumping
+    between normal low-overhead operation when deadlock is far and
+    more careful operation when deadlock is near.

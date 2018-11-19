@@ -1,0 +1,13 @@
+the iaa/planalsucar information centre, brazil. describes
+    the development of an on-line information retrieval system
+    (sibil) as part of the national programme for sugar cane
+    improvement (planalsucar) at the institute of sugar and
+    alcohol. user requirements and collection resources are
+    outlined. the implementation of the system is presented in
+    full, with details of hardware used, processing procedures for
+    input, access methods, file structures, and products. planning
+    strategy used to install the system within a 1-year period is
+    discussed, in relation to personnel requirements and technical
+    specifications. reference is made to plans to develop a
+    thesaurus and current awareness service, and the success of the
+    system to date in meeting user needs evaluated.

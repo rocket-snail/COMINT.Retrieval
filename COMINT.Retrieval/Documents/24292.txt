@@ -1,0 +1,5 @@
+optimum tchebycheff third order filters a theoretical
+    analysis is given of a design for the detection of rectangular
+    pulsed signals on a background of white noise and it is shown
+    that resulting signal noise ratios are smaller than those
+    obtained by the use of optimum butterworth filters

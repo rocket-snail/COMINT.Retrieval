@@ -1,0 +1,13 @@
+a worldwide network for technological information:
+    recommendations of a un study. discusses several aspects of the
+    design of a worldwide network for technological information, a
+    project undertaken by the author in spring 79 under a contract
+    with the united nations office of science and technology. its
+    purpose would be 'to place information services...at the
+    disposal of problem-solvers and decision-makers in the realm of
+    national socioeconomic development'. its principal function
+    would be to forward and store messages between services and
+    clientele, mainly by computer-based message switching. a
+    network structure comprising primary and secondary nodes is
+    suggested. a 3-year development phase followed by a 4th year of
+    pilot operation and evaluation is recommended.

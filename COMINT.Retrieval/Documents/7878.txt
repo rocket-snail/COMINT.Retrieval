@@ -1,0 +1,9 @@
+a condition on uniform field breakdown in electron
+    attaching gases the form of the curve relating t to at
+    breakdown where e is the field strength p the pressure and d
+    the electrode separation indicates the existence for high
+    values of pd of a value of ep below which breakdown does not
+    occur a study of the equation for steady state current in
+    electron attaching gases suggests that this limiting value is
+    nearly that for which the ionization and attachment
+    coefficients are equal this is confirmed experimentally

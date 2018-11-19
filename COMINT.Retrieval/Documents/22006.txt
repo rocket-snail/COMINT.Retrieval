@@ -1,0 +1,4 @@
+solar x rays measurements of the intensity of solar x
+    rays made during the past eleven years using rockets are
+    reviewed and a useful table showing intensities as a function
+    of wavelength and solar activity is given

@@ -1,0 +1,8 @@
+the absorptivity spectrum of a uniform anisotropic plasma
+    slab the absorptivity spectrum of a plasma slab is computed for
+    waves propagating parallel and normal to an applied static
+    magnetic field for various electron densities electron
+    collision frequencies and slab thicknesses peaks in the
+    absorptivity occur at frequencies near the edges of the stop
+    bands within which little energy can enter the plasma because
+    of reflection at the first boundary

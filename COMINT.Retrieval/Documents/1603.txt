@@ -1,0 +1,3 @@
+spectral output of piecewise linear nonlinearity the
+    transference or effective gain of a piecewise linear component
+    is derived

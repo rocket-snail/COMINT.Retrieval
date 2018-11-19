@@ -1,0 +1,5 @@
+reducing amplifier distortion a method is described for
+    correcting the nonlinear distortion in valve amplifiers using
+    metallic rectifiers as nonlinear resistances examples of
+    corrected single ended and push pull amplifiers are
+    given

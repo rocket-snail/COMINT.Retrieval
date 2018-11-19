@@ -1,0 +1,5 @@
+d c charged magnetic pulse modulator design details and
+    performance results are quoted for an experimental modulator
+    consisting of one charging and two pulse modulating stages and
+    capable of delivering a peak power output with a pulse width
+    into a restive load

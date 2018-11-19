@@ -1,0 +1,10 @@
+investigation into users' requirements as part of the
+    methodological approach to the design of automated information
+    systems. intended for designers of computerised information
+    services dealing with interdisciplinary subjects. the 1st part
+    discusses basic methodological problems in general and shows
+    how a set of questions and answers can help with the procedure.
+    it shows further how this method was applied to the design of
+    the czechoslovak system of scientific, technical and economic
+    information, and looks into the categories of users this system
+    is to serve.

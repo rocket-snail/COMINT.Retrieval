@@ -1,0 +1,9 @@
+optimum noise performance of linear amplifiers a single
+    quantitative measure of amplifier spot noise performance is
+    established which removes difficulties associated with the
+    effect of feedback on the noise figure as it is a function only
+    of the amplifier noise and circuit parameters it determines the
+    lowest noise figure obtainable at high gain with a given
+    amplifier used alone or passively connected to other amplifiers
+    of the same and it provides an index of the absolute quality of
+    noise performance

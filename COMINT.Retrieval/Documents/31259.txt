@@ -1,0 +1,10 @@
+a computerized cataloguing management system for health
+    science audiovisuals. describes the implementation of the
+    stanford public information and retrieval system (spires) by
+    the university of michigan medical school learning resource
+    center. spires is a bibliographic data base management system
+    which offers on-line search capabilities and retrieval of data
+    in programmable formats. the learning resource center utilises
+    spires for the interactive retrieval of cataloguing data,
+    bibliographical compilations, and book catalogue
+    production.

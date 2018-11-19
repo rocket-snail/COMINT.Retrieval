@@ -1,0 +1,4 @@
+theory of wave scattering on periodically uneven surfaces
+    description of six approximate mathematical methods for
+    calculating the scattering of sound or em waves over the sea or
+    uneven ground references

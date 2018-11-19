@@ -1,0 +1,6 @@
+formulae for calculating filter circuits with flattened
+    attenuation curves simple formulae are given for calculating
+    tchebycheff type low pass filters with attenuation values
+    falling between prescribed limits either inside or outside the
+    pass band attenuation curves obtainable with filters thus
+    calculated are shown

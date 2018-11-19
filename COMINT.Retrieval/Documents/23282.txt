@@ -1,0 +1,21 @@
+a monochromatically ionized layer in a non uniformly
+    recombinant atmosphere with applications to the d and e
+    ionospheric regions the recombinance fo the atmosphere is
+    assumed to be given by a term independent of height together
+    with a term which varies exponentially with height a
+    recombinance datum level is defined as that at which the two
+    terms are equal and heights are measured from this level in
+    scale height units the level of the absorption peak being when
+    the suns zenith distance is or when the level of the electron
+    peak and the height distribution of the electron density are
+    considered for different values of and of particularly when the
+    electron peak is always above the absorption peak and for it is
+    always above the recombinance datum level the electron peak for
+    when the absorption peak is below the recombinance datum level
+    is about half way between the two the decrease of on the
+    underside of the electron layer can be much less steep than for
+    a chapman layer if the absorption peak is below the
+    recombinance datum level the results for the model atmospheres
+    considered are tentatively discussed with reference to the and
+    ionospheric regions but their potential value may be realized
+    only when better data for the region become available

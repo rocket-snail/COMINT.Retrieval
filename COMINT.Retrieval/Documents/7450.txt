@@ -1,0 +1,5 @@
+an experimental study of radio reflections from meteor
+    trails the dependence of the echoes on the polarization of the
+    incident wave has been investigated and the existence of
+    resonance scattering with transverse polarization
+    verified

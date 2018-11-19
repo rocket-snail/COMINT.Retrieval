@@ -1,0 +1,7 @@
+the measurement of the angular diameter of two intense
+    radio sources an interferometer using post detector correlation
+    is described and results of measurements of the diameter and
+    structure of the radio stars cygnus a and cassiopeia a are
+    given the interferometer operates on and uses aerials spaced at
+    up to the remote aerial being connected via an radio link to
+    the correlator

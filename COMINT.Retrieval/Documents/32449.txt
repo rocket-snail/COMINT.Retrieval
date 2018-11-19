@@ -1,0 +1,7 @@
+low distortion transistor audio oscillator design details
+    of an oscillator operating at any one of the four frequencies
+    and and including pnp junction transistors series resistors are
+    used to stabilize emitter currents and a tungsten filament lamp
+    to control amplitude maximum available output is v the low
+    noise characteristics are ascribed to the very narrow operating
+    bandwidth

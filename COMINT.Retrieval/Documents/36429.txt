@@ -1,0 +1,13 @@
+the influence of noise on radar meteor observations an
+    experimental investigation has been made of the minimum
+    detectable echo power from meteor trails using radar equipment
+    with incoherent detection for optimum signal noise ratio the
+    pulse width must exceed the width of the tube spot
+    extraterrestrial noise is predominant receiver noise figure
+    being of second order importance variations in the effective
+    aerial temperature introduce corresponding variations in the
+    observed meter rate using artificial echoes a minimum signal
+    noise ratio of is found to be necessary for detection the most
+    important parameter is the total received signal energy it is
+    not likely that meteors of smaller size can be made observable
+    by improving receivers

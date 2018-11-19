@@ -1,0 +1,4 @@
+junction transistor circuit applications the basic
+    circuits described include amplifiers impedance changing
+    circuits phase inverters oscillators multivibrators and
+    sawtooth frequency sweep oscillators

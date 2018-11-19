@@ -1,0 +1,8 @@
+synthesis of n terminal pair e networks dissipative
+    networks only are considered generalization of the gewertz
+    reduced matrix e method and three methods involving auxiliary
+    reactive networks are outlined and critically reviewed the
+    first auxiliary reactive network method considered was
+    developed independently by oono of and leroy of and of the
+    second was due to bayard of and the third to belevitch
+    of

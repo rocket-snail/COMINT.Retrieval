@@ -1,0 +1,8 @@
+diffraction of electromagnetic waves by a half plane the
+    observed intensity and phase values of the field near the edge
+    of a thin high conductivity sheet are compared with sommerfelds
+    rigorous solution for an infinitely thin perfectly conducting
+    half plane good agreement being obtained results for sheets of
+    different thicknesses and conductivities show the importance of
+    these factors in determining the field near the diffracting
+    edge

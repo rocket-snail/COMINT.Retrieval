@@ -1,0 +1,3 @@
+transport coefficients of plasmas in a magnetic field the
+    electrical and thermal conductivities and the coefficient of
+    thermal diffusion are calculated

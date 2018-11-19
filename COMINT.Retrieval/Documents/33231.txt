@@ -1,0 +1,6 @@
+generalized equations for rc phase shift oscillators
+    general solutions are obtained for three and four section phase
+    shift networks these solutions are reduced to design equations
+    for a number of specific circuit configurations and the
+    complete solution is given for a four section phase shift
+    oscillator

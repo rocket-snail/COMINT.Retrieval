@@ -1,0 +1,4 @@
+an input output unit for analog computers a device is
+    described which operates as a curve follower type of function
+    generator to provide an input unit or as an x y recorder when
+    used as output unit

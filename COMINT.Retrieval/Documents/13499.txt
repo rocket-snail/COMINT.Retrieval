@@ -1,0 +1,5 @@
+sensitivity of the degenerate parametric amplifier
+    although the noise temperature of a degenerate parametric
+    amplifier is half that for a nondegenerate amplifier the
+    minimum detectable signal is only better because the post
+    detector noise fluctuation increases by a factor

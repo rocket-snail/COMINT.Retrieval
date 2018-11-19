@@ -1,0 +1,6 @@
+reduction of the loss in ferrite materials in the
+    microwave region the loss in microwave gyrators of the type
+    comprising a ferrite rod inside a circular waveguide surrounded
+    by a solenoid producing an axial magnetic field has in certain
+    cases been reduced by application of an auxiliary transverse
+    static magnetic field

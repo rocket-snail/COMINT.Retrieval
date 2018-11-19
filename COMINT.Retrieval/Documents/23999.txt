@@ -1,0 +1,3 @@
+magnetization curve of an infinite cylinder calculations
+    are made for an infinite ferromagnetic cylinder with negative
+    uniaxial anisotropy

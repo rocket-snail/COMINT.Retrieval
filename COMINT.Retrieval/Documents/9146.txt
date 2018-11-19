@@ -1,0 +1,10 @@
+resistor temperature coefficients tests were carried out
+    on four types of pyrolytic cr carbon film resistor and one type
+    of metal film resistor several samples of each type of
+    different resistance ratings being used the results obtained
+    for the temperature range from to are shown graphically the
+    temperature coefficients of the carbon film resistors are
+    considerably lower than those of carbon composition resistors
+    the coefficients are negative and much greater than those of
+    wire wound resistors though this is not the case for borocarbon
+    film resistors of et al

@@ -1,0 +1,5 @@
+radar echoes associated with lightning echoes from
+    thunderstorms overhead and from distant storms were observed
+    using radar pulses operating on a wavelength of cm the echoes
+    from a storm overhead frequently occur in pairs corresponding
+    to reflections from cloud layers at different heights

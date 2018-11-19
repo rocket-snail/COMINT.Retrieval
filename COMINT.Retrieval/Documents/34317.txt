@@ -1,0 +1,4 @@
+analysis of double stream interactions in the presence of
+    a finite axial magnetic field couplings of fast and slow
+    cyclotron and space charge waves between two electron beams and
+    between an electron beam and a plasma are analysed

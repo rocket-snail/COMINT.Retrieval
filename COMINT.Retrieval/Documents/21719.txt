@@ -1,0 +1,5 @@
+displacement of the zeros of the impedance due to
+    incremental variations in the network elements a method is
+    presented for evaluating errors introduced in the analysis of
+    networks by assuming that the elements are purely
+    reactive

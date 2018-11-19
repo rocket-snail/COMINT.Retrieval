@@ -1,0 +1,5 @@
+cherenkov radiation of a particle possessing a charge and
+    an intrinsic magnetic moment analysis by quantum electrodynamic
+    methods of the effect of the spin on the intensity and
+    polarization of the radiation produced in a ferrite by a
+    charged particle with an intrinsic magnetic moment

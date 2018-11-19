@@ -1,0 +1,14 @@
+measures of consistency in indexing' interconsistency.
+    report of a brazilian study based on postgraduate course work
+    in information science, designed to measure the consistency of
+    performance by a group of indexers in selecting terms to
+    represent document content. a preliminary discussion examines
+    previous studies of consistency and formulas developed to test
+    and measure both inter and intraconsistency. details are given
+    of the methodology used here in a restricted study involving 10
+    indexers and 1 article, and results presented in full, showing
+    the number of terms assigned in relation to length of time
+    spent; consistency between terms; and frequency of use of
+    terms. the conclusions indicate the need for vocabulary
+    restriction or prescription of terms to circumvent the problem
+    of indexer subjectivity.

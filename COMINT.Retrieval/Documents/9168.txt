@@ -1,0 +1,5 @@
+an investigation of columbium as an electrolytic
+    capacitor metal the characteristics of capacitors prepared from
+    are very similar to those of ta except that the working
+    voltages are about one third and the dc leakage currents about
+    double that of similar ta capacitors

@@ -1,0 +1,7 @@
+some general properties of nonlinear elements general
+    energy relations an analysis is made of power relations in
+    networks with reactive nonlinear elements two equations are
+    derived relating the powers at different frequencies the only
+    assumption introduced is that the nonlinear characteristic is
+    single valued the theory is relevant to the operation of
+    modulators demodulators and harmonic generators

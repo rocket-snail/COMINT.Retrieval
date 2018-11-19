@@ -1,0 +1,4 @@
+the motion of electrons in the field of a uniformly wound
+    toroid the focusing properties of the toroid are investigated
+    theoretically in relation to beta particle or other
+    spectroscopes

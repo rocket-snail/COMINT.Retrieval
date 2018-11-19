@@ -1,0 +1,11 @@
+interview: alfredo americo hamar. interview with alfredo
+    americo hamar, a brazilian professor of library science, chief
+    librarian at the university of sao paulo school of engineering,
+    and coordinator of bicenge (biblioteca complementar de
+    engenharia), who describes the origin and objectives of this
+    project, intended to develop and integrate documentation and
+    information services in engineering throughout brazil. a
+    committee of experts is responsible for its direction, under
+    government sponsorship. details are given of the proposed
+    structure and objectives, resources, and progress in
+    implementation to date.

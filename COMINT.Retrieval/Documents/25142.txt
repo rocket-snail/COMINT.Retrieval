@@ -1,0 +1,3 @@
+static inverter delivers regulated three phase power
+    silicon controlled rectifiers in conjunction with magnetic
+    amplifiers are used

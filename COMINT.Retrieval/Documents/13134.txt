@@ -1,0 +1,4 @@
+designing hybrid dc amplifiers to withstand missile
+    environments the amplifier comprises one valve and si
+    transistors and is based on the goldberg principle for dc drift
+    correction

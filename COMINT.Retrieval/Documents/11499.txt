@@ -1,0 +1,6 @@
+a new class of switching devices and logic elements with
+    switching devices employing microwave valve elements switching
+    at one mus intervals becomes possible an experimental
+    travelling wave interaction type valve has been built to
+    demonstrate the ability of one microwave signal to control
+    another

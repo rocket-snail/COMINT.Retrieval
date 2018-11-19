@@ -1,0 +1,6 @@
+the asymmetry of two circuit tuned and coupled filters
+    due to feedback via the grid anode capacitance the asymmetry
+    due to feedback in the characteristics of an if amplifier is
+    calculated for a circuit with tuned filters and for coupled
+    filters the limiting conditions for instability are also
+    determined see also below

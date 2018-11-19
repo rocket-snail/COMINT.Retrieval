@@ -1,0 +1,5 @@
+a transductor regulator for stabilized power supplies a
+    description is given of a single core full wave transductor
+    circuit and its mode of operation a valve type regulator to
+    deal with rapid disturbances is also described both regulators
+    are incorporated in a stabilized power supply

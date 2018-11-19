@@ -1,0 +1,6 @@
+general bibliometric models. theoretical bibliometric
+    models which have been developed over a period of time are
+    reviewed generally. 3 models, by b.c. brookes (2see1 78/173),
+    d. de solla price (2see1 78/847) and a. bookstein (2see1
+    82/592) are analysed by considering their internal properties,
+    interrelationships and generality.

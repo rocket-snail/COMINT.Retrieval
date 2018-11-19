@@ -1,0 +1,10 @@
+direct coupled waveguide filters filters are considered
+    of the type comprising chains of cavity resonators with a
+    common iris separating adjacent cavities design methods based
+    respectively on impedance considerations wave matrices and
+    equivalence between the waveguide filter and the lumped element
+    filter are described for determining the susceptance of the
+    irises and their separation theory is given for the case of
+    mismatching and formulae are derived for parallel and cascade
+    couplings a four channel branching system for frequencies
+    ranging from to is described

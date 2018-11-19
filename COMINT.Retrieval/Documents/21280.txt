@@ -1,0 +1,3 @@
+filter attenuation characteristics the use of hyperbolic
+    functions is avoided aad formulae are derived which permit
+    slide rule computation

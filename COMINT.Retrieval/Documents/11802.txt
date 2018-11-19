@@ -1,0 +1,4 @@
+optimum filters with monotonic response the amplitude
+    characteristic has no ripple in the pass band and a high rate
+    of attenuation in the stop band and combines the desirable
+    features of the butterworth and tchebycheff response

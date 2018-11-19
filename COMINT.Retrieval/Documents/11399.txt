@@ -1,0 +1,5 @@
+analogue computers in aircrew training apparatus
+    comparison of the relative complexities of full flight
+    simulator computers using digital and analogue methods
+    indicates the analogue type to be more suitable operation and
+    performance are discussed

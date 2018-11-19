@@ -1,0 +1,4 @@
+designing high quality af transistor amplifiers a seven
+    stage amplifier is described one transistor push pull an af
+    output stage in which the biasing condition is controlled by
+    the rectified output

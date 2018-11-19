@@ -1,0 +1,4 @@
+the design of crystal controlled three terminal valve
+    oscillators design formulae for the pierce miller and pierce
+    colpitts circuits are derived taking account of the effect of
+    crystal resistance on frequency

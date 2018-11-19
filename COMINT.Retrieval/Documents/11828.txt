@@ -1,0 +1,5 @@
+stabilized power supplies using transistors the operation
+    of simple stabilizing circuits is analysed and methods of
+    improvement by preamplification or compensation are discussed
+    practical circuits which have low temperature coefficients are
+    described

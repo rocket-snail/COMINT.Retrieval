@@ -1,0 +1,8 @@
+representation of electromagnetic fields of any frequency
+    using the energy quantum model development of theory presented
+    previously of wave propagation phenomena including reflection
+    interference and diffraction are explained in terms of the
+    energy quantum model static fields are also considered voltage
+    current and characteristic impedance are related to mechanical
+    quantities and an appropriate system of dimensions and units is
+    presented

@@ -1,0 +1,6 @@
+amplifier low frequency compensation general expressions
+    are deduced for the indicial response ie response to unit step
+    input and gain frequency and phase frequency response leading
+    to conditions for maximal flatness compensation is then
+    considered together with the effects of negative feedback
+    multistage amplifiers are also discussed

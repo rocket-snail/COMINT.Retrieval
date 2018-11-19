@@ -1,0 +1,5 @@
+dynamics of ionized media the behavior of an ionized
+    plasma is discussed in an approximation in which an individual
+    particle is assumed to obey a fokker planck equation and where
+    its interaction with the environment is incorporated in the
+    coefficients of the partial differential equation

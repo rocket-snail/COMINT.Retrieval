@@ -1,0 +1,5 @@
+a correction necessary for the application of the doppler
+    effect to the measurements of distances to satellites the use
+    of spherical earth geometry gives a value for minimum passing
+    range considerably lower than that obtained from plane earth
+    geometry

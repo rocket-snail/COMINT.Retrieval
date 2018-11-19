@@ -1,0 +1,8 @@
+transient response of the grounded base transistor
+    amplifier with small load impedance a transfer function
+    relating junction transistor collector current to emitter
+    current is derived from the diffusion equation the laplace
+    transform technique is used to determine the variation of
+    collector current in response to a step variation of emitter
+    current collector current rise times evaluated from the theory
+    are in good agreement with observed values

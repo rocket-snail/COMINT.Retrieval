@@ -1,0 +1,11 @@
+integrating micrographics with word processing. in 1974,
+    the congressional research service (crs) installed a word
+    processing (wp) system to meet expanding congressional needs.
+    the wp system increased output, straining the ability of crs to
+    handle its storage needs. paper was used for quick distribution
+    of eye-readable materials, magnetic tape for quick retrieval of
+    machine-readable storage, and microform for long-term storage.
+    maintaining compatibility among the 3 storage systems became a
+    formidable task, and the solution seemed to be to integrate
+    storage to 1 medium. microforms offered the most effective
+    method of meeting the total storage requirements.

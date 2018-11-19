@@ -1,0 +1,8 @@
+atmospheric oscillations at high altitudes and their
+    relation to geomagnetic field variations equations developed
+    previously of august chakrabarty and pratap are used to
+    calculate the s variations of h ad v by assuming different
+    phases for the atmospheric oscillations in the ionosphere layer
+    which is the seat of the ring currents and comparing the
+    results with observed variations of the magnetic field a phase
+    of is found to give the best fit

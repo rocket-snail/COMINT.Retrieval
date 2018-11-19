@@ -1,0 +1,10 @@
+the brillouin information measure applied to materials
+    selection. describes the use of the brillouin formula to assess
+    the measure of impact of an added document on the diversity or
+    relatedness of a subject collection. the brillouin formula is
+    an information measure which has been used to measure the order
+    or disorder of a particular population distributed over a
+    number of unique classes. concludes that this formula can
+    measure the impact of an added document on the diversity or
+    relatedness of a subject collection when the computation is
+    made using one-way communication.

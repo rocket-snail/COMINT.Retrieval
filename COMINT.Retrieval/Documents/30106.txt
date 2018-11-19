@@ -1,0 +1,7 @@
+some properties of mathieu and related functions
+    exemplified by the regenerative modulation process a frequency
+    divider using regenerative modulation can be used as an
+    analogue method for the solution of mathieu and meissner
+    differential equations an experimental frequency divider is
+    described and a number of waveforms obtained with it are
+    reproduced

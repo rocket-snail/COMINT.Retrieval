@@ -1,0 +1,3 @@
+the correction of phase distortion in rc networks near
+    cut off frequency examples of phase correcting networks and
+    optimum design conditions are given

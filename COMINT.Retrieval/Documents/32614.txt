@@ -1,0 +1,4 @@
+a low frequency oscillator an analogue computer for
+    solving the differential equations of a mass spring system
+    comprises a circuit producing simple harmonic oscillations with
+    a frequency range of

@@ -1,0 +1,5 @@
+characteristic functions of real resonators orthogonal
+    characteristic functions for a piecewise inhomogeneous one
+    dimensional system are considered in relation to resonators
+    with energy losses at the boundaries the analysis provides an
+    explanation of previously published experimental results

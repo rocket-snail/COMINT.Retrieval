@@ -1,0 +1,8 @@
+coils for the production of high intensity pulsed
+    magnetic fields the design performance and applications of a
+    pulsed field system for are described it consists of a
+    capacitor bank charged to which is discharged through a be cu
+    helix of in internal diameter and long detailed design data are
+    also given for a range of coils giving increased volume and
+    field uniformity at lower field intensities and include a coil
+    providing transverse access to the field

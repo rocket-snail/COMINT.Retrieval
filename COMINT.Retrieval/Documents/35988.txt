@@ -1,0 +1,9 @@
+the dynamic behaviour of servomechanisms using thyratrons
+    if the response of the servomechanism is linear the self
+    inductance of the motor armature may be ignored in calculating
+    the transfer constant of the system for discontinuous operation
+    in continuous operation it must be taken into account a method
+    of calculating the transfer function is presented for the
+    general case of nonlinear operation but the formulae involved
+    are cumbersome and an experimental approach may be
+    preferable

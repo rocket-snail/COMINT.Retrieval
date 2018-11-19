@@ -1,0 +1,3 @@
+cold cathode voltage transfer circuits practical
+    techniques used in the application of cold cathode triodes are
+    given in detail a number of circuit diagrams is included

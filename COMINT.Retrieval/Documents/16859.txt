@@ -1,0 +1,10 @@
+some properties of linear networks with three pairs of
+    terminals and their applications in realizing negative
+    impedances and negative feedback amplifiers analysis of six
+    terminal networks based on a generalization of thevenins
+    theorem gives a general method of circuit synthesis in which
+    the prescribed impedances may have a positive or negative real
+    part which is independent of the gain and internal impedance of
+    the active element a method of amplifier design on this
+    principle is illustrated in which input and output impedances
+    are independent of the terminations at the opposite ends

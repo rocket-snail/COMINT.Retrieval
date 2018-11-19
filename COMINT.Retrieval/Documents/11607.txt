@@ -1,0 +1,4 @@
+an electroluminescent fixed store for a digital computer
+    a method of reading information from such a store is discussed
+    and the operation of a matrix containing digit positions is
+    described

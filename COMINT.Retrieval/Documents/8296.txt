@@ -1,0 +1,4 @@
+wave mechanical correction of the richardson dushman
+    emission formula an attempt is made to overcome the
+    discrepancies between the spin corrected theory of thermionic
+    electron emission and empirical results

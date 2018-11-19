@@ -1,0 +1,6 @@
+determination of orbital characteristics of an earth
+    satellite from single station radio transit observations
+    meridian observations of the satellite have been made by means
+    of an interferometer located at cleland ohio because of the
+    generally low altitude of the satellite at this station
+    horizontal dipoles were replaced by commercial yagis

@@ -1,0 +1,5 @@
+ion energies in a cold cathode discharge in a magnetic
+    field the current flow after a discharge revealed an
+    approximately maxwellian distribution of velocities at the
+    cathodes with a temperature this gives an ion density in the
+    discharge

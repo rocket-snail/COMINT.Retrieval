@@ -1,0 +1,4 @@
+data base for separations chemistry. a data base is being
+    assembled for the computerised storage and retrieval of
+    information needed for the solution of chemical separation
+    problems. the searchable information fields are listed.

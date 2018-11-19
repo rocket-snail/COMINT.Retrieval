@@ -1,0 +1,7 @@
+secondary emission valve pulse generator with cathode
+    output a positive feedback circuit giving a very low output
+    impedance is used capable of producing pulses of amplitude with
+    rise time about by using a pentode as cathode load it is
+    possible to obtain a wide variety of pulse waveforms the
+    arrangement gives a better performance than the ordinary
+    blocking oscillator

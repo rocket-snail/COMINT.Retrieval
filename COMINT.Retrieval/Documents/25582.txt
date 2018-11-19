@@ -1,0 +1,6 @@
+flexure mode quartz oscillators details are given of the
+    modes of motion electrode arrangements and electrical
+    performance of the duplex xy and nt types typical frequency
+    temperature curves and graphs of other crystal characteristics
+    are shown a crystal controlled af oscillator is described and
+    the circuit diagram including component values is given

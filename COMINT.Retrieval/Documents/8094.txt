@@ -1,0 +1,5 @@
+generation of harmonics of a given fundamental theory and
+    experimental results are given for a frequency multiplier based
+    on use of a c r tube in which a ribbon beam is deflected across
+    a metal target with an appropriate profile suitable beam
+    forming structures are described

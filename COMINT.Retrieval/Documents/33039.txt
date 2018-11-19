@@ -1,0 +1,6 @@
+the electric properties of a dielectric with a variable
+    number of relaxation centres expressions are derived for
+    permittivity and of dielectric loss tangent it is shown that
+    the number of ions and dipoles which give rise to relaxation
+    polarization increases with temperature leading to an increase
+    of permittivity

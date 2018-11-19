@@ -1,0 +1,4 @@
+antiferromagnetic susceptibility of the plane triangular
+    ising lattice the antiferromagnetic susceptibility of the plane
+    triangular ising lattice is calculated in terms of a power
+    series for all temperatures

@@ -1,0 +1,5 @@
+calculation of the resonant properties of electrical
+    cavities the method described is based on measurements made on
+    a model in a electrolyte tank calculated values of resonance
+    wavelength and q are in good agreement with directly measured
+    values

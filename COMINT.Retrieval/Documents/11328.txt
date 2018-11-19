@@ -1,0 +1,6 @@
+stabilized dc supplies using grid controlled rectifiers
+    circuits using magnitude controlled thyratrons are discussed
+    these are suitable for hv power supplies where the load is
+    reasonably constant and the output voltage regulation is not
+    required to be better than within about a unit incorporating
+    two type miniature thyratrons can supply at

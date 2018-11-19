@@ -1,0 +1,3 @@
+generalization of band theory to include sefl energy
+    corrections an investigation of the corrections to ordinary
+    band theory due to dielectric effects

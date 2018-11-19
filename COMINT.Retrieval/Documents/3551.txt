@@ -1,0 +1,5 @@
+dc amplifier using transistors and a silicon bridge
+    modulator matched si junction diodes are used in a bridge
+    modulator to convert the input to ac which is then amplified by
+    transistors and detected the design is suitable for measuring
+    dc inputs of mv and or more

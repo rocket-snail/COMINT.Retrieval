@@ -1,0 +1,5 @@
+application of transistors to high voltage low current
+    supplies a transistor oscillator is used to develop the hv
+    required for such devices as geiger muller counters the
+    oscillations have a sawtooth waveform the flyback being used
+    for shock excitation of the hv transformer

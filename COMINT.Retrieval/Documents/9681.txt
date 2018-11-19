@@ -1,0 +1,5 @@
+single control element wien bridge the theory of
+    operation of two modified forms of the wien bridge is described
+    the network may be controlled by a single variable l c or r and
+    has applications as a frequency bridge oscillator or selective
+    amplifier

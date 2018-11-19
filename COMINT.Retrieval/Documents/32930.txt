@@ -1,0 +1,5 @@
+measurement of correlation coefficient the determination
+    of the correlation coefficient of noise is based on the
+    measurement of the coincidences of sign of rectangular pulses
+    triggered by the incoming signals the instrument is described
+    in detail and the theory of operation is given

@@ -1,0 +1,14 @@
+multiple feedback oscillators the use of several feedback
+    circuits in connection with a single tank circuit makes it
+    possible to construct oscillators capable of operation over a
+    wide frequency range the lc value of the tank circuit remaining
+    fixed such oscillators and the theory on which they are based
+    are described by m morrison in usa patent no important points
+    of the theory are here given and two typical oscillator
+    circuits are described in the second of these a special current
+    transformer with a ratio is used to effect phase alteration of
+    the feedback current the transformer with a variable capacitor
+    across the output terminals is adjusted to provide feedback
+    current in phase with the ac component of the anode load
+    current so that the proper grid voltage angle is obtained for
+    maintaining oscillation at the desired frequency

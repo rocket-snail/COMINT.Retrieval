@@ -1,0 +1,3 @@
+a note on ionospheric wind measurements at report of
+    measurements made in pennsylvania using a three receiver
+    technique similar to that of mitra

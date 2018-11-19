@@ -1,0 +1,6 @@
+dynamic circuit techniques used in seac and dyseac the
+    circuits of these digital computers are standardized on the
+    basis that ge diodes are used for all logical operations delay
+    lines for storage and thermionic valves for amplification
+    manufacture is simplified by using only two types of plug in
+    unit

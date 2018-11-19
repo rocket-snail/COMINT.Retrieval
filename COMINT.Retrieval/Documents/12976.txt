@@ -1,0 +1,5 @@
+wide band amplifier design data design data are tabulated
+    for three basic types of coupling rc shunt peaked and series
+    peaked gain is calculated using a series of approximations
+    taking account of the gain reduction factor for a number of
+    stages

@@ -1,0 +1,2 @@
+stability criteria for a tunnel diode amplifier analysis
+    of a type of circuit also considered by hines

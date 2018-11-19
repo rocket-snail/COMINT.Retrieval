@@ -1,0 +1,5 @@
+power requirements for transistor circuits primary
+    requirement for transistor power supply is constancy of voltage
+    or current with time long life and small size are next in
+    importance these requirements are all satisfied by rm cells
+    of

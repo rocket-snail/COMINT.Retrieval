@@ -1,0 +1,8 @@
+incidence of electromagnetic waves on double infinite
+    grids the system considered comprises a double grid of parallel
+    metal rods the grids are spaced apart and the rods in each grid
+    are spaced apart the rods in one grid being staggered by an
+    amount relative to the rods in the other grid the radius of the
+    rods is calculations are made of the reflection coefficient and
+    the refractive index corresponding to three values of for and
+    for normal incidence with

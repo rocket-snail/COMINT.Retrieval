@@ -1,0 +1,5 @@
+absorption of short waves in the ionosphere expressions
+    are derived analytically for the value of the decrement for
+    values of the frequency above and below critical assuming that
+    collisions of electrons with ions are much more numerous than
+    with neutral molecules

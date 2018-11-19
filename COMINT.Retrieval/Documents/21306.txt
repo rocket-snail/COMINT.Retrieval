@@ -1,0 +1,4 @@
+design of heterodyne oscillators the choice of
+    frequencies for producing a given beat frequency and the design
+    of the variable tuning capacitor are considered precautions
+    required to ensure frequency stability are discussed

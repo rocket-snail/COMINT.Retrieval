@@ -1,0 +1,4 @@
+hall effect in positive column report of measurements of
+    hall voltage in the positive column of gas discharge tubes as a
+    function of magnetic field tube current distance between probes
+    and gas pressure

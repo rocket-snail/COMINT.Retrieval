@@ -1,0 +1,4 @@
+argus radar returns in conjugate area the concept of
+    orthogonal reflection from aurora and field aligned ionization
+    is used to explain the apparent movement of the radar
+    returns

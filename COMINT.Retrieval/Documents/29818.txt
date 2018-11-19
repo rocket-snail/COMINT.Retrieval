@@ -1,0 +1,5 @@
+the drift velocity of charged particles in the magnetic
+    dipole field a more accurate expression for the drift velocity
+    of particles in the vicinity of the equator is derived by
+    allowing for a second centrifugal force term in the original
+    equation

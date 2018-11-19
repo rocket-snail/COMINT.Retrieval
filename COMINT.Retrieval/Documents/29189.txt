@@ -1,0 +1,5 @@
+resonant modes in a maser interferometer a theoretical
+    investigation is made of the diffraction of em waves in fabry
+    perot interferometers when used as resonators in optical masers
+    curves for field distribution and diffraction loss are given
+    for different mirror geometries and different modes

@@ -1,0 +1,7 @@
+distortion and power in aperiodic amplifiers using ideal
+    screen grid valves calculations are made for class a ab b and c
+    operation assuming a parabolic or nearly parabolic vl valve
+    characteristic a determination is made of the input waveform
+    required to give a pure sinusoidal output the effect of
+    negative feedback is studied operation with sawtooth or square
+    pulses is discussed

@@ -1,0 +1,9 @@
+viewdata dp integration. 4 papers are presented. a.
+    chandor gives an international overview of viewdata and data
+    processing. a.r. haimes discusses in-house viewdata systems
+    with descriptions of the terminals, applications and future
+    trends. b.r. ashdown discusses bulk updating of
+    viewdata/videotex systems describing the method for and
+    benefits of doing so. w. hughes explains the prestel
+    international market trial and discusses the future for prestel
+    international.

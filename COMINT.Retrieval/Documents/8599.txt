@@ -1,0 +1,5 @@
+contact phenomena in plasma discontinuities of potential
+    between parts of a plasma which differ in electron
+    concentration and temperature are considered theoretically by
+    the classical contact potential theory of metals the validity
+    of this treatment is confirmed experimentally

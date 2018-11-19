@@ -1,0 +1,5 @@
+the solution of plane stress problems by an electrical
+    analogue method it is shown that the h biharmonic equation
+    which airys stress function has to satisfy can be solved by an
+    electrical analogue comprising two resistance networks in
+    cascade

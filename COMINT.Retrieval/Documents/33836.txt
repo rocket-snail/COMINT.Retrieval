@@ -1,0 +1,4 @@
+wien bridge oscillator design a set of curves is
+    presented which allows direct determination of design
+    parameters of wien bridge oscillators and selective
+    amplifiers

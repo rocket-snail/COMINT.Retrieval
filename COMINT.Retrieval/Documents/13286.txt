@@ -1,0 +1,5 @@
+quality measurements on oscillator crystals by the decay
+    method equipment is described for measuring the time constant
+    of the decay of free oscillations of quartz oscillators the
+    method is suitable for measuring the q factor of crystals of
+    high resonance frequency

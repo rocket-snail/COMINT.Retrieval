@@ -1,0 +1,9 @@
+theory of electron phonon interactions the theory of the
+    interaction of electrons and acoustic phonons in nonpolar
+    crystals has been formulated in terms of a new set of basis
+    states whose wave functions are essentially bloch functions
+    that deform with the lattice the major part of the interaction
+    may then be calculated in terms of ten be calculated in terms
+    of the strain tensor rather than the displacement of the
+    lattice a result of the theory is a generalization of the
+    deformation potential theorem

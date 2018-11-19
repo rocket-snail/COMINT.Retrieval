@@ -1,0 +1,8 @@
+a library instruction program for beginning
+    undergraduates. intended to aid college instructors in need of
+    library and bibliographic instruction presentations, this
+    report describes a programme which was designed by reference
+    librarians at the university of nebraska at omaha to introduce
+    beginning undergraduate students to the use of the university
+    library and its resources. report not available from
+    ntis.

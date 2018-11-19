@@ -1,0 +1,5 @@
+method of obtaining integral mark space ratios of high
+    accuracy with a continuously variable control frequency a pulse
+    generator circuit is described in which the mark space ratio
+    can be adjusted to within over the range to for control
+    frequencies from to

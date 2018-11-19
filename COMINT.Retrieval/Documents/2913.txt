@@ -1,0 +1,7 @@
+monochromaticity and noise in a regenerative electrical
+    oscillator expressions are derived for the departure from
+    monochromaticity of a regenerative oscillator represented by an
+    equivalent rlc circuit haing a negative resistance in parallel
+    with r the intensity and band width of the thermal noise
+    generated in the oscillator by resistance r are also
+    considered

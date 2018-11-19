@@ -1,0 +1,10 @@
+an electromechanical stabilizer of the frequency of a
+    klystron in the method proposed a portion of the klystron
+    output is applied to a cavity resonator the natural frequency
+    of which is modulated by a separately excited vibrating
+    diaphragm the output of the resonator is detected amplified and
+    through a phase detector applied to the klystron reflector the
+    theory of the method is discussed and its accuracy is
+    determined a comparison with the resonance frequency of the
+    absorption line of ammonia has shown that the relative
+    frequency error of the method is of the order of

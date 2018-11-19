@@ -1,0 +1,4 @@
+filter circuits for extremely low frequencies without the
+    use of inductances description of filter design procedure using
+    double t rc networks passive and active filter circuits are
+    given

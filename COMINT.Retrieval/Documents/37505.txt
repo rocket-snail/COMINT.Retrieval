@@ -1,0 +1,9 @@
+corona discharge tubes for voltage stabilization the
+    mechanism of the corona discharge is briefly described by
+    reference to the current voltage characteristic of the glow
+    discharge tube the construction processing and performance of
+    experimental coaxial types of tube are discussed the data
+    presented are sufficient for the design of tubes with
+    regulating voltages between and operating at currents up to at
+    least such tubes can be made with characteristics stable for
+    over hours

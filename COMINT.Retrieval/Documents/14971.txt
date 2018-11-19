@@ -1,0 +1,9 @@
+the measurement of a matrix elements of passive networks
+    th general method of using the a matrix has previously been
+    described of a method is here described for determining the
+    matrix elements from measurements of the impedance looking in
+    at the sending nd of a network the receiving end being first
+    open circuited and then short circuited the elements so found
+    apply only for the measurement frequency the analysis shows
+    that networks are electrically equivalent at a given frequency
+    when their a matrices are equal at that frequency

@@ -1,0 +1,4 @@
+faraday fading of earth satellite signals a corrections
+    to the existing method of estimation of the integrated electron
+    content of the ionosphere from earth satellite signals is
+    given

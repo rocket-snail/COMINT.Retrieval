@@ -1,0 +1,4 @@
+reduction of meteor velocities from continuous wave radio
+    records an analysis of the reduction technique used at ottawa
+    shows that in velocity measurements any statistical bias was
+    positive and less than

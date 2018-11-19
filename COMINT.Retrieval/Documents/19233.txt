@@ -1,0 +1,6 @@
+resistive bidirectional coupler a resistive t network is
+    discussed which when inserted between a source and a load acts
+    as a bidirectional coupler providing voltages proportional
+    respectively to the incident and reflected waves the
+    arrangement is applicable to measurement purposes and is used
+    eg in the wattmeter described by ryder and mcvay

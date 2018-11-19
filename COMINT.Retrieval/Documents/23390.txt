@@ -1,0 +1,5 @@
+saturable transformers as gates use of ferrite cored
+    units as switching elements is discussed input and output
+    windings are wrapped on each core and control windings are
+    wrapped around both applications include magnetic drum read out
+    systems for computers

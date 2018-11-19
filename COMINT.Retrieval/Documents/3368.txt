@@ -1,0 +1,4 @@
+the matrix of a recurrent network of equal quadripoles
+    representation of any power of a matrix an explicit expression
+    is derived for the n power of a matrix representing n equal
+    four terminal networks in cascade

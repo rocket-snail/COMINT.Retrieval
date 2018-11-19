@@ -1,0 +1,4 @@
+matrix algebra as a sequel to the quaripole theory
+    presented by cutteridge of special procedures and applications
+    involving the general parameter matrix of passive quadripoles
+    with bilateral circuit elements are discussed

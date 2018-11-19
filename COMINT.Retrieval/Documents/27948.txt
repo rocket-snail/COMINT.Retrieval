@@ -1,0 +1,4 @@
+pulse modulators using transistors and switching reactors
+    a regenerative circuit is described which uses a power
+    transistor to control the charging of a pulse forming network
+    through a transformer with a sharply saturating core

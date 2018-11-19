@@ -1,0 +1,9 @@
+a cost database for branch library resource allocation
+    and performance evaluation. shows how the smithsonian
+    institution libraries (usa) have improved their knowledge of
+    resource allocation by tagging each expenditure according to
+    fiscal year, library goal, object class, fund type, fund
+    source, cost centre, and benefit centre. describes how the data
+    is gathered and manipulated. measuring library effectiveness is
+    ultimately desired, then comparisons between branches can be
+    meaningful.

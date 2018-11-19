@@ -1,0 +1,6 @@
+the design of primary and secondary radar if amplifiers
+    the features of synchronous and stagger tuned circuit
+    arrangements are discussed and design procedures outlined
+    practical considerations such as feedback coil design and heat
+    dissipation and the design of amplifiers having logarithmic
+    characteristics are also covered

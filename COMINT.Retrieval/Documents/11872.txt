@@ -1,0 +1,10 @@
+induced and spontaneous emission in a coherent field the
+    resonant interaction between a coherently oscillating radiation
+    field and a number of similar atomic systems coupled to the
+    field through their electric dipole moments is analysed quantum
+    mechanically distinction is drawn between coherent and
+    incoherent parts of the energy terms corresponding to induced
+    and spontaneous emission are identified and it is shown that
+    the latter includes both coherent and incoherent components
+    special situations related to masers and to the coherence of
+    spontaneous radiation are discussed

@@ -1,0 +1,7 @@
+lotka's law and library literature. the applicability of
+    lotka's law to library science literature was tested by
+    collecting authorship data from 2library literature1 (1978
+    cumulated annual volume) and by crediting works of multiple
+    authorship to only the first-named author. the data was found
+    to conform to an inverse cube law more closely than an inverse
+    square law (i.e. lotka's law).

@@ -1,0 +1,4 @@
+transistors theory and application part energy levels in
+    transistor electronics a simplified exposition of some of the
+    fundamentals of quantum mechanics relevant to an understanding
+    of transistor operation

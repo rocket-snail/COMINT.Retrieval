@@ -1,0 +1,6 @@
+reliability of atomic masses in the chromium germanium
+    region discrepancies between atomic mass values obtained from
+    transmission data and those obtained by mass spectrometer
+    methods are discussed the mass spectrometer values for may be
+    in error but those for the other elements from are considered
+    to be accurate

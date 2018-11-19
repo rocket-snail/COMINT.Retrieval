@@ -1,0 +1,10 @@
+bibliographical control of special libraries' an
+    automation approach to classification and cataloguing. takes as
+    a conceptual perspective the use of data processing techniques
+    to replace traditional practices of classification and
+    cataloguing. all entries will be main entries so as to provide
+    multi-access points to bibliographical information. coding for
+    machine entry will be the essential elements of a publication,
+    such as subject code, author, title and date. kwic, based on a
+    match of contents and usage patterns, will replace the library
+    of congress or sear's subject headings.

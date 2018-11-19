@@ -1,0 +1,6 @@
+application of the calculus of variations to the
+    determination of reflection coefficients the method previously
+    used to determine the reflection coefficient of a potential
+    barrier of is here applied to the vector field of em waves to
+    determine the reflection coefficient of a stratified medium for
+    te and tm waves

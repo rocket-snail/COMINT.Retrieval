@@ -1,0 +1,8 @@
+behaviour of saturable reactors in magnetic amplifiers a
+    detailed analysis is presented of the behaviour of a magnetic
+    amplifier in which the core material is assumed to have a
+    square characteristic systems with single cores two series
+    connected cores and two parallel connected cores are considered
+    with sources of infinite and low impedance results are
+    presented graphically upporting experimental evidence is
+    mentioned briefly

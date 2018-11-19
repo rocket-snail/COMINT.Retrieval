@@ -1,0 +1,5 @@
+combined limiter and discriminator the limiter
+    incorporates a harmonic rejector in series with the diode
+    distortion less than of any harmonic is easily obtained and
+    stray capacitances are small leading to high sensitivity and
+    output

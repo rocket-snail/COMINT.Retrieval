@@ -1,0 +1,10 @@
+notes on a cause of frequency instability of partially
+    plated piezoelectric crystals proximity effect external field
+    conditions may have a marked effect on the resonance frequency
+    of partially plated crystals movement of an object close to the
+    resonator may produce a relative frequency shift of the order
+    of or even as an extreme example a shift of about was produced
+    by hand effect in a at cut crystal of diameter mm and electrode
+    diameter the equivalent resistance simultaneously increasing by
+    a quantitative explanation of the effect is given by reference
+    to equivalent circuits

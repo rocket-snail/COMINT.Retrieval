@@ -1,0 +1,3 @@
+graphical determination of matching sections a
+    description of graphical methods using the smith chart for
+    matching impedances by means of l or t sections

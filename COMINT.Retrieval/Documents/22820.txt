@@ -1,0 +1,10 @@
+critical remarks on the description of the ionization in
+    the ionospheric e layer changes from nominal value in the
+    exponent of the cos law of e layer ionization are discussed
+    these are necessitated by the difference between seasonal and
+    daily variation of e layer noon values harnischmachers
+    empirical formult for this exponent is not confirmed by an
+    analysis of data the derivation of a world wide e layer
+    character figure from data obtained at one locality is
+    considered impossible in view of geographic differences in
+    ionization characteristics

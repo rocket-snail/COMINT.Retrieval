@@ -1,0 +1,3 @@
+general solutions of maxwells equations expressions are
+    derived which are sufficiently general to cover the case of
+    charges or currents within the volume considered

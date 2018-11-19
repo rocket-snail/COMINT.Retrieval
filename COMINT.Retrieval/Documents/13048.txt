@@ -1,0 +1,6 @@
+an improved experimental iteration method for use with
+    resistance network analogues a development of the method
+    previously described by liebmann of the error signals for a
+    number of network nodes are displayed simultaneously on a cr
+    tube screen so that it is always possible to work on the worst
+    error instead of making adjustments cyclically

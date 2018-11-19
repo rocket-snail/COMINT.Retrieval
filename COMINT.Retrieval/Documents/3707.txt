@@ -1,0 +1,6 @@
+diffraction of a plane electromagnetic wave by a
+    perfectly conducting paraboloid of rotation exact solution for
+    arbitrary angle of incidence and polarization asymptotic
+    formulae for the surface current distribution are derived for
+    wavelengths small compared with the focal length of the
+    paraboloid

@@ -1,0 +1,4 @@
+the interpretation of pulse trains associated with
+    lightning flashes a treatment of the propagation of
+    atmospherics by earth and ionosphere reflections assuming a
+    radiation dipole source

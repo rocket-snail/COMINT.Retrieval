@@ -1,0 +1,9 @@
+selection languages suitable for an automated system of
+    legal information. the principles of the choice and formulation
+    of a selection language to be applied in the automated legal
+    information system in the slovak socialist republic are
+    discussed. based on these, 2 selection languages were
+    preferred: the 'rubricator' language, using hierarchical
+    classification, and the descriptor type language, based on a
+    thesaurus of legal keywords. both of these are explained in
+    detail and examples are given.

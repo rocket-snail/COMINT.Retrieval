@@ -1,0 +1,10 @@
+the regenerative pulse generator pulses are circulated
+    repeatedly in a feedback loop including an expander and a
+    filter being alternately shortened in the expander and
+    lengthened in the filter and giving an output at each traversal
+    a loop gain of unity is maintained by agc for microwave pulses
+    the nonlinear expander characteristic may be obtained by means
+    of a crystal microwave pulses of duration down to and dc pulses
+    down to have been produced possible applications include
+    communications radar and measurements were coherent pulse
+    trains are required

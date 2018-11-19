@@ -1,0 +1,3 @@
+realization of second order two pole functions with
+    transformerless canonical circuits by means of program
+    controlled computers

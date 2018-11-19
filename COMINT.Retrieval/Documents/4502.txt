@@ -1,0 +1,6 @@
+noise figure measurements on two types of variable
+    reactance amplifiers using semiconductor diodes the use of
+    semiconductor diodes in an up converter and in a negative
+    resistance amplifier at is described a bandwidth of was
+    obtained with the latter at a maximum gain of and a noise
+    figure as low as has been achieved

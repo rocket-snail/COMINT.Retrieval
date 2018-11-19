@@ -1,0 +1,10 @@
+linking of bibliographic utilities recommended in
+    battelle/clr study. the battelle/clr study analysed the
+    economic and service benefits to libraries and their users of
+    linking networks for 3 library operations-shared current
+    monograph cataloguing, interlibrary loan, and reference
+    searching. concludes that the library of congress, oclc, inc.,
+    the research libraries information network and the washington
+    library network should develop on-line links using automatic
+    translation of requests and responses. other recommendations
+    are also discussed.

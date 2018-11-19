@@ -1,0 +1,9 @@
+man made heating and ionization of the upper atmosphere
+    absorption of radio signals by cyclotron resonance is shown to
+    be possible within a very narrow layer of the atmosphere km
+    thick just below for a plane polarized signal only of the power
+    can be absorbed better results are obtained with a circularly
+    polarized radio wave the absorbable power is limited by the
+    effects obtained so that an electron density of and an electron
+    temperature of cannot be exceeded the reason for this is the
+    weakness of the a earths magnetic field

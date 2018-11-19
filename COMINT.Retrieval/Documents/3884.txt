@@ -1,0 +1,10 @@
+determination of the lifetime of an artificial earth
+    satellite and study of the secular perturbations of its orbit a
+    general mathematical method is described which is valid for any
+    satellite and which takes account of the distribution of
+    atmospheric density with altitude this method is based on
+    single parameter series of integral curves of a first order
+    equation from graphs and tables the satellite lifetime and the
+    variation of the orbital parameters with time are rapidly
+    calculated the effect of atmospheric rotation on the secular
+    variations of the satellites orbit are found to be small

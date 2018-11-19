@@ -1,0 +1,5 @@
+millimicrosecond pulse generator the generator uses a
+    length of high frequency cable which is charged from a known dc
+    potential the cable is then discharged into the load by a
+    magnetically operated mercury switch at pulse repetition
+    frequencies up to for pulses of rise time

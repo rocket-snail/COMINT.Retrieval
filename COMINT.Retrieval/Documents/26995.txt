@@ -1,0 +1,4 @@
+the image parameter theory as a simple aid to the
+    realization of crystal band pass filters of branch network type
+    design formulae and curves are given for ladder type networks
+    with the crystal in the shunt arms

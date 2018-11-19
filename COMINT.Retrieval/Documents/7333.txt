@@ -1,0 +1,7 @@
+microprocessors and word processors-their use in
+    information retrieval systems. a brief description of
+    microprocessors and word processors is provided with the object
+    of bringing the capabilities of this equipment, to the notice
+    of information scientists in india, so that their utility may
+    be studied in the context of designing computer-based
+    information systems in india.

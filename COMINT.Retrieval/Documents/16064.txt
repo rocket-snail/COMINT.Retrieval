@@ -1,0 +1,11 @@
+the calculation of carrier frequency transients by using
+    function theory and the laplace transform method exact
+    calculations are made without introducing any assumptions
+    regarding the phase response of the transmission system
+    demodulation calculations by two methods are considered as an
+    example of use of the preferred method a calculation of the
+    carrier frequency transients is made for the vestigial sideband
+    if amplifier described by zimmermann of a step voltage is used
+    for modulation in appendices the practical application of the
+    residue theorem to transmission calculations is demonstrated
+    and a chart for plotting transients is presented

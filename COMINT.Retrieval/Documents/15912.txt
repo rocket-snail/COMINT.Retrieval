@@ -1,0 +1,6 @@
+remote file access' a data-access protocol for computer
+    networks. computer interconnection is assuming clear structure
+    owing to the significant contributions toward standardising
+    communication procedures that have been made by a number of
+    international and national organisations. describes a protocol
+    for file transfer.

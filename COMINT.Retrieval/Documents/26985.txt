@@ -1,0 +1,4 @@
+transistors theory and application part grounded emitter
+    and collector circuits formulae and typical values of
+    parameters are tabulated for various circuit arrangements for
+    junction and point contact transistors part of january

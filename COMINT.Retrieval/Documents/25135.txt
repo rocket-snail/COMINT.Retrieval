@@ -1,0 +1,10 @@
+rigorous solution of a particular diffraction phenomenon
+    diffraction of a plane wave by a perfectly conducting
+    infinitely thin screen is analysed using an infinite system of
+    algebraic equations and an infinite number of unknowns for th
+    case of the electric vector parallel to the screen edges the
+    procedure is to calculate the vector potential for the surface
+    assuming a sinusoidal distribution of parallel straight line
+    currents extension of the method to the more general case of
+    arbitrary direction of electric vector would be feasible using
+    electronic computers

@@ -1,0 +1,4 @@
+forty megacycle scaler the scaler has a scale of eight
+    and uses a fast flip flop as a basic element the latter can be
+    triggered at a rate higher than and has a double pulse
+    resolution of

@@ -1,0 +1,15 @@
+plidos-an example of the use of microcomputers in
+    information and documentation. plidos is a complete software
+    system for the creation and operation of miniature data banks
+    with a microcomputer, containing programmes for data recording,
+    data bank construction and information retrieval. a prototype
+    was tested at the hanover trades fair in 1980 and the test
+    revealed a need for a system of this type. the manufacturers
+    plan to offer also a plidos data bank service from 1981. plidos
+    cannot compete with expensive data processing systems for large
+    computers but it does offer users a chance to operate their own
+    information and documentation system without running costs for
+    computing time or data transmission. the category scheme is
+    flexible enough to satisfy users' specific requirements. the
+    search logic includes functions and and or and truncated search
+    terms can be used.

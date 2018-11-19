@@ -1,0 +1,4 @@
+using jacobians for frequency selective networks the
+    advantages of the use of jacobians for synthesis of networks to
+    give a specific frequency response is demonstrated with a
+    simple network

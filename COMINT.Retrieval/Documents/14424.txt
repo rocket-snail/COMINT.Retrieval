@@ -1,0 +1,4 @@
+exchange effects in ferromagnetic resonance a single
+    dispersion law for transverse em waves and for spin waves is
+    derived which takes account of both relativistic and exchange
+    interactions

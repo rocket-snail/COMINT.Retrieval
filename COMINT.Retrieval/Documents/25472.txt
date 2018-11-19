@@ -1,0 +1,5 @@
+a transistor binary digital logic system a system of
+    digital logic is described which uses as a basic unit a circuit
+    consisting of two transistors in a bistable arrangement with a
+    novel method of obtaining an output which indicates which of
+    the two stable states the unit is in

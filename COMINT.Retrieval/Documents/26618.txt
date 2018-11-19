@@ -1,0 +1,10 @@
+method for elimination of effect of stray capacitances in
+    the production and amplification of step voltages discussion is
+    presented of the charge and discharge mechanism of a
+    multivibrator circuit to obtain a steep leading pulse flank a
+    rapid discharge of the negative charge accumulated at one of
+    the anodes is necessary this is achieved by using the anode
+    dynode path of an auxiliary secondary emission valve pulses of
+    amplitude up to with flanks of slope about sec were obtained
+    application of the principle in frequency dividers is also
+    described

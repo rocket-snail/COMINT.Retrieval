@@ -1,0 +1,10 @@
+calculation of magnetic field strength in cylindrical
+    coils expressions are derived for the axial component of the
+    magnetic field using the fact that the field strength at a
+    given point is proportional to the difference of the solid
+    angles subtended by the end faces of the coil the expression
+    for the solid angles is obtained in the form of a difference of
+    two double series this can easily be evaluated approximately
+    tables and graphs are given together with numerical examples
+    illustrating the method the case of a multilayer coil is
+    included

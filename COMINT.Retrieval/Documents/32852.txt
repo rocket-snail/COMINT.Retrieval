@@ -1,0 +1,10 @@
+quantum theory of electrical transport phenomena using a
+    simple model a technique is developed which gives the entire
+    density matrix of the system of charge carriers in the steady
+    state the model consists of noninteracting free or bloch
+    electrons scattered by random rigid impurity centres the
+    density matrix is developed in ascending powers of the strength
+    of the scattering potential the boltzmann transport equation
+    represents an approximation valid in the limiting cases of very
+    weak or very dilute scatterers higher order corrections are
+    given

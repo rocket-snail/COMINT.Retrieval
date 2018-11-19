@@ -1,0 +1,2 @@
+storing decimal digits with one clock pulse a method
+    based on the magnetization time of ferrite cores

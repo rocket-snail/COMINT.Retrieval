@@ -1,0 +1,4 @@
+passive voltage and current stabilizers using a bridge
+    network the residual voltage variation which occurs when a
+    zener diode is used as a stabilizer is removed by using a
+    wheatstone bridge network

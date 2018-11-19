@@ -1,0 +1,9 @@
+differential amplifier design the possibility is
+    discussed of providing good rejection of in phase signals
+    without using a balancing adjustment or specially selected
+    components to achieve the desired result by use of in phase
+    negative feedback care must be taken that the feedback and
+    input voltages are correctly combined two circuits combined two
+    circuits are described illustrating the principles v involved
+    both have the disadvantage of requiring floating batteries and
+    isolated heater supplies

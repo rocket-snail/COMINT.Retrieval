@@ -1,0 +1,14 @@
+solution of electromagnetic scattering problems as power
+    series in the ratio dimension of scatterer wavelength the
+    calculation of the successive terms in the series expressing
+    the scattered field requires only the solution of standard
+    problems in potential theory together with the evaluation of
+    certain potential integrals the series can be calculated as far
+    as desired if laplaces equation can be solved but the
+    calculation is increasingly complex for successive terms the
+    spries can be calculated as far as desired if laplaces equation
+    can be solved but the calculation is increasingly complex for
+    successive terms the special case of scattering by a perfect
+    conductor is also considered and its relation to the problem of
+    diffraction by an aperture in a conducting screen is indicated
+    expressions for the distant field are derived

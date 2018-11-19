@@ -1,0 +1,7 @@
+rc and lc resonant filters and their application i
+    selective amplifiers the design of a narrow b nd amplifier with
+    a centre frequency of about is discussed following a comparison
+    of circuits with different types of filter elements a two stage
+    circuit with negative feedback and incorporating a rc band stop
+    filter was the design adopt d or use in the measurement of the
+    solar magnetic field

@@ -1,0 +1,2 @@
+a study of the phase and filter properties of arrays of
+    parallel conductors between ground planes

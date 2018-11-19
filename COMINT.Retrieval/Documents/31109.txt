@@ -1,0 +1,4 @@
+the impulse breakdown characteristic of a point plane gap
+    in air the influence of the duration of the impulse wave on the
+    breakdown characteristics for both polarities was investigated
+    for air at a pressure of cm hg and temperature c

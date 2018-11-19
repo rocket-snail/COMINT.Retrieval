@@ -1,0 +1,6 @@
+on the theoretical limitation of a radio telescope in
+    determining the sky temperature distribution theoretically sky
+    coverage is not intrinsically limited by the aerial power
+    pattern provided that both electrical and mechanical scans are
+    used but there is a practical limit due to noise and power
+    pattern

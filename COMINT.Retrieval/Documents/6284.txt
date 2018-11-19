@@ -1,0 +1,4 @@
+electrical analogues description of the principles
+    operation and applications of analogue techniques using
+    conducting paper the electrolyte tank resistive networks or
+    networks with both resistive and reactive components

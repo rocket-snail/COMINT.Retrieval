@@ -1,0 +1,11 @@
+teleconference in virtual space. the author's invention
+    of virtual space is the basis of a research programme to study
+    the use in teleconferencing of the same modes of communication
+    which work well in face-to-face communication. it can be used
+    to create at each site of a teleconference the essential
+    spatial relationships that would occur if all the participants
+    were at each site. each participant is surrounded by a group of
+    surrogate units, one unit per other participant and each unit
+    comprising camera, microphone, visual display, and speaker. the
+    relative positions of the participants are the same at each
+    site.

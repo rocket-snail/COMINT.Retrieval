@@ -1,0 +1,11 @@
+reliability of probe measurements in hot cathode gas
+    diodes erroneous results may be obtained due to the work
+    function of the probe altering during the measurements
+    particularly when investigating tubes with oxide cathodes the
+    measurement must be made immediately after cleaning the r probe
+    in the experiments described a cro plotter was used which took
+    ov only some seconds to record the whole probe characteristic
+    in contrast to results obtained by other workers no deviation
+    from the maxwellian velocity distribution of the plasma
+    electrons was observed over a range of nearly four orders of
+    magnitude of probe current

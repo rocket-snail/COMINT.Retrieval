@@ -1,0 +1,11 @@
+nonradiative natural oscillations of a conducting sphere
+    so surrounded by a layer of air and an ionospheric sheath a
+    theoretical investigation having special reference to em
+    oscillations of the earth and relevant to the study of
+    atmospherics the dependence of the oscillation frequencies on
+    the air layer thickness and on the plasma properties are
+    analysed the lowest natural frequency to be expected for earth
+    oscillations is about oscillations of low frequencies are
+    reflected at the inner surface of the plasma while higher order
+    oscillations may penetrate right through the plasma and radiate
+    into space

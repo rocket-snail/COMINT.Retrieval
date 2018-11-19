@@ -1,0 +1,4 @@
+summary of commercially available chemical structure
+    search systems. reviews chemical structure and substructure
+    searching briefly, with a table of features highlighting the 5
+    commercially available systems provided.

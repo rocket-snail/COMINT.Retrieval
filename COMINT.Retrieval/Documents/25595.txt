@@ -1,0 +1,6 @@
+hyperbolic direction finding with sferics of
+    transatlantic origin description of a system for locating
+    thunderstorms by measurement of the time difference of arrival
+    of atmospherics at several stations position lines for sources
+    in the atlantic were established from a network in the u s and
+    compared with fixes from a u k d f network

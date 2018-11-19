@@ -1,0 +1,5 @@
+excitation of spin waves in an antiferromagnet by a
+    uniform rf field it is possible to excite spin waves in an
+    antiferromagnet by a uniform rf field provided that spins on
+    the surface of the specimen experience anisotropy interactions
+    different from those acting on spins in the interior

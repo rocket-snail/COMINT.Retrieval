@@ -1,0 +1,3 @@
+an electrical apparatus for solving polynomial equations
+    the analogue equipment described can be used for solving
+    equations of up to degree with real coefficients

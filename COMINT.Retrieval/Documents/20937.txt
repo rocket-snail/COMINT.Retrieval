@@ -1,0 +1,7 @@
+magnetic systems associated with systems of permanent
+    electric currents and their application to the numerical
+    calculation of fields by superposing magnetic shells associated
+    with the elementary tubes corresponding to arbitrary
+    distribution of currents the associated magnetic systems are
+    simply determined in this way a scalar potential inside the
+    currents can be defined

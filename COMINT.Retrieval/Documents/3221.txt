@@ -1,0 +1,8 @@
+a digital potentiometer description of an instrument
+    developed for use with a teleprinter perforator for feeding
+    measured voltage readings into an electronic computer by
+    comparing the input signal voltage with a series of reference
+    voltages the former is represented in integers on a binary or
+    decimal scale tests on a stage instrument described indicate
+    that a reliable stage unit with a reading time under can be
+    constructed with readily available components

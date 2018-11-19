@@ -1,0 +1,12 @@
+research report. codoc revised: the treatment of official
+    publications at montreal ecole polytechnique. discusses
+    experience with the codoc automated system for local treatment
+    of official publications. the operation of the system is
+    outlined and its relative advantages and inconveniences
+    analysed and weighed. after 2 years, the ecole polytechnique
+    withdrew from the group primarily because of the great
+    disparity of forms of entry for 1 single organisation, and
+    instead created its own approach using the catss identification
+    system. the modifications made in adapting elements of both
+    systems to meet ecole polytechnique requirements are described,
+    and the operation of the new system to date evaluated.

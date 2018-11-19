@@ -1,0 +1,14 @@
+an access control facility for relational data base
+    systems. a set of language facilities for the specification of
+    security policy in relational data bases is presented. an
+    integrated approach to the description of the data base, access
+    rights of users, and use of data is based on the hypol
+    language. generic rights or types of access are defined over
+    the domains of the data base whereas data base operations are
+    over the entire relation. language facilities are described to
+    produce a static definition of the capabilities of users with
+    the incorporation of changes. the appendix lists the syntactic
+    definitions of language constructs used. hypol language
+    facilities are then contrasted with ims for hierarchical data
+    bases, dbtg for network and relational data bases, and ingres
+    and system r for relational data bases.

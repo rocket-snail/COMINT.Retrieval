@@ -1,0 +1,4 @@
+industrial tube generator for low frequencies a detailed
+    description is given of a three phase valve generator suitable
+    for supplying an asynchronous motor at frequencies from
+    to

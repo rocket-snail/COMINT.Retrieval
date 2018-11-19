@@ -1,0 +1,7 @@
+compilation of a filter catalogue a discussion of the
+    desirable features of a catalogue in which all numerical data
+    required in designing reactance quadripoles by the insertion
+    loss method are assembled an appendix gives formulae linking
+    the reflection factor and four insertion loss parameters values
+    of the insertion loss parameters are tabulated for values of
+    reflection coefficient ranging from to in unit steps

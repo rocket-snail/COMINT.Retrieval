@@ -1,0 +1,9 @@
+a theory of scattering by nonisotropic irregularities
+    with application to radar reflections from the aurora the
+    existence and aspect sensitivity of auroral echoes can be
+    explained as back scatter from nonisotropic columns of
+    ionization parallel to the earths magnetic field of length
+    about and diameter caused by turbulence in an region having a
+    maximum electron density about times the normal value but the
+    theory fails to explain the rapid fading rates associated with
+    auroral echoes

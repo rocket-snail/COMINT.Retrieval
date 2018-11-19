@@ -1,0 +1,13 @@
+on the physical realizability of linear nonreciprocal
+    networks the necessary and sufficient conditions are given that
+    a matrix with arbitrary complex number elements be the
+    impedance admittance or scattering matrix of a physical linear
+    reciprocal network a canonical form for non reciprocal network
+    synthesis is presented which applies to any linear n terminal
+    pair n port system at any fixed frequency if the network i is
+    passive the only circuit element required in addition to
+    lossless inductors capacitors transformers and positive
+    resistors is the gyrator if the network is active negative
+    resistors and gyrators must be used in addition to conventional
+    passive elements some discussion of matrixes with frequency
+    variable elements is also given

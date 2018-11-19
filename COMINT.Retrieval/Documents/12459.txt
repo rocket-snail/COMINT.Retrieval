@@ -1,0 +1,6 @@
+the performance of pyrolytic carbon resistors the major
+    factors affecting performance are carbon film thickness
+    moisture permeability and thickness of protective coating
+    operating temperature and the quality of the ceramic substrate
+    the effect of these factors is small if the carbon film has a
+    thickness of at least a

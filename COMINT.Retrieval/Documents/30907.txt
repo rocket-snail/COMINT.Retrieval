@@ -1,0 +1,6 @@
+tuned circuits containing negative resistance analysis
+    indicates that the combination of a current controlled negative
+    resistance with a parallel tuned circuit or of a voltage
+    controlled negative conductance with a series tuned circuit
+    yields a bistable circuit rather than a self sustaining
+    oscillator

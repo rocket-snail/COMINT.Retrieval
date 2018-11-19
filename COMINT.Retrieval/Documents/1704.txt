@@ -1,0 +1,10 @@
+continuations' some fundamental acquisition concepts and
+    procedures. continuations are non-periodical publications that
+    are issued in successive parts at regular or irregular
+    intervals. completeness and currency constitute requirements
+    for maintaining the continuations collections of a
+    well-functioning library. the system incorporated for
+    acquisitions and handling should be simple, easy to use, and
+    easy to supervise. concepts and guidelines basic to the
+    formulation of an acquisitions policy for continuations are
+    herewith explained.

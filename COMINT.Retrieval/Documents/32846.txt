@@ -1,0 +1,2 @@
+derivation of an expression for the scalar potential of a
+    line current in the form of a curvilinear integral

@@ -1,0 +1,6 @@
+a theory of trapping of whistlers in field aligned
+    columns of enhanced ionization using ray theory it is shown
+    that the condition for whistler propagation in ducts depends on
+    the ratio of the electron density in the column to that of the
+    background the theory explains part of the variation of
+    whistler rate with latitude

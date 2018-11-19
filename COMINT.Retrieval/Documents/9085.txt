@@ -1,0 +1,5 @@
+experiments on magnetic tape read out with an electron
+    beam the feasibility of the method is demonstrated
+    experimentally theoretically a video signal with a bandwidth of
+    could be reproduced with a signal electron shot noise ratio of
+    from a recorded area density of cycles mil

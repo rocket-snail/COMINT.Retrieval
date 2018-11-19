@@ -1,0 +1,6 @@
+transistor amplifier for radar video the design of a
+    video amplifier suing si transistors suitable for airborne
+    radar systems is discussed high frequency compensation is
+    obtained by rc degenerative feedback in a grounded emitter
+    circuit with temperature stabilization of emitter current
+    bias

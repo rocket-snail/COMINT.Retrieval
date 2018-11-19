@@ -1,0 +1,4 @@
+backward waves on isotropic plasma slabs if the relative
+    dielectric constant of the plasma becomes negative backward
+    surface waves can be developed on a lossless homogeneous and
+    isotropic plasma slab

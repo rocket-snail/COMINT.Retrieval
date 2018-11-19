@@ -1,0 +1,7 @@
+a logarithmic voltage quantizer details are give of an
+    analogue to digital converter which provides an output pulse
+    whose duration is proportional to the logarithm of the input
+    voltage the output pulse duration being determined by counting
+    the number of fixed frequency pulses occurring in the same
+    interval range of input voltage is with a threshold input pulse
+    length of

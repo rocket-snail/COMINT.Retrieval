@@ -1,0 +1,11 @@
+differential analyser the npls new analogue computer for
+    solving differential equations brief description of a large
+    analyser recently brought into use the machine i actuated by a
+    motor driven shaft representing the independent variable the
+    three principal types of mechanism used are integrators ger
+    trains and differential gears function tables permit an
+    arbitrary function of any variable to be inserted from the
+    graph and also allow solutions to be obtained in graphical form
+    setting up time is low since all units are coupled by means of
+    servomechanisms which may be connected in any combination
+    through a telephone type switchboard

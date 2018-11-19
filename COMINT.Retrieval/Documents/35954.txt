@@ -1,0 +1,9 @@
+on the temperature of electrons in a plasma in a variable
+    electric field the investigation shows that the electron gas
+    can exist in two stable states with different temperatures
+    transition from one state to another occurs at certain critical
+    values of the field and is followed by a considerable change in
+    the electron temperature a particular type of hysteresis is
+    noted in the dependence of the electron temperature on the
+    field amplitude and frequency expressions for the complex
+    conductivity of the plasma are also derived

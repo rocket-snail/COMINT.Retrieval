@@ -1,0 +1,10 @@
+need for telecommunication standards for interconnection
+    with the u.s. postal service emss (electronic mail service
+    system). describes the effort which will be undertaken to
+    determine telecommunication standards necessary for
+    interconnection to the us postal service (usps) planned
+    long-range electronic mail service system (emss). this work is
+    in compliance with an administration policy statement which
+    requires that organisations desiring to input messages into a
+    future usps emss via telecommunications means can do so if the
+    interconnection standards are satisfied.

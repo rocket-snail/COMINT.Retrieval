@@ -1,0 +1,8 @@
+a ferrite microwave modulator employing feedback an
+    amplitude modulator with good linearity is obtained by applying
+    feedback to a gyrator comprising a ferrite rod in a circular
+    waveguide section interposed between rectangular waveguide
+    sections the feedback circuit is based on linear detection of
+    the amplitude modulation by means of a crystal limitations of
+    the arrangement are discussed good results have been obtained
+    with sinusoidal modulating signals of frequencies up to

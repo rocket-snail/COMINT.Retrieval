@@ -1,0 +1,5 @@
+the prediction of geomagnetic disturbances shapleys
+    method for predicting geomagnetic indices is modified to take
+    account of the variation of the periodicity of the disturbance
+    about the day average and the maxima observed in the values of
+    the indices in march and september

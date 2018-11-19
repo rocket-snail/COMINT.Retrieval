@@ -1,0 +1,6 @@
+amplifier with stagger tuned circuits with maximum
+    linearity of the phase and attenuation characteristics the
+    design of wide band amplifiers for signals is detailed with
+    tabulated data on various types of stagger txned circuit whose
+    group delay and attenuation characteristics are also
+    given

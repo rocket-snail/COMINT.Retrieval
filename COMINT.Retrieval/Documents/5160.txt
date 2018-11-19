@@ -1,0 +1,10 @@
+the input impedance and transimpedance of if transformers
+    formulae are derived for the conventional if transformer
+    consisting f two coupled circuits tuned to the same frequency
+    the relation between transimpedance and input impedance
+    variations and the form of the frequency response curve are
+    investigated the method of constructing polar diagrams is
+    explained and diagrams are shown for the two impedances for
+    various values of the parameters their usefulness in the study
+    of feedback phenomena particularly feedback from valve anode to
+    grid is indicated

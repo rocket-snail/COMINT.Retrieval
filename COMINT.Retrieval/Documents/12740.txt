@@ -1,0 +1,12 @@
+polis' parliamentary online information system. mps at
+    the british house of commons have urgent information needs. the
+    house of commons library produces 9 strip indexes of
+    information, but these have disadvantages, in that entries
+    usually appear under 1 heading, only selected parliamentary
+    questions have been indexed, and the library's 3 locations make
+    access difficult. in 1979 a new data base was begun, and it
+    will form a single index to all material previously held on
+    strip indexes, and other information such as parliamentary
+    questions. describes the input flow for the new on-line data
+    base-polis, and details of the system configuration are
+    given.

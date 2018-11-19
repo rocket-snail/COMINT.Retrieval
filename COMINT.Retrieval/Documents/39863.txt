@@ -1,0 +1,3 @@
+a simple spectrograph for nuclear paramagnetic resonance
+    description of modifications to the bloch spectrograph which
+    simplify decoupling problems

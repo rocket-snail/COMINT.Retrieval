@@ -1,0 +1,20 @@
+publication rate as a function of laboratory size in
+    three biomedical research institutions. in 3 biomedical
+    research institutions, there is no indication of a single
+    laboratory size at which the number of publications per
+    scientist is maximal or minimal. in a scattergram of the number
+    of publications of a laboratory against laboratory size, the
+    horizontal coordinate measures the number of scientists in a
+    laboratory, the vertical axis measures the number of
+    publications from the laboratory (counting each publication
+    once regardless of the number of authors), and each laboratory
+    is represented by one point. scattergrams for the rockefeller
+    university (new york), the national institute for medical
+    research (london), and the national cancer institute (bethesda)
+    are each described well by a straight line through the origin.
+    the slopes of the lines for the three institutions are not
+    significantly different. in these laboratories, ranging in size
+    from 1 to 46 scientists, one additional scientist increases the
+    expected annual number of publications of a laboratory by
+    approximately 1.1, regardless of the size of the
+    laboratory.

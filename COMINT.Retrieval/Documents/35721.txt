@@ -1,0 +1,3 @@
+i ifield equations for a fluid electromagnetic field
+    system a relativistic generalization is presented of the
+    macroscopic equations of electromagnetism

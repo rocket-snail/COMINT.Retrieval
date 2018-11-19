@@ -1,0 +1,8 @@
+significance of the mandelstam condition in the
+    oscillations of a neon lamp theory presented previously of is
+    generalized for relaxation oscillations to occur three
+    conditions must be satisfied simultaneously including the
+    mandelstam condition which requires that the energy of the
+    system shall remain constant at the discontinuity this
+    condition can be satisfied using a rc circuit but not using a
+    rl circuit

@@ -1,0 +1,14 @@
+noise factor of conventional vhf amplifiers a simple
+    treatment is presented the various types of circuit and valve
+    noise are indicated the concept of available power is explained
+    and noise factor is efined in terms of available power gain
+    analysis is given for triode input stages based on common
+    cathode common grid and common anode connections experimental
+    results are given for various amplifiers for a mid band
+    frequency of curves show the effect of source resistance on the
+    midband noise factor and the variation of single frequency
+    noise factor over the band and results are also tabulated for
+    different valves and circuits the best noise factor with a
+    given valve can only be determined experimentally the need for
+    further improvement in the noise performance of valves is
+    emphasized

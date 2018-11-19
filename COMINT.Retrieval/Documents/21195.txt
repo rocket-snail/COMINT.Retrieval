@@ -1,0 +1,7 @@
+frequency divider with direct locking investigation is
+    carried out by the phase pulse method the effect of phase shift
+    in the feedback circuit nd of anode reaction on the divider
+    regime is considered the effect of the shape of the
+    synchronized and pedestal pulses on the divider is also
+    examined theoretical data are verified by experimental
+    results

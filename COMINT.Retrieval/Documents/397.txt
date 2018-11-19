@@ -1,0 +1,6 @@
+an automatic frequency controlled phase shift keyed
+    demodulator the principles of demodulators with binary phase
+    shift keying are reviewed design equations are given which
+    indicate the trade off relations between pull in range noise
+    bandwidth and lock up time experimental results are
+    given

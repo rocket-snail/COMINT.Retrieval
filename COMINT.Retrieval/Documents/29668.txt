@@ -1,0 +1,6 @@
+power amplifiers based on electro optical effects a
+    survey the gain bandwidth and noise factor of electro
+    luminescent photoconductive transducers are considered taking
+    into account the effects of feedback and matching suggested
+    practical applications of single and cascade devices are
+    discussed

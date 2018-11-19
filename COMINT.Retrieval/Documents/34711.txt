@@ -1,0 +1,5 @@
+the design of high q iron cored inductors design charts
+    are presented for inductors not carrying dc the attainment of
+    maximum q requires the reduction of overall losses including
+    those due to core magnetization to a minimum for data on
+    inductors carrying dc see of

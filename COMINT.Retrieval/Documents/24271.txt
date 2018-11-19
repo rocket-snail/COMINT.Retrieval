@@ -1,0 +1,6 @@
+high speed counter uses ternary notation the basis of the
+    counter is a flip flop circuit modified to have three stable
+    states by insertion of a diode coupling circuit between the
+    cathodes a nine stage circuit is described operating reliably
+    up to counts of per sec the indicating system may use either
+    one or two lights per stage

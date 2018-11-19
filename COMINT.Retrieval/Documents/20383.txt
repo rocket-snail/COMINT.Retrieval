@@ -1,0 +1,7 @@
+ponderomotive force in localized plasma in the
+    electromagnetic field of a plane wave a sphere of uniformly
+    ionized gas is considered as a rough model of localized plasma
+    the radius of this sphere is smaller than the wavelength of the
+    field in vacuum or in plasma expressions for the internal and
+    surface intensities of the ponderomotive force are
+    derived

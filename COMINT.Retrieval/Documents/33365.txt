@@ -1,0 +1,5 @@
+anomalies in the absorption of radio waves by atmospheric
+    gases reasonable agreement is shown between the losses
+    predicted by van vleck and recent measurements for oxygen but
+    for water vapour the measured loss is greater reasons for the
+    discrepancy are discussed

@@ -1,0 +1,6 @@
+the frequency modulation of tuned circuit and relaxation
+    oscillators the problem of distortionless frequency modulation
+    of oscillators for any modulating frequency is considered the
+    conditions for an ideal nonlinear frequency modulator are
+    formulated and aoolied to the constant amplitude and relaxation
+    oscillator

@@ -1,0 +1,5 @@
+radio astronomy observations of the second soviet space
+    rocket a report of observations of radio signals from the
+    rocket which reached the moon at min sec on september signal
+    intensity measurements were made using an interferometer
+    technique

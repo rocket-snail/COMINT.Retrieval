@@ -1,0 +1,4 @@
+theory of coupled endovibrators continuation of work
+    noted previously a mathematical analysis is given of the
+    propagation of waves in a chain of cavity resonators coupled by
+    long narrow slots

@@ -1,0 +1,9 @@
+greens functions for the cylinder and the sphere the
+    investigation of diffraction of is continued the exact
+    expression for the greens function is split into two parts
+    corresponding respectively to the geometrical optics wave and
+    the surface wave a semi asymptotic solution is thus obtained
+    which is valid for quite small obstacles the surface waves are
+    shown to be identical with the residual waves discussed by
+    watson and by van der pol and bremmer in connection with
+    wireless telegraphy

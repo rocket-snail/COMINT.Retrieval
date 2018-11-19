@@ -1,0 +1,10 @@
+the calculation of energy flow using the laplace
+    transformation laplace perseval integral is applied to
+    determine energy flow directly from the laplace transforms of
+    the applied force and the resultant response the method is
+    applicable to both transient and steady states and leads
+    directly to the most simple form of solution the method is most
+    advantageous when the applied force possesses several
+    discontinuities as an example the classical problem of eddy
+    current losses in linear sheet conductors is solved in general
+    for arbitrary excitations

@@ -1,0 +1,18 @@
+the measurement of term importance in automatic indexing.
+    the frequency characteristics of terms in the documents of a
+    collection have been used as indicators of term importance for
+    content analysis and indexing purposes. in particular, very
+    rare or very frequent terms are normally believed to be less
+    effective than medium-frequency terms. recently automatic
+    indexing theories have been devised that use not only the term
+    frequency characteristics but also the relevance properties of
+    the terms. the major term-weighting theories are 1st briefly
+    reviewed. the term precision and term utility weights that are
+    based on the occurrence characteristics of the terms in the
+    relevant, as opposed to the nonrelevant, documents of a
+    collection are then introduced. methods are suggested for
+    estimating the relevance properties of the terms based on their
+    overall occurrence characteristics in the collection. finally,
+    experimental evaluation results are shown comparing the
+    weighting systems using the term relevance properties with the
+    more conventional frequency-based methodologies.

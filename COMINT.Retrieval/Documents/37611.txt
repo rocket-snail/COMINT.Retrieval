@@ -1,0 +1,11 @@
+dsir ionospheric absorption measuring equipment main
+    design features are described of pulse transmitting and
+    receiving equipment used at slough since highly stable
+    operation is essential pulse duration is variable between and
+    the frequency range is and a peak power output of is adequate
+    for observer reception phombic delta and folded dipole
+    transmitting aerials have been used the receiver is a
+    superheterodyne with extra higigh gain and dynamic range and
+    with provision for attenuation varying continuously up to about
+    db double doublet and folded dipole receiving aee been used the
+    display unit is a conventional cro

@@ -1,0 +1,6 @@
+circuit analogues of suhl type masers a tuned circuit in
+    which inductance varies with time and two coupled tuned
+    circuits in which mutual inductance varies with time are
+    analysed and shown to act as amplifiers under certain
+    conditions these considerations are preliminary steps to the
+    final problem leading to the suhl type maser see also of

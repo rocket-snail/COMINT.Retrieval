@@ -1,0 +1,5 @@
+charts simplify passive lc filter design universal design
+    data permit design of butterworth and tchebycheff filters of
+    prescribed steady state insertion loss characteristics design
+    of band pass prototypes of lumped element configuration is
+    given

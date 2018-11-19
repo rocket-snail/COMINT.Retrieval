@@ -1,0 +1,6 @@
+the relative magnitudes of modulation products in
+    rectifier modulators and some effects of feedback the various
+    modulation products occurring in series shunt and ring
+    modulators are evaluated for square wave switching of the
+    rectifiers assuming that the terminations are resistive the
+    information is used in the design of feedback modulators

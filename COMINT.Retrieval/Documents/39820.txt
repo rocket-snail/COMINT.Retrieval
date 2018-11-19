@@ -1,0 +1,4 @@
+rose einstein lattice gases equivalent to the heisenberg
+    model of ferro antiferro and ferri magnetism a hamiltonian is
+    presented that has the form of a finite series of bose
+    operators and is equivalent to the heisenberg model

@@ -1,0 +1,4 @@
+effective electron electron and electron ion cross
+    sections in plasmas cross sections for elastic scattering are
+    infinite for strictly coulomb interaction but finite values are
+    found by using debyes theory of electrolytes

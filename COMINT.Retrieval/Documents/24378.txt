@@ -1,0 +1,4 @@
+production of millimetre waves by a spark generator a
+    brief account of experiments which suggest that the spark
+    generator does not offer a practical means of extending the
+    radio spectrum to wavelengths less than mm

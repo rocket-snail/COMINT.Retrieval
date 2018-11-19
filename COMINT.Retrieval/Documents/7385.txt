@@ -1,0 +1,18 @@
+the use of biblio-data in classification. the german
+    library's national bibliographic data bank is called
+    biblio-data (bd). bd consists of a data base; german
+    bibliography (deutsche bibliographie) and the ibm full text
+    dialogue system, stairs (storage and information retrieval
+    system). bd aids the classification department of the german
+    library in many ways' it makes research in various locations
+    unnecessary and concentrates the entire process of information
+    retrieval in one place; it provides a multidimensional
+    classification system with access to many general and
+    specialised catalogues which were not available in such a
+    complete and efficient form before; it provides a means of
+    locating material of which only fragments of the title are
+    known as it is able to combine unspecific pieces of search
+    information very rapidly; also it is no longer necessary to
+    deal with an increasing number of monthly or quarterly
+    registers as bd acts as a continuous processer updating the
+    complete mass of title material.

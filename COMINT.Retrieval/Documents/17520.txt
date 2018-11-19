@@ -1,0 +1,22 @@
+the factfinder information retrieval system. factfinder
+    is a minicomputer-based information handling package developed
+    on the basis of total information management. within the system
+    the concepts of text processing and word processing are united
+    to provide effective management of information at every stage.
+    thus, factfinder combines flexible data input facilities with a
+    powerful retrieval capability, enhanced by the inclusion of
+    efficient editing and reporting functions. factfinder is
+    specifically designed for interactive use in a multi-user
+    environment. input is user-defined and may be free text or
+    formatted. editing and retrieval are also on-line procedures
+    and due to factfinder's efficient background processing
+    facility, the updating and printing functions may run
+    simultaneously with these on-line terminal activities. any
+    batch routines are also initiated at the terminals although
+    these are few and of a utility or security nature. factfinder
+    is based on the swedish imdoc system and is m arketed by mcs
+    mini-computer systems ltd. the software is written in extensive
+    basic and the system is available as a complete package of
+    software and hardware based on the data general range of
+    minicomputers. both software and hardware are fully supported
+    by mini-computer systems ltd.

@@ -1,0 +1,6 @@
+direct coupled amplifiers with junction transistors a
+    balanced dc amplifier circuit is analysed and the theory of its
+    operation is developed on the basis of the work by abers and
+    moll the problem of balancing the circuit with ideal and with
+    commercial type transistors is considered and practical design
+    formulae are derived

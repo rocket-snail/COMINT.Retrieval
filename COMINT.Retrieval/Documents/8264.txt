@@ -1,0 +1,4 @@
+barkhausen noise from a cylindrical core the method used
+    by krumhansl and bayer for calculating barkhausen noise of is
+    simplified by considering an exciting field with a sawtooth
+    rather than a sinusoidal waveform

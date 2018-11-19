@@ -1,0 +1,3 @@
+cherenkov radiation from dipoles mathematical analysis of
+    the cherenkov radiation from electric and magnetic dipoles
+    moving in a continuous medium in a channel or a slit

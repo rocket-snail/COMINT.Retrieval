@@ -1,0 +1,6 @@
+conser and oclc. describes the conser project, the oclc
+    on-line union catalogue and the way in which conser
+    participants edit the bibliographic information in records in
+    the oclc data base. 2 basic elements are involved in the conser
+    project' authentication of serials recorded by agencies and
+    editing of serial records by conser participants.

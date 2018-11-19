@@ -1,0 +1,7 @@
+the influence of the time dependent series resistance of
+    a capacitance diode in a mavar up converter an amplifying
+    frequency converter for conversion is investigated
+    theoretically the variable reactance is a semiconductor diode
+    of the type described by uhlir the effect of the loss
+    resistance of this diode on converter stability and band width
+    is evaluated

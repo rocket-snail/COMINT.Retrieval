@@ -1,0 +1,5 @@
+immittance properties of nonreciprocal networks certain
+    known networks are described in terms of the unitor a
+    nonreciprocal circuit element these include lhe batt duffin
+    immittance synthesizing cycle impedance inversion and
+    conversion circuits and the symmetrical lattice network

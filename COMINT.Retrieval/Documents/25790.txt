@@ -1,0 +1,8 @@
+constant current audio power amplifiers the design
+    features are discussed of a push pull amplifier using a pair of
+    type valves in the output stage to feed a general radio type
+    toroidal output transformer constant current operation of the
+    output stage with resistors in the cathode leads for dc
+    degeneration minimizes variations due to valve aging or
+    replacement full circuit details of the amplifier and its
+    simple power supply unit are given

@@ -1,0 +1,12 @@
+parallel tuned circuit periodically switched to a direct
+    current source circuit phenomena with the switch closed open
+    are analysed in turn linear solutions being obtained the
+    complete solution is then obtained by matching the boundary
+    conditions for the two cases this solution includes sinusoidal
+    sawtooth and complex waveforms dependent on circuit parameters
+    and switching period elimination of dissipative circuit
+    elements simplifies the general solution with resulting
+    clarification of the operation of the circuit tests with a
+    mechanically switched circuit verified the theory the entire
+    gamut of waveforms being obtained by variation of circuit
+    parameters and switching period

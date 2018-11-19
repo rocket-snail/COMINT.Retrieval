@@ -1,0 +1,7 @@
+effect of online services on purchase of a printed index.
+    reviews the trend of purchasing of a printed index (2index
+    medicus1) within the south west thames regional health
+    authority (uk). shows that as the machine readable counterpart
+    (medline) has become more easily accessible the purchase and
+    use of 2index medicus1 has increased rather than
+    diminished.

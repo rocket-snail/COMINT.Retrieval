@@ -1,0 +1,9 @@
+organisation and handling of hydrometeorological
+    information. discusses a formal representation of
+    hydrometeorological information and identifies those aspects
+    which characterise hydrometeorological elements and those which
+    define hydrometeorological information elements and files.
+    describes the organisation of information on this subject in a
+    variety of media and briefly surveys soviet and foreign
+    computer-based information systems encompassing this
+    field.

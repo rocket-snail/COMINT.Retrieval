@@ -1,0 +1,4 @@
+on the core gain of the magnetic amplifier cores new
+    definitions specific core gain and core gain are suggested and
+    the relation of these to the power gain of an amplifier is
+    discussed

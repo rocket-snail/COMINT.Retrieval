@@ -1,0 +1,6 @@
+magnetic fields in plasmas with turbulent motion when a
+    plasma comprising electrons and ions is in turbulent motion
+    diffusion currents give rise to magnetic fields these can be
+    demonstrated by rotating the gases produced by burning a
+    mixture of oxygen and propane an account is given of suitable
+    experimental technique

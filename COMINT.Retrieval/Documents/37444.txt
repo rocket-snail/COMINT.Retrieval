@@ -1,0 +1,6 @@
+grapho analytical plotting of trajectories of charged
+    particles in variable electric and constant magnetic fields two
+    techniques are described based on addition of velocities and
+    radius of curvature examples of plotting using these two
+    methods are shown errors and means of correcting them are
+    indicated

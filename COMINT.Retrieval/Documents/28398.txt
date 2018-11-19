@@ -1,0 +1,8 @@
+an amplifier based on the hall effect the dc or ac signal
+    is fed to a suitably matched coil wound on a laminated magnetic
+    core having a narrow gap into which is inserted a thin
+    rectangular slice of single crystal insb dc is passed through
+    the slice and the hall emf is picked up and applied to a
+    matched load high values of power gain are theoretically
+    possible an upper frequency limit is set by core losses for
+    comment by hm barlow and authors reply june

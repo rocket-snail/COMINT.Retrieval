@@ -1,0 +1,10 @@
+a low cost terminal for the 1980's' project green thumb.
+    the usa government is funding a videotext farm information
+    retrieval system (firs) using inexpensive home terminals. a
+    detailed account is given of the hardware and software
+    involved. the functions of the state and the county computers
+    are explained. these are accessed through a terminal or green
+    thumb box. the organisation of data in the system is described.
+    the firs system is currently being tested and preliminary data
+    indicates that the system is being used on a daily
+    basis.

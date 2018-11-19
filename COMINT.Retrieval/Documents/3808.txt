@@ -1,0 +1,12 @@
+need for primary periodicals as determined by sdi. an
+    investigation of primary periodicals that appeared in
+    references selected from chemical abstracts condensates was
+    carried out on the output for about 2,000 profiles. frequency
+    lists, in alphabetical and rank order, were created for the
+    data obtained in the course of routine processing of 2 volumes:
+    86 and 89. in both issues, a relatively small number of
+    journals, for example, 212 and 220 out of 6,209 and 7,039
+    titles, respectively, supplied 50% of the relevant papers for
+    sdi users. the method is described, and the results are
+    compared with the cassi list of journals most frequently cited
+    in chemical abstracts.

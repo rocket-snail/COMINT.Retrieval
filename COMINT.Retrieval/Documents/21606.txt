@@ -1,0 +1,7 @@
+ionospheric records of solar eclipses the horizontal
+    gradients of ionization produced during an eclipse introduce
+    curvature into the isoinic contours so that the ionosonde
+    soundings are effectively oblique the resultant errors in the
+    deduced ion distributions assuming vertical soundings give rise
+    to many of the apparent abnormalities in c eclipse
+    records

@@ -1,0 +1,20 @@
+final report of the precis/translingual project. the
+    feasibility of providing precis with extra facilities to enable
+    it to function as a system for switching indexing data between
+    2 or more natural languages was investigated. lexicons were
+    established in 3 languages, and a 'pivot file' created to link
+    them. routines for switching indexing terms out of a given
+    source language and into a chosen target language were devised
+    and set down in the form of flow-charts or algorithms. using
+    these algorithms, precis strings were switched mainly between
+    english, french, and german. problems of translation were
+    solved by the use of 'lexical blocks' and the adoption of a
+    system of categories. mechanisms for the automatic provision of
+    articles in french and german strings were designed. 2 methods
+    of providing inflected forms of nouns by algorithm were tested
+    in german and polish. the use of 'substitute' phrases in precis
+    was investigated, and procedures for the automatic provision
+    and construction of phrases in a target language were devised.
+    algorithms designed to build prepositional or adjectival
+    phrases were tested on english, french, and german precis
+    strings.

@@ -1,0 +1,6 @@
+active high frequency spectrometers for ionospheric
+    sounding part methods of automatic determination of true height
+    the direct evaluation of profiles from the echo delays measured
+    a the output of an ionosonde is proposed three digital and
+    three analogue methods are discussed and block diagrams
+    given

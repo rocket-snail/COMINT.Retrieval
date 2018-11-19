@@ -1,0 +1,9 @@
+diffusion coefficients from the rate of decay of meteor
+    trails an estimate of the diffusion coefficient in the meteor
+    zone is obtained by an extension of huxleys theory of ambipolar
+    diffusion the absolute value of the diffusion coefficient thus
+    calculated and its gradient with height are confirmed by
+    comparison with results of measurements made at adelaide using
+    radar technique at a wavelength of the theory appears adequate
+    to account for the observed variation or diffusion coefficient
+    with height

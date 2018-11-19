@@ -1,0 +1,6 @@
+on the approximation problem in network synthesis a
+    method of synthesis is presented in which a desired frequency
+    response characteristic is replaced by an approximation
+    consisting of a sequence of rectilinear segments the method is
+    illustrated by application to the design of attenuation
+    equalizers with constant resistance ladder sections

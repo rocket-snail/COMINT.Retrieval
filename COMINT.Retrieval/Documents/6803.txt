@@ -1,0 +1,16 @@
+transmission of electromagnetic waves through
+    inhomogeneous layers layers are considered in which the
+    dielectric constant is graded from the value unity at each face
+    to a maximum value at the mid plane the variation being either
+    linear or exponential dielectrics are prepared satisfying this
+    specification by forming ordinary homogeneous materials into a
+    series of wedges or the like thus producing a space periodic
+    structure reflection factor measurements made in free space and
+    in waveguides are reported variation of reflection factor with
+    layer thickness is shown graphically for moltopren paraffin and
+    trolitul variation with angle of incidence is shown for
+    trolitul the experimental results are compared with values of
+    the reflection factor calculated from solutions of maxwells
+    equations for the appropriate conditions such structures can
+    give good transmission of microwaves over a wide frequency
+    band

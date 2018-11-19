@@ -1,0 +1,3 @@
+signal flow graphs of a linear system a method is
+    proposed for the construction of a signal flow graph based on a
+    nonessential node concept

@@ -1,0 +1,9 @@
+microform copies and aacr2' a note. the anglo-american
+    cataloguing rules (2nd edition) draws no distinction between
+    microforms which constitute original publications and
+    microforms issued as copies of works originally produced in
+    hard copy. the us library of congress is reverting to aacr 1
+    practice, whereby the 'body of the entry' describes the
+    original hard copy version with the description of the
+    microform version appearing as a note. these different
+    approaches are discussed.

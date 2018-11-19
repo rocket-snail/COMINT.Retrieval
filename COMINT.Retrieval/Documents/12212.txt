@@ -1,0 +1,15 @@
+a graphical contribution to the analysis and synthesis of
+    electrical networks the contribution of the poles and zeros of
+    a network function to the steady state characteristics at real
+    frequencies is considered by means of vectors and the
+    connection between attenuation and phase is thereby accentuated
+    bodes relation between attenuation and phase in minimum phase
+    networks is derived by considering the contributions from
+    individual singularities and using a known definite integral in
+    a real variable details are derived for the construction of a
+    series of templates useful for finding pole zero positions
+    which yield certain attenuation phase and delay characteristics
+    and vice versa the method is illustrated by examples including
+    the estimation of the phase and delay characteristics
+    corresponding to the given attenuation characteristic of a
+    minimum phase wide band amplifier

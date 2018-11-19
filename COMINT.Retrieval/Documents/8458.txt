@@ -1,0 +1,7 @@
+slide rule computes radio refractive index of air details
+    are given of methods developed at the national bureau of
+    standards for computing atmospheric rf refractive indices from
+    radiosonede meteorological data using special types of straight
+    or circular slide rule the methods give adequate accuracy for
+    almost any conditions likely to be encountered in the
+    troposphere

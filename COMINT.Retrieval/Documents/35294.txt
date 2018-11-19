@@ -1,0 +1,6 @@
+pulse response of junction transistors the case of low
+    load resistance is considered theoretically and experimental
+    results are shown graphically the response characteristics are
+    discussed good qualitative and fair quantitative agreement was
+    found between predicted characteristics and those determined
+    from pulse and ac measurements

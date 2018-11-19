@@ -1,0 +1,1 @@
+noise spectrum of phase locked oscillators

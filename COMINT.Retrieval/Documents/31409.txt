@@ -1,0 +1,4 @@
+silent electric discharge at low frequency in air using
+    insulating electrodes note on the joshi effect and the
+    variation or discharge current as a function of applied voltage
+    using beeswax electrodes in dry air irradiated by light

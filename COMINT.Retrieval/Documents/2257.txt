@@ -1,0 +1,6 @@
+the accuracy of the determination of reflection heights
+    and distances of atmospherics on the basis of their waveform
+    the errors in calculating reflection height h and distance d of
+    atmospherics are investigated as a function of the ratio hd and
+    of the reflection modes a recorded waveform is analysed and
+    results are tabulated see also

@@ -1,0 +1,6 @@
+continuous recordings for the determination of the
+    vertical gradient of the refractive index in the free
+    atmosphere report on measurements made by equipment mounted at
+    six different levels on a twoer to determine the correlation
+    between the refractive index gradient and field strength
+    fluctuations over a radio link path

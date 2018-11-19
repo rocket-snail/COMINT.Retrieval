@@ -1,0 +1,4 @@
+a note on diffraction by an infinite slit previous
+    results for plane waves at longer wavelengths are extended to
+    obtain transmission coefficients at oblique angles of incidence
+    cylindrical waves are considered briefly

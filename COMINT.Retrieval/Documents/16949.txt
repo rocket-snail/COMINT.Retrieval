@@ -1,0 +1,6 @@
+direct coupled amplifiers a method is described of
+    artificially matching valves to obtain improved mutual
+    compensation for the effects of normal heater supply voltage
+    changes adjustment is easier than selecting naturally matched
+    pairs of valves and considerably better balance is
+    obtained

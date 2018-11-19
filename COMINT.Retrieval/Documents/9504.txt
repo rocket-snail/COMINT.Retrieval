@@ -1,0 +1,6 @@
+self consistent field approach to the many electron
+    problem the self consistent field method in which a many
+    electron system is described by a time dependent interaction of
+    a single electron with a self consistent e m field is shown for
+    many problems to be equivalent to the many body
+    treatment

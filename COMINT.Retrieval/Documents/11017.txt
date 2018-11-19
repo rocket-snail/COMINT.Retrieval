@@ -1,0 +1,10 @@
+problem rubricator on medical immunology. rubricator (a
+    type of macroclassification system) on medical immunology,
+    developed on the basis of the medicine and health services
+    rubricator, is analysed. results of experimental indexing of
+    documents on specific subjects within the given subject field
+    confirm the possibility of its use in an automated ir system
+    both on its own and in combination with other narrow subject
+    field systems. they have also shown the feasibility of
+    expanding the schedules for other narrow disciplines covered by
+    the medicine and health services rubricator.

@@ -1,0 +1,6 @@
+magnetic switching circuits for the representation of
+    logical relations a design method is derived for obtaining the
+    number of cores and the number of turns required on each core
+    for a given sw itcing function results of a systematic
+    investigation are given for switching functions with two and
+    three variables

@@ -1,0 +1,18 @@
+library stock as a system of partial bookstocks. in a
+    particular library the bookstock is a heterogenous entity which
+    consists of materials in different subjects and languages, with
+    different chronological and regional connotations which serve a
+    broad spectrum of readers. thus, the available bookstock
+    naturally subdivides into a number of entities which belong to
+    the same category and the subject matter appears to be the most
+    important criterion. large libraries in slovakia e.g.
+    university libraries have specific reading rooms for partial
+    bookstock e.g. natural sciences or librarianship. special
+    partial bookstock may consist of internal publications such as
+    theses, research reports, internal translations and others. in
+    dealing with partial bookstock it is important to establish the
+    type of reader using it (e.g. children), the physical form of
+    the stock (traditional or micro), geographical relevance and
+    the frequency of its usage. the differential aspect of
+    bookstock is well worth bearing i n mind for the most effective
+    way of utilising library resources.

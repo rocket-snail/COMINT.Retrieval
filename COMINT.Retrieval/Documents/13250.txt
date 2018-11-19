@@ -1,0 +1,7 @@
+potential distribution between two plane emitting
+    electrodes equations are derived for two plane parallel
+    electrodes made from different materials and kept at different
+    temperatures numerical calculations are given for electrodes at
+    the same temperature with an external potential difference
+    between them all possible potential distributions are shown to
+    be represented by a family of curves

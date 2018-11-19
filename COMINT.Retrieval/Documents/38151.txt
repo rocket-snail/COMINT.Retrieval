@@ -1,0 +1,20 @@
+the effect of noise on the frequency stability of a
+    linear oscillator the standard conditions for a sinusoidal
+    oscillation are that the attenuation and net phase shift around
+    the closed loop be zero random fluctuations are relied upon to
+    start the oscillation if the level of oscillation is to remain
+    finite in the continued presence of noise the oscillating loop
+    must hav some attenuation and functions like a highly
+    regenerative amplifier with a loop gain very nearly unity
+    accordingly the oscillator produces not a single frequency but
+    rather a narrow band of noise that causes instability in the
+    magnitude and in the apparent frequency of the output thes
+    instabilities are discussed for oscillators in which all
+    elements are linear except for some slow acting amplitude
+    control the bandwidth of the noisy oscillation can be predicted
+    from easily measured system characteristics several methods of
+    defining the frequency of the output are considered with
+    special reference to precision measurements in general the
+    measured frequency departs from the zero phase shift criterion
+    and is dependent on the measuring equipment methods of
+    minimizing instabilities due to noise are investigated

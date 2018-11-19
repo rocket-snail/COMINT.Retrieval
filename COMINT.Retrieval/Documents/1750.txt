@@ -1,0 +1,7 @@
+theory of forced oscillations in electrodynamic systems
+    the method of analysis using vector series progressing
+    according to the eigenfunctions of the wave equation is applied
+    to a system comprising cylindrical resonator and coaxial line
+    the theoretical assumption underlying the method are examined
+    and the green tensor appropriate to linear electrodynamic
+    processes is formulated

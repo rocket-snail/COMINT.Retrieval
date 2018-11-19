@@ -1,0 +1,7 @@
+a voltage modulated variable pulse rate generator a pulse
+    generator is described the output frequency of which is a
+    linear function of the input voltage the circuit is a screen
+    coupled double phantastron pulse circulating system with
+    suitable modifications to improve the accuracy of transfer at
+    low output frequencies achieving stable discriminator levels
+    with a biased input diode

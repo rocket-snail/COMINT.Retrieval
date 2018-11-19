@@ -1,0 +1,4 @@
+methods o analysis of circuit transient performance a
+    survey of some numerical methods for studying the performance
+    parameters associated with transient behaviour of switching
+    circuits

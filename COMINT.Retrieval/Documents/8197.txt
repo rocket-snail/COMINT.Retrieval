@@ -1,0 +1,7 @@
+induction of currents by moving charges an analysis is
+    made of the field due to a charge moving between a pair of
+    parallel disk electrodes connected externally by a conductor a
+    general expression for the current flowing through the
+    conductor is derived in terms of the electrode radius and
+    separation and the velocity of the charge a periodic discharge
+    could be obtained with particular values of and u

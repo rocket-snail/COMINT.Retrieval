@@ -1,0 +1,5 @@
+theory of networks of linearly variable resistances a
+    network of fixed resistances and linear rheostats driven by a
+    common shaft can replace nonlinear elements such networks are
+    amendable to good design techniques and can be described in a
+    mathematical form analogous to that of fixed rl networks

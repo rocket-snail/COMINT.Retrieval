@@ -1,0 +1,4 @@
+analysis of cathode coupled free running multivibrator a
+    quantitative equivalent circuit analysis valid for frequencies
+    where the interelectrode capacities can be neglected gives
+    results in good agreement with experiment

@@ -1,0 +1,3 @@
+very low frequency spectra of atmospherics propagated
+    through the ionosphere a report of experimental results which
+    support the mode theory suggested by budden

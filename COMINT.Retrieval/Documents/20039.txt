@@ -1,0 +1,4 @@
+quantum theory of the electrical conductivity of metals
+    in a magnetic field the kinetic equation for the density matrix
+    is derived and the asymptotic values of the kinetic
+    coefficients in a strong magnetic field are analysed

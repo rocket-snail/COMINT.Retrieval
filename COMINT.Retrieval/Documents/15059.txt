@@ -1,0 +1,4 @@
+general solution of the symmetric iterative analysis of
+    asymmetric passive linear quadripoles the asymmetric quadripole
+    is divided into two symmetric quadripole sections which can be
+    treated by iterative matrix methods

@@ -1,0 +1,7 @@
+effect of the surface on the magnetic properties of an
+    electron gas the energy levels of free electrons confined in a
+    finite cylindrical box with a uniform axial magnetic field are
+    computed using the wkb approximation the form of approximation
+    appropriate to various boundary conditions is discussed the
+    results are used to calculate the susceptibility of the
+    system

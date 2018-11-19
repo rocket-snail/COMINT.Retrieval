@@ -1,0 +1,8 @@
+a universal nonlinear filter predictor and simulator
+    which optimizes itself by a learning process after a discussion
+    of some cybernetic principles a machine is described which by a
+    process of successive runs on an input function ultimately
+    produces a target function with least error the machine
+    incorporates a tra k tape recorder and analogue multipliers of
+    a novel piezomagnetic type which perform multiplications per
+    second with errors not exceeding and

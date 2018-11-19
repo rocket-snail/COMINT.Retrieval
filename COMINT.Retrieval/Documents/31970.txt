@@ -1,0 +1,5 @@
+production of standard waves with a impulse generator
+    equipment installed at bangalore is discussed the
+    characteristics of the generator were determined experimentally
+    a method of setting it up to produce a desired standard
+    waveform is described

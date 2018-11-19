@@ -1,0 +1,9 @@
+the effect of certain solar radiations on the lower
+    ionosphere an electron density distribution in the d and e
+    regions of the ionosphere is computed lyman alpha lyman beta
+    the lyman continuum and x radiations are considered the
+    resulting electron distribution is used to compute parameters
+    which may then be compared with data from rocket and longwave
+    radio experiments in general there is good agreement between
+    experimental results and the values predicted by the
+    model

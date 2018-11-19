@@ -1,0 +1,10 @@
+anode follower derivatives low output impedance stages
+    characterized by anode output and feedback of the entire output
+    voltage are derived from the basic anode follower by
+    substitution of a vlve impedance for the shunt resistor of the
+    feedback path or of a comparator stage for the entire input
+    feedback potential divider and by replacement of the output
+    valve by a series connected push pull pair these developments
+    suggest the possibility of obtaining an anode follower analogue
+    of each cathode follower derivative thereby increasing the
+    number of circuit variants available for practical use

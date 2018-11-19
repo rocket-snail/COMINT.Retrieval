@@ -1,0 +1,8 @@
+design of rc wide band degree phase difference network
+    the arrangement comprises two all pass networks as described by
+    orchard the pole zero pairs are first determined so as to give
+    the difference of phase shift over the frequency band and the
+    networks are synthesized from the response functions thus found
+    design procedure is detailed step by step and is illustrated by
+    a numerical example notes on construction and alignment are
+    included

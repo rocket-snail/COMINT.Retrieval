@@ -1,0 +1,3 @@
+sunspot cycles a discussion of problems met in attempting
+    to forecast sunspot conditions a simple analysis is made of
+    data from the complete cycles so far recorded

@@ -1,0 +1,14 @@
+user access to the map3s source emissions inventory. an
+    emissions inventory based on data obtained from the national
+    emissions data system (neds), the federal power commission
+    (fpc), environment canada, and other agencies was compiled by
+    the map3s central data coordination at brookhaven national
+    laboratory. these data bases are available to interested users
+    for interactive scanning or batch retrieval. the emissions
+    inventory consists of 2 distinct sections' a point source
+    inventory and an area source inventory. the point source
+    inventory covers the continental us and canada; information is
+    kept at the individual source level. the area source inventory
+    covers the continental us; information is kept on a county
+    basis. work is in progress to obtain a canadian area source
+    inventory based on census divisions.

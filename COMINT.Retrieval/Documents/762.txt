@@ -1,0 +1,4 @@
+application of the multivibrator principle in counter
+    tube amplifiers a description is given of a pulse amplifier
+    based on a multivibrator circuit which gives an output pulse of
+    amplitude with a leading edge slope of for a input pulse

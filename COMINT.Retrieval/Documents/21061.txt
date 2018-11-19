@@ -1,0 +1,8 @@
+the program controlled electronic computer at munich
+    detailed illustrated description of a machine designed for
+    calculations on scientific problems a binary internal system is
+    combined with a decimal external system the word length is
+    binary digit the magnetic drum store rotates at mean access
+    time is and capacity is words teleprinter tape is used for
+    input and output with photoelectric scanning also for the input
+    diodes are used the power consumption is

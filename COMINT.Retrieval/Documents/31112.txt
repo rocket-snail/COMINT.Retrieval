@@ -1,0 +1,5 @@
+nyquists criterion nyquists form of the stability
+    criterion is deduced using well known properties of complex
+    numbers and without using integration in the complex plane a
+    new form of criterion the minimum phase criterion is also
+    developed

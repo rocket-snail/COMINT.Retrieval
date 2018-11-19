@@ -1,0 +1,8 @@
+biblion' the on-line bibliographic system of the barr
+    smith library. describes the development, features and use of
+    biblion-the on-line bibliographic system of the barr smith
+    library of the university of adelaide. biblion is used for the
+    production catalogue of the undergraduate collection, the
+    catalogue of monographs selected for storage, and the means of
+    access to abn (australian bibliographic network) for the use of
+    all abn functions currently available.

@@ -1,0 +1,12 @@
+synthesis of unbalanced rlc networks each inductor of the
+    network is assumed to have associated series resistance the
+    method of synthesis makes use of novel features including the
+    breakdown of a hurwitz polynomial into two others application
+    of a network theorem to division of the network into two parts
+    and a method of zero shifting with one pair of complex poles
+    and being discussed in appendices the network realizes a
+    minimum phase transfer function whose numerator and denominator
+    are of degree not higher than the third and fourth respectively
+    and whose poles and zeros may lie anywhere in the left half of
+    the complex frequency plane extension of the procedure to
+    functions of higher degree is considered briefly

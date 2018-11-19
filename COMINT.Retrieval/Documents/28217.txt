@@ -1,0 +1,6 @@
+thermoelements and thermoelectric dc generators detailed
+    theoretical investigation of thermodynamic efficiency taking
+    account of the various thermoelectric effects and changes in
+    resistivity and thermal conductivity higher efficiencies should
+    be obtainable than those indicated by other authors problems of
+    construction and mechanical strength are also considered

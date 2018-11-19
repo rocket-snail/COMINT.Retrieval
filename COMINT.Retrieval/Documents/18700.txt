@@ -1,0 +1,8 @@
+spectrum or waveform equalization the method of
+    equalization in which signals obtained by differentiation or
+    integration are added to the main signal of is compared with
+    the commoner method using filters empirical design is simpler
+    with the former method but the need for additional
+    amplification at high frequencies n is not avoided the
+    different requirements of communication and servo systems are
+    indicated

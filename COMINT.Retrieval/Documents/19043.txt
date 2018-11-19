@@ -1,0 +1,3 @@
+a note on the relation between the exact and simplified
+    theories for em wave propagation in ionized gases comment on
+    and correction to the paper by sisco and fiskin

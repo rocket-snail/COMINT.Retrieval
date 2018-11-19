@@ -1,0 +1,14 @@
+legibility aspects of coded online information. on-line
+    services provide highly structured material, like bibliographic
+    information, but normally no specifications for typographical
+    layout. the increasing use of textual data bases makes it
+    necessary to include some generalised codes into the text.
+    these flags are needed to assist the output device in
+    presenting the material in the best possible way according to
+    the accepted rules of legibility research. this coding should
+    be suitable for different types of display equipment. modern
+    legibility research covering typography, layout, colour usage
+    and better knowledge of reading is beginning to supply the
+    tools which help to make it clear that text is more than
+    strings of characters suitable for visual perception in a given
+    sequence.

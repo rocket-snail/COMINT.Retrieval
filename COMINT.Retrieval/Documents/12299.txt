@@ -1,0 +1,9 @@
+power spectrum of a nonlinear oscillator with a frequency
+    amplitude law perturbed by noise discussion for the case where
+    the dependence of the frequency on the amplitude is represented
+    by the formula and the power spectrum is determined and can be
+    represented as a single line with a superposed noise spectrum
+    resulting from the amplitude and phase fluctuations the methods
+    previously developed and of enable the noise spectrum to be
+    resolved into a continuous band and a periodic line
+    component

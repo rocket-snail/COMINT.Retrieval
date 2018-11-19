@@ -1,0 +1,10 @@
+character of solar noise observation equipment installed
+    at hiraiso radio wave observatory principles of measurement and
+    accuracy of equipment installed in march are discussed routine
+    observations started in august the path of the sun is followed
+    by a beam aerial system rotated every eight minutes with manual
+    adjustment daily for change of declination during one minute in
+    every eight the receiver input is connected to a noise
+    generator for calibration purposes the double superheterodyne
+    receiver has a bandwidth of about kcs results are compared with
+    data from other stations

@@ -1,0 +1,5 @@
+a push button attenuator for frequencies up to details
+    are given of resistance attenuator providing attenuation up to
+    steps with an interpolation step of each section comprises a
+    network with the shunt arm bridged by capacitance to compensate
+    the inductance of the series arms

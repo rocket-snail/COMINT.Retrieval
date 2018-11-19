@@ -1,0 +1,5 @@
+maxwellian approximation to the general magnetoionic
+    theory of plasmas with an external electric and magnetic field
+    analysis is presented to show that a maxwellian distribution of
+    electron velocities occurs as a particular case in the theory
+    developed previously of august and back references

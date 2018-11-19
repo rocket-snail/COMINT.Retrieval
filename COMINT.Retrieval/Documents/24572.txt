@@ -1,0 +1,9 @@
+electrically tuned rc oscillator or amplifier two
+    variants are described of a feedback circuit including two all
+    pass phase shifting networks tuning is performed by adding a
+    variable amount of the output of the one phase shifter to the
+    output of the other the variation being controlled
+    electronically by means of a modulator circuit theoretically
+    the tuning range is from zero to infinite frequency in practice
+    the frequency ratio obtainable without appreciable change in
+    gain is about

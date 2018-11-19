@@ -1,0 +1,5 @@
+a simplified method for the design of logical conversion
+    matrices diode matrix m networks are discussed a numero
+    graphical method is explained for converting from one numbering
+    system to another possible applications for programming
+    sequence control are suggested

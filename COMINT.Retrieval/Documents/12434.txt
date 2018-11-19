@@ -1,0 +1,7 @@
+highly stable power supply description of equipment
+    giving voltages adjustable between and with loads up to the
+    variation of output voltage is of the order of part in for line
+    fluctuations of the dc output resistance is and the residual
+    hum voltage a valve is used as voltage comparison standard the
+    feedback circuit includes two pentode stages and a cathode
+    follower stage comprising two triodes in parallel

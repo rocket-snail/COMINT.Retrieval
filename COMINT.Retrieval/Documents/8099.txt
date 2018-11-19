@@ -1,0 +1,4 @@
+some aspects of the network analysis of sequence
+    transducers an algebraic formulation is presented for use in
+    the analysis of networks of the synchronous type of sequence
+    transducer see also of

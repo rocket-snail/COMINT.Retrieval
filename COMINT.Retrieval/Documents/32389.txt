@@ -1,0 +1,6 @@
+higher random phase approximations in the many body
+    problem the usual random phase approximation combined with an
+    equations of motion technique for the many electron problem is
+    extended yielding many of the known results of series summation
+    methods in a straight forward manner the method should apply to
+    other types of many body problems as well

@@ -1,0 +1,15 @@
+biblio-data' the data bank at the german national
+    library. biblio-data has developed since 1975 into the biggest
+    literature data bank for on-line searching in west germany. by
+    dec 81 it was linked to 66 institutions in germany and other
+    european countries and had access via the stairs retrieval
+    system to euronet diane. over 900,000 documentary units are
+    available and 100,000 are added annually. the data bank aims to
+    include references to all new german monographs and
+    periodicals, although not to periodical articles, and retrieval
+    is possible via all important data elements. in service quality
+    and quantity biblio-data is ahead of most printed
+    bibliographies; a special feature is a large store of
+    dissertations from both east and west germany. corrections,
+    however, cannot yet be made and some aspects of cataloguing
+    require improvement.

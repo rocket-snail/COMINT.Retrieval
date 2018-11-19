@@ -1,0 +1,3 @@
+world maps of contour maps based on local time and
+    diurnal variation showing the percentage of have been
+    constructed from ionospheric datz data obtained during

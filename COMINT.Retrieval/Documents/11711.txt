@@ -1,0 +1,4 @@
+low frequency decoupling of cathode and screen grid of an
+    amplifier valve a method is described for using the smith chart
+    to determine the falling off at the upper and lower ends of the
+    af response curve due to the decoupling capacitors

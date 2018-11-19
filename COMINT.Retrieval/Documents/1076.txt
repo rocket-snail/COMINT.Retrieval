@@ -1,0 +1,11 @@
+research report on an overview of a proposal monitoring
+    facility for the large-scale, network-based oclc on-line
+    system. addresses the critical importance of measuring and
+    evaluating information systems functioning within computer
+    network environments. the focus is on the significant benefits
+    associated with using automated monitoring as the primary
+    information system measurement mechanism within such computing
+    architectures. the large scale, network-based, state-of-the-art
+    oclc on-line system is utilised as the information system
+    environment in support of these research and development
+    activities. report not available from ntis.

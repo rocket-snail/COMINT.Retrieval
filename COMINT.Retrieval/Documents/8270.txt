@@ -1,0 +1,6 @@
+comparison of the sensitivities of the beam maser and
+    cavity absorption spectrometers a formula is derived for the
+    signal noise ratio of the beam maser considering it as a
+    special case of cavity spectrometer the sensitivity of the
+    maser rr relative to the spectrometer varies inversely with the
+    frequency

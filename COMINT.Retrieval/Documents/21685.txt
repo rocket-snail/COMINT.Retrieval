@@ -1,0 +1,4 @@
+measurements of nonlinearity in cracked carbon resistors
+    frequencies used were and mcs resistors measured ranged from w
+    the degree of nonlinearity would be negligible for most
+    purposes

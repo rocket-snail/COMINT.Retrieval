@@ -1,0 +1,6 @@
+concerning the nature of the aberrations in electron
+    sheet beams a power series expansion is used to derive
+    expressions for the aberrations up to the third order in
+    electron sheet beams subject to purely electrostatic focusing
+    four purely geometric aberrations and four aberrations due to
+    chromatic effects are found

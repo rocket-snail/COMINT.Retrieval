@@ -1,0 +1,12 @@
+millimeter waves from harmonic generators fundamental and
+    harmonic powers obtainable at wave lengths down to using a si
+    crystal frequency multiplier with different types of reflex
+    klystron have been measured three types of multiplier are
+    compared these are a commercial si crystal mounted upright on
+    the exterior face of the harmonic waveguide a crystal with
+    windows cut in the face so tht the tungsten whisker is exposed
+    a whisker and si block mounted in the waveguide arrangement is
+    the most satisfactory for wavelengths below mm the performance
+    of arrangement as a detector is discussed a crystal harmonic
+    generator used with a n narrow band amplifier will furnish
+    enough power at mm wavelength to give a dynamic range of

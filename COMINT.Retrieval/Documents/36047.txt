@@ -1,0 +1,13 @@
+the practical significance of complex frequencies in
+    electrical communication engineering a concise general
+    introduction to the subject complex frequencies are complex
+    quantities whose real part represents the gain of a system and
+    whose imaginary part represents the frequency in the usual
+    sense the application of the laplace transform in analysis of
+    transmission problems is explained and the properties of the
+    complex plane and its poles and zeros are described the use of
+    the poles and zeros for representation of the transmission
+    characteristics of a linear network iis considered analogues of
+    the complex plane such as that obtainable with a stretched
+    elastic membrane are discussed and their applications
+    illustrated

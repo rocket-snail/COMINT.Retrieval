@@ -1,0 +1,3 @@
+ultrasonic delay lines survey of the characteristics and
+    operation of delay lines using fused quartz or glass rods with
+    quartz crystal transducers

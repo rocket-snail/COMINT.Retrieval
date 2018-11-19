@@ -1,0 +1,14 @@
+the setting up of a search system for patents at the
+    polytechnische patentbibliothek of the technische hochschule,
+    ilmenau (ilmenau technical university). paper presented at the
+    apd conference, munich, may 80; includes the discussion
+    following its presentation. the decentralised patent library of
+    ilmenau technical university (east germany) is characterised by
+    a stock of documents of limited number but optimal contents and
+    access and a computerised serach system through which
+    state-of-the-art and preliminary new and fringe searches can be
+    carried out rapidly and cost-effectively. document selection
+    criteria, the approach to the computerised analysis of
+    documents, and search strategy are explained. at present, the
+    system is being tested in the area of information
+    technology.

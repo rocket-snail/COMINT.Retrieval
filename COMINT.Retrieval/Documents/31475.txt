@@ -1,0 +1,4 @@
+unity gain amplifier offers high stability design
+    equations are given for a double triode output stage the gain
+    stability factor of which is the reciprocal of the products of
+    the two gains

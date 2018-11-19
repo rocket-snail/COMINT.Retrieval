@@ -1,0 +1,6 @@
+the pascal a fast digital electronic computer for the
+    philips computing centre a description of the design and
+    operation of the computer which is a binary parallel machine of
+    single address type with a word length of bits it incorporates
+    five different kinds of storage system including special plug
+    board and modification units

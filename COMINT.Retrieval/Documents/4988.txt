@@ -1,0 +1,4 @@
+spectral response of solar cells theoretical response
+    curves are derived by an analysis including the effects of
+    carrier diffusion and drift due to the electric field in the
+    surface region

@@ -1,0 +1,7 @@
+control of frequency and phase displacement in transistor
+    converter circuits by means of rc networks a new type of
+    adjustable frequency transistor converter is described in which
+    the operating frequency is controlled by a rc network and is
+    independent of the direct voltage power regulation by means of
+    rc phase control of a pair of transistor converters is
+    discussed

@@ -1,0 +1,3 @@
+the reliability of components in satellites the effects
+    of the special hazards on component design and development for
+    space vehicles are reviewed

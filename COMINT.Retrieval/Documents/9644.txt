@@ -1,0 +1,6 @@
+discrete analogue computer compensation of sampled data
+    control systems a description of operational m amplifiers and
+    si diode switches for performing the basic functions of
+    sampling holding and time delay performance is analysed and an
+    arrangement for avoiding saturation in a feedback system is
+    also described

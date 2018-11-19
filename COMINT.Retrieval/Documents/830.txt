@@ -1,0 +1,13 @@
+ionization and desorption due to strong electric fields
+    experimental investigations of the intensity distribution of
+    field type electron emission from single crystal points covered
+    with thin films of other material are reported where surface
+    compounds of with or are present a characteristic change of the
+    emission distribution is observed after application of an
+    opposing field the change is attributed to local ionization an
+    electron being released into the interior of the metal and a
+    positive ion being emitted into the vacuum if the field is
+    strong enough to overcome the image force the field ionization
+    of physically adsorbed molecules or atoms requires relatively
+    strong fields quantitative estimates are made of the pull off
+    field strength and its temperature variation

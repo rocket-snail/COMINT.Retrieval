@@ -1,0 +1,5 @@
+feedback simplifies transistor amplifiers voltage
+    amplification in transistor stages os obtained using a
+    degenerative feedback path shunting the output and in series
+    with the input use of interstage transformers or grounded
+    collector stages is avoided

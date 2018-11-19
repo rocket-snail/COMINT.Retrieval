@@ -1,0 +1,3 @@
+amplitude and phase response of an amplifier operating on
+    an interrupted cycle analysis of class c amplifier
+    characteristics

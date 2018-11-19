@@ -1,0 +1,13 @@
+radio interferometry of discrete sources salient features
+    of the theory and practice of radio interferometry are
+    presented with special attention to assumptions and to the
+    specifically two dimensional aspects of the subject a theorem
+    is proved according to which only certain discrete stations on
+    a rectangular lattice need be occupied for full determination
+    of a discrete source distribution procedures in interferometry
+    are discussed in the light of this result and an optimum
+    procedure is deduced current practice is considered over
+    conservative eg independent data in the case of the sun are
+    obtainable only at station spacings of about wavelengths on the
+    ground a fact which has not hitherto been taken into
+    account

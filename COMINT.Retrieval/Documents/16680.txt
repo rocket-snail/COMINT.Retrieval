@@ -1,0 +1,10 @@
+space charge effects in a high frequency discharge
+    details of experimental work on the effect reported in of the
+    current flowing in a circuit connecting the external electrodes
+    and including a high resistance r is measured and its relation
+    to the applied voltage and to the pd between the internal
+    electrodes examined when r is very high discontinuities in the
+    characteristic and hysteresis effects are observed with change
+    in applied voltage the latter are studied in further detailed
+    oscillograms a theoretical explanation of the results is
+    discussed

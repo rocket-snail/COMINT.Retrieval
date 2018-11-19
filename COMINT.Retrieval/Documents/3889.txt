@@ -1,0 +1,4 @@
+a transistor oscillator a high stability portable
+    oscillator uses a single point contact transistor and a quartz
+    crystal resonator in a wien bridge circuit the frequency
+    variation is for supply voltage variations of or more

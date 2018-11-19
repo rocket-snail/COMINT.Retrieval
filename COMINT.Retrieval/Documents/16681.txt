@@ -1,0 +1,5 @@
+a new mechanism for accelerating electrons in the outer
+    ionosphere an experiment is outlined to produce high energy
+    electrons in the ionosphere using e m radiation from a ground
+    based l f transmitter the principle is adaptable for use in a
+    satellite or space probe

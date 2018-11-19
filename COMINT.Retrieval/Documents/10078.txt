@@ -1,0 +1,6 @@
+satellite orbits and atmospheric densities at altitudes
+    obtained from the vanguard orbit determination program the
+    program is outlined results of vanguard one measurements show
+    that the minitrack and computing systems can be operated with
+    an overall accuracy within one milliradian atmospheric density
+    results are discussed

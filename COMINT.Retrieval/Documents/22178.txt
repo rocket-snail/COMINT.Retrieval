@@ -1,0 +1,4 @@
+regulated supply has high efficiency description of unit
+    using magnetic amplifiers for regulation in response to slow
+    variations of line voltage or load and electronic clamping
+    circuits for regulation in response to rapid variations

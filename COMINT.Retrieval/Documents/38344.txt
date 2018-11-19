@@ -1,0 +1,4 @@
+the stability of force free magnetic fields the condition
+    is derived for a force free magnetic field to exercise a
+    stabilizing influence on an equilibrium configuration several
+    cases are given for which the condition is satisfied

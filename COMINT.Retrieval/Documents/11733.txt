@@ -1,0 +1,3 @@
+determination of electron density profiles in the
+    ionosphere taking account of the earths magnetic field an
+    addition to the original theory

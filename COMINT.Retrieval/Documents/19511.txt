@@ -1,0 +1,8 @@
+local electron densities deduced from the faraday fading
+    of satellite transmissions using measurements during two
+    consecutive transits in the analysis it is assumed that during
+    the period of revolution of the satellite the relative
+    gradients of the local electron density are constant at he same
+    altitudes and the changes in density above the maximum are the
+    same as those within the f layer daytime observations of in
+    september have been analysed

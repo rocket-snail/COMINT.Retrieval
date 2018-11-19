@@ -1,0 +1,4 @@
+filter calculations using the template method a part
+    graphical method for calculating filter characteristics is
+    described which has been developed using frequency
+    transformations

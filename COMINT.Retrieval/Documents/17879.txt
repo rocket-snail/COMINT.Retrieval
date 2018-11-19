@@ -1,0 +1,6 @@
+parametric energy conversion by nonlinear admittances
+    circuits employing nonlinear resistances and capacitances are
+    described which can yield unconditionally stable up conversion
+    gains considerably in excess of the output input frequency
+    ratios the down conversion loss can be made simultaneously
+    high

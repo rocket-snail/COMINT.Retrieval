@@ -1,0 +1,6 @@
+transport phenomena in a completely ionized two
+    temperature plasma a theoretical investigation of particle
+    motion and heat transfer in a plasma of electrons and positive
+    ions under the influence of both electric and magnetic fields
+    the electron and ion temperatures being considered
+    different

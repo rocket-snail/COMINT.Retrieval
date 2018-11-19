@@ -1,0 +1,8 @@
+an electronic transformer the anode follower circuit is
+    used as a transformer in a cable system where signals are
+    distributed from a master generator to a number of separate
+    displays the load on the source is negligible the voltage
+    transformation is independent of the impedance transformation
+    both being controllable the cable may be matched if necessary
+    and the system bandwidth is inversely proportional to the cable
+    length

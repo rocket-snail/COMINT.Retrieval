@@ -1,0 +1,11 @@
+correlation of amplitude and phase fluctuations in wave
+    propagation in a medium with random inhomogeneities the two
+    problems noted in of april are treated more fully the value of
+    the correlation coefficient r between amplitude and phase
+    fluctuations at the receiving point is given by equation and
+    reduces to for small distances and to in for large distances
+    where is given by where and is the dimension of the
+    inhomogeneities the autocorrelation coefficient for amplitude
+    fluctuations o at points and is plotted as a function of in
+    curve that of phase fluctuations in curve the curves refer to
+    the case when d and lies between and

@@ -1,0 +1,6 @@
+implementing a micrographics records management system.
+    describes the paperwork storage and retrieval problems faced by
+    cms companies in the past; research undertaken to solve the
+    problems and decision taken to implement a microfiche jacket
+    system. the result has been a massive paperwork reduction and
+    improved records management system.

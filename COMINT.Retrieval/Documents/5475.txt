@@ -1,0 +1,6 @@
+distortion in feedback amplifiers analysis is presented
+    for frequency dependent feedbacks consideration is re stricted
+    to cases where the distortion products are comparatively small
+    and the nonlinear elements can be described by a power series
+    with only a few terms formulae are derived for a number of
+    third order products

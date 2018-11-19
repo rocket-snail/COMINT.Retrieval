@@ -1,0 +1,4 @@
+propagation in laser crystals an example is given of ring
+    structure in a far field pattern from a laser this may be
+    absent but fringes may still be obtainable from a two slit
+    system

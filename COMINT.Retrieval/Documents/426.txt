@@ -1,0 +1,5 @@
+a three band aerial combining network three prototype
+    filter sections of low pass band pass and high pass
+    characteristics respectively for bands and are combined in a
+    masthead unit to provide a common output for the three aerial
+    inputs

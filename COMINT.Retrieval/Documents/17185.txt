@@ -1,0 +1,8 @@
+reflection of an electromagnetic wave from a plasma
+    moving through a dielectric in a constant magnetic field
+    mathematical treatment of the reflection of a retarded e m wave
+    from a moving plasma in a magnetic field directed parallel to
+    the plasma motion expressions are derived for the frequency and
+    amplitude of the reflected wave the dependence of phase
+    velocity on magnetic field intensity is determined and two
+    refracted waves are defined

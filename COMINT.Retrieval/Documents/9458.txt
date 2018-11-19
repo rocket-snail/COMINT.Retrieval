@@ -1,0 +1,6 @@
+a broad band variable group delay equalizer the equalizer
+    has been developed for use in fm microwave systems it is
+    inserted in the signal path in long radio relay systems the
+    performance is adequate for the transmission of frequency
+    division multiplex telephony of at least channels or subcarrier
+    colour television transmission

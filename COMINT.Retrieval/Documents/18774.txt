@@ -1,0 +1,9 @@
+coherent scattering and radiation of electromagnetic
+    waves by plasma in an inhomogeneous magnetic field the
+    propagation of quasi plane waves in a waveguide filled with
+    plasma in a longitudinal magnetic field and the radiation in an
+    electron plasma of a bunch which travels through a spatially
+    periodic axially symmetric magnetic field are discussed the
+    plasma tends to focus the bunches and a longitudinal focusing
+    effect results from the attraction between the induced currents
+    flowing in the same direction

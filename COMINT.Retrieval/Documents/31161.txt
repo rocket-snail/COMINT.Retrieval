@@ -1,0 +1,5 @@
+a class of optimum control systems a class of optimum
+    control systems is defined and investigated with special
+    emphasis on time domain concepts this class is particularly
+    suitable for feed back control applications where adaptability
+    to changing conditions is desired

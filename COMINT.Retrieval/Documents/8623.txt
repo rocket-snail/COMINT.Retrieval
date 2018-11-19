@@ -1,0 +1,2 @@
+a low drift transistor chopper type d c amplifier with
+    high gain and large dynamic range

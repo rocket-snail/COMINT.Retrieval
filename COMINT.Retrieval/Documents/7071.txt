@@ -1,0 +1,6 @@
+a dipole absorber for centimetric electromagnetic waves
+    with reduced reflection at oblique incidence the addition to a
+    resonance absorber of arrays of dipoles parallel and
+    perpendicular to the absorber surface minimizes reflection at
+    oblique incidence experimental results and theory are
+    given

@@ -1,0 +1,6 @@
+matrix programming of electronic analogue computers the
+    technique is based on establishing a correspondence between the
+    matrically formed differential equations and the computer
+    networks this simplifies the setting up of the computer and
+    reduces the possibility of errors examples are given of the use
+    of the method

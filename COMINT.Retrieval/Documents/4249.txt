@@ -1,0 +1,13 @@
+automation of test-data transmission from producer to
+    computer master file. describes 2 methods for the direct input
+    of data obtained during scientific experiments into a computer
+    terminal, all further data manipulation and processing being
+    controlled by computer programs' (1) direct recording of
+    observations (e.g. plant growth) on a portable battery-powered
+    recording device, followed by data transmission to the computer
+    and (2) crt entry of observed values for test and control
+    animals for specific tests. only after verification of data
+    accuracy by the information producer are the results entered
+    into the master data base. in the experiments described, the
+    abbott automated biological and chemical data system (abcd) was
+    used.

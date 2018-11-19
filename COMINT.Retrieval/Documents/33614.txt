@@ -1,0 +1,4 @@
+video tape analyser tape frequency response noise
+    contribution drop outs and rate of wear are determined and an
+    assessment is made of the decline in picture quality due to
+    repeated playback

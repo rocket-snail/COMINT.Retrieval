@@ -1,0 +1,6 @@
+on the reactance theorem any passive quadripole with
+    foster type short circuit and open circuit impedances at either
+    end transforms any foster type two terminal network into a
+    foster type two terminal network again polygons consisting of
+    foster type two terminal networks are also considered see also
+    of

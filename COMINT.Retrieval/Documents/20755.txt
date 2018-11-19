@@ -1,0 +1,7 @@
+effect of nuclear polarization on the behaviour of solid
+    state masers an account is given of experiments conducted on a
+    ruby sample placed in a doubly resonant microwave cavity with
+    bloembergen stimulation the application of r f power to a coil
+    round the sample produced an increase in amplifier gain the
+    effect being greatest at the resonance frequency of the free ai
+    nuclei

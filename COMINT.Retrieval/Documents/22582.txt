@@ -1,0 +1,6 @@
+how to use mechanical if filters discussion of the
+    construction and performance of electromechanical filters using
+    magneto strictive ni wires as coupling units between metal disk
+    resonators a typical disk filter has a bandwidth of centred on
+    with a transmission loss and an operating temperature from to c
+    the size of the complete assembly is only in

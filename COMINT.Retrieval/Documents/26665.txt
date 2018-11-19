@@ -1,0 +1,15 @@
+united nations bibliographic information system (unbis).
+    the united nations bibliographic information system (unbis) was
+    developed to provide expanded reference and information
+    services at the united nations dag hammarskjold library in new
+    york, and to achieve comprehensive bibliographic control of un
+    documentary and externally-acquired materials needed for the
+    un's programmes and activities. the primary objective of this
+    computer-based integrated on-line system development has been
+    to achieve optimum compatibility with other international
+    systems by following international standards for bibliographic
+    description, use of a vocabulary aligned with other major
+    international lists and thesauri, and achieving a 1-to-1 match
+    of data elements with those used by the existing international
+    information systems. current and proposed unbis activities are
+    described.

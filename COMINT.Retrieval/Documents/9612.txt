@@ -1,0 +1,5 @@
+on the synthesis of three terminal networks composed of
+    two kinds of elements a set of necessary and sufficient
+    conditions and a method of realization of all sets of series
+    parallel lc three terminal network functions from the zeroth to
+    the sixth degree are given

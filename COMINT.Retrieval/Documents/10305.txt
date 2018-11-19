@@ -1,0 +1,7 @@
+an experimental impedance relay using the hall effect in
+    a semiconductor description of a definite impedance relay for
+    the protection of power transmission systems the hall output
+    voltage from an insb crystal is balanced by a voltage from a
+    rectifier unit when a fault occurs in the system an out of
+    balance voltage is produced which operates an electromagnetic
+    relay

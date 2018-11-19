@@ -1,0 +1,8 @@
+isocline diagrams for transistor circuits the method
+    described for the graphical analysis of transistor negative
+    resistance oscillators is based on nonlinear mechanics and does
+    not necessitate approximation of curved transistor
+    characteristics by straight lines voltage and current
+    trajectories can be obtained by a simple construction which
+    also indicates the rate of change of the voltages and currents
+    during the course of cycllic or transient phenomena

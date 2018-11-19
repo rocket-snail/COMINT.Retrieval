@@ -1,0 +1,4 @@
+a more precise theory of plasma recombination
+    recombination coefficients are derived for two models deep
+    traps and third and fifth group impurity traps in ge and
+    si

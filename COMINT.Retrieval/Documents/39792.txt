@@ -1,0 +1,3 @@
+constant resistance all pass networks with maximally flat
+    time delay practical design tables are given and their use is
+    illustrated by examples

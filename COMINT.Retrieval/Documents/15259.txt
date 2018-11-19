@@ -1,0 +1,7 @@
+aacr 2: the first anniversary!-celebration or lament.
+    when implementing aacr 2 the university of wisconsin decided to
+    interfile aacr 2 cataloguing into the existing card catalogue,
+    to interfile variant name forms when the aacr 2 form had the
+    same initial element and to create split files when the initial
+    elements were different in the aacr2 form. describes the
+    establishing of authority control.

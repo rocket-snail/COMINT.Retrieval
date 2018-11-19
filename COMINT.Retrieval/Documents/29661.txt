@@ -1,0 +1,4 @@
+variational approach to deviations from ohms law kohlers
+    variational method has been used to obtain deviations from ohms
+    law for a nondegenerate electron gas two important applications
+    of the method are discussed

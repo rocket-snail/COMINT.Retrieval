@@ -1,0 +1,14 @@
+a critical commentary on leimkuhler's 'exact' formulation
+    of the bradford law. argues that powerful operational research
+    techniques operate only on a small fraction of the statistical
+    information usually provided by the social sciences. uses the
+    argument to illustrate leimkuhler's recent claim to have found
+    an 'exact' fit to bradford's law. an elementary theorem of
+    shannon information theory shows that his new function is
+    applied to only 2.3% of the statistical information inherent in
+    the bibliography he chooses and that bradford's original simple
+    formulation not only fits this segment but also the whole
+    bibliography more closely than the new formulation. as every
+    statistical information loss can be measured, it can be shown
+    that sophisticated mathematical techniques cannot compensate
+    for the information they squander.

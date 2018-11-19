@@ -1,0 +1,5 @@
+enhanced uk teletext moves towards still pictures. a
+    brief description of the ceefax system is given along with
+    current work to improve the service. areas which are considered
+    to need improvement are access, character repertoire and
+    pictures.

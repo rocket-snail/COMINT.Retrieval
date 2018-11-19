@@ -1,0 +1,10 @@
+on the growth of longitudinal waves propagating in plasma
+    an analytical treatment based on a single solution of the one
+    dimensional linear kinetic equation describing the propagation
+    of highfrequency signals produced by a given external force it
+    is shown that for a low temperature of the electron gas it is
+    possible to use the ordinary single velocity approximation the
+    analysis of the results permits a determination of the
+    direction of propagation of natural waves in a plasma and a
+    solution of the problem of the existence of increasing waves in
+    a rectilinear electron beam

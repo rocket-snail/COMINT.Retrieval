@@ -1,0 +1,3 @@
+a low noise crystal controlled converter for construction
+    details of a converter providing satisfactory reception of
+    signals of about above noise level

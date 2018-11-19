@@ -1,0 +1,7 @@
+the design of tetrode transistor amplifiers methods are
+    discussed for determining suitable loads when the two port
+    parameters of the transistor are known charts are presented ofr
+    determining power gain and input impedance as functions of load
+    circuits described as examples include a common base amplifier
+    a common emitter video amplifier and amplifiers centred at and
+    respectively predicted and measured gains are compared

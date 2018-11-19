@@ -1,0 +1,7 @@
+models of the lower ionosphere as may be inferred from
+    absorption results values of deviative and nondeviative
+    absorption and their variations with cos are calculated for the
+    d region models of nertney of piggott unpublished and mitra and
+    for the e region model of jones of satisfactory agreement with
+    experimental results is found for mitras model of the d region
+    but not for jones model of the e region

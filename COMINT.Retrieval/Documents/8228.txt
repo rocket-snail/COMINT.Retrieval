@@ -1,0 +1,13 @@
+the reflection and absorption of radio waves in the
+    ionosphere investigations of the absorption of rf waves made in
+    britain since are reviewed and the theory f ionospheric
+    absorption is outlined the effects of double refraction
+    polarization spatial attenuation dispersion ionospheric
+    inhomogeneities and partial reflection which modify the
+    apparent attenuation of radio waves reflected in the ionosphere
+    are discussed and methods used to minimize absorption
+    measurement errors due to these factors are given the
+    experimental techniques used in routine absorption measurements
+    being described fully detailed results of measurements of
+    ionospheric absorption made in south east england in the period
+    are being published separately

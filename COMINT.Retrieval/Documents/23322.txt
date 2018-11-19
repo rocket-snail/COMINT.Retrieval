@@ -1,0 +1,12 @@
+prestel: gateway to an electronic explosion. the initial
+    uk viewdata concept was of a system of powerful computers, each
+    holding all the information supplied by 'information
+    providers'. the west germans enhanced this concept by
+    connecting their central bildschirmtext (viewdata) computers to
+    'third party' (i.e. other people's) data bases. the dramatic
+    results have made the uk add the german modifications to
+    prestel and the new service will be available in london in
+    early 1982. describes the demonstration of this 'gateway'
+    concept at 2 recent uk conferences, the response, implications,
+    possible further uses of gateways, and the greater use of
+    viewdata in west germany than in the uk.

@@ -1,0 +1,8 @@
+structure of the thermosphere the vertical distribution
+    of density in the thermosphere as deduced from satellite
+    observations is examined and it is shown tht the varying scale
+    height gradient s is due to a decrease in the molecular weight
+    of the atmospheric constituents the temperature of the night
+    time isothermal atmosphere and the distribution of scale height
+    in the sunlit atmosphere is related to the ultraviolet heating
+    available during the day

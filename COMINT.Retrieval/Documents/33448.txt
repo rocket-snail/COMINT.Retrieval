@@ -1,0 +1,6 @@
+medline on dialog' a guide to searching techniques.
+    dialog's software implementation of medline contains several
+    special features. major differences regarding defaults, data
+    forms, weighting, subheadings, check tags, and cascaded
+    descriptor codes are discussed and illustrated through sample
+    searches, with an emphasis on cost-effective retrieval.

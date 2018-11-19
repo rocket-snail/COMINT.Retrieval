@@ -1,0 +1,4 @@
+an experimental study of bistatic scattering from some
+    small absorber coated metal shapes the absorber coating reduces
+    energy scattering in the back hemisphere but increases the
+    energy scattered in the forward hemisphere

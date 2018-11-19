@@ -1,0 +1,9 @@
+multichannel crystal control of vhf and uhf oscillators
+    the frequencies of a number of channels are controlled by a
+    single crystal using an oscillator whose phase is varied
+    periodically by application of pulses the oscillator output
+    comprises a spectrum of harmonically related frequencies whose
+    fundamental is the crystal controlled pulse frequency a
+    particular triode oscillator covers the range with fundamental
+    in the range by appropriately tuning the tank circuit any
+    desired harmonic can be emphasized by an amount up to

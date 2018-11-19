@@ -1,0 +1,3 @@
+binary multiplication in digital computers shows how many
+    steps can be eliminated from the usual process of
+    multiplication by computer

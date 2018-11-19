@@ -1,0 +1,6 @@
+negative capacitance amplifier noise the inheret
+    limitations of negative capacitance feedback due to the finite
+    time constant and internal noise of an actual amplifier are
+    discussed it is shown that the limitation caused by noise
+    applies to any circuit that is designed to reduce the input
+    time constant

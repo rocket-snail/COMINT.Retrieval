@@ -1,0 +1,6 @@
+absorption in a dielectric slab energy incident on a
+    parallel slab of high loss material with high dielectric
+    constant is considered at angles of incidence greater than the
+    reflected energy is smaller the more lossy the material the
+    absorbed energy is a maximum at certain angles of incidence
+    depending on the polarization and dielectric constant

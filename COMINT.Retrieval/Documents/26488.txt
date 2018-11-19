@@ -1,0 +1,4 @@
+a one dimensional fourier analog computer the computer
+    sums fourier series having up to terms and can be used for
+    double and triple summations by using standard trigonometric
+    expansions

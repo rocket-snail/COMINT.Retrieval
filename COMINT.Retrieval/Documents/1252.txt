@@ -1,0 +1,5 @@
+measurement of the earths magnetic field with a rubidium
+    vapour magnetometer the instrument described makes use of the
+    relationship between the earths field and the absorption lines
+    in rb vapour caused by ground state zeeman transistions an
+    absolute accuracy of is quoted see also of

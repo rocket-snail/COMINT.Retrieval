@@ -1,0 +1,3 @@
+on network synthesis with negative resistance a procedure
+    is outlined which results in realizable networks with lossy
+    elements arranged in foster terms

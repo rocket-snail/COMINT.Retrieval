@@ -1,0 +1,5 @@
+an analogue device for problems of filter development the
+    equipment described is used for the design of filters from
+    given operating characteristics other applications such as
+    filter correction and filter design for pulse waveforms are
+    outlined

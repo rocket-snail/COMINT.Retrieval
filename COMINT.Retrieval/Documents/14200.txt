@@ -1,0 +1,5 @@
+note on the mechanism of the multipactor effect by
+    modifying the theory of m krebs to take into account the
+    velocity distribution of secondary electrons and the phase
+    defocusing effect excellent agreement is obtained with the
+    experimental results of hatch and williams of

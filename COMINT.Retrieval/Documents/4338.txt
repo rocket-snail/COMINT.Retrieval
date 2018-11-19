@@ -1,0 +1,5 @@
+series diode increases multivibrator sensitivity
+    triggering sensitivity of monostable multivibrators may be
+    greatly increased by using a semiconductor diode as a series
+    nonlinear element in the feedback loop good stability can be
+    achieved

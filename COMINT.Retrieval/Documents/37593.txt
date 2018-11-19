@@ -1,0 +1,4 @@
+the stability criteria for linear systems the various
+    criteria can be obtained and interrelated by means of continued
+    fractions the hurwitz determinants are condensed to about half
+    thei original order

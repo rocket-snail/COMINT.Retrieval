@@ -1,0 +1,5 @@
+three terminal variable capacitance semiconductor device
+    an analysis of the operation of the device which is based on
+    the change in junction transition capacitance associated with
+    the change in collector voltage gradient in an avalanche
+    controlled semiconductor amplifier

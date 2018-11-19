@@ -1,0 +1,5 @@
+drift measurements at kjeller on the ionospheric f region
+    results are given of measurements made at kjeller norway mostly
+    during january and february the mean drift velocity was found
+    to be towards the west at night and the east during the day
+    some measurements on sporadic f echoes are reported

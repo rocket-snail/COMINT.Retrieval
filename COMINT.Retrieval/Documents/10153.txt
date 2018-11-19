@@ -1,0 +1,4 @@
+algebraic method of synthesis of multi contact relay
+    systems a vector algebraic method of synthesis of switching
+    circuits suitable for computers is developed
+    theoretically

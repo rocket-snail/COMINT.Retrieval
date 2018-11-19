@@ -1,0 +1,5 @@
+automated system for collecting information sources on
+    micromedia. discusses problems of automating the soviet viniti
+    system containing details of information sources on micromedia.
+    the automated system will be based on the saratov
+    minicomputer.

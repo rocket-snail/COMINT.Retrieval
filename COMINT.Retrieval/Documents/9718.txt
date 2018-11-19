@@ -1,0 +1,4 @@
+microwave spectroscopy includes chapters on spectroscope
+    technique and design on measurements on gases liquids and
+    solids on nuclear properties on molecular structure and on
+    further possible applications of microwaves

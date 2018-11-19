@@ -1,0 +1,6 @@
+transistor oscillator with output a design procedure is
+    described for transistor oscillators employing external
+    feedback and an lc resonator an example is given which delivers
+    an output of at and which operates from a battery it is
+    suitable for use as a bias oscillator for dictation
+    machines

@@ -1,0 +1,4 @@
+leakage in a steady state of a plasma with two
+    temperatures confined by a magnetostatic field an extension of
+    earlier work to the case of unequal electron and ion
+    temperatures

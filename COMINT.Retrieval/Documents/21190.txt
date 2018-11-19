@@ -1,0 +1,5 @@
+the differences between single and periodic transient
+    processes in low pass transmission systems the differences are
+    calculated for square pulse waveforms and ideal transmission
+    systems corrections can be made to obtain approximations
+    applicable to practical low pass networks

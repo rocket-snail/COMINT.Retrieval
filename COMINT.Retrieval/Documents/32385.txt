@@ -1,0 +1,4 @@
+gain bandwidth limitations on equalizers and matching
+    networks comprehensive theory is presented and new results are
+    given for the optimum voltage transfer to an arbitrary
+    load

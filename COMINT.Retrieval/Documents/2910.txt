@@ -1,0 +1,7 @@
+the effect of radar wavelength on meteor echo rate theory
+    is given which includes the effects of high electron density
+    the linear rate of trail formation and the initial column
+    radius on the meteor echo power and hence on the number of
+    echoes received the theories of lovell and clegg of and others
+    are discussed critically a comparison with experimental results
+    is made

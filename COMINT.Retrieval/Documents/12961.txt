@@ -1,0 +1,14 @@
+electronic publishing in information technology year.
+    describes the process of electronic publishing of technical
+    journals from the author composing at a terminal to the
+    finished product being made available in machine-readable form
+    and mentions the british library funded birmingham and
+    loughborough electronic network development (blend). it is
+    unlikely that electronic journals by themselves can be run
+    profitably for several years; it is more likely that systems
+    will evolve from, and run alongside, existing publications with
+    their established reputation and editorial structure. discusses
+    the document delivery project adonis being developed by a group
+    of international publishers. the full potential of electronic
+    publishing will be realised when equipment is developed that
+    can handle page make-up in machine readable form.

@@ -1,0 +1,8 @@
+the strength of meteoric echoes from dense columns
+    calculations taking into account the refractive effects
+    produced by ionization distributed at radii t radii greater
+    than the critical density radius have been made for large
+    highly ionized trails using geometrical optics and ray tracing
+    methods the computed maximum radiated power from a diffusion
+    formed trail is only of that calculated on the critical density
+    radius method

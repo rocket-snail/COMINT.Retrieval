@@ -1,0 +1,6 @@
+development of a high fidelity preamplifier for use in
+    the recording of bioelectric potentials with intra cellular
+    electrodes the cathode follower circuit conventionally used to
+    minimize the time constant of the recording system is discussed
+    and its shortcomings are analysed an improved circuit using
+    positive feedback is described

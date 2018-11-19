@@ -1,0 +1,3 @@
+zeeman splitting of paramagnetic atoms in crystalline
+    fields energy levels of paramagnetic ions in crystalline
+    surroundings are treated as a function of magnetic field

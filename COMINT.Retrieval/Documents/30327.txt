@@ -1,0 +1,2 @@
+a paraxial formulation of the equations for space charge
+    flow in a magnetic field

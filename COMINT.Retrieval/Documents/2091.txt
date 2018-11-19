@@ -1,0 +1,2 @@
+computation of sin n cos n and using an electronic
+    computer

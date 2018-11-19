@@ -1,0 +1,7 @@
+theory of the effect of drag on the orbital inclination
+    of an earth satellite it is assumed that the drag is in the
+    direction of the air velocity relative to the satellite and
+    that its magnitude diminishes so rapidly with altitude that it
+    is appreciable only near perigee in an elliptic orbit results
+    are deduced for the secular changes in inclination up to but
+    not including the final ballistic stage

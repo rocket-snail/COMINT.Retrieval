@@ -1,0 +1,7 @@
+on the approximate daytime constancy of the absorption of
+    radio waves in the lower ionosphere the lower part of the d
+    layer is due to photo detachment of electrons from negative
+    ions the concentration of which is large and nearly constant
+    from day to night the optical depth is small for the photo
+    detachment radiation but large for the radiation which can
+    ionize neutral particles

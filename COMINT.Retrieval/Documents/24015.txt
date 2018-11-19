@@ -1,0 +1,5 @@
+calculated waveforms for tunnel diode locked pair the
+    phase locked pair functions as a computer element in a similar
+    manner to that of a phase locked harmonic oscillator and also
+    requires a three phase power supply its main advantages are
+    high gain and high transition speed

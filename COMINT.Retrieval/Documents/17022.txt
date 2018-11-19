@@ -1,0 +1,6 @@
+the orbit of a charged particle in a constant magnetic
+    field and a sinusoidal electric field explicit expressions are
+    obtained for the particle orbit assuming that the effect of the
+    electric field on the particle is merely to produce a
+    perturbation on the motion which it would describe in the
+    absence of th field

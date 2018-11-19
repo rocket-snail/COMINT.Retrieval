@@ -1,0 +1,3 @@
+the condition of passivity for the linear quadripole with
+    complex characteristic impedances reciprocal and non reciprocal
+    two port networks are considered

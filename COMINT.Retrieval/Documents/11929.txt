@@ -1,0 +1,4 @@
+a variable dual reactance travelling wave parametric
+    amplifier g two transmission lines are coupled together by
+    inductance and capacitance which vary at a pump
+    frequency

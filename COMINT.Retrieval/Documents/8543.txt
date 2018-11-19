@@ -1,0 +1,4 @@
+magnetic behaviour of a linear atomic chain at the
+    absolute zero point for positive exchange integral a
+    calculation of the magnetic moment indicates that the linear
+    atomic chain is not spontaneously magnetizable

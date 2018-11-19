@@ -1,0 +1,7 @@
+radiation of electromagnetic waves during the uniform
+    motion of electric charges near an inhomogeneity the radiation
+    occurring in nonuniform waveguide in which a given convection
+    current is flowing and the transient radiation due to the
+    passage of finite bunches of charge through ideally conducting
+    grids are considered theoretically using the methods of
+    perturbation theory

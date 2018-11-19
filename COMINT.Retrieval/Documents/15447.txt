@@ -1,0 +1,10 @@
+the correction of observational data for instrumental
+    bandwidth the formula relating t readings instrument having t
+    apparatus function to th true values of an observed function is
+    stated a three point interpolation operator can be chosen to
+    simulate the spreading action of a class of functions under
+    certain conditions the interpolation operator has an exact
+    inverse which when applied to gives a function which is a
+    better approximation to the accuracy obtained is discussed
+    effect of the method on the standard errors in the measurement
+    is found

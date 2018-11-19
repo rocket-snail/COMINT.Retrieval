@@ -1,0 +1,6 @@
+mechanism of ionization of the sporadic e layer
+    observations made using a technique based on that introduced by
+    naketa et al and have shown that the height of e varies in a
+    systematic way during the lifetime of an e event if the
+    intensity of ionization increases the layer height
+    decreases

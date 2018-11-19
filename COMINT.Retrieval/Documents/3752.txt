@@ -1,0 +1,3 @@
+the total excursion resistor the design of resistors that
+    will remain within a guaranteed tolerance range throughout
+    their life is discussed

@@ -1,0 +1,3 @@
+design of the duplex feedback amplifier a comprehensive
+    discussion illustrated by a detailed account of the design of
+    carrier telephone repeater amplifiers

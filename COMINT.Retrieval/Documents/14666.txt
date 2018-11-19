@@ -1,0 +1,3 @@
+a survey of magnetic amplifiers principles of operation
+    and basic circuits are described and applications are
+    indicated

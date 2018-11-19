@@ -1,0 +1,5 @@
+dependence of magnetic coupling constant of ammonia on
+    the inversion state theoretical studies indicate that in a
+    maser the magnetic coupling constants of the upper and lower
+    inversion states are different resulting in the observed
+    dependence of frequency on magnetic field

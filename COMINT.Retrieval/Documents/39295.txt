@@ -1,0 +1,14 @@
+structure and functions of an in-house information
+    system. note. an english translation of this article is
+    published in 2scientific and technical information processing1,
+    (1) 1980, 52-62. examines the structure of information systems
+    used for provision of information services to research,
+    development and design personnel. points out that these systems
+    consist of 2 main interactive sub-systems' current awareness
+    (sdi) subsystem and information supply subsystem. analyses the
+    functions of these 2 subsystems and their technical
+    characteristics and presents criteria for the evaluation of
+    their effectiveness. presents a planning method which can be
+    used to control the amount and format of the information
+    supplied, as well as to control the completion period of
+    enquiries.

@@ -1,0 +1,6 @@
+glow to arc transition conditions for the glow to arc
+    transition at moderately high pressures have been studied
+    experimentally over this pressure range the transition is
+    certain to occur only when the field reaches a critical value
+    this result is consistent with a field emission mechanism for
+    the transition

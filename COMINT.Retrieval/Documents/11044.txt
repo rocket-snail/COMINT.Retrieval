@@ -1,0 +1,4 @@
+dependence of electron mobility on magnetic field in a
+    fully ionized gas analysis with tables and illustrative graphs
+    of the variations of drift and hall mobilities with magnetic
+    field

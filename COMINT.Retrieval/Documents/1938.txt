@@ -1,0 +1,3 @@
+general spin wave dispersion relations the derivation
+    takes into account the effects of conductivity exchange and
+    propagation

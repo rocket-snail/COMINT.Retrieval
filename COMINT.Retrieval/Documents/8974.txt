@@ -1,0 +1,4 @@
+transistor voltage and current stabilizers details are
+    given of a current generator and a voltage generator using
+    transistors and a zener diode coupled together the circuits
+    provide a stabilized current supply of up to

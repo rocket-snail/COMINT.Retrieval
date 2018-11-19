@@ -1,0 +1,5 @@
+prestel: will it live up to pr promises?. the 1st part of
+    a 2-part article (part 2 in the next issue). describes the
+    conception and development of the uk prestel viewdata system,
+    surveys its use, and predicts that it will become part of the
+    future communications system.

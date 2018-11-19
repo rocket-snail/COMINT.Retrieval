@@ -1,0 +1,4 @@
+transistorized generator for pulse circuit design the
+    generator produces pulses of duration at repetition frequencies
+    from to the maximum amplitude is into a load type switching
+    transistors are used

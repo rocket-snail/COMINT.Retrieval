@@ -1,0 +1,8 @@
+differential amplifiers with asymmetrical output the
+    basic circuit discussed comprises a pair of similar triodes
+    with equal resistances in anode and cathode leads when equal
+    phase voltages are applied to the two grids voltages in phase
+    opposition are produced at the cathode of one valve and the
+    anode of the other the output is taken from the mid point of
+    the circuit connecting these two points theory of operation is
+    presented and two experimental models are described

@@ -1,0 +1,11 @@
+on the escape mechanism of secondary electrons from
+    insulators starting from the boltzmann transport equation and
+    with certain simplifying assumptions theory is developed which
+    takes into account the interaction of secondary electrons with
+    lattice vibrations traps and occupied donor levels at high trap
+    densities the secondary yield for high primary energies is
+    inversely proportional to the square root of the trap density
+    at low trap densities yield is independent of trap density
+    expressions for the temperature effect for high primary
+    energies are derived for polar and nonpolar insulators results
+    for the first case have been confirmed by experiment

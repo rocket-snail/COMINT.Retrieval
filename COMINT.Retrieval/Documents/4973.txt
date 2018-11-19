@@ -1,0 +1,6 @@
+operation of an amplitude limiter theoretical and
+    experimental evidence suggest that the stray capacitance
+    shunting the nonlinear element causes a parasitic phase
+    modulation of the out put signal and limits the efficiency a
+    neutralized circuit is shown and design formulae are
+    given

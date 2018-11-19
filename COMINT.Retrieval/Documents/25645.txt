@@ -1,0 +1,5 @@
+a note on the self resonance of ceramic capacitors
+    details of changes in self resonant frequency with capacitor
+    type length of connecting leads and method of mounting are
+    given practical applications of the self resonance of these
+    components in vhf circuits are suggested

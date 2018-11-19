@@ -1,0 +1,11 @@
+the swets subscription service system. contribution to a
+    thematic issue on on-line technology. discusses the
+    development, design and operation of an on-line periodicals
+    subscription service by the dutch company swets and zeitlinger.
+    indicates the way in which the system was designed to be 'user
+    friendly' with a minimum of codes and good support services.
+    gives an example of a typical operational sequence to
+    illustrate how the system is constructed and the standard
+    module usage. considers the future development of the system,
+    and includes some sample pages from the terminal users
+    handbook, showing screen format.

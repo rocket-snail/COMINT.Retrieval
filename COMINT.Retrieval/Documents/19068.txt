@@ -1,0 +1,5 @@
+graphs for a rapid calculation of the work function of
+    thermionic emission a set of graphs is given for the saturation
+    current density as a function of absolute temperature with the
+    work unction as parameter the use of the graphs is
+    explained

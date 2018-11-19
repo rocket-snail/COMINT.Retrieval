@@ -1,0 +1,8 @@
+diurnal variations in the ionosphere deduced from
+    satellite radio signals observations of the faraday fading rate
+    at sydney australia from have been used in a simple way to
+    obtain diurnal and seasonal electron content variations
+    secondary maxima occur at in both seasons and in winter the
+    diurnal variation in winter is several times greater than the
+    summer variation these values are compared with the variations
+    in

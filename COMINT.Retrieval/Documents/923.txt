@@ -1,0 +1,7 @@
+the function of basic elements in digital systems the
+    three basic elements of digital computers are a bistable
+    element for storing a digit a gate for controlling the passage
+    of a digit a diode for controlling the direction of passage a
+    unit in the form of a beam deflection valve has been designed
+    including a bistable element together with two gating elements
+    see also below

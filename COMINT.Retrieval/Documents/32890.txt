@@ -1,0 +1,10 @@
+a transistor digital fast multiplier with
+    magnetostrictive storage the multiplier is operated at a basic
+    frequency of and comprises timing waveform generator arithmetic
+    unit and storage system except for the use of junction
+    transistors in the amplifiers associated with the storage
+    system point contact types are used throughout out of a total
+    of point contact transistors junction transistors and crystal
+    diodes three point contact units have failed in seven months of
+    daily operation no selection of transistors is required the
+    total power consumption is

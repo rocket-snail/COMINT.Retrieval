@@ -1,0 +1,4 @@
+an electronic differential analyser equations are derived
+    to show the effect of errors due to co circuit elements and
+    some experimentally obtained solutions are compared with
+    calculated values

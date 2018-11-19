@@ -1,0 +1,5 @@
+synthesizing crystal stability the output from two
+    crystal oscillators combined to give a beat frequency is
+    squared and triggers a blocking oscillator producing a pulse
+    which is used to quench a tunable oscillator the tunable
+    oscillator locks to harmonics of the signal

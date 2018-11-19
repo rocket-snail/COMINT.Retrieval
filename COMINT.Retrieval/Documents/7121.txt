@@ -1,0 +1,11 @@
+the automated authority file at the national library of
+    canada. outlines the need for authority files' despite the use
+    of compatible marc formats and cataloguing rules, and of
+    complex coding, further standardisation is needed to accurately
+    ensure the collection function in a large file, but which
+    permits flexibility in local usage and in cataloguing products.
+    describes' the background of the national library of canada
+    authority subsystem; the batch-mode authority subsystem
+    currently in operation; bibliographic products and services;
+    and problems and benefits of national and international
+    networks.

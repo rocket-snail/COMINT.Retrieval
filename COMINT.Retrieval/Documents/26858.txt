@@ -1,0 +1,4 @@
+transient response of grounded emitter switching circuits
+    analysis of the effects of collector capacitance and load
+    resistance a ramp input voltage is assumed which is close to
+    the practical case than a step function

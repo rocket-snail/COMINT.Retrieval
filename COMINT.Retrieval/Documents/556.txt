@@ -1,0 +1,14 @@
+the scattering of a scalar wave by a semi infinite of rod
+    of circular cross section analysis indicates that for a wave
+    incident along the axis of the rod and assuming zero variation
+    of field with distance at the end surface corresponding to the
+    case of sound waves incident on a rigid rod the scattering
+    coefficient is for where k is the wave number and a is the
+    radius of the rod graphs show the variation of the average
+    pressure amplitude on the end of the rod and of the scattering
+    coefficient over the range the average pressure amplitude on
+    the end of the rod for other angles of incidence is calculated
+    an expression is derived for the scattered field when the field
+    at the surface is zero corresponding to the case of an aerial
+    when only the component of the electric field parallel to the
+    axis of the rod is considered

@@ -1,0 +1,4 @@
+a theorem on force free magnetic fields a variational
+    principle is proved which provides a more direct and
+    satisfactory approach than that given in of chandrasekhar and
+    woltjer

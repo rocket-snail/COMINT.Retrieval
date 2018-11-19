@@ -1,0 +1,7 @@
+the university of california's division of library
+    automation. located at berkeley, the division of library
+    automation receives bibliographic records in machine readable
+    form from campus libraries' cataloguing departments and
+    develops software to input and manage the data. it funds
+    retrospective conversion projects, maintains a computer centre
+    and is developing a telecommunications network.

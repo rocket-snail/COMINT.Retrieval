@@ -1,0 +1,6 @@
+quantum theory of magnetostriction of ferromagnetic
+    single crystals theory is developed for crystals with hexagonal
+    or cubic symmetry at low temperatures results indicate that
+    magnetostriction is connected with the magnetic interaction of
+    electrons and also give the temperature dependence of
+    magnetostriction constants in the case investigated

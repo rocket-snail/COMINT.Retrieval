@@ -1,0 +1,2 @@
+response of a capacitance resistance divider to the step
+    function exponential function and ramp function

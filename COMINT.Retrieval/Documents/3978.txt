@@ -1,0 +1,6 @@
+replacing sine wave sources with solid state inverters a
+    series magnetic amplifier f or a saturable reactor is used
+    following a solid state inverter to give a modified square wave
+    output such that the heater and direct voltages available are
+    the same as would be obtained from a sinusoidal ac
+    supply

@@ -1,0 +1,7 @@
+brillouin flow with thermal velocities a type of electron
+    flow in a constant magnetic field is described the beam of
+    electrons is supposed to be everywhere in thermal equilibrium
+    and the usual brillouin flow is found when the equilibrium
+    temperature tends to zero some considerations are put forward
+    bearing on the choice of a suitable beam temperature in
+    specific problems

@@ -1,0 +1,5 @@
+a tunable reactance type straight amplifier for the uhf
+    range an experimental variable capacitance amplifier tunable in
+    the range with a pump frequency of is described with a
+    bandwidth the noise figure is better than that obtainable with
+    a conventional earthed grid triode amplifier

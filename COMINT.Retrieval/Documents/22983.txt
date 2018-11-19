@@ -1,0 +1,9 @@
+parametric energy conversion in distributed systems
+    analysis of most types of travelling wave parametric amplifier
+    with little or no dispersion shows that no exponential
+    amplification at the fundamental frequency of an applied signal
+    is possible although the total n energy increases with distance
+    it is spread among a large number of frequency cross products
+    for the beam type system amplification of the fundamental
+    component may become possible as dispersion increases but a
+    more detailed analysis is required

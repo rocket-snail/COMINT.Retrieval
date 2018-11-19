@@ -1,0 +1,8 @@
+stability in negative feedback time bases the term double
+    stroking is applied to a condition in which alternate scanning
+    strokes are dissimilar this phenomenon is liable to occur
+    during starting and may continue indefinitely in any time base
+    where the initiation of flyback depends on the conditions
+    existing at the end of the scan and the flyback is maintained
+    linear the process is examined in detail for some typical
+    circuits

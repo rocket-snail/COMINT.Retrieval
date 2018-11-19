@@ -1,0 +1,4 @@
+force free coils and superconductors a discussion of the
+    prospects of building superconducting high field coils based on
+    a force free construction technique which are suitable for
+    operation in the range

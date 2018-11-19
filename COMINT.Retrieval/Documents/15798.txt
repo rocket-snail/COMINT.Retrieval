@@ -1,0 +1,5 @@
+engineering multistage diode logic circuits design of
+    computers using crystal diodes and transistors is discussed
+    transistor input circuits directly coupled to multistage logic
+    circuits may avoid the need for intermediate amplifier
+    stages

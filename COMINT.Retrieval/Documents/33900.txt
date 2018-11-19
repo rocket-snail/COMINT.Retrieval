@@ -1,0 +1,5 @@
+a decade frequency divider a divider developed for use
+    with a quartz crystal clock consists basically of a chain of
+    eccles jordan binary pairs whose overall division ratio has
+    been reduced by means of feedback a complete circuit diagram is
+    given

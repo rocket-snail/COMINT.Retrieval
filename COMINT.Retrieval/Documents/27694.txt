@@ -1,0 +1,4 @@
+observed field strength in te neighbourhood of the skip
+    distance examples of ray focusing due to the satellite crossing
+    the skip distance boundary are given the skip distance agrees
+    well with h values derived from ionograms

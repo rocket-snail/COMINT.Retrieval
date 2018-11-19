@@ -1,0 +1,15 @@
+automation in austrian libraries. paper presented at the
+    1st austrian-soviet seminar on the role of libraries in a
+    country's socio-economic and cultural life, held at the lenin
+    state library, 20-22 mar 79. describes an automated library
+    system adopted by the graz university library, selected to
+    carry out an automation project before the introduction of
+    computerisation in other austrian research libraries
+    administered by the federal ministry of science and research.
+    the system comprises a computerised issue system based on the
+    light pen and on-line cataloguing and searching. when the
+    system becomes fully operational throughout all libraries
+    concerned, the network will be divided by regions into smaller
+    units and each library will have its minicomputer. user
+    services will be improved by the possibility of information
+    retrieval through the large international data bases.

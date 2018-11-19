@@ -1,0 +1,10 @@
+the common collector transistor amplifier at carrier
+    frequencies formulae are derived for th af operating parameters
+    of the grounded collector common collector circuit the
+    variation of the transistor current amplification factor with
+    frequency is investigated the effect of operating conditions on
+    the cut off frequency ie the frequency ie the frequency at
+    which drops to of its af value is discussed modified formulae
+    are hence derived which are valid up to about experimental
+    results support the theory presented point contact npn junction
+    and early pnp alloy transistors were studied

@@ -1,0 +1,4 @@
+theory of superconducting contacts a generalization of
+    the bardeen cooper schrieffer theory of superconductivity for
+    the case of a position dependent energy gap and application to
+    several problems involving supercondu ting contacts

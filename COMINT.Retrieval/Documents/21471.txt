@@ -1,0 +1,3 @@
+using voltage variable capacitors in modulator design
+    circuits and design equations are given for phase and frequency
+    modulators and for ssb amplitude modulators

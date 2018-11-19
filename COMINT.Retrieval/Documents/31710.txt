@@ -1,0 +1,6 @@
+the group velocity of damped waves the group velocity is
+    shown to be equal to where is the component of the poynting
+    vector along the direction of propagation and w the energy
+    density the electromagnetic energy and group velocities are
+    calculated for a simple medium a plasma and a dielectric with
+    bound electrons

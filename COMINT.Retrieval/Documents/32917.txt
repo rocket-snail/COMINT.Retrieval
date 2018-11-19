@@ -1,0 +1,4 @@
+fast coincidence circuits using avalanche transistors the
+    circuit described has a resolution time of and an efficiency of
+    results of tests made with a pulse generator and a pair of
+    photomultipliers are reported

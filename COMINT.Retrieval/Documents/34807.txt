@@ -1,0 +1,4 @@
+simplified design of resonant notch filters for servo
+    applications data are given in graphical form for the design of
+    stagger tuned constant band stop filters applications to error
+    rate damping in servo systems are discussed

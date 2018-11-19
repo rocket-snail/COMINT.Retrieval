@@ -1,0 +1,5 @@
+stability limits for third order servomechanisms curves
+    are derived giving directly the roots and coefficients of
+    specified cubic characteristic equations their use in
+    facilitating analysis and design of servo systems is explained
+    and illustrated

@@ -1,0 +1,2 @@
+extension of the spin wave theory of ferromagnetism to
+    higher temperatures

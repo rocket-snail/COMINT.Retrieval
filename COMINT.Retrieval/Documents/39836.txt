@@ -1,0 +1,6 @@
+the frequency dependence of ionospheric absorption the
+    total absorption was formerly expressed as a function of
+    nondeviative d layer plus deviative e layer absorption the
+    expression has been modified to include the effect of a thin e
+    layer experimental data are discussed in the light of the new
+    theory

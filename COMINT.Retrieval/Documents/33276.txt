@@ -1,0 +1,6 @@
+pulse scaler circuit with high resolving power a circuit
+    with a resolving time of is based on a step by step capacitor
+    charge and a rapid discharge process the scaling factor can be
+    varied from without loss of stability as a frequency divider
+    the circuit is limited to the range input pulses must be at
+    least peak to peak

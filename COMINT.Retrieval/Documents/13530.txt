@@ -1,0 +1,8 @@
+high q coupled tuned circuits by means of a set of
+    expressions developed as functions of a frequency ratio some
+    aspects of inductively coupled high q resonant circuits are
+    analysed considerations of finite very high q circuits lead to
+    simple relations determining impedance characteristics of a
+    fundamental system resonant frequencies rate of frequency
+    deviation input conductance stored energy and power dissipation
+    ratios

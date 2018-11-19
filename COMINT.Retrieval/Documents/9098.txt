@@ -1,0 +1,12 @@
+towards establishment of compatibility between indexing
+    languages. outlines previous work done in the field of
+    compatibility between indexing languages (il), and describes
+    the scope, limitations and advantages of establishing
+    compatibility between il. suggests methods for verbal
+    comparisons between il as well as generation of an alphabetical
+    comparison matrix mi. conceptual comparisons however, demand a
+    conceptual reorganisation of mi into a compatibility matrix m2
+    with its two alternatives, namely a system-related matrix m3
+    and a hierarchical matrix m4. describes the use of a
+    compatibility matrix, and discusses some organisational
+    problems.

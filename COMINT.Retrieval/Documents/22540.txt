@@ -1,0 +1,4 @@
+relization of alternating current resistance methods of
+    realizing resistance functions by arrangements of the partial
+    fractions or the continued fractions type are described
+    possible arrangements are shown in two tables

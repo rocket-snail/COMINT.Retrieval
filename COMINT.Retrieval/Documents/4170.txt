@@ -1,0 +1,6 @@
+single stage phase shift oscillator a method of design is
+    developed in which the phase shifting network contains an
+    arbitrary number of rc or cr cells and the value of the first
+    series impedance is half that of the others simple formulae are
+    derived for the network impedance and oscillation
+    frequency

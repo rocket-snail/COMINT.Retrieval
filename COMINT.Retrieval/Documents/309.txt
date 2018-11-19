@@ -1,0 +1,9 @@
+equipartition of energy and local isotropy in turbulent
+    flows homogeneous turbulence was produced experimentally and
+    experiments showed that the turbulence became isotropic at a
+    faster rate than equipartition of energy occurred other
+    experiments where approximately isotropic turbulence was
+    subjected to deformation indicated that even at high reynolds
+    number the deformation in a shear flow can cause anisotropy the
+    connection of the investigation with turbulent flows in general
+    is discussed

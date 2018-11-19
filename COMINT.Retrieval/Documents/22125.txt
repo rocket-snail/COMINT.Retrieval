@@ -1,0 +1,9 @@
+rigorous, systematic approach to automatic data editing
+    and its statistical basis. automatic data editing is the
+    computerised identification and correction of data errors.
+    these techniques can provide error statistics that indicate the
+    frequency of various types of data errors, diagnostic
+    information that aids in identifying inadequacies in the data
+    collection system, and a clean data base appropriate for use in
+    further decision making, in modelling, and for inferential
+    purposes.

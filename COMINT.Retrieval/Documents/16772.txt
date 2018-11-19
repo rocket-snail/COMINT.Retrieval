@@ -1,0 +1,14 @@
+the northwestern africana project' an experiment in
+    decentralized bibliographic and authority control. the
+    northwestern africana project was designed to demonstrate that
+    a system of decentralised bibliographic-control centres could
+    be an effective method for building a comprehensive, consistent
+    national data base for use in a national library network.
+    utilising funding granted by the national endowment for the
+    humanities and by the carnegie corporation, northwestern
+    university, illinois, sought to show that a high-quality data
+    base, that is, one that conforms to library of congress
+    cataloguing standards and heading usage, could be prepared and
+    maintained at a location remote from lc. the data base would be
+    transmitted to a central location for incorporation into a
+    common data base and for distribution.

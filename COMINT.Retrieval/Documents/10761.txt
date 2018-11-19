@@ -1,0 +1,6 @@
+the propagation of centimetric electromagnetic waves in
+    an absorbing medium of parallel wires experimental and
+    theoretical investigation of the attenuation and wavelength of
+    a plane wave in an artificial dielectric consisting of
+    infinitely long parallel thin poorly conducting wires forming a
+    regular rectangular lattice

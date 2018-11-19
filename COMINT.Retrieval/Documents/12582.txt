@@ -1,0 +1,6 @@
+radio frequency breakdown controlled by drift of
+    electrons in an inhomogeneous magnetic field measurements of
+    breakdown rf electron field versus magnetic field were made at
+    pressures between and in and the breakdown field varied as the
+    inverse square root of the magnetic field as predicted by
+    theory

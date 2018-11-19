@@ -1,0 +1,12 @@
+state public scientific and technical library of the
+    ussr. automation of library procedure as a means of raising
+    efficiency of libraries. paper presented at the conference of
+    cooperative librarians & documentation officers, moscow,
+    oct 80. since 1976 an automated system has been under
+    development in the state public scientific and technical
+    library of the ussr, covering all basic library procedures,
+    from acquisitions to subscriber services. it is also planned to
+    automate the maintenance of a card index of readers, and card
+    indexes of particular reference solutions. it is felt that the
+    automation will substantially increase the library's
+    efficiency.

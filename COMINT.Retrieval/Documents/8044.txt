@@ -1,0 +1,12 @@
+lack of standardization of the journal title data element
+    in databases. the problem of data element representation is
+    more extensive than most perceive. the number of standards
+    (internal, national, and international) is large, but the use
+    of standards in data bases is not widespread. the result is a
+    significant lack of standardisation both within and across data
+    bases. the result becomes apparent when one attempts an
+    exhaustive search on a particular data element in multiple data
+    bases. the journal title element was studied in 8 data bases,
+    and 4 measures were developed to show the extent of
+    standardisation within a data base and some of its implications
+    for searching.

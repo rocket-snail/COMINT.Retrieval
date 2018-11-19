@@ -1,0 +1,2 @@
+calculation of fields on plasma ions by collective
+    coordinates

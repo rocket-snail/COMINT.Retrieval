@@ -1,0 +1,7 @@
+theory of electroluminescence on the basis of the
+    threshold value of the field necessary to excite luminescence
+    the following three possible mechanisms are discussed direct
+    ionization of impurity systems by the field acceleration of
+    conduction electrons or valence band holes to velocities
+    sufficient to produce excitation by inelastic collisions
+    injection of charge carriers

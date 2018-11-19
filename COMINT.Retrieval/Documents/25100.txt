@@ -1,0 +1,4 @@
+varistor network controls voltage tuned oscillator an af
+    phase shift oscillator with varistors as the variable elements
+    has almost constant output over a range of and low harmonic
+    distortion

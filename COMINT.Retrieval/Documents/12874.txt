@@ -1,0 +1,7 @@
+effectiveness of two step smoothing in digital control
+    computers the use of a digital computer as an element in a
+    control system to smooth observational data is discussed
+    analysis is presented for a two stage system in which the first
+    stage has a high data handling rate and short smoothing time
+    while the second has a low data handling rate and a long
+    smoothing time

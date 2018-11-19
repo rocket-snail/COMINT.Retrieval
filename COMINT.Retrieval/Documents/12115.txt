@@ -1,0 +1,14 @@
+codata' meeting the needs of the scientific community.
+    paper presented at the 54th aslib annual conference information
+    '81' forecasts and realities, oxford university, uk, 22-25 sept
+    81. describes the structure and work of codata (committee on
+    data for science and technology), which was established in 1966
+    as a committee of the international council of scientific
+    unions. its aims are to improve the quality, reliability and
+    accessibility of data of importance to science and technology,
+    including information on the properties and behaviour of
+    matter, and other experimental and observational data. codata
+    keeps physical constants under review, publishes guides to the
+    presentation of scientific data and directories of data sources
+    and organises training courses and conferences on data
+    topics.

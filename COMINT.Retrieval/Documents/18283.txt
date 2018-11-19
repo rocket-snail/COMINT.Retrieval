@@ -1,0 +1,5 @@
+kerosene cooled transistors the temperature rise in the
+    contact regions of a point contact transistor is considerably
+    reduced by circulating kerosene around the junctions
+    circulation is maintained by the natural convection currents
+    set up

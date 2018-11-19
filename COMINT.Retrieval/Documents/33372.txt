@@ -1,0 +1,3 @@
+video amplifier design using the pcl optimum gain is
+    achieved by the use of anode compensation bias methods for this
+    condition are discussed

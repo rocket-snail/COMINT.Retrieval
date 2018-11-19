@@ -1,0 +1,4 @@
+a calculation of switching functions as a means of
+    minimizing error in an on off control system adaptive switching
+    functions are discussed and the principles illustrated on a
+    mathematical model of an ideal servomechanism

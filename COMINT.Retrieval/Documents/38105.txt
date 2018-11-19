@@ -1,0 +1,3 @@
+blocking oscillator circuit for very short pulses of high
+    repetition frequency the design of a double triode circuit is
+    given which is capable of generating pulses

@@ -1,0 +1,5 @@
+resonances of a microwave cavity partially filled with a
+    plasma the resonance characteristics of a cavity containing a
+    cold plasma of arbitrarily large density are studied
+    theoretically and experimentally in addition to the modes of an
+    empty cavity a new class of modes is found

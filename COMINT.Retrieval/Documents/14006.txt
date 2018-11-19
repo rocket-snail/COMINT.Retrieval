@@ -1,0 +1,7 @@
+temperature dependence of ferromagnetic anisotropy in
+    cubic crystals theories advanced by zener and by van vleck are
+    reconciled they afford respectively low and high temperature
+    approximations to the same physical picture namely an
+    anisotropy decreasing with rising temperature due to
+    statistical fluctuations from alignment of anisotropically
+    coupled neighbour spins

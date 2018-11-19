@@ -1,0 +1,5 @@
+a low level linear rundown circuit for pulse height to
+    pulse width conversion a two transistor device consisting of a
+    constant current generator and an emitter follower circuit is
+    described experimental and theoretical analysis of the circuit
+    are in good agreement

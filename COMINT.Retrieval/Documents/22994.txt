@@ -1,0 +1,4 @@
+critical frequency refractive index and cone of escape in
+    the solar corona nomograms give refractive index governing
+    radio propagation in the solar corona and the semivertical
+    angle of the cone of escape

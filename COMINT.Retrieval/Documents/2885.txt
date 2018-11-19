@@ -1,0 +1,6 @@
+on the question of quantum effects in the interaction of
+    electrons with high frequency fields in resonators it is shown
+    that the quantum effect corresponds to the interaction of
+    electrons with a neutral oscillatory field in the resonator
+    methods of quantum mechanics are avoided by using the nyquist
+    formula

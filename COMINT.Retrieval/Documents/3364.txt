@@ -1,0 +1,7 @@
+amplitude stability in oscillating systems as a
+    supplement to the kryloff and bogoliuboff method of determining
+    amplitude of oscillation in quasilinear systems a method based
+    upon energy balance is presented from the energy balance
+    condition a criterion for stability of oscillation is deduced
+    for the case of one degree of freedom the treatment is then
+    generalized to systems of n degrees of freedom

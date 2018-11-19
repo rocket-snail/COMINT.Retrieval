@@ -1,0 +1,4 @@
+half adders drive simultaneous computer a combination of
+    transistorized half and full adders emitter followers output
+    amplifiers and multiplier gates provides simultaneous binary
+    addition of digital inputs

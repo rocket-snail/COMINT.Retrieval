@@ -1,0 +1,5 @@
+temperature stability of transistor class b amplifiers
+    this is discussed generally and in relation to three types of
+    circuit commonly used graphical design methods for achieving
+    optimum stability are developed and comparative practical
+    results are given

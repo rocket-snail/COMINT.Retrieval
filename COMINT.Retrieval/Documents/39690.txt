@@ -1,0 +1,11 @@
+altered keyword in context (akwic) indexing. the
+    definition of kwic index, its origin and the method of
+    production is described. it is stressed that continuity of the
+    context at the extreme edges should be maintained whenever the
+    beginning or the end of a title forms part of a kwic entry. a
+    modification in the output format of the kwic index which can
+    be termed the 'altered kwic' or akwic index, has been
+    suggested. advantages of akwic over kwic are mentioned. some of
+    the limitations of kwic and akwic are pointed out. it is
+    suggested that adoption of kwic index by indian periodicals and
+    organisations should be encouraged.

@@ -1,0 +1,9 @@
+an expertise based energy information system. describes
+    an intelligent decision support system for information on
+    petroleum resources and use currently being designed by the
+    information methodology research project as the 1st step in the
+    development of a comprehensive intelligent information system
+    for dealing with energy resources in the us. the system draws
+    on artificial intelligence technology both in the design of the
+    reasoning and representation components and in the computer
+    language. report not available from ntis.

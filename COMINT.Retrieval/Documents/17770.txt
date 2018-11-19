@@ -1,0 +1,4 @@
+generalized ionization formula for a plasma a formula is
+    derived which includes as special cases sahas equation the gas
+    cloud ionization formula and the solar corona ionization
+    equation

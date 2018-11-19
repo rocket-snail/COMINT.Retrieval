@@ -1,0 +1,6 @@
+frequency components in the output of a harmonic
+    generator driven by the sum of two sine waves a frequency
+    analysis is given for the output of a generator which emits a
+    constant amplitude pulse at each zero crossing of the input
+    voltage consisting of the sum of two sine waves raised to an
+    arbitrary dc level

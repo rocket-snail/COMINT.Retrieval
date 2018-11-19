@@ -1,0 +1,4 @@
+a new asymmetric push pull amplifier with extremely low
+    internal impedance an output amplifier circuit is described in
+    which the phase splitting triode is incorporated in one of the
+    push pull arms

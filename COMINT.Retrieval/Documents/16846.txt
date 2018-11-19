@@ -1,0 +1,8 @@
+the electrically short antenna as a probe for measuring
+    free electron densities and collision frequencies in an ionized
+    region the in integral equation method is used to obtain
+    expressions for the admittance of an electrically short centre
+    driven dipole or base driven monopole when immersed in a
+    conducting dielectric the conductivity and permittivity of the
+    medium can be calculated from measurements of the admittance of
+    the aerial immersed in the medium and in air

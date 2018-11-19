@@ -1,0 +1,6 @@
+new types of dc amplifier the cascade balance system owen
+    prinz method of zero drift correction is applied to the first
+    of two identical amplifier stages the residual drift is then
+    balanced against that of the second stage the overall drift is
+    reduced times as compared with the parallel balance system a
+    practical design is fully discussed

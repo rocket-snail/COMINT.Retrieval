@@ -1,0 +1,3 @@
+microstrip kit note of a commercially available set of
+    microstrip components permitting rapid construction of circuits
+    for operation in the frequency range

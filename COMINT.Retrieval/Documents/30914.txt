@@ -1,0 +1,10 @@
+the effect of interpretive techniques on functional
+    design of computers analysis of the programmes for a number of
+    computations performed by the computer indicates the
+    feasibility of designing an adaptable and reliable computer
+    having only a relatively small amount of rapid access erasable
+    store and a larger amount of rapid access non erasable store in
+    which would be held all interpretation routines function block
+    ets the operator would require no knowledge of the actual
+    machine code but wou d place his hyper programmes and data into
+    a slow speed backing store

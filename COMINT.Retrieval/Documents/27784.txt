@@ -1,0 +1,4 @@
+capture and recapture of electrons in phosphorescence the
+    relative importance of these phenomena is discussed and the
+    mechanisms with which they are associated in phosphorescence
+    decay are analysed

@@ -1,0 +1,12 @@
+the theory of the anomalous skin effect in anisotropic
+    metals the theory of the anomalous skin effect in metals is
+    extended to a uniaxial metal crystal containing two energy
+    bands in each of which the energy surfaces are ellipsoids of
+    revolution about the crystal axis explicit formulae are
+    obtained for the extreme anomalous limit giving the dependence
+    of the surface impedance on the orientation of the crystal axis
+    both for a plane metal surface and for a circular wire the
+    results are evaluated numerically for tin and the surface
+    conductivity of a circular wire is found to show the minimum
+    observed by pippard of the parameters can be chosen to give
+    reasonable agreement with pippards results

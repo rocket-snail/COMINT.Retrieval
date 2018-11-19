@@ -1,0 +1,6 @@
+parallel connected magnetic amplifier a mathematical
+    analysis of parallel connected magnetic amplifiers with an
+    inductive and capacitive load is presented the analysis is
+    based on the representation of the normal magnetization curve
+    of the core material by polynomials of thiod and fifth degree
+    respectively

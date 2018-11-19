@@ -1,0 +1,8 @@
+materials for optical storage' a state-of-the-art survey.
+    the ideal specifications of recording material for optical data
+    storage systems are discussed, with particular reference to
+    cost, availability and toxicity. consideration is given to
+    various types of materials known to be under development' thin
+    metal films, organic dyes, metal-impregnated polymers,
+    photographic film, electrophotographic materials, photochromics
+    and magneto-optics.

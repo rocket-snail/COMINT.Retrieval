@@ -1,0 +1,5 @@
+application of junction transistors to carrier frequency
+    computing amplifiers a discussion of the properties required by
+    a transistorized summing amplifier in a carrier frequency
+    analogue computer details are given of a practical amplifier
+    using standard commercial transistors

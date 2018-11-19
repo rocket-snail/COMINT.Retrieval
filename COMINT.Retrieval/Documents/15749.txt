@@ -1,0 +1,11 @@
+the increase ie frequency bandwidth of thin four layer
+    absorbers for centimetre electromagnetic waves a type of
+    absorber is investigated which can be made thinner than one
+    thirty of the wavelength in free space if the dielectric
+    constant or permeability of the lossy material is independent
+    of frequency the effective bandwidth of the absorber decreases
+    with absorber thickness to obtain a thin absorber covering a
+    frequency range of ratio one two bielectric constant or
+    permeability would have to follow a frequency law of the type
+    given but no practical material is known which meets these
+    requirements

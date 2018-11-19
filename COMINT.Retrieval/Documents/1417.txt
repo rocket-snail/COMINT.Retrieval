@@ -1,0 +1,3 @@
+symmetric quadripoles further detailed description of the
+    transformation of symmetric quadripoles and the cascade
+    connection of bridge circuits to form filters

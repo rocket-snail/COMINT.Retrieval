@@ -1,0 +1,8 @@
+directional channel separation filters networks are
+    discussed which combine the properties of directional couplers
+    with those of conventional filters such networks are useful for
+    channel combining separating micro wave communication systems
+    and in installations where a single aerial is shared by several
+    systems designs using waveguides coaxial and strip lines and
+    lumped constant circuits are indicated the performance of some
+    experimental filters is described

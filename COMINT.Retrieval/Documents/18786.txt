@@ -1,0 +1,3 @@
+the diode reactance modulator a detailed analysis of the
+    control of current through a capacitor by one or more
+    diodes

@@ -1,0 +1,5 @@
+an extremely low noise six kmc s parametric amplifier
+    using gallium arsenide point contact diodes variation of excess
+    noise temperature with diode temperature has been measured a
+    range of values comparable to that for a maser has been
+    obtained

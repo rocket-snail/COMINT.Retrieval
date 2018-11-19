@@ -1,0 +1,6 @@
+electronic conduction in solids with spherically
+    symmetric band structure elastic scattering of electrons by
+    ionized impurities and inelastic scattering by the non
+    acoustical modes of the lattice vibrations in a homopolar
+    crystal are discussed for electrons whose energy is a
+    nonquadratic function of the wave number vector

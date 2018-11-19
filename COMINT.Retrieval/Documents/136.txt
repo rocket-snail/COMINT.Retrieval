@@ -1,0 +1,15 @@
+computer storage and retrieval of generic chemical
+    structures in patents. i. introduction and general strategy.
+    the strategy of an approach to representing and searching the
+    generic chemical formulas (markush formulas) typical of
+    chemical patents is outlined. the methods under development
+    involve the following stages' (1) the description of generic
+    chemical expressions by means of a formal language, gensal; an
+    approach to the generation and recognition of substituents or
+    radicals defined by generic nomenclatural expressions, via
+    formal grammars; (3) methods for automatic generation of screen
+    characteristics, individually and within the relational and
+    logical frameworks defined by generic formulas; (4) search
+    techniques for identification of specific structures and
+    substructures within generic formulas based on these
+    methods.

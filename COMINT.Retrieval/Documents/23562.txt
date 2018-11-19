@@ -1,0 +1,11 @@
+direct measurement of the ellipticity of the rf cotton
+    effect by the quarter wave method measurements were made using
+    a circular waveguide of diameter with an aerial at one end
+    connected to a klystron and a rotatable probe at the other end
+    two copper pins of lengths mm and mm respectively are fixed mm
+    apart in an axial insulator rod making angles of and
+    respectively with the direction of the electric field the
+    variation with wavelength of the plane of polarization and of
+    the degree of extinction obtainable are shown graphically it is
+    shown that the wave is elliptically polarized by inserting a
+    quarter wave unit to produce a linear polarization

@@ -1,0 +1,4 @@
+shhsrroposed technique for modulation f coherent light a
+    frequency shift of the coherent light output proportional to
+    the strength of an electric field applied to a ruby laser
+    provides a system for fm of the output

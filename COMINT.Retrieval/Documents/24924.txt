@@ -1,0 +1,4 @@
+transistor oscillator supplies stable signal colpitts
+    circuit employing one germanium transistor and one zener diode
+    operates from a laboratory regulated power supply to maintain a
+    sine wave voltage of precise amplitude

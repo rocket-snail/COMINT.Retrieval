@@ -1,0 +1,7 @@
+digital codes in data processing systems simple digital
+    correlator a description is given of a simple electronic
+    correlator which employs punched tape input and visual digital
+    readout code cathode counting tubes are used in the arithmetic
+    unit several basic design considerations are briefly discussed
+    and an outline is given of the recent application of the
+    correlator to a problem in meteor physics

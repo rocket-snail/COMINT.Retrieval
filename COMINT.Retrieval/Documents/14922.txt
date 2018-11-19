@@ -1,0 +1,7 @@
+a method of evaluating the intensity of radio signals
+    reflected from the surface of the moon propagation losses can
+    be determined by supposing that the reflected wave is formed
+    within the limits of the first fresnel half zone and taking
+    account of the curvature of the reflecting surface the method
+    provides a more accurate picture of the reflection
+    phenomena

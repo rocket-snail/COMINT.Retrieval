@@ -1,0 +1,6 @@
+the modification of wide band noise phenomena by linear
+    transmission systems for simple types of filters the distortion
+    of the power spectrum and autocorrelation function is
+    investigated with wide band noise as input relations between
+    parameters of classical and of statistical system theory are
+    derived

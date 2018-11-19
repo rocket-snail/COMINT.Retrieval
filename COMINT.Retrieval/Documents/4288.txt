@@ -1,0 +1,10 @@
+a controlled frequency oscillator with frequency memory
+    an arrangement is described in which a phase comparison afc
+    system is used to keep a first oscillator in tune with a second
+    pilot oscillator at a given instant the control loop is broken
+    thereafter the first oscillator continues to operate at the
+    frequency at the cut off instant and subsequent frequency
+    variations of the pilot oscillator are determined from
+    measurements of the phase difference between the two
+    oscillators a practical circuit which holds frequencies in a
+    band centered on is described

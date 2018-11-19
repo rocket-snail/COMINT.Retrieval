@@ -1,0 +1,2 @@
+runge-kutta integration (algorithm 9 [d2]) april, 1966
+    thacher jr., h. c. ca660403f jb march 23, 1978 7:21 pm

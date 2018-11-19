@@ -1,0 +1,5 @@
+the azimuth distribution of oblique reflections from
+    meteor trails and its relation to meteor radiant distributions
+    the measurements refer to a north south path the distribution
+    of radiants which best fits the observations is a heliocentric
+    distribution uniform over the celestial sphere

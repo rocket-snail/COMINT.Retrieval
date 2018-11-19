@@ -1,0 +1,3 @@
+nonlinear interband and plasma effects in solids the
+    theory takes into account the band properties of the crystal as
+    well as its symmetry

@@ -1,0 +1,5 @@
+possibility of production of negative temperature in gas
+    discharges the production of negative temperature by the
+    excitation of atomic levels is suggested and the difficulties
+    of obtaining sufficient excited atoms for maser action are
+    considered

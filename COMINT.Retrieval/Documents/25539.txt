@@ -1,0 +1,15 @@
+librarian performance in data processing centres. paper
+    presented at the 14th brazilian seminar on informatics and
+    library science, sao paulo, 16-23 oct 81, describing
+    interaction between librarians and data processing
+    professionals at the engineering school data processing centre
+    in the university of sao paulo, as a model for general
+    application in both university and business settings where
+    librarians work as part of a team of specialists. an analysis
+    is presented of librarian performance in library operations;
+    documentation of projects developed by the centre; support
+    activities for specialist teams; development of scientific and
+    technical information systems; personnel training; and
+    publications. draws attention to the need for library schools
+    to prepare librarians for a collaborative role in information
+    work.

@@ -1,0 +1,4 @@
+the work function and patch field of an irregular metal
+    surface calculations show that the lowering of the work
+    function due to irregularities of the surface is entirely
+    compensated by a patch field

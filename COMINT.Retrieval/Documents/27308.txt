@@ -1,0 +1,5 @@
+the general statistical problem in physics and the theory
+    of probability an extended discussion leads to the conclusion
+    that the problems of statistical physics in which the theory of
+    probability does not apply may be more important than those in
+    which it does

@@ -1,0 +1,12 @@
+information science' a bibliometric evaluation of the
+    information analysis concept. (phd thesis-boston university
+    graduate school.) explores the potential uses of citation
+    analysis for the documentation of an interdisciplinary concept
+    (information analysis), and in particular the use of citation
+    networks to identify the core literature and relationships
+    between key parameters. one objective was to demonstrate the
+    utility of readily available computer indexing programs to
+    perform citation analysis. the study is exploratory and based
+    on a small sample. suggests large-scale tests need to be
+    conducted using computer-based files and analysis
+    procedures.

@@ -1,0 +1,8 @@
+plessey launch module 4. plessey's module 4 is a
+    completely new real time library management system both in
+    terms of software and hardware. it uses a minicomputer with
+    2x300 megabyte disc drives which can accommodate a data base of
+    over 2 million items. 2 new terminals, a microprocessor
+    controlled circulation terminal and an enquiry vdu, have been
+    introduced. describes the circulation system, and book and
+    borrower queries.

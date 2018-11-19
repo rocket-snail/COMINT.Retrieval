@@ -1,0 +1,8 @@
+time constants in the geomagnetic storm effect an
+    estimate is made of the delay between formation of a ring
+    current round the earth and the occurrence of a geomagnetic
+    storm at ground level parker has estimated the delay as several
+    months but by taking proper account of the fluidity of the
+    medium and the presence of the main geomagnetic field the delay
+    is found to be small enough to be consonant with the ring
+    current theory of geomagnetic storms

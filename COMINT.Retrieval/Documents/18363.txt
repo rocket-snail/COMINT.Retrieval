@@ -1,0 +1,4 @@
+obtaining nondestructive read out with ferroelectric
+    memories the development and initial tests of a monomorphic
+    polycrystalline ba titanate storage cell used as a three or
+    four terminal device

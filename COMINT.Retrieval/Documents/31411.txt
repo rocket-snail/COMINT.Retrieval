@@ -1,0 +1,9 @@
+transistor oscillators the self oscillation conditions
+    and frequency deviation characteristics of a three point
+    transistor oscillator are derived by analogy with the retarding
+    field oscillator and a comparison is made with measured
+    characteristics of point contact and junction type transistor
+    oscillators various circuits are examined from the point of
+    view of suitability of application of the two types of
+    transistor the discussion is limited to the frequency range
+    below cut off

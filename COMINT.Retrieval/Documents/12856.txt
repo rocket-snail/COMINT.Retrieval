@@ -1,0 +1,9 @@
+electromagnetic shielding with transparent coated glass
+    the shielding effectiveness of multilayer plane glass
+    structures is investigated by determining their transmission
+    factor for plane em waves three types of glass are considered
+    at frequencies up to transmission line theory is used in the
+    analysis the coatings being represented by shunting resistances
+    theoretical and experimental results are compared attenuations
+    of db and more can be obtained with tolerable loss of
+    transparency

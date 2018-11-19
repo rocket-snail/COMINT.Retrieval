@@ -1,0 +1,8 @@
+ion production rate in an atmosphere of exponentially
+    rising temperature with height an expression is derived for the
+    height distribution of the ion production rate assuming that
+    temperature varies exponentially with height and also depends
+    on the solar zenith distance results are similar to those of
+    chapman for heights up to about in the f region the maximum
+    rate of ion production and the height at which it occurs vary
+    anomalously with solar zenith distance

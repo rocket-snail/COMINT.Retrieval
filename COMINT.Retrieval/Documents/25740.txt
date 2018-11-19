@@ -1,0 +1,4 @@
+junction transistor pulse forming circuits analysis of
+    integrating ad differentiating circuits using npn junction
+    transistors practical arrangements are illustrated for
+    obtaining sawtooth square and triangular pulses

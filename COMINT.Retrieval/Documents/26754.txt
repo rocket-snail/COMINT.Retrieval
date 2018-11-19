@@ -1,0 +1,11 @@
+measurement of the specific charge o conduction electrons
+    the theory of a method of determining by means of a special
+    dynamo is given the device comprises a pair of concentric coils
+    which together rotate with angular velocity about an axis
+    parallel to the applied magnetic field the rectangular inner
+    coil can also rotate about its own axis which is perpendicular
+    ot the magnetic field the two resulting in the inner coil are
+    due to induction and coriolis force acting on the conduction
+    electrons if these are equal then where is the velocity of
+    light and the magnetic field strength the estimated
+    experimental errors are not greater than

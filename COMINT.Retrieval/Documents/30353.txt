@@ -1,0 +1,5 @@
+the distortion of frequency modulated oscillations caused
+    by rc networks general remarks on distortion factors of filters
+    not accurately tuned to the carrier which have a skew symmetric
+    phase characteristic and a mirror symmetric amplitude
+    characteristic

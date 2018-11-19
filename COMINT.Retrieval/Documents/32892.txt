@@ -1,0 +1,4 @@
+ferroelectrics tune electronic circuits circuits are
+    described in which carying bias is used to change the
+    capacitance of ferroelectric capacitors used as tuning
+    elements

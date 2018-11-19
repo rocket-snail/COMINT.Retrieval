@@ -1,0 +1,4 @@
+experimental verification of parametric amplifier excess
+    noise using transformer coupling a method is described for
+    measuring noise temperature at frequencies where circulators
+    aoe not available

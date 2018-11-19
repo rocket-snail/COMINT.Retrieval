@@ -1,0 +1,5 @@
+a shifting register using ferroresonant flip flops an
+    arrangement is described in which the information can be
+    shifted in either direction depending on the polarity of the
+    shifting pulse consideration is given to design for operation
+    with supply frequencies in the mcs range

@@ -1,0 +1,4 @@
+bodes variable equalizer design procedure for ar an
+    equalizer in which the insertion loss characteristic can be
+    varied by the variation of one network element a thermistor is
+    developed from basic theory

@@ -1,0 +1,5 @@
+lines of force of the germagnetic freld in space the
+    lines of force from points in the northern hemisphere are
+    traced to the southern hemisphere using the first nine gauss
+    coefficients with particular reference to the auroral
+    zones

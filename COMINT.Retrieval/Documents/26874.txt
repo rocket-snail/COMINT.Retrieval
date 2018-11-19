@@ -1,0 +1,3 @@
+operational and storage life of silicon rectifiers
+    results are given of life test measurements of forward voltage
+    drop and reverse current

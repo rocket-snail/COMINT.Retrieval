@@ -1,0 +1,6 @@
+time dependent electron flow general relations are given
+    from which a single vector differential equation can be deduced
+    which determines all possible solutions in the case of a
+    constant uniform magnetic field the application of certain time
+    variant solutions of this equation to anomalous behaviour in
+    various magnetron type devices is considered

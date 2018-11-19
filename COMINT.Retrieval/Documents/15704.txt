@@ -1,0 +1,2 @@
+a low voltage stabilizer employing junction transistors
+    and a silicon junction reference diode

@@ -1,0 +1,8 @@
+a self indicating magnetic scaling system using electro
+    deposited nickel iron film cores details are given of a
+    magnetic decade scaling system in which direct count indication
+    is obtained by using the external magnetic fields of the
+    storage cores themselves with the electro deposition technique
+    described the difficulty of getting sufficiently close coupling
+    between the film and the associated driving and sense coils has
+    been overcome

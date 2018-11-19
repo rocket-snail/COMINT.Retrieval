@@ -1,0 +1,5 @@
+the use of polarization fading of satellite signals to
+    study the electron content and irregularities in the ionosphere
+    a ray tracing program and a model ionosphere have been used to
+    evaluate electron content refraction and where necessary path
+    splitting are taken into account

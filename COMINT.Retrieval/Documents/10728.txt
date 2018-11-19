@@ -1,0 +1,4 @@
+audio frequency comb filter details r are given of the
+    design of a mechanical system consisting o a stretched metallic
+    string for suppressing hum and associated harmonics in the
+    output of an af amplifier experimental results are noted

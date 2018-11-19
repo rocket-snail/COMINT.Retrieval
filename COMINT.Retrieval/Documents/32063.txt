@@ -1,0 +1,6 @@
+diffraction pattern in the plane of a half screen
+    measurements are briefly reported for the case of plane
+    polarized radiation incident normally on a half plane and
+    polarized parallel to the diffracting edge the results are
+    discussed in relation to a formula derived by andrews and the
+    observations of harden

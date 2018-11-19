@@ -1,0 +1,8 @@
+an analysis of transient response of junction transistor
+    amplifiers an exact solution of the one dimensional diffusion
+    equation is obtained by the method of laplaces transform the
+    short circuited output collector current is calculated for a
+    step input forcing function experimental results agree with the
+    theory and for ordinary conditions the physical process
+    underlying transistor transistor action must be diffusion of
+    minority carriers across the base region

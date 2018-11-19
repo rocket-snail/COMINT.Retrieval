@@ -1,0 +1,13 @@
+dipole resonant modes of an ionized gas column a
+    quasistatic treatment is used to show that numerous oscillation
+    modes are possible in a cylindrical column of ionized gas with
+    a rotationally symmetrical distribution of electron
+    concentration of electron concentration the theory provides a
+    qualitative explanation of the rf reflection of em waves
+    observed by romell of approximate values of the resonance
+    frequencies are calculated assuming a gaussian radial
+    distribution of electron concentration some of the results may
+    be verifiable by meteor trail echo observations an
+    investigation is also made of the finite energy loss and phase
+    shift shown by herlofson of and others to occur when the real
+    part of the dielectric constant vanishes

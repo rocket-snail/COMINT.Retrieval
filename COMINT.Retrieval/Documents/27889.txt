@@ -1,0 +1,8 @@
+a theoretical current density ansatz for the quiet day
+    solar semidiurnal tidal mode of oscillation of the ionosphere
+    theoretical expressions which embody the generalized
+    atmospheric dynamo mechanism of the origin of upper atmospheric
+    current systems are derived for the current density vector by
+    numerical integration methods approximate expressions may be
+    obtained for the current density over an ionized shell
+    concentric with the earth

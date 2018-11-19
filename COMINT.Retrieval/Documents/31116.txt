@@ -1,0 +1,9 @@
+computer storage and retrieval of generic chemical
+    structures in patents. 3. chemical grammars and their role in
+    the manipulation of chemical structures. a simple topological
+    chemical grammar is developed, and its possible applications to
+    the computer manipulation of chemical structures are discussed.
+    the generative and recognitive capabilities of the grammar are
+    illustrated by examples. concludes by identifying the role of
+    such capabilities in a generic (markush) structure search
+    system.

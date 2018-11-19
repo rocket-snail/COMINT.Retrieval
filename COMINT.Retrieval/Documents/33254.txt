@@ -1,0 +1,5 @@
+ultra low frequency oscillator a cr circuit using
+    resistors and polystyrene capacitors of moderate values is
+    described for obtaining oscillations at frequencies down to the
+    effective value of the resistance is increased by use of the
+    cathode follower effect

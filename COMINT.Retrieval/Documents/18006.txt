@@ -1,0 +1,4 @@
+testing the linear distortion of transmission systems by
+    means of rectangular pulses and application of this method for
+    explaining the differential equalization used in magnetic tape
+    equipment

@@ -1,0 +1,13 @@
+the versatile terminal. describes the experiences of the
+    industrial research laboratory of kodak ltd in finding and
+    providing a computer terminal most suited to its very varied
+    requirements. these requirements include bibliographic and
+    scientific data searching and access to a number of worldwide
+    computing services for scientific computing work. the provision
+    of a few additional facilities over and above the minimum
+    required has improved the search capabilities and increased
+    terminal utilisation in the laboratory. illustrates by examples
+    the use of the equipment, control of the terminal, and the
+    training of laboratory staff. also includes a discussion on how
+    and why the equipment installed was chosen. report not
+    available from ntis.

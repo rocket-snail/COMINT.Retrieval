@@ -1,0 +1,9 @@
+stability problems with low frequency amplifiers with
+    transformers in the feedback path measurements were made of the
+    attenuation and phase variation of typical push pull output
+    transformers over the frequency band outside the low frequency
+    band the phase variation was compared with that of a minimum
+    phase rotation network with the same attenuation variation the
+    results indicate the possibility of simplifying the stability
+    testing of the amplifier circuit by testing the transformer as
+    a minimum phase rotation network

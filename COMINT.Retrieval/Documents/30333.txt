@@ -1,0 +1,11 @@
+normalization of titles and their retrieval. the title
+    expressed by a noun phrase or clause is converted to a
+    function-expression by parsing. for retrieval with a reasonable
+    recall rate as well as a high precision rate, the
+    function-expression is transformed to a predicate-governor form
+    and then normalised to a standard form. various items are taken
+    from this and recorded in a hierarchical, tree-like inverted
+    file. to keep recall at a reasonable rate, several retrieval
+    stages are implemented based on the key-term and case-label
+    matching. retrieval is controlled by the preciseness of the
+    specification of case-labels for each key-term.

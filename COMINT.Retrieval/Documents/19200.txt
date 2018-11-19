@@ -1,0 +1,5 @@
+diffraction of a scalar wave by a slit and by a circular
+    aperture in a screen of arbitrary thickness an expression is
+    derived for the transmission coefficient and its variation as a
+    function of screen thickness and aperture size is
+    plotted

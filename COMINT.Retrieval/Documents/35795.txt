@@ -1,0 +1,8 @@
+a method for the measurement of the distance of radio
+    stars the method described depends on the absorption of the
+    radiation from the radio stars by interstellar hydrogen at a
+    frequency of about preliminary results are given for the two
+    intense sources in cygnus and cassiopeia the distance of the
+    former is parsecs that of the latter is probably between and
+    parsecs the uncertainty will be reduced when more accurate
+    measurements are made of the absorption spectrum

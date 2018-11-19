@@ -1,0 +1,6 @@
+negatively biased multivibrator description of a
+    multivibrator which has its grids returned to a negative bias
+    it has high frequency stability and is suitable for use as a
+    variable frequency source or a source of special wave shapes
+    and can be frequency modulated the frequency varies linearly
+    with bias voltage

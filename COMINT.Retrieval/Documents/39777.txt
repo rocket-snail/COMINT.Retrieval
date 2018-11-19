@@ -1,0 +1,4 @@
+rules for the verification of the stability of normal
+    linear negative feedback systems the stability criterion and
+    rules are formulated and the rules to polar diagrams and curves
+    of the system function is described

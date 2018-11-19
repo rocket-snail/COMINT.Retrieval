@@ -1,0 +1,5 @@
+the temperature and voltage dependence of the length of
+    life of capacitors the process of deterioration of the
+    dielectric material under various operating conditions is
+    discussed on a theoretical basis and with reference to life
+    tests on paper capacitors

@@ -1,0 +1,14 @@
+ohms law for build up phenomena in the case of pole
+    networks the laplace transformation is applied in the form of a
+    fourier integral of the input waveform doetschs symbolic
+    notation for asymmetrical transformations of is used and the
+    equality sign of ohms law is replaced by the doetsch
+    transformation sign the variation with time of a current
+    through a complex impedance is given by the laplace transform
+    product of the susceptance and the applied voltage spectrum
+    application of the transformation in quadripole theory is
+    described by formulating the quadripole equation in chain
+    matrix form transient response parameters can be roughly
+    estimated application of the theory to the determination of
+    transient distortion in communication systems and to the
+    stability testing of amplifiers is outlined

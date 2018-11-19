@@ -1,0 +1,4 @@
+clear method for the determination of transformer
+    equivalent circuit diagrams the electrical equivalent circuits
+    are derived directly from the magnetic equivalent circuit using
+    principles of circuit duality

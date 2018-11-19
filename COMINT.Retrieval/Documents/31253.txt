@@ -1,0 +1,3 @@
+tolerance limits in matching curves are given showing the
+    level of power transfer from source to load for various degrees
+    of mismatch

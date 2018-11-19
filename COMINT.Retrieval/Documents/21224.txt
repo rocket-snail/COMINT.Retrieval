@@ -1,0 +1,8 @@
+chapman behaviour in the lower ionosphere it is shown
+    that chapmans relations for the variation of critical frequency
+    and height of a layer with solar zenith angle can be applied to
+    any point on that layer and that it is not necessary to assume
+    monochromatic radiation these results are then applied to
+    electron density height profiles and it is shown that chapman
+    behaviour can be detected to a height of being consistent with
+    a scale height of or km

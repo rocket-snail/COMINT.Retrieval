@@ -1,0 +1,5 @@
+radiation and other environmental effects on satellites
+    transistor failure in a satellite spending an appreciable part
+    of its life in the inner van allen belt seems likely after
+    several years solar cells cannot be effectively protected from
+    hard radiation

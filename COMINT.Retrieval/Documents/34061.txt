@@ -1,0 +1,4 @@
+note on the geometry of the earth magnetic field useful
+    to faraday effect experiments a study of the factor cos sec
+    where and are the angles between a ray and respectively the
+    earths field and the vertical

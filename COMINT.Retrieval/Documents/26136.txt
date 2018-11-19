@@ -1,0 +1,8 @@
+determination of voltage current and magnetic field
+    distributions together with the self capacitance inductance and
+    hf resistance of single layer coils a theoretical investigation
+    is made which is applicable to coils of intermediate lengths
+    the number and magnitudes of the harmonics are calculated and
+    their effect on the self capacitance is indicated experimental
+    results obtained by other workers support the theoretical
+    results

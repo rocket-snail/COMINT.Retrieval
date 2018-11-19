@@ -1,0 +1,5 @@
+the analysis of sampled data systems the laplace and
+    fourier transform methods of analysis for sampled data systems
+    are unified and extended formulae representing the input output
+    relations of such systems in the frequency domain are
+    derived

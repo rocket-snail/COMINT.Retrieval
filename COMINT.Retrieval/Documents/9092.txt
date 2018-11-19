@@ -1,0 +1,5 @@
+an analog to digital converter for serial computing
+    machines a two stage process is used the analogue number being
+    first converted into a reflected binary or cyclic code number
+    which is then converted into the binary form as a time sequence
+    with the least significant digit first

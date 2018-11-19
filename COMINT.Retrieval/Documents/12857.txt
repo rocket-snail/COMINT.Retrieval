@@ -1,0 +1,8 @@
+semifinite terminated electric wave filters intended for
+    s use either as channel filters or to work between a finite
+    resistance at one end and a very high or very low impedance at
+    the other two design methods are presented one based on the
+    equivalent image parameter filter the other on norton and
+    darlingtons insertion loss procedure the minimum ratio of
+    terminating resistances lies between and for most
+    applications

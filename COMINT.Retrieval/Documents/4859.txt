@@ -1,0 +1,4 @@
+realization of a comb filter for the detection of pulse
+    signals in noise the use of comb filters in radar systems is
+    discussed and the results obtained on an experimental filter
+    system with up to seven pass bands are given

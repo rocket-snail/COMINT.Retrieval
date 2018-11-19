@@ -1,0 +1,4 @@
+magnetic converter dc amplifer the dc amplifier described
+    comprises a magnetic second harmonic converter followed by an
+    ac amplifier dc signals with power as low as can be
+    amplified

@@ -1,0 +1,4 @@
+developing computer-based library systems. aims to
+    provide practical guidance for the librarian, untrained in
+    systems development and possibly unfamiliar with computers, who
+    is responsible for developing a computer based system.

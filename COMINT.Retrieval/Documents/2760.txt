@@ -1,0 +1,4 @@
+logic synthesis of some high speed digital comparators
+    logical schemes are derived by boolean algebra methods circuits
+    satisfying the synthesis requirements and giving either exact
+    or approximate proportional comparison are described

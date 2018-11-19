@@ -1,0 +1,4 @@
+deflection of high energy electrons in magnetized iron
+    the effective magnetic field acting on electrons traversing a
+    ferromagnetic medium is shown by experiments to be equal to the
+    flux density

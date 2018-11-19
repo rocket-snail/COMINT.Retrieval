@@ -1,0 +1,3 @@
+dual frequency oscillator design basic design details are
+    given of circuits in which hartley and colpitts oscillators are
+    combined

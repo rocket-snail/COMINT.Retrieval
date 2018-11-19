@@ -1,0 +1,5 @@
+computers and automata recent developments in the field
+    of automata and non numerical computers are reviewed some
+    typical machines including games playing machines are described
+    a comparison is made between the operation of computers and of
+    the brain

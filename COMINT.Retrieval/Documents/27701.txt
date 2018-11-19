@@ -1,0 +1,3 @@
+a scalar representation of electro magnetic fields ghves
+    transformation properties and the physical energy momentum
+    tensor appropriate to green and wolfs theory

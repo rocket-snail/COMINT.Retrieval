@@ -1,0 +1,5 @@
+breakdown of silicon power rectifiers a description of a
+    type of breakdown which can occur when si junction rectifiers
+    are used in series to rectify a high frequency hv supply the
+    cause was traced to minority carrier storage effects and
+    methods of overcoming it are described

@@ -1,0 +1,5 @@
+radiation produced by the transit of charged particles
+    near ideally conducting bodies expressions are obtained for the
+    energy and radiation spectrum the excitation of oscillations by
+    electrons entering a circular waveguide from an open half space
+    is discussed

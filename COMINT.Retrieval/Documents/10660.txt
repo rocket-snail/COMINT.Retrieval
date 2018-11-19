@@ -1,0 +1,5 @@
+circuit designers improve practical applications of solid
+    state devices a review of some of the low noise amplifiers and
+    microwave power sources using solid state masers tunnel diodes
+    and varactors featured at the solid state circuits conference
+    philadelphia

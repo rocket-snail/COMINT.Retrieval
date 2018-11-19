@@ -1,0 +1,7 @@
+bild-integrated online system for economic and business
+    libraries. bild, bibliographic index of library documents is
+    the new integrated on-line system developed for the helsinki
+    school of economics library. it consists of the acquisition,
+    cataloguing and classification functions of the library. there
+    is also a search program for information retrieval available.
+    the system was tested during the winter 1980-81.

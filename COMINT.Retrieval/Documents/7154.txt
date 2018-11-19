@@ -1,0 +1,3 @@
+a simple technique for coding differential equations
+    november, 1960 sefton, p. vaillancourt, r. ca601115 jb march
+    20, 1978 6:57 pm

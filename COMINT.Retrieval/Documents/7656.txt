@@ -1,0 +1,9 @@
+nonlinear distortion and stability of reflex circuits two
+    single valve and three two valve crystal detector reflex
+    amplifier circuits are discussed the coefficient of non linear
+    distortion is calculated for the various circuits and the
+    results are plotted as a function of the parameter the relative
+    change of slope of the curve from the value at the working
+    point due to the applied signal can theoretically be made zero
+    by using a pair of identical valves in the circuit shown in the
+    stability criteria are also discussed

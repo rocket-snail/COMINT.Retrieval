@@ -1,0 +1,6 @@
+relation between virtual and actual heights in the
+    ionosphere a mathematical discussion of the various methods of
+    determining the distribution of electron density with height in
+    the ionosphere and a treatment of the comparison and integral
+    methods an annotated bibliography with references is
+    given

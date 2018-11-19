@@ -1,0 +1,3 @@
+physical versus logical coupling in memory systems an
+    evaluation is made of the optimum size of cell for maximum
+    information storage

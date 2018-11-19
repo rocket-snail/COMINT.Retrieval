@@ -1,0 +1,6 @@
+the dielectric theory of electronic interactions in
+    solids the long range part of the coulomb interaction of the
+    electrons in solids is treated by regarding the solid as a
+    homogeneous dielectric sustained oscillations are shown to be
+    possible in metals and are identified with the plasma
+    oscillations discussed by bohm and pines

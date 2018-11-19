@@ -1,0 +1,5 @@
+determination of the true distribution of electron
+    density in the ionosphere part a survey leads to the conclusion
+    that existing methods of investigating the electron density
+    distribution are either too inaccurate or too complicated for
+    routine use

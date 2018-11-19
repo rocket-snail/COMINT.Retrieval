@@ -1,0 +1,12 @@
+reports for the integrated library system (ils). the
+    document presents a series of reports developed for the
+    circulation module of the integrated library system (ils). the
+    ils is a minicomputer-based library system being developed by
+    the lister hill national center for biomedical communications
+    at the national library of medicine for use in medium-sized
+    libraries. the reports include correspondence related to
+    circulation, bibliographies, and management reports. each
+    chapter in this document discusses a specific type of
+    report-the structure and use by the library administrator. for
+    each report, data elements are noted and alternative formats
+    provided.

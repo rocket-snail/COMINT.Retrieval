@@ -1,0 +1,11 @@
+the design of linear phase low pass filters discussion
+    general design principles are outlined and a method applicable
+    to certain low pass filters required in television equipment is
+    described adequate phase linearity of response can be obtained
+    over the whole pass band only by limiting the discrimination
+    required in the attenuation region of the insertion loss
+    characteristic practical examples include a set of low pass
+    filters with linear phase characteristics from zero nearly to
+    their cut off frequencies which range from to an asymmetric
+    sideband filter with a cut off frequency of and phase linearity
+    from to with discrimination above

@@ -1,0 +1,4 @@
+transistors in audio and carrier frequency amplifiers the
+    characteristics of common emitter transistor amplifiers in
+    relation to requirements for communication systems are
+    discussed

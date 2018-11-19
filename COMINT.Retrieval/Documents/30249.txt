@@ -1,0 +1,6 @@
+the absorption of electromagnetic waves in a wide
+    frequency range by a thin homogeneous layer with losses the
+    frequency bandwidth of absorbers using a single homogeneous
+    lossy layer is investigated for conditions of vertical
+    incidence with a very thin layer it is possible to achieve a
+    frequency coverage over a range of

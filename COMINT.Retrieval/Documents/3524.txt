@@ -1,0 +1,3 @@
+calculations for ferroxcube pot cored coils a method of
+    calculating core dimensions and windings is presented giving
+    results accurate to within

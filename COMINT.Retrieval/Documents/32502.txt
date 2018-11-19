@@ -1,0 +1,7 @@
+on the reflection and refraction of hydromagnetic waves
+    in ionized gas reflection and refraction of hydromagnetic waves
+    at a plane boundary between two semi infinite homogeneous media
+    of anisotropic electrical conductivity are considered for the
+    case of a steady uniform magnetic field perpendicular to the
+    plane difficulties in obtaining solutions when the field is at
+    other angles are demonstrated

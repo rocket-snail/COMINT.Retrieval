@@ -1,0 +1,5 @@
+the quadratic invariances of a generalized network in
+    systems where the matrix operator has eigenvalues which are
+    unity or can be taken in reciprocal conjugate pairs the number
+    of invariant quadratic forms is at least equal to the number of
+    degrees of freedom

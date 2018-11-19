@@ -1,0 +1,4 @@
+servomechanism analysis gives the mathematical background
+    for the analysis and design of servomechanisms including a
+    clear introduction to the theory of laplace
+    transformations

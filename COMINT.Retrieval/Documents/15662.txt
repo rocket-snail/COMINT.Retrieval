@@ -1,0 +1,9 @@
+the evaluation of ionospheric observations a critical
+    discussion of the various methods used in calculating the
+    height distribution of the charge carrier concentration and
+    other parameters from experimentally determined hf curves the
+    corrections and the estimation of errors in the calculated f
+    layer height in the presence of an e layer and the effect of
+    neglecting the e layer in this calculation are discussed an
+    approximate method is indicated for taking the geomagnetic
+    field into account

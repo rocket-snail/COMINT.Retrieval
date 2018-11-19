@@ -1,0 +1,5 @@
+weighting functions for time varying feedback systems
+    technique is presented for analysing the response of a linear
+    time varying system to a step function input using an analogue
+    computer the method involves synthesis of the adjoint
+    system

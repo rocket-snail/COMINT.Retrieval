@@ -1,0 +1,4 @@
+analysis and design of a transistor linear delay circuit
+    an analysis of the emitter coupled linear delay circuit is
+    given maximum to minimum output pulse width ratios of several
+    hundred have been obtained

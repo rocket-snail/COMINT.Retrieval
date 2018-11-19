@@ -1,0 +1,3 @@
+a two electron example of ferromagnetism the method of
+    dealing with problems of ferromagnetism on the basis of energy
+    band theory vol is applied to a simple case

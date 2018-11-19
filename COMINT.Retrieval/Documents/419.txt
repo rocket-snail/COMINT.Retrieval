@@ -1,0 +1,4 @@
+a travelling wave harmonic generator a scheme is outlined
+    in which a series of delay line outputs displaced in phase
+    relative to one another are combined to deliver pulsed power at
+    a predetermined harmonic of the input frequency

@@ -1,0 +1,4 @@
+the graphical determination of the geometrical parameters
+    of loss free linear quadripoles the methods described
+    previously are applied to determine the iterative impedance and
+    iterative transfer constants

@@ -1,0 +1,5 @@
+the effective separation of discharging points the
+    effective separation ie that spacing of points in rectangular
+    array which would give the same current density as actually
+    occurs with an earth connected point in discharges o of
+    atmospheric electricity is m for high field strength

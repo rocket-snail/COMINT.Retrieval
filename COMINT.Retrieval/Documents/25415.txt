@@ -1,0 +1,5 @@
+ionosphere review curves are given for the period showing
+    monthly mean values month running averages of sunspot numbers
+    and noon and midnight f critical frequencies from these it
+    appears probable that both sunspot numbers and critical
+    frequencies will continue to decrease slightly during

@@ -1,0 +1,5 @@
+solutions of boundary value problems on automatic
+    computing equipment report of an investigation in which five
+    types of digital computer and one differential analyser were
+    compared as regards their suitability for solving boundary
+    value problems

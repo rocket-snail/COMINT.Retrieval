@@ -1,0 +1,4 @@
+als update. update of some developments of als (2see1
+    80/2268). these developments include a browser terminal, the
+    line protect unit, a bar code reader and an improved version of
+    the intelligent terminal.

@@ -1,0 +1,4 @@
+impedance of solid and hollow cylindrical conductors to
+    current pulses continuation of work noted in above a
+    quantitative solution is obtained for the initial value of the
+    ratio between the instantaneous voltage and current

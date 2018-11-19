@@ -1,0 +1,4 @@
+transients in pulse circuits with point contact
+    transistors analysis based on the dynamic characteristics of
+    transistors transient processes in relaxation oscillators and
+    triggering circuits are examined

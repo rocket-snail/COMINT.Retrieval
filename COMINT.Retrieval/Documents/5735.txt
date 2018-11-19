@@ -1,0 +1,7 @@
+transistors in amplifier output stages the optimum
+    effective load impedance and the efficiency are calculated
+    using idealized characteristic curves the results for point
+    contact and junction type transistors in class a and in class b
+    pushpull amplifiers are compared with the corresponding
+    formulae for triodes and pentodes distortion the efficiency
+    limit and circuit design are also briefly considered

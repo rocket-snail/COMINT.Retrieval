@@ -1,0 +1,5 @@
+description of a recording instrument the recorder was
+    designed for operation with the pulse analyser described by
+    guillon it has channels each comprising a decade counter and
+    register one unit is recorded in the channel for every train of
+    pulses details are given of circuits and operation

@@ -1,0 +1,7 @@
+stability of a grounded grid amplifier the general
+    conditions are investigated for the self excitation of uhf
+    grounded grid amplifiers the precise formula and an approximate
+    one for the frequency and the condition for self excitation are
+    derived the dependence of the stability of the amplifier on
+    circuit constants is considered the results are shown
+    graphically

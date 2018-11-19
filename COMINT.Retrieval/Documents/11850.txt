@@ -1,0 +1,9 @@
+design principles for a comprehensive library system.
+    describes a project which takes a step-by-step or incremental
+    approach to the development of an on-line comprehensive system
+    running on a dedicated computer. the design suggested pays
+    particular attention to present and predicted capabilities in
+    computing as well as to trends in library automation. the
+    resultant system is now in its 2nd of 3 releases, having tied
+    together circulation control, catalogue access and serial
+    holdings.

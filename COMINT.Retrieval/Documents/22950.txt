@@ -1,0 +1,5 @@
+some applications of elements with discontinuous
+    operation in analogue computation the field of application of
+    the differential analyser is enlarged by incorporating
+    amplitude comparators and electronic switches solution of
+    particular differential equations is discussed

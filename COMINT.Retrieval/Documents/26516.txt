@@ -1,0 +1,7 @@
+a method for interpreting the dispersion curves of
+    whistlers an analytical solution to the problem of determining
+    the dispersion of a whistler from a known electron density in
+    the outer atmosphere is formulated the results are then applied
+    to the inverse problem of deducing the variation in electron
+    density from the dispersion curve a numerical example is
+    given

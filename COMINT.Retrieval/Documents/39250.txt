@@ -1,0 +1,8 @@
+nonlinear filtering and waveshape multiplexing a method
+    of providing two channels on one carrier consists of
+    differentiating the combined signal clipping to remove one
+    component and re integrating to restore the other the removed
+    component is recovered by subtracting the retained component
+    from the original input experimental circuits and waveforms
+    obtained are illustrated the two components being respectively
+    a sine wave and a square wave

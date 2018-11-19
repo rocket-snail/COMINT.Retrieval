@@ -1,0 +1,5 @@
+suppression of plasma oscillations in a hot cathode
+    discharge tube containing gas at low pressure oscillations of
+    frequency can be generated the oscillations can be suppressed
+    by mounting a plane anode and cathode sufficiently close
+    together the discharge can still be maintained

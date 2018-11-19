@@ -1,0 +1,9 @@
+a note on the analysis of vacuum tube and transistor
+    circuits the setting up of node equations for a network
+    containing one or more active elements is reduced essentially t
+    to the determination of the admittance coefficients for the
+    passive network resulting from removal of the active elements
+    and adding to these the corresponding admittance coefficients
+    for the active elements the latter being obtained from tables
+    given in the text mesh equations are obtained in an analogous
+    way using impedance coefficient tables

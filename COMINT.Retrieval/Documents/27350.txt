@@ -1,0 +1,3 @@
+systems using transistors and transductors amplifier
+    modulator and switching systems are described in which
+    transistors and transductors are combined

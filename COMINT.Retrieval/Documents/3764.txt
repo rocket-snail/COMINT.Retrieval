@@ -1,0 +1,10 @@
+use of a maximal common subgraph algorithm in the
+    automatic identification of the ostensible bond changes
+    occurring in chemical reactions. a fast procedure is described
+    for the discovery of the largest substructure common to the
+    reactant and product molecules in a chemical reaction. once
+    this substructure has been found, it is possible to identify
+    automatically those bonds in the reacting molecules which have
+    apparently been broken or formed in the course of the reaction;
+    these bond changes could be used as indexing terms for the
+    retrieval of chemical reaction information.

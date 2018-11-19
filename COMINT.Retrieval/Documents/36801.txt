@@ -1,0 +1,7 @@
+the relativistic electromagnetic equations in a material
+    medium the general relativistic em equations for a material
+    medium are expressed in the form of a single four vector
+    density equation the field tensor has six different complex
+    components instead of three as in the case of a free medium the
+    classical equations are obtained by separating the real and
+    imaginary parts

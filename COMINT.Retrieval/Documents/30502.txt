@@ -1,0 +1,4 @@
+filter design data for communication engineers the book
+    is intended to supplement existing textbooks by providing
+    charts tables and formulae in convenient form it is concerned
+    mainly with image parameter zobel filters

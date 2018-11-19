@@ -1,0 +1,4 @@
+direction finding on diffuse sources of electromagnetic
+    radiation by combining the characteristics of an adcock type
+    and rotating loop type of direction finder the position and
+    size of an extended source can be determined

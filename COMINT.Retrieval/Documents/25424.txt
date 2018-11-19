@@ -1,0 +1,9 @@
+the origin of ferromagnetism in transition metals
+    analysis of experimental evidence indicates that the energy
+    band concept constitutes a more satisfactory basis for the
+    theory of ferro magnetism than the hypothesis that the magnetic
+    carriers are bound to individual atoms the occurrence of
+    fractional number of carriers is explained on the basis of
+    close range interactions between carriers associated with the
+    same atom the absence of ferromagnetism in heavy elements such
+    as a consequence of strong spin orbit coupling

@@ -1,0 +1,5 @@
+character recognition for business machines arabic
+    numerals are scanned by a column of photocells whose outputs
+    modulate a pulse generator system to give signals usable in
+    computers characters are read at a maximum rate of operation is
+    not critically dependent on style or size of type

@@ -1,0 +1,5 @@
+ferroelectric storage devices the switching
+    characteristics of ferroelectric materials as required for use
+    in digital storage systems are examined the properties of
+    single crystal capacitors are investigated
+    experimentally

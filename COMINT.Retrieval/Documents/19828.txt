@@ -1,0 +1,9 @@
+an accurate electroluminescent graphical output unit for
+    a digital computer the unit is fabricated from a uniform layer
+    of electro luminescent phosphor with parallel conducting strips
+    on either side these sets of strips being at right angles to
+    form a matrix of conductors a changing electric field between
+    selected strips of both sets causes fluorescence at their
+    intersection intersections are selected in turn and the pattern
+    is recorded photographically details of some prototype matrices
+    are given

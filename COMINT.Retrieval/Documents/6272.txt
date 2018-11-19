@@ -1,0 +1,4 @@
+a general theorem for dense electron beams a sufficient
+    condition for the existence of any particular set of
+    trajectories is derived for pierce type dense electron
+    beams

@@ -1,0 +1,7 @@
+a pragmatic approach to serials data conversion. looks at
+    some of the stages in planning the conversion from manual
+    periodicals processing to on-line systems. covers such areas
+    as' analysis of current files and processing requirements,
+    selection of an automated system, machine-readable files and
+    record structure, conversion project staff and project
+    administration.

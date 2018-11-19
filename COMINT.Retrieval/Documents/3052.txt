@@ -1,0 +1,11 @@
+loading of quartz oscillator plates an investigation was
+    made of the effectiveness of mechanical loading for eliminating
+    unwanted modes of vibration and adjusting the oscillation
+    frequency towards the value corresponding to greatest activity
+    the loading was done by applying various amounts of woods metal
+    to different parts of the plate surfaces for concave thickness
+    shear mode and x cut plates improvement was obtained when the
+    loading was applied at or near the active central area for flat
+    or convex x cut plates with an extensional mode of vibration
+    improvement was obtained when the loading was applied near the
+    periphery for both types loading increased the q factor

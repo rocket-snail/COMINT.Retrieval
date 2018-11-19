@@ -1,0 +1,5 @@
+the application of phase locking techniques to the design
+    of apparatus for measuring complex transfer functions the
+    principles of phase lock synchronization are described and
+    details of two instruments for measuring complex voltage
+    ratios

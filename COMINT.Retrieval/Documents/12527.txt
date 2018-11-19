@@ -1,0 +1,5 @@
+a property of dielectric constants of dielectrics in
+    thermal equilibrium theoretical discussion of dielectrics with
+    or without internal sources of energy a lumped circuit model of
+    a molecular amplifier with lorentz shaped bandpass
+    characteristic is derived

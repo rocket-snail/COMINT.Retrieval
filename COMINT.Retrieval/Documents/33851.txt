@@ -1,0 +1,8 @@
+selection principles for general purpose card indexes.
+    proposes the creation of cumulated files as an approach to
+    unification in the maintenance of reference and registration
+    files when switching to automated preparation and publication
+    of information publications. gives quantitative evaluation
+    figures for file effectiveness and the criteria governing the
+    formulation of cumulated files, using the example of viniti
+    publications.

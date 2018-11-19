@@ -1,0 +1,6 @@
+the diffraction of electromagnetic waves by a semi
+    infinite circular waveguide formulae are obtained for the
+    currents on the waveguide and asymptotic expressions are
+    derived for the longitudinal components of the electric and
+    magnetic vectors in the waveguide at large distances from the
+    mouth

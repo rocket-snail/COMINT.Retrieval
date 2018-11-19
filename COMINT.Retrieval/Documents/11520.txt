@@ -1,0 +1,3 @@
+potentials in a conductor of varying cross section the
+    importance of the eigen hall effect of in masking the bernoulli
+    voltage in experimental measurements is pointed out

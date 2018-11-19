@@ -1,0 +1,5 @@
+a compu er storage matrix using ferromagnetic thin films
+    details are given of the construction and performance of a
+    storage system using the coherent rotational mode of
+    magnetization reversal in thin films of a newly developed alloy
+    on an substrate

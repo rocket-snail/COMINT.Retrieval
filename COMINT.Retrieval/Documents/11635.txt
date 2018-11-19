@@ -1,0 +1,11 @@
+prescription order service in kanto teishin hospital
+    information system. japan's nippon telegraph & telephone
+    public corporation (ntt) has been performing developmental
+    research on an integrated medical information system for
+    supporting clerks, physicians, nurses, and other medical staff
+    in ntt's kanto teishin hospital. the system is a pilot model
+    for a commercial system. the entire clerical activities system
+    and prescription ordering service were computerised in sept 79
+    as a 1st step towards the total system. describes the system,
+    man-machine interface, and prescription ordering service
+    configuration.

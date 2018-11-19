@@ -1,0 +1,12 @@
+reciprocity of the transmissive properties of any
+    multiple layer for electromagnetic waves a full analytical
+    proof is given that the transmission of a perpendicularly
+    incident plane em wave through a multiple layer consisting of
+    any number of plane parallel absorbing or nonabsorbing
+    components is the same in both directions if the first and last
+    media have the same absorption index ie if if and are different
+    the ratio of the transmission factors in the two directions is
+    treatment is simplified by applying quadripole theory but this
+    does not give a closed expression for the overall transmission
+    factor the validity of the kirchhoff inversion principle is
+    illustrated

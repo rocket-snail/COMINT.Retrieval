@@ -1,0 +1,3 @@
+direct water cooled germanium power rectifier a
+    description of the development performance and operation of
+    various types of water cooled unit

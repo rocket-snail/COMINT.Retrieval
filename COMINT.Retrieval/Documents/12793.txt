@@ -1,0 +1,4 @@
+a current stabilized photomultiplier power supply
+    stabilization is based on the series connection of two cathode
+    followers tests on the circuit are reported voltage is
+    maintained constant to within one part in

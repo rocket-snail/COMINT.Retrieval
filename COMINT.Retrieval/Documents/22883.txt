@@ -1,0 +1,17 @@
+an experiment in classification: based on william
+    goffman's 'indirect method' of information retrieval. based on
+    a paper prepared for a classification theory course at case
+    western reserve university, ohio, a revised version of which
+    was presented at a canadian classification research group
+    conference, london, ontario, may 78. describes an investigation
+    into the subject characteristics of document classes retrieved
+    using goffman's indirect method; how these classes are similar
+    to, or different from, the classes obtained when a faceted
+    classification system is applied to the same set of documents;
+    and the characteristics of the clusters of terms which
+    inter-relate a definable class of documents. a random sample of
+    101 entries in the subject indexing section of 2lisa1, 1976,
+    were used. the results indicate that the indirect method could
+    have some merit in search strategies in computerised
+    information storage and retrieval systems based on keywords or
+    a controlled vocabulary.

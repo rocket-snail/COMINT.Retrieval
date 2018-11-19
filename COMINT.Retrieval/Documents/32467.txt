@@ -1,0 +1,6 @@
+the measure of activity for oscillating quartz crystals
+    in parallel resonance circuits the concept of performance index
+    is explained this is the effective parallel resistance r of the
+    resonant crystal shunted by a specified capacitance a method of
+    measurement of r is described load current density should be
+    specified when quoting r

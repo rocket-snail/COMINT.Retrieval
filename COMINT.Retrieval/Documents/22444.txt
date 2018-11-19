@@ -1,0 +1,7 @@
+some effects of the fine structure of the ionosphere on
+    transmission received from the russian earth satellite
+    anomalies in doppler observations of the satellite are
+    discussed it appears practicable to make a detailed study of
+    the lower boundary of the f region by an analysis of doppler
+    frequency discontinuities in conjunction with accurately known
+    orbit parameters

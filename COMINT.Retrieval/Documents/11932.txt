@@ -1,0 +1,3 @@
+use of operational amplifiers in precision current
+    regulators low drift high gain dc amplifiers in a control loop
+    can reduce steady state error

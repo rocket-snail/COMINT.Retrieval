@@ -1,0 +1,5 @@
+thermal feedback in a dc transistor amplifier thermal
+    feedback is applied via resistance windings around two
+    transistors of a balanced input stage it is only effective at
+    very low frequency and it reduces dc drift experimental results
+    are given

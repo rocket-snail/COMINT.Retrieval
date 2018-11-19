@@ -1,0 +1,5 @@
+oscillations and noise in low pressure dc discharges a
+    review of experimental investigations of oscillations and
+    fluctuations which occur spontaneously or through excitation in
+    low pressure hot cathode plasmas methods of reducing these
+    effects are discussed

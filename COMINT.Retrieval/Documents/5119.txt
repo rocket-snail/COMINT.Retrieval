@@ -1,0 +1,16 @@
+calculation of the harmonic distortion in sinusoidal
+    modulation of frequency or phase detailed study of a quadripole
+    with antiresonant circuit the fm voltage applied to the input
+    terminals of an arbitrary quadripole is expressed by a
+    convergent fourier series an expression is deduced for the
+    tangent of the variable phase shift introduced by the
+    quadripole in the form of the quotient of two rapidly
+    convergent series of bessel functions which lend themselves
+    well to numerical calculation three parameters are involved the
+    wave length the modulation index m and the ratio of to the qu
+    factor of the parallel rlc circuit considered numerical
+    calculations are made for eight cases of practical interest
+    involving different values of m and the results given by the
+    complete formulae for the harmonic distortion are compared with
+    those obtained by application of the instantaneous frequency
+    rule

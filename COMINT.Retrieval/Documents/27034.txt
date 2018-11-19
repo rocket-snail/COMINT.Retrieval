@@ -1,0 +1,7 @@
+a theoretical analysis of the torsional electromechanical
+    filters the mechanical properties of a torsional system are
+    expressed in terms of electrical equivalents by introducing a
+    transducer transfer ratio with the dimensions of charge a
+    method is developed for the design of electromechanical filters
+    based on equivalent electrical networks pass band ripple
+    spurious modes and transducer matching are discussed

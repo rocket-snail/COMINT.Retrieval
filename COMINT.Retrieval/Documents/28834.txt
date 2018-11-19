@@ -1,0 +1,6 @@
+fabrication techniques for ceramic x band cavity
+    resonators techniques are described for constructing cavity
+    resonators for the x band from low thermal expansion ceramics a
+    variety of mechanical arrangements is discussed q values as
+    high as and frequency temperature coefficients as low as part
+    in per have been obtained using simple processes

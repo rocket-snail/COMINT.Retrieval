@@ -1,0 +1,5 @@
+incremental frequency control of rc oscillators an
+    auxiliary phase shifting network is introduced to provide a
+    continuously variable incremental frequency control a practical
+    method is described for systematically correcting the error
+    which exists for large increments

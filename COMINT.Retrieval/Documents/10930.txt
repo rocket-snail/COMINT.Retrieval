@@ -1,0 +1,4 @@
+electron distribution in the ionosphere a note of methods
+    of analysing curves to determine electron density distribution
+    and a procedure for taking account of the geomagnetic field
+    simpler than that described by

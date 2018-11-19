@@ -1,0 +1,7 @@
+first results of radio star observations using the method
+    of aperture synthesis four surveys centred on declinations of
+    and have been made at a wavelength of with a large
+    interferometric radio telescope based on the technique of
+    aperture synthesis of ryle and hewish details of the
+    observational method calibration data reduction and analysis of
+    the computed results are given

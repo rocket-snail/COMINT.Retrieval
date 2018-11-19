@@ -1,0 +1,14 @@
+quantitative relationships between descriptors and
+    non-descriptors in thesauri. about 40 thesauri or collections
+    of subject terminology equivalent to thesauri were studied with
+    regard to quantity ratios between descriptors and
+    non-descriptors or between descriptors and a total vocabulary.
+    with the help of regression analysis, linear connections were
+    made with a strongly emphasised correlation between the number
+    of descriptors and the non-descriptors. then the number of
+    non-descriptors was found to increase more slowly than that of
+    the descriptors, demonstrating that the proportion of
+    non-descriptors to the total vocabulary decreases as the number
+    of descriptors increases. the inis thesaurus (international
+    nuclear information system) is described in relation to this
+    theory and found to be well produced.

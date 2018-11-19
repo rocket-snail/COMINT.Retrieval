@@ -1,0 +1,9 @@
+the return difference matrix in linear networks bodes
+    concept of the return difference is generalized by replacing
+    the quantities concerned by matrices a formula for the
+    fractionated gain is derived which is a generalisation of
+    thevenins theorem formulae are also derived for the stability
+    of a circuit for the variation of its output as a result of
+    imperfections of the circuit elements and for the input and
+    output impedance the method is particularly useful for
+    analysing multiple loop feedback circuits

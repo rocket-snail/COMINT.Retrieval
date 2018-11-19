@@ -1,0 +1,12 @@
+a new type of interferometer for use in radio astronomy a
+    new type of interferometer for measuring the diameter of
+    discrete radio sources is described and its mathematical theory
+    is given the principle of the instrument is based upon the
+    correlation between the rectified outputs of two independent
+    receivers at each end of a baseline and it is shown that the
+    cross correlation coefficient between these outputs is
+    proportional to the square of the amplitude of the fourier
+    transform of the intensity distribution across the source the
+    analysis shows that it should be possible to operate the new
+    instrument with extremely long baselines and that it should be
+    almost unaffected by ionospheric irregularities

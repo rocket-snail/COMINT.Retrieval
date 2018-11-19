@@ -1,0 +1,5 @@
+design of optimum filters the design of low pass filters
+    using easily computed rational functions instead of elliptic
+    functions permits more accurate location of the poles of the
+    transfer function when the number of poles exceeds four and
+    computation is less laborious

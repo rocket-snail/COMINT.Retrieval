@@ -1,0 +1,15 @@
+unimarc. several agencies that were formerly satisfied by
+    single conversions from another format are beginning to require
+    data from multiple agencies. either multiple conversions must
+    be written or a switch to unimarc could take place. the cost
+    savings with unimarc are obvious. multiple conversions
+    programmes represent a high initial investment and a tremendous
+    problem in keeping up with all of the changes to necessarily
+    dynamic national formats. the introduction of aacr2 and
+    resultant national format changes are at this time causing
+    several agencies to rewrite conversion programmes. a major
+    obstacle to a truly international unimarc exchange is that the
+    change takes a joint commitment since an agency's ability to
+    receive unimarc records is useless if the sending agency cannot
+    send them. ifla and its members need to undertake a major
+    effort to bring a unimarc programme into service.

@@ -1,0 +1,4 @@
+automatic sweep frequency ionosphere recorder model c a
+    description of an improved equipment for use during the igy in
+    addition to the virtual height frequency records time lapse
+    motion pictures are taken

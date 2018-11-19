@@ -1,0 +1,6 @@
+reduction of carrier frequency build up process to a
+    complex low frequency process the laplace transform method is
+    used by applying the displacement law the distortion of a
+    carrier envelope due to a linear transmission element can be
+    calculated directly vestigial as well as symmetrical sideband
+    systems can be dealt with in this way

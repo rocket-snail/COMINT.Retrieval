@@ -1,0 +1,5 @@
+semiconductor devices for microminiaturizatio integrated
+    semiconductor devices are illustrated in which active and
+    passive components are incorporated in a single piece of
+    semiconductor material with no interconnecting metallic leads
+    their application to logic circuits is explained

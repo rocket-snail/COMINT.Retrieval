@@ -1,0 +1,11 @@
+transistor equipped light weight programme input
+    amplifier type an amplifier for a portable sound recorder is
+    described in the pre amplifier the microphone is matched to the
+    first transistor via a transformer by use of current feedback
+    in the first stage it is possible to connect without
+    attenuation capacitance microphones with terminal resistance
+    the second stage includes a feedback circuit providing
+    equalization up to kcs the final stage is designed for an
+    output of mw shifting of the working point due to internal
+    heating is reduced by use of a special stabilizing
+    circuit

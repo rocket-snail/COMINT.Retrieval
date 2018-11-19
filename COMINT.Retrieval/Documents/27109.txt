@@ -1,0 +1,3 @@
+generation of permutations in lexicographic order
+    (algorithm r323) september, 1973 roy, m. k. ca730912 jb january
+    23, 1978 8:39 am

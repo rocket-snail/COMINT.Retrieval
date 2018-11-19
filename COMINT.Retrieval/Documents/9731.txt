@@ -1,0 +1,18 @@
+a new concept for the design of a flexible office system.
+    presents office automation systems as an application of
+    microprocessor based systems. the small size, low cost, and
+    reasonably high power of these systems enabled their use in
+    automating some office tasks. presents a general description of
+    a typical microprocessor based office automation system, then
+    discusses the problems arising in the design, implementation,
+    and use of such systems. proposes a scheme for partitioning and
+    modularising the hardware and software of the system, taking
+    into consideration the solution of some problems of
+    compatibility, portability and system extensibility. the
+    proposed system can be used as a universal basic core on which
+    one can easily build larger word processing systems. the user
+    can, by himself, extend his system by using the same word
+    processing language he uses everyday because of its special
+    properties presented here. the system is also simply
+    reconfigurable at the will of the user to exactly fi t his
+    needs at any time.

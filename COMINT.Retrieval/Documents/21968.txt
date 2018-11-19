@@ -1,0 +1,6 @@
+diffraction of an electromagnetic plane wave by a
+    metallic sheet a new generalized technique is developed for the
+    o solution of the problem of the diffraction of an e polarized
+    plane wave incident at an oblique angle on an imperfectly
+    conducting half plane the solution obtained shows complete
+    agreement with that of senior

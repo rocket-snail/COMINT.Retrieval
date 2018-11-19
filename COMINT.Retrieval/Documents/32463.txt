@@ -1,0 +1,3 @@
+model for collision processes in gases small amplitude
+    oscillations of charged two component systems continuation of
+    work reported previously

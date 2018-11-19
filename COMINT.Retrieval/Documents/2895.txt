@@ -1,0 +1,6 @@
+t t n the floating probe method for the measurement of
+    ionized gas revised expressions are obtained for the positive
+    ion current and electron temperature for the usual double probe
+    method a triple probe method is proposed for measurement of
+    energy distribution in electrodeless or discharges and the
+    applicability of the techniques is discussed

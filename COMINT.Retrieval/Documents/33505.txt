@@ -1,0 +1,5 @@
+note on the autocorrelation coefficient of and its
+    relation to regions results of ward for the period april march
+    are consistent with the theory of the existence of long lived
+    regions on the sun autocorrelation functions plotted for other
+    periods are given by ward

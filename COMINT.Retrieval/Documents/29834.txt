@@ -1,0 +1,5 @@
+phantastron computes pulse width ratios description of an
+    analogue computer developed for determining the ratio of the
+    widths of two pulses occurring simultaneously in two channels
+    of a radar system the output is readily convertible into
+    digital form other applications are indicated

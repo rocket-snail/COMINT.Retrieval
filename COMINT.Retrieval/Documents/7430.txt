@@ -1,0 +1,3 @@
+cathode follower design charts output impedance input
+    voltage charts are shown for commonly used valve types design
+    procedure is outlined

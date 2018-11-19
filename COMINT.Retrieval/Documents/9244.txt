@@ -1,0 +1,14 @@
+application of a communicating word processor in an
+    information department. a stand alone word processor (philips
+    5002) is used to produce an information bulletin. a copy of the
+    data is transmitted from the word processor to a mainframe
+    computer where it is batch assimilated into an on-line data
+    base. the on-line system (deco-unilever computer services ltd.)
+    has all the features of the major commercial systems. in
+    addition, it is possible to initiate the generation of printed
+    indexes, either to the entire data base, or to a subset
+    (hit-set) of data, during an on-line session. the versatility
+    of the word processor and on-line search system are illustrated
+    describing the various stages from a single keying step,
+    through to bulletin, data base, and printed index
+    production.

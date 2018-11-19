@@ -1,0 +1,8 @@
+background noise in ionization chamber pulse amplifiers
+    two methods of particle energy measurement are considered for
+    the charge collection method milatz and keller of have
+    calculated the absolute limit to measurement accuracy for the
+    amplifier circuit used for the pulse slope method initiated by
+    sherr and peterson a slightly different limit is found circuits
+    giving optimum signal noise rato are proposed in each
+    case

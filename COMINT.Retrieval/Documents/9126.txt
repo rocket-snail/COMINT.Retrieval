@@ -1,0 +1,4 @@
+locking of a two circuit oscillator the addition of a
+    second tuned circuit improves the amplitude frequency and phase
+    frequency characteristics of a locked oscillator the effect of
+    coupling conditions on stability is s discussed

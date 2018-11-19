@@ -1,0 +1,4 @@
+harmonic amplifier for x band local oscillator the final
+    frequency tripler in a harmonic amplifier cascade uses an uhf
+    triode with coaxial cathode input resonator and a wave guide
+    output resonator giving about output

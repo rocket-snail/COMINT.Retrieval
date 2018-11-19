@@ -1,0 +1,9 @@
+soft typography. improvements in digital video typography
+    are seen as a necessary component of increased interactivity
+    and scope of use of soft copy text display systems. a
+    grayscaling scheme produces high-quality fonts for display with
+    standard colour video equipment, reducing scintillation,
+    smoothing curves, and improving encodability. the same concept
+    allows a 'virtual resolution' far beyond the spatial resolution
+    of normal pixel size, permitting up to 80 characters per line
+    of readable text on colour televisions.

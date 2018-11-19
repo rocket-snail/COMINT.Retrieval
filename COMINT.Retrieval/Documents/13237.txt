@@ -1,0 +1,2 @@
+ionospheric contributions to the doppler shift at vhf
+    from near earth satellites

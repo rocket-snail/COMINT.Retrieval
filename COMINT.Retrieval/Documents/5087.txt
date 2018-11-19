@@ -1,0 +1,10 @@
+resistance network analogues with unequal meshes or
+    subdivided meshes a general method for deriving the finite
+    difference approximations to the partial differential equation
+    which is solved by resistance network analogues is applied to
+    find the resistance values and the currents which have to be
+    fed in for and networks with unequal mesh sizes two ways of
+    subdividing a network into finer meshes in the ratio are then
+    given and a network subdivision in the ratio is described
+    experimental tests have shown that these subdivisions introduce
+    negligible errors into the measured field distributions

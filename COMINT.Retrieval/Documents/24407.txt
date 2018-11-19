@@ -1,0 +1,5 @@
+primary and secondary journals in radio astronomy.
+    investigates document flow in radio astronomy and uses citation
+    counting techniques to identify principal sources of
+    transmission and dissemination of primary and secondary
+    information and to study their interaction.

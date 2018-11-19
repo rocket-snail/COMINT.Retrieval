@@ -1,0 +1,7 @@
+an approach to the design of constant resistance
+    amplitude equalizer networks a method of designi g constant
+    resistance amplitude equalizers to give a desired frequency
+    response characteristic over a given range is suggested a
+    typical example illustrates the method of adjusting the
+    response of a velocity type pick up over part of the af
+    spectrum

@@ -1,0 +1,5 @@
+the loss attenuation in the pass band of wave filters
+    with differing coil factors the loss contributions of the
+    individual coils are summed using weighting functions
+    application of the method to a crystal filter half section is
+    explained

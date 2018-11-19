@@ -1,0 +1,3 @@
+the structure of a stream of electrons and ions drifting
+    and diffusing in a gas when ionization by collision and
+    molecular attachment are present

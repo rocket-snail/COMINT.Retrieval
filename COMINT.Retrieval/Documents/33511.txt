@@ -1,0 +1,7 @@
+on transformations of linear active networks with
+    applications at ultra high frequencies a relation similar to
+    the star delta transformation is developed for linear circuits
+    including valves formulae are derived for triode circuits under
+    the results are extended to tetrodes and pentodes the method is
+    useful for analysing the operation of uhf triodes and for
+    determining amplifier admittances and gain

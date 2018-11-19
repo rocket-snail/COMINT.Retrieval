@@ -1,0 +1,4 @@
+penetration of an electromagnetic field into a plasma
+    calculation of the penetration depth for a semi infinite plasma
+    located in a magnetic field perpendicular to the plasma
+    boundary

@@ -1,0 +1,10 @@
+a model of a document-clustering-based information
+    retrieval system with a boolean search request formulation.
+    presents an information retrieval method which clusters
+    documents on the basis of previously determined clusters of
+    boolean search request formulations. suggests ways of selecting
+    these formulations and discusses the influence of selection
+    method on retrieval effectiveness. special attention is paid to
+    the method which provides retrieval effectiveness comparable to
+    that obtained with a sequential file. theoretical
+    considerations are illustrated by a numerical example.

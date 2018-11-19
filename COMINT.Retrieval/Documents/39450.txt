@@ -1,0 +1,11 @@
+scientific information systems in japan. one of the
+    fruits of the project 'formation process of information systems
+    and organisation of scientific information', sponsored by the
+    japanese ministry of education, science and culture, which ran
+    apr 76-mar 79 and involved 500 researchers. reviews the use of
+    data base management systems in scientific research,
+    input/output methodologies, information networks, scientific
+    data base systems, developments in knowledge and informatics,
+    and japanese language processing. summarises the proposal for
+    the organisation of a nation-wide information system for
+    scientific studies which emerged during the project.

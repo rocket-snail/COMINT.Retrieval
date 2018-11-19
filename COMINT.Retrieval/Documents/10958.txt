@@ -1,0 +1,7 @@
+the multipurpose bias device part the commutator
+    transistor a study of the application of the rutz commutator
+    transistor to three input one output logical problems for
+    handling by automatic computer systems the rutz commutator is a
+    single emitter amplitude sensitive device with three separate
+    input wires applied to the emitter its design will be detailed
+    in a subsequent paper

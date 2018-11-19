@@ -1,0 +1,7 @@
+electroluminescent cell applications an account of
+    investigations of the combination of electro luminescent cells
+    and photo receptors as elements in amplifier oscillator
+    demodulation amplifier and bistable multivibrator circuits
+    measurements of the variation of efficiency with frequency and
+    a theoretical analysis of photoconductor amplifier time
+    constants are also ghven

@@ -1,0 +1,4 @@
+spectrometer for the frequency range to the instrument
+    incorporates a hartley type marginal oscillator with continuous
+    frequency sweep and frequency modulated at a repetition rate of
+    cs

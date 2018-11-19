@@ -1,0 +1,7 @@
+pulse relaxation amplifier a low level magnetic amplifier
+    the principles of operation are explained linear amplification
+    can be obtained for an input signal of in a amplifier
+    delivering an output of variation of the temperature between
+    ans of the supply voltage by resulted in a maximum zero drift
+    of less than over a two week period the gain varied by change
+    of the supply frequency

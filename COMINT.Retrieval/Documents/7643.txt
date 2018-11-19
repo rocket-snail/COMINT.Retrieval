@@ -1,0 +1,8 @@
+investigation of requirements and implementation of
+    facilities for connecting uk hosts to euronet. describes work
+    done on x25 software and network measurement with a number of
+    x25 networks. investigates the implementation of several high
+    level protocols including terminal, data entry, file transfer
+    and remote printing protocols. a number of activities pursued
+    in direct support of blaise connection to euronet are also
+    described.

@@ -1,0 +1,5 @@
+measurement of the ionospheric absorption at ahmedabad
+    the mean monthly values of the absorption plotted against cos x
+    for each month from august to july obeyed a relation of the
+    type log the results are in agreement with those obtained by
+    appleton and piggott

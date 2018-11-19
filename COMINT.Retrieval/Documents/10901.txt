@@ -1,0 +1,7 @@
+relay scanning design technique generates high accuracy
+    and speed in analogue to digital transducer measurements the
+    converter is designed to handle three decades of binary decimal
+    pulses each decimal unit is equivalent to input the converter
+    scans an internal voltage until it becomes equal to the
+    unamplified input voltage and supplies a serial pulse
+    output

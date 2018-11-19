@@ -1,0 +1,4 @@
+feedback arrangements in transformerless push pull output
+    stages different methods of applying negative feedback to
+    single ended and symmetrical class b circuits are
+    discussed

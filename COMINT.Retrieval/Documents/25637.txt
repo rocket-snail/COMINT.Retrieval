@@ -1,0 +1,5 @@
+the electrical conductivity of a plasma the exact theory
+    of electrical conductivity of a plasma in the presence of a
+    weak electric field is obtained by the integration of
+    boltzmanns equation for ionized gases taking account of
+    electron interaction

@@ -1,0 +1,7 @@
+height gradient of electron loss in the f region a
+    theoretical expression is derived for an exponential height
+    gradient of the electron loss coefficient in the f region on
+    the assumption that this gradient completely accounts for
+    bifurcation five models are investigated they are second power
+    linear cosine parabolic and quasi parabolic distributions of
+    electron density with height

@@ -1,0 +1,5 @@
+power density requirements for airglow excitation by gyro
+    waves an array of dipoles radiating a gyro wave with a mean
+    power of would produce an easily observable enhancement of the
+    nocturnal airglow overhead within a solid angle of square
+    degrees

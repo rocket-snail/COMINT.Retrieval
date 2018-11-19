@@ -1,0 +1,7 @@
+calculation of compensated wide band amplifiers in german
+    and french loss of amplification with increasing frequency due
+    to the output capacitance of the amplifier valve is compensated
+    by including inductance in the circuit three arrangements are
+    discussed namely parallel compensation series compensation and
+    double compensation abacs to facilitate calculations are
+    presented

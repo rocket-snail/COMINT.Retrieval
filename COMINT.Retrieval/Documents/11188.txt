@@ -1,0 +1,4 @@
+the diurnal variation of k indices of geomagnetic
+    activity on quiet days in local tim and universal time
+    components are derived from the k numbers from six
+    observatories in moderately low latitudes

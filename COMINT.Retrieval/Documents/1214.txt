@@ -1,0 +1,5 @@
+amplifiers and preamplifiers a practical discussion
+    covering the operation design construction and testing of all
+    types of amplifiers used in home music systems and a
+    presentation of the interesting features of commercially
+    available products

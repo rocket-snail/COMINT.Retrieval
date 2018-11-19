@@ -1,0 +1,20 @@
+computer programs for analysis of bibliometric
+    distributions. (msc dissertation-city university, london). a
+    suite of computer programs is given for the analysis of author
+    and journal productivity data. the programs were written using
+    subprograms from the statistical package for the social
+    sciences, where appropriate, and using the fortran programming
+    language. the author productivity programs 1st process raw
+    author productivity data (consisting of author codes and
+    article numbers). then the weibull, negative binomial and 2
+    forms of the lotka distribution are compared with the observed
+    distributions of author productivity, using the chi squared and
+    kolmogorov-smirnov goodness-of-fit tests. the journal
+    productivity programs allow raw journal productivity data
+    (consisting of journal codes and article numbers) to be
+    processed. the processed data is used to plot bradford, yield
+    formula and naranan graphs by computer. reasons for choosing
+    these author and journal productivity distributions are g iven,
+    and applications of the programs in other areas of
+    bibliometrics are examined. finally, useful developments to the
+    suite of programs are considered.

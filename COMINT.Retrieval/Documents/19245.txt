@@ -1,0 +1,4 @@
+by pass filters by pass filters are described having
+    three pairs of terminals and between two of the pairs but only
+    a limited band of frequencies is transmitted between either of
+    these pairs and the third pair of terminals

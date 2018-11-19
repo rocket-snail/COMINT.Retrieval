@@ -1,0 +1,6 @@
+cascaded feedthrough capacitors by interspersing lossy
+    ferrite washers between the stacked ceramic disks of capacitors
+    of the type described previously the filtering properties for
+    and are greatly improved such constructions are thus useful for
+    miniaturized low pass filters properties of suitable ferrites
+    are discussed

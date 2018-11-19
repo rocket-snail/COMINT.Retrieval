@@ -1,0 +1,7 @@
+nonlinear multipoles a conceptual scheme is outlined
+    which is intended to be used in conjunction with theories of
+    oriented graphs and with machine computers for the analysis and
+    design of nonlinear networks a system of classes of nonlinear
+    multipoles is defined the classes being characterized by their
+    responses to a particular set of pulses see also of
+    september

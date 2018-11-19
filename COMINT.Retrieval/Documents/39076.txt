@@ -1,0 +1,7 @@
+electrical breakdown of air at small and medium
+    overvoltages experimental results indicate that values of
+    pressure distance about torr cm breakdown due to overvoltages
+    of to is produced by a townsend ionization mechanism rather
+    than by the electron avalanche build up of a channel as
+    described by raether at overvoltages the latter process is
+    operative

@@ -1,0 +1,9 @@
+proposed molecular amplifier and coherent generator for
+    millimetre and submillimetre waves the difficulties of
+    obtaining maser action increase with frequency owing to the
+    increasing number of energy sublevels and to decreasing
+    sensitivity of molecules to field gradients a proposed method
+    of avoiding these difficulties is to use special types of
+    stimulated emitter and to separate molecules with different
+    energy levels by a combination of inhomogeneous and homogeneous
+    fields respectively outside and inside the cell

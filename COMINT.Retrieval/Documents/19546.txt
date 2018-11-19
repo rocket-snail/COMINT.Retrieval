@@ -1,0 +1,12 @@
+national electromagnetic oscillations in a rectangular
+    cavity with walls of finite conductivity in the limiting case
+    of infinite wall conductivity the te and tm self oscillations
+    have the same frequency this does not hold for finite wall
+    conductivity in which case linear combinations of the te and tm
+    oscillations with the same frequency exist these combinations
+    termed matched oscillations represent to a first approximation
+    the natural oscillations of the actual resonator the
+    determination of the characteristics of these matched
+    oscillations is based on the solution of a simple geometrical
+    problem from which the damping and mistuning are
+    calculated

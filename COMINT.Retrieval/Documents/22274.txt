@@ -1,0 +1,5 @@
+bistable circuits using unijunction transistors the
+    design and operation of various circuits are explained use of
+    the negative resistance region as one stable state decreases
+    power requirements and increases switching speed the
+    application to ring counter circuits is shown

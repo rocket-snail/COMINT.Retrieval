@@ -1,0 +1,7 @@
+an electromagnetic diffraction problem involving
+    unidirectionally conducting surfaces the exact value of the em
+    field scattered by a undirectionally conducting surface under
+    plane wave excitation is obtained the surface which is an
+    entire plane is the junction of two unidirectionally conducting
+    half planes whose conductivity directions are inclined at an
+    arbitrary angle to each other and to the boundary line

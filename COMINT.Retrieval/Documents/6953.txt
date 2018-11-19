@@ -1,0 +1,5 @@
+the carrier density in a plasma and its determination by
+    means of the pulse probe the pulse method discussed does not
+    depend on particular assumptions regarding the transition layer
+    between the unipolar layer and the undisturbed plasma theory
+    apparatus and experimental results are described

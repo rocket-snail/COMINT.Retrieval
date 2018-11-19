@@ -1,0 +1,4 @@
+nyquists criterion for multiple loop feedback circuits a
+    method of deriving the stability criterion alternative to that
+    of cutteridge of and based on conformal transformation is
+    presented see also of january

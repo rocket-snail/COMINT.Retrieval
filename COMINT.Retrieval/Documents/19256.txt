@@ -1,0 +1,5 @@
+marc format simplification. (summary of a paper
+    commissioned by the association of research libraries task
+    force on bibliographic control). examines the need for the marc
+    format to be able to respond to future possible requirements
+    particularly of on-line cataloguing.

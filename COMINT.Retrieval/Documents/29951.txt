@@ -1,0 +1,3 @@
+a transistor stabilized supply to feed an electromagnet
+    used for nuclear resonance studies a circuit is described for a
+    supply with current stabilized to parts in

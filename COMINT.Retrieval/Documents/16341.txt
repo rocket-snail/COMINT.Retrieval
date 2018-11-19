@@ -1,0 +1,7 @@
+excitation of spin waves in ferromagnets eddy current and
+    boundary condition effects the boundary condition for
+    transverse magnetization is derived when there is a surface
+    anisotropy field spinwave modes can be excited by a uniform r f
+    field and the power absorbed in each mode in an insulator can
+    be calculated the eddy currents have a large effect only on
+    long wavelength spin waves

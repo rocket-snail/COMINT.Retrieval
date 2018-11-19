@@ -1,0 +1,2 @@
+theory of scattering by an inhomogeneous solid possessing
+    fluctuations in density and anisotropy

@@ -1,0 +1,4 @@
+voltage stabilization by means of trigger tubes several
+    cold cathode trigger tube circuits are described which give
+    effective stabilization against fluctuating input voltage and
+    current drain

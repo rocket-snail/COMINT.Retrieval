@@ -1,0 +1,8 @@
+irreversible thermodynamics and kinetic theory in the
+    derivation of thermoelectric relations considerations of
+    irreversible thermodynamics simplify the determination of
+    thermoelectric coefficients using kinetic theory arguments
+    based on boltzmanns equation a new expression for thomsons
+    coefficient has been derived only simple models lave been used
+    but the theory is capable of extension to more complex
+    ones

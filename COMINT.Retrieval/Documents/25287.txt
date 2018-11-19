@@ -1,0 +1,4 @@
+concentric shear mode electromechanical filter an
+    experimental filter of simplified design is described which
+    consists of four magnetostrictive ferrite disk
+    resonators

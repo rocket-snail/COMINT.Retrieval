@@ -1,0 +1,3 @@
+transistor differential amplifier the design concepts of
+    and experimental results obtained from a drift compensated
+    cross coupled amplifier are discussed

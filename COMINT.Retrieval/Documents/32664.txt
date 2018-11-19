@@ -1,0 +1,7 @@
+computer networks. august, 1979-november, 1981 (citations
+    from the ntis data base). cites research reports on aspects of
+    computer networks, including hardware, software, data
+    transmission, time sharing, and applicable theory to network
+    design. specific studies on the arpa network, the octopus
+    network, the tenex system, distributed networks, and other such
+    systems are cited.

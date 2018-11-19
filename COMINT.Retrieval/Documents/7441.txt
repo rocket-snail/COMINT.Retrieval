@@ -1,0 +1,5 @@
+some observations of ionospheric faraday rotation a
+    comparison with vertical incidence ionosonde data suggests that
+    the ratio of the electron contents above and below the level of
+    maximum ionization of the f region does not remain constant
+    between sunrise and noon

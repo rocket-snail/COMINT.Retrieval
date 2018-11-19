@@ -1,0 +1,4 @@
+photoece tronic chart reader of recorded ink line design
+    and construction tion details are given of an equipment which
+    samples the level of a recorded line once every second and
+    produces an integrated analogue output voltage

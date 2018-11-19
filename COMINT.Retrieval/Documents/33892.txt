@@ -1,0 +1,9 @@
+a new quartz oscillator for the frequency range a quartz
+    oscillator in the form of a tuning fork is described each prong
+    carries four electrodes arranged according to the cut of the
+    crystal and connected so that on application of a voltage via
+    the spring suspensions the inner and outer halvex of each prong
+    are stressed in opposite directions in air the q factor is
+    increasing to at a pressure of a few mm hg with thermostatic
+    control the frequency variation can be kept to within part
+    in

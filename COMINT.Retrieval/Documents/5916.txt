@@ -1,0 +1,9 @@
+measurements of the terrestrial magnetic field in the e
+    layer two methods are outlined both based on determination of
+    the gyro frequency which is related by a simple formula to the
+    intensity h of the geomagnetic field in the lower part of the e
+    layer the first method is based on the double hump resonance
+    curve and the second is based on the self demodulation of radio
+    waves at carrier frequencies near gyrofrequency a stable is
+    given of values of h determined by these methods in
+    italy

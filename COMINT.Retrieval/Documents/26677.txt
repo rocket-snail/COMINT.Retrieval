@@ -1,0 +1,5 @@
+a monostable circuit using a transistor a pulse
+    generating circuit is described using a simple pulse
+    transformer and a transistor pulse duration is adjustable over
+    a wide range greatly exceeding that usually associated with the
+    pulse transformer used

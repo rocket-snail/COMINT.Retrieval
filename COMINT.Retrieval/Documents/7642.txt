@@ -1,0 +1,7 @@
+energy of the harmonic oscillator in vacuum continuation
+    of work abstracted previously of braffort et al the term energy
+    of the oscillator us used to indicate the additional energy
+    acquired by a free charge on passing into the oscillating state
+    the energy of the harmonic oscillator in the fluctuating field
+    of the absorber is equal to the product of its natural
+    frequency and a universal constant

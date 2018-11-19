@@ -1,0 +1,4 @@
+electrically tunable travelling wave masers at l and s
+    bands tuning ranges of and greater have been obtained by
+    varying only the applied magnetic field and the pump frequency
+    test data are given

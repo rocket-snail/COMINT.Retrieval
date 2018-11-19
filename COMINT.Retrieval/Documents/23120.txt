@@ -1,0 +1,4 @@
+high frequency breakdown in air at high altitudes
+    breakdown field is computed for and from atmospheric data the
+    validity of which is discussed considerably more power per unit
+    area can be transmitted at the higher frequencies

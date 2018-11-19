@@ -1,0 +1,3 @@
+an inexpensive ultralinear output stage a circuit is
+    described which uses two cathode followers in place of a tapped
+    output transformer

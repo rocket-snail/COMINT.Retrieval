@@ -1,0 +1,4 @@
+power supply for automatically controlled transmitters
+    descriptions are given of the normal arrangements for taking
+    power from the public supply and of emergency arrangements
+    using batteries or diesel generators

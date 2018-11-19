@@ -1,0 +1,10 @@
+a set of normative and methodical documents for
+    linguistic support to gasnti. describes the composition and
+    structure of the documents determining the procedures of
+    creation, maintenance, and use of 'linguistic supportive
+    materials' in gasnti (state automated scientific and technical
+    information system). presents the contents of some of the
+    documents and discusses their status, application area, and
+    terms of use. pays special attention to documents regulating
+    the use of 'linguistic supportive materials' under network
+    conditions.

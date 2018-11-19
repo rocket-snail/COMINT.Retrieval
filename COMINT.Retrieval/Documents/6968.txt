@@ -1,0 +1,3 @@
+statistical mechanical theory of ferromagnetism high
+    density behaviour the partition function of the ising model of
+    ferromagnetism is examined in the limit of high density

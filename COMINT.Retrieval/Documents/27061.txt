@@ -1,0 +1,7 @@
+the marketplace for prestel gateway. from mar 82,
+    'prestel gateway' will allow prestel users to access 3rd party
+    data bases connected to the prestel network by the packet
+    switched service. the enhanced storage and processing
+    capabilities then available will have far-reaching effects on
+    both existing and new markets for prestel. examines the place
+    of prestel gateway within uk videotex developments.

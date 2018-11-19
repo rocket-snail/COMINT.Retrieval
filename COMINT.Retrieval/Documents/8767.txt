@@ -1,0 +1,4 @@
+the effect of an additional nonlinearity on the
+    performance of torque limited con rol systems subjected to
+    random inputs the addition of a nonlinear error detector gives
+    an improved response

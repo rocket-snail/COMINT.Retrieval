@@ -1,0 +1,3 @@
+coil capacitances and inductances of single layer
+    cylindrical coils for different current voltage distributions
+    over the coil

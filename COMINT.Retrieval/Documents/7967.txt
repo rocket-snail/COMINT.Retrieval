@@ -1,0 +1,4 @@
+effect of steepness of rise and fall of the input pulse
+    on the response of pulse amplifiers the response of shunt
+    compensated amplifier to ramp function and triangular pulses is
+    analysed

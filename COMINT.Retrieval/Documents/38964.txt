@@ -1,0 +1,12 @@
+the shaping of chinese cataloguing rules (in chinese).
+    traces the development and drafting of the new chinese
+    cataloguing rules. the rules are applicable to all types of
+    print and non-print material, meet the needs of libraries,
+    information centres, and any other institution, and be usable
+    in book, card, and machine-readable catalogues; descriptions
+    are based on the international standard bibliographic
+    description format; certain meritorious parts of aacr2 and the
+    2nippon cataloguing rules1 have been adopted, taking into
+    account taiwan's circumstances and cultural tradition; and
+    unimarc was consulted. the 1st 2 chapters (general rules and
+    description of books) have been printed.

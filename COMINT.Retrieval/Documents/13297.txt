@@ -1,0 +1,11 @@
+design of the csin (chemical substances information
+    network) user services office. presents a design for the user
+    services office of the chemical substances information network
+    (csin). the office will be the primary contact point between
+    the community of network users and the network administration.
+    describes direct user support activities, such as telephone
+    assistance and documentation writing and distribution; indirect
+    user support activities, such as billing coordination and
+    account management; and general system support activities, such
+    as promotion and providing input to the network administration
+    on user selection criteria.

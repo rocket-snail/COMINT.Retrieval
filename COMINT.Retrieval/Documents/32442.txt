@@ -1,0 +1,6 @@
+a direct reading printed circuit commutator for analogue
+    to digital data conversion the disk type commutator described
+    supplies the digital digital signal required for output
+    equipment operation without the need for supplementary coding
+    or additional translation circuitry to remove
+    ambiguities

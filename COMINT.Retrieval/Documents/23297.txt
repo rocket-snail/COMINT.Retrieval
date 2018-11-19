@@ -1,0 +1,7 @@
+analogous transistor system design and nodal methods of
+    construction with applications to research equipment and
+    prototype evaluation transistor action and circuits are
+    described in terms of the thermionic valve analogy a modular
+    technique of circuit construction based on this principle is
+    described in which stages are assembled individually using a
+    method which simplifies their interconnection

@@ -1,0 +1,4 @@
+analysis of current pulses an approximate method of
+    analysis used earlier is extended to include nonlinear
+    characteristics and its application to a class c amplifier
+    circuit is described

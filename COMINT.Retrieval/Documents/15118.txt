@@ -1,0 +1,5 @@
+a constant amplitude random function generator a
+    generator is described for producing a wave shape with constant
+    peak to peak amplitude but whose path between peaks is random
+    circuits for random sawtooth triangular cosine and square waves
+    operating in the af range are described

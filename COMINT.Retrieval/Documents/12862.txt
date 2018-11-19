@@ -1,0 +1,6 @@
+line equations for an inhomogeneous line system of
+    cylindrical symmetry and their application to circuit elements
+    examples considered include the calculation of the skin effect
+    of cylindrical wires the frequency response of disk type and
+    wound capacitors and the impedance of a sintered ta
+    electrolytic capacitor

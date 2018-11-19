@@ -1,0 +1,5 @@
+thermal fluctuations in a nonlinear system an electric
+    circuit containing a voltage dependent resistance and a
+    capacitance is studied a general method is given for finding
+    the spectral density of current fluctuations and explicit
+    results are obtained for two special forms of rv

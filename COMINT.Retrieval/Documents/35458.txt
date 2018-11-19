@@ -1,0 +1,6 @@
+wave filter characteristics by a direct method digest of
+    paper presented at the aiee winter general meeting january a
+    chart is given from which the attenuation in db can be directly
+    determined for seven commonly used ladder filter sections the
+    abscissae used being the number of bandwidths from the cut off
+    frequency

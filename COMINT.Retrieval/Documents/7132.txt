@@ -1,0 +1,10 @@
+vector representation in the time plane of electrical
+    potential difference current and power varying sinusoidally in
+    time the varying magnitudes are considered according to a
+    method originally used by fresnel as the resultant of two
+    imaginary vectors of equal and constant length rotating at the
+    same rate in opposite senses the imaginary plane containing
+    these vectors is called the time plane the impedances of a
+    circuit to the two vector components of a sinusoidally varying
+    current are defined and the method of representing power ie the
+    product of voltage and current is explained

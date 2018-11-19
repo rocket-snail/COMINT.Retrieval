@@ -1,0 +1,3 @@
+realizability conditions for the series parallel matrix
+    and canonical series parallel circuits for reactance
+    quadripoles

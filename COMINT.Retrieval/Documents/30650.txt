@@ -1,0 +1,6 @@
+calculation of iron cored inductances for direct current
+    a method described by kammerloher is usitors are reviewed and
+    design principles are prorresponding to the optimum gap length
+    for lamin tions of given shape and size variation of the
+    maximum with number of ampere turns is investigated examples
+    are worked out

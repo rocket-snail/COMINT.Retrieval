@@ -1,0 +1,5 @@
+distortion in class a push pull amplifiers the distortion
+    is expressed in terms of the derivatives of the anode grid
+    characteristic at the operating point the effect of the cathode
+    resistance is to increase the distortion as compared with the
+    effect due to the load resistance alone

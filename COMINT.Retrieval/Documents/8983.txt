@@ -1,0 +1,5 @@
+a method for measuring high electron densities in plasmas
+    it is proposed that the standing wave pattern produced by plane
+    microwaves at the plasma boundary be measured to give the
+    complex reflection coefficient which is related to the electron
+    density and collision frequency

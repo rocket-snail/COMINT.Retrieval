@@ -1,0 +1,3 @@
+a method of studying the electrical recovery of a gas
+    after a pulse discharge a method devised for a triggered
+    discharge as in a thyratron

@@ -1,0 +1,4 @@
+magnetic amplifiers for industry description with outline
+    circuit diagrams of a series of westinghouse magamp instruments
+    with power ratings from to and examples of their
+    application

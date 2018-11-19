@@ -1,0 +1,6 @@
+diode cuts transistor cut off current drift amplified
+    thermal variations of cut off current in grounded emitter
+    amplifiers can be compensated by compensated by connecting a
+    diode experiencing the same thermal changes and having similar
+    collector base junction saturation current characteristics
+    across the transistor base emitter junction

@@ -1,0 +1,8 @@
+saturable reactors fire radar magnetrons magnetic
+    modulator uses saturable reactors to convert input sine wave
+    into narrow high peak power output pulses basic action of
+    current pulse compression with magnetic modulators is explained
+    polarizating and differentiating circuits delay line wave
+    shaping pulse permeability measurements cancellation effects
+    and related features leading to improved design are
+    discussed

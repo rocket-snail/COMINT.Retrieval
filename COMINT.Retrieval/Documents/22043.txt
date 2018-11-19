@@ -1,0 +1,10 @@
+on the integration of data-, text- and facsimile
+    communication in libraries. the development of new techniques
+    in the field of communication and storage is a challenge for
+    libraries. in some fields these techniques are already in use;
+    joint cataloguing with on-line connection to a data bank,
+    information transfer by access to data bases, use of
+    audio-visual media for orientation and user training. other
+    uses include viewdata, telecopier, text processing machines and
+    the storage of mass pictures and texts on video discs instead
+    of microfilm.

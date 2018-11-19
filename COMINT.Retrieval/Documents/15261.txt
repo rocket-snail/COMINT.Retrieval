@@ -1,0 +1,8 @@
+analogue digital computers a comparison the operation of
+    analogue computers is described the problem of simulation in
+    real time is used as a basis for comparing analogue and digital
+    computers in respect of speed accuracy convenience the
+    mathematical operations discussed include addition subtraction
+    multiplication division evaluation of polynomials and other
+    functions extraction of square roots and solution of
+    differential equations

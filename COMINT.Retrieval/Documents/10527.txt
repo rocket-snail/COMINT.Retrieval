@@ -1,0 +1,4 @@
+lifetime of an artificial earth satellite the approximate
+    formulae given by fejer and scott are compared with those given
+    by a more exact method and found to be accurate provided the
+    eccentricity is not large

@@ -1,0 +1,11 @@
+auto-indexing of the 1971-77 abi/inform database.
+    explains why it was decided not to index abi/inform when it
+    began in 1971 and why this decision was reversed in 1977. index
+    terms were automatically assigned to the 65,000 abstracts in
+    the on-line data base on 31 dec 77 and controlled vocabulary
+    and index term assignment were introduced for all entries from
+    the jan 78 update onwards. the indexed data base became
+    available in late spring 78. describes the automatic indexing
+    procedure; gives examples of resultant false drops in searches;
+    lists the advantages of introducing indexing; and outlines
+    possible future enhancements to the data base.

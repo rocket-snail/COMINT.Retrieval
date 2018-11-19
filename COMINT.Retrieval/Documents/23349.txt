@@ -1,0 +1,5 @@
+antimetrical lattice filters detailed treatment by image
+    parameter theory illustrates the complete correspondence
+    between this class of filter and the conventional symmetrical
+    type practical examples are given and design formulae for low
+    pass high pass and band pass networks are tabulated

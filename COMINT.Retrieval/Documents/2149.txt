@@ -1,0 +1,12 @@
+solar tides in the f region from the study of night time
+    critical frequencies night time critical frequency variations
+    at ionospheric stations are analysed by season and by latitude
+    for semi diurnal solar tidal terms the amplitude and phase of
+    the vertical drift velocity of electrons so found are
+    consistent with accepted tidal theory and an estimate of the
+    height gradient of the vertical drift is obtained two parallel
+    analyses are made on the alternative assumptions that decay
+    proceeds according to a recombination law or to an attachment
+    law the low values found for the decay coefficients preclude
+    any decision as to which of these two decay processes is
+    actually operative

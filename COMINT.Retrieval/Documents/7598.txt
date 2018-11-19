@@ -1,0 +1,8 @@
+library education at ahmadu bello university, zaria.
+    review of current developments in education for librarianship
+    at ahmadu bello university, zaria, with comments on the likely
+    future of library education in nigeria. the future is seen as
+    very bright, as the number of educational establishment grows.
+    at present nigeria has 4 library schools, but this number could
+    grow to 12 by the year 2000 to meet more adequately the library
+    manpower needs of the country.

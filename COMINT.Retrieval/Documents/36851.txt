@@ -1,0 +1,4 @@
+solution to the realizability problem for irredundant
+    boolean branch networks this type of network is defined for the
+    two terminal and the n terminal case and a general solution is
+    given for the existence and realizability problem

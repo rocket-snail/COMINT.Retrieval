@@ -1,0 +1,3 @@
+analysis and synthesis of antimetrical networks an
+    extension of previous work on symmetrical reactance networks of
+    to reactive ladders with resistance terminations

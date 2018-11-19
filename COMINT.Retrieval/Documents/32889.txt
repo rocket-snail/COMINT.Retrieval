@@ -1,0 +1,5 @@
+microwave modulation of light using the kerr effect
+    modulation of light at and is achieved by applying a
+    superimposed and microwave field to a kerr cell which is
+    incorporated within the high electric field region of a
+    resonant cavity

@@ -1,0 +1,5 @@
+the interaction of the terrestrial magnetic field with
+    the solar corpuscular radiation a previous calculation of on
+    the shape of the interface between the solar plasma and the
+    terrestrial magnetic field is recomputed to obtain a second
+    order approximation

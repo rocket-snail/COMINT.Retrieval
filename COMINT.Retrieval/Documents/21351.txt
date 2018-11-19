@@ -1,0 +1,6 @@
+the series magnetic amplifier a theoretical analysis is
+    given of the steady state operation of the amplifier for
+    saturation states of the cores the control circuit impedance
+    and control voltage relations determining the mode of operation
+    are established and the gain characteristic and time constant
+    are considered

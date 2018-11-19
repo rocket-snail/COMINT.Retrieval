@@ -1,0 +1,7 @@
+precision variable capacitors for high grade electronic
+    equipment two types of small variable capacitor are described
+    which were designed to meet stability and accuracy
+    specifications comparable with larger types one gives a linear
+    frequency variation over of shaft rotation the other gives a
+    sinusoidal variation of frequency about a mean value as the
+    rotor shaft is turned continuously

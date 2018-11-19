@@ -1,0 +1,4 @@
+statistical analysis of geophysical time series notes are
+    provided on dealing with the effects of linear and periodic
+    trends on standard deviation and correlation coefficient
+    significant tests in coherent series are discussed

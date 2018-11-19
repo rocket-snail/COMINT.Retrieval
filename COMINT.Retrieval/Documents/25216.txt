@@ -1,0 +1,4 @@
+proposed harmonic generator or mixer for optical
+    frequencies limitations of the mixer suggested by laine of are
+    discussed and s simpler alternative device using liquid caesium
+    is described

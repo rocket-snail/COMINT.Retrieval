@@ -1,0 +1,7 @@
+analysis of keywords in chemistry. from the 10 million
+    keywords in 3 volumes of 2ca condensates 1for 1977 and 1978,
+    16,000 keywords were assembled from the 200 most frequently
+    occurring ones in each of the 80 sections and analysed for
+    cross-correlation, characteristic features, and relationship to
+    10,000 terms in a separate japanese chemical society
+    list.

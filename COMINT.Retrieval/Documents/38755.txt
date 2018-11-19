@@ -1,0 +1,3 @@
+current voltage behaviour in a plasma an exact solution
+    for the current voltage relation in a planar diode filled with
+    a uniform plasma

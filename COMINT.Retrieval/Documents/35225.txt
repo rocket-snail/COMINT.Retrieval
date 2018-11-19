@@ -1,0 +1,9 @@
+behavior and applications of ferrites in the microwave
+    region both reciprocal and nonreciprocal devices comprising
+    ferrite loaded waveguides are studied the nonreciprocal effects
+    in the latter being based on bire fringence phase shift field
+    displacement and coupling through apertures as well as on
+    rotation of polarization a method called point field analysis
+    facilitates qualitative investigation definitions are given of
+    the gyrator the isolator and the circulator performance of some
+    experimental devices is reported

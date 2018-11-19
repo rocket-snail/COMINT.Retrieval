@@ -1,0 +1,6 @@
+a wide band high power radio frequency transformer
+    detailed description of a transformer forming part of the rf
+    system of the birmingham synchrotron of it is designed for
+    operation from a push pull amplifier and will deliver
+    throughout the frequency range with a duty cycle of sec in
+    every sec

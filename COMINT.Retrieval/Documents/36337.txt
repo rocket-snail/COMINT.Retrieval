@@ -1,0 +1,6 @@
+some solutions to the equations of steady space charge
+    flow in magnetic fields earlier analysis is extended to include
+    the case of magnetic field components perpendicular to the
+    cathode sets of solutions are given for the flow from conical
+    and cylindrical cathodes for a broad class of magnetic field
+    configurations

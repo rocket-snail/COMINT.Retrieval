@@ -1,0 +1,4 @@
+the transient period of the skin effect analysis is given
+    for the distribution of current in cylindrical conductors solid
+    or hollow during the period between application of a voltage
+    and attachment of a steady state

@@ -1,0 +1,8 @@
+on the nature of the transcendental curves associated
+    with the relativistic trajectories of charged particles
+    analysis applicable to particles with moderate relativistic
+    velocities at which radiation loss is negligible the equations
+    of the e trajectory are formulated for the general case of
+    particles injected with arbitrary velocity into crossed
+    electric and magnetic fields the case of zero injection
+    velocity is calculated explicitly see also below

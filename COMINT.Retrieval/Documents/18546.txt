@@ -1,0 +1,7 @@
+vector potential derivation from scalar potentials digest
+    of paper presented at aiee district meeting may definitions are
+    given of vector potential it is shown that vector potentials
+    can be derived from the scalar potentials included in the
+    tables of greens functions below results are given for the
+    field due to a thin rectangular sheet of magnetic material or a
+    rectangular coil

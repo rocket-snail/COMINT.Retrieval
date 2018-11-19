@@ -1,0 +1,7 @@
+a directory of federal statistical data files. the
+    directory of federal statistical data files is designed to
+    provide users information on the existence, location, and
+    acquisition of data released by the federal government in
+    machine-readable form. the directory contains descriptive
+    information on the availability and content of statistical and
+    related files produced by federal agencies.

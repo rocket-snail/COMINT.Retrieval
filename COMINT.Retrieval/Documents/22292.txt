@@ -1,0 +1,8 @@
+study of cooperation in the processing of the technical
+    report literature. the project work consisted of the collection
+    and detailed analysis of lists of data elements currently used
+    by the major reports-processing agencies of the federal
+    government: dtic, doe, nasa and ntis. the data elements and
+    their tags or content indicators were compared, equated or
+    distinguished, and listed in a matrix format for ease of
+    review.

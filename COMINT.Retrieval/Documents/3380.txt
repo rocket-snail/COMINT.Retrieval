@@ -1,0 +1,10 @@
+resistance capacitance networks with over unity gain
+    longmire of and epstein of have described rc circuits with
+    greater output than input voltage a method of increasing the
+    voltage gain by feeding the output voltage of one network into
+    a second network is described the process cannot be extended
+    indefinitely the voltage gain attainable being limited by the
+    impedance increase necessary at each stage experiments
+    confirmed the theory such networks can be used with a cathode
+    follower to construct oscillators in which the valve gain is
+    less than unity an experimental circuit is described

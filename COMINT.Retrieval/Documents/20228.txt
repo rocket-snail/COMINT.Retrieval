@@ -1,0 +1,5 @@
+the magnetic susceptibility of an electron gas the
+    cluster expansion of the quantum mechanical grand partition
+    function is obtained for a gas of interacting charged particles
+    in a uniform magnetic field and applied to calculate the
+    susceptibility of an electron gas for small fields

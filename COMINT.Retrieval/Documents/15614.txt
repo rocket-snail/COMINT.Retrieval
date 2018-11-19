@@ -1,0 +1,21 @@
+data-tagging experiment for energy-related documents at
+    chemical abstracts service. an experiment is described that
+    evaluated the usefulness and economic feasibility of
+    incorporating data tags into secondary information files. tags
+    are brief codes that indicate the presence in a primary
+    document of specific types of numerical data. tags were
+    selected in cooperation with users of the u.s. department of
+    energy's (doe) recon system and added to a special version of
+    the computer-readable energy file. recon users assisted in an
+    evaluation of the tagging process. it was found that data tags
+    do increase access to numerical data in the primary literature,
+    but a file spanning several years is necessary to produce
+    useful results. evaluation of processing costs revealed that
+    after the initial training period, costs were not significantly
+    greater for the number and types of data tags employed in this
+    study. the feasibility of including data tags in nonenergy
+    sections of 2chemical abstracts 1was examin ed with primary
+    emphasis on economic and editorial factors. it was shown that
+    subject content governs the selection of data types to be
+    tagged for a section or group of related sections with the
+    overriding consideration of user requirements.

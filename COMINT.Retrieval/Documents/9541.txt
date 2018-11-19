@@ -1,0 +1,5 @@
+an introduction to automated literature searching.
+    written for beginners in the automated retrieval of published
+    literature, considers sources and methods of searches and the
+    evaluation of results and explains how the computer carries out
+    the search.

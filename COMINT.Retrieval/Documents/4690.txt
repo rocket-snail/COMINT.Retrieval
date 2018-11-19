@@ -1,0 +1,4 @@
+population inversion and continuous optical maser
+    oscillation in a gas ds discharge containing a he ne mixture
+    experimental data on the physical properties of the system are
+    discussed

@@ -1,0 +1,7 @@
+the effect of temperature and acoustic impedance of
+    vapours on the electrical constants of quartz measurements were
+    made of the equivalent resistance of a crystal vibrating in
+    vapours of various organic liquids at a given temperature the
+    equivalent resistance depends on the pressure as the
+    temperature increases the equivalent resistance decreases the
+    rate of decrease depending on the particular vapour

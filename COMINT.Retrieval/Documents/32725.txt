@@ -1,0 +1,6 @@
+the size effect of ferrite spheres the integral equation
+    technique is used to derive an approximate formula for the
+    apparent susceptibility of a small ferrite sphere within a
+    microwave cavity using a variational principle a first order
+    estimate is obtained for the effect of a plane wall and the
+    effect of the size of the sphere

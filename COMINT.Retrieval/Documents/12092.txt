@@ -1,0 +1,4 @@
+the association of visible auroral forms with radar
+    echoes an extension of earlier work to detect a more detailed
+    correlation between echoes and specific visible auroral
+    forms

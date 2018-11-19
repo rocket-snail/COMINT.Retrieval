@@ -1,0 +1,10 @@
+satellite sounder and telemeter chart ionosphere electron
+    density a satellite borne ionosonde is described which is to be
+    launched into a orbit by the usa measurements will be made on
+    six log spaced frequencies between and by transmitting pulses
+    of each frequency in turn crossed dipole receiving aerials are
+    connected in phase quadrature and the receiver is arranged to
+    receive echo pulses of one polarization and then pulses of
+    opposite polarization a transistorized transmitter gives z peak
+    power of with pulse length data will be recorded by the
+    satellite and transmitted on command to ground stations

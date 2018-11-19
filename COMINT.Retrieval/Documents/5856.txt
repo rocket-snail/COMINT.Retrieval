@@ -1,0 +1,12 @@
+the vector wave function solution of the diffraction of
+    electromagnetic waves by circular disks and apertures part
+    oblate spheroidal vector wave functions part the diffraction
+    problems the vector wave functions considered are the
+    solenoidal solutions of the vector helmholtz equation oblate
+    spheroidal vector wave functions are defined and the expansions
+    for plane polarized waves in terms of them are obtained a
+    unique solution is obtained for the diffraction by an
+    infinitely thin perfectly conducting circular disk and by a
+    plane conducting screen two separate groups of these functions
+    are combined to fulfil the condition at the rims of the
+    aperture and disk using the spheroidal coordinate system

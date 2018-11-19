@@ -1,0 +1,3 @@
+the solution of partial differential equations by
+    difference methods using the electronic differential
+    analyzer

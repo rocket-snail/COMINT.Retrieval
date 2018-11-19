@@ -1,0 +1,4 @@
+short cut multiplication and division in automatic binary
+    digital computers a modified short cut process is proposed and
+    the application of such procedures to restoring or non
+    restoring division techniques is discussed

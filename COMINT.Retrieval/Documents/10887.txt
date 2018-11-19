@@ -1,0 +1,8 @@
+communication with an oclc model 100 terminal. the oclc
+    model 100 computer terminal was designed originally to be used
+    in conjunction with the oclc (online computer library center)
+    on-line cataloguing system. this study considers the use of the
+    terminal for other, more localised, computer applications as a
+    user interface. the study shows how the 2 main disadvantages of
+    the terminal; non-standard communications protocol and
+    non-standard character set were overcome.

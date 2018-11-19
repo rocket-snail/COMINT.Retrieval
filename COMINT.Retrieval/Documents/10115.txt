@@ -1,0 +1,16 @@
+an analysis of the differences between density-of-use
+    ranking and raw use ranking of library journal use. reports of
+    journal titles ranked by use with space and cost information
+    included for each title can provide a means for making certain
+    objective journal collection development decisions. each title
+    can be assessed in relation to the others and the data for all
+    titles can be cumulated so that decisions can be made at
+    various cutoff points. simple ranking of titles by raw use
+    (rur) may be inadequate and should be adjusted by some measure
+    to allow for how much of the title is available to the user at
+    the time of the collection of the use data. if the raw-use
+    frequency of a title is divided by the actual linear shelf
+    space of the title's file, a 'density-of-use' frequency is
+    obtained. if these frequencies are then ranked, a
+    'density-of-use rank' (dur) is formed. some differences between
+    rur and dur have been analysed.

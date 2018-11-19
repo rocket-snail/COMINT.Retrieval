@@ -1,0 +1,5 @@
+noise consideration of the variable capacitance
+    parametric amplifier a simplified theory assuming the noise
+    source is a resistance in series with the variable capacitance
+    gives calculated gain and noise figures agreeing with measured
+    values for diodes

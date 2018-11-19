@@ -1,0 +1,7 @@
+piezoelectric oscillations of quartz plates at even and
+    half odd harmonics a number of quartz plates of different
+    dimensions were plated with ag al or cu by various methods and
+    tested in the same circuit results show that a quartz plate has
+    preferred modes of oscillation at the odd and even harmonic and
+    at frequencies mid way between these though the amplitude of
+    the odd harmonics is very much the greater

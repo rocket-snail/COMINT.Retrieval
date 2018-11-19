@@ -1,0 +1,7 @@
+the emission of radiation from model hydrogen
+    chromospheres part an improved method is presented for
+    calculating the characteristics of the radiation field of and
+    the lyman continuum emitted by model hydrogen atmospheres at
+    kinetic temperratures of k a useful application of the results
+    would be in interpreting observations of prominences and
+    flares

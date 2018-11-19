@@ -1,0 +1,6 @@
+the cylindrical te mode cavity including a semiconductor
+    sample with tensorial electrical conductivity the impedance
+    matrix and characteristic s matrix are derived for two
+    configurations of the input guides one case is suitable for the
+    measurement of hall mobility and for the other the proper
+    conditions for use as an isolator are investigated

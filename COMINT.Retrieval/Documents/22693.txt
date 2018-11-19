@@ -1,0 +1,8 @@
+multilevel information system-towards more flexible
+    information retrieval systems. the multilevel information
+    system (mlis), an extension of a typical information retrieval
+    system towards more complete data processing, is discussed.
+    mlis integrates functions typical for data base management
+    systems and retrieval-oriented systems. several levels of data
+    accessing are provided, each level developed for a different
+    class of users.

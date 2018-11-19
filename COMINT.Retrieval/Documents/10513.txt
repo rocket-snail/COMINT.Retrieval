@@ -1,0 +1,5 @@
+fundamental oscillations of coils and windings analysis
+    is given based on the solution of a fredholm integral equation
+    fundamental frequencies are evaluated for air core and iron
+    core coils and iron core coils and the voltage distribution is
+    discussed see also of march

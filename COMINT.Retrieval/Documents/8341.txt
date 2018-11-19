@@ -1,0 +1,7 @@
+electromagnetic and acoustic scattering by a semi
+    infinite body of revolution theory developed by kline of is
+    used to determine the scattering of a plane wave incident along
+    the axis of a perfectly reflecting body for the case of a
+    paraboloid the solution of the em problem is obtained exactly
+    in closed form the results are compared with those obtained
+    from consideration of current distribution as in below

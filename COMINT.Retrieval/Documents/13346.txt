@@ -1,0 +1,10 @@
+concerning the minimum number of resonators and the
+    minimum unloaded q needed in a filter the number of resonator
+    elements required to meet given specifications of filter
+    characteristics and the lowest no load values of q which the
+    resonators may have can be deduced from the formulae and graphs
+    given the specifications include the accept and reject
+    bandwidths the peak valley ripple ratio and response in the
+    reflect band of the selective circuit both constant k and m
+    derived types of filter are considered and numerical examples
+    are worked out

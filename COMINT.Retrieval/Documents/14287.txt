@@ -1,0 +1,5 @@
+a phase sensitive detector a detailed circuit is given of
+    a system for measuring the voltage swr in a waveguide by
+    detecting a modulated carrier by using a very narrow effective
+    bandwidth detection is possible at signals levels as low
+    as

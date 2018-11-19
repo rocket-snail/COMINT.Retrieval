@@ -1,0 +1,4 @@
+stabilized hv power supply application to millimetre wave
+    klystrons a circuit is described in which the series stabilizer
+    valve is inductively coupled to the error amplifier an output
+    of at can be provided

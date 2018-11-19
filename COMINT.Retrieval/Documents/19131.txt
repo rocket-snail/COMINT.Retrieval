@@ -1,0 +1,2 @@
+variational method for the calculation of the
+    distribution of energy reflected from a periodic surface

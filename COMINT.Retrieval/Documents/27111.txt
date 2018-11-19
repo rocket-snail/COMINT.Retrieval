@@ -1,0 +1,3 @@
+calculation of the static characteristic of a nonlinear
+    multipole without inertia when the dynamic characteristic is
+    known

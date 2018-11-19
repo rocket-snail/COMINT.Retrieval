@@ -1,0 +1,8 @@
+stable oscillation conditions for the magnetic film
+    parametron a mathematical analysis of a parametron is given
+    this parametron uses a single domain magnetic film as the core
+    of a nonlinear nductor absorbing energy from an alternating
+    pump field and delivering energy to a signal winding graphical
+    means of determining stability conditions amplitudes and phases
+    of the oscillating variables and the range of operating
+    frequencies are discussed

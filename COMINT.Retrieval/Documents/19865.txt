@@ -1,0 +1,16 @@
+designing optical mark forms for reference statistics.
+    data are recorded on optical mark forms using a soft pencil to
+    place a series of marks in specified areas, a technique that is
+    commonly used on examination answer sheets. the data are then
+    available for computer tabulation and analysis. reference-desk
+    statistics can efficiently be collected in machine-readable
+    form by using such a technique. information relevant to the
+    design of an optical mark form is presented along with
+    important software considerations. the overriding concern when
+    designing an optical mark form to be used at the reference desk
+    is to provide the ability to record all necessary information
+    while requiring as few marks as possible. useful data
+    categories are identified, and figures illustrate how data can
+    be recorded for each category. presents information resulting
+    from the design and use of such a programme at the university
+    library, university of nebraska at omaha.

@@ -1,0 +1,5 @@
+analysis of focuser for maser oscillators a mathematical
+    study of the characteristics of eight pole four pole and square
+    well focusers the main conclusions refer to the focusing length
+    and the influence of the velocity distribution in the
+    beam

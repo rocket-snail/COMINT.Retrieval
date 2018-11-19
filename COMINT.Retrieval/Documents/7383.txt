@@ -1,0 +1,3 @@
+a note on the confinement of a plasma by rf fields a
+    rigorous derivation of certain results previously obtained by
+    boot et al by inferior methods

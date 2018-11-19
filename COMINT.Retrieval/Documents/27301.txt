@@ -1,0 +1,9 @@
+dimensions and units by considering the expression for
+    power in terms of the dimensions m l and t on the one hand and
+    in terms of current and voltage on the other hand it follows
+    that quantity of electricity may be regarded as having the
+    dimensions l using this result all the other electrical
+    magnitudes can be expressed in terms of m l and t with integral
+    indices the separate question of the best system of units is
+    discussed briefly the mks system fits well with the above
+    dimensional system

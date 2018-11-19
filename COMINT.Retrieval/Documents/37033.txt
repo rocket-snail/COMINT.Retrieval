@@ -1,0 +1,4 @@
+the exactness of the solution of a radiation or
+    diffraction problem criteria of uniqueness may be applied to
+    various problems of propagation in media satisfying linear
+    equations

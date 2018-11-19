@@ -1,0 +1,6 @@
+pulse detector with an inductance capacitance filter an
+    ideal detector with an lcr filter is considered taking into
+    account the internal impedance of the current source a method
+    is proposed for calculating the voltage at the load when
+    detecting pulses of arbitrary shape and the necessary formulae
+    are derived

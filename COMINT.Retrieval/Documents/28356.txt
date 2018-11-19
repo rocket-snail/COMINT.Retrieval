@@ -1,0 +1,5 @@
+on the synthesis of reactance poles using theory
+    developed by belevitch formulae are derived for the elements of
+    the impedance or admittance matrix of a loss free quadripole
+    which when terminated by a resistor realizes a prescribed
+    physical driving point impedance

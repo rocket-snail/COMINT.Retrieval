@@ -1,0 +1,5 @@
+the theory of negative feedback voltage amplifiers a
+    modification of the standard method of analysis taking account
+    of the fact that the attenuated feedback voltage cannot always
+    be subtracted directly from the input voltage in
+    practice

@@ -1,0 +1,9 @@
+considerations of photoemissive energy converters the
+    efficiency of a o solar energy converter consisting of a
+    emitter and an ag collector is calculated taking into account
+    the initial velocities of the photoelectrons but ignoring space
+    charge efficiencies between and are obtained for output
+    voltages between and the efficiency increases as the percentage
+    of blue and ultraviolet radiation in the source is increased to
+    minimize space charge effects the emitter collector spacing
+    must be of the order of or less

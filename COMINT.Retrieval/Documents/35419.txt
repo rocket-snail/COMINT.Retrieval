@@ -1,0 +1,6 @@
+the gain of travelling wave ferromagnetic amplifiers the
+    gain of an amplifier using a circular waveguide and axial
+    ferrite rod of small cross section is determined by a general
+    perturbation method methods for overcoming the low efficiency
+    are discussed and other possible waveguide configurations and
+    practical aspects of construction are described

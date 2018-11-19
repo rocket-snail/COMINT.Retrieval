@@ -1,0 +1,5 @@
+an engineering approach to the design of transistor
+    feedback amplifiers a technique is developed for amplifier
+    design which produces very accurate expressions for the
+    transmittance without requiring any quantitative information
+    about the transistors

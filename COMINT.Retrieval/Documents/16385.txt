@@ -1,0 +1,3 @@
+lossy coupling in parametric amplifier a method of
+    analysing a two resonant circuit parametric amplifier with a
+    lossy coupling branch

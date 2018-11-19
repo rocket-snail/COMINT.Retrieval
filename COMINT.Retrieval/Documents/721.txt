@@ -1,0 +1,7 @@
+narrow band magnetostrictive filters filters each with a
+    bandwidth of are arranged with inputs in series and outputs
+    isolated from one another to form a bank with a centre
+    frequency of about design and construction are described and
+    applications of single resonators and arrays are considered
+    temperature effects are reduced by using cobalt substituted
+    ferrites

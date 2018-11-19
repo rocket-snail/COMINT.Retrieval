@@ -1,0 +1,3 @@
+an analogy between the effects of fluctuating electric
+    fields and steady magnetic fields in isotropic conductors when
+    a universal relaxation time cannot be defined

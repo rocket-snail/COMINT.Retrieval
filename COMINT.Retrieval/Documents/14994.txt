@@ -1,0 +1,6 @@
+communications using word processing systems.
+    communication between word processor equipment is reviewed
+    extensively. surveys communication protocols and networks.
+    several possibilities to link word processors are described,
+    leading into a discussion of electronic mail and
+    teleconferencing.

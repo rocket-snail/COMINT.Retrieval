@@ -1,0 +1,9 @@
+why fight grid current in class b modulators by using
+    triode valves with low anode resistance and low amplification
+    factor efficient operation of audio amplifiers can be obtained
+    without allowing the grid voltage to swing positive grid
+    current is thus avoided direct coupling may be used between the
+    driving amplifier and a modulator operated in this way
+    permitting the use of a large amount of negative feedback
+    measured response and distortion are presented for a modulator
+    designed on these lines

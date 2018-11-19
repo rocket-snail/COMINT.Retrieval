@@ -1,0 +1,4 @@
+unijunction transistor forms flip flop the construction
+    and performance are described of a multivibrator circuit for a
+    stable or monostable operation see also its active element is
+    the double base diode a terminal pn junction device

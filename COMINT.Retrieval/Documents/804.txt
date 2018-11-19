@@ -1,0 +1,4 @@
+narrow band amplification with transistors the design
+    formulae for tuned circuit coupling of amplifier stages with
+    resistance and with reactance matching are considered and
+    design curves are given for optimum circuit conditions

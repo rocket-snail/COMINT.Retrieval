@@ -1,0 +1,2 @@
+spherical neumant function (algorithm 49) april, 1961
+    herndon, j. r. ca610416 jb march 16, 1978 11:51 pm

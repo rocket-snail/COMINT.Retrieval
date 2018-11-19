@@ -1,0 +1,4 @@
+surge voltage breakdown of air in a nonuniform field
+    experiments on discharges between a spherical and a plane
+    electrode are described and a tentative explanation of the
+    breakdown mechanism is presented

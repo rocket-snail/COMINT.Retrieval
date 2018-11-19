@@ -1,0 +1,8 @@
+implifications of holography for information systems. the
+    advantages of using holography for information storage and
+    other applications are presented. the advantages are higher
+    storage capacity than semiconductor memories, bubble memories;
+    utilisation for character recognition; 3-dimensional
+    projection; television discs; colour reproduction; ability to
+    combine with other technologies such as optical fibres,
+    videodisc; reference; and file security systems.

@@ -1,0 +1,6 @@
+time signal generator employing decade counting tubes in
+    a frequency dividing circuit operated in conjunction with a
+    frequency standard and using two decade counters to effect the
+    last stages of division from fluctuation of delay time for the
+    leading edge of the seconds output pulse is and for the
+    trailing edge or better

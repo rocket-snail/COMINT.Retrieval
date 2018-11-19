@@ -1,0 +1,4 @@
+verification of earths pear shape gravitational harmonic
+    errors in the predictions of the orbit of the transit ib
+    satellite are accounted for by a third order gravitational
+    harmonic previously evaluated by okeefe et al

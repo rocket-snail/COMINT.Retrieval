@@ -1,0 +1,13 @@
+oceanographic management information system (omis)' the
+    navy oceanographic requirements database, development phase.
+    the navy oceanographic requirements (nor) relate to the
+    oceanographic/environmental needs of navy systems and fleet
+    units in a wide variety of scientific and technological
+    disciplines. the nor data base is a collection of information
+    pertaining to the current needs expressed by the fleet or
+    derived from system specifications. the same closed vocabulary
+    keyword system used in the navy oceanographic program (nop)
+    data base is used to provide correlation between the datasets.
+    this data base has been turned over to the naval oceanographic
+    office, information systems office, for operation as part of
+    the overall oceanographic management information system.

@@ -1,0 +1,12 @@
+nonlinear oscillators and the nyquist diagram two types
+    of nonlinear oscillators having amplitude limiting are
+    considered their equations become linear when a particular
+    value is chosen for the parameter involving the amplitude a
+    single curve can then be drawn for this particular value on the
+    same principle as the ordinary nyquist curve other values of
+    the parameter yield a family of curves showing the stages in
+    the evolution of oc oscillations conditions for stable and
+    unable oscillations are derived and the results extended to
+    cover response to a small perturbation frequency stability and
+    synchronization limits a brief account of part of the work was
+    given in and of

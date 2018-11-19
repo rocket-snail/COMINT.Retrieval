@@ -1,0 +1,4 @@
+continuous phase difference measurements of earth
+    satellites two similar receivers are used operated from a
+    common local oscillator the phase meter compares the af tones
+    from the two receivers see also of

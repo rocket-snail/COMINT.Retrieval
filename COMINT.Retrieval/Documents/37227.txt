@@ -1,0 +1,4 @@
+the radio brightness of the quiet sun at cm wavelength
+    near sunspot maximum th quiet sun temperature measured using
+    pencil beam and fan beam techniques is approximately this value
+    is twice that for the same wavelength at sunspot minimum

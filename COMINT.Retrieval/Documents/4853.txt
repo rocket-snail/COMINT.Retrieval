@@ -1,0 +1,7 @@
+diffraction of electromagnetic waves by a metallic wedge
+    of acute dihedral angle an investigation is made of the field
+    produced by reflections within the space included between two
+    plane condductors set at an angle experimental and theoretical
+    results are given for angles of and discussion indicates that
+    the field pattern for angles which are integral fractions of
+    can be computed on the basis of geometrical optics

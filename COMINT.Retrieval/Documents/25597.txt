@@ -1,0 +1,6 @@
+near zone back scattering from large spheres theoretical
+    treatment of back scatter from a perfectly conducting sphere
+    for short wavelengths the back scatter cross section is
+    modified considerably as the receiver approaches to within a
+    few radii and becomes the cross section of a flat plate for a
+    receiver very near the sphere

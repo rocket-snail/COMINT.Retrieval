@@ -1,0 +1,7 @@
+infrared communications. january, 1975-january, 1981
+    (ctiations from the international service for the physics and
+    engineering communities data base). discusses the use of
+    infrared light waves in communication. descriptions of the
+    design and implementation of devices using laser and thermal
+    imaging for this purpose are also included. properties and uses
+    of various infrared transmitting materials are covered.

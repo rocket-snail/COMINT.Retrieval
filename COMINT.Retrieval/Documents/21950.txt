@@ -1,0 +1,5 @@
+properties of some wide bank phase splitting networks
+    errors in the design equations presented by luck are indicated
+    and alternative methods of deriving the design parameters are
+    mentioned the return difference matrix in linear
+    networks

@@ -1,0 +1,5 @@
+diffraction by a perfectly absorbing thin screen
+    comparative measurements of the diffraction patterns in and
+    near slits of perfectly absorbing and reflecting thin screens
+    show that the reflected diffraction patterns of the slits are
+    the same for distances greater than

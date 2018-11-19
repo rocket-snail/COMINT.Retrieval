@@ -1,0 +1,5 @@
+the total electron content through the entire ionosphere
+    by the faraday rotation technique a linear relation between
+    total electron density anc and is demonstrated which presents a
+    possible method of determining variations in intensity of solar
+    ionizing radiation

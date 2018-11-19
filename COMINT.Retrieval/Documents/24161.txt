@@ -1,0 +1,4 @@
+nonreciprocal parametric amplifier circuits two circuit
+    configurations are given which do not use a circulator but
+    which have similar properties to the single port reflection
+    amplifier with a three port circulator

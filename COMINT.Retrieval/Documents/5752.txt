@@ -1,0 +1,8 @@
+a study of surface roughness and its effect on the back
+    scattering cross section of spheres experimental data obtained
+    by measuring the back scattering cross section of a large rough
+    sphere at three frequencies in the s x and k bands are
+    presented even for a sphere whose depth of roughness is as
+    large as the measured change in cross section is no more than
+    this is in good agreement with the theoretical
+    prediction

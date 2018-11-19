@@ -1,0 +1,6 @@
+infinite matrices associated with diffraction by an
+    aperture the results obtained by levine and of are discussed
+    and it is shown that the algebraic properties of the matrix
+    used are such as to permit determination not only of the
+    transmission coefficient but also of the distribution of field
+    across the aperture

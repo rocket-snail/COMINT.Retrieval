@@ -1,0 +1,6 @@
+transistor pulse generators for time division multiplex
+    point contact transistor circuits to generate pulses in the
+    microsecond range are described together with means of
+    frequency dividing and interlacing pulse trains and their
+    application to time division operation of telephone
+    transmission and switching systems

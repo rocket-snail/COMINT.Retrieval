@@ -1,0 +1,4 @@
+designing oscillators for greater stability methods of
+    improving the frequency stability of an oscillator which can be
+    divided into an amplifier and a feedback network are described
+    and examples are given

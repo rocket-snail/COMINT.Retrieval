@@ -1,0 +1,5 @@
+a voltage variable capacitor details of a subminiature
+    junction device with a variable capacitance controllable by
+    bias voltage are given applications of the varicap to an f m
+    transmitter an amplifier and a variable filter are described
+    see also of

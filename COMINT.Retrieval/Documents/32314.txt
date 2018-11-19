@@ -1,0 +1,9 @@
+analysis of transient processes in diode detection by a
+    method based on the use of low frequency equivalent circuits a
+    method is proposed for analysing the transient processes in a
+    system consisting of a hf amplifier and a diode detector the
+    method is based on the linear approximation of the processes
+    occurring during detection and on the replacement of the
+    detector and of the amplifier circuits by equivalent lf
+    circuits various types of circuits and various shapes of the
+    envelopes of the input signal are considered

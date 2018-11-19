@@ -1,0 +1,7 @@
+ime shared amplifier stabilizes computers drift in the dc
+    operational amplifiers of analogue computers is reduced by
+    connecting them periodically to the output of an auxiliary
+    stabilizing amplifier the advantages of using a direct coupled
+    rather than a chopper type of amplifier for this purpose are
+    indicated circuit details are described including the switching
+    and filtering arguments

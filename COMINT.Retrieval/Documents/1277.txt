@@ -1,0 +1,6 @@
+ten channel time division multiplexer a magnetron beam
+    switching tube forms the basis of a contact single channel
+    circuit giving switching times of about the tube is used in
+    conjunction with a gating system a gate circuit is described
+    which permits the examination of signals in the microvolt
+    range

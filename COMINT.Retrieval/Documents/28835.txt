@@ -1,0 +1,4 @@
+parametric devices tested for phase distortionless
+    limiting tests on two devices are described one is a amplifier
+    and the other an s band converter both use variable capacitance
+    diodes

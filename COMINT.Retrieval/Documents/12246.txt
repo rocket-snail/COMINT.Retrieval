@@ -1,0 +1,10 @@
+experimental and theoretical investigation of a frequency
+    stabilized transistor oscillator for the condition for
+    oscillation of a feedback oscillator is derived the amplifier
+    its load and the feedback network are treated as a single
+    cascaded quadripole output voltage and frequency variations as
+    a function of temperature load and supply voltage were measured
+    on a practical circuit containing a quartz crystal resonator a
+    general rule for adjusting the emitter series resistance so
+    that the input parameters remain constant during variations of
+    temperature could not be established

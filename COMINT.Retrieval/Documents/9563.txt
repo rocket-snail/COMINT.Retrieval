@@ -1,0 +1,4 @@
+high selectivity with constant phase over the pass band a
+    relatively simple frequency inversion process is described for
+    compensation of phase shifts in filters resulting in a constant
+    output signal phase

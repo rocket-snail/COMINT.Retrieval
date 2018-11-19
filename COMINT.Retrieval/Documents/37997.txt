@@ -1,0 +1,4 @@
+electronic probability generator description of a random
+    pulse generator simulating the tossing of a coin times per
+    second the probability of a particular side of the coin can be
+    varied

@@ -1,0 +1,4 @@
+method for measurement of absorption coefficients by
+    microwave spectroscopy a technique using a modulated stark cell
+    is described with the aid of a diagram of the experimental set
+    up errors are estimated to be less thzn

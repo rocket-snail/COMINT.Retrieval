@@ -1,0 +1,9 @@
+a new non reciprocal waveguide medium using ferrites a
+    narrow ferrite strip is attached along the wall of a circular
+    section waveguide and subjected to a transverse magnetic field
+    a difference in phase constant exists for the two directions of
+    transmission along the guide for suitable ferrite dimensions a
+    nonreciprocal rotation of the plane of polarization of an em
+    wave takes place a more complete theoretical explanation is to
+    be published the case of an axial ferrite rod with an applied
+    axial field has been considered by hogan of

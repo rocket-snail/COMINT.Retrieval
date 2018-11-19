@@ -1,0 +1,5 @@
+transient analysis of the white cathode follower the
+    circuit provides an output impedance and transmits pulses of
+    either polarity with minimum distortion transient analysis is
+    made and the effect of varying circuit parameters is
+    discussed

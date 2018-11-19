@@ -1,0 +1,12 @@
+spin echo serial storage memory methods are discussed for
+    storing information in the form of pulses in a nuclear magnetic
+    resonance system by use of the free induction spin echo
+    technique th storage capacity in liquids is expressed in terms
+    of the thermal noise of the detecting apparatus the self
+    diffusion of the molecules and the relaxation times undesired
+    echoes arising from the interaction of input pulses are
+    eliminated by and magnetic field modulation techniques glycerin
+    and solutions of paramagnetic ions in water provide storage
+    times of with a storage capacity of the order of echoes larger
+    capacities expected from liquids with long relaxation times are
+    not realized owing to self diffusion

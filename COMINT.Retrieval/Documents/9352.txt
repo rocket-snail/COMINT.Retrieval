@@ -1,0 +1,4 @@
+health effects evaluation data file. the design of the
+    health effects evaluation data (heed) file and the methods used
+    to abstract, code, and computerise health hazard evaluation
+    (hhe) and technical assistance (ta) data are described.

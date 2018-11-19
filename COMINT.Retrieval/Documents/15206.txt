@@ -1,0 +1,4 @@
+the design of controlled rectifiers using triode
+    transistors polyphase rectifiers are described with switching
+    elements of p n p and n p n transistors and stability
+    conditions are investigated graphically

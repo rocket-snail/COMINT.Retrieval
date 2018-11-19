@@ -1,0 +1,10 @@
+analysis of a special purpose rc filter incorporating a
+    periodically conducting bilinear element the circuit discussed
+    is essentially a low pass filter incorporating a two way switch
+    modulated carrier is applied and the switch is operated at
+    carrier frequency so that the output is a series of amplitude
+    modulated pulses analysis is presented based on consideration
+    of the stepwise accumulation of charge by the capacitor and
+    taking account of the dead time when the switch is out of
+    contact application in the field of automatic control is
+    mentioned

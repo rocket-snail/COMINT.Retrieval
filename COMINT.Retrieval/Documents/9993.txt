@@ -1,0 +1,4 @@
+a method of synthesis of linear passive networks for
+    transient conditions a method of synthesis is described for
+    networks wrth transient response of unit function or dirac
+    function type

@@ -1,0 +1,5 @@
+a cold cathode scaling unit the five decade scaler uses
+    dekatrons interstage coupling being by cold cathode gas filled
+    trigger triodes the resolving time is which makes it suitable
+    for application in conjunction with counter tubes operation
+    under varying climatic conditions has been satisfactory

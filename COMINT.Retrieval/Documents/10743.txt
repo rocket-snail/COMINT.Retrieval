@@ -1,0 +1,6 @@
+spherical frustum cavities symmetrical spherical frustum
+    cavities are studied as intermediate cases between the sphere
+    and the cylinder resonance wavelengths and factors are
+    determined by abeles method a wavemeter using a hemispherical
+    cavity partly filled with is proposed curves are presented
+    showing the variation of with cavity size for and

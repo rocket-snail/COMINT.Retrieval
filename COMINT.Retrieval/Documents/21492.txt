@@ -1,0 +1,4 @@
+microsystems and molecular electronics a special issue
+    containing nine papers describing the need for microsystems and
+    designs for modular and solid state circuits the last three
+    papers are abstracted separately

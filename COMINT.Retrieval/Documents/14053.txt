@@ -1,0 +1,4 @@
+the figure of merit of magnetic amplifiers combination of
+    complex number and boolean algebra is outlined which can be
+    applied in the analysis and synthesis of networks containing
+    switches

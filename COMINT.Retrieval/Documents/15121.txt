@@ -1,0 +1,5 @@
+role of double quantum transitions in masers conditions
+    are found in which the operation of a three level maser is
+    governed by the double quantum process and does nor require a
+    true pumping stage such a case although realizable in practice
+    may be of doubtful technical applicability

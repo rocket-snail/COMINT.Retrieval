@@ -1,0 +1,6 @@
+short time stability of a quartz crystal oscillator as
+    measured with an ammonia maser appreciable improvement in the
+    short time stability is achieved by immersing the crystal in
+    liquid helium control of the pressure of the gas above the
+    liquid improves the long time stability though adversely
+    affecting the short time stability

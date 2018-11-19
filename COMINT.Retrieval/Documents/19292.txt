@@ -1,0 +1,7 @@
+study of thematic interests of branch enterprises.
+    presents the results of a wide-ranging study of the subject
+    interests of the various levels in the soviet shipbuilding
+    industry and describes a data retrieval system which is
+    searched by combining various signs indicating the searcher's
+    position in the industry's technological, administrative, and
+    economic branch structure.

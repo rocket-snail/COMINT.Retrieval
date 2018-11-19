@@ -1,0 +1,2 @@
+i r e standards on circuits definitions of terms for
+    linear signal flow graphs

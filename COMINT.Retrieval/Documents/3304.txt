@@ -1,0 +1,7 @@
+proceedings of the seminar on the dod computer security
+    initiative program, national bureau of standards. a series of 3
+    seminars to acquaint computer system developers and users with
+    the status of 'trusted' adp system developments within the
+    department of defense and current planning for the integrity
+    evaluation of commercial implementations of similar
+    systems.

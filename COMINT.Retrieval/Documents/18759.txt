@@ -1,0 +1,6 @@
+the reactance tube as a parametric frequency divider and
+    amplifier derivation of the equivalent circuit of a parametric
+    amplifier in which a reactance valve functions as a time
+    varying inductance i if the signal source is removed the
+    circuit will operate as a frequency divider where the output is
+    a subharmonic of the pump frequency

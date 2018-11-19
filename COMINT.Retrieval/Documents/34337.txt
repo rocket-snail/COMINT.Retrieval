@@ -1,0 +1,7 @@
+a viewdata interface for arbitrary computer programs.
+    describes the main algorithms in a computer program for
+    interfacing a viewdata terminal with arbitrary application
+    computer programs (which were not specially written for the
+    terminal). the interface handles the problems of partioning the
+    input and output to or from the application to suit the small
+    and non-scrolling screen of the viewdata terminal.

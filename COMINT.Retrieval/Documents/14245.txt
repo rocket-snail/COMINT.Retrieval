@@ -1,0 +1,5 @@
+study of certain errors in analogue computers linear and
+    nonlinear imperfections in adding and integrating circuits are
+    related to errors in the solution of differential equations
+    analogue computers using only a c amplifiers are shown to be a
+    practical proposition

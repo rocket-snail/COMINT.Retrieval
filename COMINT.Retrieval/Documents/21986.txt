@@ -1,0 +1,6 @@
+on the use of commercial wire wound resistors in high
+    level video amplifiers by compensating the inherent inductance
+    by means of a parallel network commercial wire wound resistors
+    can be adapted for use in high power video amplifiers practical
+    arrangements are illustrated and results of measurements are
+    compared with calculated values

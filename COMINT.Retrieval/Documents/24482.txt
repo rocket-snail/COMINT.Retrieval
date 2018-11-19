@@ -1,0 +1,5 @@
+analysis and design of a transistor blocking oscillator
+    including inherent nonlinearities the nonlinear differential
+    equations governing circuit performance are derived analogue
+    and digital computer solutions yield pulse responses in
+    agreement with experimental results

@@ -1,0 +1,7 @@
+the electrical conductivity and current noise of carbon
+    resistors the variation of resistance with temperature pressure
+    and magnetic field in several types of carbon resistor was
+    measured down to liquid he temperatures the dependence of the
+    noise spectrum on the current intensity temperature and
+    magnetic field was also investigated the law holds at all
+    temperatures

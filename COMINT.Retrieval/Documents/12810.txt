@@ -1,0 +1,7 @@
+equilibrium electron distributions in the ionospheric f
+    layer the equilibrium equation has been solved numerically for
+    the daytime f region using isothermal and actual ionospheric
+    models at the f layer peak the effects of production loss and
+    plasma diffusion are approximately equal below the peak
+    diffusion is unimportant but becomes dominant above it where
+    the electron distribution takes on an exponential form

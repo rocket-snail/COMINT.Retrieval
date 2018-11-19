@@ -1,0 +1,5 @@
+nonresonance absorption of electromagnetic waves in a
+    magneto active plasma analysis of the absorption of ordinary
+    extraordinary and plasma waves outside the gyromagnetic
+    resonance regions taking account of collisions and the specific
+    absorption mechanism

@@ -1,0 +1,6 @@
+the magnetic screening effect of iron tubes the problem
+    is approached by considering the induced pole strength on the
+    surface of the iron the distribution of pole strength in
+    general produces a magnetic field which varies from place to
+    place over the screened region observations support the
+    calculated values of screening ratio

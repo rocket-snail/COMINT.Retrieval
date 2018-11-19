@@ -1,0 +1,9 @@
+dobis-wln impact study. report. the bcuc study team
+    examined 3 systems for possible application to the british
+    columbia union catalogue' washington library network, dobis as
+    implemented by college bibliocentre and dobis as implemented by
+    the national library of canada. it was found that none of the
+    systems would be usable by bcuc without some modification. the
+    national library version of dobis was selected with the
+    qualification that more initial work would be needed than the
+    others to bring it into production.

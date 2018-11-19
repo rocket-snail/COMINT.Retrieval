@@ -1,0 +1,4 @@
+ambipolar diffusion of a meteor trail and its relation
+    with height regression lines have been derived for the relation
+    between log and height where the ambipolar diffusion
+    coefficient

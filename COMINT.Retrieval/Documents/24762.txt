@@ -1,0 +1,7 @@
+effects of electron electron interactions on cyclotron
+    resonances in gaseous plasmas from the boltzmann fokker planck
+    equation a set of equations is derived and solved numerically
+    the results indicate that the real part of the electrical
+    conductivity of the plasma power absorption is reduced by
+    electron electron interaction at the peak of resonance and the
+    width of resonance is increased

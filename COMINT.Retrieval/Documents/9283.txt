@@ -1,0 +1,8 @@
+calculation of true heights of electron density in the
+    ionosphere by assuming that the electron density distribution
+    can be approximated by taking linear sections of variable
+    length records may be manually converted to true height
+    electron density profiles the method takes into account the
+    earths magnetic field and is similar to that used by jackson
+    results are compared with actual electron density profiles
+    derived from rocket observations

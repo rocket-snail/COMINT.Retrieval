@@ -1,0 +1,4 @@
+a circuit for the compensation of voltage drift in the
+    input stage of a direct coupled transistor dc amplifier in the
+    circuit given the temperature drift of the base emitter voltage
+    has been compensated almost to the theoretical limit

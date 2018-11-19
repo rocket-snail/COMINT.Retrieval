@@ -1,0 +1,17 @@
+evaluation of an information retrieval system for
+    assessment of toxicological effects of chemicals on fish,
+    wildlife and ecosystem components. a user-oriented information
+    retrieval system is needed for assessment of materials
+    hazardous to fish, wildlife, food chain organisms, and other
+    organisms essential to the maintenance of ecosystem processes
+    and functions. critical evaluation of data also requires
+    rigorous documentation of test conditions, precision of methods
+    used, and the sensitivity of the test organism. particular
+    emphasis of the evaluation was in developing practical criteria
+    that aid in the use and interpretation of data with respect to
+    need for further testing in a scoring exercise performed for
+    the toxic substances control act interagency testing committee.
+    recommendations are made for the integration of information on
+    physical and chemical properties, health effects,
+    ecotoxicology, and environmental concentration or exposure
+    level.

@@ -1,0 +1,7 @@
+searches for polymers in the basic files derived from the
+    chemical abstracts service chemical registry system. the
+    methods used for searching the basic substructure search system
+    for polymers containing specifiec monomers are described. the
+    basic files are based on cas registry and reg/can data. the
+    searches yield registry numbers which are then used to retrieve
+    ca abstract numbers.

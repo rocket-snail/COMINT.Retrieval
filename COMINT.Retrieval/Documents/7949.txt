@@ -1,0 +1,12 @@
+a method of designing transistor trigger circuits a
+    fairly general technique was developed after the war for
+    designing circuits that would operate with valves having
+    characteristics which varied within fairly wide tolerances
+    without component adjustments being necessary when valves were
+    changed a similar technique is outlined for point contact
+    transistors this is based on valve circuit technique and
+    particularly on the analogy between the characteristics of
+    transistors and pentodes basic pule circuits considered include
+    state devices timing circuits counters and relaxation
+    oscillators their application in digital computers is reviewed
+    in detail

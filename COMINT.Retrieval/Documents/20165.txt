@@ -1,0 +1,7 @@
+the periodic solutions of a nonlinear differential
+    equation of the second order with unsymmetrical nonlinear
+    damping and a forcing term the differential equation considered
+    gives a closer approximation to the behaviour of valve
+    oscillators than the van der pol equation and demonstrates the
+    frequency deviation associated with the presence of higher
+    harmonics

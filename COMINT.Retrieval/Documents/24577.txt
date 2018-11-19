@@ -1,0 +1,10 @@
+parallel connected nonlinear impedances analysis based on
+    a matrix method of representing complex vectors and locus
+    diagrams are used to determine the equivalent single impedance
+    for an arbitrary system of parallel impedances values of
+    voltage resulting from given current loads and of current
+    resulting from given applied voltages are hence derived the
+    methods are illustrated by a numerical example taking two
+    nonlinear impedances with ohmic resistance components the
+    complete working diagram of the parallel system is obtained by
+    combining the locus diagram with the characteristic

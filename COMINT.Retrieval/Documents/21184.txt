@@ -1,0 +1,10 @@
+tolerance coefficients for rc networks a method is
+    presented for determining the effect on network design
+    characteristics of the use of nonideal components a set of
+    tolerance e coefficients is derived relating percentage changes
+    of the positions of the poles and zeros of the network function
+    to percentage changes of the network components changes of gain
+    or phase are then easily calculated an exact solution is
+    obtainable only when the network contains at most three
+    independent capacitors two theorems are proved which serve to
+    check approximations made for more complex networks

@@ -1,0 +1,4 @@
+pulse operated time bases discussion of the basic
+    principles and description f a practical timebase circuit of
+    the single sweep type triggered by a delayed pulse developed
+    from the transient or transmitter pulse to be examined

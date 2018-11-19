@@ -1,0 +1,7 @@
+the recombination coefficient in the layer during aurorae
+    in an earlier paper a mechanism involving variations in
+    positive ion concentration was suggested to explain the
+    abnormally high values of recombination coefficient during
+    aurorae an alternative explanation assuming a high value of the
+    negative ion electron ratio is shown to be in accordance with
+    observed data

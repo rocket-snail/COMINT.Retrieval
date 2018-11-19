@@ -1,0 +1,15 @@
+nalnet book system' cost benefit study. the goals of the
+    nasa's library network system, nalnet, the functions of the
+    current book system, the products and services of a book system
+    required by nasa centre libraries, and the characteristics of a
+    system that would best supply those products and services were
+    assessed. emphasis was placed on determining the most cost
+    effective means of meeting nasa's requirements for an automated
+    book system. various operating modes were examined including
+    the current stims file, the pubfile, developing software
+    improvements for products as appropriate to the centre needs,
+    and obtaining cataloguing and products from the bibliographic
+    utilities including at least oclc, rlin, bna, and stif. it is
+    recommended that nalnet operate under the stims file mode and
+    obtain cataloguing and products from the bibliographic
+    utilities.

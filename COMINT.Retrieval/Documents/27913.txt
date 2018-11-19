@@ -1,0 +1,12 @@
+wide band amplifiers for bandwidths up to an account is
+    given of amplifiers of the type using low pass filters as
+    interstage couplings these are superior to distributed
+    amplifiers up to a certain frequency the value of which is
+    about when valves are used and with valves a practical limit
+    for the number of reactances in the coupling circuit is about
+    five further increase would call for too narrow tolerances on
+    the components and would greatly increase alignment
+    difficulties theoretical computations of the coupling circuit
+    could not be made accurately because of frequency variation of
+    the components a high accuracy frequency sweep generator is
+    essential for the experimental investigations

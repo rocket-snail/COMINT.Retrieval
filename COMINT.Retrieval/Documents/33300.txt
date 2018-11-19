@@ -1,0 +1,4 @@
+design of logic circuits using thin films and tunnel
+    diodes switching circuits which have operated successfully are
+    described and designs suitable for a wide range of logic
+    functions are suggested

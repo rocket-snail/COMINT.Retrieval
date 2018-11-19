@@ -1,0 +1,5 @@
+central radio propagation laboratory exponential
+    reference atmosphere a model for the variation of atmospheric
+    refractive index with height is proposed which gives more
+    accurate radio ray profiles than the earth radius treatment a
+    sample table of ray profiles is given

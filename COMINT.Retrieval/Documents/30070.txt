@@ -1,0 +1,7 @@
+theory of triode oscillators with coaxial resonators a
+    study of disk seal triode oscillators the conditions necessary
+    for maintaining oscillations are derived the width of the
+    frequency range with a fixed tuned grid circuit is calculated
+    from the valve parameters deviations from the theoretical value
+    encountered under working conditions are discussed a general
+    criterion for mode separation is established

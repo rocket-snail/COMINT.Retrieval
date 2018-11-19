@@ -1,0 +1,7 @@
+some new aspects of the reflection of electromagnetic
+    waves on a rough surface the roughness is represented by
+    electromagnetically interacting hemispherical bosses whose
+    radii and mutual distances are small relative to the wavelength
+    the effects of such a surface on both vertically and
+    horizontally polarized radiations are considered as functions
+    of the angle of incidence

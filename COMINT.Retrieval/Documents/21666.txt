@@ -1,0 +1,6 @@
+a new microwave harmonic generator microwave power is
+    used to maintain a very short mercury arc between a pool
+    cathode and a tungsten wire anode with an estimated input power
+    of a few watts at kmcs an output in excess of mw was obtained
+    at kmcs a strong signal at kmcs was detected by a spectrum
+    analyser placed close to the arc tube

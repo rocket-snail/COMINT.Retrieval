@@ -1,0 +1,2 @@
+summary of the theory of wide band distributed amplifiers
+    suitable for the amplification of very short pulses

@@ -1,0 +1,8 @@
+very low frequency noise power from the lightning
+    discharge present knowledge about the lightning discharge
+    mechanism is reviewed particular attention is paid to the
+    theory of bruce and golde of computed power spectra of a nearby
+    cloud to ground flash and a distant daytime atmospheric are
+    compared taking propagation effects into account of the results
+    confirm the presence of a peak at about in the spectra of the
+    distant atmospherics

@@ -1,0 +1,4 @@
+an instrument for the investigation of interplanetary
+    plasma a faraday cup is described for use on a deep probe to
+    measure the density and the magnitude and direction of the bulk
+    velocity of the positive ions

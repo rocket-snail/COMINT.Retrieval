@@ -1,0 +1,4 @@
+multipliers and dividers i ac computers thermionic valve
+    and transistor divders and multipliers are described in which
+    the exponential shape of the small signal characteristic is
+    used to combine a dc and an ac signal

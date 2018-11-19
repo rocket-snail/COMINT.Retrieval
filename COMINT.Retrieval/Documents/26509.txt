@@ -1,0 +1,8 @@
+minicomputers in libraries, 1981-82' the era of
+    distributed systems. attempts to deal with the numerous
+    questions posed by readers of the earlier book, 2minicomputers
+    in libraries1 1979-1980. a section devoted to the process of
+    system development libraries is followed by 1 describing
+    hardware and software for distributed computing. a 3rd section
+    gives library and information systems applications. a large
+    directory of installed systems is included.

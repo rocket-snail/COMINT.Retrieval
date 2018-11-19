@@ -1,0 +1,9 @@
+a variable voltage stabilizer employing a cold cathode
+    triode a circuit is described in which a cold cathode gas
+    filled triode acts as a dc amplifier such an arrangement has
+    desirable characteristics as a voltage stabilizer in low
+    current circuits a portion of the output voltage of a source is
+    compared with a reference voltage the difference being used to
+    control the current through the parallel connected stabilizer
+    valve so that the output voltage is maintained at a constant
+    value

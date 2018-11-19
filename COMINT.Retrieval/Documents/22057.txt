@@ -1,0 +1,5 @@
+rectifier modulators with frequency selective
+    terminations the effects of even order modulation products are
+    examined and the conditions for the elimination of such
+    products determined the theory is confirmed by experimental
+    results

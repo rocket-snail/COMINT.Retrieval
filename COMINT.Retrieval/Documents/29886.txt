@@ -1,0 +1,9 @@
+the reflection and screening effects of metallic
+    enclosures in a plane electromagnetic wave three cases of
+    reflection and screening action are investigations for
+    wavelengths of the order of the dimensions of the enclosure a
+    hollow cylinder with axis parallel to the electric field a
+    hollow cylinder with axis parallel to the magnetic field and a
+    hollow sphere the increase of the reflection coefficient with
+    rising frequencies screen attenuation and resonance effects are
+    discussed

@@ -1,0 +1,7 @@
+implementation of process management for a secure
+    archival storage system. this thesis presents an implementation
+    of process management for a security kernel based secure
+    archival storage system (sass). the implementation is based on
+    a family of secure, distributed, multi-microprocessor operating
+    systems designed to provide multilevel internal security and
+    controlled sharing of data among authorised users.

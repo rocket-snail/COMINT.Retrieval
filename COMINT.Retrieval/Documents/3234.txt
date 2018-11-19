@@ -1,0 +1,5 @@
+maser oscillator with one beam through two cavities the
+    behaviour is investigated using a geometrical representation of
+    the schrodinger equation and a qualitative explanation is given
+    of the ability of the maser to oscillate simultaneously at two
+    frequencies

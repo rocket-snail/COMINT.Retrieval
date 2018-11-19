@@ -1,0 +1,12 @@
+parametric amplification and frequency mixing
+    inpropagating circuits an analysis is given of the properties
+    of time varying distributed reactance in propagating structures
+    which may have positive or negative phase and group velocities
+    power at different frequencies may be converted from one
+    frequency to the others and the amplitudes of the waves may
+    vary exponentially or periodically depending on the relation of
+    the frequencies and of the phase constants between the
+    propagating waves and the variable coupling reactance
+    applications to wide band frequency converters frequency
+    channel selectors wide band amplifiers tunable narrow band
+    amplifiers and oscillators are described

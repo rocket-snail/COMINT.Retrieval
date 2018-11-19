@@ -1,0 +1,8 @@
+electromagnetic and acoustical scattering from a semi
+    infinite cone calculations of scattering cross section for em
+    waves incident along the axis of the cone are made by the
+    physical optics method based on current distribution and by the
+    f exact method based on the appropriate field equations the
+    solutions are practically identical for cone semi angles close
+    to zero or the corresponding comparison is also made for
+    acoustic waves

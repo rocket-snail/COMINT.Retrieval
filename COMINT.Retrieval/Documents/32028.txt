@@ -1,0 +1,4 @@
+automatic gain control for super regenerative amplifiers
+    the circuit gives stable operation for long periods and
+    maintains output pulses constant over a range of input
+    signals

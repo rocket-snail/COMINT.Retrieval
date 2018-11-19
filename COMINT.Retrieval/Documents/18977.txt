@@ -1,0 +1,14 @@
+intelligent viewdata terminals for business applications.
+    an advanced type of viewdata terminal is described which has
+    applications in an electronic office system. the terminal
+    supplements the usual viewdata terminal features of colour
+    display, graphics capability and telephone network
+    communication, by significantly enhanced memory storage and
+    processing facilities, and is referred to as an intelligent
+    terminal. a specific feature of the intelligent terminal is its
+    ability to run programmes which are stored on a central
+    computer. hardware, software and user characteristics which
+    distinguish the terminal are described and compared with those
+    of existing viewdata terminals. several applications of an
+    intelligent viewdata terminal in the electronic office are
+    presented.

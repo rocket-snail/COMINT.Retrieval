@@ -1,0 +1,13 @@
+non maxwellian theory of homogeneous anisotropic plasmas
+    using theory based on boltzmanns integegro differential
+    equation a calculation is made of the distribution of electron
+    velocities in an ionized gas subjected to a constant magnetic
+    field for non maxwellian conditions explicit expressions are
+    derived for the magneto ionic conductivity dielectric tensor
+    hall effect deflection of an electron beam and a generalized
+    form of langevins mobility formula results are compared with
+    those obtained by other methods based on mean free path wave
+    propagation is studied formulae being derived for refractive
+    index birefringence phase and group velocities attenuation
+    polarization and critical frequencies classical results of
+    ionosphere theory are confirmed see also of

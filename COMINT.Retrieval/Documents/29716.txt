@@ -1,0 +1,7 @@
+ray paths from a cosmic radio source to a satellite in
+    orbit a satellite above the maximum can receive radiation on
+    frequencies that are totally reflected by the ionosphere two
+    effects of reflection in the upper part of the ionosphere are
+    discussed focusing and interference both occur particularly
+    when s a satellite enters or leaves a region in which it can
+    receive radiation from a point source in space

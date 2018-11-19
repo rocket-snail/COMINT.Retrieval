@@ -1,0 +1,8 @@
+theory of high frequency discharge in gases at low
+    pressures calculation of electron distribution function the
+    electron distribution is obtained by resolving boltzmanns
+    equation by a method of successive approximations considering
+    both elastic and inelastic collisions the electron temperature
+    corresponding to a maxwellian velocity distribution is derived
+    and the general form of evolution of electronic density is
+    given

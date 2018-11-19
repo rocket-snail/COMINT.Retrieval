@@ -1,0 +1,8 @@
+transistor controlled magnetic amplifier a circuit is
+    described in which the collector toroidal core this part of the
+    circuit being completed via the secondary of a transformer
+    primary coltage at and the load resistor back to the transistor
+    base electrode with this arrangement output currents up to peak
+    can be obtained in the load for emitter input signal currents
+    peak complete response to a change of input signal is obtained
+    in one cycle of the applied alternating voltage

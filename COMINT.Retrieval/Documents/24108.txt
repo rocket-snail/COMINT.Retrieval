@@ -1,0 +1,6 @@
+servo systems for performing mathematical operations by
+    combining servomechanisms with computing systems involving
+    mechanical or electrical analogies loading effects which tend
+    to introduce inaccuracies are eliminated an outline is given of
+    procedures for addition and subtraction determination of powers
+    and roots solution of triangle and integration

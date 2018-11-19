@@ -1,0 +1,9 @@
+teletext-a step toward text communication. a new
+    development in office telecommunication services, teletext, is
+    described, with special reference to use in west germany. the
+    equipment employed offers the complete character set of an
+    office typewriter for the preparation and transmission of
+    texts. features include normal correspondence preparation, fast
+    high-quality text transmission, unmanned reception with
+    acknowledgement from the receiving station, and simultaneous
+    'local typing' and receiving.

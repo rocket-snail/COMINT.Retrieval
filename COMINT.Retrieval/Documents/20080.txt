@@ -1,0 +1,4 @@
+contribution on the amplifier with extremely low internal
+    impedance detailed investigation of the operation of a two
+    stage valve amplifier with combined negative voltage feedback
+    and positive current feedback

@@ -1,0 +1,6 @@
+envelope feedback in an audio frequency amplitude
+    modulator the amplitude modulator is designed to transmit
+    solution information when a composite computing scheme
+    consisting of an analogue computer and a network analyser is
+    used to solve problems concerning generator and load
+    transients

@@ -1,0 +1,5 @@
+filters for rectifier equipment the design is discussed
+    of series tuned lc filters in parallel with the output of a
+    multiphase rectifier for attenuating unwanted harmonic voltages
+    the design of a series reactor for limiting the rectifier
+    output current is also briefly considered

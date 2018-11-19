@@ -1,0 +1,5 @@
+low impedance thermoelectric device powers tunnel diodes
+    the power supply described consists of of several couples in
+    series heated by ac or dcdriven resistance elements and having
+    an output impedance of results obtained with tunnel diode
+    microwave oscillators are briefly discussed

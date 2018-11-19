@@ -1,0 +1,9 @@
+magnetic control of the frequency of valve transmitters
+    by means of an electrodeless gas discharge the tuned circuit
+    inductor of an oscillator was wound round an argon filled
+    spherical container in which an electrodeless discharge could
+    be maintained and a magnetic field was applied parallel to the
+    plane of the coil the oscillator frequency was found to vary
+    almost linearly over a certain range of field strengths and was
+    also dependent on the gas pressure in the discharge
+    vessel

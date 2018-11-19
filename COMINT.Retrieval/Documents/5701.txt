@@ -1,0 +1,7 @@
+confocal multimode resonator for millimetre through
+    optical wavelength masers the mode patterns and diffraction
+    losses are obtained for a resonator formed by two concave
+    spherical reflectors these are shown to be a minimum hen the
+    reflector spacing equals the common radius of curvature of the
+    reflectors the optical alignment is not extremely
+    critical

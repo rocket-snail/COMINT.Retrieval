@@ -1,0 +1,5 @@
+a transistor driven magnetic core memory description of a
+    storage system with a capacity of words designed for a
+    transistor airborne digital computer tradic at bell telephone
+    laboratories both the read and write operations are based on a
+    coincident current technique

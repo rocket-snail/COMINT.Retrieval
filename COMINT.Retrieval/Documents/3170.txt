@@ -1,0 +1,11 @@
+a comparative analysis of information retrieval thesauri
+    and normalised scientific and technical terminologies with the
+    aim of their coordinated development. analyses the specifics
+    and results of the lexical processing of scientific and
+    technical texts for the compilation of thesauri for information
+    retrieval activities and for the unification of terminology.
+    identifies methods for representing the meanings of terms in
+    thesauri and terminological systems. proposes procedures for
+    the correlation of thesauri construction and maintenance with
+    terminological work, and the simultaneous solution of the
+    problems of the 2 disciplines.

@@ -1,0 +1,6 @@
+the reflection coefficient of ionospheric layers
+    experiments made at and show that the reflection coefficient
+    which is nearly unity for the f layer falls to a very low value
+    for the e layer and that loss of energy due to reflection from
+    the latter is of the same order as the nondeviative
+    absorption

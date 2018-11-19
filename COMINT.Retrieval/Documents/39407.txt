@@ -1,0 +1,9 @@
+helical winding slow wave structures in exponential line
+    pulse transformer a description is given of an experimental
+    pulse transformer with integral hydrogen thyratron pulse
+    generator suitable for use at the high impedance levels
+    required in pulsed operation of magnetrons the transformer has
+    an outer cylindrical shell the inner conductor consisting of a
+    helix of constant diameter whose pitch decreases gradually from
+    the thyratron end overall length is input impedance and output
+    impedance

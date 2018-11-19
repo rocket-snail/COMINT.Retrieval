@@ -1,0 +1,7 @@
+arc arc inductance and dynatron capacitance the stability
+    of systems with nonlinear negative resistances of arc and
+    dynatron types is discussed analysis indicates that though the
+    arc can have e some inductive po properties and the dynatron
+    capacitive ones these are not essential to an explanation of
+    the behaviour of the systems transient conditions and steady
+    oscillation states are considered

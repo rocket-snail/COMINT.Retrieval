@@ -1,0 +1,4 @@
+an investigation of the ionospheric d region a model of
+    the lower ionosphere is obtained from the observation of weak
+    echoes from the d region and the measurement of ionospheric
+    wave interaction

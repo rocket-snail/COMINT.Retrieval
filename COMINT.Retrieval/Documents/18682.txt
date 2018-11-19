@@ -1,0 +1,10 @@
+development of the theory of bibliographic description.
+    an attempt is made to define the subject of an auxiliary
+    scientific discipline devoted to the theory and methods of
+    bibliographic description. the 3 main functions of
+    bibliographic description are discussed: (1) information
+    function (information about the existence of a certain
+    document); (2) identification function (a document can be
+    identified by bibliographic description); and (3) retrieval
+    function (bibliographic description here is a means for
+    retrieval of a document from an information system).

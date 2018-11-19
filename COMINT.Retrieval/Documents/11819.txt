@@ -1,0 +1,4 @@
+current distribution in cylindrical conductors of
+    circular cross section a calculation is made of the current
+    distribution and joule heating for the conductor in a uniform
+    alternating magnetic field

@@ -1,0 +1,2 @@
+electron paramagnetic resonance for metals with two
+    conduction bands

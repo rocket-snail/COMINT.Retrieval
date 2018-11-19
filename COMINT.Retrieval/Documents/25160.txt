@@ -1,0 +1,2 @@
+theory of the autodyne detector for paramagnetic
+    resonance

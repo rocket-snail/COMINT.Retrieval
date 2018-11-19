@@ -1,0 +1,3 @@
+winding method for coils with parallel windings theory is
+    presented indicating the purpose for which parallel wound coils
+    are suited and practical examples are described

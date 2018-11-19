@@ -1,0 +1,8 @@
+phase distortionless limiting by a parametric method
+    nearly ideal limiting can be obtained by using the signal to be
+    limited as the pump frequency nonlinear capacitance amplifiers
+    an account of the physical principles and the design of
+    variable capacitance amplifiers the effective noise
+    temperatures achieved are compared with those of other low
+    noise amplifiers and of terrestrial and extraterrestrial noise
+    sources

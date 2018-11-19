@@ -1,0 +1,7 @@
+resistance capacitance networks in amplifier design two
+    types of rc network are distinguished the first of which
+    includes all networks with a simple series or shunt capacitor
+    this type only is considered frequency and phase
+    characteristics are derived and reduced to simple graphical
+    form impedance matching and loading effects are discussed
+    typical equalizer and tone control circuits are examined

@@ -1,0 +1,4 @@
+completely integrable singular electromagnetic field
+    derivation of expressions for the components of the completely
+    integrable singular electromagnetic tensor with reference to
+    maxwells equations

@@ -1,0 +1,10 @@
+on the propagation of whistling atmospherics it is shown
+    that the dispersion of whistling atmospherics propagated along
+    the lines of force of the earths magnetic field should be
+    greatly dependent on the geomagnetic latitude of the observing
+    point the change in the magnetic field intensity along a line
+    of force produces an upper frequency limit for whistler
+    propagation which at latitudes greater than should fall within
+    he usually observed frequency region of dispersion curves
+    showing this critical frequency are given for geomagnetic
+    latitudes and

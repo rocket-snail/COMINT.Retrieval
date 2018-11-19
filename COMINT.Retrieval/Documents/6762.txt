@@ -1,0 +1,8 @@
+interaction of modes in a microwave cavity resonator the
+    minimum energy differences between the desired and undesired
+    modes in a cylindrical resonator are calculated by considering
+    the em field inside the resonator as due to an infinite number
+    of harmonic oscillators expressions for the mutual energy and
+    the coefficient of coupling between the companion modes and are
+    derived the significance of the total energy of a micro wave
+    cavity resonator is discussed

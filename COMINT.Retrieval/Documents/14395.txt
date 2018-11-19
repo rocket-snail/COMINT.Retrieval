@@ -1,0 +1,9 @@
+oceanographic technology information service' user's
+    guide. the oceanographic technology information service (otis)
+    is a data management system utilising naval oceanographic
+    office (navoceano) computer facilities. its purpose is to
+    identify, define, and serve as a focal point for oceanographic
+    technological capabilities currently being maintained by or
+    available to the navy that are required to support its research
+    and operations in oceanography, meteorology, and mapping,
+    charting and geodesy.

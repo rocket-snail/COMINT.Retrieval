@@ -1,0 +1,5 @@
+longitudinal oscillations of electron ion beams
+    investigation of the stability of electron ion beams leads to a
+    differential equation that is difficult to solve a qualitative
+    method based on self conjugate differential operators is used
+    which avoids solution of this equation

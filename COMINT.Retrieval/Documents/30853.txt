@@ -1,0 +1,10 @@
+on selection and combining of relevance indicators.
+    identifying and representing the content of a document is one
+    of the main concerns of information retrieval systems.
+    discusses the attributes of all the items in the data base. if
+    the attributes are not totally independent or highly
+    correlated, then combining them in a certain way may increase
+    effectiveness. justification for this comes from the users'
+    information seeking behaviour' users employ index terms,
+    authors' names, citations and other attributes. formulates a
+    model to cover this hypothesis.

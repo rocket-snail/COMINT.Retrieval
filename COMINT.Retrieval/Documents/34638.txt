@@ -1,0 +1,4 @@
+shaping of nonlinear resistor characteristics feedback
+    circuits are described which enable a wide variety of
+    characteristics to be obtained with a single resistive
+    element

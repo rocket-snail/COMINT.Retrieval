@@ -1,0 +1,8 @@
+transient operation of low pass and high pass lattice
+    filters an expression is derived for the admittance of the
+    lattice filter terminated by its characteristic impedance
+    functions using a new inverse transformation method the unit
+    step response of some low pass filters and the unit function
+    response of some high pass filters are determined a simple
+    method is indicated for determining the response to an
+    arbitrary voltage

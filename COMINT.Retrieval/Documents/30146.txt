@@ -1,0 +1,3 @@
+the stability of negative resistance two poles stability
+    conditions are considered on the basis of the static
+    characteristics of the two pole

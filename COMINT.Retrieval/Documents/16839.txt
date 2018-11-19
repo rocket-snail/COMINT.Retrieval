@@ -1,0 +1,6 @@
+determination of electron density profiles in the
+    ionosphere neglecting the influence of the magnetic field a
+    rapid method is described for determining nighttime layer
+    electron density given base height critical frequency and
+    factor though less z accurate than other methods it is not
+    dependent on the quality of ionograms

@@ -1,0 +1,17 @@
+information systems in libraries and in information and
+    documentation services. a completely integrated computerised
+    library and information system is described, suitable for an
+    academic library or information system requiring complete and
+    speedy literature and information provision for teaching and
+    research units, quick and efficient loan systems and
+    possibilities for using the services of other academic
+    libraries. work is divided between a main computer with
+    centralised functions, assisted by smaller computers connected
+    on-line and used for local functions; cooperation of 2
+    libraries via the main computer, individual components and
+    administration questions are discussed. the components can
+    produce loan automation for open and closed access stock,
+    cataloguing and literature searching. the concept is being
+    achieved through the automation of saarland university,
+    saarbrucken library; software already available can be
+    used.

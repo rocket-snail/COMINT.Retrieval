@@ -1,0 +1,16 @@
+serials control. paper presented at the aslib conference
+    information '81' forecasts and realities, oxford university,
+    uk, 22-25 sept 81. serials control is throught to be the most
+    difficult of library housekeeping processes to automate. no
+    automated serials control system has yet been demonstrated to
+    be cost-effective. minicomputer based systems show promise of
+    more efficient operation. studies at oxford university have
+    shown the feasibility of automated serials check-in being
+    achieved faster than is possible manually. further studies have
+    demonstrated the constraints imposed for a comprehensive system
+    to be cost-effective. prediction of the arrival date for
+    irregular serials is a major problem. the difficulties (and
+    expense) of updating files in real-time represents another
+    problem for which a tentative solution is proposed. the need to
+    improve the user interface is emphasised and this is one of the
+    most important matters for further study.

@@ -1,0 +1,6 @@
+a simple electronic multiplier the multiplication process
+    described is based on the equation xy a method of squaring is
+    used which depends on the fact that the areas of similar
+    triangles are proportional to the squares of their heights a
+    triangular waveform generator is described the device accepts
+    both positive and negative input voltages

@@ -1,0 +1,5 @@
+relative stability of closed loop systems the equivalence
+    of a transfer function plot and a plot of the laplace transform
+    of transient response is illustrated and the application of
+    transform plots in the analysis of linear systems is
+    described

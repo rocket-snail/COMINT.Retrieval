@@ -1,0 +1,4 @@
+equivalent circuit diagrams of the transistor different
+    representations for transistors are derived from the equivalent
+    circuit of the nonreversible quadripole of a two valve circuit
+    a one valve circuit with a lossless transformer

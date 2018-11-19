@@ -1,0 +1,3 @@
+a simple pulse generator and a pulse distribution unit
+    using transistors circuit and performance details are given of
+    equipment for use rn television studio installations

@@ -1,0 +1,5 @@
+nondestructive memory employing a domain oriented steel
+    wire a magnetic storage system using a steel wire under tension
+    is described a small solenoid is used to magnetize the wire
+    locally and for observing the flux change produced by an
+    interrogative current pulsed through the wire itself

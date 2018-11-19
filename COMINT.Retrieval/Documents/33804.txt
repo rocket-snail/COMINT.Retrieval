@@ -1,0 +1,2 @@
+basic fuse types for electronic equipment types with slow
+    medium and fast action are described

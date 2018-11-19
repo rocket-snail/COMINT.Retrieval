@@ -1,0 +1,18 @@
+irreversible thermodynamics and carrier density
+    fluctuations in semi conductors the formalism of irreversible
+    thermodynamics is applied to the kinetics of carrier
+    transitions in semiconductors the thermodynamic forces the
+    generalized resistors and admittance functions are introduced
+    it is shown that the thermodynamic forces which establish the
+    regression of a perturbed state to equilibrium are the
+    differences of the quasi fermi levels that have to be assigned
+    to each group of carriers the generalized resistances are
+    simply related to the transition rates the kinetic equations
+    for the rate of change of the various carrier concentrations
+    are then written in a unified form the spectral density matrix
+    of the spontaneous carrier fluctuations being found from the
+    admittance matrix the results are then expressed in a closed
+    form which is valid for nondegenerate as well as for degenerate
+    semiconductors the theory is applied explicitly to electronic
+    noise in extrinsic and near intrinsic crystals with and without
+    recombination centres

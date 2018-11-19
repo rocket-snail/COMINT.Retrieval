@@ -1,0 +1,3 @@
+designing thin magnetic film memories for high speed
+    computers a storage system has been built which will store
+    words each of bits and which has a cycle time of

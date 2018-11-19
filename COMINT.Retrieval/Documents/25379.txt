@@ -1,0 +1,4 @@
+some aspects of standing wave patterns general analysis
+    is given for the production of standing waves and three
+    dimensional patterns obtained by plotting the wave equations
+    are presented for various cases

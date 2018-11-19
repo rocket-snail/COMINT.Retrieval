@@ -1,0 +1,6 @@
+ferrite core inductors design of inductors for
+    communication equipment is considered particularly from the
+    point of view of the best use of the properties of ferrites
+    advantages of ferrite compared with metal cores for high
+    frequency low power applications include higher q values
+    smaller volume and greater ease of adjustment

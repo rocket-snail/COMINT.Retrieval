@@ -1,0 +1,7 @@
+the surface barrier transistor part circuit applications
+    of surface barrier transistors the operating characteristics of
+    the surface barrier transistor are discussed and two amplifier
+    circuits are described namely a wide band low pass amplifier
+    and a band pass amplifier for a centre frequency of this type
+    of transistor combines the ability to operate at vhf with the
+    low power consumption o of the junction type part below

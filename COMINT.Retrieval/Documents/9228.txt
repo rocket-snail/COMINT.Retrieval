@@ -1,0 +1,7 @@
+some fundamental properties of networks without mutual
+    inductance elementary methods not involving determinants are
+    used to prove theorems on the voltage and current gains
+    obtainable from a resistance network the results are used to
+    determine properties of general networks without mutual
+    inductance rc networks are investigated by a method simpler
+    than that

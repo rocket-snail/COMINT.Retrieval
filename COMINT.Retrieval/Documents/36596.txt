@@ -1,0 +1,5 @@
+electroluminescence electrical and optical properties
+    electro optical measurements are reported on electroluminescent
+    lamps operating on the principle described by payne et al and
+    fundamental properties of electroluminescent phosphors are
+    studied

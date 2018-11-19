@@ -1,0 +1,11 @@
+diurnal variations in the number of shower meteors
+    detected by the forward scattering of radio waves experiment
+    the theory developed is applied to derive the expected diurnal
+    variations of the meteor signal rate for four showers as
+    observed by means of a particular forward scatter transmission
+    path these results are then compared with the experimental
+    signal rates the good agreement obtained indicates that the
+    approximations inherent in the theory are sufficiently accurate
+    for practical purposes the results also indicate that very few
+    meteors if any are observed under conditions which do not
+    satisfy the requirements for specular reflection

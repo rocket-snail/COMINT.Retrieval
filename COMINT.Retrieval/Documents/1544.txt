@@ -1,0 +1,7 @@
+electronic circuit technique for a high speed computer
+    commonly used computer circuit units based on a triode or ge
+    diode are represented by a symbol indicating the unit and its
+    mode of operation the functions of different combinations of
+    different combinations of the basic units are listed and their
+    application in a serial binary scale computer is illustrated
+    using the notation described

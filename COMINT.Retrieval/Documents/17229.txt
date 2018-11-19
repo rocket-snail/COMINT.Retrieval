@@ -1,0 +1,7 @@
+approximate calculation of the relaxation process and
+    time delay in the multivibrator calculations are presented
+    based on representation of the valve characteristic curves by
+    third degree polynomials a delay of about sec between the
+    initiation of instability and the commencement of the anode
+    pulse is found for a particular circuit using type ef
+    pentodes

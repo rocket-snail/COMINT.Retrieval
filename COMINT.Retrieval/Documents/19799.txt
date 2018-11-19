@@ -1,0 +1,6 @@
+some applications of non euclidean geometry in quadripole
+    theory a survey of literature and an attempt to correlate the
+    work of various authors the treatment of impedance and noise
+    transformations by means of the poincare and cayley klein
+    models of non euclidean hyperbolic space is discussed
+    references

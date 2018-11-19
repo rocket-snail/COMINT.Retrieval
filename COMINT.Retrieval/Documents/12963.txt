@@ -1,0 +1,8 @@
+cathode drift compensation in dc amplifiers the miller
+    circuit has been found effective in compensating against
+    cathode drift but it has been assumed necessary to use a load
+    resistance large enough to make the anode current of the output
+    valve small compared with that of the other simple analysis is
+    presented to show that this limitation is unnecessary an
+    improvement of the circuit based on this analysis is
+    suggested

@@ -1,0 +1,8 @@
+goteborg city library and its computerised lending
+    system. a description of goteborg city library, sweden
+    following a study tour. describes the stock and subject
+    specialisations of the library; its relationship with the
+    swedish library supplier, bibliotekstjanst; the integrated
+    public library system, bums; the library's catalogues and
+    computerised cataloguing; and the operation of the plessey
+    computerised lending system.

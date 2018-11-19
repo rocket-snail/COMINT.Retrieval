@@ -1,0 +1,8 @@
+the anomalous skin effect and the reflectivity of metals
+    if the gas of conduction electrons is subject to internal
+    friction the resultant energy dissipation contributes to the
+    absorption factor of metallic conductors this contribution can
+    become predominant at low temperatures if this effect is
+    combined with those studied by dingle of september for the case
+    of mean free path comparable with skin depth agreement between
+    theory and experiment is improved

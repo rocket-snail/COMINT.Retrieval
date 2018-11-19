@@ -1,0 +1,3 @@
+computer switching with high power transistors a method
+    for selecting the most suitable type of power transistor for
+    particular switching applications is given

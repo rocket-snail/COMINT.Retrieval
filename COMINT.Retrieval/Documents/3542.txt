@@ -1,0 +1,5 @@
+the optimum formula for the gain of a flow graph or a
+    simple derivation of coates formula an independent derivation
+    of coates formula based on determinants is given the difference
+    between masons and coates flow graphs is discussed and it is
+    shown how one is obtained from the other

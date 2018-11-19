@@ -1,0 +1,6 @@
+notes on the design of distributed amplifiers the
+    treatment used takes account of the self capacitance of the
+    coils and the effect of using anode and grid lines with
+    different propagation speeds the latter effect can be useful in
+    avoiding the large increase in gain of the derived filter type
+    amplifier at the upper end of the band

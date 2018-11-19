@@ -1,0 +1,5 @@
+theory of bloch electrons in a magnetic field the
+    effective hamiltonian for a no degenerate band the eigenstates
+    of the hamiltonian of a bloch electron in a static magnetic
+    field can be calculated from an equivalent hamiltonian whose
+    properties and formulation are discussed

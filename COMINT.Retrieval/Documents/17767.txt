@@ -1,0 +1,9 @@
+display technologies for office systems. considers the
+    requirements for an ideal office display and compares crt
+    (cathode ray tubes) with matrix displays to see how closely
+    they can meet requirements. the crt can meet the display
+    function requirements but is not ideal in space taken, power
+    and weight. no other display technology can meet the range of
+    function required but they have attractions in size and shape
+    and as technologies improve may meet the functional
+    requirements.

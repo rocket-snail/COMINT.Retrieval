@@ -1,0 +1,3 @@
+a ferromagnetic amplifier using longitudinal pumping
+    describes early experimental results indicating a gain with an
+    x band pump power

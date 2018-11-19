@@ -1,0 +1,4 @@
+impedance transformation by four terminal networks the
+    geometrical interpretation of impedance transformations is
+    considered in relation to the use of impedance charts and
+    improved methods of impedance measurement

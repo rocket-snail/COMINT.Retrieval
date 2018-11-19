@@ -1,0 +1,6 @@
+nuclear resonance absorption circuit the principles of
+    detecting nuclear resonance absorption in a specimen surrounded
+    by a coil forming part of a tuned circuit are discussed in
+    detail and various methods are compared a new circuit is
+    described and two practical designs are given for
+    operation

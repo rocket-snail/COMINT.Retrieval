@@ -1,0 +1,3 @@
+the transistor as a speech path switch the suitability of
+    transistors is discussed and some methods of using them for
+    this purpose in telephone systems are described

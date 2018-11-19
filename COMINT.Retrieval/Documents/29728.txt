@@ -1,0 +1,9 @@
+the diffraction of an arbitrary pulse by a wedge an
+    extension of the conical flow method used by keller and blank
+    the coordinates chosen are such that the characteristic cone
+    and the two planes intersecting to form the wedge each become
+    constant coordinate surfaces the problem is then solved by
+    separating variables and expanding the boundary conditions in
+    terms of solutions of the ordinary differential equations which
+    appear the results are shown to apply to the special case
+    investigated by keller and blank

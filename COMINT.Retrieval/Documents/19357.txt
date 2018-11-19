@@ -1,0 +1,12 @@
+satellite telecommunications-some potential applications
+    sti transfer. discusses the use of communications satellites as
+    an example of potential changes in methods of disseminating
+    scientific and technical information. it briefly reviews the
+    basic relevant characteristics of communications satellites
+    (bandwidth, very high data rates, multi-destination properties
+    and small-receive-only earth stations). the work of cosadoc,
+    set up by the european space agency to review possible
+    satellite application areas in information transfer is briefly
+    noted, including delivery of pictorial data (earth resources
+    photographs), full-text document delivery with on-line browsing
+    and data base distribution.

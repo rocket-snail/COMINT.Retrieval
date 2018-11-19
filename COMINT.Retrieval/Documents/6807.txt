@@ -1,0 +1,8 @@
+services based on the danish national bibliography and
+    the samkat system. describes the mechanisation plans of the
+    danish national bibliography and the way to their realisation.
+    outlines the faust programme for public libraries-the
+    development, sources and services of this data bank. describes
+    how samkat, the computerised system for danish research
+    libraries needs to be in accordance and cooperate with the
+    faust programme.

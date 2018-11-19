@@ -1,0 +1,8 @@
+matching circuits for asymmetrical wire aerials a
+    comparison of various types of aerial coupling circuits used
+    particularly at medium and long wave lengths and of the case of
+    adjustment for use at different frequencies the discussion
+    shows that the most advantageous circuits consist of two
+    variable reactances used in conjunction with an impedance meter
+    examples of this type for use at or at medium waves are
+    shown

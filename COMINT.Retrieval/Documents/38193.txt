@@ -1,0 +1,4 @@
+design considerations for integrated electronic devices
+    discussion of fundamental factors affecting the design of
+    integrated electronic devices with consideration of the effect
+    of shrinkage and methods of overcoming it

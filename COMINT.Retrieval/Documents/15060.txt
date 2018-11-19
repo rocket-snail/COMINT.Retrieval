@@ -1,0 +1,7 @@
+the geometry of auroral communications uhf auroral radar
+    observations describes auroral doppler spectra obtained at
+    ottawa with bistatic radars operating at and mcs klystron
+    amplifiers with and parabolic reflectors were used with
+    transmitter receiver separations of and km echoes indicating
+    cross sections of several thousand square metres were obtained
+    on occasions at

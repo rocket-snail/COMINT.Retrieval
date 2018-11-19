@@ -1,0 +1,4 @@
+parametric amplifier theory for plasmas and electron
+    beams a theory is given for a parametric amplifier which uses a
+    gas discharge plasma an experimental amplifier is
+    described

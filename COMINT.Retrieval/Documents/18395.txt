@@ -1,0 +1,10 @@
+patent classification and information retrieval services.
+    paper presented to the society of indexers, 20 jan 81. surveys
+    the patent information services for public and industry
+    provided by the uk patent office and the science reference
+    library. examines briefly the following aspects of the patent
+    office's services' document publications; the domestic
+    classification key used for classifying official search files;
+    indexes maintained; the use of computers in the keeping of
+    classification records and the file list services provided; and
+    the work of the classification section.

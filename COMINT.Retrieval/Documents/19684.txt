@@ -1,0 +1,6 @@
+a new general method for frequency distortion correction
+    of a given circuit in light current and instrument engineering
+    the frequency dependent function eg the amplification factor is
+    expressed as the ratio of power series of functions of the
+    frequency and the condition for a minimal frequency dependence
+    is found

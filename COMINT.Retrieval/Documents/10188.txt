@@ -1,0 +1,5 @@
+the motiton of charged particles in the magnetic field of
+    a linear current and the electric field of a cylindrical
+    capacitor the particle trajectories for such a system are
+    determined under certain conditions the system may be used for
+    focusing beams of charged particles

@@ -1,0 +1,4 @@
+a matrix representation of linear amplifiers expressions
+    are developed for the transfer matrices of combinations of
+    bilateral and unilateral networks and of some passive and
+    active networks including r feedback amplifiers

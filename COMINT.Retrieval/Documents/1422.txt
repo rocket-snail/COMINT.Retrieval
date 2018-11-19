@@ -1,0 +1,4 @@
+an equivalent circuit for transistor mixers an equivalent
+    circuit is derived for the earthed emitter configuration based
+    on giacolettos circuit moortgat pick experimental confirmation
+    of the validity of this theory is obtained

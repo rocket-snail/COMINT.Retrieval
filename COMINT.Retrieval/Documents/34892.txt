@@ -1,0 +1,3 @@
+modems, hertz and bauds. a short introduction to the
+    basics of modern operation including acoustic couplers and
+    direct-connect modems.

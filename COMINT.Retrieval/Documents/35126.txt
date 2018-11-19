@@ -1,0 +1,11 @@
+the integration and management of cost-effective
+    information systems in industry. relating to the total costs of
+    an information service, 3 examples are given to illustrate how
+    to make the best use of resources within an organisation. the
+    1st example considers the balance between setting up inhouse
+    on-line information services and buying in services from
+    on-line vendors. the 2nd discusses administrative ways of using
+    public on-line services cost effectively in an organisation
+    that uses many hosts and many passwords. the final example
+    suggests the advantages of a shared approach to on-line vendors
+    to meet common needs.

@@ -1,0 +1,4 @@
+new limits to the diameters of some radio sources
+    observations using a base line of have shown that at least
+    seven sources have major features smaller than three seconds of
+    arc with extremely high surface brightness

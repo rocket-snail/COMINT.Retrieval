@@ -1,0 +1,3 @@
+noise performance in tin oxide resistors noise
+    measurements show up resistor defects not found by standard
+    tests

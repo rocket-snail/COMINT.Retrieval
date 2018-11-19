@@ -1,0 +1,6 @@
+integrated magnetic circuits for synchronous sequential
+    logic machines two approaches to the problems of storage gain
+    and unidirectional transfer of a sequence of bits in a system
+    with a minimum of nonmagnetic components are outlined examples
+    are given of experimental synchronous sequential circuits using
+    commercially available multiaperture cores

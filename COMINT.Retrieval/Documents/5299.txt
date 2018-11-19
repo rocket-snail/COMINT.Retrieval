@@ -1,0 +1,5 @@
+determination of the shape of a relativistic electron
+    beam brief mathematical analysis of an axially symmetric thin
+    electron beam the cross section of which varies along the axis
+    of the beam the movement of the electron beam being assumed
+    adiabatic

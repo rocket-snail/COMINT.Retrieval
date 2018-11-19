@@ -1,0 +1,4 @@
+cerenkov radiation of electrons moving parallel to a
+    dielectric boundary analysis is based on an eigenfunction
+    expansion of the em field the process may be interpreted as an
+    excitation of surface waves

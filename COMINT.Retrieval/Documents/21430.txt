@@ -1,0 +1,4 @@
+linear frequency discriminator for subcarrier frequencies
+    the discriminator uses a heptode valve with out of phase
+    signals on its two control grids it is suitable for low
+    frequency fm signals having large deviations

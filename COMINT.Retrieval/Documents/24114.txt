@@ -1,0 +1,4 @@
+two dimensional problems of the decay of magnetic fields
+    in magnetohydrodynamic the normal modes of decay of magnetic
+    fields in conducting fluids are studied for different classes
+    of steady motion see of and

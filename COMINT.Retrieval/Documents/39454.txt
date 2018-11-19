@@ -1,0 +1,4 @@
+determination of satellite orbits from radar data
+    procedural stages in an optimum computer routine using two
+    orbital points and the transit time between them incorporate a
+    differential correction based on short range data

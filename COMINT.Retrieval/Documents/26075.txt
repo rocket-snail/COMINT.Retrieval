@@ -1,0 +1,6 @@
+correlation function for a system of particles carrying
+    like charges a description of a mathematical method for the
+    determination of correlation functions for systems of particles
+    carrying like charges this method could be extended to charges
+    of different sign and also to the kinetic theory of charged
+    particles see also of tyablikov and tolmachev

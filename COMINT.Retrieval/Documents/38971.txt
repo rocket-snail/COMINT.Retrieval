@@ -1,0 +1,4 @@
+generalization of variation and compensation theorems for
+    parameters of an electrical circuit the effect of impedance
+    variations in one or more branches of a network on the current
+    in one of the branches is calculated using matrices

@@ -1,0 +1,5 @@
+charged particles in a nonuniform radio frequency field
+    under certain conditions particles of either sign will
+    experience an acceleration towards the position of least field
+    strength such an acceleration is demonstrated in a slotted
+    magnetron having no magnetic field and a cold cathode

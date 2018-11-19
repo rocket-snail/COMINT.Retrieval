@@ -1,0 +1,5 @@
+satellite electron theory of ferromagnetism
+    antiferromagnetism and related phenomena a theory based on
+    classical concepts is developed to show the electronic nature
+    of ferromagnetism magnetic properties of transition metal
+    oxides are briefly discussed

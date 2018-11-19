@@ -1,0 +1,5 @@
+specific directions of longitudinal wave propagation in
+    anisotropic media analysis relevant to piezoelectric
+    oscillations is presented trigonal hexagonal tetragonal and
+    cubic crystals are considered and the directions of propagation
+    of purely compressional waves are determined

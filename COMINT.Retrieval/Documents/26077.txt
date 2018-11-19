@@ -1,0 +1,12 @@
+space charge effects in field emission a progressive
+    reduction of the observed field current below values expected
+    from the empirical law for increasing values of the potential
+    is attributed to space charge the current density expected in
+    the presence of space charge is calculated from the fowler
+    nordheim field emission theory using values of the cathode
+    electric field obtained from a solution of poissons equation
+    for plane electrodes with boundary conditions appropriate to
+    field emission the result is a generalization of childs
+    equation and is asymptotic to it when the applied potential is
+    large compared with the value for appreciable field
+    emission

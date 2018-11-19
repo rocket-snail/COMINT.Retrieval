@@ -1,0 +1,8 @@
+a mains supplied indicating dc amplifier with linear
+    response a stage unit for use in conjunction with a
+    piezoelectric transducer and a duddell oscillograph for
+    obtaining indicator diagrams is described an electrometer valve
+    is used as input to a first preamplifier stage from which cable
+    connection is made to the remaining amplifier stages and the
+    oscillograph amplifier stability is good and effects of valve
+    aging not apparent

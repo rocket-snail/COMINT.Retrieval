@@ -1,0 +1,5 @@
+analytic and experimental electrical conductivity between
+    the stratosphere and the ionosphere results for the height ran
+    e km obtained from rocket soundings are compared with predicted
+    values based on ion equilibrium and ionization by cosmic rays
+    only

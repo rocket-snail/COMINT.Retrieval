@@ -1,0 +1,5 @@
+on the diffraction of electromagnetic waves at infinitely
+    thin ideally conducting flat screens a new method is described
+    based on the solution of two independent equations as an
+    example the case of diffraction of a wave at an infinitely thin
+    conducting disk is discussed

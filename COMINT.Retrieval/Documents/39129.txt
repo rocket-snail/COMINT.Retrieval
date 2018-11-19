@@ -1,0 +1,7 @@
+on the cherenkov radiation of dipole moments moving along
+    an axial channel in a dielectric the radiation field is
+    calculated for a magnetic and electric dipole moving in a
+    dielectric if the radius of the channel then the radiation of
+    the electric dipole moving perpendicularly to the axis
+    increases by a factor of compared with the radiation in the
+    dense medium of the dielectric

@@ -1,0 +1,6 @@
+electron distribution in a new model of the ionosphere
+    rocket measurements between and for pressure density and
+    temperature are used to derive a new empirical model for
+    temperature and electron density in the ionosphere this model
+    agrees well with the theory of temperature variation and radio
+    measurements of electron density

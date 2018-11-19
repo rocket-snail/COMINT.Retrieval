@@ -1,0 +1,4 @@
+the linear piezoelectric equations of state the different
+    forms of the equations of state obtained from various
+    combinations of stress strain electric field electric
+    displacement and polarization are given in tabular form

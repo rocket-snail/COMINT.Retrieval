@@ -1,0 +1,11 @@
+notation for indexing languages and classifications (in
+    german). an overview is given of the basic types of notation
+    that can be designed. included are the sequential (or purely
+    ordinal) notations with hierarchical level indicator. it is
+    shown that left aligned sequential notations are very flexible.
+    the evaluation of notations, carried out with an example, is
+    done with a quite comprehensive catalogue of desiderata. for
+    design decisions, the methods of worth analysis are
+    recommended, especially when considering whether or not to
+    employ notation at all. another possibility is to use
+    notational symbols only for certain hierarchical levels.

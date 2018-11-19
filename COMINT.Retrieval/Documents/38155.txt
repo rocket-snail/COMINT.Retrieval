@@ -1,0 +1,17 @@
+theoretical approaches to information retrieval. presents
+    the results of research conducted during a visiting fellowship,
+    mar 80-mar 81, on the following topics' retrieval methods of
+    documents indexed by weighted index terms; similarity measures
+    for boolean search request formulations and their applications;
+    document-clustering-based information retrieval and document
+    clustering utilising previously formed query clusters; and a
+    probabilistic approach to information retrieval in systems with
+    boolean search request formulations. a number of information
+    retrieval techniques applicable in systems based on boolean
+    searches have been introduced. special attention has been paid
+    to incorporate into the standard boolean retrieval schemes a
+    weighting mechanism to produce ranked lists of documents.
+    several alternative approaches have been offered which are
+    based on results of fuzzy set theory and fuzzy logic,
+    probability theory and decision analysis, and the theory of
+    boolean functions.

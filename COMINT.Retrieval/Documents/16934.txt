@@ -1,0 +1,6 @@
+reflection and transmission of conductive films a more
+    general relation for the reflection and transmission
+    coefficients is given for the case of oblique incidence and
+    perturbations due to frequency dependence and displacement
+    currents are considered a formula is also derived for thick
+    films

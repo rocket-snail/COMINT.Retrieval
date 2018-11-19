@@ -1,0 +1,4 @@
+alfven waves in partially ionized gases the conditions
+    for formation of an alfven wave are determined and fundamental
+    equations are derived to describe the electrodynamic behaviour
+    of the ionized gas

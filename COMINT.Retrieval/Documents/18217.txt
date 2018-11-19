@@ -1,0 +1,7 @@
+the design of high efficiency ratio frequency eht
+    supplies difficulties associated with the use of air cored step
+    up transformers for the production of high voltages are
+    discussed designs in which these difficulties are eliminated or
+    alleviated are obtained by using transformers with ferroxcube
+    cores simple design procedure is outlined with numerical
+    examples

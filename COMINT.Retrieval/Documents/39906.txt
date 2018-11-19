@@ -1,0 +1,3 @@
+temperatures deduced from aurora and airglow spectra
+    several experimental results are combined to give a temperature
+    profile between and km

@@ -1,0 +1,6 @@
+the field displacement isolator a nonreciprocal device
+    with forward loss about and reverse loss about over a wide band
+    at about is based on use of a single ferrite slab spaced from
+    the wall of a rectangular wave guide and having a resistive
+    strip on one face optimum field conditions in the waveguide are
+    discussed

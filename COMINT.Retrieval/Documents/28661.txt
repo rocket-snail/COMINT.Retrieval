@@ -1,0 +1,11 @@
+a high precision ionospheric sounding equipment
+    description with circuit diagrams and oscillograms of high
+    resolution equipment which provides pulses variable from t in
+    duration and from to in peak power the delta aerials are of the
+    type considered by cones of alternative terminations giving
+    improved signal strength at frequencies during conditions of
+    severe interference a horizontal receiving dipole is used
+    interchangeable receivers covering a bandwidth of are provided
+    the timebase circuit previously described of is modified to
+    give a line raster each line corresponding to height the
+    evaluation of resolution is discussed in an appendix

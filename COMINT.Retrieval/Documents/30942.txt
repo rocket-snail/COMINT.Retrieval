@@ -1,0 +1,4 @@
+theory and application of thermally stimulated currents
+    in photoconductors explicit solutions are obtained in the
+    limits of slow and fast retrapping a method of obtaining the
+    ionization energy of the relevant traps is discussed

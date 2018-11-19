@@ -1,0 +1,5 @@
+a further method of coupling loudspeakers to a so called
+    transformerless push pull output stage in the single ended push
+    pull circuit described two pairs of series connected
+    loudspeakers or loudspeaker groups are connected across screen
+    grid and anode of the output pentodes

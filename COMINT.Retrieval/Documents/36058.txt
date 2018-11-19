@@ -1,0 +1,13 @@
+the cryotron a superconductive computer component the
+    study of nonlinearities in nature suitable for computer use has
+    led to the cryotron a device based on the destruction of
+    superconductivity by a magnetic field the cryotron in its
+    simplest form consists of a straight piece of wire about one
+    inch long with a single layer control winding wound over it
+    current in the control winding creates a magnetic field which
+    causes the central wire to change from its superconducting
+    state to its normal state the device has current gain that is a
+    small current can control a larger current it has power gain so
+    that cryotrons can be interconnected in logical networks as
+    active elements the device is also small light easily
+    fabricated and dissipates very little power

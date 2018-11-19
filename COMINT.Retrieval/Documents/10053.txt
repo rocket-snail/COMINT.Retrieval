@@ -1,0 +1,3 @@
+analysis of active networks by admittance matrices
+    admittance matrices of valves and transistors are derived
+    directly and from their indefinite admittance matrices

@@ -1,0 +1,4 @@
+coaxial resonators with helical inner conductor
+    resonators of small size can be designed for the v h f and h f
+    ranges design formulae are simple and have been confirmed by
+    experiment

@@ -1,0 +1,6 @@
+temperature compensated dc transitor amplifier
+    temperature compensated dc transistor amplifier the variation
+    of transistor parameters with temperature is discussed
+    compensation can be provided by using temperature sensitive
+    resistors a description is given of an experimental dc
+    amplifier compensated in this way

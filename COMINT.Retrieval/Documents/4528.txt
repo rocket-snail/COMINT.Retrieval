@@ -1,0 +1,8 @@
+evaluating word processing systems' ability to store
+    data. describes the evaluation of storage of data in word
+    processors for library purposes in terms of' different kinds of
+    medium and their storage capabilities; total on-line storage;
+    the number and variety of storage devices usable at 1 time; the
+    number of files available on-line; file length; how to archive;
+    copying files and discs; safety and security; and special
+    features of systems.

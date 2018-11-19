@@ -1,0 +1,6 @@
+on distributed amplification the response characteristics
+    of a distributed amplifier can be improved by making the delay
+    characteristics of the anode and grid lines different this
+    technique being termed staggering the improvement is
+    illustrated y by photographic records of the responses of
+    experimental amplifiers

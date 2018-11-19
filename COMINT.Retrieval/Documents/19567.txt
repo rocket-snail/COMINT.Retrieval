@@ -1,0 +1,8 @@
+the use of an electron velocity analyser to stabilize a
+    direct voltage source to a few parts in a million a
+    degenerative feedback stabilizer circuit is used in which the
+    signal to the feedback amplifier is obtained by accelerating a
+    beam of electrons by the voltage to be stabilized and measuring
+    the velocity by deflection in a fixed magnetic field much
+    larger signals can be obtained in this way than by use of the
+    usual resistance type potential divider

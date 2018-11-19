@@ -1,0 +1,9 @@
+demonstration of a regional burn care system. part 1'
+    data collection activities for patient care and financial
+    information. the purpose of the virginia regional burn
+    demonstration program was to demonstrate the relative
+    effectiveness and efficiency of various methods of
+    comprehensive burn care delivery on a regional basis, by the
+    collection and analysis of data and information on such issues
+    as incidence, prevalence, etiology, cost, and topics related to
+    patient management.

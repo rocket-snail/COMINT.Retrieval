@@ -1,0 +1,3 @@
+aan electronic paramegnetic resonance spectrometer
+    influence of the amplitude of modulation of the magnetic field
+    on the line shape obtained by synchronous detection

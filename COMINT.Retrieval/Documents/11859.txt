@@ -1,0 +1,7 @@
+diffraction of electromagnetic waves by circular plate
+    and circular hole rigorous analysis is presented using the
+    method of expansion by the hypergeometric polynomial total
+    scattering cross section transmission coefficient current in
+    the disk field in the hole ad field at a distant point are
+    shown graphically as functions of where and is the
+    radius

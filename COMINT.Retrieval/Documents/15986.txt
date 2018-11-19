@@ -1,0 +1,3 @@
+ripple type time delay networks using elliptic functions
+    the design of simulation networks in the frequency domain is
+    presented

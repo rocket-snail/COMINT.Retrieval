@@ -1,0 +1,15 @@
+indexing exhaustivity and the computation of similarity
+    matrices. some of the automatic classification procedures used
+    in information retrieval derive clusters of documents from an
+    intermediate similarity matrix, the computation of which
+    involves comparing each of the documents in the collection with
+    all of the others. it has recently been suggested that many of
+    these comparisons, specifically those between documents having
+    no terms in common, may be avoided by means of the use of an
+    inverted file to the document collection. it is shown that the
+    approach will effect reductions in the number of interdocument
+    comparisons only if the documents are each indexed by a limited
+    number of indexing terms; if exhaustive indexing is used, many
+    document pairs will be compared several times over and the
+    computation will be greater than when conventional approaches
+    are used to generate the similarity matrix.

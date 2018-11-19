@@ -1,0 +1,2 @@
+the principle of a servo type mechanism requiring
+    variable elements

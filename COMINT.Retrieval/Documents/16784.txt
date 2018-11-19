@@ -1,0 +1,4 @@
+highly accurate phantastron delay circuit a transistor
+    circuit incorporates compensating arran ements to cancel
+    sources of timing error the final circuit provides a delay of
+    with an accuracy within and

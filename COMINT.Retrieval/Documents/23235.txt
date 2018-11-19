@@ -1,0 +1,5 @@
+vertical transport of electrons in the f region of the
+    ionosphere an expression is developed for the velocity and can
+    be evaluated using n profiles the results for equatorial
+    stations show that the velocity is mainly downwards at night
+    and upwards by day

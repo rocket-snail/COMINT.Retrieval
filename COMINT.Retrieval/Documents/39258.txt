@@ -1,0 +1,6 @@
+structure and movement of large inhomogeneities in the
+    ionospheric f layer simultaneous measurements have been made
+    using three receivers km apart of the phase and angle of
+    arrival of waves reflected from the f layer the size and shape
+    of inhomogeneities and drift velocities have been
+    calculated

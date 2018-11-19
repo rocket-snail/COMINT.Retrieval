@@ -1,0 +1,5 @@
+scattering losses in optical maser crystals an account is
+    given of the extinction losses resulting from the optical
+    scattering on small foreign particles within the maser crystal
+    in an attempt to explain the wide variation of maser
+    threshold

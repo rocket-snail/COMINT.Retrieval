@@ -1,0 +1,6 @@
+a particular case of the application of the matrix method
+    to radio engineering use of the matrix method in analysis of
+    the operation of quadripoles including thermionic valves or
+    transistors is discussed a simple method is proposed for
+    carrying out the necessary transformations to the formulae on
+    passing from the one case to the other

@@ -1,0 +1,12 @@
+observations of cosmic noise at from observations made at
+    a frequency of with an aerial of beam width between half power
+    points and directed to a curve of equivalent aerial temperature
+    as a function of sidereal time is derived the temperatures
+    observed were of the order the curve is compared with curves
+    derived for similar conditions by calculation from the results
+    of observations at it is found that the equivalent temperatures
+    increase rapidly with decreasing frequency but the ratio of
+    maximum to minimum temperature decreases with frequency it is
+    shown that atmospheric noise levels observed by the standard
+    techniques sometimes contain a large contribution from cosmic
+    noise at this frequency

@@ -1,0 +1,11 @@
+towards an integrated hospital information system-the
+    'sufficiency matrix': a tool for change, control and
+    development of hospital information systems. this systems
+    analysis project describes an important study project basic to
+    the hospital information system at the university of illinois
+    hospital. the intent of the project was to make explicit the
+    formal and informal exchanges of data that occur for the
+    internal and external transmittal of information. an additional
+    intent was to identify secondary and tertiary information users
+    as well as those involved in each transaction which created
+    information.

@@ -1,0 +1,5 @@
+double tuned transformers steady state and transient
+    response a general analysis applicable to both wide and narrow
+    band cases all degrees of coupling are examined and expressions
+    are derived for insertion loss phase shift envelope delay rise
+    time and overshoot

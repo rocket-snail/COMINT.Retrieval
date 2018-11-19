@@ -1,0 +1,9 @@
+an analysis of electron density variations in the f layer
+    after sunset analysis of data obtained at kokubunji taking
+    temperature variations into account and assuming a linear law
+    for the rate of disappearance of electrons indicates that the
+    nocturnal variation of electron density in the f layer is
+    explained more satisfactorily by the attachment theory than by
+    the recombination theory the corresponding temperature
+    variations deduced are not satisfactory for the winter months
+    for which other factors must be taken into account

@@ -1,0 +1,8 @@
+skin and spiralling effect in stranded conductors
+    discussion an analysis is made to determine the ac resistance
+    and internal reactance of stranded conductors with or without a
+    magnetic core at power frequencies assuming current density
+    constant in individual strands the spiralling of strands tends
+    to reduce skin effect data calculated for standard copper
+    conductors with parallel and spiralled strands are
+    listed

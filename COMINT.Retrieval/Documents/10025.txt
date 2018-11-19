@@ -1,0 +1,14 @@
+problems of document delivery for the euronet user. a
+    franklin institute gmbh, munich, technical report prepared for
+    the commission of the european communities directorate general
+    for scientific and technical information and information
+    management. its purpose was to throw light on the requirements,
+    problems and possible solutions concerning document ordering
+    and delivery through euronet/diane. many classes of individual
+    and organisation were interviewed, revealing a level of demand
+    of 6 million documents annually which is increasing at a rate
+    of 4-10% per year. euronet on-line searching could have a
+    dramatic effect on these figures, accounting for 50% of the
+    increase in demand. present document supply centres appear to
+    be operating at capacity and as automated ordering service
+    could be highly beneficial.

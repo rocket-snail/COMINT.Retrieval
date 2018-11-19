@@ -1,0 +1,5 @@
+theory of paramagnetic resonance in systems containing
+    two kinds of magnetic moment equations are derived for the
+    partial magnetizations in a weak variable magnetic field
+    relaxation times and resonance frequency shift are
+    calculated

@@ -1,0 +1,4 @@
+on the theory of anisotropic obstacles in cavities
+    variational expressions are derived for the resonance
+    frequencies of a cavity containing a material with tensor
+    electromagnetic properties

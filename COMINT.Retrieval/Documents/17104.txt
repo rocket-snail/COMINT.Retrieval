@@ -1,0 +1,3 @@
+estimate of the time constant of secondary emission
+    energy considerations allow a simple estimate to be made of the
+    time constant of secondary emission

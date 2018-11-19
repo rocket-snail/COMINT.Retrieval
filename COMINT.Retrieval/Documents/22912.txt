@@ -1,0 +1,9 @@
+neutralization of ions and ionization of atoms near metal
+    surfaces when an ion or an atom approaches a metal surface
+    neutralization or ionization processes are often possible the
+    franck condon principle is applied in the determination of the
+    probability of electron transfer such transfers are limited to
+    definite ranges of separation from the surface most secondary
+    electron emission is due to an auger type process the
+    contribution due to de excitation of metastable atoms being
+    very small

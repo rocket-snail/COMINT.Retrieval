@@ -1,0 +1,3 @@
+equivalent networks of generic multipoles a nonreciprocal
+    four terminal networks can be realised by an equivalent circuit
+    which contains only one reciprocal three pole element

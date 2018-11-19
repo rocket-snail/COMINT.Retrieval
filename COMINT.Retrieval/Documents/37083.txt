@@ -1,0 +1,5 @@
+thickness shear and flexural vibrations of rectangular
+    crystal plates analysis is given for the infinite plate the
+    simply supported rectangular plate and the rectangular plate
+    with one pair of parallel edges free and the other pair simply
+    supported for previous work see

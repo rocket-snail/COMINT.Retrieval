@@ -1,0 +1,10 @@
+the use of the blaise editor at garnett college library.
+    garnett college is the british library's only customer to
+    dedicate its entire cataloguing operation to on-line working
+    and is consequently dependent on the facilities offered by the
+    blaise editor. outlines the cataloguing procedure at the
+    college, mentioning weaknesses in editor's conception, those
+    facilities that are of little practical value, its advantages,
+    and cost. concludes that on-line input via editor is an
+    efficient and economic means of production for a computer-based
+    catalogue.

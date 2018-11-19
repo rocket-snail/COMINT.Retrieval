@@ -1,0 +1,5 @@
+the assessment of the reliability of magnetic tape for
+    data processing a method of tape testing based on a theory of
+    the origin of observed signal drop out distribution permits
+    batch testing and assists in the design of tape handling
+    systems and in the calculation of reliability

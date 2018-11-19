@@ -1,0 +1,4 @@
+the variation of cryotron current amplification factor
+    with temperature the factor increases as the penetration depth
+    decreases and there is probably a lower limit to the film
+    thickness which can be used

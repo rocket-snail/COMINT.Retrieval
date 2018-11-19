@@ -1,0 +1,10 @@
+subminiature transformers and transductors limitations
+    associated with subminiature design are discussed in relation
+    to audio and control frequency transformers and transductors
+    below a certain size a toroidal shell construction has given
+    results comparing favourably with laminated assemblies the
+    signal power level of the transformers is sufficient for
+    junction transistor circuits when this construction is applied
+    to transductors the excitation and control field are
+    orthogonally related a paper covering much of the same ground
+    appears in

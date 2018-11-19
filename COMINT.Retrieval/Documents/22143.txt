@@ -1,0 +1,6 @@
+problems encountered and procedures for obtainining short
+    term life ratings on resistors account of investigations made
+    at the battelle memorial institute on the extent to which
+    length of life must be sacrificed when composition resistors
+    are operating at high temperature a machine system for handling
+    the data is described

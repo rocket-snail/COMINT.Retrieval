@@ -1,0 +1,4 @@
+formulae for dielectric constant of mixtures formulae are
+    tabulated with references and shown to be special cases of a
+    general fundamental formula an exception is the lichtenecker
+    type of formula possibly owing to incorrect assumptions

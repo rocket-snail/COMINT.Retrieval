@@ -1,0 +1,5 @@
+controlled rectifier produces quarter megawatt pulse
+    power circuit details are given of pulse generator equipment
+    using solid state devices as active elements a pnpn si
+    controlled rectifier acts as the switch and two layer and four
+    layer diodes are used in the trigger generator

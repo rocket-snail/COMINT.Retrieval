@@ -1,0 +1,7 @@
+interactive retrieval system on techniques and technology
+    of minerals processing. demonstrates the necessity of an
+    interactive retrieval system to evaluate the present state of
+    and to forecast developments in the technologies and techniques
+    of raw mineral processing. describes the structure of a system
+    performing the functions of information storage, retrieval,
+    up-dating, grouping, and output.

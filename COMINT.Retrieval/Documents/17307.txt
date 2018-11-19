@@ -1,0 +1,16 @@
+diffraction of electromagnetic waves radiated from an
+    arbitrarily oriented electric or magnetic dipole at an ideally
+    conducting half plane the solving of this problem is simplified
+    by writing maxwells equations in a general form so as to
+    include the case of a conducting medium with a finite
+    permeability and by including a magnetic current for reasons of
+    symmetry the equation is solved for different boundary
+    conditions of p in particular cases p represents components of
+    the electric or magnetic fields or vector potentials or vector
+    potentials t is a function of position which is zero except in
+    a small volume element surrounding the dipole and with the
+    usual notation for the dielectric constant angular frequency
+    electrical conductivity permeability velocity of light and to
+    the solutions for various orientations of the dipole are given
+    in the form of definite single integrals which can be
+    evaluated

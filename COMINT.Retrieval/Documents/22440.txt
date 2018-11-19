@@ -1,0 +1,3 @@
+transistorized three phase power supplies a description
+    of the circuits required to convert a dc supply to a phase
+    supply

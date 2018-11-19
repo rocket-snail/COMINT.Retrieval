@@ -1,0 +1,6 @@
+hf wide band electronic integrator design compensation
+    for distortion of the integrated waveform due to valve output
+    capacitances can be introduced by the addition of a capacitor
+    in parallel with the integrating network resistance an
+    exprression is derived for calculating the capacitance for the
+    basic rc integrator and the miller integrator

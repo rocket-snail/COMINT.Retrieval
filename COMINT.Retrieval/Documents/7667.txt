@@ -1,0 +1,5 @@
+the elastic model of lattice defects it is showastic
+    continuum there is a repulsive interaction if the spheres are
+    bonded to the medium the effect of other boundary conditions is
+    discussed and a simplified method is given for calculating the
+    interaction between various types of defect

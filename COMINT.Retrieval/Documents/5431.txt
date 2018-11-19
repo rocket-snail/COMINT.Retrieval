@@ -1,0 +1,13 @@
+automation of a military communication centre. in
+    military operations secure communications are required to
+    ensure that information is transferred securely, accurately and
+    promptly from originator to addressee. message switching
+    systems have improved message and data handling, thereby
+    reducing transit times to a few minutes; however, within
+    communication centres (comcens), messages are still handled
+    manually and delays often occur. the solution lies in the
+    automation of comcen activities and the provision of direct
+    communications with individual users. considers automation in
+    terms of present day technology, and analyses the manual
+    operational procedures and the functional message flow through
+    the comcen to the users.

@@ -1,0 +1,7 @@
+intrinsic stability conditions for equivalence between a
+    quadripole including active elements and a passive quadripole
+    there are two necessary conditions image impedances must be
+    passive image attenuation must exceed the value of a certain
+    function of the phase angle of the image impedance and the
+    image phase shift coefficient in certain important cases this
+    second condition reduces to a simple mathematical form

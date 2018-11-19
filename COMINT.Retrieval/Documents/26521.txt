@@ -1,0 +1,3 @@
+general energy relations in nonlinear reactances an
+    alternative derivation to that used earlier is based on
+    conservation of energy and the properties of the device

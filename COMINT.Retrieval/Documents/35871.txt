@@ -1,0 +1,4 @@
+electronic computing machines and their uses basic design
+    of digital computers is described programming for suitable
+    types of problem is discussed and illustrated by
+    examples

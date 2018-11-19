@@ -1,0 +1,4 @@
+a survey of very low frequency oscillators methods of
+    generating frequencies below for vibration work and for testing
+    servomechanisms are outlined the major characteristics of
+    instruments are tabulated

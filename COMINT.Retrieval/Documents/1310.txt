@@ -1,0 +1,4 @@
+correlation between noon and sunspot number analysis of
+    data from four indian stations shows a linear relation between
+    the running means of the sunspot number and the noon value of
+    up to a limiting value of

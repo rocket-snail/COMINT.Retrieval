@@ -1,0 +1,5 @@
+a model of the radio frequency radiation from the galaxy
+    the model has been designed to give agreement both with the
+    observed values of equivalent aerial temperature and with the
+    observed isophotes over the frequency range the actual
+    mechanism of generation of radio energy is not discussed

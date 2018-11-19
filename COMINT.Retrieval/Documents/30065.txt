@@ -1,0 +1,3 @@
+radiation of plasma in a magnetic field mathematical
+    analysis of em radiation in plasma taking account of electron
+    spin in a uniform magnetic field

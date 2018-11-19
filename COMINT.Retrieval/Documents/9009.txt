@@ -1,0 +1,6 @@
+basic microwave properties of hot magnetoplasmas the
+    usual conductivity tensor of a uniform plasma in a uniform
+    static magnetic field is generalized to include four effects of
+    random motion of plasma electrons the results are applied to
+    the evaluation of the index of refraction for microwave
+    signals

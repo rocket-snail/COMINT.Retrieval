@@ -1,0 +1,5 @@
+a versatile electronic function generator two cypes of
+    electronic circuit for performing any desired transformation on
+    two arbitrary voltage waveforms are described the general
+    characteristics and accuracy of such devices when used in
+    repetitive differential analysers are discussed

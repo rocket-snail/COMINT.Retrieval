@@ -1,0 +1,5 @@
+three level masers at heat engines it is shown that a
+    three level maser can be regarded as a heat engine and its
+    limiting efficiency is that of a carnot engine the possibility
+    of treating masers as heat engines represents a fundamental
+    difference between masers and parametric amplifiers

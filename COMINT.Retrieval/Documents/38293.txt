@@ -1,0 +1,12 @@
+piggy in the middle: observations on the role of the
+    intermediary. it was confidently expected by system designers
+    that on-line bibliographic search systems, with their ability
+    to provide direct and immediate access to information, would be
+    interrogated by the end user. a review of the literature
+    reveals however, that contrary to such expectations, most
+    searches are still being performed by trained intermediaries.
+    clearly, the attempt to convert former off-line batch systems
+    used by either computer scientists or information specialists,
+    into on-line interactive systems for use by all has not worked,
+    despite the claims of their designers to having developed 'user
+    friendly' systems.

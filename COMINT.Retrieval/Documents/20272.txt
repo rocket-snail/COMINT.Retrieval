@@ -1,0 +1,5 @@
+the design and performance of high precision audio
+    frequency current transformers conventional multilayer current
+    transformers are found to have large high frequency errors
+    details are given of precision single layer transformers which
+    cov range

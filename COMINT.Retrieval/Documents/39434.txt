@@ -1,0 +1,6 @@
+a self consistent calculation of the dissociation of
+    oxygen in the upper atmosphere part three body recombinations
+    continuation of work noted in of results based on the
+    assumption that recombination occurs mainly as a three body
+    nonradiative process indicate that dissociation occurs at a
+    level about higher than that previously calculated

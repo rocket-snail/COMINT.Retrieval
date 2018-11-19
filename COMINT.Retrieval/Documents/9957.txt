@@ -1,0 +1,9 @@
+epa health and environmental effects data analysis
+    system. discusses the development of a system to organise,
+    store, retrieve, and correlate data pertaining to chemicals and
+    their biological and environmental effects. the particular
+    problems of data identification, acquisition, classification,
+    and automation are discussed in relation to existing data
+    sources and methods of data collection and analysis. the
+    problems of computer software development are also addressed,
+    and a design overview of the system is presented.

@@ -1,0 +1,4 @@
+generalization of zobel type ladder filters a new and
+    simplified method of design in which the the filter is
+    considered as an indivisible unit rather than a combination of
+    elementary structures as in the zobel method

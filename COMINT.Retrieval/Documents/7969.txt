@@ -1,0 +1,5 @@
+phase shift oscillator an analysis based on the
+    describing function method for nonlinear control systems which
+    takes account of the nonlinear limiting process and allows the
+    oscillator to be designed to give specific values of harmonic
+    distortion

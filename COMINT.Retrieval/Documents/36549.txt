@@ -1,0 +1,3 @@
+gate selects pulses for spectrum analysis a circuit
+    permitting isolation of pulses from to wide at repetition rates
+    up to per sec is described

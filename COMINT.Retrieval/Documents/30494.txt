@@ -1,0 +1,4 @@
+an analog electronic correlator for acoustic measurements
+    the correlator described is of the class operating directly on
+    the input signals ie using no carrier the magnetic drum time
+    delay system described in of is used

@@ -1,0 +1,6 @@
+second order nonlinear systems in these systems where
+    time is not explicitly shown the four space is split into a
+    displacement subspace and a velocity subspace the two being
+    related by a hypercone in a transformation singularities of
+    integral curves and certain shock phenomena are discussed and
+    the analysis is applied to two types of multivibrator

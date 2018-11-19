@@ -1,0 +1,13 @@
+quasi degenerated modes in high dielectric cavities a
+    theoretical and practical investigation is made of resonators
+    comprising solid circular cylinders composed of materials such
+    as titanates having permittivities of with or without
+    metallization of the surfaces as a consequence of the high
+    permittivities cavity resonator techniques can be used in the
+    vhf range for cylinders with the ends not metallized quasi
+    degenerate te modes can be realized tuning can be effected by
+    inserting magnetic rods or by applying conductive disks
+    externally a design for an aerial developed from the te mode
+    resonator comprises a dielectric spiral coiled round a magnetic
+    rod practical disadvantages inherent in these high permittivity
+    dielectrics are indicated

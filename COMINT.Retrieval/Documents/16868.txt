@@ -1,0 +1,7 @@
+induced and spontaneous emission in a coherent field the
+    interaction between the electromagnetic field and a number of
+    identical atomic systems individually characterized by an
+    electric dipole moment and tow energy levels is analysed for
+    the case where the atomic systems are inside a lossy cavity and
+    exposed to a coherent driving field resonance being assumed
+    between atomic system cavity and driving field

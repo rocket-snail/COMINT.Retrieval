@@ -1,0 +1,5 @@
+mean free paths of electrons in evaporated metal films
+    estimates of the mean free paths of the conduction electrons in
+    cu and ag films based on resistivity measurements on films of
+    thickness from to are found to be in good agreement with values
+    calculated from dingles theory of

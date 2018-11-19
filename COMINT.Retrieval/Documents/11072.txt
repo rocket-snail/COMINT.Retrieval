@@ -1,0 +1,12 @@
+utlas' university of toronto library automation systems-a
+    forum. utlas is a bibliographic utility supplying
+    computer-based systems, services and products in english and
+    french to canadian libraries (and now with clients in the usa
+    and japan). comprises 5 articles on utlas-utlas' a profile, by
+    jane heslegrave; the effect of using the utlas system on
+    internal procedures files and staff in the cataloguing
+    department of york university law library, may 70-jan 81, by
+    judy ginsberg; the utlas catsaver package; university of
+    alberta law library use of utlas, by lillian macpherson; and
+    data base management at the university of alberta, by james
+    heilik.

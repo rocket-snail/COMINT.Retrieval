@@ -1,0 +1,2 @@
+the specification of colours based on measurements with
+    the trichromatic colorimeter

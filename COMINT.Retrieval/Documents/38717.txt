@@ -1,0 +1,3 @@
+some simple formulas for latitude effects and lifetimes
+    of satellites empirical equations are presented and their
+    validity checked by considering the air drag expected

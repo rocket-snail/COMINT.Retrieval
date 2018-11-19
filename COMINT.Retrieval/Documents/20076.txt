@@ -1,0 +1,8 @@
+an interdepartmental allocation formula for the
+    maximization of use of library materials. develops a
+    mathematical formalisation of the problems of maximising use of
+    library materials in terms of the ideas developed by t.j.
+    pierce and w.e. mcgrath (78/2422) in their work of allocation,
+    and solves this problem to produce the allocation formula that
+    maximises the use of materials. briefly discusses the
+    feasibility of applying the formula.

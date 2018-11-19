@@ -1,0 +1,6 @@
+circuit design factors for audio amplifiers close
+    regulation of the anode supply of a cathode follower driver
+    stage in a power amplifier is achieved by using a regulator
+    triode operated by a diode connected to the driven grid
+    circuits discussed include improved versions of williamson and
+    ultralinear amplifiers

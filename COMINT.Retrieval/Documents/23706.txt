@@ -1,0 +1,6 @@
+the fused silicon rectifier a comprehensive review
+    dealing with rectification theory basic fabrication techniques
+    and the properties of si the counter electrode alloy solder the
+    base solder and the base electrode encapsulation and heat
+    dissipation theoretical and experimental properties of si
+    rectifiers

@@ -1,0 +1,5 @@
+the generation of undamped electrical oscillations in
+    series and parallel oscillatory circuits a formal analytical
+    treatment showing the types of negative resistance
+    characteristic necessary for generating sinusoidal oscillations
+    in the two types of circuit

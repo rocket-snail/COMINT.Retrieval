@@ -1,0 +1,10 @@
+ferrite microwave detector it is shown theoretically that
+    second order terms in one component of the magnetization of a
+    ferrite under the action of a rf field may be used to produce
+    magnetostriction in the ferrite and so to detect an am
+    microwave signal an experimental technique is described in
+    which the detector consists of a long thin ferrite rod in a
+    waveguide magnetostriction vibrations are observed by means of
+    a polarized ceramic rod bonded to the ferrite the qualitative
+    results agree with theory and factors which are expected to
+    improve performance are discussed

@@ -1,0 +1,6 @@
+a solution to the approximation problem for low pass
+    filters a method of synthesizing filters is described in which
+    elliptic functions are used to effect a transformation in the
+    complex frequency plane which results in a symmetrical
+    arrangement of the zeros and poles some design charts are
+    included

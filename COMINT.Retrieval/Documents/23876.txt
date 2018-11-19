@@ -1,0 +1,3 @@
+on the singular electromagnetic field in the borniefeld
+    theory it is shown thet for this singular case the borniefeld
+    theory gives the same results as maxwells theory

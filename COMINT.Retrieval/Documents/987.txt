@@ -1,0 +1,9 @@
+distortion in class ab push pull amplifiers fourier
+    coefficients of the current waveform for a single valve or
+    transistor working under varying bias conditions are evaluated
+    as a function of the angle of flow of the output current from
+    these results the harmonic distortion is determined for a
+    balanced push pull system and it is shown that small degrees of
+    unbalance can be responsible for large contributions to the
+    overall distortion principally by the introduction of second
+    harmonics

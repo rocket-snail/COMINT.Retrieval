@@ -1,0 +1,4 @@
+dc amplifier with particularly high zero level stability
+    a push pull circuit for drift compensation in dc amplifiers is
+    described and details are given of its practical application
+    and performance

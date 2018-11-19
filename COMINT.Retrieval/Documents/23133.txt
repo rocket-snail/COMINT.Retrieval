@@ -1,0 +1,4 @@
+the measurement of the angular diameter of radio stars
+    the phase switching interferometer method described by ryle of
+    is considered in detail and measurements made by this method
+    are reported

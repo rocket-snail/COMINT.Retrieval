@@ -1,0 +1,4 @@
+electronic analogue computing a survey of modern
+    techniques an indication is given of the kind of problem for
+    which analogue computers offer advantages over digital
+    types

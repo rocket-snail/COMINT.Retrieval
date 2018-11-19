@@ -1,0 +1,18 @@
+the ignition mechanism of an electric gas discharge in a
+    transverse magnetic field at pressures of torr continuation of
+    work noted in of january a nonuniform field is obtained by
+    making the radius of the outer cylinder much greater than that
+    of the inner the ignition characteristic ignition voltage
+    magnetic induction electrode separation obtained by calculation
+    is compared with measurements in ar the agreement is good the
+    ionization coefficient is independent of pressure and the
+    electron replacement coefficient is proportional to pressure
+    with high voltages and low magnetic fields the electrons are
+    produced mainly by ionic bombardment of the outer cylinder and
+    by ion collisions in the gas with low voltages and high
+    magnetic fields the electrons are produced mainly by ionic
+    bombardment of the end surfaces a formula relating the electron
+    replacement coefficient to the ratio between the mean free path
+    and the parameter of the cycloidal electron trajectory gives
+    results in good agreement with those derived from the observed
+    ignition characteristics

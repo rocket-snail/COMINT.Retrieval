@@ -1,0 +1,7 @@
+a description of the broadcast telidon system. the data
+    format which has been adopted for the telidon system is
+    described. the system requirements are listed followed by a
+    detailed account of the structure used to transmit data such
+    that these requirements are met. the alpha-geometric coding
+    allows display technology and resolution to be independent of
+    the codes.

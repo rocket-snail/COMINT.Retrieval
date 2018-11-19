@@ -1,0 +1,8 @@
+the band pass distributed amplifier general expressions
+    are derived for the gain of a distributed amplifier with any
+    number of valves coupled by identical filter sections the
+    analysis indicates that reduction of band edge peaks is more
+    difficult for band pass than for low pass amplifiers choice of
+    suitable filter networks for the band pass case is discussed
+    and some experimental results are presented for a valve
+    amplifier with a pass band from to

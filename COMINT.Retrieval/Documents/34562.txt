@@ -1,0 +1,4 @@
+logarithmic compression of binary numbers this to bit
+    converter uses bits for the most significant figures and bits
+    to indicate the position of the binary point accuracy is
+    within

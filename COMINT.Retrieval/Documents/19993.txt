@@ -1,0 +1,8 @@
+journal selection models' past and present. a review is
+    given of mathematical models applied to journal selection and
+    decision problems. various models are examined, analysed, and
+    compared. such features as the specific decision problem
+    examined, decision criterion, methodology employed, and data
+    required are considered. current research and practice are
+    examined to predict future trends in materials
+    selection.

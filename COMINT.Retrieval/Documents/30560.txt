@@ -1,0 +1,6 @@
+rapid modulation of microwaves on a coaxial line with the
+    aid of ferrites a signal on a coaxial cable has been modulated
+    to a depth of at resonance absorption in a magnetized ferrite
+    tube threaded on the core of the cable is varied by a coil
+    round the tube the modulating field is chosen to operate about
+    a mean value on one flank of the resonance curve

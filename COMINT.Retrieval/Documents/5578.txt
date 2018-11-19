@@ -1,0 +1,5 @@
+angular motion of the spin axis of the tiros
+    meteorological satellite due to magnetic and gravitational
+    torques the equations of motion including the two torques have
+    been solved and the calculated and observed directions of the
+    spin axis are in close agreement

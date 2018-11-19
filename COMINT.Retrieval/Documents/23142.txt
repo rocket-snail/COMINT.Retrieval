@@ -1,0 +1,7 @@
+on the problem of starting conditions of the avalanche
+    process in relaxation oscillators on poinoscillators on point
+    contact triodes it is shown that the oscillators can be
+    considered as nonlinear voltage or current amplifiers
+    conditions governing the formation of the avalanche process are
+    given and fomulae are derived for coefficients of voltage and
+    current amplification circuits are shown

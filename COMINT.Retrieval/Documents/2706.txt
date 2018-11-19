@@ -1,0 +1,12 @@
+public library networking: neat, plausible, and wrong.
+    argues that developing networks for public libraries in the usa
+    is not the answer to problems of limited financial resources.
+    users prefer to take a 2nd choice which is available
+    immediately from the shelves to a 1st choice which has to be
+    obtained from elsewhere and the 1st thing to be cut as funding
+    falls is resource sharing activities. presents statistics for
+    interloans in california and illinois to show what a minute %
+    of circulation is accounted for by interloans. relying heavily
+    on materials not available at once in a library is akin to a
+    return to closed stacks. suggests the development of an
+    equivalent to the british library lending division.

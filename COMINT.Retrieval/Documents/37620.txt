@@ -1,0 +1,3 @@
+x band parametric amplifier noise figures two types of
+    gaas point contact diode with improved gain bandwidth
+    properties have been examined

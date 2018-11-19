@@ -1,0 +1,7 @@
+on pre exponential factors in formulae for ionic
+    conductivity in solids it if in formulae for equilibrium
+    constants and rate constants ener y is assumed to be
+    proportional to temperature the factor preceding the
+    exponential term is not increased by a factor exp being a
+    constant and boltmanns constant but by a factor involving
+    entropy

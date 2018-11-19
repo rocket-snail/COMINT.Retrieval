@@ -1,0 +1,4 @@
+representation of physical quantities in formulae tables
+    and coordinate systems a comprehensive discussion covering both
+    fundamental physical principles and typographical
+    aspects

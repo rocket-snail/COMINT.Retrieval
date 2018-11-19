@@ -1,0 +1,7 @@
+the status of iranian information science. provides a
+    concise history and assessment of iranian information science
+    in the past 2 decades. traces progress from early indexing
+    projects to interactive data base searching. assesses the
+    importance of early course work, an early sophisticated
+    technical information centre, and the iranian documentation
+    centre's extensive activities.

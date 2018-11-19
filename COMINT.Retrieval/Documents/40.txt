@@ -1,0 +1,6 @@
+investigation of the possibilities of a nonreactive
+    parallel connection of two oscillators in the short wave range
+    scattering matrices are used to calculate the characteristics
+    of three and four port networks and a comparison of their
+    suitability for parallel connection is made application to
+    waveguide circuits is discussed

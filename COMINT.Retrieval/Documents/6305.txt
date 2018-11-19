@@ -1,0 +1,5 @@
+improvement of stabilized pound oscillator adjustments of
+    the oscillator is facilitated by means of a sawtooth generator
+    with switching arrangements such that it can be interpolated at
+    carious points in the circuit the attainment of the desired
+    oscillator characteristic being indicated on a c r o

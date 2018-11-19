@@ -1,0 +1,13 @@
+information computer communications policy, 2: the usage
+    of international data networks in europe. a study of the
+    development of international data networks, a phenomena of the
+    1970s, and policy issues arising from their use is an in-depth
+    investigation of 24 private and 6 public european networks
+    commissioned from logica ltd and sponsored by the governments
+    of france, germany, netherlands, norway, spain, and sweden.
+    discusses reasons for using international data networks,
+    describes their technological development, investigates
+    transborder applications, presents access control and security
+    problems and their solutions, and analyses the costs and
+    economics of international networks. report not available from
+    ntis.

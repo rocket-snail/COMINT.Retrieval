@@ -1,0 +1,5 @@
+anisotropic effects in geometrically isotropic lattices
+    an analysis of the anisotropy produced by an arbitrary ratio of
+    element spacing to wavelength in an artificial lattice
+    dielectric the granularity which is important at high
+    frequencies is considered in detail

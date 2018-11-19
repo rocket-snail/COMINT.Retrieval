@@ -1,0 +1,4 @@
+negative impedances and gyrators survey of
+    characteristics and classification of the various types of
+    impedance inverter and gyrator their realization in the form of
+    transistor circuits is discussed see of

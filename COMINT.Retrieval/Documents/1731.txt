@@ -1,0 +1,6 @@
+a surface wave parametric amplifier the proposed
+    amplifier takes the form of a slab of ferroelectric material
+    between two conducting planes the slab is pumped with high
+    power useful gain would be achieved at x band frequencies even
+    with present ferroelectric materials with new materials the
+    amplifier could be used at mm

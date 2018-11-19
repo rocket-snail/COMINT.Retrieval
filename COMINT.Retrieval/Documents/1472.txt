@@ -1,0 +1,7 @@
+the properties of capacitors at high frequencies the
+    variations with frequency of the capacitance and loss angle of
+    capacitors are deduced from the equivalent circuit the
+    frequencies considered ranging up to the television band the
+    self resonance frequencies of paper mica and ceramic capacitors
+    taking account of wire leads are shown by curves other curves
+    show the variation of loss angle with frequency

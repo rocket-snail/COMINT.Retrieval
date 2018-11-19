@@ -1,0 +1,7 @@
+some exact solutions in nonlinear oscillations a rigorous
+    analysis is made of forced oscillation mechanical or electrical
+    systems for certain cases which are specified by the condition
+    that the condition that the forced oscillation has a waveform
+    similar to that of the external force the stability conditions
+    are derived from hills equation which can be solved exactly for
+    the present cases

@@ -1,0 +1,6 @@
+component design trends new variable capacitors extend
+    tuning range over different types of variable capacitor in
+    production were surveyed an outline is given of techniques used
+    for obtaining low minimum capacitance and high maximum
+    capacitance adapting for operation at uhf miniaturizing and
+    pressurizing

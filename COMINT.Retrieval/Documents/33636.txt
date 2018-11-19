@@ -1,0 +1,5 @@
+wave propagation in an inhomogeneous waveguide analysis
+    of the propagation of acoustic waves in a waveguide whose
+    properties vary along its length the theory developed is
+    applied to the propagation of acoustic and em waves in natural
+    waveguides which may extend to distances of km and more

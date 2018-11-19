@@ -1,0 +1,15 @@
+a circular waveguide magic tee and its application to
+    high power microwave transmission the magic t discussed
+    comprises a circular section waveguide with two mutually
+    perpendicular side arms of rectangular section spaced
+    longitudinally at a distance this system constitutes a pair of
+    h mode transformers the device can be used as a variable power
+    dividing or power combining bridge and one of its main uses is
+    for combining feedback power with power from the source at the
+    input to a linear electron accelerator when two similar
+    sections are joined via a rotatable coupling the resulting
+    system is suitable for external connection via the rectangular
+    side arms the power dividing ratio depends on the angle of
+    rotation between the two sections other applications include
+    use with a circular polarizer to act as a phase shifter or
+    variable impedance

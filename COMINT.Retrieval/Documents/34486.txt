@@ -1,0 +1,9 @@
+cbs stepping out for french teletext. impatient with the
+    delays created by the electronic industries association's
+    subcommittee on teletext, cbs inc. has endorsed the
+    french-developed antiope teletext system as a us standard. the
+    main reasons why it was preferred over competing systems
+    (including the uk ceefax and oracle) is its capacity for
+    accommodating changes in technology. this is because it is a
+    software system with its data stream formulated independently
+    of the transmission mode.

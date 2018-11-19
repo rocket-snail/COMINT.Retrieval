@@ -1,0 +1,6 @@
+applications for tandem transistors the tandem transistor
+    consisting of two transistors housed in a single container and
+    cascaded so that one acts as the base leak for the next may be
+    used as an amplifier with high input impedance and in various
+    applications in which single grounded emitter stages are
+    normally used

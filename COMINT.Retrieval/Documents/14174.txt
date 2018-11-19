@@ -1,0 +1,9 @@
+the reflection coefficient of the long wave the
+    propagation equation is solved and the reflection coefficient
+    deduced for long waves incident vertically on a region of low
+    electron concentration such as that situ ted below the e layer
+    results are given for two cases based on different assumptions
+    regarding the vertical gradient of concentration comparison of
+    these calculated results with observations on and waves
+    indicates that there is a considerable gradient of electron
+    concentration in the layer

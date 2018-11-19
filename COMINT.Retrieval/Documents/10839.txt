@@ -1,0 +1,4 @@
+the propagation of a variable electromagnetic field in a
+    stratified anisotropic medium computation of the field on the
+    surface of an anisotropic conducting medium due to a dipole
+    lying in the surface see also of

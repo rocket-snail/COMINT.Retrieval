@@ -1,0 +1,4 @@
+simple color computer gives tristimulus values
+    trichromatic coefficients or the c i e colour specification
+    system are automatically computed on a simple analogue
+    machine

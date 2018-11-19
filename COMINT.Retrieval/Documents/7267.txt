@@ -1,0 +1,6 @@
+the relation of transition parameters for linear
+    processes to measurable parameters in ferrimagnetic resonance
+    calculated expressions include the effect of the reaction of
+    spin waves back on to the uniform precession the consequences
+    of its neglect in previous calculations by others are
+    discussed

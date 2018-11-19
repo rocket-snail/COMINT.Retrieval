@@ -1,0 +1,12 @@
+machine-readable output from online searches.
+    machine-readable output (mro) from on-line searches is useful
+    in the compilation of large bibliographies. arrangements were
+    made with a major on-line retrieval vendor to obtain (for a
+    fee) output in the form of magnetic tape, rather than
+    conventional off-line prints on paper. a programme was written
+    to transform and process the data; part of this programme is
+    similar to a computer compiler. a method of checking for
+    duplicate items was developed. mro is cost-effective and
+    eliminates the time-consuming and labour-intensive data entry
+    process. it is a natural extension of the powers of on-line
+    retrieval systems.

@@ -1,0 +1,7 @@
+some indices of solar activity based on ionospheric and
+    radio noise measurements methods are described for producing
+    indices of solar activity based on the ionization of the e and
+    f layers and monthly mean figures thus derived are tabulated
+    the two indices are compared with each other and with solar
+    noise flux at and the correlation is high practical
+    applications of the indices are discussed briefly

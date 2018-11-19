@@ -1,0 +1,6 @@
+can the landau levels of free carriers be utilized for a
+    submillimetre wave semiconductor maser of using cyclotron
+    resonance in semiconductors for obtaining maser action is
+    discussed the difficulty of having signal and pumping
+    frequencies of the same order can be overcome with the aid of
+    the oscillatory magneto absorption effect

@@ -1,0 +1,2 @@
+analysis of the common base transistor circuit
+    mathematical errors in a are pointed out

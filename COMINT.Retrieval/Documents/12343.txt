@@ -1,0 +1,10 @@
+data quality in information systems. until recently, data
+    quality was poorly understood and seldom achieved, yet it is
+    essential to the effective use of information systems.
+    discusses the nature and importance of data quality. the role
+    of data quality is placed in the life cycle framework. many new
+    concepts, tools and techniques from both programming languages
+    and data base management systems are presented and related to
+    data quality. in particular, the concept of a data base
+    constraint is considered in detail. some current limitations
+    and research directions are proposed.

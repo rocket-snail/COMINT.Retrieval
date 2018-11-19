@@ -1,0 +1,7 @@
+oscillators and their modes of oscillation a
+    classification of oscillators in three types is proposed based
+    on the parameters of the passive frequency determining
+    quadripole which together with an active quadripole constitutes
+    the oscillator several basic circuits are analysed in this way
+    and the q factor of their modes of oscillation is
+    evaluated

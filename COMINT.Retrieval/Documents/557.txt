@@ -1,0 +1,5 @@
+graphical analytical construction of the space trajectory
+    of charged particles in magnetic fields two methods are
+    described for plotting the trajectory of relativistic charged
+    particles an acceleration method and the radii of curvature
+    method

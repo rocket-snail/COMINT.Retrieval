@@ -1,0 +1,3 @@
+phase dependence of a ferromagnetic microwave amplifier
+    the phase dependent operation of an amplifier using
+    polycrystalline yttrium garnet is shown experimentally

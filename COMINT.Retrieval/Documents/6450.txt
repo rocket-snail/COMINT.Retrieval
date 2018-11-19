@@ -1,0 +1,3 @@
+photon momentum effects in the magneto optics of excitons
+    two magneto optic effects due to the small but finite wave
+    vector of light are described

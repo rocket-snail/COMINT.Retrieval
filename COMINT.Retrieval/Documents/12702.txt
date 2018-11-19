@@ -1,0 +1,6 @@
+the field emission initiated vacuum arc part the
+    resistively heated emitter theory is developed for the heat
+    flow in an emitter of geometry approximating to that used in
+    the experiments reported in above the calculations support the
+    view that breakdown is initiated by a resistive heating
+    process

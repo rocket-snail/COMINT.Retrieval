@@ -1,0 +1,3 @@
+signal to noise ratio in nuclear magnetic resonance the
+    amplifier noise is expressed in terms of an equivalent input
+    grid resistance rather than in terms of a noise figure

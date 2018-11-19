@@ -1,0 +1,4 @@
+a source of energy for the ionosphere joule heating by
+    electric currents associated with geomagnetic variations is
+    normally sufficient to account for the heat flux in the low
+    latitude ionosphere

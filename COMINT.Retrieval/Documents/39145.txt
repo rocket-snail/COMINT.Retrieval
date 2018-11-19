@@ -1,0 +1,4 @@
+reading of recorded signals with a low frequency
+    parametron description of a tape recording system in which
+    parametron devices replace valves to increase the storage
+    capacity some form of multiplex system is required

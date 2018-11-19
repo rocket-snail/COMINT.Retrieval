@@ -1,0 +1,7 @@
+the statistical mechanics dynamics and
+    magnetohydrodynamic of plasmas a system of equations is
+    established in particular to denote the movement the current
+    and the compression tensor of an ionized gas these are applied
+    to partially and completely ionized gases and used to obtain
+    the general equations of magneto hydrodynamics propagation
+    modes of different types of wave are determined

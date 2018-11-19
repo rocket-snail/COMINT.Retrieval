@@ -1,0 +1,8 @@
+dimensional analysis units and rationalization careless
+    manipulation of dimensional formulae can lead to fallacious
+    results the trouble is due to the use of the multiplication
+    sign for two different kinds of products having very different
+    physical meanings once these are clearly distinguished and the
+    phsy physical meaning considered at every stage in the
+    proceedings the diff culties encountered even with rationalized
+    units are overcome

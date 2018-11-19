@@ -1,0 +1,5 @@
+weather radar observations from an earth satellite a
+    survey of the problems involved in designing a weather
+    satellite the use of radar in the satellite is discussed and
+    also the problem of handling the data on the ground and in the
+    satellite

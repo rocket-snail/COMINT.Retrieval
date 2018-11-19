@@ -1,0 +1,9 @@
+a broad band cyclotron resonance r f detector tube
+    operation is based on the cyclotron resonance of an electron
+    beam in a static magnetic and r f electric field in the pencil
+    beam tube described spiralling electrons are detected by a
+    honeycomb mesh grid the current intercepted by the grid is
+    greatest at resonance and is proportional to the r f signal
+    power mechanical details and operating conditions are given a
+    simplified energy transfer analysis enables the electrical
+    characteristics to be predicted

@@ -1,0 +1,8 @@
+a discussion of the motion in nitrogen of free electrons
+    with small energies with reference to the ionosphere it is
+    found that the collision cross section of electrons is
+    proportional to their velocity from this result an accurate
+    expression is derived for the velocity of electron drift in
+    terms of the mean energy of the electrons the energy losses are
+    found to be mainly due to excitation of the rotational states
+    of the nitrogen molecules

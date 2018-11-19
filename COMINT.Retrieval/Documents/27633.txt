@@ -1,0 +1,4 @@
+theory of cyclotron resonance in metals an investigation
+    of the influence of field strength and temperature on the
+    surface impedance of a metal in rf and constant magnetic fields
+    parallel to the surface

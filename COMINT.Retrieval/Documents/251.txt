@@ -1,0 +1,6 @@
+horizontal drift in the ionosphere over delhi the drift
+    was measured using spaced receiver techniques and both e and f
+    layer reflections are analysed for the period april march
+    velocity histograms of the ns and ew components and plots of
+    the seasonal variations in velocity and drift directions are
+    given

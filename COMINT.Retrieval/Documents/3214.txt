@@ -1,0 +1,9 @@
+a simplifying technique in the solution of a class of
+    diffraction problems considerable simplification of the
+    treatment of diffraction problems leading to wiener hopf
+    integral equations results from taking the transform before
+    applying the boundary conditions this is demonstrated by
+    consideration of the sommerfeld problem for the semi infinite
+    plane the diffraction of small amplitude sound waves by a semi
+    infinite rigid cylinder the diffraction of a plane em wave by a
+    finite waveguide a vector field

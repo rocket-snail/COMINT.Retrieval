@@ -1,0 +1,13 @@
+file as a dependable archivist. the current state of the
+    art of information processing tends to link certain
+    capabilities (such as protection of data integrity and
+    confidentiality and monitoring user/data interactions) with
+    large data base systems. this is most unfortunate, since such
+    capabilities are frequently vital for modest applications which
+    do not have the degree of data complexity to justify the use of
+    large data base systems and which may not be able to afford
+    them. describes an effort to bridge this gap in current
+    electronic data processing technology by means of a new
+    linguistic concept of files which is designed to simulate a
+    dependable archivist rather than a passive filing
+    cabinet.

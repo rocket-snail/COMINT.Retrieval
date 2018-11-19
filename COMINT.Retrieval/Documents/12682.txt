@@ -1,0 +1,4 @@
+electron interaction in solids characteristic energy loss
+    spectrum the characteristic energy loss spectrum is analysed
+    with the aid of the dielectric formulation of the many body
+    problem

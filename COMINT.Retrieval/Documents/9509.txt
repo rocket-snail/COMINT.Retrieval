@@ -1,0 +1,6 @@
+point contact transistor relaxation oscillators the
+    plotting of phase curves for oscillators with emitter collector
+    and collector capacitance are shown and possible operating
+    modes investigated expressions are given for deriving the pulse
+    parameters conditions are expressed for the appearance of step
+    discontinuities as well as for a self oscillatory mode

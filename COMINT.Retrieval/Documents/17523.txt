@@ -1,0 +1,11 @@
+current voltage characteristics of a self supporting gas
+    discharge in a transverse magnetic field continuation of
+    previous work of march measurements were made using coaxial
+    cylinder electrodes with axial magnetic field in argon at
+    pressures from to below torr falling or rising characteristics
+    are obtained according as the pressure is greater or smaller
+    tha some thousandths of a torr at pressures above this value
+    the discharge has the nature of a glow discharge with positive
+    space charge at pressures below this value this value the
+    characteristics are those of a self supporting high vacuum
+    discharge with negative space charge

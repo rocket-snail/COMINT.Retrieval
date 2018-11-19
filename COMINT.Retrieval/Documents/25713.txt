@@ -1,0 +1,5 @@
+choice of a parameter characterizing radio whistlers the
+    dispersion d is proposed as a character figure for whistler it
+    is also proposed that as long whistlers have a dispersion which
+    is dependent on frequency the frequency should be stated zero
+    frequency is considered optimum for this purpose

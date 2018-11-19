@@ -1,0 +1,5 @@
+a review of methods of linear network analysis in the
+    steady state parts the establishment of an independent set of
+    network variables permits various methods of network solution
+    the four terminal network and the use of reference parameters
+    are also considered

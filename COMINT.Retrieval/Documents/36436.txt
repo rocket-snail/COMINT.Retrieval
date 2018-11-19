@@ -1,0 +1,6 @@
+negative impedances transistors and feedback circuits and
+    their interrelations the use of transistors in negative
+    impedance feedback circuits is investigated and the influence
+    of transistor characteristics on the network parameters is
+    determined theoretically and by measurement some practical
+    difficulties are discussed

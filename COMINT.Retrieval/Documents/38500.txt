@@ -1,0 +1,12 @@
+the influence of electrical current on the contact
+    between metals experiments are reported in whic two blocks of
+    gold were pressed together in such a way as to localize contact
+    in a single region and current pulses were passed whose
+    duration was chosen in relation to the time constants of the
+    contact so as to produce the effect of a continuous current the
+    constriction resistance between the blocks was measured before
+    and after passage of a pulse from these values the changes in
+    the contact area were calculated the results indicate that
+    below a critical value of current the contact area is unchanged
+    but above this current value the contact area is increased by
+    passage of current

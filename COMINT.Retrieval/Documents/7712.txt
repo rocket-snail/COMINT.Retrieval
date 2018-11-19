@@ -1,0 +1,5 @@
+high speed pulse amplitude discriminator a circuit is
+    described for use in fast counting systems it handles pulses of
+    amplitude generating a positive output pulse of constant
+    amplitude whose length is determined by the length of the input
+    pulse dead time is about and peaks apart are separated

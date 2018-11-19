@@ -1,0 +1,4 @@
+filter crystals for the frequency range the requirements
+    for crystals used in filter networks are considered for atcut
+    crystals operating in the range a triangular shape gives a
+    satisfactory reduction of unwanted modes

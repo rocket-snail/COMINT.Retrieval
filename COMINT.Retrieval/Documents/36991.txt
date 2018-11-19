@@ -1,0 +1,3 @@
+a note on transistorized ripple filters a smoothing
+    circuit providing optimum efficiency over a wide range of load
+    currents is described

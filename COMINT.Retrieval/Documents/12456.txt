@@ -1,0 +1,5 @@
+the use of short transmission lines in ultra high
+    frequency techniques lines of length are considered their uses
+    as inductances capacitances and resonant circuits are reviewed
+    numerical examples are given applications as filters and
+    impedance transformers are described

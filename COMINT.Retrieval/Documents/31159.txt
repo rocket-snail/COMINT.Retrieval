@@ -1,0 +1,14 @@
+investigation of search codes (matchcoding) for catalogue
+    data. during the planning for the incorporation of data
+    processing in libraries, the decision-making process is aided
+    through the use of basic data. presents an evaluation of about
+    442,000 machine-readable catalogue entries from the university
+    of konstanz library. the effectiveness and behaviour of various
+    search codes (matchcodes) determined by different data
+    categories were analysed concerning their performance within an
+    expanding data base and in juxtaposition with one another.
+    furthermore, the frequency of identical data and their length
+    was noted. results showed that clear distinctions can be
+    attained if types of search codes are assigned to specific data
+    groups; stop list support is, however, necessary for dynamic
+    matchcodes.

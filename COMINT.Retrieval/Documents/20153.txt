@@ -1,0 +1,12 @@
+information technology-problems and opportunities.
+    analyses the information situations where new technology can
+    usefully be employed and discusses the learning which is
+    necessary to avoid possible problems in harnessing this cheaper
+    power. describes some difficulties associated with the
+    introduction of computing technology generally and discusses
+    the problems likely to be encountered with low cost equipment.
+    presents the cost of custom made software and the expertise
+    necessary to create personal programs. also gives details of
+    pitfalls which the new user usually fails to appreciate,
+    including the importance of proper housekeeping routines,
+    documentation and security of data.

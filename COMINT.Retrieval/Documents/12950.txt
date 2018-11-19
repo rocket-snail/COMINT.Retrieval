@@ -1,0 +1,6 @@
+transistor relays have low idling current two transistor
+    circuits for remote control are shown which operate a or
+    electromechanical relay from the output signal of a receiver
+    this may be a carrier modulated at or a pulsed microwave signal
+    using si transistors the idling current is a few
+    microamps

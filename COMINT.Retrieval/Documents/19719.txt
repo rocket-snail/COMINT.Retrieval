@@ -1,0 +1,4 @@
+currents induced in a plane conductor of great width by a
+    plane strip of small width carrying a high frequency current
+    approximate formulae giving the variations of resistance and
+    self inductance of the inductor

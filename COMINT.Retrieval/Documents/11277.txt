@@ -1,0 +1,6 @@
+diffraction at a circular aperture a discrepancy in the
+    results obtained by two methods of calculating the diffraction
+    field described earlier and of is examined the first method is
+    correct within the approximation stated the second is invalid
+    for a small region near the centre of the aperture when the
+    wavelength is insufficiently small

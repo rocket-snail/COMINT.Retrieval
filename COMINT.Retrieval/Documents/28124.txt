@@ -1,0 +1,6 @@
+some transistor input stages for high gain dc amplifiers
+    several types of input stage are investigated and methods of
+    reducing drift are suggested it is shown that drift of
+    operating point in transistor dc amplifiers depends on the type
+    of circuit the lowest drift being obtained using the transistor
+    as a chopper

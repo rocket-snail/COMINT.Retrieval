@@ -1,0 +1,9 @@
+antenna and receiver measurements by solar and cosmic
+    noise the sun and various intense cosmic sources of rf
+    radiation which have been previously measured are used as
+    calibration sources for determining aerial patterns and
+    receiver sensitivities for radio astronomy investigations
+    practical procedure is outlined inaccuracies are involved in
+    evaluating background radiation contours and solar energy
+    distribution but the technique is sufficiently accurate for
+    checking field instruments

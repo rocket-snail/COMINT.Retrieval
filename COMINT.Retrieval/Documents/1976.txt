@@ -1,0 +1,6 @@
+antimetric ladder filters all parameters of a quadripole
+    antimetric ladder filter are shown to depend on four polynomial
+    functions of being the complex angular frequency between which
+    a relation exists the theory is applied to antimetric band
+    rejection filters and to high and low pass filters and tables
+    are given facilitating calculations

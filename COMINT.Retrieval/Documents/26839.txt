@@ -1,0 +1,6 @@
+the limits of total reflection part rigorous wave theory
+    calculation the variation of intensity in the region of the
+    critical reflection angle is calculated numerically for a
+    particular case previously considered by ott of the curve
+    obtained indicates a continuous variation from the region of
+    partial to that of total reflection

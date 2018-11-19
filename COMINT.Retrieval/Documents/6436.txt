@@ -1,0 +1,3 @@
+fast transistor relay describes a push pull switching
+    circuit incorporating zener diodes having a rise time of and
+    capable of handling currents up to

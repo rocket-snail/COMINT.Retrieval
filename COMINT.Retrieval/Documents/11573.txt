@@ -1,0 +1,7 @@
+influence of ratio on magnetic properties of toroidal
+    cores the optimum design of cores for magnetic amplifiers is
+    discussed a theoretical result is obtained assuming a
+    parallelogram shaped hysteresis loop and an experimental
+    investigation is reported the dependence of the optimum tatio
+    on the magnetic properties of the core material is
+    indicated

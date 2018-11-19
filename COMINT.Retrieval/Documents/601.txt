@@ -1,0 +1,11 @@
+problem of retrieval file structure optimisation
+    according to retrieval time criterion. when developing on-line
+    retrieval systems, the speed of response to inquiries is one of
+    the main characteristics of the system's quality. considers a
+    component of response time-the descriptor retrieval time.
+    discusses direct, inverse, and combined patterns of file
+    organisation, makes a comparative analysis, and evaluates
+    descriptor retrieval time for each. proposes a probability
+    model of retrieval in a combined file. on the basis of this
+    model, the problem of optimising a combined file according to
+    the time criterion is solved.

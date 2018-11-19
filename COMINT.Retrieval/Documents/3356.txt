@@ -1,0 +1,4 @@
+a more stable three phase transistor core power inverter
+    a square wave inverter for driving gyroscope motors is
+    described which could provide up to one kw continuous
+    power

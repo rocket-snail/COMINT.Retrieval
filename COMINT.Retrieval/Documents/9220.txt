@@ -1,0 +1,9 @@
+data base management. april, 1980-june 1981 (citations
+    from the engineering index data base). the advent of on-line
+    systems, and the increasing problems of file organisation, file
+    maintenance, and file structures of data bases, has resulted in
+    the study and development of data base management systems. this
+    bibliography of worldwide literature cites research on the
+    development of software packages and the implementation of data
+    base management systems into various information
+    systems.

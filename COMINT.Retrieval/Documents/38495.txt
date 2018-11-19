@@ -1,0 +1,4 @@
+human factors aspects of visual display unit operation.
+    presents a brief review of scientific and medical studies on
+    the human factors involved in the operation of visual display
+    units.

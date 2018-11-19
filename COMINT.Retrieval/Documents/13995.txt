@@ -1,0 +1,5 @@
+a sequence switching unit for measurement of ionospheric
+    drift in a modification of the three receiver system a unit
+    switches the input of a single receiver between three aerials
+    the output signal of each aerial being displayed simultaneously
+    with vertical separation on a cro

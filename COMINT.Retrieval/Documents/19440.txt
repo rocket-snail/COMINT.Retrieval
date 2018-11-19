@@ -1,0 +1,6 @@
+current element near the edge of a conducting half plane
+    the two dimensional problem of the maxwellian field from a line
+    source of current adjacent to conducting half plane is treated
+    by a transform method of solution expressions in the form of
+    contour integrals are given for the current induced in the
+    conductor and for the radiated field

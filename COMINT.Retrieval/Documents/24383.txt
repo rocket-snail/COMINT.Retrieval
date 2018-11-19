@@ -1,0 +1,5 @@
+recording accuracy in magnetic tape recording the
+    accuracy is defined on the basis of information theory and he
+    capacity of a magnetic tape communication channel is calculated
+    taking account of signal noise ratio and undesirable am and fm
+    effects

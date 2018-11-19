@@ -1,0 +1,12 @@
+a name for every chemical. describes the confused state
+    of chemical nomenclature and outlines the solutions used by
+    data banks. chemical abstracts service uses rigid nomenclature
+    rules and assigns a unique 'registry number' to each chemical.
+    the national institutes of health and the environmental
+    protection agency have assembled a group of data banks, each
+    based on a collection of chemicals, into the integrated
+    chemical information system which may be searched by registry
+    number, systematic names, some trivial names, and structures
+    'drawn' by the user at the terminal. some data banks and many
+    research-based organisations use the wiswesser line notation,
+    an alphanumeric linear notation.

@@ -1,0 +1,4 @@
+a tripler circuit using a capacitance diode mathematical
+    analysis of a frequency tripler circuit and derivation of an
+    equivalent circuit the results of the analysis and of
+    measurements on a practical circuit are compared

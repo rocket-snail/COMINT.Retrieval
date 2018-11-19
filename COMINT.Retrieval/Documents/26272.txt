@@ -1,0 +1,4 @@
+the electrical conductivity of a partially ionized gas
+    analysis taking account of both electron particle and coulomb
+    type collisions but neglecting the effects of inelastic
+    collisions and a steady magnetic field

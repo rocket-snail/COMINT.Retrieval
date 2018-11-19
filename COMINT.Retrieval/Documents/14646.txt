@@ -1,0 +1,4 @@
+electromagnetic interaction of a beam of charged
+    particles with plasma the theory of growing plasma waves is
+    generalized to include waves propagated in directions other
+    than the beam direction

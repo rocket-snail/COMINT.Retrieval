@@ -1,0 +1,5 @@
+theory of the electrical conductivity of metals in a
+    magnetic field formulae are derived for determining the
+    resistance of metals in a transverse and in a longitudinal
+    magnetic field taking into account the quantization of the
+    movement of electrons in a magnetic field

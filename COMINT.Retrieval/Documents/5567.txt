@@ -1,0 +1,14 @@
+the management of information systems. describes and
+    presents the findings of the urban information systems (urbis)
+    project, carried out in 1973-78 by the urbis research group of
+    the public policy research organization, university of
+    california, irvine. the project's purpose was to assess the
+    state-of-the-art in local government computing, evaluate its
+    impact on government services and management decision-making,
+    and develop recommendations for the better use of information
+    technology. computing in over 700 us cities and counties was
+    studied extensively and more detailed information was then
+    collected in 42 cities. it was found that well-managed computer
+    technology has real pay-offs, but that it was not well-managed
+    in most cities, creating pervasive problems and producing
+    benefits far short of expectations.

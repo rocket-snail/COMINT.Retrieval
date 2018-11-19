@@ -1,0 +1,7 @@
+construction and calibration of an inductive attenuator a
+    hf attenuator is described which makes use of the properties of
+    a waveguide at d frequencies far below cut off for a frequency
+    of the attenuation varies linearly to within between and db
+    with the distance between the source and the output coil the
+    attenuation can be calculated from the physical dimensions
+    only

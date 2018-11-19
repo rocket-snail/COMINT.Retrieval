@@ -1,0 +1,5 @@
+the grain boundary amplifier the construction and
+    characteristics of an amplifier are described which is based on
+    modulation of the sheet conductance of a grain boundary in n
+    type ge at k a power amplification of db was obtained at a
+    frequency of which approached zero at

@@ -1,0 +1,3 @@
+notes on the structure of logic nets an elementary
+    approach to a theory of the role of structure in logic
+    nets

@@ -1,0 +1,5 @@
+multiplication by semiconductors the modes of operation
+    of analogue computer multipliers using the hall effect in
+    semiconductors are discussed some experimental multipliers and
+    the results obtained with them are described the application of
+    the magnetoresistive effect is outlined

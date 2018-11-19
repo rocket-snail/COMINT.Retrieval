@@ -1,0 +1,4 @@
+a data system on microfiche. presents an information
+    retrieval system on electric machines which is based on
+    micro-cards; describes reference and retrieval tools; and
+    explains some examples of information retrieval.

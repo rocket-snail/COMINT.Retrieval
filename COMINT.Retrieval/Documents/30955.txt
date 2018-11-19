@@ -1,0 +1,3 @@
+digital codes in data processing systems the design of
+    digital coding systems including error detecting and error
+    correcting codes is discussed

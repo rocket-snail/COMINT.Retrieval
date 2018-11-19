@@ -1,0 +1,7 @@
+on the nonoptical theory of focusing in rotating magnetic
+    fields the difficulties arising in the application of optical
+    methods to electron optics are pointed out the general theory
+    of t e focusing action of static magnetic fields developed by
+    grinberg which is based on nonoptical methods is applied to the
+    case of paraxial electron beams in rotating magnetic
+    fields

@@ -1,0 +1,14 @@
+artemis' a system for document digitisation and
+    teletransmission. this report describes a document delivery
+    service, code name artemis, which prints out on readers'
+    terminals the pages of scientific and technical documents
+    requested from computer data bases. source documents are
+    converted to computer readable form, either as text or as
+    facsimile. the former can be printed on a teleprinter, but does
+    not preserve all the format of the original; the latter can be
+    delivered to a facsimile receiver. the digitised documents are
+    stored in data bases attached to host computers. from these,
+    they can be retrieved in response to user's request and sent
+    overnight via euronet or another telecommunications network to
+    the user's unattended terminal or to his computer for later
+    printing.

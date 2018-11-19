@@ -1,0 +1,10 @@
+multistable electronic circuits and decades the design of
+    counter circuits is considered from the point of view of
+    simplicity and reliability from this point of view it is
+    advantageous to keep the number of internal couplings as low as
+    possible trigger chains are used with odd numbers of triode
+    valves alternately blocked and conducting except for one
+    adjacent pair in the same state to ensure stability damping is
+    required at the critical frequency circuit arrangements are
+    shown for providing this in cases where the two adjacent valves
+    in the same condition are both blocked both conducting

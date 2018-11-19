@@ -1,0 +1,10 @@
+report to blr&dd on the use of form designs for
+    catalogue input' a project involving the hp2645a display
+    station. describes an investigation of the potential of a
+    hewlett packard hp2645a terminal in teaching on-line
+    cataloguing, including the use of the terminal's editing
+    facilities, and an investigation of the value and usefulness of
+    various form overlay designs for the input of marc cataloguing
+    data. different form designs are compared through a study of
+    the difficulties experienced and the errors made by a test
+    group consisting mainly of students of librarianship.

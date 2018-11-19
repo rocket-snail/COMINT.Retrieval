@@ -1,0 +1,6 @@
+a new class of materials for bloembergen type masers a
+    class of substances exists which have four levels degenerate in
+    zero field these levels show a linear zeeman effect but are not
+    necessarily equally spaced when a magnetic field is applied and
+    there are allowed transitions which are not limited to those
+    between adjacent energy levels

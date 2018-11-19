@@ -1,0 +1,3 @@
+note on high speed product integrator errors arising in
+    the potentiometer circuit of the integrator are
+    discussed

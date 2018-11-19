@@ -1,0 +1,4 @@
+noise measure of distributed negative conductance
+    amplifiers the modification required to the noise measure for
+    circuits in which the characteristic impedance has a reactive
+    part is given

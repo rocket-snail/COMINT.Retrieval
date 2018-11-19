@@ -1,0 +1,5 @@
+shielding of transient electromagnetic signals by a thin
+    conducting sheet the screening effects of an imperfectly
+    conducting sheet against the transient field of a vertical
+    magnetic dipole with a ramp function excitation are
+    investigated

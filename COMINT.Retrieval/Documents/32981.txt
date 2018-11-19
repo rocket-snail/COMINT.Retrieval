@@ -1,0 +1,7 @@
+unifying design principle for the resistance network
+    analogue a cell principle technique due to macneal is extended
+    and generalized as an illustration poissons equation is
+    integrated over the volume of a representative small cell in
+    which form it is easier to appreciate the analogy with the
+    resistance network and to arrive at the relevant design
+    parameters

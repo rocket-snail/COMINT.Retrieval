@@ -1,0 +1,4 @@
+electrostatic sound wave modes in a plasma the ratios
+    between the frequencies of the peaks observed in the anode
+    voltage fluctuations in discharge tubes agree with those
+    calculated using a simple theory of radial modes

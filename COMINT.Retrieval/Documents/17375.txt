@@ -1,0 +1,6 @@
+investigation of selenium rectifiers under pulse
+    conditions to investigate the voltage dependence of the
+    resistance in the reverse direction pulse measurements have
+    been made of back resistance capacitance barrier layer
+    thickness and electric field intensity as functions of the
+    applied voltage

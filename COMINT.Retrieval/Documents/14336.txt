@@ -1,0 +1,3 @@
+design of a simple band pass amplifier with approximate
+    ideal frequency characteristics the application of the pole and
+    zero method of synthesis is illustrated

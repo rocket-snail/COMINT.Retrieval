@@ -1,0 +1,4 @@
+the thermal behaviour of semi conductor rectifiers
+    measurements are described which were made on heavy current ge
+    diodes to determine the thermal inertia the effect of cooling
+    on the overload characteristic is discussed

@@ -1,0 +1,11 @@
+the excitation of circular polarization in microwave
+    cavities a matrix method is used to study the effect of
+    transition pieces and differential phase shifters on waves
+    propagating in guides with two degenerate orthogonal modes
+    three different methods are discussed for generating circularly
+    polarized waves in a cavity coupled to the side wall of a guide
+    the preferred arrangement uses a square guide with incident
+    wave polarized along one transverse diagonal and reflected wave
+    polarized z along the other and a circular coupling window
+    centred in the width of one wall at an appropriate distance
+    from the reflecting end

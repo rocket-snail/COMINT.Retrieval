@@ -1,0 +1,11 @@
+cataloguing machine-readable data files' an introduction.
+    due to lack of bibliographic control and unfamiliarity,
+    machine-readable data files (mrdfs) remain phantom material to
+    both librarians and library users-even though more and more
+    research materials are being produced in machine-readable form.
+    reviews the current status of mrdfs; discusses basic conditions
+    for cataloguing mrdfs; explains how a computer is operated and
+    how mrdfs are produced; and reviews chapter 9 of the
+    anglo-american cataloguing rules (2nd edition) which is devoted
+    to descriptive cataloguing rules for mrdfs, focusing on
+    troublesome areas.

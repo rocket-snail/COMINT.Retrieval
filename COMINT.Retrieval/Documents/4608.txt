@@ -1,0 +1,7 @@
+self excitation with disk seal valves in a grounded grid
+    circuit a circle diagram is derived for the internal capacitive
+    coupling between anode and cathode in a grounded grid
+    oscillator the phase of the transconductance and the input
+    admittance resulting from the long transit times of electrons
+    are taken into account calculations for several circuits with
+    external feedback are made with th aid of the diagram

@@ -1,0 +1,16 @@
+a pilot training course for online use of agricultural
+    information systems-experiences and recommendations. 45
+    agricultural information specialists from 8 eec member
+    countries and eec institutions attended the 5 day course
+    sponsored by the eec commission and held at dimdi (german
+    institute for medical documentation and information) in cologne
+    10-14 dec 79. course goals were to introduce participants to
+    the on-line use of computerised agricultural information
+    systems, to encourage the on-line use of such systems and to
+    help participants organise similar courses in their own
+    countries. instruction was centred on presentation and
+    demonstration of the information systems agrep, agris, cab,
+    cris, fsta and the fal gene data bank, and also of the european
+    information network euronet/diane (direct information access
+    network for europe), command languages and search
+    strategies.

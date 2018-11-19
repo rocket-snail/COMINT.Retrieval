@@ -1,0 +1,5 @@
+an apparatus for the detection of weak ionospheric echoes
+    fm apparatus id described in which the principle of coherent
+    integration is applied in the receiver with transmitted power
+    of and filter bandwidth of signals are detected with
+    attenuation of up to nepers

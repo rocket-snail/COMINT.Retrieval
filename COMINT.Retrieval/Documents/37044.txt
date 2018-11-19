@@ -1,0 +1,10 @@
+the impedance of chokes resistors and capacitors at high
+    frequency analysis indicates that in order to represent the
+    impedance variation of cylindrical inductors resistors and
+    capacitors at frequencies above the first resonance point
+    equivalent circuits are needed combining a ladder network with
+    simple parallel or series networks nonuniform field
+    distribution along the component can then be taken into account
+    the validity of the theory is confirmed by reference to
+    measurement results shown graphically the effect of an earthing
+    lead on a lead through capacitor is demonstrated

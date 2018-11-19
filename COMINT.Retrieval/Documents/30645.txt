@@ -1,0 +1,7 @@
+the diffraction of electromagnetic waves at a grating
+    consisting of parallel conducting strips a rigorous solution is
+    given for diffraction of a normally incident plane wave the
+    width of the strips being equal to the spaces between them
+    graphs show the reflection and transmission of the wave for
+    various ratios of strip width to wavelength and the amplitudes
+    of the diffraction spectra

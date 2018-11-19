@@ -1,0 +1,4 @@
+electron resonance in crossed electric and magnetic
+    fields a note on the electric field dependence of the period of
+    revolution of an electron in a semiconductor in crossed
+    fields

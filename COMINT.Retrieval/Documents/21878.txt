@@ -1,0 +1,5 @@
+detection of spin magnetization variation in a two level
+    maser oscillator a neutron irradiated sample containing about
+    spins was mounted in a rectangular plastic cavity resonator
+    with field sweep excitation oscillations were detected which
+    established the existence of variations of

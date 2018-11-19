@@ -1,0 +1,6 @@
+negative feedback in frequency changers two different
+    forms of negative feedback are discussed one has only passive
+    elements in the feedback path and thk other has an active
+    element with characteristics identical to those of the forward
+    path their application to frequency changers is considered with
+    reference to gain stability

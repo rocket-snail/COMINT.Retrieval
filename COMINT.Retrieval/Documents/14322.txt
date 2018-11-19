@@ -1,0 +1,10 @@
+synthesis of feedback control systems by means of pole
+    and zero location of the closed loop function a mathematical
+    description of the desired frequency response based on the
+    location of the poles and zeros of the closed loop function is
+    given which ensures that the specifications of velocity or
+    acceleration error constant bandwidth and relative stability
+    will be met and which provides for acceptable system transient
+    response algebraic manipulation yields the transfer function of
+    the main loop and subsidiary feedback loop corrective networks
+    required to meet the specifications

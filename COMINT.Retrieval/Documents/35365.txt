@@ -1,0 +1,3 @@
+the graphs of active networks results obtained previously
+    are used to develop the properties of the graphs of linear
+    networks including valves and transformers

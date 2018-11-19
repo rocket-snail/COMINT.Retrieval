@@ -1,0 +1,6 @@
+the istc's one-day conference on documentation for
+    microprocessor-controlled equipment. report on the conference
+    of the institute of scientific and technical communicators,
+    london, 3 june 80, comprising reports from john noyce, the
+    conference chairman, mike snow, the conference organiser, and a
+    summary of papers and proceedings by marcus watney.

@@ -1,0 +1,11 @@
+spin echo memory device a proton rich sample placed in a
+    strong inhomogeneous magnetic field of mean strength h was
+    subjected to a pattern of relatively weak radio frequency
+    pulses at the larmor frequency of the protons in the field h
+    the pattern was then recalled by applying a strong rf pulse at
+    a later time as in the spin echo technique it is shown both
+    mathematically and experimentally that such a series of pulses
+    varying in amplitude can be memorized by the spin system of
+    protons for times as long as one second and then repeated
+    preserving both shape and relative amplitude spin echoes are
+    discussed by hahn in

@@ -1,0 +1,2 @@
+polarization of a molecular beam by an alternating field
+    with variable amplitude and phase

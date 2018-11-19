@@ -1,0 +1,4 @@
+nonlinear thermal fluctuations in a diode as an example
+    of nonlinear noise the fluctuations in a circuit consisting of
+    a diode and a capacitor are studied and th complete fluctuation
+    spectrum is calculated

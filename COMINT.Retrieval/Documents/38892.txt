@@ -1,0 +1,5 @@
+the mesh counterpart of shekels theorem it is shown that
+    whereas the determinant of the admittance matrix of a network
+    is independent of the choice of reference node of shekel the
+    corresponding statement for the mesh determinant is not
+    true

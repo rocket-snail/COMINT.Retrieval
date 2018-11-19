@@ -1,0 +1,3 @@
+a direct coupled phase splitter a precision cathode
+    follower and inverter are described having an output resistance
+    of about and a frequency response from dc to beyond and

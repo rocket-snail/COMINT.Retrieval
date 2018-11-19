@@ -1,0 +1,5 @@
+electron density in the e layer during auroral displays
+    deduced from measurements of absolute brightness the auroral
+    luminosity values of electron density calculated from the
+    photon emission for different auroral forms range from
+    electrons below

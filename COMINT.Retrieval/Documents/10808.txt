@@ -1,0 +1,7 @@
+energy distributions of field dependent secondary
+    electrons report of an experimental investigation of the
+    emission from thin films of a retarding field technique was
+    used the energy distribution was found to be maxwellian with
+    values ranging from zero to and average values of to depending
+    on the applied field the method is useful for determining the
+    surface potential of the emitter

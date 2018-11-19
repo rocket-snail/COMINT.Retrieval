@@ -1,0 +1,4 @@
+concavity of resistance functions it is proved that any
+    network linearlys wound potentiometers fixed resistor has a
+    curve of resistance versus shaft angle which is concave
+    downward

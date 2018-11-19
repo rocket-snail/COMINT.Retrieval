@@ -1,0 +1,8 @@
+linear algebraic computation by multi winding
+    transformers theory is presented of transformer circuits fol
+    solving simultaneous equations and inequalities the reduction
+    of errors due to transformer imperfections is discussed the
+    practical aspects are illustrated by a problem involving
+    checking the compatibility of ten inequalities with six
+    variables the present device is similar to that described by
+    mallock and

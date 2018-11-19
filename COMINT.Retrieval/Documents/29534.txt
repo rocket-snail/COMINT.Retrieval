@@ -1,0 +1,5 @@
+an method for synthesizing sequential circuits an theory
+    is developed from design procedures suggested by huffman and
+    moore enabling intricate relay systems to be built up from an
+    initial dias by successive application of simplifying
+    reductions a unique circuit is finally obtained

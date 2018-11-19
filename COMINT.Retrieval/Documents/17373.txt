@@ -1,0 +1,3 @@
+description of a large electronic computer description of
+    the ibm type computer which comprises storage units of magnetic
+    tape core and drum type

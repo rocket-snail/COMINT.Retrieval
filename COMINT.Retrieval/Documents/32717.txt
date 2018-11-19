@@ -1,0 +1,4 @@
+impedance matching with transformer sections an
+    equivalent circuit for a transmission line transformer section
+    is discussed which allows considerable flexibility in design
+    and enables and effects to be easily taken into account

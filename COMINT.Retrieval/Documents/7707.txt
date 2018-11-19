@@ -1,0 +1,5 @@
+pulse conduction in decaying plasma apparatus has been
+    constructed in which plasma ionized by ry rf excitation is
+    subjected to repeated submicrosecond c voltage pulses
+    immediately after excitation is removed the current is
+    measured

@@ -1,0 +1,4 @@
+on the possibility of maser action in nuclear quadrupole
+    systems analysis of an apparently promising system shows that
+    the gain in the material is not sufficient to overcome circuit
+    losses

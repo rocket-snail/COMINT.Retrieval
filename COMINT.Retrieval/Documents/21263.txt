@@ -1,0 +1,4 @@
+transformation quadripoles according to the insertion
+    loss theory the design of filter networks with prescribed
+    attenuation characteristics and impedance transformation in the
+    pass band is discussed see also of

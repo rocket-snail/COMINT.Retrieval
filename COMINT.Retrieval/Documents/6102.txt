@@ -1,0 +1,5 @@
+lotka's law revisited. discusses the literature that has
+    become associated with lotka's law and identifies the important
+    factors of lotka's original methodology which should be
+    considered when attempting to test the applicability of lotka's
+    law.

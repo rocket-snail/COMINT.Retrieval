@@ -1,0 +1,4 @@
+cascade amplifier a cathode coupled phase inverter
+    circuit using cascode connected twin triodes is described as
+    part of a high fidelity amplifier which does not require a
+    specially designed output transformer

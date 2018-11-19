@@ -1,0 +1,9 @@
+a coaxial magic t the basic design consists of a coaxial
+    line t junction including a shielded loop whose axis is located
+    at the centre of the t the operation is similar to that of the
+    hybrid coil or the waveguide magic t two modifications are
+    described one using direct coupling between the loop and the
+    loads standing wave characteristics of experimental models for
+    operation at wavelengths of about cm are given a swr can be
+    obtained over a frequency band of about application to phase
+    measurements is described briefly

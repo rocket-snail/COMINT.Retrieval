@@ -1,0 +1,4 @@
+the influence of magnetic amplifier circuitry upon the
+    operating hysteresis loops an analysis limited to the steady
+    state characteristics of single phase self saturated magnetic
+    amplifiers only resistive loads are considered

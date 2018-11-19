@@ -1,0 +1,9 @@
+charge penetration into a conductor in equilibrium
+    statistical mechanics is used to show that the electric charge
+    on a conductor in equilibrium is not restricted to its surface
+    but penetrates into the interior in the form of a space charge
+    density the effective penetration depth being of the order of a
+    few atomic distances similarly the electric potential in a
+    charged conductor is not strictly constant but varies in space
+    which results in a small but finite potential difference
+    between the interior and the surface layers

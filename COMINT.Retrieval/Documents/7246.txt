@@ -1,0 +1,6 @@
+function generation with operational amplifiers errors in
+    analogue computers caused by diode limiters can be reduced by
+    using accurate electronic switches with high gain d c
+    amplifiers and voltage feedback applications of the techniques
+    for comparators multivibrators and integrator reset circuits
+    are described and future applications are indicated

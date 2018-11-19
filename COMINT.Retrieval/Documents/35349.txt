@@ -1,0 +1,2 @@
+symbol manipulation by threaded lists april, 1960 perlis,
+    a. j. thornton, c. ca600402 jb march 22, 1978 1:56 pm

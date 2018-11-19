@@ -1,0 +1,4 @@
+low level dc amplifier with whole loop feedback a
+    vibrating contact modulator and whole loop negative feedback
+    are used and a stabilized gain of from dc to is obtained the
+    zero drift is less than per hour and less than per day

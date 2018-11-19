@@ -1,0 +1,6 @@
+hall effect in impurity conduction the existence of a
+    nonvanishing hall effect in the impurity conduction regime of a
+    semiconductor is demonstrated the theory is based on a three
+    site transition process and in particular on a magnetic field
+    dependent contribution to the jump probability between two
+    sites

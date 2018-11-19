@@ -1,0 +1,5 @@
+and nanosecond carrier pulses produced by harmonic
+    generation pulses are generated directly from the harmonics
+    present in the sharp step at the end of the recovery transient
+    of a selected type diode which is mounted across a waveguide
+    used as a high pass filter

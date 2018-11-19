@@ -1,0 +1,5 @@
+considerations of on-line information retrieval in the
+    medical libraries (in chinese). analyses the advantages and
+    difficulties of on-line bibliographic retrieval in medical
+    libraries and suggests ways of preparing for its implementation
+    in a medical library.

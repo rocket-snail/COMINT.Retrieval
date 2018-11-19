@@ -1,0 +1,4 @@
+the equivalence of one class of networks with magnetic
+    branches and one class of kirchhoff networks with magnetic
+    elements toroidal core networks equivalent to transfluxors are
+    derived

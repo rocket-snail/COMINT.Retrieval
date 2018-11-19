@@ -1,0 +1,7 @@
+a differential input stage for low frequency amplifiers
+    an ac coupled differential input stage is described in which
+    the ratio of in phase to anti phase gain ie the transmission
+    factor is theoretically infinite in an actual circuit the
+    measured value of the transmission factor was at an in phase
+    signal level of rms the frequency range of is adequate for most
+    applications

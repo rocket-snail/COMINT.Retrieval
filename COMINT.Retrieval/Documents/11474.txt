@@ -1,0 +1,9 @@
+the theory of the magnetoresistance effects in polar
+    semiconductors theory developed previously for conduction in
+    polar semiconductors of is extended to deal with effects
+    occurring in the presence of a magnetic field hall coefficient
+    and magnetoresistance effect are shown graphically as functions
+    of the magnetic field strength and of the temperature and
+    degree of degeneracy of the electron gas at low temperatures
+    the magnetoresistance effect may become very large contrary to
+    the prediction of the free path theory

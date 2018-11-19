@@ -1,0 +1,9 @@
+static dynamic design of flip flop circuits discussion of
+    the design of flip flop circuits for operation from a
+    relatively low supply voltage a desirable feature for computer
+    elements the circuit adopted uses negative pulse triggering and
+    a diode input circuit the minimum trigger voltage being
+    adjustable by means of two variable resistors stability is
+    determined by use of rouths criteria general directions for the
+    design of flip flop circuits for low voltage operation are
+    summarized

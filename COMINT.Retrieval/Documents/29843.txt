@@ -1,0 +1,3 @@
+corbino disk predicted changes in magneto resistance in a
+    flat annular disk in a magnetic field are in rough agreement
+    with experiment

@@ -1,0 +1,6 @@
+use of the principles of conservation of energy and
+    momentum in connection with the operation of wavetype
+    parametric amplifiers some limitations on operation are
+    explained in simple terms and certain general relations
+    governing behaviour including the manleyrowe relation are
+    derived

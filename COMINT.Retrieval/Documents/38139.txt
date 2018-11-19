@@ -1,0 +1,5 @@
+voltage and current controlled negative resistance two
+    poles the mechanism of voltage and current control in two pole
+    networks is discussed equations for obtaining the equivalent
+    circuits from direct measurements at the network terminals are
+    given

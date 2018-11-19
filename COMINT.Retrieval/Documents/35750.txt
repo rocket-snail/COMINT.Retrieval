@@ -1,0 +1,5 @@
+intensity of harmonic and combination components in the
+    nonlinear distortions of complex oscillations the effect of
+    linear quadratic and cubic response characteristics on
+    triangular saw tooth and rectangular signals is considered
+    results are tabulated

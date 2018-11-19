@@ -1,0 +1,14 @@
+sharing development information. during the past 2 years,
+    the information systems unit of the united nations department
+    for international economic and social affairs has been running
+    a pilot project to establish an automated information system,
+    development information system, and to provide
+    intradepartmental coordination of information systems
+    activities. the system is now fully operational with a sample
+    data base of almost 2,000 records. to avoid unnecessary
+    duplication, full use was made of the devsis (development
+    sciences information system) preliminary designs and the
+    macrothesaurus. the minisis minicomputer system, developed by
+    the international development research centre, is being tested
+    for cost effectiveness. the system is compatible with several
+    other united nations systems.

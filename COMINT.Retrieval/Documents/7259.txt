@@ -1,0 +1,5 @@
+procedures used to improve the quality of ionospheric
+    data data from field stations are regularly dealt with by the
+    ionospheric data quality control group of the upper atmosphere
+    research section at the an outline is given of the procedures
+    used with special reference to the detection of errors

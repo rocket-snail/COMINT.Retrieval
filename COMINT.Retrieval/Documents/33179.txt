@@ -1,0 +1,5 @@
+internal atmospheric gravity waves at ionospheric heights
+    irregularities and irregular motions observed in the upper
+    atmosphere are interpreted in terms of a spectrum of waves
+    propagated upwards and modified to produce different dominant
+    modes at different heights

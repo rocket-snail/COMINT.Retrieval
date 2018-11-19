@@ -1,0 +1,4 @@
+kinetic theory of magnetohydrodynamic waves analysis of
+    the propagation of magnetohydrodynamic waves in an ionized gas
+    when the wave frequency is much greater than the frequency of
+    short range collisions see also of

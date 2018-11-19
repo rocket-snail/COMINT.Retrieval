@@ -1,0 +1,8 @@
+review of nonlinear distortion in transistor stages
+    including cross modulation the nonlinear transfer function is
+    approximated by a taylor series expansion and from this
+    equations are derived for various types of distortion in
+    earthed emitter transistor circuits methods of compensating
+    cross modulation are considered the results of cross modulation
+    measurements are found to be similar to those obtained by akgun
+    and strutt of

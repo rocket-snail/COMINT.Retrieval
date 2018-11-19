@@ -1,0 +1,4 @@
+a note on the paramagnetic relaxation the theory given
+    explains experimental results obtained by gorter for the
+    dependence of the spin spin relaxation time on the static field
+    strength

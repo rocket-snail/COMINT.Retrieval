@@ -1,0 +1,11 @@
+fm transient response of band pass circuits a general
+    formula is derived for the instantaneous deviation of output
+    frequency resulting from a step change of input frequency
+    calculations are presented for large frequency shifts in a
+    single tuned circuit and for small frequency shifts in
+    amplifiers with various numbers of tuned circuits for small
+    input steps near the middle of the pass band the transient
+    response is the same for fm as for am stagger tuning gives rise
+    to overshoot but the extent of this is small if the amount of
+    stagger is no more than enough to provide maximally flat
+    response in the steady state

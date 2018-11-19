@@ -1,0 +1,16 @@
+study of the relative frequency fluctuations of two
+    reflex klystrons stabilized by different methods in connection
+    with projected experiments of the michelson type it was desired
+    to ascertain whether a variation of due to modulation could be
+    detected in the frequency of oscillations modulated at a study
+    was made of the inherent frequency fluctuations of klystron
+    oscillators and of methods for limiting them with particular
+    reference to the stabilization of supply sources alternative
+    electronic methods involving use of waveguides and cavity
+    resonators were used to stabilize the frequency of the beat
+    between the two klystron oscillations one of which was
+    modulated filters of bandwidth were used to improve this
+    stability results are compared with those of pound of and essen
+    they indicate that it should be possible with present day
+    techniques to detect a frequency variation of the order of
+    in

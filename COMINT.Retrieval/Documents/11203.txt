@@ -1,0 +1,5 @@
+microwave modulation of light in paramagnetic crystals
+    the considerations of dehmelt and others about the modulation
+    of light by rf signals in atomic vapours are extended t
+    paramagnetic solids experimental design criteria are discussed
+    and some possible applications reviewed

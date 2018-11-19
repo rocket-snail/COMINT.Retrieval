@@ -1,0 +1,12 @@
+collisional effects and the conduction current iin an
+    ionized gas a first approximation to the transport equation for
+    the conduction current in a binary ionized gas id derived the
+    collision damping factor derived is a weighted mean of the
+    electron and ion collision frequencies which is times the
+    electron collision frequency corresponding approximations made
+    to the equations of conservation motion and thermal energy when
+    combined with maxwells equations yield a set of equations for
+    the investigation of the interactions between an ionized gas in
+    motion and the associated radiation field the results are
+    applicable to the solar atmosphere and the h h and lower
+    ionosphere regions

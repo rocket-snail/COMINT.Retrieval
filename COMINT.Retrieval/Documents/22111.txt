@@ -1,0 +1,3 @@
+decomposition of the derivative of the impedance for a
+    two terminal network extension of theory presented
+    previously

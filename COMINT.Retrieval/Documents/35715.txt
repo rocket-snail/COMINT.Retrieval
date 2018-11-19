@@ -1,0 +1,5 @@
+doppler studies of the ionosphere with vertical incidence
+    a description is given of a method for determining whether
+    observed doppler shifts are due to changes in height of
+    reflection or to ionization changes in the lower
+    ionosphere

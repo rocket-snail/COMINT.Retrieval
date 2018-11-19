@@ -1,0 +1,7 @@
+force densities in dielectrics a new approach to the
+    theory of electrical conductivity of solids since the
+    electrical conductance of a body is a measure of the
+    fluctuations of charge in a state of thermodynamic equilibrium
+    an analysis of these fluctuations gives the value of the
+    conductivity the value derived agrees with that of drude but is
+    found to be half that for the lorentz sommerfeld model

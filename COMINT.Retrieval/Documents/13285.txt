@@ -1,0 +1,3 @@
+two rc oscillator circuits cathode coupled and transitron
+    types of rc oscillator are described which operate at freu
+    frequencies of about and respectively

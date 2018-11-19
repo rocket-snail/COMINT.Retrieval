@@ -1,0 +1,10 @@
+increase of the gain of a wide band distributed amplifier
+    by compensation of its zeros and by arrangement of the residual
+    poles in a tchebycheff ellipse a set of equations is obtained
+    for a two valve distributed amplifier and its component values
+    and characteristics are calculated for a limiting frequency of
+    general formulae for distributed amplifiers with any number of
+    valves are derived theoretical results are verified with the
+    aid of an experimental two valve circuit the tchebycheff type
+    of amplifier is shown to have a gain greater by a factor of
+    than the conventional distributed amplifier

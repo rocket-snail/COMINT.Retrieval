@@ -1,0 +1,4 @@
+the electrokinetic power theorem the electrokinetic power
+    theorem is shown to be valid also for arbitrary electron
+    velocities relativistic conditions if certain definitions are
+    adopted

@@ -1,0 +1,3 @@
+study of the local electromagnetic field at the junction
+    of three dielectric media analysis is given for the case of
+    three media with a common edge

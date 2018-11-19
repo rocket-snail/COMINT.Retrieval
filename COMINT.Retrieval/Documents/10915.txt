@@ -1,0 +1,4 @@
+designing a medium-sized public library. aims to improve
+    communication between architect and librarian and to assist
+    each to understand the objectives and methods of the other in
+    order that they may provide better libraries for users.

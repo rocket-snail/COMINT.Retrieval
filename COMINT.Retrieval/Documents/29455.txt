@@ -1,0 +1,3 @@
+the realization of switches for both current directions
+    using junction transistors some practical transistor
+    arrangements with and without diodes are described

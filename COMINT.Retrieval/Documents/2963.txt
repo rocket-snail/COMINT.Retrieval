@@ -1,0 +1,7 @@
+a nonreciprocal microwave component in the presence of a
+    steady magnetic field the permeability of a ferrite is an
+    asymmetrical tensor this property is applied in the
+    construction of a nonreciprocal device comprising a waveguide
+    in which a ferrite block is arranged asymmetrically and
+    parallel to the axis a static magnetic field being applied
+    transversely experimental results are given

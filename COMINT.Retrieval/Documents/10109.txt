@@ -1,0 +1,9 @@
+a maser amplifier for radio astronomy at x band the
+    design and operating characteristics of a maser radio meter for
+    use in radio astronomy at wavelength are discussed the
+    operating system which is described has a bandwidth of and an
+    input noise temperature including background radiation into the
+    antenna of about k an rms fluctuation level of about is
+    attained using an averaging time of seconds a discussion of the
+    factors determining the sensitivity of such devices is
+    presented

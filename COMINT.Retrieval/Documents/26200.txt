@@ -1,0 +1,4 @@
+inversion by fast passage in a multilevel spin system
+    some measurements of adiabatic fast passage in a multilevel
+    electron spin system are described with particular reference to
+    a recent proposal for a staircase maser

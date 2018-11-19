@@ -1,0 +1,4 @@
+parametric excitation of harmonic oscillations in a
+    linear oscillating circuit with nonperiodic variation of its
+    parameters with time conditions for harmonic generation by
+    nonperiodic variation of r l and c are established

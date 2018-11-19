@@ -1,0 +1,9 @@
+the correlation between decay time and amplitude response
+    an investigation is made of the relation between the decay time
+    and the delay time of the indicial response and the bandwidth
+    and peak values of the steady state amplitude response for
+    various minimum phase lumped parameter networks formulae are
+    derived expressing the functional relation between decay time
+    and the ratio where is the bandwidth at and that at a formula
+    for delay time is derived which is valid for multistage
+    circuits

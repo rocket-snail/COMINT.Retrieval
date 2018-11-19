@@ -1,0 +1,6 @@
+propagation of waves through a sheet of the medium with a
+    cubic periodic structure an approximate solution to the wave
+    equation is obtained for the case of normal and oblique
+    incidence of the ingoing wave and a detailed investigation is
+    made of the case for which the wave equation is
+    separable

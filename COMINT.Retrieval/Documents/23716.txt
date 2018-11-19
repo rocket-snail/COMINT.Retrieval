@@ -1,0 +1,7 @@
+the collision frequency of electrons in the ionosphere
+    theoretical analysis indicates that the electron collision
+    frequency in the ionosphere depends on the concentration of
+    neutral particles in the d and e regions and on the electron
+    concentration in the f region any atmospheric model for the
+    region above the e layer should not therefore be based on the
+    frequency of electron collisions with neutral particles

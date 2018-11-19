@@ -1,0 +1,9 @@
+distribution of radio brightness on the solar disk at mcs
+    observations during the first six months of made with
+    interferometer equipment confirm the results obtained at the
+    annular eclipse of bosson et al concerning the increased
+    brightness at the edge of the disk further observations will be
+    required to determine whether the radio brightness increases at
+    first uniformly from the centre and then more rapidly to a
+    maximum near the edge or whether there is a secondary maximum
+    at the centre

@@ -1,0 +1,10 @@
+design of low frequency constant time delay lines
+    analysis is presented for ladder type low frequency delay lines
+    consisting of pierce asymmetrical t sections each section
+    having two unequal coils in series wound on a common core to
+    give a coupling coefficient near unity a capacitor being
+    connected from the junction of the coils to earth when properly
+    terminated such delay lines give delays constant to within over
+    of the pass band where many sections must be used they have the
+    decided advantage of requiring only two components per section
+    a double winding inductor and a capacitor

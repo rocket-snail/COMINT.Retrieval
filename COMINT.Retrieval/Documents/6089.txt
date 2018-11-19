@@ -1,0 +1,8 @@
+tunnel diode one sho and triggered oscillator th one
+    tunnel diode flip flop described by kaenel of june which
+    requires a bidirectional pulse can be made to operate as a
+    triggered oscillator the switching mechanism of the schmitt
+    trigger circuit using transistors equivalent circuits and
+    characteristic curves ar derived results of measurements are
+    given for comparison by the addition of an identical circuit
+    with modified bias

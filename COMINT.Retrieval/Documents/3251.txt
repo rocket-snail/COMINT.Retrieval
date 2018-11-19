@@ -1,0 +1,5 @@
+improving the performance of the series electronic
+    voltage regulator compensating networks for improving the
+    performance of the conventional series electronic voltage
+    regulator circuit are analysed the theory is compared with
+    measurements made on a fully compensated circuit

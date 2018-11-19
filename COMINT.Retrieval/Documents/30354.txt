@@ -1,0 +1,6 @@
+infrared spectrophotometer amplifier an amplifier for use
+    with a low impedance bolometer is described with complete
+    circuit diagram the amplifier input is of the order of at a
+    frequency of corresponding to a power input of the overall
+    amplification is the methods used to reduce nouse valve
+    microphony are discussed

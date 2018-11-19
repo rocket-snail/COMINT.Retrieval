@@ -1,0 +1,6 @@
+silicon power rectifiers for ac line operation used as
+    half wave rectifiers with capacitor input filters typical alloy
+    junction units rated for maximum rms input give output at a
+    typical full wave rectifier with choke input filter will
+    deliver ma at or at room temperature heat dissipating mountings
+    are discussed

@@ -1,0 +1,5 @@
+frequency stabilization scheme for the pound watkins rf
+    spectrometer a scheme is described for locking the frequency of
+    a marginal oscillator rf spectrometer to that of an external
+    standard this makes it convenient to use such a spectrometer
+    for high resolution nmr work

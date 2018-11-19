@@ -1,0 +1,4 @@
+design of push pull magnetic power amplifiers the method
+    is described in detail and is illustrated by discussion of a
+    amplifier with a power amplification of and internal
+    feedback

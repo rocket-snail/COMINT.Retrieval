@@ -1,0 +1,11 @@
+a note on the sluggishness of the ionosphere by analogy
+    with the lr circuit a time of relaxation analogous to a time
+    constant is obtained from the equation for the variation of
+    ionization where n is the electron density and the
+    recombination coefficient two methods of determining n are
+    described and its value is calculated for the d e f and f
+    winter layers although the value of n varies by a factor of
+    over n is constant within a factor of about this result may be
+    interpreted as indicating either that must fall steadily from
+    the d to the f layer or that the physical process of electron
+    disappearance is not merely one of attachment

@@ -1,0 +1,3 @@
+the modulator as a phase detector a note on the error due
+    to a finite switching voltage applied to a shunt
+    modulator

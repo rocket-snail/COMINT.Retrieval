@@ -1,0 +1,3 @@
+high inductance simulation describes a circuit which
+    eliminates the resistance component in a pentode reactance
+    valve giving a simulated inductance of infinite

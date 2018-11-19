@@ -1,0 +1,9 @@
+successful management information systems. traces the
+    evolution of data processing in business, with emphasis on
+    information handling for decision making. evaluates
+    analytically the changes in concepts toward management methods
+    of obtaining information. presents a consensus of the ideas of
+    well-known writers and practitioners in the information systems
+    field, and, through use of the delphi technique attempts to
+    select a set of criteria which force better design planning of
+    management information systems.

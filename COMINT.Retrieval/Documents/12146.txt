@@ -1,0 +1,6 @@
+electron spin and phonon equilibrium in masers it is
+    pointed out that the successful operation of in three level
+    steady state masers is incompatible regardless of the operating
+    frequencies of the maser with the assumption that the
+    relaxation rates are determined by the interaction between the
+    lattice vibrations and the helium bath

@@ -1,0 +1,5 @@
+self balancing push pull circuits theoretical aspects of
+    self balancing circuits are discussed and a method is described
+    for making a push pullamplifier self balancing by applying
+    overall push push negative feedback no close tolerance
+    components are needed

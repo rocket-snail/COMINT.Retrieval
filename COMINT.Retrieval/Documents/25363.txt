@@ -1,0 +1,8 @@
+the influence of the solar radiation pressure on the
+    motion of an artificial satellite results of theoretical
+    investigations of the radiation pressure perturbation have been
+    applied to orbital calculations for vanguard one producing
+    significant perturbations in its perigee height in the case of
+    a satellite with a large area mass ratio the major terms
+    introduced by solar radiation pressure can reduce the perigee
+    distance at the rate of km day

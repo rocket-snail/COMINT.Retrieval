@@ -1,0 +1,5 @@
+filter transfer function synthesis theory is developed
+    for circuits in which approximately constant attenuation is
+    achieved over one or more frequency bands an electrostatic
+    potential analogue method is used see of klinkhamer the method
+    is applied to some examples of low pass filters

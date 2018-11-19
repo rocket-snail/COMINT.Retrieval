@@ -1,0 +1,7 @@
+further data on the design of eccles jornan flip flops
+    full text of paper presented at the aiee summer general meeting
+    june analysis under specified conditions of the grounded
+    cathode type of flip flop circuit including no inductors a
+    graphical design technique is described which should facilitate
+    the design of switching circuits using a large number of
+    identical direct coupled circuits

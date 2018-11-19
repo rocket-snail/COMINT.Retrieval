@@ -1,0 +1,10 @@
+retrieval language and logical organisation of the data
+    base in an integrated retrieval system for crude oil processing
+    and oil chemistry. considers a descriptor language for oil
+    processing and oil chemistry and presents methods of indexing
+    documents using this language. discusses the logical
+    organisation of an information base containing both
+    bibliographic and non-bibliographic information. the proposed
+    method is being used in the automated management system under
+    development for the azerbaijan soviet socialist republic's
+    ministry of oil and chemical industry.

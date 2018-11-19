@@ -1,0 +1,6 @@
+on the effective field in a plasma equations for the
+    partial distribution functions are used to compute the
+    effective field acting on charged particles in a plasma the
+    effective field differs from the mean field by a small quantity
+    of the order of where n is the number of particles within a
+    sphere of radius equal to the debye radius

@@ -1,0 +1,4 @@
+servo amplifiers use power transistors high efficiency in
+    a class amplifier using power transistors is obtained by
+    providing the collector power by full wave rectification of the
+    power supply

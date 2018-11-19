@@ -1,0 +1,7 @@
+the quality of oscillators with differently located
+    losses network oscillator with parallel and series losses is
+    investigated to determine whether the factor can be improved by
+    a reduction of load impedance in conjunction with an
+    appropriate increase in oscillator gain the reduction of load
+    impedance is effected by considering the loss impedance to be
+    added in parallel with thk load

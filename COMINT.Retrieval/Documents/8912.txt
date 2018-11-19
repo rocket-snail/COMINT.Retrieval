@@ -1,0 +1,4 @@
+approximations for the electron density in meteor trails
+    improved approximate expressions for describing conditions near
+    the point of maximum electron density for both fast and slow
+    meteors are compared with herlofsens exact solution see

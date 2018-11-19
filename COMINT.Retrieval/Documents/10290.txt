@@ -1,0 +1,5 @@
+microwave computer circuits examples of the use of
+    microwave components and techniques in the construction of
+    simple high speed computing elements are given main problems
+    are the cost and complexity of the waveguide systems
+    required

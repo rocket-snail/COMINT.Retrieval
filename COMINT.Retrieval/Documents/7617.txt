@@ -1,0 +1,6 @@
+matrix analysis of logical networks a novel method of
+    matrix algebra is derived for the analysis of networks
+    representing logical systems too complex for conventional
+    approaches using boolean algebra it is shown that truth tables
+    of system blocks may be treated as matrices and that logical
+    operations on such matrices can be performed efficiently

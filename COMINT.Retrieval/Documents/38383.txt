@@ -1,0 +1,6 @@
+high stability temperature controller for transistors the
+    control system uses two servomechanism stages which are
+    electrically independent but thermally in series an outer
+    annular block is made to provide initial temperature control of
+    the inner block which is thermally stabilized within
+    itself

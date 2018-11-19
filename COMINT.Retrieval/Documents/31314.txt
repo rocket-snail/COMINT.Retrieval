@@ -1,0 +1,8 @@
+horizontal wind systems in the ionospheric e region
+    deduced from the dynamo theory of the geomagnetic variation
+    wind systems are deduced from sq data for the solstice seasons
+    in both northern and southern hemispheres and the diurnal and
+    semi diurnal components are examined a comparison of the
+    theoretical system with observed winds is made wind velocities
+    are calculated taking account of coriolis forces and assuming
+    the electron density at night to be that at noon parts

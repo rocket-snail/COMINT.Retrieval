@@ -1,0 +1,6 @@
+automatic gain control of transistor amplifiers
+    satisfactory agc circuits can be designed based on variation f
+    either emitter current or collector voltage v the required
+    control power is very low if the variation of is produced by
+    varying the base current distortion may become a serious
+    problem

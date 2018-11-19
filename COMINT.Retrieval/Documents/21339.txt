@@ -1,0 +1,7 @@
+a magnetic read head with output signal independent of
+    tape speed each head is double consisting of a variable
+    reluctance reading head and a conventional writing head one
+    unit comprises eight double heads and can be used with standard
+    tape in computer output and editing equipments the reading head
+    is adequate for normal packing densities over a wide range of
+    tape speeds down to zero

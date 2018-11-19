@@ -1,0 +1,4 @@
+electronic audio bandpass filter a narrow band filter
+    with centre frequency adjustable from to is obtained by
+    including a phase inverter rejection circuit in the negative
+    feedback circuit of an audio amplifier

@@ -1,0 +1,4 @@
+bremsstrahlung and the photoelectric effect as inverse
+    processes a detailed theoretical examination of the inverse
+    processes of the photoelectric effect and of bremsstrahlung at
+    the high frequency limit of the spectrum

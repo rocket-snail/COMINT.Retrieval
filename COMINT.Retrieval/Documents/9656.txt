@@ -1,0 +1,3 @@
+voltage variable capacitor selection guide tabulated
+    information is presented to facilitate the choice of the best
+    component for the circuit requirements

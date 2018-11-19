@@ -1,0 +1,6 @@
+a condenser memory unit for improving signal to noise
+    ratios description of a unit containing thirty low leakage
+    capacitors which can store information for periods up to
+    several hours thirty two channels may be scanned in ten sec the
+    unit has been used in investigations of twilight spectra with
+    photoelectric and photo conductive spectrometers

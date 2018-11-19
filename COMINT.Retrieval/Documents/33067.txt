@@ -1,0 +1,7 @@
+the method of secondary quantization in phase space a
+    statistical analysis of systems of interacting particles in
+    which use is made of the number of particles in various points
+    of coordinate momentum phase space which at every point of
+    phase space are random functions of time this method can be
+    used for considering particles and fields in electromagnetic
+    interaction

@@ -1,0 +1,8 @@
+the maximum gain of an rc network analysis is presented
+    indicating that any desired voltage gain can be achieved at a
+    given real frequency by using networks of sufficient complexity
+    as represented by the degree of the corresponding formulae
+    transfer function theory developed previously of is used the
+    relation between the maximum possible gain and the degree of
+    the transfer function is determined the results are illustrated
+    by examples

@@ -1,0 +1,3 @@
+broadening of the spectrum of an oscillator due to noise
+    a formula is derived for the frequency broadening due to random
+    thermal noise in a nonlinear circuit

@@ -1,0 +1,4 @@
+push pull amplifier design a method of designing class ab
+    push pull amplifiers which eliminates the need to plot
+    composite characteristics is discussed and some examples are
+    given which compare favourably with practical results

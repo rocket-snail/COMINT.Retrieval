@@ -1,0 +1,5 @@
+electrical discharges between coaxial electrodes luminous
+    corona discharges occur when transient voltages are applied
+    between a wire and a small coaxially mounted ring in air
+    photographs show that the shapes of the discharges differ
+    according to the polarity of the electrodes

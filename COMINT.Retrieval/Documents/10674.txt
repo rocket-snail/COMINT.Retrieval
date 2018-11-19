@@ -1,0 +1,6 @@
+the design of hard valve binary counters the method of
+    design takes account of tolerances on component values valve
+    characteristics and supply voltages and indicates modifications
+    necessary when se diodes are used in place of hot cathode
+    diodes for interstage coupling it is valid at a counting speeds
+    up to several

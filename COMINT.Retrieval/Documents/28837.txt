@@ -1,0 +1,3 @@
+maser behaviour temperature and concentration effects
+    maser action has been achieved with ruby at temperatures up to
+    results are ghven for operation

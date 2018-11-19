@@ -1,0 +1,10 @@
+review of variety generation techniques. this report
+    presents a unified account and assessment of research since
+    1971 on variety generation, an extension of classical
+    information theory. the term 'variety generation' expresses the
+    freedom of choice available in selecting the number of
+    characteristics or attributes with which a text is described.
+    the characterisations which have been investigated are' (1)
+    sets of variable-length character strings; (2) nodes used in
+    binary trees for search purposes; (3) partition sets for use in
+    distribution sorting.

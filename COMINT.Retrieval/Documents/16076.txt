@@ -1,0 +1,4 @@
+a proposal to use microwave cavities to study the surface
+    properties of high density plasmas the method is based on the
+    resonance properties of a cavity containing a highly conductive
+    axial plasma rod

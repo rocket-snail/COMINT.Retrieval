@@ -1,0 +1,3 @@
+self reactance modulation in telemetry oscillators design
+    formulae are given for predicting the frequency characteristics
+    of vhf and uhf transistor oscillators

@@ -1,0 +1,13 @@
+fm transistor oscillator a titant titanate capacitor is
+    coupled to the resonant circuit inductor of the transistor
+    oscillator the transformation ratio being chosen at will
+    varying the potential applied to this capacitor alters its
+    effective capacitance and hence the resonance frequency a
+    polarization potential is applied from a zamboni pile to keep
+    the capacitance variations within the linear range a oscillator
+    constructed used a junction transistor and had a power output
+    of when supplied from a battery the titanate capacitor
+    consisted of two series connected units a oscillator using a
+    type point contact transistor gave similar results some form of
+    a fc is desirable in view of the temperature variations of the
+    components

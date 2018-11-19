@@ -1,0 +1,14 @@
+an on-line regional union catalog of monographs and
+    audiovisuals' a demonstration project. the project's objective
+    is to create an on-line regional union catalogue of monographs
+    and audiovisual materials using existing machine readable
+    records of participating libraries created in a variety of
+    systems. the resultant file will be searchable by author,
+    title, subject and keyword, and will facilitate
+    resource-sharing by expediting the provision of monographs and
+    audiovisual materials within a 6-state region of the usa; it
+    will further provide valuable statistical information for
+    coordinating collection development. 1 important aspect is the
+    expediting of interlibrary loan requests, by automatic
+    generation and the storage in massage files for the holding
+    library, without the rekeyboarding of data.

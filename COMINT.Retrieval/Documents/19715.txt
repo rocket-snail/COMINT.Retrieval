@@ -1,0 +1,4 @@
+tuned circuit oscillators at uhf the design of a disk
+    seal triode oscillator for frequencies up to is discussed the
+    causes of spurious resonance and their elimination are
+    considered

@@ -1,0 +1,4 @@
+duality of nonplanar electric circuits without the use of
+    ideal transformers a method of constructing the dual of any
+    linear lumped nonplanar network which does not include magnetic
+    coupling is given without using ideal transformers

@@ -1,0 +1,5 @@
+the motion of an artificial earth satellite in the normal
+    gravitational field of the earth mathematical treatment of
+    satellite motion neglecting air resistance and gravitational
+    anomalies results can be applied to the calculation of
+    satellites orbits at high altitudes

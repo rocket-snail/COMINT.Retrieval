@@ -1,0 +1,8 @@
+optimum noise and gain bandwidth performance for a
+    practical one port parametric amplifier analysis shows that the
+    conditions necessary for minimum noise temperature are
+    compatible with those necessary for maximum gain bandwidth
+    product if the diode has a high self resonance frequency there
+    is a characteristic figure of merit for the diode and an
+    optimum pump frequency a series of design curves is
+    given

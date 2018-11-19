@@ -1,0 +1,5 @@
+energy loss of electrons in passage through thin films
+    energy loss values of electrons passing through thin evaporated
+    films of metals and insulators are tabulated reasonable
+    agreement with calculations of pines and bohm of april and pine
+    of may is shown

@@ -1,0 +1,2 @@
+transients of magnetographs blankstantaneous values from
+    recordings

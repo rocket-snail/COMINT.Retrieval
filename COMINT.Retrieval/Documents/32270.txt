@@ -1,0 +1,2 @@
+q-bessel functions in(t) (algorithm 214) june,1964 simoes
+    pereira, j. m. s. ca640612 jb march 9, 1978 9:29 pm

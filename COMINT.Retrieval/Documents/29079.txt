@@ -1,0 +1,9 @@
+an assessment of carcinogenicity of n-nitroso compounds
+    by the simca method of pattern recognition. the ability to
+    predict the toxic responses of potential environmental
+    pollutants on the basis of their physicochemical properties has
+    many advantages. pattern recognition methods can be used to
+    predict such pharmacological properties. the simca method of
+    pattern recognition is used to predict the carcinogenicity of
+    +n-nitroso compounds, and the advantages of this method of
+    pattern recognition in such applications are discussed.

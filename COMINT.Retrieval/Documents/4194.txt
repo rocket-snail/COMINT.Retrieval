@@ -1,0 +1,4 @@
+plasma configurations with surface currents which are
+    held in equilibrium by a magnetic field the conditions for the
+    existence of various plasma configurations in equilibrium with
+    an external magnetic field are investigated

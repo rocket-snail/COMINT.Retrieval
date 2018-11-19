@@ -1,0 +1,5 @@
+the miller integrator as sawtooth voltage generator the
+    theory of the miller integrator is discussed and practical
+    circuits of the transitron and practical circuits of the
+    transitron and sanatron an integrator with separate controlling
+    valnent values is considered in detail

@@ -1,0 +1,11 @@
+ge eralized operators for the approximate steady state
+    analysis of linear and nonlinear circuits the method is a
+    periodic analogue of the time series technique by which
+    waveforms are represented by an component operator giving
+    values at each of ordinates a shift operator translates any
+    waveform by of the appropriate sample period for linear
+    circuits the method is advantageous wher ethe periodic input is
+    known and a similar description of the output is required
+    without recourse to fourier analysis for nonlinear circuits the
+    output is obtained by a series of approximations applied to the
+    steady state condition

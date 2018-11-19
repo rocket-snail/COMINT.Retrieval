@@ -1,0 +1,11 @@
+high frequency crystal units for use in selective
+    networks and their proposed application in filters suitable for
+    mobile radio channel selection the design of bevelled at type
+    quartz plates for use in band pass crystal units is described
+    the reduction of unwanted modes of vibration including
+    thickness shear overtone modes is considered approximate
+    electrical data for plated circular at type quartz plates with
+    all unwanted modes reduced to a level db below the response of
+    the main thickness shear mode are tabulated the design is
+    considered of a crystal filter with a mid band frequency of and
+    bandwidths of and respectively at the and points

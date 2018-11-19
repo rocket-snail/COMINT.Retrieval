@@ -1,0 +1,3 @@
+a mathematical model for a magnetic amplifier reactor
+    core form domain theory a model for the prediction of core
+    behaviour is proposed

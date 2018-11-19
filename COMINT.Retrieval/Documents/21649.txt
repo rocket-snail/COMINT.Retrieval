@@ -1,0 +1,5 @@
+the determination of the incident flux of radio meteors
+    simple formulae are derived which allow the incident flux of
+    shower meteors to be deduced from the observed rate after
+    allowing for the aerial characteristics and the geometry of
+    reflection the limitations of the method are discussed

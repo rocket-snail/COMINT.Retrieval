@@ -1,0 +1,8 @@
+oscillations of an inhomogeneous plasma in a magnetic
+    field mathematical analysis of small oscillations of a hot
+    plasma confined by a magnetic field shows that there are two
+    types of wave a slow drift wave characteristic of an
+    inhomogeneous plasma and a magneto acoustic wave if certain
+    relations obtain the drift current can cause amplification of
+    the oscillations criteria for an instability of this kind are
+    derived

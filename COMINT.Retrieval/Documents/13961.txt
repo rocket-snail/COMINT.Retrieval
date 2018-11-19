@@ -1,0 +1,14 @@
+electron resonance in ionospheric waves a new aspect of
+    the investigation of travelling disturbances in the ionosphere
+    is discussed which leads to a more satisfactory interpretation
+    of observational data the hydrodynamic wave hypothesis of the
+    earlier work of is retained but the observed perturbations in
+    the electron density are attributed to a direct resonance in
+    the electron oscillations regardless of any em fields which may
+    be generated in the process formulae are developed for two
+    distinct classes of possible resonant oscillations one
+    involving and the other not involving a vertical component of
+    propagation small scale disturbances above the f layer maximum
+    which have been held responsible for certain radio star
+    scintillations could be related to either set of
+    formulae

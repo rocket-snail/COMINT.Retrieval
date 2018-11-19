@@ -1,0 +1,10 @@
+high characteristic impedance distributed constant delay
+    lines for fractional microsecond pulses the delay lines
+    described are pile wound with wire of gauge about turns in on
+    polystyrene rods previously coated with silver paint slotted
+    lengthwise at intervals and then insulated with teflon tape
+    prior to winding a typical line in length and in diameter has a
+    characteristic impedance of a delay of and an attenuation of
+    the order of db pulse rise and fall times are about response
+    curves for pulses of and duration are give characteristics of
+    and lines are tabulated

@@ -1,0 +1,5 @@
+application of matrices to the problem of transmission
+    through a multi layered dielectric wall the matrix methods
+    described by watson are applied to the determination of design
+    formulae for dielectric walls of the symmetrical sandwich
+    type

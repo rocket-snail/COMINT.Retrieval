@@ -1,0 +1,2 @@
+add item to chain-linked list (algorithm 100) june, 1962
+    kiviat, p. j. ca620612 jb march 17, 1978 9:26 pm

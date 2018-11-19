@@ -1,0 +1,4 @@
+fundamentals of filter theory and technique description
+    of the application of the wave theory and the operating
+    parameter theory in the design and calculation of different
+    basic types of filter

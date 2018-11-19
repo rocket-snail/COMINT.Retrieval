@@ -1,0 +1,7 @@
+network communications for a national computational
+    facility' a report to the nsf subcommittee. the use of an
+    existing public network to provide access to a national
+    computational facility from terminals at numerous sites
+    throughout the country and to permit computer to computer
+    operations is considered. at present, 2 public networks are
+    available, telenet and tymnet operated by tymshare.

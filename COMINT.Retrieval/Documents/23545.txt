@@ -1,0 +1,5 @@
+a method of analysing periodicity a method of analysing
+    an empirical function such as that corresponding to the record
+    of an oscillation process is based on asymmetrical rather that
+    symmetrical linear combinations of ordinates it permits
+    detection of variations of phase as well as amplitude

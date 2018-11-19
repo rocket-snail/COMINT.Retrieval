@@ -1,0 +1,6 @@
+precalculation of the mains loading in the design of high
+    frequency generators using quenched sparks the power required
+    to drive a hf generator of the air blast quenched spark type is
+    determined from consideration of the generator equivalent
+    circuit such generator are frequently used for hf inductive
+    heating

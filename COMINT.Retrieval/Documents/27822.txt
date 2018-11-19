@@ -1,0 +1,4 @@
+minimization of components in electronic switching
+    circuits the details are given of a method using boolean
+    functions for designing switching circuits using a minimum
+    number of if diodes or transistors

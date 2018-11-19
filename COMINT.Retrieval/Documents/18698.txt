@@ -1,0 +1,4 @@
+radar boxcar circuits suing nuvistors transistors and
+    zeners two versions of a waveform sampling device with zener
+    diode biasing are described which give a signal noise ratio at
+    room temperature

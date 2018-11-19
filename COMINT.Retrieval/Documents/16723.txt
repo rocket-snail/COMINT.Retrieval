@@ -1,0 +1,8 @@
+conductivity in copper at wavelengths measurements
+    indicate that reduction of conductivity below the value is
+    caused not only by surface roughness but also by the presence
+    of surface layers having conductivity lower than that of the
+    bulk material and by stress in the bulk material these effects
+    can be overcome by etching and annealing or by covering the
+    surface layers by a process involving oxidation and
+    reduction

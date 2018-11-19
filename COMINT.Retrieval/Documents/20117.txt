@@ -1,0 +1,8 @@
+the determination of the electron density in
+    interplanetary space the average electron density and the arc
+    length of the ray path from a space vehicle to the ground can
+    be measured by transmitting a pulse to the vehicle on one very
+    high frequency and receiving pulses emitted from a transponder
+    in the vehicle on this and on a different frequency in this way
+    electron densities of the order of hundred electrons cm can be
+    estimated

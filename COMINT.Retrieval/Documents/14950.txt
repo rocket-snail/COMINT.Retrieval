@@ -1,0 +1,9 @@
+an electronic ratchet when groups of nine evenly spaced
+    pulses are applied to a decade scaler a series of output pulses
+    is obtained with separation increasing by one time unit for
+    each pulse group application of groups of eight pulses gives
+    separation increasing by two time units per groups of eleven
+    pulses decrease the separation by a single unit the instrument
+    described comprises two decade scalers and can provide a
+    maximum separation of time units for increasing intervals or
+    for decreasing intervals

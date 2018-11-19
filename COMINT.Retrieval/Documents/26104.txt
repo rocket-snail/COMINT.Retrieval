@@ -1,0 +1,7 @@
+on the nonisothermal diffusion theory of rectifiers a
+    general theory is developed from formal conduction theory the
+    rectification equation obtained depends upon temperature
+    distributions in a barrier values of the dielectric constant of
+    barrier determined by analysis of experimental results using
+    the new theory tend to approach those of the bulk
+    materials

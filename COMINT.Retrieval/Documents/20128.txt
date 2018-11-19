@@ -1,0 +1,11 @@
+variable inductance and its application in frequency
+    sweep oscillators the modulation principle described consists
+    in varying the voltage across an inductor while the current
+    through it is maintained constant alternations of the control
+    grid voltage of a pentode cause anode and screen grid currents
+    to vary in magnitude developing a voltage variation across an
+    anode inductor coupled to the inductor in the cathode circuit
+    the current through l is maintained constant by an alternating
+    voltage applied to the suppressor grid a frequency shift of
+    around is attainable the use of the method for fm and frequency
+    sweep tuning is indicated

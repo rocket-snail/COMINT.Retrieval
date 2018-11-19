@@ -1,0 +1,3 @@
+hermetically sealed magnetisum copper sulfide rectifiers
+    short note on the construction methods used for this type of
+    rectifier which has an operating range from or higher

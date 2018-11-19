@@ -1,0 +1,6 @@
+a solid state analogue to a travelling wave amplifier an
+    attempt to improve the dispersive properties of multi diode
+    parametric amplifiers was made by placing stacks of varactor
+    diodes inside an l band helix bandwidths of and a noise figure
+    of were obtained a low noise microwave quadripole
+    amplifier

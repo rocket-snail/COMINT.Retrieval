@@ -1,0 +1,4 @@
+stabilized eht supply unit for photomultipliers provided
+    the load is substantially constant the circuit will produce an
+    output voltage of with an error not exceeding during mains
+    fluctuations of

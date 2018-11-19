@@ -1,0 +1,5 @@
+solid state optoelectronic commutator matching
+    electroluminescent photoconductor arrays can be packed into a
+    volume per switching element the noise from an eight channel
+    binary output commutator is bandwidth compared with an upper
+    signal limit of

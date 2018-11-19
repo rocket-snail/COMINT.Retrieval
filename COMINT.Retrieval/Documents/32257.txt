@@ -1,0 +1,3 @@
+the testing of metal tape magnetic cores for use in a
+    code translator acceptance tests are described which simulate
+    the actual conditions under which the cores will be used

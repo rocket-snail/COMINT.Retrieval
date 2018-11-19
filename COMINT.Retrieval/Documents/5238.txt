@@ -1,0 +1,6 @@
+relaxation time and multiple pumping effects in masers
+    optimization of relaxation times combined with multiple pumping
+    cannot by itself extend the operation of masers past the liquid
+    nitrogen range without degrading the performance below that now
+    attainable at liquid helium temperatures with three level
+    masers

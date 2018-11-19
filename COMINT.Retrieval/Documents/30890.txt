@@ -1,0 +1,4 @@
+sensitivity of a self excited oscillator theoretical and
+    experimental investigation of the characteristics of a valve
+    feedback oscillator suitable for nuclear resonance
+    detection

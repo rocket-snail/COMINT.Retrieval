@@ -1,0 +1,5 @@
+ferromagnetic resonance in a circularly polarized
+    electromagnetic field of arbitrary amplitude the exact solution
+    of the magnetization equations of motion is examined the
+    dependence of the magnetization components on the amplitudes of
+    the magnetizing field and rf field is determined

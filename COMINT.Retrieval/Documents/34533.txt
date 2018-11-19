@@ -1,0 +1,2 @@
+an analytical expression for describing the write process
+    in magnetic recording

@@ -1,0 +1,9 @@
+geographic and temporal distribution of polar blackouts
+    tabulations of hourly values of the ionospheric parameters for
+    northern hemisphere stations have been used to derive diurnal
+    variations in the occurrence of blackout no echo conditions
+    contour plots are presented showing the diurnal average
+    percentage of time during which blackout conditions prevailed
+    the amplitude of the diurnal variation and the time of maximum
+    frequency of occurrence changes in the contours with season and
+    with magnetic activity are discussed

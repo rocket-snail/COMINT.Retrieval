@@ -1,0 +1,6 @@
+ionospheric information deduced from the doppler shifts
+    of harmonic frequencies from earth satellites measurements made
+    near the end of the life of sputnik have indicated the presence
+    of appreciable ionization at a height of in the daytime and
+    have revealed the existence of ionospheric irregularities
+    below

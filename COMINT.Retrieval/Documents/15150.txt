@@ -1,0 +1,9 @@
+equipment for accurate measurement of height of
+    ionosphere layers use of timebase corresponding to a height
+    range enables measurements to be made accurate to within the
+    timebase triggering is controlled by means of a phase shifter
+    calibrated in height so that any desired height range can be
+    selected for close examination because of the pulse widening
+    involved a differentiator stage with wideband amplifier is
+    interposed between receiver output and indicator measurement
+    procedure is described

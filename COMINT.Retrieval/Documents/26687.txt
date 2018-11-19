@@ -1,0 +1,6 @@
+synthesis of cascaded three terminal rc networks with
+    minimum phase transfer functions for the realization of a
+    particular transfer function including complex zeros the method
+    of synthesis presented yields a network with fewer elements
+    simpler configurations and higher level of transmission than
+    previous methods eg of

@@ -1,0 +1,4 @@
+beam maser for millimetres uses hydrogen cyanide a
+    practical description of the development and construction of a
+    maser operating at which may be useful as a power source
+    amplifier or as a frequency standard

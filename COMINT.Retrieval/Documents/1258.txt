@@ -1,0 +1,5 @@
+wide range rc oscillator a frequency range exceeding in a
+    single sweep can be obtained with the tone source described
+    elements having continuously distributed series resistance and
+    shunt capacitance are used which can be made from standard high
+    stability resistors

@@ -1,0 +1,4 @@
+the phase speed of a travelling disturbance in the f
+    region of the ionosphere and its comparison with group velocity
+    the phase speed of an f region disturbance is observed to be
+    about half the group velocity of km

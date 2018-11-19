@@ -1,0 +1,3 @@
+tunnel diodes for low level triggers a sensitive low
+    level circuit uses a tunnel diode to drive a schmitt
+    trigger

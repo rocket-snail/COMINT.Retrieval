@@ -1,0 +1,9 @@
+theory of the ferromagnetic microwave amplifier all three
+    possible types of operation using respectively two
+    electromagnetic cavity modes two sample modes and one sample
+    and one cavity mode are discussed one especially simple case
+    that of a sphere in the first type of operation is treated
+    separately thereafter all three cases are discussed in terms of
+    scalar and vector potentials an appendix deals with the gain
+    bandwidth problem and gives an expression for the equivalent
+    negative q of the sample

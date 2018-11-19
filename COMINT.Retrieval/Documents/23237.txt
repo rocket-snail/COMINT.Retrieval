@@ -1,0 +1,2 @@
+pt pa unit description of a band switching rf amplifier
+    for and which uses a pair of valves type pt in parallel

@@ -1,0 +1,13 @@
+measurement and calculation of carrier frequency
+    transients a carrier modulated by rectangular pulses is passed
+    through a transmission system and the output is observed
+    oscillographically the timebase being synchronized by the
+    pulses the oscillogram thus displays the envelope of outputs
+    for different carrier phases at initiation of the pulses it is
+    shown mathematically that this envelope corresponds with the
+    result obtained ae theory is outlined and a survey is made of
+    known applications such as attenuators modulators gyrators etc
+    advantages and disadvantages of devices based on this effect
+    are compared with those of devices based on the faraday effect
+    deeper understanding of the physical processes involved is
+    necessary for further practical development

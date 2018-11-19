@@ -1,0 +1,10 @@
+the electron density distribution in the outer ionosphere
+    derived from whistler data a method of successive
+    approximations is developed to determine the electron density
+    distribution with height in the outer ionosphere when the
+    variation of whistler dispersion with geomagnetic latitude is
+    known the method is applied to specific whistler data and the
+    results infer that the electron density distribution decreases
+    exponentially with height in the range km an equation is
+    derived for the distribution in this height range during
+    january may

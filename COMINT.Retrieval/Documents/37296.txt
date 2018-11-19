@@ -1,0 +1,5 @@
+pulse modulation transmitted through a linearly modulated
+    transit time device a discussion of basic principles with
+    reference to the serrodyne device and their application to
+    frequency shifting computers pulse duplexing and a multiple
+    reflex pulse amplifier

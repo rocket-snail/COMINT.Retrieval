@@ -1,0 +1,7 @@
+a preliminary model atmosphere based on rocket and
+    satellite data a model atmosphere is described for the height
+    range km and values of density pressure and scale height are
+    tabulated as functions of altitude discrepancies between data
+    from various sources are examined and it is estimated that they
+    are within the limits to be expected from latitude variations
+    and the uncertainties of experimental observations

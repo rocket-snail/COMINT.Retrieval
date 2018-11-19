@@ -1,0 +1,7 @@
+two new electronic analog multipliers improved types of
+    four quadrant multipliers for deriving the product of two time
+    functions are described one uses a double amplitude modulation
+    scheme applying the work of sternberg and kaufman on the two
+    frequency modulation product problem of the other uses
+    successive phase modulation and amplitude modulation of a
+    carrier the accuracy obtainable is discussed

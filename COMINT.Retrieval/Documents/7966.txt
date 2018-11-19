@@ -1,0 +1,7 @@
+some fundamental results and problems of radio astronomy
+    a clear and concise survey of measurement techniques is given
+    together with a discussion of the theories of the origin of rf
+    radiation from the sun and the radio stars the results
+    measurements of the line emission of interstellar hydrogen on a
+    wavelength of cm are briefly discussed in relation to the
+    problem of the structure of the milky way

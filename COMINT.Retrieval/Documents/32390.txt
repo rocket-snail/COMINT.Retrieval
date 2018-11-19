@@ -1,0 +1,5 @@
+optimum tube utilization in cascaded distributed
+    amplifiers analysis is presented taking account of the
+    bandwidth narrowing factor introduced by cascading stages this
+    factor is evaluated for an amplifier using constant r bridged t
+    lines a numerical example is discussed

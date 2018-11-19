@@ -1,0 +1,4 @@
+perturbation theory of resonant cavities a detailed
+    derivation is given of the perturbation formula for the
+    frequency shift on introducing a sample of ferrite or
+    dielectric material into a resonant cavity

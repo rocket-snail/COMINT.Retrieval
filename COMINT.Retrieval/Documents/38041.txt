@@ -1,0 +1,9 @@
+software for printed indexes' a guide. a descriptive
+    guide to software packages for printed, or page-format, index
+    production, giving details of supplier, computer and languages
+    to be used, memory requirements, input and output (including
+    indexer aids), cost, number of users, bibliography, and a
+    contact address. it was compiled to enable potential index
+    producers to acquaint themselves with existing packages and to
+    compare their own requirements with package capabilities before
+    approaching a software house for a custom-made package.

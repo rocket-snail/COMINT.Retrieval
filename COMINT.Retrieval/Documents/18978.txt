@@ -1,0 +1,10 @@
+remote control of radio receivers a zero seeking servo
+    tuning control designed for operation over a single post office
+    telephone line is described the signal from the tuned receiver
+    passing along the control lines maximum separation is seven
+    loop miles for underground routes or loop miles depending on
+    the type of cable the circuit is essentially a wheatstone
+    bridge with two variable arms one of which is carried to the
+    remote point along the line the detector comprises a second
+    harmonic magnetic modulator combined with valve
+    amplifier

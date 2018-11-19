@@ -1,0 +1,6 @@
+the system design of the ibm type computer and attention
+    is directed specially to the new features of this machine which
+    include improved arithmetic and logical facilities and the
+    control of the extensive input and output arrangements directly
+    from the stored programme bit instructions cover distinct
+    operations

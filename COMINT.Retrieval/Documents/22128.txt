@@ -1,0 +1,7 @@
+verification of the logic structure of an experimental
+    switching system on a digital computer the verification problem
+    is concerned with the construction on a computer of a logical
+    program which satisfies all the design specifications
+    prescribed for an experimental switching system and with the
+    process of putting calls though the computer simulation to
+    evaluate the systems logical structure

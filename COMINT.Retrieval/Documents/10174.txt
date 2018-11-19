@@ -1,0 +1,6 @@
+horizontal winds and ionization drifts in the ionosphere
+    from a study of geomagnetic observations during the
+    international polar year it is concluded that ionization drifts
+    in the f region are due to an applied electric field and not to
+    air movement while in the e region the ionization drift is
+    almost the same as the air movement

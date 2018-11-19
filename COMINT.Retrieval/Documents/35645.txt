@@ -1,0 +1,7 @@
+frequencies and power of waves radiated by a magnetic
+    undulator continuation of investigation noted in above the
+    dimensions of an undulator for generating mm waves are
+    determined from rigorous calculations of electron trajectories
+    the results differe greatly from values derived from classical
+    theory the values found for radiated power are of the same
+    order

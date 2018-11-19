@@ -1,0 +1,7 @@
+a filter with characteristics approximating to those of
+    an ideal low pass filter the design and construction of a
+    filter are described whose characteristics conform closely to
+    those of the idea l lw pass filter specified by kupfmuller the
+    variations of its amplitude response up to cut of at are less
+    than at cut off the response is of its maximum value and the
+    fluctuations of grou delay are less than

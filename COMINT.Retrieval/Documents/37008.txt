@@ -1,0 +1,4 @@
+chameleon oscillator an oscillator giving high frequency
+    stability and using relatively few components is based on a
+    cathode coupled hartley circuit with resistance in the cathode
+    lead

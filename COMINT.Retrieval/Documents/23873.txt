@@ -1,0 +1,2 @@
+absorption and emission spectra of an electron in a one
+    dimensional deep trap

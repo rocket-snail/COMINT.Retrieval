@@ -1,0 +1,6 @@
+impedance synthesis without minimization the synthesis
+    procedure described for realizing a rational positive real
+    function of the complex frequency variable by means of a
+    network containing no mutual inductances is performed in three
+    steps in which the computationally difficult minimization
+    process is avoided

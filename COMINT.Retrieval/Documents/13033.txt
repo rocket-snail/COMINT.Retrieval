@@ -1,0 +1,8 @@
+csin (chemical substances information network)
+    preprototype intelligent terminal. (3 reports). the chemical
+    substances information network (csin) is designed to make data
+    on chemical substances rapidly and easily accessible from
+    geographically dispersed and independently operated on-line
+    computer systems. csin will be implemented in several stages;
+    the 1st is the csin pre-prototype intelligent terminal
+    (cit).

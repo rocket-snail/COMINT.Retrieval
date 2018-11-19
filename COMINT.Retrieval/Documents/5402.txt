@@ -1,0 +1,9 @@
+a simple connection between closed loop transient
+    response and open loop frequency response the phase margin
+    concept of the characteristics of the nyquist diagram in the
+    vicinity of the critical point is extended to give a more
+    generalised formula this relates the damping of the principal
+    oscillatory mode of a closed loop feedback system to the shape
+    of the nyquist diagram all the quantities involved can be
+    obtained from this diagram without further mathematical
+    analysis or graphical construction on the diagram

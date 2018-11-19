@@ -1,0 +1,3 @@
+application of distributions to the equations of maxwell
+    and helmholtz distribution theory is applied to give a new
+    concept of an element of current

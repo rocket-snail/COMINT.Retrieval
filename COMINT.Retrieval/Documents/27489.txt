@@ -1,0 +1,7 @@
+designing a training evaluation system. calls for
+    improved evaluation of training and development programmes, and
+    provides guidelines for effective and useful evaluation.
+    attention is given to what to evaluate, methods of evaluation
+    and data collection, analysis, and utilisation of evaluation
+    results. a comprehensive model is given for designing an
+    evaluation system.

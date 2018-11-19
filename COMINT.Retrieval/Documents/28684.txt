@@ -1,0 +1,7 @@
+interpretation of the variation of ionospheric absorption
+    as a function of frequency errors in nondeviative absorption
+    calculations are attributed to the presence in the e layer of a
+    thin densely ionized e layer the expression used earlier has
+    been revised results obtained using the new expression indicate
+    that it allows a more detailed study of the absorption
+    process

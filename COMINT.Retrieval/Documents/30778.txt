@@ -1,0 +1,3 @@
+contribution on the dynamic plate load amplifier a method
+    is described for improving frequency and phase response of the
+    type of amplifier considered in of brown

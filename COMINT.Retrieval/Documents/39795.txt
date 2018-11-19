@@ -1,0 +1,3 @@
+a correlation between stagger tuned and synchronously
+    tuned coupled circuits application of a network theorem
+    enunciated by green

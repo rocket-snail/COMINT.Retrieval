@@ -1,0 +1,6 @@
+zener diodes as reference sources in transistor regulated
+    power supplies a summary of the relevant properties of zener
+    diodes including a figure of merit representing the maximum
+    value by which supply variation may be reduced methods for
+    controlling the overall temperature coefficient are
+    considered

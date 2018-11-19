@@ -1,0 +1,5 @@
+excitation of spin wave resonance by microwave phonons in
+    a thin ferromagnetic film a series of standing spin waves can
+    be excited by phonons of the same frequency as the spin waves
+    but at wavelengths considerably larger than the magnon
+    wavelength

@@ -1,0 +1,14 @@
+an exploratory study of three subject access systems in
+    medicine' lcsh, mesh, precis. (phd thesis-university of
+    pittsburgh). examines the see also reference structures
+    (syndetic structures) of 3 subject access systems used in
+    medicine-precis, mesh, and lcsh. explores their differences and
+    similarities in an effort to develop the best possible
+    structure using features of all 3. 3 variables were
+    evaluated-subject area coverage, browseability, and
+    flexibility. maps were developed for the subject headings in
+    each system and compared with maps developed from recognised
+    'classic' textbooks; this procedure readily identified gaps in
+    coverage and inconsistencies in terminology control. such maps
+    could be converted to computer displays to improve precision
+    and recall in bibliographic data base searching.

@@ -1,0 +1,12 @@
+waveguide switching device using gas filled tubes an
+    arrangement for switching a single receiver between two or more
+    channels at a relatively high rate is described the switching
+    operation is based on detuning an oscillatory circuit
+    consisting of a waveguide section terminated with inductive
+    diaphragms and having a gas discharge tube located midway
+    between the ends the hf susceptance of the tube varies with its
+    ionization state and the tube constitutes an element of a
+    bandpass filter analysis is given for the pass band the
+    switching rate the electrical inertia and the noise and
+    insertion loss due to the device results obtained with a four
+    channel system are in good agreement with theory

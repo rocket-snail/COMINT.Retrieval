@@ -1,0 +1,8 @@
+state-of-the-art report' data input for libraries. report
+    produced to provide present and potential inforonics customers
+    with an overview of techniques of data input (for cataloguing,
+    bibliography, information and reference work). each procedure
+    is described and an estimate of processing costs is given. a
+    final section deals with special procedures for encoding
+    backlogs of data when converting a large data file to a
+    mechanised system.

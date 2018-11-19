@@ -1,0 +1,6 @@
+theoretical world curves of maximum ion density in a
+    quiet f region the curves plotted in terms of latitude and
+    local time for solstice and equinox conditions are generally
+    the same as those obtained from ionosonde date the analysis
+    shows that diffusion plays a significant part in controlling f
+    ionization

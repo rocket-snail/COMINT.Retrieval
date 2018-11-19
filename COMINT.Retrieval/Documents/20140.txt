@@ -1,0 +1,14 @@
+termination variation in the constant k filter the
+    problem treated is that of finding the modification required in
+    a conventional filter when the terminations are resistive but
+    otherwise quite general the filter elements are given
+    normalized values and in addition modified by factors and to
+    correspond with the change in termination from equal values to
+    those modified by factors and from the expressions for the
+    insertion transfer ratio of the original and of the modified
+    circuit by equating appropriate terms and solving a diagram is
+    constructed relating the four factors and two numerical
+    examples illustrate the practical application of the diagram in
+    the design of filter half sections full section and
+    multisection filters are treated in similar fashion the
+    calculations being correspondingly more complex

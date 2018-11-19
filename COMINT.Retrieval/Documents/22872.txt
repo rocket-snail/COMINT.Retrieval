@@ -1,0 +1,4 @@
+radiation damping in nuclear magnetic resonance
+    observations on a nuclear two level maser have demonstrated the
+    effect of radiation damping obtained by flipping the
+    magnetization through about

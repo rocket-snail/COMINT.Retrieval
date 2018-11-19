@@ -1,0 +1,4 @@
+collective behaviour in solid state plasmas theoretical
+    investigation of the nonlinearities in plasma wave instability
+    applied particularly to the possibility of observing this
+    effect in scattering mechanisms may prevent observation

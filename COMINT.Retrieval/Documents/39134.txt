@@ -1,0 +1,6 @@
+selecting a terminal for online information retrieval.
+    discusses the criteria a user must consider when selecting a
+    terminal to access commercially available on-line data bases.
+    divided into 3 sections' what terminal shall i choose?; modems
+    and acoustic couplers; and table of terminals and slave
+    printers suitable for on-line information retrieval.

@@ -1,0 +1,2 @@
+effective ferrimagnetic resonance parameters with gilbert
+    type relaxation terms

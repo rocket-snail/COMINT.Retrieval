@@ -1,0 +1,6 @@
+videotex: writ large or small?. a survey of videotex
+    systems being developed around the world, concentrating on the
+    uk's prestel and canada's telidon, in addition to the gateway
+    facility from west germany's bildschirmtext, which has been
+    purchased by prestel. shows how prestel has fallen short of its
+    target for subscribers.

@@ -1,0 +1,12 @@
+some applications of permanently magnetized ferrite
+    magnetostrictive resonators for frequencies up to about
+    magnetostrictive resonators using ferrites are very much
+    cheaper than crystal resonators toroidal magnetostrictive
+    elements are discussed by applying the biasing and driving
+    fields in different directions different modes of vibration are
+    obtained a definition is given of the coefficient of coupling
+    between driving coil and resonator this coefficient affording
+    an indication of the efficiency and being measurable with a q
+    meter applications of such devices as frequency control
+    elements in oscillator circuits and as components in various
+    filter circuits are described

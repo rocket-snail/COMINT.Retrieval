@@ -1,0 +1,13 @@
+a reversible secondary emission fatigue effect observed
+    in glow cathodes comprising a semiconducting layer if the usual
+    metallic cathode in a glow discharge tube is replaced by a
+    composite cathode having a semiconducting layer eg an cathode
+    the self maintained discharge current decreases with time when
+    the current density does not exceed a particular value
+    dependent on cathode geometry an when the cell is kept in the
+    dark recovery takes place slowly but is speeded up if the cell
+    is subjected to infrared radiation th effect is ascribed to
+    reversible fatigue of the emission centres for secondary
+    electrons and the analogous effect observed with photocathodes
+    suggests that both photons and secondary electrons originate in
+    the same emission centres

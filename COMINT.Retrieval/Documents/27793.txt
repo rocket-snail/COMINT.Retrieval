@@ -1,0 +1,6 @@
+pulse amplification using impact ionization in germanium
+    some aspects of the phenomena of impact ionization in an
+    impurity doped semiconductor at are described control of the
+    breakdown process is used to obtain pulse amplification in the
+    millimicrosecond range using two and three terminal
+    devices

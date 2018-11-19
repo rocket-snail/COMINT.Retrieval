@@ -1,0 +1,2 @@
+logarithm of a complex number (algorithm 48) june, 1962
+    relph, a. p. ca620618 jb march 17, 1978 9:20 pm

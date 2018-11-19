@@ -1,0 +1,5 @@
+the fundamentals of a low noise hf preamplifier for to
+    the circuit described uses a disk seal triode in grounded grid
+    connection and is intended for radio astronomy applications at
+    a wavelength of cm and with if bandwidth the input noise figure
+    is

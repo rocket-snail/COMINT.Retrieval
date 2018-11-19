@@ -1,0 +1,4 @@
+a network theorem the problem of determining the transfer
+    impedance between a generator emf at one end of a resistance
+    terminated ladder network and the load current at the other end
+    is simplified by splitting the circuit into two sections

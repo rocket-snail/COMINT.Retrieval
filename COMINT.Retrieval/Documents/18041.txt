@@ -1,0 +1,3 @@
+dividing wide frequency bands a regenerative circuit is
+    described which will divide a sinusoidal input frequency by two
+    over a wide frequency range

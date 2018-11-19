@@ -1,0 +1,7 @@
+anomalies in ionosonde records due to travelling
+    ionospheric disturbances anomalies in ionosonde records of the
+    f region during the passage of travelling disturbances are
+    classified into four main types the diurnal and seasonal
+    variation of their occurrence is discussed and it is suggested
+    that the ion distribution at a height of governs the type of
+    anomaly observed see also of

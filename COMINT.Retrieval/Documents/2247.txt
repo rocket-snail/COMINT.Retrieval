@@ -1,0 +1,6 @@
+statistical mechanical theory of a random ferromagnetic
+    system study of the behaviour of solid solutions of
+    paramagnetic impurities which are exchange coupled in a
+    nonmagnetic substrate yields a considerable amount of
+    information about the nature of the exchange coupling and the
+    temperature dependence of the spin system

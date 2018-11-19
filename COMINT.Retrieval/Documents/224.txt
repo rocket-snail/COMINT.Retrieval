@@ -1,0 +1,13 @@
+the care and feeding of bibliographic data. edited
+    version of the paper prepared as a result of the us library of
+    congress network advisory committee meeting on the ownership
+    and distribution of bibliographic data, spring 80. it is a
+    working document, designed to elicit comments from the library
+    and information services on the legal, political, and economic
+    implications of exchanging and sharing bibliographic data in
+    machine-readable form among a wide range of private and public
+    organisations. issues raised by the possibility of such
+    activities are listed in 3 categories-ownership/distribution of
+    bibliographic data, relationships among members of the
+    information community, and international flow of bibliographic
+    data. initial conclusions and recommendations are given.

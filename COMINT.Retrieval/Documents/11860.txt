@@ -1,0 +1,10 @@
+capacitance of selenium rectifiers in ac measurements on
+    se rectifiers a temperature dependent phase shift between
+    current and voltage is produced representation of the rectifier
+    by an equivalent circuit consisting of a resistor and parallel
+    capacitor affords a satisfactory explanation of this discussion
+    shows that a negative component of capacitance is concerned
+    which decreases with decreasing current and with increasing
+    frequency the abnormal decrease of capacitance with high
+    reverse voltages observed by hoffmann of is in agreement with
+    this

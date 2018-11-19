@@ -1,0 +1,11 @@
+power spectrum of a nonlinear oscillator perturbed by
+    noise analysis of the effect of background noise in producing
+    amplitude fluctuations if the steady state of an oscillator is
+    disturbed recovery takes place exponentially with a time
+    constant which is the principal factor affecting the noise
+    power spectrum simple relations between and the circuit
+    parameters are derived which show that for minimum noise power
+    oscillations of large amplitude should be used without
+    introducing too many harmonics and the phase of the feedback
+    should vary only slowly with frequency see also of april and
+    back references

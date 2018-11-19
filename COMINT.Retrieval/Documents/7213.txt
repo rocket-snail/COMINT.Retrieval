@@ -1,0 +1,4 @@
+band pass filters a method is presented for synthesizing
+    constant resistance networks to have maximally flat or
+    tchebycheff type response characteristics a numerical example
+    of each type is calculated

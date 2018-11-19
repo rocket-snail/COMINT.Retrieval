@@ -1,0 +1,5 @@
+automatic square rooting a computation method is
+    described with examples and an indication is given of the type
+    of additional circuit required in computers of the leo type of
+    pinkerton et al the square root of a digit number is obtained
+    in

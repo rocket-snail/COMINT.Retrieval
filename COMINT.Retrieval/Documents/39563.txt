@@ -1,0 +1,4 @@
+electromechanical filters design and performance data are
+    presented for if filters for the frequency range of the type
+    comprising metal plate resonators interconnected by pairs of
+    fine metal wires

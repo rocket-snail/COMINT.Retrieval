@@ -1,0 +1,11 @@
+health care microthesaurus' a hierarchial list of
+    indexing terms used by ntis. the microthesaurus was prepared by
+    ntis to help ntis data base users retrieve health care related
+    reports and to provide an indexing vocabulary for the health
+    care information community. more than 1,400 main terms and
+    their hierarchies are listed, expressing health care concepts
+    including those for health care costs, education, delivery, and
+    occupations. also included are terms covering resources,
+    manpower, technology, services, use, and legislation. in some
+    instances a short definition has been provided to clarify a
+    special use of a term by ntis.

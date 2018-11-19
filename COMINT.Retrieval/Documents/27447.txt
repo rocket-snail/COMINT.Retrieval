@@ -1,0 +1,4 @@
+an improved electromagnetic integrator description of a
+    permanent magnet moving coil system for integrating an
+    electrical signal of varying polarity over integration times as
+    long as one day

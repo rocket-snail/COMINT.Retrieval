@@ -1,0 +1,11 @@
+warner-lambert/parke-davis-cas registry iii integrated
+    information system. the chemical abstracts service (cas)
+    registry iii records of chemical structure are used to augment
+    the warner-lambert/parke-davis (wl/pd) computer files of
+    chemical and biological data. entry of data at wl/pd is
+    paralleled by entry of chemical structures and names at cas,
+    which then sends the computer-readable records to wl/pd. wl/pd
+    uses inquire software which provides interactive or batch
+    multifile search capabilities and routine report generation.
+    batch processing is used for substructure searching and
+    high-quality printing of structures and names.

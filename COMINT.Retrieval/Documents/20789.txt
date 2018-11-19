@@ -1,0 +1,11 @@
+subharmonic crystal oscillators the operating frequency
+    of a relaxation oscillator can be stabilized at a submultiple
+    of a crystal frequency in a conventional blocking oscillator
+    with a crystal connected across the third winding of the pulse
+    transformer frequency division by factors up to several
+    thousand can be effected a multivibrator with crystal between
+    anode and grid of one valve gave good frequency and pulse width
+    stability when operating with a division factor of details of
+    these two circuits are given three others have been examined
+    namely a screen coupled phantastron a thyratron and a
+    transistor circuit

@@ -1,0 +1,9 @@
+the behaviour of polystyrene capacitors under alternating
+    voltage experiments at are reported the main conclusions
+    reached are heat treatment has no adverse effect on life for a
+    given value of applied voltage the life is shortened if the
+    voltage gradient is increased for a given ratio between applied
+    voltage and initial ionization voltage the life is considerably
+    shortened if ambient temperature is raised certain
+    considerations regarding the impregnation of capacitors with
+    mineral oil are discussed

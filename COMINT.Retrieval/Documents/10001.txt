@@ -1,0 +1,3 @@
+theory of the magnetoresistance effect magneto resistance
+    effects in metals are studied on the basis of a single quantum
+    theory of electron transport in a magnetic field

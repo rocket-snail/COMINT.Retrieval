@@ -1,0 +1,5 @@
+the effect of the surface curvature of a convex metal
+    body on the radiation from a source on its surface the
+    radiation is usually calculated fron reflection formulae
+    derived by replacing the convex surface by a plane the
+    magnitude of the error thus introduced is estimated

@@ -1,0 +1,7 @@
+electron resonance in gas discharges brief description f
+    experiments in which absorption lines were observed by
+    paramagnetic resonance technique using a cavity resonator
+    constructed so that the gas discharge occupied the region of
+    maximum microwave magnetic field strength the results indicate
+    that this may constitute a sensitive method for studying the
+    variation of concentration of free ions

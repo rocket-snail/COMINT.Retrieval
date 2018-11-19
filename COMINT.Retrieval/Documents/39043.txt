@@ -1,0 +1,7 @@
+an optical method for determining the complex dielectric
+    constant and the magnetic permeability a method applicable in
+    the cm and mm wave ranges is described which depends on
+    determination of the normal incidence reflection and
+    transmission factors of a plane parallel plate the calculation
+    is based on the general matrix equations of the field as
+    derived from maxwells equations

@@ -1,0 +1,7 @@
+the application of onsagers theory to dielectric
+    dispersion a new equation for the complex dielectric constant
+    which includes the proper effect of the reaction field is
+    developed for the case of an alternating applied field it is
+    shown to yield results very close to those obtained with the
+    simple debye equation for the complex dielectric
+    constant

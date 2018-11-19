@@ -1,0 +1,13 @@
+d layer ionospheric echoes at macquarie island echoes
+    from d layer heights have been recorded at the australian
+    station on macquarie island geomagnetic latitude i since
+    operation started in echoes are of similar type to those
+    observed in tropical latitudes and occur on most days of the
+    year on a few occasions each month echoes persist throughout
+    the night the highest frequency at which echoes are received
+    usually increases from below at first appearance within an hour
+    after ground sunrise to above at noon decreasing to below at
+    disappearance during the hour before sunset strong d echoes
+    remain on occasions when other daytime echoes are absent due to
+    high absorption the effect may be peculiar to island
+    observatories

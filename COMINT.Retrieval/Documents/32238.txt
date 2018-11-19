@@ -1,0 +1,6 @@
+automatic character recognition limitations and future
+    developments of existing machines are discussed further
+    analysis of the semantic features of character patterns and of
+    their recongnition timits leads to a semantic pattern
+    definition which is sufficiently general to permit recognition
+    of nearly illegible characters

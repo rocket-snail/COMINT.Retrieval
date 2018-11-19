@@ -1,0 +1,5 @@
+the three dimensional problem of the diffraction of
+    monochromatic electromagnetic waves the distribution of the em
+    field in space for a given distribution of field at a boundary
+    surface is discussed and conditions are established for the
+    existence of a solution obtained previously

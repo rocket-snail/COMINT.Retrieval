@@ -1,0 +1,9 @@
+playcable' a technological alternative for information
+    services. the playcable system has been developed to allow
+    access to software programs via a home terminal and a
+    television. the teletext and antiope systems are briefly
+    described, and the advantages of playcable over these are
+    explained. the system consists of a computer and cable adaptor
+    and a master terminal. schematic diagrams show how these are
+    connected. field trials are in operation to test the technology
+    and its market potential.

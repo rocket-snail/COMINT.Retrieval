@@ -1,0 +1,13 @@
+a new storage element suitable for large sized memory
+    arrays the twistor use is made of the wiedemann effect whereby
+    a torsion applied to a magnetic wire shifts the preferred
+    direction of magnetization into a helical path there three
+    modes are suggested in using the effect for storage cells the
+    coincidence of circular and longitudinal magnetic fields
+    inserts information into the wire as a polarized helical
+    magnetization operation similar to the coincident current
+    toroid with the wire acting as its own sensing winding the wire
+    is not twisted but the screw sense of the flux path is related
+    to the current polarities equations relating to the switching
+    performance of a twistor are derived and a description of an
+    experimental bit array is given

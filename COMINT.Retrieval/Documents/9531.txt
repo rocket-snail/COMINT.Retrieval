@@ -1,0 +1,6 @@
+solar flares and association with the lower ionosphere
+    short wave fade outs and are adopted as ionospheric parameters
+    the statistical relations between these and solar flares and
+    solar rf emission are studied the analysis includes flares from
+    class down to class the number of fade outs is correlated with
+    flare activity and with radio noise increases

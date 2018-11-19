@@ -1,0 +1,9 @@
+solar ionospheric tides in the f region the equation of
+    continuity for electrons subject to the influence of a vertical
+    drift harmonic in time has been integrated by numerical methods
+    taking the processes of ion production and recombination into
+    account for physica conditions representative of the f region
+    the results of the analysis are applied to a brief discussion
+    of the nature of the information regarding the vertical
+    electron drift which can be derived from measured ionospheric
+    data

@@ -1,0 +1,5 @@
+anomalous skin effect in a magnetic field a classical and
+    quantum mechanical derivation of cyclotron resonance in metals
+    is given the quantum derivation yields the same result as the
+    classical calculation except in the limit of low quantum
+    numbers or high magnetic fields

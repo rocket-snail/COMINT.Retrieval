@@ -1,0 +1,2 @@
+an operational ruby maser for observations at centimetres
+    with a foot radio telescope

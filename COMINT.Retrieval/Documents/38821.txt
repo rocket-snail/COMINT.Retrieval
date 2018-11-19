@@ -1,0 +1,9 @@
+inhomogeneous waves in the diffraction field near loss
+    free dielectric circular cylinders measurements were made at of
+    the diffraction field near solid and hollow dielectric
+    cylinders of equal external diameter placed in a parallel plate
+    transmission line results are compared with those obtained for
+    a solid metal cylinder of equal diameter and with the field
+    distribution given by a graphical method an explanation is
+    given of the inhomogeneous waves which contribute to the
+    measured diffraction field

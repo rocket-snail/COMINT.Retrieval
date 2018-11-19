@@ -1,0 +1,7 @@
+millimicrosecond digital computer logic a system of fast
+    pulse logic is described which combines the efficiency of
+    transformer coupled stages with digit delay tolerances
+    approaching that of dc coupled systems logical circuits for or
+    and inverter and reclock are shown together with a driver which
+    permits a fan out factor of transistor circuits are used
+    through

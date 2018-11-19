@@ -1,0 +1,3 @@
+general characteristics of vavilov cherenkov radiation
+    the application of the theory of cherenkov radiation to
+    problems of plasma physics is considered

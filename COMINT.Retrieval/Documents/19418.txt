@@ -1,0 +1,17 @@
+a translating computer interface for end-user operation
+    of heterogeneous retrieval systems. 1. design. on-line
+    retrieval systems may be difficult to use, especially by end
+    users, because of heterogeneity and complexity. investigations
+    have concerned the concept of a translating computer interface
+    as a means to simplify access to, and operation of,
+    heterogeneous bibliographic retrieval systems and data bases.
+    the interface allows users to make requests in a common
+    language. these requests are translated by the interface into
+    the appropriate commands for whatever system is being
+    interrogated. system responses may also be transformed by the
+    interface into a common form before being given to the users.
+    thus, the network of different systems is made to look like a
+    single 'virtual' system to the user. the interface also
+    provides instruction and other search aids for the user.
+    philosophy, design and implementation of an experimental
+    interface named conit are described.

@@ -1,0 +1,12 @@
+a mode of oscillation of conventional triode valves
+    analysis shows that if certain conditions are satisfied uhf
+    oscillations are possible in a triode valve designed for lower
+    frequencies this was verified for a telefunken type triode
+    which is designed to oscillate on wavelengths down to about cm
+    the valve has two grid and two anode terminals and to these a
+    resonant wire system was attached with a resistor and
+    milliammeter connected between grid and earth with an anode
+    voltage of good oscillations on a wavelength of cm were
+    obtained the mean oscillatory voltage on the grid being about
+    and on the anode about the calculated wavelength was about
+    cm

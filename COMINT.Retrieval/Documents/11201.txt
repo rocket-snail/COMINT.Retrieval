@@ -1,0 +1,4 @@
+cosmic ray orbits in interplanetary magnetic fields
+    cosmic ray orbits have been calculated in the interplanetary
+    field suggested by alfven the results are briefly discussed and
+    compared with cosmic ray observations

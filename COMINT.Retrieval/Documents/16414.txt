@@ -1,0 +1,20 @@
+index system for personal reference sources. several
+    norwegian business information organisations cooperated during
+    1974-76 to develop a computerised reference system (usis) for
+    linking enquirers with personal, not bibliographical, reference
+    sources. people produce knowledge; the human brain is an
+    unsurpassed 'data base'; and precise information can be
+    requested and obtained through conversation. the basic
+    reference unit chosen was the specialist department or
+    institution, and in apr 79 1,200 reference sources were
+    registered, representing 550 norwegian institutions. indexing
+    of sources is based on annual reports, checked by the
+    institutions. institutions can be approached individually if
+    the problem requires precise definition, or the index used
+    alone via a computer terminal. data on personal reference
+    sources must be constantly updated. similar systems exist in
+    other countries, and the idea could be extended' all users of
+    computer terminals (8,000 in norway in 1978, estimated to reach
+    2 0,000 in 1985) are potential clients. possible dangers of
+    monopoly, abuse, or takeover by a foreign power should be
+    technically avoidable.

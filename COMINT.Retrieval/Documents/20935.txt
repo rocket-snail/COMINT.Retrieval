@@ -1,0 +1,5 @@
+solid state digital code to cede converter gray code can
+    be changed to normal binary code by means of the converter
+    described the basic building block is a circuit comprising a
+    magnetic core a junction transistor and a delay network
+    thyratrons are used for the readout display

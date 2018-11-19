@@ -1,0 +1,5 @@
+extended range distributed amplifier design a distributed
+    amplifier employing a straight wire transmission line is
+    described the amplifier has a gain of db from to and input and
+    output impedances of detailed electrical and mechanical design
+    considerations are included

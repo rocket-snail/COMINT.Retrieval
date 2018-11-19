@@ -1,0 +1,9 @@
+conversion of microformatted scientific and technical
+    information document sources (a review). discusses the
+    objectives, tasks, and applications of converting scientific
+    and technical information documentation into microformat; looks
+    at the technology and techniques involved; presents information
+    about methods and equipment for microimage correction during
+    conversion; and examines the potentials of pentakta equipment
+    with regard to conversion and microcollection
+    unification.

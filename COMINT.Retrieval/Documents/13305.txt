@@ -1,0 +1,4 @@
+on propagation of waves in slightly rough ducts
+    mathematical treatment of acoustic and em wave propagation
+    assuming that the heights of the roughness peaks are small
+    compared to the average separation of the duct walls

@@ -1,0 +1,2 @@
+some basic physical properties of silicon and how they
+    relate to rectifier design and application

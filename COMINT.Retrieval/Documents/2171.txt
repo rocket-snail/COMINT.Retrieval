@@ -1,0 +1,12 @@
+the dartmouth catalogue system-five years later.
+    dartmouth regional library (nova scotia) has been running a
+    computerised cataloguing system for 5 years. it contains over
+    80,000 records pertaining to printed, audio-visual, and
+    micro-format material. cumulative current acquisitions
+    catalogues are produced 8 times a year. at the end of each
+    year, these are merged with the master files and a new complete
+    catalogue is produced. the system costs are 13 cents per title
+    added (this includes editing, update, and maintenance, but not
+    input charges). the system has proved very successful and
+    further developments to improve effectiveness and efficiency
+    are planned.

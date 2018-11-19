@@ -1,0 +1,10 @@
+education and training of information specialists in data
+    base utilization. the success or failure of machine-readable
+    data bases and on-line search systems depends to a great extent
+    on people's awareness of them. education and training
+    programmes in data base utilisation must emphasize both an
+    understanding of the characteristics and structure of the data
+    bases and experience in using on-line retrieval systems.
+    effective teaching methods include the use of printed
+    materials, demonstrations, audio-visual aids, and
+    computer-assisted instruction at the terminal.

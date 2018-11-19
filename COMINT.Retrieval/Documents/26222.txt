@@ -1,0 +1,8 @@
+the induction of electric currents in a uniformly
+    conducting circular disk by the sudden creation of magnetic
+    poles using toroidal coordinates a riemann space of two regions
+    is constructed as in sommerfelds methods of multiform
+    potentials and the riemann potential for a single magnetic pole
+    is determined jeans treatment of uniform finite plane current
+    sheets is applied to the case of the circular disk numerical
+    results being given for a particular example

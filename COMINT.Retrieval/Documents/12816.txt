@@ -1,0 +1,9 @@
+pesticide product information on microfiche' sets a and
+    b. set a contains product manager assignments, pesticide
+    companies listed numerically and alphabetically, chemical
+    cross-reference file alphabetically and numerically, tolerance
+    file by chemical and commodity, inverted chemical/registration
+    number, pesticide label data, 24c applications by state,
+    chemical/site/pest/24c permit number and chemical index. set b
+    contains the site/pest/chemical/registration number and the
+    chemical/site/pest/registration fiche sets with indices.

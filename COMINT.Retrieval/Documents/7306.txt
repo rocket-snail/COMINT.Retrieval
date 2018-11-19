@@ -1,0 +1,11 @@
+information flow among engineers in a design company.
+    (phd thesis-university of illinois at urbana-champaign.) study
+    of the way technical information flows through formal and
+    informal channels among engineers in a design company.
+    engineers' information needs were identified, and their
+    behaviour while searching for information, or while obtaining
+    it by chance, was analysed. it was found that the information
+    channels, both formal and informal, interact in a complex way,
+    although following specific patterns, and that they complement
+    each other during the process of information
+    acquisition.

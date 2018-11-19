@@ -1,0 +1,3 @@
+minimum insertion loss filters the generalized criterion
+    for butterworth and tchebycheff filters of arbitrary bandwidth
+    is chosen for minimum loss in the centre of the band

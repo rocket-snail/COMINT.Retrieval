@@ -1,0 +1,16 @@
+processes controlling ionization distribution in the
+    region of the ionosphere rocket measurements at heights
+    approaching suggest that the atmospheric density in the region
+    may be some times less than previously deduced from radio
+    experiments if the new value were correct diffusion of
+    ionization under the forces of gravity and of its own pressure
+    gradient would be likely to affect the shape and height of the
+    region notably an investigation was made of the possible
+    effects of diffusion processes at such levels the results
+    indicate that a region with arbitrary height distribution of
+    ionization will by diffusion assume the form of a chapman
+    region after a time which for levels is a few hours if the
+    radio determinations of density are correct but only a few
+    minutes if the rocket determinations are correct it is
+    suggested that there must be a systematic error in the rocket
+    observations

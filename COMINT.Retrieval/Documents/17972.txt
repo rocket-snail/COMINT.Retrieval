@@ -1,0 +1,8 @@
+coded decimal number systems for digital computers from
+    the very large numbers of possible ways of coding the decimal
+    digits into sets of binary elements a restricted group of
+    number systems is presented as being particularly adaptable for
+    representing the decimal digits in digital computers as an
+    example one number system of this group is presented which
+    permits the construction of a very simple addition
+    circuit

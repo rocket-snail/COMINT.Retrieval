@@ -1,0 +1,6 @@
+a contribution to the theory of the transmission of
+    amplitude modulated frequency modulated or amplitude and
+    frequency modulated carriers in linear systems part the
+    standard method of calculating the distortion of fm signals in
+    linear systems which is based on an asymptotic series is
+    critically reviewed and its limitations are considered

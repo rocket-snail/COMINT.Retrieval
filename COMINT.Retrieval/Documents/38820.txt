@@ -1,0 +1,12 @@
+theory of parametric amplification using nonlinear
+    reactances the parametric amplifier is analysed
+    phenomenologically in terms of an equivalent circuit model the
+    model consists of a signal circuit resonant at an idling
+    circuit at and a pumping circuit at these three circuits being
+    coupled across a nonlinear inductance the analysis is general
+    enough to delineate the conditions on the signal level and
+    circuit parameters which lead to distortionless amplification
+    expressions are derived for power gain bandwidth and noise
+    factor for the case in which the signal and idling frequencies
+    are well separated and for the degenerate case in which these
+    two frequencies are equal

@@ -1,0 +1,4 @@
+the problem of coupling in a switching circuit system
+    circuit consisting of thin magnetic films problems relating to
+    the design of logic switching circuits formed by magnetic film
+    elements are reviewed

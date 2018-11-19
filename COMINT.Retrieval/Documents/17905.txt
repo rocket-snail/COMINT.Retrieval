@@ -1,0 +1,17 @@
+dissemination and transfer of internal 'know-how'' the
+    experience at petrobras, brazil. paper presented at 14th
+    brazilian seminar on informatics and library science, sao
+    paulo, 16-23 oct 81, describing the organisation and operations
+    of the central technical deposit (mct) in the technical
+    information division of the research and development centre at
+    the petrobras institute. mct was set up to organise the
+    collection, processing and diffusion of technical information
+    contained in internal documents passing through the technical
+    information and documentation system. it has developed to date
+    7 automated information systems to meet the needs of the
+    various fields of research activity at petrobras. the
+    engineering information system is presented fully, with details
+    of all information processing activities, microfilming and
+    storage procedures, and access categories; and a brief outline
+    is given of the system for information on alternative energy
+    sources.

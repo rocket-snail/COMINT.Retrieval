@@ -1,0 +1,22 @@
+stability of oscillation in valve generators a
+    comprehensive theory of stabilitys is developed which is
+    applicable to a large class of harmonic oscillators the paper
+    is concerned mainly with the terminal regenerative type of
+    oscillator with grid leak bias but the analysis applies also to
+    circuits with fixed grid bias and to terminal oscillators all
+    known forms of instability appear as special cases of the
+    general theory and some new forms are predicted stability is
+    determined by the nature of the roots of a characteristic
+    equation and stability criteria are obtained in the form of
+    inequalities between the parameters of the amplifier and
+    feedback network a modified form of nyquist locus diagram can
+    also be used when the feedback network is symmetrical with
+    respect to the oscillation frequency the characteristic
+    equation can be factorized to give independent criteria for
+    frequency and amplitude stability hysteresis effects and
+    periodic instability are analysed in detail in addition to the
+    general treatment specific forms of the various parameters
+    which appear in the stability criteria are worked out for a
+    three halves law amplifier with a semi linear or exponential
+    grid current characteristic quantitative experimental
+    confirmation is provided

@@ -1,0 +1,4 @@
+a new method for investigating linear quadripoles part
+    continuation of work abstracted in of october a distinction is
+    made between elliptic hyperbolic parabolic and loxodromic
+    quadripoles

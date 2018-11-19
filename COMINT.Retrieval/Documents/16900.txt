@@ -1,0 +1,7 @@
+the fields of a line source of current over a stratified
+    conductor expressions for the electric and the magnetic fields
+    are derived assuming the to be infinitely long and parallel to
+    the conductor at large distances the results can be generalized
+    to apply to any source of horizontally polarized waves situated
+    on the surface of a half space consisting of an arbitrary
+    number of layers

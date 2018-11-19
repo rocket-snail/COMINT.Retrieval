@@ -1,0 +1,7 @@
+very high frequency absorption in super conductors
+    measurements indicate that the temperature at which the
+    absorption departs from that in the normal state differs from
+    the transition temperature by an amount strongly dependent on
+    the frequency a brief discussion shows that this dependence
+    follows immediately from the concept of a gap in the electron
+    energy level spectrum of a superconductor

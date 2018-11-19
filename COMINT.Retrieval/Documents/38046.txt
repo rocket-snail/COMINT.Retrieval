@@ -1,0 +1,5 @@
+a modified theory of production of secondary electrons in
+    solids difficulties in previous theories of energy loss and
+    secondary electron production in metals are removed by
+    replacing the coulomb interaction between a primary electron
+    and a lattice electron by a screened coulomb interaction

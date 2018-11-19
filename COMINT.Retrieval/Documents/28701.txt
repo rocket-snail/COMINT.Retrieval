@@ -1,0 +1,6 @@
+research in source-channel coding and communication
+    networks. an extension of shannon's information theory and an
+    analysis of dynamic multiple-access disciplines for
+    communication channels and networks were studied with an
+    emphasis on applications to satellite communication channels
+    and computer communication networks.

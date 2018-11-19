@@ -1,0 +1,9 @@
+the logical principles of a new kind of binary counter
+    auxiliary temporary storage in a binary counter is provided
+    during intervals over which the main storage element is in
+    state of change by elements having the same time indefiniteness
+    as the main storage elements this leads to a device which has
+    true and false ranks of storage elements the basic device is
+    generalized to one with four modes of operation and the rules
+    of number formation are discussed application to a computer is
+    described

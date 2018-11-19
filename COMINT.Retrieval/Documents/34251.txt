@@ -1,0 +1,3 @@
+nonrealizability of the complex transformer a proof is
+    given to show that for a particular case the complex
+    transformer cannot be realized

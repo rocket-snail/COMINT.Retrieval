@@ -1,0 +1,12 @@
+on-screen index. summary of an address given to the
+    society of indexers, 20 nov 80. discusses the use of the
+    prestel index which contains 170,000 pages of information
+    provided by about 350 organisations. prestel is a 2-way
+    viewdata system which, unlike the ceefax and oracle teletext
+    systems, enables users to send reactions and messages to
+    information providers. describes briefly the methods used to
+    construct prestel's present index. notes the need for the use
+    of multiple access methods and heavy cross referencing to allow
+    for users' different internal classifications. indicates some
+    future developments, including automated indexing using key
+    words, and automated index management.

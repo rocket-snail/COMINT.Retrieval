@@ -1,0 +1,4 @@
+semiconducting ignitors for ignitron rectifiers a
+    detailed report on an experimental investigation is presented
+    as a result of which methods are proposed for the design and
+    manufacture of ignitors based on silicon carbide

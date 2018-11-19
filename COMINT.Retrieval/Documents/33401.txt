@@ -1,0 +1,4 @@
+equation for the performance of a nonlinear transistor
+    amplifier a first order differential equation is derived to
+    describe the performance of a nonlinear amplifier discussed
+    earlier by gumowski of

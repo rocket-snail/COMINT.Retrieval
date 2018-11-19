@@ -1,0 +1,4 @@
+frequency doubling and mixing in ferrites analysis is
+    presented indicating th particular polarization and frequency
+    conditions under which frequency doubling and mixing will occur
+    in ferrite devices of the type discussed by ayres et al

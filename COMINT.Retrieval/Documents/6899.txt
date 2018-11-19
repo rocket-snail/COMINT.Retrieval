@@ -1,0 +1,3 @@
+relation between the constants characterizing the
+    interaction of electrons with phonons and impurities in metals
+    a mathematical analysis

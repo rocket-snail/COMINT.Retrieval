@@ -1,0 +1,4 @@
+high atmosphere densities models of the upper atmosphere
+    are modified to allow for diffusion and other factors in order
+    to conform to the results obtained from satellite
+    observations

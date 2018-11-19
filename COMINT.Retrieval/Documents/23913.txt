@@ -1,0 +1,5 @@
+using cascading charts charts are given for determining
+    the number of transitionally coupled double tuned amplifier
+    stages needed to provide a required gain and bandwidth two
+    cases are considered equal damping of primary and secondary
+    windings one sided damping

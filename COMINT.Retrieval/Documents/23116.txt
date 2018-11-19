@@ -1,0 +1,5 @@
+response of an amplifier stage with antiresonant circuit
+    to an input voltage whose instantaneous frequency varies
+    linearly as a function of time analysis is given for an input
+    which can be represented by a particular fourier
+    integral

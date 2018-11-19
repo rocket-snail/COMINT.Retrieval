@@ -1,0 +1,4 @@
+a tive power tr nsfor by linear quadripoles the transfer
+    of power through an arbitary linear quadripole is considered as
+    a function of matching conditions source impedance input and
+    output impedances and gain of the quadripole

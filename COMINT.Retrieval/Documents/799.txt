@@ -1,0 +1,4 @@
+dc operational amplifier with transistor chopper
+    description of a drift compensated dc amplifier with which an
+    accuracy of can be achieved in airborne analogue computers
+    vol

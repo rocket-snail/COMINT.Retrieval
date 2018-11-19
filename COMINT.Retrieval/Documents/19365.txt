@@ -1,0 +1,8 @@
+classification of f layer storms with respect to their
+    world wide distribution and characteristics part of analysis of
+    available data shows that there is no correlation between f
+    layer storms and sunspot activity but close correlation with
+    geomagnetic storms a classification of these storms with
+    respect to their distribution over the geomagnetic latitudes is
+    suggested based on layer height or critical frequency
+    characteristics

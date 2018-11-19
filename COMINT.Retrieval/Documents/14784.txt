@@ -1,0 +1,9 @@
+a parametric amplifier using lower frequency pumping
+    experimental verification of the principle of parametric
+    amplification using a pumping frequency lower than the signal
+    frequency is described variable inductance ferrite core and
+    variable capacitance semiconductor diode elements have both
+    been used the former at with pumping at and the latter at with
+    pumping at bandwidth and noise have been measured as functions
+    of gain for the diode amplifier and the results compared with
+    theory see also of june and

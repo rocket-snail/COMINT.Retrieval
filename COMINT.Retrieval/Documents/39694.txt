@@ -1,0 +1,2 @@
+a nonlinear effect in transistor amplifiers with
+    feedback

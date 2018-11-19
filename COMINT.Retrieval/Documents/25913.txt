@@ -1,0 +1,10 @@
+the compatibility of library systems. there are 2 ways to
+    achieve system compatibility' develop or acquire an integrated
+    system, or make the best of what you have to tie your current
+    systems together. compatible systems can treat library data as
+    an organisational resource, reduce data duplication, improve
+    management information, reduce the overhead required for
+    separate systems operations, and make conversion to future
+    technology more feasible. planning for computer systems
+    compatibility must be coordinated by the central administration
+    of the library, who can referee departmental conflicts.

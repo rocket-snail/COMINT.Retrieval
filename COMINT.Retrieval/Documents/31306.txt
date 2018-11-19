@@ -1,0 +1,3 @@
+steady state free precession in nuclear magnetic
+    resonance description of a new technique for observing nuclear
+    magnetic resonance

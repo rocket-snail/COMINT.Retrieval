@@ -1,0 +1,3 @@
+transistor applications in pulse techniques details are
+    included of high speed divider circuits and a stabilized dc
+    power unit

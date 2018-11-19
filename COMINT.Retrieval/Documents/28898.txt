@@ -1,0 +1,7 @@
+high frequency amplification using transistors
+    measurements were made on transistors type oc and oc in the
+    grounded base connection to assess them for use in narrow band
+    if amplifiers the voltage feedback effect may lead to
+    instability hence neutralization is essential at the higher
+    frequencies the stage gain is reduced mainly by the base
+    resistance and the collector barrier capacitance

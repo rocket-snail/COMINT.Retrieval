@@ -1,0 +1,12 @@
+fluctuations in self oscillating systems of thomson type
+    amplitude and phase fluctuations in weakly nonlinear
+    selfoscillating systems are considered using a symbolic
+    differential equation describing the fluctuations of the random
+    functions and the methods of the correlation theory a system
+    with one degree of freedom is considered first and the general
+    theory is applied to the case of a valve generator operating in
+    the soft state the theory is then applied to passive systems
+    with one and two degrees of freedom the effect of stabilizing
+    the frequency of an oscillator by means of a high circuit is
+    discussed the method of taking into account thermal
+    fluctuations shown

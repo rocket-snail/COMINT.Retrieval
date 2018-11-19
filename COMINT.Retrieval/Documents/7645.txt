@@ -1,0 +1,7 @@
+guideline for inspection and quality control for
+    alphanumeric computer-output microforms. category' hardware.
+    subcategory' media. the standard describes operational and
+    quality-control guidelines for alphanumeric computer-output
+    microfilm (com) recorders and microforms. it is limited to
+    images of line printer equivalent output only, such as those
+    used for business and government records.

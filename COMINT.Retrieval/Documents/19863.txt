@@ -1,0 +1,6 @@
+a magnetic thyratron grid control circuit a circuit
+    described previously is modified by including an source and a
+    rectifier in the secondary circuit of the grid transformer
+    changing the mode of operation to that of a reset magnetic
+    amplifier a range of firing voltage phase is available the
+    firing voltage builds up rapidly

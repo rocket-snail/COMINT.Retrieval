@@ -1,0 +1,7 @@
+terrestrial extremely low frequency noise spectrum in the
+    presence of exponential ionospheric conductivity profiles
+    expressions are derived which are derived which are applicable
+    to a nonhomogeneous ionosphere the exponential model gives
+    slightly lower resonant frequencies and less damping of the
+    resonant peaks than a sharply bounded model of agreement with
+    measurement is improved

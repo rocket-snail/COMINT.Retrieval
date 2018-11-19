@@ -1,0 +1,8 @@
+utlas' an overview. describes the university of toronto's
+    library automation system, which provides services in english
+    and french to some 200 participating institutions. covers
+    systems operation, services offered, availability, access
+    points, data base source files, bibliographic record formats,
+    cataloguing standards, and products. details are given of
+    estimated costs per title catalogued, and potential benefits
+    and drawbacks briefly assessed.

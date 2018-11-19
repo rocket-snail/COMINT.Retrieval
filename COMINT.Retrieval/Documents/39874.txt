@@ -1,0 +1,5 @@
+the azimuthal distribution of ultra high frequency radar
+    echoes from aurora partial analysis in range and azimuth of
+    radar echoes at with diameter paraboloid aerials contours of
+    constant echo occurrence are different in the two periods
+    before and after midnight

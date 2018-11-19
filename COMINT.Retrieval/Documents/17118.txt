@@ -1,0 +1,5 @@
+a phase shift circuit for a wide frequency range a and a
+    network are combined in such a way that the undesired phase
+    changes at the outputs of the individual networks due to a
+    frequency change cancel one another in the combined
+    output

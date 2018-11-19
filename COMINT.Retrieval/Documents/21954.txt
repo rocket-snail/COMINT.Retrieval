@@ -1,0 +1,7 @@
+the transistor as a amplifier for use in microwave
+    measurements a junction type transistor with emitter earthed
+    may have a current amplification as high as with low input
+    impedance and high output impedance such an arrangement is
+    seful for amplifying the current from a rectifier before
+    application to a meter and enables the usual galvanometer to be
+    replaced by a robust microammeter

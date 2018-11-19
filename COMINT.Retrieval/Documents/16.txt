@@ -1,0 +1,5 @@
+note on the back reaction term in ferromagnetic
+    relaxation equations a clarification is given of the status of
+    the last term of the equation proposed to a paper on the
+    analysis of ferromagnetic resonance line width in ferrites of
+    and

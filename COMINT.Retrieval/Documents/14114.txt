@@ -1,0 +1,15 @@
+the resistivity of composition resistors at radio
+    frequencies continuation of the previous discussion of the
+    mechanism causing the drop of resistance of composition
+    resistors at experimentally obtained resistance frequency
+    curves are presented for resistors comprising a cylindrical
+    column of an aqueous solution of sodium chloride a cylindrical
+    column of an aqueous solution of copper sulphate and a
+    cylindrical column of carbon resin composition the resistance
+    of type is practically constant at frequencies up to while that
+    of types and drops considerably the drop in the resistance of
+    the composition resistor is ascribed partly to the resistivity
+    factor and partly to the external capacitance factor it is
+    suggested that a frequency independent resistor could be
+    obtained by mixing carbon with a material of high dielectric
+    constant

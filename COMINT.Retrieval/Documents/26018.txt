@@ -1,0 +1,10 @@
+on the theory of the acousto electric effect when an
+    acoustic wave passes through an insulated solid it gives rise
+    to an electric field in the direction of propagation the
+    influence on this phenomenon of thermal lattice vibrations at
+    temperatures above the debye temperature is investigated
+    theoretically the calculations indicate that the field is
+    proportional to both the intensity and frequency of the
+    acoustic wave the effect is so small that it would not
+    generally be observable in cu but is larger by several orders
+    of magnitude in ge

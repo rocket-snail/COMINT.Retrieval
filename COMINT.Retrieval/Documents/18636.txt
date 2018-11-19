@@ -1,0 +1,3 @@
+a portable van de graaff generator the generator
+    described develops a maximum open circuit voltage of about and
+    has a short circuit current of

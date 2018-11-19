@@ -1,0 +1,5 @@
+minimum range to artificial earth satellites a complete
+    expression for calculating from doppler measurements the
+    minimum passing range between satellite and observer is derived
+    and its application under various orbital conditions id
+    discussed

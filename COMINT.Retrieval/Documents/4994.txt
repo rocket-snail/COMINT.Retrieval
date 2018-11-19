@@ -1,0 +1,10 @@
+ferrite phase shifters in rectangular wave guide
+    propagation theory is developed for a nonreciprocal device with
+    asymmetrical arrangement as described by losses in the ferrite
+    being neglected the dependence of the phase shift on the
+    thickness of the ferrite slab on the degree of asymmetry and on
+    the intensity of the transverse magnetic field is investigated
+    the field configuration in the guide is shown diagrammatically
+    for some special cases a modification with two symmetrically
+    arranged ferrite slabs and antiparallel magnetic fields is also
+    discussed

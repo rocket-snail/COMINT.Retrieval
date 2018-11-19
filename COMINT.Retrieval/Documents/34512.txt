@@ -1,0 +1,5 @@
+additional tables for design of optimum ladder networks
+    tables for networks with characteristics given by butterworth
+    tchebycheff and bessel polynomials are presented they are
+    classified on the basis of the conductance ratio see
+    also

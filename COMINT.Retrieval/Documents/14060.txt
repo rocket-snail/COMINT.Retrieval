@@ -1,0 +1,4 @@
+open loop frequency response method for nonlinear r
+    servomechanisms a graphical representation similar to a nyquist
+    diagram is developed for indicating frequency response
+    characteristics and for the synthesis of linear filters

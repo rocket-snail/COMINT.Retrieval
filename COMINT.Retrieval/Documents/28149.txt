@@ -1,0 +1,6 @@
+determination of the effective scattering mechanism
+    parameter of electron transport theory fermilevel energy
+    effective scattering mechanism parameter effective mass and
+    relaxation time can be obtained from the magneto seebeck effect
+    for corbino disk geometry when combined with other transport
+    measurements

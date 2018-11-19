@@ -1,0 +1,8 @@
+choosing an automated library system' a planning guide.
+    presents a methodology, primarily for medium and small
+    libraries, outlining the consideration, selection and
+    implementation of an automated system. the method may be used
+    in evaluating a variety of automated system options, including
+    turnkey systems, use of a bibliographic utility, software
+    transfer, development of a system in-house, and obtaining
+    services from the commercial sector.

@@ -1,0 +1,3 @@
+complex plane charts for obtaining closed loop frequency
+    responses in linear control systems summary of graphical
+    methods for plotting complex plane charts

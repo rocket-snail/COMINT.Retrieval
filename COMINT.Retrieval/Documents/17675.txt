@@ -1,0 +1,5 @@
+telemetry signals from sputnik the equipment transcribes
+    from magnetic tape to mm film displaying the coded pulse
+    signals in a raster form which clearly shows pattern changes
+    the telemetry coding system is given and two transits are
+    analysed

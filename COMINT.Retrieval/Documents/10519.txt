@@ -1,0 +1,3 @@
+a computer subsystem using kilomegacycle subharmonic
+    oscillators a phase locked oscillator is described which
+    operates at and has a logical operation time

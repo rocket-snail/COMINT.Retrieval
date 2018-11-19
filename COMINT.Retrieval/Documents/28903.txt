@@ -1,0 +1,11 @@
+experimental verification of the relationship between
+    diffusion constant and mobility of electrons and holes short
+    pulses of electrons or holes were injected into single crystal
+    rods of p and n type ge as the pulse travelled along the rod
+    under the influence of an electric field diffusion took place
+    resulting in broadening of the pulse a large number of
+    measurements of pulse widths and transit times for two
+    positions of the emitter point were made and the most probable
+    value of the ratio of diffusion constant to mobility was
+    derived by the method o of least squares this was found to
+    verify the relation see of

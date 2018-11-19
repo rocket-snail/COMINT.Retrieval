@@ -1,0 +1,5 @@
+stable crystal filter is parallel resonant a high q
+    unbalanced crystal circuit is similar to a parallel tuned
+    circuit with a low lc ratio over an appreciable frequency range
+    it is readily adaptable for use in fm oscillators signal
+    generators and variable bandwidth filters

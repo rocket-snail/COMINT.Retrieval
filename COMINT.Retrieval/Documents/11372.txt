@@ -1,0 +1,3 @@
+an analysis of lossy symmetrical quadripoles in the
+    decimetre and centimetre wavelength ranges using voltage node
+    displacements see also of

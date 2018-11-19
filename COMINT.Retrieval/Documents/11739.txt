@@ -1,0 +1,9 @@
+an associative search strategy for information retrieval.
+    extends goffman's indirect method of information retrieval by
+    suggesting a more flexible search strategy. queries can be
+    classified by 2 criteria' the kind of answer expected and the
+    way the query is defined. considers the indirect method and
+    cleveland's geometrical model. discusses the proposed chaining
+    process and search strategy. in its simplest version, this
+    strategy can replace boolean systems, achieving much greater
+    effectiveness with comparable costs.

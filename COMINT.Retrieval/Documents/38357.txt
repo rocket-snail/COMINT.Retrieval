@@ -1,0 +1,4 @@
+squelch circuit mutes magnetic tape echoes a biased diode
+    type of avc is described which eliminates echoes due to print
+    through effect by rejecting outputs lower than below peak
+    signal level

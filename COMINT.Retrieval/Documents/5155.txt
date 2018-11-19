@@ -1,0 +1,12 @@
+motion of a single cloud in the ionosphere the system
+    comprising cloud and ionosphere is treated as analogous to the
+    system formed by a horizontal wire aerial and the ground the
+    radiation pattern consists of minor lobes arranged
+    symmetrically with respect to a central major lobe as this
+    pattern moves with the cloud periodic fading of transmitted
+    pulses is observed at the receiver periodic fading preceded and
+    followed by a steady signal can thus with appropriate
+    reservations be interpreted as due to a single cloud an example
+    is discussed in which maxima were observed the wavelength being
+    the horizontal length of the cloud is estimated to be
+    about

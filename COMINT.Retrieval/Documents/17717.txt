@@ -1,0 +1,3 @@
+resonance curves deviations encountered in practical
+    circuits from the ideal conditions dealt with in elementary
+    theory are simply explained

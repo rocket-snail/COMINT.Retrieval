@@ -1,0 +1,10 @@
+simultaneous partial absorption reflection and
+    transmission of a nonuniform plane wave by a thin metal film
+    the theory developed for uniform waves of is extended to
+    nonuniform waves such as those propagated in waveguides
+    appropriately modified expressions for th energy components are
+    obtained by taking account of the guided wave phase velocity
+    conditions with a set of parallel films are discussed a film of
+    thickness such as to absorb of the incident energy can be made
+    totally absorbing by setting up standing waves at the back
+    surface

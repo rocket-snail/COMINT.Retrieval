@@ -1,0 +1,4 @@
+superconducting solenoids graphs are presented wit which
+    permit the application of a method based on the fabry
+    formulation for the approximate optimization of superconducting
+    solenoids

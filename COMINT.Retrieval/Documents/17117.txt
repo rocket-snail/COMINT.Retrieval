@@ -1,0 +1,12 @@
+the generation of integrated public transport travel
+    information by computer. the existing procedures utilised by
+    travel enquiry clerks, when answering inquiries on journeys
+    involving interchange, are often cumbersome and sometimes slow.
+    the use of a computer to compile travel information would thus
+    appear to be of benefit to travellers and public transport
+    operators alike by providing the facilities for quicker, more
+    accurate and consistent responses to inquirers. the
+    practicability of producing computer software that would
+    generate schedules of trip-opportunities from the public
+    transport timetables was investigated by the transport and road
+    research laboratory. (see also 80/2217).

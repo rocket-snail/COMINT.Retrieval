@@ -1,0 +1,3 @@
+measurement broadening in magnetic resonance phase
+    detection techniques cause broadening a method for correcting
+    observed widths is described

@@ -1,0 +1,6 @@
+clusters and local area networks. cluster systems,
+    whereby word processors are linked to share central resources
+    (printers, storage facilities, ocr readers) are described along
+    with local area networks which perform the linking agents. the
+    most common local area network configurations are
+    described.

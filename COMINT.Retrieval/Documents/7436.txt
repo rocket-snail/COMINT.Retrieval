@@ -1,0 +1,14 @@
+public terminal use in an online catalog: some
+    preliminary results. a study of the transaction counts for 2
+    1/2 years' activity at the public use terminals of the ohio
+    state university libraries' prototype on-line card catalogue to
+    determine what search options academic library patrons use the
+    most often and whether this pattern varies from that reported
+    in major catalogue use studies. the preliminary findings
+    indicate significant differences in search strategy that may
+    result from a unique user group that prefers to search the
+    on-line catalogue, more useful searches in the on-line system,
+    or special search patterns imposed by the computer hardware
+    itself. both the different searches used by patrons and why
+    they chose them should be important factors in the design of
+    future on-line catalogues.

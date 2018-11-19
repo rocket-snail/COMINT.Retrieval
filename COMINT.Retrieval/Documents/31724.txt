@@ -1,0 +1,6 @@
+on the index of refraction in the ionosphere the forces
+    acting on an electron in an ionized gas are enumerated it is
+    confirmed that in the ionosphere the lorentz polarization force
+    is annulled by the effects of electron ion collisions and that
+    the refractive index is given by the sellmeyer formula at radio
+    frequencies

@@ -1,0 +1,4 @@
+transistor amplifier stages operating from and a
+    description of low level stages using a type transistor which
+    can be used to build rc coupled amplifiers operating in ambient
+    temperatures up to

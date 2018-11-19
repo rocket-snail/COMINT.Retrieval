@@ -1,0 +1,4 @@
+library displays. ideas and hints on the design and
+    presentation of library displays, reading areas, games and
+    bulletin boards are presented by means of illustrations and
+    notes.

@@ -1,0 +1,5 @@
+proposed diagnostic method for cylindrical plasmas
+    expressions are derived for two methods whereby the electron
+    density variation across a plasma column can be obtained more
+    easily than hitherto from an observed diffraction
+    pattern

@@ -1,0 +1,10 @@
+theoretical and experimental investigation of distortion
+    in low frequency junction transistor quadripoles expressions
+    are derived for calculating distortion by differentiating the
+    quasilinear hybrid parameters of the quadripole methods are
+    described of measuring distortion in junction transistor
+    quadripoles in earthed base earthed emitter and earthed
+    collector circuits calculated and measured results are compared
+    for the earthed emitter circuits close agreement is found the
+    application of the results of the investigation to the design
+    of transistor amplifiers is discussed see also of

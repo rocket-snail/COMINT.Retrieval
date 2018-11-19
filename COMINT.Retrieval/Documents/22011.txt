@@ -1,0 +1,6 @@
+interpretation of ionospheric results during eclipses
+    accounts published by various workers of the solar eclipse of
+    have been analysed using the scale height variation concept
+    introduced by the vertical distribution of terrestrial
+    atmospheric temperature varies with latitude and the
+    recombination coefficient in the layer is

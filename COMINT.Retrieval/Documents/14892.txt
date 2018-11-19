@@ -1,0 +1,4 @@
+nonlinear behaviour of a modulated electron beam in the
+    presence of a velocity distribution the harmonic currents in an
+    electron beam with a velocity distribution can be evaluated by
+    a procedure based on the boltzmann equation

@@ -1,0 +1,9 @@
+on the transformations of singularities and limit cycles
+    of the variational equations of va der pol cartwrights solution
+    of van der pols equation with forcing term of is shown to be
+    incorrect in one range of the parameters the corrected solution
+    is given in view of the correction the hysteresis effects to be
+    expected for a van der pol oscillator with increasing and
+    decreasing frequency are confined to a narrower frequency
+    interval and are less varied in character than suggested by
+    cartwrights solution

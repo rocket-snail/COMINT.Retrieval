@@ -1,0 +1,14 @@
+automated interlibrary loans. ben an sssr, (ussr academy
+    of sciences natural sciences library), (asns), uses for
+    interlibrary loans the natural sciences stock of 50 moscow
+    learned libraries; this necessitated an automated process. asns
+    has automated its service controlling the flow of requests,
+    their processing, and overdues. a computer provides information
+    on the progress of loan requests and statistical data on
+    interlibrary loans. a special triplicate order form permits the
+    introduction of information into the computer without
+    pre-machine processing. a machine calendar scans loan periods.
+    owing to computerisation asns has eliminated 2 card indexes
+    recording interlibrary loans, (60,000 cards p.a.), and freed
+    staff for other work. asns plans to introduce automation into
+    other sections.

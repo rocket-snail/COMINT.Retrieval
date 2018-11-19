@@ -1,0 +1,2 @@
+the electrostatic interaction of two arbitrary charge
+    distributions

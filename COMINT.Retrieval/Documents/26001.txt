@@ -1,0 +1,8 @@
+the ptt in the european data network (in german). the
+    activities of the swiss post-, telefon- und telegrafenbetriebe
+    (i.e. post office) within the european data transmission
+    network are discussed. the background to the development of the
+    euronet diane is considered. equipment necessary to link up
+    with the network is identified as well as the method of
+    communication and dialogue with the service. the implications
+    for the printing industry are discussed.

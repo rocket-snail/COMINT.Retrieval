@@ -1,0 +1,11 @@
+authority control in two languages. prepared for the
+    library and information technology association's institute
+    'authority control-the key to tomorrow's catalogue', atlantic
+    city, new jersey, 21-23 may 79. with reference to canada's
+    experiences, reviews some requirements and special problems of
+    bilingual cataloguing and bibliography and highlights policy
+    options involved. describes the nature and extent of
+    bilingualism in national library of canada bibliographic
+    services and products, focuses on some technical features of
+    the authority subsystem of the national library's automated
+    bibliographic system, and briefly looks at the future.

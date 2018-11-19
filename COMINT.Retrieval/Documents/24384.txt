@@ -1,0 +1,9 @@
+the diffraction of waves by an irregular refracting
+    medium a method is described of calculating the diffraction
+    effects produced by a thick stratum of an irregular refracting
+    medium it consists of evaluating the statistics of the phase
+    irregularities in the wave front after traversing the medium
+    and treating these irregularities s having been produced by a
+    thin phase changing screen for a particular statistical model
+    of the irregularities in the medium the result is shown to be
+    identical with that obtained using a different method

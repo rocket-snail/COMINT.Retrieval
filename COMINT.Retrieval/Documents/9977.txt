@@ -1,0 +1,6 @@
+the two dimensional electric field of a curved sided wall
+    or groove on an infinite plane results of a theoretical
+    investigation are tabulated and presented graphically the
+    calculation involves conformal transformations and elliptic
+    integrals for complex moduli values of the latter are
+    tabulated

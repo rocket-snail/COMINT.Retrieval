@@ -1,0 +1,10 @@
+the impact of microcomputers on data communication
+    networks. critically examines, from several points of view, the
+    impact of the microprocessor on data communication networks;
+    analyses the use of microcomputers in the functional components
+    of such networks; reviews specific areas where microcomputers
+    have, can or should take over and expand functions previously
+    performed by random logic; indicates future trends in
+    microprocessor applications to data communication; and analyses
+    the conflicting influences on the rate of utilisation of
+    microprocessors.

@@ -1,0 +1,6 @@
+on chandrasekhars theory of turbulence the theory has
+    been generalized to the case of axisymmetric turbulence and
+    eight differential equations in eight defining scalars of
+    double and triple correlation tensors deduced two of these
+    equations replace that of de karman and howarth in the theory
+    of isotropic turbulence

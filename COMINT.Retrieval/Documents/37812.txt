@@ -1,0 +1,2 @@
+binomial coefficients (algorithm 19) june, 1962 steck, b.
+    ca620616 jb march 17, 1978 9:22 pm

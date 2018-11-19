@@ -1,0 +1,3 @@
+signal enhanced delay line to maintain pulse shape the
+    high frequency response of the delay line described is improved
+    by selective amplification

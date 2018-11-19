@@ -1,0 +1,5 @@
+phase sensitive demodulation with interpolation details
+    are given of a pulse sampling system for demodulation of a low
+    frequency carrier errors may be reduced by inter olation if the
+    general form of the modulation envelope is known in
+    advance

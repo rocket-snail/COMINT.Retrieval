@@ -1,0 +1,6 @@
+the use of square wave carrier currents for supplying
+    ring modulators systematic tests show the advantage of square
+    waves for modulator carrier supply the application of
+    transistor circuits for generating the square waves by
+    frequency division and multiplication eliminates unwanted
+    frequencies without the use of filters

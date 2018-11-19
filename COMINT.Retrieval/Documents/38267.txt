@@ -1,0 +1,6 @@
+production control of printed resistors factors affecting
+    the reproducibility of resistors produced by the silk screen
+    process are discussed those requiring especially careful
+    control are carbon concentration squeegee speed temperature of
+    application curing schedule and application of protective
+    coating

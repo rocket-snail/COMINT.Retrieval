@@ -1,0 +1,10 @@
+theory of diffraction of electromagnetic waves at a
+    perfectly conducting disk and related problems the problem
+    considered in of for plane em waves is solved generally for the
+    case of spherical waves particular solutions are also obtained
+    for the diffraction at an ellipsoid of revolution for a
+    solenoidal em field a method for the numerical solution is
+    outlined for the case of diffraction at a disk at a circular
+    aperture and at an ellipsoid of revolution valid for
+    approximately where as is the radius or half the distance
+    between the foci as appropriate

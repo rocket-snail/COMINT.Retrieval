@@ -1,0 +1,7 @@
+viewdata-the implications for education. examines some of
+    the implications of viewdata for education, with particular
+    reference to the post office's prestel system. experiments by
+    post office researchers have included simulations, multiple
+    choice testing and graded quizzes. these activities are not
+    available on the public system yet, but interactive learning is
+    expected to take priority in future developments.

@@ -1,0 +1,5 @@
+hall effect multipliers the design of the hall generator
+    comprising between ferrite plates is given together with
+    details of suitable transistor amplifier circuits curves
+    showing the performance of the unit for frequencies
+    included

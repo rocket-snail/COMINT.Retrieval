@@ -1,0 +1,8 @@
+an automatic recorder for measuring ionospheric
+    absorption ionospheric absorption is deduced from the ratio of
+    the amplitudes of singly and doubly reflected vertical
+    incidence pulses the two pulses are separated by adjustable
+    gates and applied to two logarithmic amplifiers followed by a
+    difference circuit operating a chart recorder in the absence of
+    a second reflection a local reference pulse can be used the
+    system being calibrated subsequently

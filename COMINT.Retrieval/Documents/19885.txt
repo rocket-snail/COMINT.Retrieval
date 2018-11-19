@@ -1,0 +1,8 @@
+high sensitivity and accuracy pulse trigger circuit a
+    pulse height discriminator is described which incorporates a
+    highly stable differential negative resistance provided by a
+    type multi electrode valve by virtue of current division
+    between screen grid and anode this circuit is compared with
+    that of kandiah in which the negative resistance is provided by
+    a cathode coupled pair of valves the discriminator threshold
+    can be set in the range with stability within

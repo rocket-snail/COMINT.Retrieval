@@ -1,0 +1,7 @@
+frequency modulation noise in oscillators the discussion
+    is confined to noise due to the discrete nature of the electron
+    and the random motion of the electrons in the oscillator valve
+    the spectrums ranges from zero to hundreds of the effect of the
+    usual band pass filter on the noise modulation is determined
+    and the power spectrum of the oscillator output is evaluated
+    the theory is applied to several types of oscillator

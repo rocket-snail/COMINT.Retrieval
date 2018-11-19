@@ -1,0 +1,5 @@
+the diffraction of a non monochromatic electromagnetic
+    wave by a slit and a grating a general solution is derived from
+    kirchhoffs solution results of calculations and measurements
+    are in good agreement over the range in which kirchhoffs
+    solution is applicable

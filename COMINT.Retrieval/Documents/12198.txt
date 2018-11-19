@@ -1,0 +1,9 @@
+classes of four pole networks having nonlinear transfer
+    characteristics but linear iterative impedances a graphical
+    representation is introduced which simplifies the analysis of
+    networks containing nonlinear elements the properties of dual
+    nonlinear resistances in which the relation for one resistance
+    is the same as the relation for the other are considered such
+    duals if realizable would permit the design of nonlinear four
+    poles having linear iterative impedances which could be
+    cascaded

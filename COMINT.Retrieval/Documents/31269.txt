@@ -1,0 +1,3 @@
+a contribution to the synthesis of resistive three ports
+    algebraic and topological treatment of a special case of three
+    port network synthesis for italian version

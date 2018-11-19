@@ -1,0 +1,13 @@
+forced oscillations with nonlinear restoring force both
+    transient and steady state oscillations are studied the
+    original differential equation characterized by a nonlinear
+    term is transformed to the following first order differential
+    equation following poincare and bendixson the singularities and
+    the integral curves of this equation are discussed the former
+    being correlated with the steady states and the latter with the
+    transient states of oscillation the integral curves yield the
+    relation between the initial conditions and the steady state
+    solutions fundamental and subharmonic oscillations of order are
+    investigated the theoretical results are compared with
+    measurements made on a circuit containing a saturable iron core
+    satisfactory agreement is found

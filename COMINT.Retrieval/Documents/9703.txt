@@ -1,0 +1,4 @@
+the propagation coefficient of a general linear
+    quadripole current and voltage relations in a quadripole
+    joining two transmission lines are calculated using methods of
+    image parameter theory

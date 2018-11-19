@@ -1,0 +1,6 @@
+a unique approach to computer versatility the need for a
+    computer which can perform specialized computations as well as
+    general data processing is met by the integration of a general
+    purpose computer with a digital differential analyzer the
+    design involves shared storage system and special input output
+    facilities

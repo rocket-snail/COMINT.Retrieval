@@ -1,0 +1,9 @@
+theory of logical nets two values logic is applied to the
+    study of digital computer circuits a logical net is an array
+    constructed from a stroke element representing circuit
+    components performing logical functions and a delay element
+    representing storage components various types of net are
+    defined their properties are correlated with those of the
+    associated set of equations and a study is made of the
+    operations they can perform the classification o digital
+    computer circuits in this system is discussed

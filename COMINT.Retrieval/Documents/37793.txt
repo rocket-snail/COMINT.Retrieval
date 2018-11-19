@@ -1,0 +1,8 @@
+lumpsed parameter delay lines the application of rigorous
+    filter theory to delay lines comprising a series of coaxial
+    coils is difficult owing to the coupling between nonadjacent
+    coils an experimental method of obtaining frequency
+    characteristics is outlined the latter can be corrected by
+    connecting a capacitor across adjacent coils filter theory is
+    applied to give an indication of suitable capacitance
+    values

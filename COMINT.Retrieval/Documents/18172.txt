@@ -1,0 +1,4 @@
+a new type of ring counter a system is described using
+    separate eccles jordan circuits in which any number of stages
+    may be employed advantages over other systems are
+    indicated

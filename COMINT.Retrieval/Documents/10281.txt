@@ -1,0 +1,5 @@
+trends in use of computer-readable information carriers
+    abroad. reviews non-soviet literature (1972-77) on the problems
+    of creating computer-readable information carriers; describes
+    the differences between batch and on-line processing data
+    bases; and discusses data base selection problems.

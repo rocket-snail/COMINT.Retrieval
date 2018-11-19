@@ -1,0 +1,8 @@
+correlation in the fluctuating outputs from two square
+    law detectors illuminated by light of any state of coherence
+    and polarization the correlation is found by treating light
+    fluctuations as a random process the expression takes a
+    particularly simple form when the light is spectrally pure two
+    special cases are applicable to the hanbury brown twiss effect
+    of and to correlation experiments with light from optical
+    masers

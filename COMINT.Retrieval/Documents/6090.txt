@@ -1,0 +1,6 @@
+transmission of radio waves through highly ionized gases
+    preliminary theoretical discussion of the effect of highly
+    ionized media on the transmission of em waves with special
+    reference to the possible use of centimetre waves in the study
+    of the intense thermal ionization produced in a gas subject to
+    high pressure shock waves

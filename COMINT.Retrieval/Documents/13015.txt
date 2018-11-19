@@ -1,0 +1,8 @@
+graphical analysis of nonlinear circuits using impedance
+    concepts approximate values of the reactance of moderately
+    nonlinear inductors and capacitors are obtained by adding to
+    the usual linear expressions terms involving the square of the
+    current using this approximation the total impedance of an lrc
+    circuit is obtained and plotted in the iz plane with frequency
+    as a parameter the method gives a physical picture of the jump
+    phenomenon in nonlinear circuits

@@ -1,0 +1,4 @@
+browsing through databases. presents the browse system,
+    the goal of which is to provide browsing access to data bases
+    by building the search heuristics directly into the data base
+    as quick access paths between related records.

@@ -1,0 +1,8 @@
+aircraft protection from thunderstorm discharges to
+    antennas the protection unit described consists of a capacitor
+    in the aerial feeder lead together with a spark gap in parallel
+    with a resistor connected between the aerial side of the
+    capacitor and the fuselage a peak current recorder in the form
+    of a steel strip magnetized by the current flow is included
+    units of this type have been tested for over two years in
+    commercial airliners

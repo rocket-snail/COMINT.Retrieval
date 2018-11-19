@@ -1,0 +1,9 @@
+devt' data entry virtual terminal for euronet/diane. the
+    components of the virtual terminal are described and the
+    general conventions for the presentations of the protocol are
+    given. basic principles of connection/disconnection protocol
+    specifications are described and sequences of events which can
+    occur during connection and disconnection are discussed.
+    possible extensions to the system include cassettes, floppy
+    discs and additional field characteristics and addressing
+    functions.

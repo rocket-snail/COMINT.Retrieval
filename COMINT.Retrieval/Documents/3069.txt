@@ -1,0 +1,5 @@
+microwave magnetic field near a conducting perturbation
+    experiments are described to show that locally intense
+    microwave magnetic field strengths can be obtained with low
+    power levels by using a conductor to perturb the microwave
+    electric field of a resonant cavity

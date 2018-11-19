@@ -1,0 +1,6 @@
+a voltage stabilizer a motor operated variac type of
+    stabilizer is described in which the voltage sensing unit
+    contains only one valve of cold cathode type and incorporates
+    biasing to hold the output voltage near the centre of the
+    control range the output is maintained at the correction rate
+    is

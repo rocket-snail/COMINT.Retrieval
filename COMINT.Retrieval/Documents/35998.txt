@@ -1,0 +1,6 @@
+visual design of information systems. the mosaik program
+    which is used for the german bildschirmtext viewdata system is
+    described. a field test is planned to start in june 80 and
+    continue for one year. the historical development of the
+    program and reasons for its particular characteristics are
+    discussed. examples of screen displays are given.

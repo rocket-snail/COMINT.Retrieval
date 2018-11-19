@@ -1,0 +1,3 @@
+transistors in speech equipment the use of transistors in
+    af circuits is described and constructional details are given
+    of a speech amplifier

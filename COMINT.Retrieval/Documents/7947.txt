@@ -1,0 +1,7 @@
+information on the ionizing radiation of solar flares
+    from the ionospheric absorption effect the additional
+    ionization is produced in a thin layer at height and the
+    attachment coefficient is sec the radiation flux deduced from
+    the ionospheric changes agrees well with rocket measurements
+    the spectrum of the ionizing radiation is probably mainly line
+    emission near

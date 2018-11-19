@@ -1,0 +1,11 @@
+virtual space teleconference system. a teleconference
+    system for n conferees, n being greater than 2, includes at
+    least 2 separate stations. each station has n conferee
+    positions, confronting a virtual conference space, and
+    corresponding conferee positions at each station have the same
+    relative locations about the virtual conference space. at least
+    1 conferee position at each station is adapted to be occupied
+    by a conferee in person. surrogate conferees, which include a
+    video display, a video camera, and a loudspeaker, occupy each
+    conferee position not adapted to be occupied by a conferee in
+    person.

@@ -1,0 +1,9 @@
+the decay of the space charges in intermittent discharges
+    in neon and argon the influence of the gas pressure and
+    electrode separation on the decay of the space charges is
+    investigated experimentally the decay times for both neon and
+    argon appear to be of the order of sec and are nearly
+    proportional to the pressure over the range of measurement
+    about possible explanations of these values are discussed and
+    the various regions of the static characteristic are related to
+    the functioning of counters and periodic discharges

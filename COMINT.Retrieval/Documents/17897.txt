@@ -1,0 +1,4 @@
+adaptation of the radiosonde for direct measurement of
+    radio refractive index the sytem described is based on standard
+    meteorological sensing devices and provides an accuracy
+    sufficient for many radio propagation applications

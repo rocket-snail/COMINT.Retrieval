@@ -1,0 +1,7 @@
+information system for decision making. establishes the
+    need for an information system for decision making and analyses
+    the information requirements for decision making in a large
+    industrial research and development organisation. presents an
+    information system design, describes its functions, and
+    concludes that an efficient information system must be
+    developed for making correct and timely decisions.

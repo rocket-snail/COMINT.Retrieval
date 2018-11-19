@@ -1,0 +1,3 @@
+one tunnel diode flip flop report on the operation of a
+    circuit similar to one given in with oscillograms showing
+    triggering and switching modes

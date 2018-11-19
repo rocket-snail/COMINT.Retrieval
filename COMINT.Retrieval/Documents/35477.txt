@@ -1,0 +1,8 @@
+observations on the ionospheric f layer at night the law
+    of electron loss in the f layer at night electrons in the f
+    layer are lost by attachment like processes the loss
+    coefficients are of the form where is the height at which and
+    is the scale height of the loss coefficient assuming the loss
+    coefficients are attributable to loss rates in chemical
+    processes values correspond to those of molecular oxygen and
+    nitrogen

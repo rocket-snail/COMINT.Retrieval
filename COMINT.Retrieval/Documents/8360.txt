@@ -1,0 +1,16 @@
+a distributed data entry network for database producers.
+    having entries for a bibliographic data base prepared at widely
+    separated units presents problems of logistics, communication,
+    standardisation, control and cost-effectiveness. cab is
+    overcoming these by implementing the formatext-11 software
+    package on a star network of minicomputers (pdp 11) at 15
+    centres in the uk. the 1st installation of the new system
+    immediately demonstrated its potential for fast, accurate input
+    at low cost. specially designed for processing structured
+    alphanumeric data, formatext-11 has facilities for forms
+    design, authority file definition and maintenance, character
+    set definition, source text entry, proof printing, releasing
+    and data communications. the ease with which the 1st 3 of these
+    facilities can be modified makes formatext-11 a uniquely
+    flexible tool for producers of bibliographic data bases,
+    directories, encyclopaedias and dictionaries.

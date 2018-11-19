@@ -1,0 +1,7 @@
+electron energy distributions in plasmas part report of a
+    method of carrying out a druyvesteyn analysis electronically
+    the results show very wide deviations from the maxwellian
+    distribution in striated discharges and suggest that a high
+    anomalous rate of energy exchange between the electrons of a
+    low pressure discharge is a much rarer phenomenon than might be
+    supposed

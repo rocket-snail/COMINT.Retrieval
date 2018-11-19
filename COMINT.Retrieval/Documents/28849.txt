@@ -1,0 +1,2 @@
+a scalar representation of electro magnetic fields extens
+    work in an earlier paper to deal with energy transport

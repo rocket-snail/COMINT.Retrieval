@@ -1,0 +1,5 @@
+investigation of winds and inhomogeneities in the
+    ionosphere using a radioastronomy method description of
+    measurements made using three parabolic meshtype reflectors of
+    area spaced approximately apart and operating at a wavelength
+    of m ionospheric wind velocities of ms were recorded

@@ -1,0 +1,4 @@
+transformation of the matrices of generalized admittances
+    for various triode connections the usual three sets of
+    connections for triode valves and for transistors are
+    examined

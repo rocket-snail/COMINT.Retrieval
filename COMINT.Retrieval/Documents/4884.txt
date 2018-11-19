@@ -1,0 +1,5 @@
+design charges for an on off control system discussion a
+    simple and rapid method is presented for determining the step
+    function response of an off system consisting of a pure time
+    delay or distance velocity lag an exponential time constant and
+    an integration

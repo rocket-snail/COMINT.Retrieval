@@ -1,0 +1,8 @@
+small transformers and inductors there has long been the
+    need for a book which treats the design of transformers for use
+    at both power and communication frequencies on the basis of a
+    common systematic theory and which so closely relates the
+    design process to fundamental theory as to enable the non
+    specialist successfully to undertake the design of transformers
+    for widely differing applications the author has fulfilled this
+    need most admirably

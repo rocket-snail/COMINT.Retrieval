@@ -1,0 +1,10 @@
+spin wave analysis of ferromagnetic resonance in
+    polycrystalline ferrites dipolar interaction is taken into
+    account by means of the spin wave formalism crystalline
+    anisotropy and the polycrystalline nature of the material cause
+    the homogeneous mode of precession to interact with spin waves
+    whose wavelength is of the order of or larger than the average
+    linear grain size the theory predicts a very strong frequency
+    and shape dependence of the line width when the homogeneous
+    mode is approximately degenerate with long wavelength spin
+    waves propagating normal to the dc field

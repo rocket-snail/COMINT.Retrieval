@@ -1,0 +1,10 @@
+serial control in a developed machine system. argues that
+    the developed machine systems of the future will not be based
+    on present linear machine records, but will operate upon a
+    complex network of simple records. such a network will have
+    special application to the problems relating to the control of
+    bibliographic information on serials. the problems of
+    chronological and hierarchical linkage of serials are analysed
+    and related to the proposed new system. the proposed system
+    will also provide beneficial effects for serials check in,
+    serials cataloguing, and catalogue users.

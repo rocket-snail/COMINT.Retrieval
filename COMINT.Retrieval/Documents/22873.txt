@@ -1,0 +1,3 @@
+considerations on discriminators in airborne servo
+    systems discussion of performance requirements for automatic
+    pilot mechanisms

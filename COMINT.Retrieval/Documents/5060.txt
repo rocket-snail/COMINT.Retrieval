@@ -1,0 +1,5 @@
+analysis of the transistor cascade configuration
+    neutralization is not necessary more gain per unit volume and
+    weight is achieved than in other transistor configurations
+    while cost per unit gain is about equal to that of more
+    conventional circuits

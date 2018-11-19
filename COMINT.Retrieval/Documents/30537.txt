@@ -1,0 +1,2 @@
+statistical broadening of spectral lines emitted by ions
+    in a plasma

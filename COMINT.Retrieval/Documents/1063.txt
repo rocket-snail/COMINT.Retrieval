@@ -1,0 +1,6 @@
+considerations on the case for a specific standard for
+    the description of old books. examines ifla's draft isbd(a) of
+    nov 78, noting differences and similarities with isbd(m).
+    concludes that a more satisfactory solution would be to produce
+    an appendix to isbd(m) providing for all cases where a larger
+    measure of descriptive detail was appropriate.

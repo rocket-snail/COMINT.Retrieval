@@ -1,0 +1,11 @@
+diffraction by an edge and by a corner conditions are
+    given which are sufficient to ensure that the current density
+    normal to an edge is zero at the edge and that there is no line
+    distribution of charge on the edge an extra condition is given
+    which makes the components of the field parallel to the edge
+    finite the solution is then shown to be unique simpler
+    conditions are given for two dimensional fields the agreement
+    of various known solutions with the conditions here determined
+    is discussed certain simple types of current and charge
+    distribution lead to a unique solution for the diffraction by
+    corners formed by flat surfaces

@@ -1,0 +1,11 @@
+transistor noise in circuit applications problems of
+    linear circuits involving multiple noise sources can be handled
+    by familiar methods with the aid of certain noise spectrum
+    functions which are described several theorems of general
+    interest in circuit work dealing with noise spectra and noise
+    correlation are derived the noise characteristics of
+    transistors can be described in terms of the spectrum functions
+    for simple but arbitrary configurations of equivalent noise
+    generators from these the noise figure can be calculated for
+    any external circuit numerical results for a number of npn
+    transistors are given in a table and many curves

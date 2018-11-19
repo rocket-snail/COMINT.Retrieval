@@ -1,0 +1,5 @@
+further analysis of transmission line directional
+    couplers the conditions for infinite directivity in
+    transmission line directional couplers derived by firestone of
+    january are discussed more general conditions are derived valid
+    for any degree of coupling

@@ -1,0 +1,4 @@
+propagation of spin waves theoretical considerations show
+    that coherent spin wates can be propagated in a ferrite
+    material if the microwave field penetrates no more than a
+    distance into the specimen

@@ -1,0 +1,4 @@
+influence of programming techniques on the design of
+    computers new techniques r are discussed which take advantage
+    of the high speed checked operation of the computer to perform
+    the routine work of programming

@@ -1,0 +1,8 @@
+sim litude and anode material effects in h and d
+    discharges below the critical pressure the breakdown potentials
+    of h and d gases were determined below the critical pressure in
+    two similarly shaped discharge valves of different size with
+    stainless steel anodes and cathodes both gases obeyed paschens
+    law when the anodes were made of pb or al some deviations were
+    observed possibly resulting from deposition of anode material
+    on the cathode

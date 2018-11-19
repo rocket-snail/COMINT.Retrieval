@@ -1,0 +1,4 @@
+comparison of gain bandwidth and noise figure of variable
+    reactance amplifiers and converters it is shown theoretically
+    and experimentally that the converter has a greater bandwidth
+    than the amplifier for the same gain and noise figure

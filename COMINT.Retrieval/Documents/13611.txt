@@ -1,0 +1,8 @@
+a point contact transistor scaling circuit with
+    resolution simple circuits using normal point contact
+    transistors are described features contributing to the short
+    resolving time are the prevention of bottoming of collector
+    potential and the absence of capacitors a typical scale of ten
+    circuit uses seven transistors seven pulse transformers and
+    crystal diodes wide tolerances on the transistor parameters are
+    permissible

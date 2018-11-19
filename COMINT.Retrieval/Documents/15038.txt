@@ -1,0 +1,7 @@
+method of amplitude control of ac signals a circuit for
+    controlling the rms value of an ac signal is analysed and
+    practical results are discussed the speed of response is such
+    that for rates of change of per second the output is controlled
+    continuously within an alternative arrangement for maintaining
+    at a preset level the peak value of repetitive pulses is also
+    given

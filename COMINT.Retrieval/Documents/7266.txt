@@ -1,0 +1,4 @@
+squaring circuits with staggered diodes with the circuit
+    described a square law characteristic can be synthesized over a
+    range of about ge diodes give better results than those
+    obtained with thermionic valves

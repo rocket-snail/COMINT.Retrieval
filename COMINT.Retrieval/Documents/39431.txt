@@ -1,0 +1,9 @@
+some thoughts on information systems design. reports an
+    interview with benjamin a. saltzer, information systems and
+    technologies project manager at the naval ocean systems center,
+    systems development branch in san diego, california. summarises
+    saltzer's view on' the nature of information technology; goals
+    for government information systems; and areas in which effort
+    has to be expended in the creation and implementation of
+    effective information systems. presents his philosophy of
+    information systems establishment.

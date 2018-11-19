@@ -1,0 +1,13 @@
+electrothermal convection in air the effect of an
+    inhomogeneous electric field on the thermal gradients in air
+    was investigated using air heated electrically by a filament of
+    length cm along the axis of a glass tube of diameter about cm
+    results show that the field required to produce electrothermal
+    convection is lower at high power dissipation than at low
+    dissipation in the range the transition between gravitational
+    thermal and electrothermal convection occurs discontinuously
+    the potential difference between the positive filament and
+    negative electrodes placed on either side of the filament was
+    varied between about and interference photographs are shown and
+    the apparatus used is described results are presented
+    graphically

@@ -1,0 +1,5 @@
+gated decade counter requires no feedback decade counting
+    is achieved in a system using binary type counting circuits by
+    arranging that eight pulses are directed into one storage
+    circuit and the next two pulses into a second storage circuit
+    after which the systems resets itself

@@ -1,0 +1,8 @@
+the parameters of a four terminal network the method of
+    analysing quadripoles in terms of image impedances and a
+    propagation constant is compared with the method based on the
+    general circuit constants the latter method which can
+    conveniently be treated by matrix algebra as described by
+    guertler of is preferred the relation between the two sets of
+    constants is examined and typical applications are
+    illustrated

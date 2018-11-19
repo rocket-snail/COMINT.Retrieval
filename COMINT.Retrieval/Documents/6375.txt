@@ -1,0 +1,7 @@
+the effective leaking resistance of several types of
+    capacitors a rapid method of measuring leakage resistance based
+    on rate of charge is described variation of leakage resistance
+    with time was measured for commercial capacitors of values
+    ranging from with various dielectrics at temperatures ranging
+    from in most cases the best properties were exhibited by a
+    capacitor having a polytetrafluoroethy dielectric

@@ -1,0 +1,8 @@
+impedance and admittance surfaces three dimensional locus
+    diagrams are used to investigate the variation of impedance and
+    phase displacement in two pole circuits in response to
+    variations of frequency resistance inductance or capacitance
+    the impedance and admittance surfaces include straight lines
+    corresponding to the important special case of zero phase
+    displacement when the impedance is independent of the damping
+    or detuning

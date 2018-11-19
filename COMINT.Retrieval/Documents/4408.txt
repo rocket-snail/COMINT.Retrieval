@@ -1,0 +1,8 @@
+calculation of the oscillation frequency of a quartz
+    crystal maintained by a transistor the calculation presented
+    previously of july is extended to the general case where it is
+    required to determine both the influence of the maintaining
+    system on the frequency and the possibility of aligning this
+    frequency with a given reference frequency formulae are derived
+    based on the use of capacitors in series and in parallel with
+    the crystal

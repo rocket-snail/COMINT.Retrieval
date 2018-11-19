@@ -1,0 +1,6 @@
+the unit step the unit pulse and the dirac operator the
+    unit pulse is identified as the derivative of the unit step and
+    the identity between the unit pulse and the dirac function is
+    demonstrated by considering the establishment of a direct
+    current in a circuit with finite inductance but vanishing
+    capacitance

@@ -1,0 +1,11 @@
+a general network theorem with applications it is proved
+    that in a network configuration with branch currents i
+    satisfying the node equations and branch voltages satisfying
+    the mesh equations summed over all branches is zero using this
+    result it is possible to prove the energy theorem and the
+    reciprocity relation of networks and to show that if
+    arbitrarily varying voltages are applied to a pole network at
+    rest the difference between the electric and the magnetic
+    energy at any instant depends only on the admittance matrix of
+    the pole network and not on the particular network used to
+    realize this matrix

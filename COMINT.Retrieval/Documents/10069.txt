@@ -1,0 +1,5 @@
+cycle and delay time considerations in a real time
+    digital computer considerable improvement in a computer program
+    can be obtained by careful selection of cycle and delay times
+    the criterion of information handling efficiency provides a
+    basis for comparing the quality of various programs

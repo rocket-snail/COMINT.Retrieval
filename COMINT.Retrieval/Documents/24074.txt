@@ -1,0 +1,7 @@
+transition radiation in a waveguide investigation of the
+    radiation which arises in a waveguide by the passage of a
+    charged particle through the boundary between two media at
+    ultrarelativistic charge velocities the radiation is mainly in
+    the forward direction and its magnitude is proportional to the
+    particle energy formulae for the total energy of the radiation
+    and its spectral distribution are derived

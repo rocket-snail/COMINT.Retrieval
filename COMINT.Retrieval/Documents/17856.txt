@@ -1,0 +1,8 @@
+valve matching using resistors desired characteristics
+    can be obtained by including resistors in series and or
+    parallel with a valve formulae for the effective parameters are
+    tabulated for several simple combinations matching of ac
+    characteristics may in practice be accompanied by reasonable
+    matching of the overall dc characteristics a circuit is shown
+    using the latter effect for determining resistances required
+    for matching two valves

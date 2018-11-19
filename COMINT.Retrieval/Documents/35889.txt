@@ -1,0 +1,4 @@
+an analysis of the travelling wave cavity the masured
+    response of a travelling wave cavity differs from that
+    predicted by simple theory an internal mismatch can explain the
+    observed response

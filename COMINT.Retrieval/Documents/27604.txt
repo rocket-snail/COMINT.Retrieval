@@ -1,0 +1,4 @@
+note on carpet graphs description of a method description
+    of a method developed at the national physical laboratory for
+    presenting information concerning three variables in a single
+    combined graph

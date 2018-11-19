@@ -1,0 +1,4 @@
+amplifier delay charts the time delay in various types of
+    amplifier due to the network phase shift can be determined from
+    the series of charts given if the amplifier bandwidth and
+    number of stages are known

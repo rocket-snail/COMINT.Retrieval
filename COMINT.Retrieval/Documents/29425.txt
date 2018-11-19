@@ -1,0 +1,11 @@
+new theorems on the electrostatic field the law of least
+    capacitance is discussed the concept of the intermediate
+    electrode is introduced to facilitate the formulation a system
+    of two cylinders with parallel axes is considered and an
+    examination is made of the variation of the total capacitance
+    of the system on dis placing the imaginary intermediate
+    electrode constituted by an infinitely thin metal sheet shaped
+    to coincide with one of the equipotential surfaces the analysis
+    is extended to systems of spheres and other geometrical forms
+    formulae giving attractive and repulsive forces for numerous
+    particular cases are tabulated

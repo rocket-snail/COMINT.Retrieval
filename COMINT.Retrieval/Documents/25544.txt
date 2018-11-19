@@ -1,0 +1,10 @@
+an addition and improvement for data bases: sintex, a
+    statistical tool. a description of an indexing system developed
+    by the societe d'informatique europeene, designed to overcome
+    the inherent limitations of data base communication caused by
+    the heterogeneity of indexing techniques, material stored and
+    interrogation languages. the principles behind sintex are
+    explained, and batch and on-line applications outlined, showing
+    how it could operate as an entirely automatic indexing system.
+    eventually sintex should permit unrestricted indexing and
+    natural language data base interrogation.

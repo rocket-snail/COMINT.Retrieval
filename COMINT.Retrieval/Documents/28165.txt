@@ -1,0 +1,7 @@
+electron collision frequencies in nitrogen and in the
+    lower ionosphere by using an improved version of the electron
+    drift velocity tube in the laboratory measurements and an
+    improved analysis of rocket data the two sets of results are
+    brought into agreement reevaluation of the rocket data involves
+    the energy dependence of the electron collision
+    frequency

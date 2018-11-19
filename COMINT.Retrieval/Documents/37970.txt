@@ -1,0 +1,11 @@
+the combined use of bibliographic coupling and cocitation
+    for document retrieval. a linkage similarity measure which
+    takes into account both the bibliographic coupling of documents
+    and their cocitations (both cited and citing papers) produced
+    improved document retrieval over a measure based only on
+    bibliographic coupling. the test collection consisted of 1,712
+    papers whose relevance to specific queries had been judged by
+    users. overall, the change from the bibliographic coupling
+    measure to the linkage similarity measure, representing the
+    introduction of cocitation data, resulted in better retrieval
+    performance.

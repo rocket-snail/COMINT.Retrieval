@@ -1,0 +1,10 @@
+effect of crystalline electric fields on ferromagnetic
+    anisotropy the effect of the electrostatic crystalline field
+    has been considered for a magnetic crystal in which the ions
+    are strongly coupled by ferromagnetic exchange on the basis of
+    the one ion approximation that the exchange can be represented
+    by a weiss molecular field expressions for the anisotropy
+    constants have been derived the treatment assumes that the
+    magnetic electrons can be considered as localized on the
+    individual ions and thus applies primarily to nonmetallic
+    substances such as ferrites

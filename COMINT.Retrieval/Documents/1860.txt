@@ -1,0 +1,5 @@
+ionospheric stations a list is given of all stations from
+    which results of observations are regularly received at slough
+    in a second list which replaces those previously published
+    ionospheric stations are grouped according to the country
+    controlling them

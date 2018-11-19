@@ -1,0 +1,4 @@
+airborne magnetometer for determining all magnetic
+    components description of the airborne vector magnetometer type
+    an enlarged and modified form of the instrument previously
+    described by felch et al of

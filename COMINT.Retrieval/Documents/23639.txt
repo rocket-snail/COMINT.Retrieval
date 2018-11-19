@@ -1,0 +1,3 @@
+maser operation with signal frequency higher than pump
+    frequency an x band solid state maser is described using the
+    four zeeman levels in ruby

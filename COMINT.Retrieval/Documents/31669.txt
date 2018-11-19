@@ -1,0 +1,4 @@
+the optimum design of rc valve oscillators nonlinear
+    distortion is analysed and optimum operating conditions are
+    determined by means of an analytical method using nonlinear co
+    efficients

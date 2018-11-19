@@ -1,0 +1,3 @@
+an interim atmosphere derived from rocket and satellite
+    data a model atmosphere is proposed for temperate latitudes at
+    altitudes

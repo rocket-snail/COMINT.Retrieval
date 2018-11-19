@@ -1,0 +1,8 @@
+some magnetic properties of metals part surface
+    corrections of the landau diamagnetism and the de haas van
+    alphen effect an expression is given for the magnetic moment of
+    a large but finite system of electrons in terms of the volume
+    and two mutually perpendicular surface areas together with
+    constants independent of the shape of the system the theory is
+    verified by calculating the values of the constants for two
+    different shapes corrections to part are noted

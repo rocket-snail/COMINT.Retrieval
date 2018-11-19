@@ -1,0 +1,3 @@
+insertion loss of electromechanical coupling filters the
+    insertion loss is defined and design formulae are derived for
+    minimising this loss

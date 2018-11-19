@@ -1,0 +1,3 @@
+c band nondegenerate parametric amplifier with a
+    bandwidth the amplifier uses two si pill varactor diodes in a
+    balanced circuit and has a gain of db

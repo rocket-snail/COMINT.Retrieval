@@ -1,0 +1,3 @@
+a general tchebycheff rational function the derivation is
+    described of a function useful for the design of low pass
+    filters

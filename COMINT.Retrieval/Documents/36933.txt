@@ -1,0 +1,3 @@
+an extension to algol for manipulating formulae*
+    february, 1964 perlis, a. j. iturriaga, r. ca640211 jb march
+    10, 1978 3:45 am

@@ -1,0 +1,4 @@
+rf gate with carrier suppression a gate is described with
+    a carrier suppression ratio db the ungated cw signal is
+    continuously available circuitry leakage measurements and
+    screening techniques are described

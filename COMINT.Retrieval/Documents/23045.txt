@@ -1,0 +1,9 @@
+power gain in feedback amplifier a search is made for a
+    network figure of merit shich remains invariant for different
+    connection conditions a quantity is found satisfying this
+    requirement and identified as the available power gain when
+    coupling is chosen to make the device unilateral the quantity
+    may be useful for classifying active networks its value is
+    unity for a gyrator the method directs interest to power gain
+    and signal flow considerations rather than to voltage gain and
+    the network interpretation of an impedance matrix

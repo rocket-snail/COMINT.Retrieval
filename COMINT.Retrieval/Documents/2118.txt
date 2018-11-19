@@ -1,0 +1,1 @@
+general n port synthesis with negative resistors

@@ -1,0 +1,5 @@
+propagation of plane electromagnetic waves in a
+    directional conductor with variable direction of conductivity
+    propagation through a series of directional screens is
+    considered each screen being rotated by the same angle with
+    respect to the adjacent screen

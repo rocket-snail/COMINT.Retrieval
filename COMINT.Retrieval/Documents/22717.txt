@@ -1,0 +1,6 @@
+low frequency plasma oscillations theoretical
+    consideration of plasma comprising both electrons and ions with
+    maxwellian velocity distributions shows that in the absence of
+    an external field the low frequency plasma oscillations decay
+    in the presence of an applied electric field undamped
+    oscillations are possible

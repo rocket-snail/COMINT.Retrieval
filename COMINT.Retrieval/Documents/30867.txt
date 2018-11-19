@@ -1,0 +1,10 @@
+determination of the coefficient of recombination in the
+    ionosphere a simple method is suggested in which the
+    recombination coefficient is determined from night time
+    observations in terms of the gyrofrequency the mean observation
+    frequency and the time interval between the disappearance of
+    the ordinary and extraordinary ray echoes the value of for the
+    f region found by this method using records of radio ceylon
+    transmissions on is sec using vertical incidence measurements
+    at calcutta a value of cm sec is obtained compared with cm sec
+    calculated by the usual method

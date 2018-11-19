@@ -1,0 +1,4 @@
+possible sources of energy of ion oscillations in high
+    and ultra high vacuum two mechanisms are proposed to account
+    for plasma oscillations arising in electron beam amplifier
+    devices

@@ -1,0 +1,7 @@
+greens functions in evaluating fields analysis based on
+    the derivation of vector potentials from scalar potentials is
+    extended to cases in which the field varies with time an
+    outline is given of the method used to calculate the field due
+    to a current in a conductor applications include the
+    calculation of fields in waveguides and resonant
+    cavities

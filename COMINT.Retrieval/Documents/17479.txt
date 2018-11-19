@@ -1,0 +1,12 @@
+a simple analogue divider a circuit is described which
+    provides an output voltage proportional to the ratio between
+    two input voltages a pulse of duration inversely proportional
+    to one input being used to gate the other input the results are
+    accurate to within over a wide range of inputs an operational
+    digital feedback divider in this divider the input pulses
+    operate directly on the output the circuit forming a closed
+    feedback loop in which the desired quotient corresponds to the
+    only possible steady state the accuracy of the system can be
+    selected by using the approprate number of significant digits
+    from the eleven available new high frequency proximity effect
+    formula

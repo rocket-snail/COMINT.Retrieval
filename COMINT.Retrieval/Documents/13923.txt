@@ -1,0 +1,6 @@
+the anomalous skin effect and the reflectivity of metals
+    expressions derived by reuter and sondheimer of are
+    considerably simplified numerical results obtained include
+    calculated values of surface resistance and reactance in the
+    microwave region for both specular and diffuse electron
+    reflection

@@ -1,0 +1,9 @@
+an attempt to simplify coding for the manchester
+    electronic computer two main simplifications are made both at
+    the cost of increased machine time to ensure that all
+    quantities involved in a calculation are represented to the
+    required degree of accuracy every number occurring is
+    associated with its own scale factor again in using the two
+    levels of storage provided arrangements are made so that
+    instructions are written out as if for a one level store a
+    program in the simplified form is described

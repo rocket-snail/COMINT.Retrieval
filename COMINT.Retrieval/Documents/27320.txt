@@ -1,0 +1,4 @@
+transistors in low frequency amplifiers design formulae
+    are derived and the relations between circuit parameters for
+    the three basic transistor configurations are tabulated the
+    main types of feedback and their effects are discussed

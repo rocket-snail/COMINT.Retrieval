@@ -1,0 +1,8 @@
+the concept of heterogeneous surface impedance and its
+    application to cylindrical cavity resonators formulae are
+    developed relating the q factor and the resonant frequency of a
+    cavity to its dimensions and the fourier components of the
+    surface impedance function the cases of circumferential and
+    axial heterogeneity are analysed in detail in general a unique
+    value of surface impedance cannot apply to an unbounded
+    periodic sheet unless the period is small compared with

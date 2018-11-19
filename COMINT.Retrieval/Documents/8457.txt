@@ -1,0 +1,6 @@
+a clipper with automatic mark space ratio control a
+    rectangular wave with mark space ratio independent of the
+    amplitude and harmonic content of the input wave is produced by
+    controlling th bias level of the first clipping stage by means
+    of a special feedback circuit incorporating a mark space ratio
+    discriminator

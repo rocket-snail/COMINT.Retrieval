@@ -1,0 +1,9 @@
+some problems on obstacles placed in the path of
+    electromagnetic radiation the relations between the incident
+    reflected and refracted fields at the surface separating two
+    media are studied using vectorial analysis with a system of
+    coordinates attached to the surface both media may be
+    dielectrics or one may be conducting the plane separating
+    surface is discussed first and the analysis is extended to
+    treat diffraction by a sphere exact formulae are derived for
+    the re radiation gain and the total diffusion surface

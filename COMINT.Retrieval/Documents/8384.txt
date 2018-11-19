@@ -1,0 +1,11 @@
+the distribution of temperature along a thin rod
+    electrically heated in vacuo part theoretical an integral
+    expression derived for the temperature distribution can be
+    expanded as a convergent power series for evaluation two
+    regions are defined region a in the middle of the rod and
+    region b the portions outside a in the a region temperature
+    distribution is parabolic in the b region it is practically the
+    same as in the corresponding end region of an infinitely long
+    rod an analytical expression is obtained for the temperat ure
+    at the centre of a rod as a function of its length for a
+    summary of the analysis see

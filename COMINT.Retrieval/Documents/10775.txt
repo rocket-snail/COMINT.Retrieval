@@ -1,0 +1,4 @@
+proposal for a staircase maser a proposal for obtaining
+    amplification at approximately twice the pump frequency in
+    which adiabatic fast passage is used to invert successively the
+    and levels of a three level system

@@ -1,0 +1,4 @@
+the density distribution in the upper atmosphere the
+    results of measurements of atmospheric density made by earth
+    satellites are plotted as a function of altitude in comparison
+    with curves for two model atmospheres

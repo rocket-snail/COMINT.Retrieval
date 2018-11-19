@@ -1,0 +1,5 @@
+on the reception of radio waves from russian earth
+    satellite i observations of bearing and field strength are used
+    to determine the orbit and to estimate regions of reception
+    taking into account the various modes of ionospheric
+    propagation

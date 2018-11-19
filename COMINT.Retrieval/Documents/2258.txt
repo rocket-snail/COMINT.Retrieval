@@ -1,0 +1,4 @@
+an multiplier a relatively simple purely electronic
+    multiplier circuit for differential analysers is described
+    working with an upper frequency limit of for both factors
+    accuracy is within about of full scale

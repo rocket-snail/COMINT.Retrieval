@@ -1,0 +1,7 @@
+scattering of electromagnetic waves at an uneven surface
+    scattering of waves incident at an angle such that no part of
+    the surface is in a shadow is considered theoretically
+    application of the results to two particular cases shows that
+    surfaces of a trochoidal form will give appreciably greater
+    backscatter than a sinusoidal surface of the same amplitude and
+    wavelength

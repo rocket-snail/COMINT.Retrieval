@@ -1,0 +1,6 @@
+a nonlinear low frequency instability phenomenon in audio
+    amplifiers under certain conditions af amplifiers with feedback
+    may show instability at low frequencies which is not
+    predictable by conventional linear analysis the problem is
+    analyzed theoretically with supporting experimental results and
+    a technique given for reducing the nonlinear effect

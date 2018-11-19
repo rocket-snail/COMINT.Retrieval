@@ -1,0 +1,4 @@
+a nonlinear resistance capacitance circuit an amplifier
+    in a negative feedback loop is used to provide the nonlinear
+    resistance in an analogue equipment representing air pressure
+    variations

@@ -1,0 +1,7 @@
+an overview of computer graphics technology and
+    applications. the integration of information technologies' data
+    processing, communications, display, and ergonomics; are
+    examined in light of recent developments in computer graphics.
+    a review of technical improvements of the past 2 years is
+    given, followed by a discussion of the applications of computer
+    graphics and future developments.

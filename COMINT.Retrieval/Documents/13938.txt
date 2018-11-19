@@ -1,0 +1,4 @@
+an experimental investigation of the method for obtaining
+    an optimum amplitude phase modulation a report on experiments
+    confirming the main premises of the theory of the method
+    proposed by tetelbaum see

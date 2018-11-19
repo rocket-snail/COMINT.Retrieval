@@ -1,0 +1,3 @@
+citation analysis' a new tool for the modern librarian.
+    an account of the nature of citation analysis, its history, and
+    its uses.

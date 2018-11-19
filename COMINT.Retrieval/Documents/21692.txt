@@ -1,0 +1,10 @@
+dc ac converter utilizing the space charge capacitance of
+    a valve two circuits are described for converting feeble dc to
+    ac prior to amplification for measurement purposes both make
+    use of the variation of grid cathode capacitance with the
+    voltage applied to the grid the first circuit using a bridge
+    balanced for a certain value of the grid cathode capacitance so
+    that any variation produces a proportionate deflection of a
+    meter the second circuit uses a balanced arrangement of two
+    valves with a differential transformer zero stability is good
+    in both cases

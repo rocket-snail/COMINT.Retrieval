@@ -1,0 +1,4 @@
+detailed balance limit of efficiency of pn junction solar
+    cells a theoretical upper limit for efficiency is deduced
+    assuming that recombination is entirely radiative maximum
+    efficiences of are found

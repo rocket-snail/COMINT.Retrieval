@@ -1,0 +1,8 @@
+a band pass filter with active elements the design of a
+    filter amplifier is described in which impedance inversion and
+    loss compensation are achieved using two npn junction
+    transistors type in an arrangement based on the valve circuit
+    described by harris of the centre frequency of the filter is
+    and the bandwidth is and at the and points respectively a
+    complete unit shown includes a third transistor with grounded
+    emitter connection and gives an overall gain of db

@@ -1,0 +1,7 @@
+some properties of concentrated and dilute heisenberg
+    magnets with general spin the constant coupling approximation
+    is used to obtain the thermodynamic properties of a heisenberg
+    ferromagnet above the transition temperature and the
+    dependendence of these properties on magnetic concentration in
+    an alloy is c considered z antiferromagnets are also
+    discussed

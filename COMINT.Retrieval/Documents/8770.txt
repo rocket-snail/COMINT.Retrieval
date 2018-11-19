@@ -1,0 +1,2 @@
+exponential curve fit (algorithm 295 [e2]) february, 1967
+    spath, h. ca670203a jb february 28, 1978 3:57 pm

@@ -1,0 +1,12 @@
+interlibrary loan cost study and comparison. details how
+    much a manual, non-automated adaptation of vernon e. palmour's
+    study on interlibrary loan costs, characteristics, and
+    magnitude was designed and implemented to show ill costs at the
+    university of oklahoma. it is hoped that other non-automated
+    institutions could use the ou methodology as a point of
+    departure for cost studies of their own. results of the ou
+    study are compared with the palmour study, which was published
+    in 1972. the cost of a borrowing transaction was $4.98 ou,
+    $7.61 palmour. a filled lending transaction cost $5.45 ou,
+    $4.67 palmour, an unfilled lending transaction cost $5.40 ou,
+    $2.12 palmour.

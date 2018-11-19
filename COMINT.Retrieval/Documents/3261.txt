@@ -1,0 +1,7 @@
+characteristics of an elliptical electromagnetic resonant
+    cavity operating in the te mode equations and graphs are
+    presented of the resonant wavelength and quality factor of
+    elliptical resonant cavities operating in the te mode both
+    components of this mode are treated and distinctive
+    characteristics of each are shown as a function of eccentricity
+    of the cavity

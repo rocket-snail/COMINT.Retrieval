@@ -1,0 +1,5 @@
+the tunnel diode pair the composite characteristic of the
+    twin circuit is considered and its application in the design of
+    astable monostable and bistable multivibrators is illustrated
+    trigger requirements and effects of loading can also be
+    determined

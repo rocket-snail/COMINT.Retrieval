@@ -1,0 +1,10 @@
+new petred of solution for unretarded satellite orbits an
+    axially symmetric solution of laplaces equation in oblate
+    spheroidal coordinates is found which may be used as the
+    gravitational potential about an oblate planet this potential
+    which makes the hamilton jacobi equation for a satellite orbit
+    separable has an expansion in zonal harmonics in which the
+    amplitudes of the zeroth and second harmonics can be adjusted
+    to agree exactly with the values for any axially symmetric
+    planet and a fourth harmonic which then agrees approximately
+    with the latest value for that of the earth

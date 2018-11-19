@@ -1,0 +1,4 @@
+contribution on the calculation of the total impedance of
+    parallel connected impedances a method of calculation involving
+    use of a special transparent rule and a simple nomogram is
+    described and illustrated by a numerical example

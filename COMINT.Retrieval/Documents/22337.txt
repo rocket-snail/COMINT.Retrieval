@@ -1,0 +1,19 @@
+ionospheric absorption measurements during a sunspot
+    cycle detailed discussion of the results of the results of
+    measurements referred to in of variation of atmospheric
+    absorption with frequency where is the effective ionospheric
+    reflection coefficient is accounted for by magneto ionic theory
+    provided that where is the electron collision frequency and is
+    the gyrofrequency corresponding to the vertical component of
+    the geomagnetic field examination of diurnal variation shows
+    the average value of n in the relation where is the solar
+    zenith distance to be against the value given by simple theory
+    possible explanations of this are considered excessive
+    absorption on certain groups of days during th months november
+    february is directly correlated with the occurrence of sporadic
+    reflecting strata below e layer height noon measurements over
+    years show a general correlation of log with sunspot number r
+    more pronounced in summer than in winter general conclusions
+    drawn are that the normal absorbing stratum is located in the d
+    region and sudden disturbances associated with solar flares are
+    probably due to increased ionization in this layer

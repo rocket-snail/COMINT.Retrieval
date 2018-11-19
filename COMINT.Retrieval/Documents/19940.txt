@@ -1,0 +1,4 @@
+new hollow cathode glow discharge current densities of
+    can be obtained with a cathode consisting of a refractory metal
+    with a spherical cavity in neon stable characteristics at a few
+    milliamperes are obtained

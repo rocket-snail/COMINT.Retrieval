@@ -1,0 +1,4 @@
+design for a watt high quality amplifier part details are
+    given of the circuit lay out and performance of an amplifier
+    with an output stage of two type el high slope pentodes in push
+    pull with partial screen grid loading part of july

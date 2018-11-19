@@ -1,0 +1,10 @@
+a direct current amplifier stage with asymmetrically
+    earthed input a push pull cathode follower circuit is used with
+    two valves having dissimilar characteristics and a special
+    resistance coupling the usual phase reversing stage being
+    omitted analysis is presented on the basis of a parabolic
+    approximation to the characteristics design procedures for
+    ensuring the requisite quiescent current and linearity
+    conditions are indicated a numerical determination is made of
+    the operating point for a circuit using one and one
+    valve

@@ -1,0 +1,5 @@
+a note on the back scattering by an infinite strip the
+    first few terms in the asymptotic series of the back scattering
+    cross section of an infinite strip lying in a plane
+    perpendicular to the direction of propagation of an em wave are
+    calculated for all angles of incidence

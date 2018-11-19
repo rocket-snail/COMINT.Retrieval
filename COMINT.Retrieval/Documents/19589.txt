@@ -1,0 +1,4 @@
+on electrical network determinants four theorems dealing
+    with the relation between the loop determinant and the node
+    determinant of a network are presented with examples of their
+    application

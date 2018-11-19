@@ -1,0 +1,7 @@
+the brownian movement of linear and nonlinear systems the
+    application of brownian movement analysis to systems with a
+    nonlinear relaxation mechanism eg electrical conductivity is
+    considered a statistical hypothesis is proposed which enables a
+    calculation to be made of the brownian movement and
+    corresponding frequency spectrum of such systems the results
+    are relevant to the study of electrical noise

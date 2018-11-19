@@ -1,0 +1,6 @@
+reduction of the distortion of pulse fronts in transistor
+    video amplifiers methods are described for reducing the
+    distortion of leading edges caused by diffusion and other
+    effects in the transistor base region compensating circuits are
+    analysed and phase and amplitude response curves are
+    given

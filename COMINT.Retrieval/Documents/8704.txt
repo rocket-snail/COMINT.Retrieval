@@ -1,0 +1,9 @@
+influence of magnetic field on convective instability in
+    the atmospheres of stars and in the ionosphere of the earth the
+    case of a medium with anisotropic electrical and thermal
+    conductivities is considered in a plasma which does not contain
+    a large number of neutral particles the calculated influence of
+    the magnetic field on convection is essentially different from
+    that predicted by the magnetohydrodynamic approximation in the
+    ionosphere the influence of the magnetic field is small owing
+    to the presence of a large number of molecules

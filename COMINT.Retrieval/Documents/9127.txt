@@ -1,0 +1,4 @@
+automatic failure recovery in a digital data processing
+    system a program is described which automatically compensates
+    for computer malfunctions so that recovery from errors may be
+    effected with a negligible loss of operational time

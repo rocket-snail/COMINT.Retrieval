@@ -1,0 +1,3 @@
+correlation of spread f activity with f region height
+    changes the analysis employs a new index of spread f activity
+    suited to equatorial phenomena

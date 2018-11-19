@@ -1,0 +1,9 @@
+impedance transformation of linear terminal networks if
+    outlets of a terminal network are terminated by variable
+    reactances the resulting quadripole represents a variable
+    transformer as the value of these reactances varies between the
+    input impedance assumes all values of the transforming range
+    this range does not include the entire right hand half of the
+    complex impedance plane but only circular areas thereof an
+    equation is derived for determining these circles the method is
+    demonstrated in relation to a waveguide hybrid t

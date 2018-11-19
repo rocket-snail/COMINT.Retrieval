@@ -1,0 +1,4 @@
+on the switching time of subharmonic oscillators the time
+    necessary to change the phase of an idealized subharmonic
+    parametric oscillator by is calculated for various values of
+    pump power and switching power

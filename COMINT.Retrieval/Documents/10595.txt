@@ -1,0 +1,4 @@
+bootstrapped differential amplifier with reduced common
+    mode effects a common mode signal of changes the differential
+    gain of the circuit by or less full scale deflection can be
+    obtained on a recorder with input

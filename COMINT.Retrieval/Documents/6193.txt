@@ -1,0 +1,7 @@
+a ferrite frequency modulator the modulator described
+    comprises a ferroxcube ring carrying a rf winding and located
+    in the gap of a ni fe core carrying lf and polarizing windings
+    it is suitable for operation over the frequency range from to
+    uhf with slight modifications its demodulated distortion is at
+    an oscillator frequency of and a frequency deviation and at and
+    respectively

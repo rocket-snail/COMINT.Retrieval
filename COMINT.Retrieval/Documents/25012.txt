@@ -1,0 +1,4 @@
+a new german differential analyser for differential
+    equations a mechanical instrument built for the institute of
+    applied mathematics university of bonn and comprising eight
+    integrators

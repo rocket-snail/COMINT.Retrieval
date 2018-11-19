@@ -1,0 +1,12 @@
+machine-readable data files of government publications.
+    new sources of machine-readable data on drug use, crime and
+    aging. brief descriptions of 3 us university-based special
+    subject centres whose primary purpose is to collect, process,
+    document, and disseminate machine-readable data files for
+    secondary analysis' the drug abuse epidemiology data center (at
+    the institute of behavioral research, texas christian
+    university, fort worth), the criminal justice archive and
+    information network (under the auspices of the inter-university
+    consortium for political and social research), and the national
+    archive of computerized data on aging (also under the
+    consortium's auspices).

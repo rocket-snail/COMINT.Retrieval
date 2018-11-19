@@ -1,0 +1,6 @@
+discoidal vs tubular feed through capacitors tubular and
+    disk type ceramic feed through capacitors for filtering
+    purposes are compared in respect of their coupling impedance
+    and its frequency dependence the disk type is superior as
+    regards hf performance and mechanical ruggedness the necessary
+    improved shielding methods are described

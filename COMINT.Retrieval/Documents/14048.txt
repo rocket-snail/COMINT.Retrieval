@@ -1,0 +1,9 @@
+a term weighting model based on utility theory. 3
+    information retrieval term-weighting models (inverse document
+    frequency, term discrimination value, and term precision) are
+    described and related to one another using utility theory as an
+    evaluation model. demonstrates that all 3 lead to the same
+    conclusion' when term independence and binary indexing
+    (non-weighted) are initially assumed, the most important terms
+    exhibit medium frequency and the worst ones are the high
+    frequency terms.

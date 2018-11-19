@@ -1,0 +1,4 @@
+small universal computing machine with magnetic ferrite
+    elements lem one description of the development and operation
+    of a digital computer using contactless ferrite core storage
+    and logic elements and a capacitive permanent store

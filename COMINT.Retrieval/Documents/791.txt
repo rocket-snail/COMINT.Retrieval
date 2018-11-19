@@ -1,0 +1,8 @@
+the general methods of the station lindau harz ffr the
+    determination of the true electron density distribution in the
+    ionrsphere three methods assuming longitudinal propagation for
+    the extraordinary ray and two correction methods for the
+    reduction of the ordinary and extraordinary ray traces these
+    two metrods are used to determine the corrections to be applied
+    to the profile of the reference layer previously obtained by a
+    comparison method to obtain the true profile

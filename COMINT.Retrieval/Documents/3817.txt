@@ -1,0 +1,9 @@
+factors affecting document delivery systems' present and
+    future. the paper examines the current state of document
+    delivery and analyses the factors involved in some existing
+    north american and european services. it suggests that factors
+    studied so far are not those which are really important, and
+    further suggests that there is a great deal of confusion and
+    misconceptions surrounding debate on document delivery. some
+    factors are proposed for examination which are more fundamental
+    to the design of document delivery systems.

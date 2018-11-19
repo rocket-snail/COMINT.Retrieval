@@ -1,0 +1,4 @@
+on intermittent discharges in air at low pressure an
+    experimental investigation is reported of the dependence of the
+    discharge frequency on the gas pressure and electrode
+    separation

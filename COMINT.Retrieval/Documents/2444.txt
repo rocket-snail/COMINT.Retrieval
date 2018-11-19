@@ -1,0 +1,5 @@
+medical subject headings' tree structures, 1982. all
+    medical subject headings currently in use by the national
+    library of medicine's indexers, cataloguers, and searchers are
+    arranged in a hierarchical manner showing relationships between
+    broader and narrower terms.
