@@ -1,6 +1,6 @@
 %%Parameters:
 original_audio_dir = 'D:\GitHub\COMINT.Retrieval\COMINT.Retrieval\Documents\audio';
-noisy_audio_dir = 'D:\GitHub\COMINT.Retrieval\NoiseGenerator\NoisedAudioFiles';
+noisy_audio_dir = 'D:\GitHub\COMINT.Retrieval\NoiseGenerator\NoisedAudioFiles2';
 block_length_noise = 50000;
 
 
@@ -35,9 +35,9 @@ for k = 1 : length(files)
     matrix = matrix.';
     
     %Multiply nosie matrix with original audio file
-    noisySound = perfectSound +  (0.1 * randn(length(perfectSound), 1)) .* matrix;
+    noisySound = perfectSound .* ~matrix +  (0.1 * randn(length(perfectSound), 1)) .* matrix;
     %Write noise audiofile
     audiowrite(strcat(noisy_audio_dir, '\noised_',filemat(k+2,1).name),noisySound, freq);
+    fprintf(strcat('finished  ', int2str(k),'\n'));
 end
 
-fprintf('finished');
