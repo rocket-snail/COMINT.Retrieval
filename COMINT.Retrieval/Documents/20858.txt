@@ -1,6 +1,0 @@
-on the waveform of a radio atmospheric at short ranges
-    calculated values for the waveform at various distances up to
-    from the discharge are shown graphically the ionospherically
-    reflected wave is not taken into account and the discharge
-    producing the atmospheric is represented by an idealized
-    function

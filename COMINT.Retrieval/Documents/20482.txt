@@ -1,5 +1,0 @@
-meteor radiant distributions and the radio echo rates
-    observed by forward scatter the diurnal variations observed by
-    forward scatter over three different paths are found to be in
-    reasonable agreement with predictions made using a simplified
-    model distribution based on the radar data of hawkins

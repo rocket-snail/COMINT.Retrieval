@@ -1,4 +1,0 @@
-using digital techniques in time encoders a decimal
-    indication of the elapsed time is given every twenty seconds
-    the output is suitable for either magnetic tape or paper chart
-    recorders

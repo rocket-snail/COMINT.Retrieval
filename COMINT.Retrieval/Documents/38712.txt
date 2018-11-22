@@ -1,4 +1,0 @@
-sealed room experiments on the equilibrium of ionization
-    in air an attempt to determine the correct form of the equation
-    by making measurements of as many of the quantities appearing
-    in the equation as possible

@@ -1,6 +1,0 @@
-high q low frequency resonant filters two resonant
-    filters are described in which a q factor is obtained by
-    application of positive feedback normal methods used for q
-    measurement are of little use on these circuits a method based
-    on the relation of q to the transient response is
-    described

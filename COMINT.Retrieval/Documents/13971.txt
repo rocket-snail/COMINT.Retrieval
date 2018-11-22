@@ -1,9 +1,0 @@
-problems in the simulation of bibliographic retrieval
-    systems. presents a formal probabilistic logical model of a
-    bibliographic retrieval system which can be used as a basis for
-    the computer simulation of information retrieval from a
-    bibliographic data base. describes a specific implementation of
-    the model and assess how well the implementation was able to
-    simulate the cranfield ii and medlars retrieval test
-    collections at cornell university's computer science
-    department.

@@ -1,8 +1,0 @@
-effective current and efficiency of small mains supply
-    units with capacitively terminated rectifiers when a mains
-    transformer is wholly or partially loaded by a capacitively
-    terminated rectifier network the effective value of the
-    rectifier current pulses is determinative for the copper losses
-    and the waveform distortion for the magnetic losses effective
-    current and efficiency curves are presented for various simple
-    types of rectifier circuits

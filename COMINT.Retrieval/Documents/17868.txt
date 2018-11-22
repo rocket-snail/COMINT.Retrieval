@@ -1,9 +1,0 @@
-hereditary dynamic systems with discontinuities the
-    characteristics distinguishing nonlinear from linear
-    oscillations are examined a class of dynamic systems termed
-    discontinuous is defined cases are discussed for which
-    poincares topological methods can be used to determine the
-    periodic solutions and the stability such systems are included
-    in the larger class of hereditary systems defined by volterra
-    ie systems whose operation is affected by their previous
-    history

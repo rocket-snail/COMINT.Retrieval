@@ -1,4 +1,0 @@
-the properties and design of ring modulators treatment on
-    the basis of quasilinear quadripole theory of experimentally
-    determined characteristics and design parameters of ring
-    modulators

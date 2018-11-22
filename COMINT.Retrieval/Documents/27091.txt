@@ -1,7 +1,0 @@
-magnetic switching circuits magnetic circuits to produce
-    the logical operations of and and or are described which may be
-    combined to produce any switching function of any number of
-    input binary variables the only components used are magnetic
-    cores wire and resistors there is no extremely sensitive
-    parameter in these circuits which must be adjusted carefully in
-    order to ensure proper operation

@@ -1,5 +1,0 @@
-distributed data processing. 1964-october, 1981
-    (citations from the ntis data base). the bibliography of
-    federally-funded research cites studies on the concepts,
-    design, development, implementation, and application of
-    distributed data bases.

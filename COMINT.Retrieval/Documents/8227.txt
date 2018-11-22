@@ -1,3 +1,0 @@
-solving thermistor problems the methods of designing
-    circuits incorporating thermistors are illustrated by giving
-    three particular cases

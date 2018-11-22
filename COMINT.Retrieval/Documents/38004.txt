@@ -1,8 +1,0 @@
-theory of coupled endovibrators a system of two cavity
-    resonators coupled by means of a narrow slot in their common
-    wall is considered theoretically two classes of oscillations
-    are considered those whose frequencies are determined primarily
-    by the length of the slot and are nearly independent of the
-    shape of the resonators those whose frequencies are near the
-    frequencies of the oscillations in the resonators when not
-    coupled

@@ -1,9 +1,0 @@
-an open system theory approach to library effectiveness.
-    briefly discusses the measurement of library effectiveness
-    using the open system theory of organisations and a model for
-    evaluation of academic libraries appropriate to the open
-    system. discusses the results of a 1955 research project in
-    which they were used (evaluation of college libraries for
-    accreditation purposes, by alan dale covey, stanford university
-    edd dissertation) and makes suggestions for future research in
-    this area.

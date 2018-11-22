@@ -1,6 +1,0 @@
-steady state distribution function in dilute electron
-    gases the effects determining the distribution function of
-    optically liberated carriers are investigated for a simple
-    model semiconductor significant deviations from the boltzmann
-    distribution are possible at temperatures below a few degrees
-    kelvin

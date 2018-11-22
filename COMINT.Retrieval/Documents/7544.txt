@@ -1,3 +1,0 @@
-the ascii code. describes the american standard code for
-    information interchange (ascii) system for the representation
-    of information within the memory of microcomputers.

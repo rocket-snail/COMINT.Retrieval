@@ -1,4 +1,0 @@
-how quickly does a twin t respond the response to three
-    different input waveforms is examined using the laplace
-    transformation in all cases the output transient is negligible
-    after cycles of the resonance frequency of the network

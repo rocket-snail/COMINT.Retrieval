@@ -1,6 +1,0 @@
-synthesis of series parallel network switching functions
-    from the switching functions of n variables those which
-    correspond to networks are abstracted and called network
-    functions properties of those network functions corresponding
-    to series parallel networks are studied and a method for
-    synthesis is developed

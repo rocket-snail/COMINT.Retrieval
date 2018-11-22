@@ -1,5 +1,0 @@
-diode steering increases speed of magnetic memories by
-    using the recovery time of junction diodes for half selection
-    of the same word during the second half of a read or store
-    operation a cycle time is achieved in a magnetic storage system
-    with word capacity

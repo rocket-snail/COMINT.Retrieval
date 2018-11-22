@@ -1,6 +1,0 @@
-the design of filters with the aid of the catalogue of
-    normalized low pass filters filter design by the insertion loss
-    method is facilitated by the use of tables prepared with the
-    aid of an electronic computer see of the design of tchebycheff
-    type and cauer parameter low pass filters is considered in
-    detail

@@ -1,2 +1,0 @@
-chebyshev quadrature (algorithm 279 [d1]) may, 1967
-    hillstrom, k. ca670506e jb march 23, 1978 4:04 pm

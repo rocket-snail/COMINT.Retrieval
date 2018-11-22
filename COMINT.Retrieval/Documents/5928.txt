@@ -1,5 +1,0 @@
-pulsed coherent generation of millimetre waves by
-    nonrelativistic electron bunches the production of microwaves
-    by bunched electron beams incident on metallic or dielectric
-    anticathodes or by interaction with strong localized fields is
-    briefly discussed and energy relations are stated

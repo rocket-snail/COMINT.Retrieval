@@ -1,8 +1,0 @@
-the selenium rectifier in digital computer circuits
-    results are reported of an investigation of the birkbeck
-    college computer with the object of replacing valves by more
-    reliable elements where possible measurements indicate that
-    diameter se disk rectifiers are suitable for use as shift
-    diodes buffer isolators gating elements coincidence sensing
-    units and decoding matrix elements in computers where the
-    frequency of operation does not exceed

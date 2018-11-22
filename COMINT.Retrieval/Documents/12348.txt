@@ -1,3 +1,0 @@
-tunable cavity for x band oscillators a rectangular
-    waveguide tuner for external cavity reflex klystrons is
-    described

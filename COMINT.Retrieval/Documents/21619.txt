@@ -1,2 +1,0 @@
-transistor active filters using twin t rejection
-    networks

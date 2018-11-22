@@ -1,6 +1,0 @@
-optimum matching of symmetrical low pass and high pass
-    filters application to low pass and high pass ladder filters
-    using piezoelectric crystals a filter structure is suggested
-    which is especially suitable for use with crystal elements
-    advantages and disadvantages of this and similar structures are
-    discussed

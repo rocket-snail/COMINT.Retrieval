@@ -1,5 +1,0 @@
-law of electric conduction for waves in the ionosphere
-    the law of electric conduction has been derived as for transver
-    waves propagated along a strong external magnetic field in a
-    slightly ionized gas the results have been applied to waves in
-    the ionosphere

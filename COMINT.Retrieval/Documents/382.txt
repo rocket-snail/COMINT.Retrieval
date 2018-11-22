@@ -1,9 +1,0 @@
-the two helix method of polarization measurement of
-    meteoric radio echoes an arrangement for investigating the
-    polarization of radio echoes from meteors uses two helical
-    receiving aerials wound in opposite senses in conjunction with
-    a helical transmitting aerial the received signals are combined
-    and displayed on a operating wavelength is and power output is
-    the method is applicable to sporadic meteors results are in
-    good agreement with theoretical values and with measurements
-    made on shower meteors by

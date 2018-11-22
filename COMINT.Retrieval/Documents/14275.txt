@@ -1,5 +1,0 @@
-a study of layer effects as observed with a doppler
-    technique frequency changes in the radio waves arriving at
-    boulder colarado from are measured the frequency dependence of
-    these changes is shown to give information about the heights of
-    ionospheric disturbances

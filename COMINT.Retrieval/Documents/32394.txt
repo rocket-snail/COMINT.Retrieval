@@ -1,7 +1,0 @@
-fosdic a film optical sensing device for input to
-    computers an instrument is described for processing written
-    records such as answers to questionnaires marks made with
-    ordinary pen or pencil at special locations on microfilm are
-    converted are converted into electrical pulses by means of a
-    flying spot scanning system the pulses are recorded on magnetic
-    tape for input to the computer see also

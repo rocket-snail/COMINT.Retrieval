@@ -1,1 +1,0 @@
-ae cathode resistor in the quiescent case

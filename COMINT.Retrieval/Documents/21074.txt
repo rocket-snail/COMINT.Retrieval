@@ -1,3 +1,0 @@
-modulators and frequency changers for research
-    development and maintenance engineers high power transmitting
-    modulators are not treated

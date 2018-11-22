@@ -1,6 +1,0 @@
-cosmic noise absorption measurements at stanford
-    california and pullman washington the absorption was measured
-    at using a riometer after making allowances for the diurnal vz
-    variations due to absorption in the d and f layers a residual
-    diurnal variation remains which has not yet been
-    explained

@@ -1,9 +1,0 @@
-design of data communications systems for viewdata. use
-    of viewdata systems, particularly private systems, is
-    considered. a brief introduction to interactive videotex
-    systems is given with some definitions of terms. the
-    attractions for companies of this type of system are outlined,
-    followed by a discussion of equipment which is used either for
-    accessing public systems or for private systems. some
-    comparison is made between uk and dutch systems, and techniques
-    of data communication are discussed.

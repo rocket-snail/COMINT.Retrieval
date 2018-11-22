@@ -1,6 +1,0 @@
-air density variations in the mesosphere and the winter
-    anomaly in ionospheric absorption the air density variations
-    observed in winter by jones et al may indicate air movements
-    which could cause an enhancement of the no content and give
-    rise t in turn to increased ionization and radio wave
-    absorption

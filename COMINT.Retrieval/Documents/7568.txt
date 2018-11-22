@@ -1,6 +1,0 @@
-some new aspects of colour perception computed
-    theoretical figures based on mathematical analysis are shown to
-    be in good agreement with empirical results of land an
-    explanation is given in terms of classical colour perception
-    theories in conjunction with the experimental psychological
-    phenomenon of colour transformation

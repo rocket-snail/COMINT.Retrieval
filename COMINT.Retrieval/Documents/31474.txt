@@ -1,5 +1,0 @@
-beam type masers for radio frequency spectroscopy the
-    behaviour of the beam type maser is considered theoretically
-    with particular regard to sensitivity and line width
-    experimental results for a formaldehyde transition are given
-    for comparison

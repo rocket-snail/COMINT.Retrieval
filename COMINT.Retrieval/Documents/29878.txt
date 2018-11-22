@@ -1,2 +1,0 @@
-noise and noise free two port networks treated by the
-    isometric circle method see

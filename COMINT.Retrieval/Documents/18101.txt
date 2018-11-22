@@ -1,5 +1,0 @@
-design procedure for crystal lattice filters the
-    technique of filter design is described and formulae for the
-    electrical and mechanical constants of cut quartz crystals are
-    given a bridge net work of two divided electrode crystals
-    operating at has an image impedance of

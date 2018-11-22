@@ -1,9 +1,0 @@
-new array for radio astronomical observations of the suns
-    brightness at equipment installed at marcoussis comprises four
-    identical parabolic mirrors of diameter located respectively at
-    and along an line where the four aerials are connected to a
-    single receiver by lines of equal length the overall length of
-    this array is as compared with for a continuous mirror to give
-    the same ha half power lobe width the arrangement enables the
-    first six fourier harmonics of the brightness distribution over
-    the sun to e be observed at true amplitude

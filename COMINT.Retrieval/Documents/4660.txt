@@ -1,6 +1,0 @@
-exact nonlinear plasma oscillations a solution is given
-    for the problem of a one dimensional stationary nonlinear
-    electrostatic wave in a plasma free from inter particle
-    collisions in the limiting case of small amplitude waves the
-    linearized theory can still be applied by using singular first
-    order distribution functions

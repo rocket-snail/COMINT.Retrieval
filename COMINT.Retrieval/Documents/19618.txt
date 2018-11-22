@@ -1,3 +1,0 @@
-simplified impurity calculation the methods developed
-    previously of march are used to investigate the case of a local
-    perturbation in a simple cubic lattice

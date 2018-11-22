@@ -1,8 +1,0 @@
-experimental two beam excitation of electron oscillations
-    in a plasma without sheaths coherent standing waves of
-    longitudinal electron oscillations have been excited in a
-    plasma bx two independent oppositely directed electron beams
-    whose axes coincided there were no sheaths on the electrodes
-    from which the electron stream entered the plasma results of
-    single beam experiments looney and brown using either equal or
-    unequal sheaths are verified

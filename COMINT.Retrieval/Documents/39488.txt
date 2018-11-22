@@ -1,7 +1,0 @@
-decision support systems in libraries. the use of
-    computers and management science/operations research in
-    libraries is reviewed. the concept of a decision support system
-    (dss) is introduced. dss can be viewed as a synthesis of the
-    use of computers and quantitative methods to assist librarians
-    in managerial decision-making situations. an example of a dss
-    application for a medium-sized library is described.

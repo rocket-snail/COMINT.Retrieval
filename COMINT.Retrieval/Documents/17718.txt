@@ -1,4 +1,0 @@
-motion of an electron in a magnetic undulator rigorous
-    solutions are obtained for the equations are obtained for the
-    equations of motion of an electron in a millimetre wave
-    generator of the type described by motz et al of

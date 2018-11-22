@@ -1,4 +1,0 @@
-increasing quartz oscillator stability brief description
-    of a quartz servo oscillator forming part of frequency standard
-    equipment type a frequency error of less than in occurs for a
-    change in supply voltage or change in temperature

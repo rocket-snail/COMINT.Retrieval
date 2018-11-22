@@ -1,8 +1,0 @@
-rocket measurements of electron concentration in the
-    ionosphere by means of an ultra short wave dispersion
-    interferometer investigations have been carried out since at
-    heights up to using rockets equipped with transmitters
-    operating at and signals were recorded at the ground by two
-    different oscillographic methods results indicate that the true
-    height of f layer reflections is km lower than the effective
-    height recorded by an ionospheric sounder

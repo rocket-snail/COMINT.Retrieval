@@ -1,8 +1,0 @@
-long life contacts for unidirectional currents of amperes
-    an experimental investigation was made of fundamental physical
-    phenomena concerned in the operation of contacts in vibratory
-    converters the influence of voltage and current on the
-    direction of migration of material was studied long life was
-    obtainable with pt contacts or with contacts of dissimilar
-    metals but on heavy duty an adequate life was obtained only
-    with w contacts in a low oxygen atmosphere

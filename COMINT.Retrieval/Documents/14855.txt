@@ -1,7 +1,0 @@
-bootstrap circuit technique the normal amplifier the
-    cathode follower and the anode follower are shown to comprise a
-    set of four circuits related to one another by simple circuit
-    transformations three methods of excitation are distinguished
-    each circuit may be put into feedback form and the four basic
-    feedback configurations applicable to bootstrap amplifiers are
-    given a number of practical examples are described

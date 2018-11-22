@@ -1,4 +1,0 @@
-voltage dependence of electroluminescent brightness an
-    equation of the form relating the brightness l to the voltage v
-    is found to fit experimental data well a b and v being
-    constants

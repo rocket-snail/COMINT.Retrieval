@@ -1,8 +1,0 @@
-three phase transductor circuits for magnetic amplifiers
-    various transductor connections for phase operation are
-    described a element circuit with separate excitation and a
-    element circuit with auto excitation are discussed in detail a
-    theoretical and experimental comparison is made between single
-    phase and phase circuits the latter should be used where
-    balanced loading of the supply is sufficiently desirable to
-    compensate for the increased circuit complexity

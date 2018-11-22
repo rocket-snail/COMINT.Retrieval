@@ -1,5 +1,0 @@
-gain optimization in low frequency parametric up
-    converters by multi diode operation a method is proposed for
-    optimizing the gain of an up converter using more than one
-    variable capacitance diode at the same point results of a first
-    order analysis made with two diodes are given

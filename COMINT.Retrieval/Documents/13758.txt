@@ -1,4 +1,0 @@
-diffraction of electromagnetic waves in a band of finite
-    width brief mathematical analysis based on a new method for
-    solving integral equations similar to the fredholm
-    equations

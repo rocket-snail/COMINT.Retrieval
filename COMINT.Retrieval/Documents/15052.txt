@@ -1,7 +1,0 @@
-the riometer a device for the continuous measurement of
-    ionospheric absorption a description of an instrument for the
-    measurement of ionospheric absorption at high latitudes during
-    the igy using the cosmic noise method see of the circuit
-    details of this self balancing equipment are given and its
-    advantages over the system of total power measurement are
-    discussed

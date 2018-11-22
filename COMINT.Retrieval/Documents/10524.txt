@@ -1,6 +1,0 @@
-research paper deposit system. a report on the soviet
-    deposit scheme for research papers in specialist fields.
-    projects growth dynamics for the number of manuscripts accepted
-    by depositories; describes the work of the depositories; and
-    dwells on the new stage in the evolution of depositing which
-    came with the introduction of new deposit laws.

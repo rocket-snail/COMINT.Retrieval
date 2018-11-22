@@ -1,8 +1,0 @@
-a unitary design system for band pass filters of the
-    zobel and laurent types a systematic representation of the
-    properties of band pass filters based on the wave parameter
-    theory is followed by the development of general design
-    formulae for band pass half sections including the zigxag
-    filters of laurent the system is based on cauers classification
-    of q functions supplemented by some intermediate
-    functions

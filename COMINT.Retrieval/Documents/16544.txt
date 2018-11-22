@@ -1,6 +1,0 @@
-some aspects of the logical and circuit design of a
-    digital field computer a new type of digital computer for the
-    solution of field problems is described by making calculations
-    at all the lattice points of the field simultaneously
-    computation time is greatly reduced an experimental design of a
-    basic unit for potential and other problems is presented

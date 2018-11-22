@@ -1,5 +1,0 @@
-a reciprocal theorem on quasilinear wave filters under
-    certain conditions the power of an intermodulation product
-    measured at one pair of terminals of a filter equals that
-    measured at the other pair when all signals are transmitted in
-    the opposite direction but at unchanged levels

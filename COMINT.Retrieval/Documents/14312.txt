@@ -1,2 +1,0 @@
-hodac sets of eigenvectors for volumes of
-    revolution

@@ -1,6 +1,0 @@
-study of the induced electric discharge in rare gases
-    experiments were performed using a tube of a few centimetres
-    diameter and a frequency of aspects investigated included the
-    conditions for starting the discharge and the radiation from
-    the discharge theory is developed giving a quantitative
-    explanation of the experimental results

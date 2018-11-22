@@ -1,6 +1,0 @@
-some types of low noise amplifier a discussion of the
-    advantages and disadvantages of vacuum tubes transistors masers
-    parametric amplifiers and tunnel diodes used in the
-    construction of low noise amplifiers for the frequency range
-    some experimental results are given and frequency ranges
-    suggested for the devices

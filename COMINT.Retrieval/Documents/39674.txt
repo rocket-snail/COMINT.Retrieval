@@ -1,8 +1,0 @@
-local map sources: bargains from various agencies.
-    reviews some of the cartographic bargains available from
-    various us agencies other than the commonly used national
-    geographic society, and contending that in west virginia a core
-    collection of local maps may be acquired for $50.00 or less.
-    agencies include the department of highways, west virginia
-    geological and economic survey, and the department of natural
-    resources.

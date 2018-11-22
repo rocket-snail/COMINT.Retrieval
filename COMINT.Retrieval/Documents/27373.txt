@@ -1,7 +1,0 @@
-frequency control of short wave oscillators by means of
-    an electrodeless gas discharge continuation of investigations
-    reported previously with lower oscillator power higher gas
-    pressure and looser feed back coupling a characteristic of
-    quite different type is obtained giving a rapid decrease of
-    frequeecy with increase of anode voltage over a narrow
-    range

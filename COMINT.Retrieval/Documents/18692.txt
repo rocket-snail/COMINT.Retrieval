@@ -1,2 +1,0 @@
-conductivity and viscosity effects on wave propagation in
-    piezoelectric crystals

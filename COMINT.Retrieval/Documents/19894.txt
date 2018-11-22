@@ -1,5 +1,0 @@
-constant current supply for very high resistance loads
-    battery operated transistorized equipment using a photo
-    resistor for current control in the range for any load
-    resistance from zero to is described measured changes in
-    current with various load conditions do not exceed

@@ -1,4 +1,0 @@
-fast single channel pulse amplitude analyser designed for
-    use with proportional of scintillation counters the equipment
-    has a channel edge position stable to within under operation
-    for periods up to hours

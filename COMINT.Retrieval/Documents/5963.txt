@@ -1,5 +1,0 @@
-the ferreed a new switching device properties of a
-    magnetic reed switch responsive to the resonant field of a
-    ferrite are considered switching times are in the microsecond
-    range and dual wanding facilitates coincident pulse control the
-    application to switching arrays is discussed

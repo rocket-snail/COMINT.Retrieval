@@ -1,9 +1,0 @@
-application of electron spin resonance in a microwave
-    oscillator or amplifier a brief analysis indicates the
-    condition for a paramagnetic substance located within a cavity
-    resonator and subjected to a direct magnetic field to supply
-    power instead of absorbing it from the field results of
-    preliminary experiments indicate that it should be possible to
-    produce oscillations using a small sample of si containing a
-    suitable impurity providing a concentration of about
-    paramagnetic centres per

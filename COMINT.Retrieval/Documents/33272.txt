@@ -1,5 +1,0 @@
-a fast method of reading magnetic core memories
-    description of a word bit storage system using a method of core
-    threading suggested by renwick of the system includes a circuit
-    which prevents parasitic pulses from blocking the output
-    amplifiers reducing the cycling time to

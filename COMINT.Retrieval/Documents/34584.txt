@@ -1,9 +1,0 @@
-perturbations of filtered oscillators the amplifier of an
-    oscillator is assumed to be filtered to isolate the fundamental
-    frequency so that the oscillator responds to excitation by a
-    synchronous sinusoidal oscillation an equation for the
-    oscillator perturbations is developed which involves the
-    partial derivatives of the gain and phase from this equation th
-    existence of a synchronization threshold can be demonstrated
-    for the general case when the perturbation is below this
-    threshold frequency pulling occurs

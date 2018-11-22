@@ -1,6 +1,0 @@
-a note on the theory of space charge limited currents the
-    experimental results of branwood and tredgold of january with
-    are explained by a simple model in which there are thin layers
-    of uncharged traps at the surface of the dielectric which are
-    uniformly distributed in space and of one energy depth the bulk
-    of the material contains no traps

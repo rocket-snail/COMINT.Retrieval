@@ -1,8 +1,0 @@
-some not necessarily linear poles composed of linear
-    poles and in some other poles linear relations exist between
-    the voltages and the currents and the resulting impedance
-    matrix is symmetrical a generalization to include nonlinear
-    relations is given by the condition that must be symmetrical in
-    and where is the pd between the and the zeroth terminal and is
-    the current flowing into the terminal examples and properties
-    of such poles are given

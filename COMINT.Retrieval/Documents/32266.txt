@@ -1,4 +1,0 @@
-the scattering matrix of generally interconnected
-    multipoles the scattering matrix of the network is formed by
-    the simple manipulation of matrices based on the scattering
-    matrix of the individual multipoles

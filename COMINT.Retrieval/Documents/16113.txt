@@ -1,5 +1,0 @@
-forming semi permanent memories with metal card storage
-    presence or absence of a metal shield between two closely
-    spaced coils has a large effect on their mutual inductance the
-    principle is used to build a read only memory whose content is
-    determined by thin metal cards

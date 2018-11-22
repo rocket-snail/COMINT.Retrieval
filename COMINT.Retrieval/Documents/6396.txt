@@ -1,4 +1,0 @@
-time averaged effects on charged particles in ac fields
-    the basic theory is developed and applied to plasmas including
-    some cases with a dc magnetic field a bibliography and a
-    critique of theory and experiments are included

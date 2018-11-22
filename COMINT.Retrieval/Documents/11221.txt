@@ -1,6 +1,0 @@
-variable and reversible magnetic fields obtained from a
-    permanent magnet a permanent magnet forms the core of a
-    cylinder whose surface is made of two armco iron shoes and two
-    brass shoes rotation of the cylinder directs the flux either to
-    a shunt or across the gap of the magnet for deflection of an
-    atomic beam

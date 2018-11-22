@@ -1,4 +1,0 @@
-library statistics 1980. tabulated statistics of library
-    provision and services in 19 australian and 7 new zealand
-    university libraries, covering staff, lending, seating, hours,
-    resources, expenditures and university population.

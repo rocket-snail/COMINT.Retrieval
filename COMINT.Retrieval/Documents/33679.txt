@@ -1,3 +1,0 @@
-exact determination of the velocity of an artificial
-    satellite doppler measurements enable the velocity of the
-    satellite to be measured to an accuracy within part in

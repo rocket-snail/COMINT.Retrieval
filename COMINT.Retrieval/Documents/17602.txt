@@ -1,4 +1,0 @@
-overloading effects with cathode compensation further
-    details on cathode compensation of a video stage with rc anode
-    load including compensation for an rc load in the anode of the
-    preceding stage

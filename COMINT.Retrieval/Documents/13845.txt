@@ -1,7 +1,0 @@
-rigorous analysis of the diffraction of electromagnetic
-    waves by strip gratings a solution which is valid without
-    restriction on wavelength angle of incidence polarization or
-    grating constants is obtained in the form of tw fredholm
-    integral equations of the first kind of the same structure as
-    those derived to represent diffraction by slotted diaphragms in
-    rectangular waveguides

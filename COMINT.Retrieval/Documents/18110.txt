@@ -1,7 +1,0 @@
-frequency jumps and pulling effects in coupled circuits
-    the admittance equations for two coupled tuned circuits are
-    formulated and the conditions of oscillation established the
-    minimum width of the frequency jump is derived as a function of
-    coupling and in relation to the pulling properties of the
-    oscillator the limiting conditions for freedom from frequency
-    jumps are given

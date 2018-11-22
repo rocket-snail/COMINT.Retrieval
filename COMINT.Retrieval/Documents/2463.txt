@@ -1,9 +1,0 @@
-a general mathematical treatment applicable to certain
-    electrode systems formulae are developed for a basic system of
-    two coaxial dielectric cylinders of different homogeneous and
-    isotropic media containing an embedded line charge these are
-    applied to determine the field in a circular cylinder electrode
-    system the result being expressed as series converging
-    reasonably rapidly other electrode systems considered are a
-    semi infinite strip an elliptic cylinder and a parabolic
-    cylinder

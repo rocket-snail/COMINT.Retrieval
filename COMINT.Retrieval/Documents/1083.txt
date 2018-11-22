@@ -1,4 +1,0 @@
-transistor amplifiers for sound broadcasting the
-    application of ge p n p junction transistors to various types
-    of high quality amplifier is described an assessment is made of
-    the suitability of transistors for this field

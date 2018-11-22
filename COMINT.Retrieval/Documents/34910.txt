@@ -1,7 +1,0 @@
-generations of harmonics and subharmonics at microwave
-    frequencies with pn junction diodes the performances of a
-    nonlinear resistance and a nonlinear capacitance in a wideband
-    harmonic generator circuit are analysed the nonlinear
-    capacitance is shown to have a considerably higher efficiency
-    results of experiments with a graded junction si nonlinear
-    capacitance diode are given

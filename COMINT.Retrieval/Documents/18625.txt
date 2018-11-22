@@ -1,4 +1,0 @@
-emission absorption and conductivity of a fully ionized
-    gas at radio frequencies classical and quantum mechanical
-    calculations are compared yielding the emission spectrum of
-    free electrons in the coulomb field of positive ions

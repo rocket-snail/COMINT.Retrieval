@@ -1,6 +1,0 @@
-crossover transitions finite rotation operators are used
-    to simplify the calculation of second order crossover
-    transitions for a spin system with trigonal symmetry the
-    resonant frequency and transition probabilities for the
-    crossover transition with negative d or with positive d are
-    calculated

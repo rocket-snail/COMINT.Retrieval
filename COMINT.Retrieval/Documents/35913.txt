@@ -1,4 +1,0 @@
-zener diode creates logarithmic pulse amplifier
-    amplification over three decades is achieved by using as the
-    logarithmic device a zener diode to which a small resistance
-    has been added to straighten the characteristic curve

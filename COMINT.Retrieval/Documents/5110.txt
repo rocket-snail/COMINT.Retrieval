@@ -1,2 +1,0 @@
-nonsymmetrical properties of non linear elements in low
-    and high impedance circuits

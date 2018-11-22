@@ -1,6 +1,0 @@
-investigation of the propagation of signals in dispersive
-    media using an acoustic model the theory of propagation of
-    waves in a dispersive medium as developed by sommerfeld and
-    brillouin is experimentally verified by measurements on an
-    acoustic model which comprises a long hollow tube with closely
-    spaced helmholtz resonators along it

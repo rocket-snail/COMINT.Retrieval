@@ -1,7 +1,0 @@
-flc/fedlink aacr2 cataloging manual for federal
-    libraries. the manual is intended to be used in conjunction
-    with aacr2. the emphasis is on material and problems likely to
-    be encountered by cataloguers in federal agency libraries.
-    government documents, technical reports, serials, microforms,
-    and maps are addressed. the focus is on descriptive
-    cataloguing.

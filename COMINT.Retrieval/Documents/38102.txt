@@ -1,4 +1,0 @@
-classical electrodynamic equations of motion with
-    radiation reaction a physically reasonable solution for the
-    equations exists for any force field that satisfies certain
-    conditions

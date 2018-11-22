@@ -1,7 +1,0 @@
-the relations between circuit pass band and signal build
-    up time two pass band criteria are discussed namely the
-    bandwidth between the points and the bandwidth defined in terms
-    of special distribution it is shown that these are not uniquely
-    related and that it is not possible to determine the time
-    constant of a circuit solely from a knowledge of its
-    bandwidth

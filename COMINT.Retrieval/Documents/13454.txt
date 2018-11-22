@@ -1,4 +1,0 @@
-theory of plasmas in the presence of a constant magnetic
-    field of arbitrary intensity superimposed on an oscillating
-    electric field generalization of results obtained previously of
-    july and back reference

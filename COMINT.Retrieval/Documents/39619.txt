@@ -1,6 +1,0 @@
-distributed data processing. july, 1979-may, 1980
-    (citations from the engineering index data base). the
-    bibliography of worldwide journal literature cites studies on
-    the concepts, design, development, implementation, and
-    application of distributed data processing. also included are
-    studies on distributed data bases.

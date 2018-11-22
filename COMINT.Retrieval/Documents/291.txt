@@ -1,6 +1,0 @@
-some measurements of collision frequency in the e region
-    of the ionosphere measurements are made by observing how the
-    deviative absorption of a radio echo varies with changes in its
-    group path as a critical frequency is approached collision
-    frequency at a fixed height seems to increase with solar
-    activity

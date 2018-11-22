@@ -1,9 +1,0 @@
-pulse switching circuits using magnetic cores design
-    theory is presented for nonstorage uses of cores with
-    rectangular hysteresis loops in digital computers to facilitate
-    determination of the sense of the em processes a method of
-    representation due to mayer is used in which the magnetic
-    circuit elements are replaced by elements of a mirror system
-    devices for eliminating output voltage on shuttling the core
-    are discussed operating frequencies are attainable
-    references

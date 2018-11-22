@@ -1,6 +1,0 @@
-antiferromagnetism the nature of the spin coupling in the
-    antiferromagnetic oxide mno is discussed on the basis of a
-    simplified mode the coupling between magnetic ions whose charge
-    densities interact i with an intervening nonmagnetic ion but
-    not directly with each other is described as the result of the
-    polarization of the nonmagnetic ion

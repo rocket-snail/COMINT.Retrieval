@@ -1,7 +1,0 @@
-observations on the orbit of the first russian earth
-    satellite report of calculations carried out at the royal
-    aircraft establishment farnborough hants to determine orbit
-    constants from interferometer and doppler measurements
-    observations of signal amplitude and fading indicate that the
-    ray path of long distance transmission from the satellite to a
-    receiving station is complicated

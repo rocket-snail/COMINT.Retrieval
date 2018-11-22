@@ -1,7 +1,0 @@
-automation at the library of the swiss federal institute
-    of technology. after describing the background and staffing of
-    the library, gives details of the hardware and software used
-    for the automated housekeeping and retrieval systems. the
-    library is now considering whether to acquire a dedicated
-    computer for a new integrated system, with all parts
-    interactively on-line.

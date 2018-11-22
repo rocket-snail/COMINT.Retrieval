@@ -1,8 +1,0 @@
-formalising and using published information to calculate
-    the effectiveness of technology. the analytical formalisation
-    method has provided the maximum reduction of information which
-    is necessary for a user to take a decision on the expediency of
-    a development project or of the procurement of new equipment.
-    the method makes it possible to include the efficiency
-    calculation on an information card and to use it as a document
-    certifying the project's or equipment's efficiency.

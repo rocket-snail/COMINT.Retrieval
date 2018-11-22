@@ -1,2 +1,0 @@
-a synchronizing circuit for variable input voltages
-    description of a circuit suitable for use with a cro

@@ -1,9 +1,0 @@
-the ulscs' the british library role. paper presented at a
-    one-day seminar on the university of london shared cataloguing
-    system, 3 apr 81. ulscs operates within the blaise local
-    catalogue service (locas) system and the british library's role
-    can be broken down into 5 functions' (1) holding the data
-    bases; (2) holding the ulscs file; (3) processing the ulscs
-    file; (4) producing outputs; and (5) providing customer support
-    and auxiliary services. each function is described in
-    detail.

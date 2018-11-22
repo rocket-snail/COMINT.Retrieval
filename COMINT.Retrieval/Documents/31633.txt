@@ -1,2 +1,0 @@
-the elastic impurity centre model an approximation
-    between two extraneous atoms in a crystal lattice

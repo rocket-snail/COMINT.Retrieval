@@ -1,4 +1,0 @@
-speed control of dc motors two designs of a continuously
-    variable type of servo system are s described the first employs
-    a phase lock feedback system and the second a simple velocity
-    feedback system

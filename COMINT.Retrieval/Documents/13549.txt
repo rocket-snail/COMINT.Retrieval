@@ -1,5 +1,0 @@
-parametric amplifier receives space signals signal
-    amplification was in la band and pump frequency in x band
-    giving a noise factor of db and bandwidth using a paraboloid
-    diameter feet the fraction of a watt radiated by pioneer was
-    received at miles

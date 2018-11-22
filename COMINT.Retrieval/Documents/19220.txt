@@ -1,5 +1,0 @@
-communication systems. outlines developments in data
-    communication network technology, describing star networks, the
-    principle of packet switching, architecture of the
-    teleprocessing network, and the hierarchy of protocols in
-    teleprocessing networks.

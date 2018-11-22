@@ -1,6 +1,0 @@
-a housing information service. describes the development
-    of a library and information service at the london borough of
-    haringey's housing department; outlines the classification and
-    indexing system; gives details of the current awareness and
-    policy indexing services; and offers broad guidelines for
-    setting up an information service.

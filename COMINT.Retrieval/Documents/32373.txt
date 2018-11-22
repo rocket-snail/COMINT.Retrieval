@@ -1,7 +1,0 @@
-the total electron content of the ionosphere during te
-    magnetic disturbance of november measurements of the total
-    electron content of the ionosphere have been made with the
-    radio telescope at jodrell bank by observing the differential
-    faraday fading of lunar radio echoes results show that the
-    reduction in maximum electron density was accompanied by a
-    proportional reduction in

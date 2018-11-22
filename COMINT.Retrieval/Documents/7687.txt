@@ -1,8 +1,0 @@
-incidence of an electromagnetic wave on a cerenkov
-    electron gas analysis is presented for the interaction of an
-    wave in a retarding medium with an electron gas moving through
-    or near the medium at a velocity exceeding that of the wave in
-    the medium for electron densities exceeding a critical value
-    the gas acts as a mirror for the incident wave possible
-    laboratory experiments for investigating the problem are
-    outlined

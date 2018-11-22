@@ -1,9 +1,0 @@
-an automatic telephone system employing magnetic drum
-    memory the diad drum information assembler and dispatcher
-    system is described a capacitive scanner acts as a commutator
-    for conveying signals from subscribers sets to storage on
-    magnetic drums these signals are combined with permanently
-    stored information processed in accordance with built in
-    programmes and used to control call switching circuits the
-    technical feasibility of the system has been demonstrated by
-    large scale laboratory experiments

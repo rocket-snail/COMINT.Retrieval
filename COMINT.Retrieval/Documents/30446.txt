@@ -1,9 +1,0 @@
-circuitry packages for electronic computers short
-    description of etched circuit mass produced units with
-    projecting pin connections the basic unit comprises a
-    transformer coupled pulse amplifier using a type miniature beam
-    tetrode and a number of ge diodes four variants of the basic
-    unit meet most computer circuit requirements a new computer
-    including such units is under construction tests jacks
-    facilitate location of defective components of individual
-    units

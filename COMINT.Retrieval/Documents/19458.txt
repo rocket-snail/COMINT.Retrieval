@@ -1,5 +1,0 @@
-use of locus diagrams to determine the equalizing action
-    of bridged t networks numerical examples are used to show the
-    method of determining from the impedance diagram the variation
-    with frequency of the attenuation and phase coefficients of
-    bridged t networks of different types

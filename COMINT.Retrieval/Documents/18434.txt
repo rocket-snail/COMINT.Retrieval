@@ -1,6 +1,0 @@
-chinese character computer encoding methods and library
-    automation' a bibliographical survey. describes developments in
-    chinese character computer encoding methods and library
-    automation. much effort is expended in individual and expanded
-    projects while increased intercommunication and concerted
-    endeavours might help to solve common problems.

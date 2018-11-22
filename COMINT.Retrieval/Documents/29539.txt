@@ -1,5 +1,0 @@
-stokes equations and their application to the
-    refractivity of thin films the problem of determining the
-    microwave optical properties of n parallel planes of artificial
-    dielectric from the properties of a single planar array is
-    solved by using an extension of stokes equations

@@ -1,6 +1,0 @@
-the behaviour of standard cells in conditions which
-    include the generation of appreciable current measurements made
-    on weston type standard cells generating currents of or for
-    varying periods of time are reported from which the voltage
-    stability attainable under these conditions may be
-    estimated

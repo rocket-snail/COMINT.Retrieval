@@ -1,4 +1,0 @@
-voltage regulator uses multi vibrators voltage changes
-    vary the frequency of an astable transistor multivibrator and
-    the average value of the load voltage is thus kept
-    constant

@@ -1,3 +1,0 @@
-complex matching the conditions are investigated for
-    obtaining maximum real power at the input of a complex load
-    matched to a generator with complex internal impedance

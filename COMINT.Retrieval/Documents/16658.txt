@@ -1,7 +1,0 @@
-design of carrier frequency amplifiers with stagger tuned
-    resonant circuits a simple rule is derived for the distribution
-    of the poles ad a nomogram is given facilitating the design of
-    an amplifier with flat response over a pass band of large
-    relative width analysis is also given for the case of response
-    ripples within predetermined limits values of the resonant
-    circuit elements are calculated

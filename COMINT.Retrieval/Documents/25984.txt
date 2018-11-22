@@ -1,5 +1,0 @@
-high speed multiplexing with closed ring counters the
-    action of a channel electronic switch which consists of
-    semiconductor diode gates each controlled by a flip flop
-    circuit is explained the switch can sample from to voltage
-    sources at rates as high as

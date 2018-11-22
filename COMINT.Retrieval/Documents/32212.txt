@@ -1,9 +1,0 @@
-the design of the bendix digital differential analyzer
-    the error reduction scheme employed by the bendix digital
-    differential analyzer which utilizes both ternary
-    intercommunication between integrators and trapezoidal
-    integration is described a device for the v riation and
-    automatic resetting of initial conditions is discussed together
-    with an example illustrating its operation finally techniques
-    employed for minimizing the size of the computer are
-    considered

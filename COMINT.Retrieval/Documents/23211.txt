@@ -1,7 +1,0 @@
-voltage current characteristics of semiconductor power
-    rectifiers the distribution of the concentration of carriers of
-    pin and pnn types is examined monomolecular and bimolecular
-    recombinations are considered the dependence of the injection
-    coefficient on the current and the characteristics is
-    calculated and the voltage drop in the bulk of the
-    semiconductor is investigated

@@ -1,3 +1,0 @@
-a cascode amplifier degenerative stabilizer description
-    of stabilizers with modified cascode shunt amplifiers having
-    gain

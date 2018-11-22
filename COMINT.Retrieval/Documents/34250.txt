@@ -1,4 +1,0 @@
-high sensitivity transistor pulse trigger circuit a ge
-    diode and a differential negative resistance of high stability
-    consisting of a transistor amplifier with positive feedback u
-    is used

@@ -1,5 +1,0 @@
-special libraries serving state governments' basic
-    tables. contains tabulations of data on bibliographic
-    materials, finance, staff, and services from a survey of 1,134
-    special libraries serving state governments, presented by
-    individual libraries and by 14 types of state libraries.

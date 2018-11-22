@@ -1,2 +1,0 @@
-optimum filters for the detection of signals in
-    noise

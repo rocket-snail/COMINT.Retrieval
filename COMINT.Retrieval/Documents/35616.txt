@@ -1,2 +1,0 @@
-an improved technique for fast multiplication on serial
-    digital computers

@@ -1,4 +1,0 @@
-short time measurement of time dilation in an earth
-    satellite a method for measuring the gravitational red shift
-    based on the variation of the frequency difference between two
-    oscillators as a function of altitude

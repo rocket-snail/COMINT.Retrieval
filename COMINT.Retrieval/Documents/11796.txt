@@ -1,4 +1,0 @@
-properties of the outer ionosphere deduced from nose
-    whistlers analysis of nose whistler data shows that the
-    electron density in the outer ionosphere is proportional to the
-    geomagnetic field strength with a annual variation

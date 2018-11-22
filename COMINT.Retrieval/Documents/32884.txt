@@ -1,6 +1,0 @@
-on the cherenkov radiation of an electron moving in a
-    medium with spatial dispersion an examination of the cherenkov
-    radiation in an isotropic medium including a consideration of
-    spatial dispersion the angular distribution of the radiation
-    intensity and the escape of the radiation through the surface
-    of the medium are discussed

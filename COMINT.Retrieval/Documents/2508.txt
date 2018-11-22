@@ -1,7 +1,0 @@
-investigation of a computerized network to facilitate
-    resource sharing within the va library network (valnet). volume
-    1. the purpose of this project is the investigation of a
-    computerised network to facilitate resource sharing within the
-    va library network. the project consists of 3 phases' (1)
-    information gathering, analysis, and synthesis; (2) problem
-    definition; and (3) requirements formulation.

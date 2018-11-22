@@ -1,4 +1,0 @@
-arpanet information brochure. provides a general
-    description of the arpanet and defines the policies and
-    procedures governing its use. it also provides information to
-    prospective users as to how to obtain arpanet service.

@@ -1,4 +1,0 @@
-scale heights and pressures in the upper atmosphere from
-    radio echo observations of meteors methods are described for
-    determining pressure and scale height in the altitude range
-    making use of theory developed by kaiser

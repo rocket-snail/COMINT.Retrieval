@@ -1,6 +1,0 @@
-insoc spread f and multiple scattering in the ionosphere
-    the mechanism of spread f is examined statistically a model is
-    derived based on the assumption of gallet turbulence in the
-    underside of the f layer under night time conditions and is
-    applied in detail t a typical example of article spread
-    f

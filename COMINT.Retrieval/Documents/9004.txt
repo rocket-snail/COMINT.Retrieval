@@ -1,6 +1,0 @@
-monthly mean values of ionospheric characteristics at
-    rome in the period hourly values are tabulated for the critical
-    frequency and virtual height of the and layers and for the
-    percentage of occurrences of the layer brief particulars are
-    given of the sounding schedule operated and the conventions
-    adopted in the calculations

@@ -1,6 +1,0 @@
-an experiment on the phenomena of word occurrences.
-    describes the method of selecting index terms directly from a
-    frequency list. word frequencies of an article were analysed
-    whose results clearly indicate that the automated selection of
-    index terms from a frequency list holds some promise for
-    automatic indexing.

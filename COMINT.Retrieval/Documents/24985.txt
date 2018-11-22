@@ -1,8 +1,0 @@
-on the resolving time and flipping time of
-    magnetoresistive flip flops the time constant of the
-    exponential approach to the stable states is shown to be a fair
-    approximation for the flipping time of a bridge type
-    magnetoresistive flip flop is of the order for materials at
-    present available the method of calculating flipping time is
-    extended to more general networks and the dependence of the
-    flipping time on t e incoming pulse is considered

@@ -1,6 +1,0 @@
-design considerations for circulator maser systems a
-    general expression for effective maser system noise temperature
-    is calculated and a working approximation is derived the noise
-    and stability requirements for a low noise circulator maser
-    system are given in terms of maser gain and of dissipative
-    losses and swr in various parts of the system

@@ -1,5 +1,0 @@
-current steering in magnetic circuits magnetic switches
-    are described in which the current from an energizing source is
-    guided or steered through one out of many possible parallel
-    branches the conducting branch being selected by the presetting
-    of appropriate magnetic elements

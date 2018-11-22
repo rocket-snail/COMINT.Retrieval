@@ -1,3 +1,0 @@
-basic concepts of the multidimensional space filters the
-    establishment of the basic tensors of a space filter is
-    illustrated by means of a tetrahedron

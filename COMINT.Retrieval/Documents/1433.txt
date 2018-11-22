@@ -1,8 +1,0 @@
-wide band radio interferometer the use of a wide band
-    amplifier with the frequency characteristic given in
-    conjunction with an aerial system consisting of two or four
-    aerials in line or aerials arranged symmetrically in a square
-    results in very high resolution in the example quoted radio
-    sources separated by an angle of ca be resolved the theory of
-    the interferometer is given and the general form of the
-    directional characteristic is shown

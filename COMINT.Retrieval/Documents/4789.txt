@@ -1,5 +1,0 @@
-on the use of ferrites in wide band hf transformers
-    design problems encountered using ferrite cores in hf power
-    transformers are discussed including methods of heat
-    dissipation characteristics of two commercially available
-    designs are given

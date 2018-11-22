@@ -1,8 +1,0 @@
-theory of electrostatic fields in the ionosphere at
-    equatorial latitudes an analysis is made of the elongated es
-    fields required to provide the the e and f layer coupling in
-    the dynamo theory for equatorial conditions the attenuation of
-    the es field is found to be large implying very small coupling
-    for fields with horizontal wavelengths of a few km most of this
-    attenuation occurs at heights near the e region for an analysis
-    in non equatorial regions see of october

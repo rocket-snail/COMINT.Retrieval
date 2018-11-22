@@ -1,3 +1,0 @@
-design for a watt high quality amplifier discussion i
-    with emphasis on the output stage and with special reference to
-    the application of type a output pentodes

@@ -1,6 +1,0 @@
-diagrams representing states of operation of a general
-    theopocouple for a wide range of possible thermocouples the
-    operating characteristics depend on the current and the
-    junction temperatures as an example the calculation of a
-    cooling region of a diagram for a general couple is
-    given

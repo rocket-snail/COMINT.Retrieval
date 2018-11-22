@@ -1,7 +1,0 @@
-new hf proximity effect formula arnolds results of are
-    somewhat complex a new asymptotic formula was therefore
-    developed which is valid whenever the proximity effect is so
-    great that the resistance of the apir of parallel conductors is
-    more than doubled a combination of the maxwell equation and
-    integral equation approaches is used in deriving the new
-    impedance formula which is rigorous and very simple

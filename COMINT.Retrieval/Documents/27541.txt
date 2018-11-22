@@ -1,3 +1,0 @@
-ceramic if transformers discusses the principles of
-    design of the radial mode resonator as used in if
-    circuits

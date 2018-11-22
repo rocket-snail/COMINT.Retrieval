@@ -1,7 +1,0 @@
-computerized document retrieval january, 1975-september,
-    1981 (citations from the international information service for
-    the physics and engineering communities data base). this
-    bibliography covers various methods and systems for
-    computerised retrieval of documents. some attention is given to
-    models of document retrieval, retrieval effectiveness, and
-    specific retrieval systems.

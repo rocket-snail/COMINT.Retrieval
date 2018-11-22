@@ -1,6 +1,0 @@
-the equivalent q of rc networks the effective q factor of
-    a rc phase shift network is defined as one half the rate of
-    change of phase with frequency at the operating point for
-    networks commonly used as frequency determining elements the
-    effective q value is about unity but a capacitance type of r
-    bridge t network may have a q value of

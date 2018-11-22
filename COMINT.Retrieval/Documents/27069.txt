@@ -1,4 +1,0 @@
-abstracts and copyright. briefly describes the
-    development of abstracts leading to secondary data bases. looks
-    at the influence of copyright and full-text searching on these
-    services.

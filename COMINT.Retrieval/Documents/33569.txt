@@ -1,5 +1,0 @@
-reader-printers for libraries' introductory comments on
-    the ltr test program. brief notes describing the
-    characteristics of microform reader/printers sought by the
-    2library technology reports1 test programme are followed by
-    test reports on 4 reader/printers.

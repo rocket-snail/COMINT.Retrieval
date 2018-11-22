@@ -1,7 +1,0 @@
-field emission of electrons in discharges substantial
-    emission of to electrons sec was obtained from cathodes of
-    oxidized ni and w with electric fields of about cm by relating
-    this emission to the electric field by the fowler nordheim
-    equation the effective work function and emitting area of the
-    source of the electrons for oxidized ni and w were estimated as
-    about and respectively these results are discussed

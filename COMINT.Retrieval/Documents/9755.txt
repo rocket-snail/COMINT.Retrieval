@@ -1,2 +1,0 @@
-clenshaw-curtis quadrature (algorithm r424) august, 1973
-    good, a. j. ca730814 jb january 23, 1978 10:29 am

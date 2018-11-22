@@ -1,6 +1,0 @@
-on the doppler effect in an anisotropic and gyrotropic
-    medium investigation of the doppler effect during the motion of
-    an oscillator along the axis of a gyrotropic anasotropic
-    crystam expressions are derived for the radiation energy
-    applicable to the cherenkov radiation field of an electron and
-    of a dipole

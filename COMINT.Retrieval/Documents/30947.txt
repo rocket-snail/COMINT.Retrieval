@@ -1,6 +1,0 @@
-the power of nonsinusoidal systems a calculation is made
-    of the instantaneous power absorbed by a series lrc circuit
-    with a nonsinusoidal periodic applied voltage the square of the
-    apparent power is the sum of the squares of l all the component
-    powers for all the harmonics including so called mutual terms
-    involving harmonics of different order

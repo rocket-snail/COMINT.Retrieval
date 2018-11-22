@@ -1,6 +1,0 @@
-project echo antenna steering system the use of basic
-    orbital information to generate aerial steering instructions
-    for project echo is discussed a digital method is described in
-    which predicted pointing data is transmitted by teletype to the
-    aerial site then stored and subsequently used when required in
-    real time to control the aerial drive mechanism

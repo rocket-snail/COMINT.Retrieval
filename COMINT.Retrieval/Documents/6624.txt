@@ -1,5 +1,0 @@
-radar lunar investigations at a low geomagnetic latitude
-    the theory and results are presented for polarization rotation
-    observations of pulsed radar transmissions at reflected from
-    the moon the diurnal variation of total electron content of the
-    ionosphere is shown

@@ -1,4 +1,0 @@
-transistor amplifiers for analog computers high and low
-    gain transistor m amplifiers for servo use are described
-    effects of power supply variations and temperature coefficients
-    are shown

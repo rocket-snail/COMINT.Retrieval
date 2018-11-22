@@ -1,9 +1,0 @@
-the impedance value of carbon film resistors as a
-    function of frequency and dc resistance an arrangement is
-    described for impedance measurements in which the dimensions of
-    the mounting are standardized in relation to resistor
-    dimensions so that comparisons are possible between results
-    obtained for resistors of different size curves are given of
-    maximum usable frequency as a function of dc resistance and of
-    skin effect as a function of frequency and surface
-    resistance

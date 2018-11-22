@@ -1,5 +1,0 @@
-pulse generator using secondary electron emission valves
-    the generator described produces positive and negative voltage
-    pulses with duration adjustable between and sec and a rise time
-    of about as well as cro beam brightening and sweep
-    voltages

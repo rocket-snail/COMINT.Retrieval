@@ -1,5 +1,0 @@
-stability and convergence limitations on the use of
-    analogue computers with resistance network analogues it is
-    shown that the solution of equations such as breaks down if the
-    gradient of is negative and sufficiently large to cause the
-    correct solution to be wavelike see also of and

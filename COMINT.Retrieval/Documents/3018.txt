@@ -1,9 +1,0 @@
-origin of the e layer of the ionosphere the electron
-    densities for the and f layers resulting from photo ionization
-    of molecular and atomic oxygen are calculated on the basis of
-    the work by moses and wu on the distribution of o and of o in
-    and above the oxygen dissociation layer of and of while the
-    results are in reasonable agreement with observations for the e
-    layer it is not possible to account for the observed value of
-    recombination coefficient for the f layer by any theory based
-    on processes involving only oxygen atoms and molecules

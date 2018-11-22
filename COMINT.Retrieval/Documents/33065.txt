@@ -1,9 +1,0 @@
-electric currents in the ionosphere part the atmospheric
-    dynamo assuming semidiurnal tidal air flow the atmospheric
-    dynamo problem is solved the ionosphere being divided into
-    three regions each of appropriate conductivity compared with
-    calculations assuming pedersen conductivity alone effective
-    results give a current system similar in shape and phase though
-    more intense and an electric field system markedly different an
-    abnormally large east west current is found at the
-    equator

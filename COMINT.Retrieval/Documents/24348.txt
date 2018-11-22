@@ -1,7 +1,0 @@
-impedances of the electrolytical rectifier the impedance
-    characteristic of an electrolyte rectifier is investigated
-    experimentally a method for calculating an equivalent circuit
-    of the oxide layer from the frequency dependence of its
-    impedance is described it is concluded that rectification
-    occurs by means of contact between p type and n type
-    semiconducting layers

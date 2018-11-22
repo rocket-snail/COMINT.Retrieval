@@ -1,7 +1,0 @@
-computer information security and protection. january,
-    1975-may, 1981 (citations from the international information
-    service for the engineering communities data base). covers
-    computer information security and computer privacy in a variety
-    of applications. topics include personal privacy, reliability
-    of security procedures, natural disasters, audits, electronic
-    crime, and software design for efficiency checks.

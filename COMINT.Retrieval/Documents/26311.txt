@@ -1,5 +1,0 @@
-geomagnetic control of the f region of the ionosphere
-    noon values of and for march june and december of and plotted
-    against geomagnetic latitude show the same type of geomagnetic
-    control the equatorial dip in the f curves is more pronounced
-    in the year of higher u sunspot activity see also of

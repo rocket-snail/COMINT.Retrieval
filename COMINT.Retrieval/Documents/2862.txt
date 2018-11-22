@@ -1,8 +1,0 @@
-whats' new in word/text processing. word and text
-    processing are increasingly merging with data processing to
-    provide sophisticated products capable of achieving dramatic
-    improvements in office productivity. this review examines
-    emerging trends and includes brief descriptions of the various
-    types of word processing systems, a study of some wp functions,
-    a discussion of the evolving office-of-the-future,
-    consideration of cost/performance factors.

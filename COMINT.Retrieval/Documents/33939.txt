@@ -1,2 +1,0 @@
-ire standards on circuits definitions of terms for linear
-    passive reciprocal time invariant networks

@@ -1,6 +1,0 @@
-scattering by a grating parts anomalies occur in the
-    angular spectrum of plane waves scattered by a grating when any
-    of the waves propagate tangentially along the surface this
-    behaviour is analysed theoretically for a wave function
-    vanishing on the grating elements and for the derivative of the
-    wave function vanishing

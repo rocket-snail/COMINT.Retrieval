@@ -1,4 +1,0 @@
-how to design notch networks curves are given which
-    simplify the design of capacitor shunt or resistor shunt
-    bridged t networks and of parallel t networks of the infinite
-    attenuation rc type

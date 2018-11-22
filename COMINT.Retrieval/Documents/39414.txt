@@ -1,5 +1,0 @@
-medlars indexing instructions, tumor key supplement 1981.
-    this indexing guide, designed primarily for medlars indexers
-    and searchers, is intended as a guide to the correct mesh
-    (medical subject heading) term for various histological types
-    of tumour and cancer.

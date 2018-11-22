@@ -1,5 +1,0 @@
-a computer program for serials subscription records. the
-    program, developed at westfield college library, is designed to
-    prepare comparative data on serials subscription prices in a
-    variety of forms for use by librarians who are preparing for
-    cuts in subscriptions and reallocation of funds.

@@ -1,4 +1,0 @@
-influence of the earths oblateness on the rotational
-    motion of an artificial satellite the equations of motion are
-    set up and the small oscillations of the satellite relative to
-    the orbital system of coordinates are studied

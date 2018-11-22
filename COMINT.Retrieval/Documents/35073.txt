@@ -1,5 +1,0 @@
-auroral radio echoes and magnetic disturbances the
-    occurrence of radio echoes from aurora is strongly correlated
-    with local k index the position and motion of individual echo
-    regions correspond closely with the current systems causing
-    magnetic disturbances

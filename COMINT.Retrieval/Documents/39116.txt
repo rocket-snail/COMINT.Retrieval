@@ -1,5 +1,0 @@
-electronic coordinate transformer circuit details are
-    given for the construction of an electronic calculating unit
-    which enables the polar coordinates of a vector modulus and
-    cosine or sine of the argument to be derived from those of a
-    rectangular system of axes

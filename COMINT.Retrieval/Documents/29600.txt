@@ -1,7 +1,0 @@
-system design of the seac and dyseac standard design
-    procedures developed during the work on the seac and dyseac
-    digital computers cover system specifications functional plans
-    and wiring plans similarity between these design procedures and
-    data processing procedures carried out by such computers
-    indicates that existing computers could be used to produce the
-    wiring plans for new models

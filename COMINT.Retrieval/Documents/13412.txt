@@ -1,4 +1,0 @@
-operation at the medicina station of a radio telescope a
-    description of an interferometer type radio telescope which
-    consists of a cylindrical parabolic aerial long and wide at the
-    focus of which are full wave dipoles

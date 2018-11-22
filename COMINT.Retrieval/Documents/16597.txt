@@ -1,6 +1,0 @@
-forces on charged particles of a plasma in a cavity
-    resonator two types of confining force are considered the
-    mathieu force due to the electric field acting directly on
-    electrons see boot et al and the em force resulting from the
-    interaction of the electron current with the magnetic field
-    component of the em wave

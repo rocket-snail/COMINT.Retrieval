@@ -1,3 +1,0 @@
-the use of hall generators in analogue multipliers
-    experimental equipment incorporating an inas crystal hall
-    generator is described

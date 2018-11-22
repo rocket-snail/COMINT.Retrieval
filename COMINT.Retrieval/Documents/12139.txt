@@ -1,5 +1,0 @@
-measurement of positive ion density in the ionosphere the
-    design of a suitable rocket borne probe is discussed and a
-    small meshed spherical type is adopted laboratory experiments
-    designed to investigate the characteristics of such a probe are
-    described

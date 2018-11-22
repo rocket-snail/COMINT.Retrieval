@@ -1,4 +1,0 @@
-flip flop stability modifications to the circuit
-    described earlier including the use of a different type of
-    valve do not affect its stability in respect of pulse
-    duration

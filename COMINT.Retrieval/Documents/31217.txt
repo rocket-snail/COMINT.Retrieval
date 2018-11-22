@@ -1,3 +1,0 @@
-a decimal attenuator a network combining the properties
-    of a conventional voltage or current divider with those of a
-    constant resistance attenuator

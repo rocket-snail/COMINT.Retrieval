@@ -1,2 +1,0 @@
-magnetic matrix stores review of computer storage systems
-    based on ferrites with rectangular hysteresis loops

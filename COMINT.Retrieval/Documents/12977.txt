@@ -1,3 +1,0 @@
-design of wide ba d shielded toroidal rf transformers
-    details of transformers for use with magic or hybrid junctions
-    in the frequency range

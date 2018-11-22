@@ -1,7 +1,0 @@
-meteor echo durations and visual magnitudes the
-    statistical relation between the radio echo duration and the
-    visual magnitudes was analysed using observations obtained
-    during the years on about meteors over a range of magnitudes
-    the relation is linear or nearly linear it is inferred that a
-    meteor of absolute magnitude produces electrons per of path
-    length

@@ -1,6 +1,0 @@
-horizontal ionospheric drifts in the f region at
-    equatorial latitudes systematic measurements of drift made at
-    waltair india by the spaced receiver method from february to
-    january are analysed the component is invariably higher than
-    the ns component the prediction of phase reversal of drift at a
-    latitude of is confirmed see also of july and below

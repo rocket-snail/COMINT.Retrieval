@@ -1,3 +1,0 @@
-an x band spectrometer for the demonstration of
-    paramagnetic resonances a bridge type spectrometer with
-    frequency stabilization is described

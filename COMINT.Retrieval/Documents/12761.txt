@@ -1,2 +1,0 @@
-a triggered timebase for oscillographs a triggered
-    sawtooth generator is described

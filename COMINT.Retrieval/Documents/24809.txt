@@ -1,3 +1,0 @@
-waveguide harmonic generators the generator suggested by
-    hedderley of is regarded as a multiphase rectifier
-    circuit

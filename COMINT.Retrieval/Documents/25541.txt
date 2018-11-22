@@ -1,5 +1,0 @@
-traditors a new class of nonenergic nonlinear network
-    elements from an analysis based on the lagrangian dynamical
-    equations a class of nonlinear multiport elements is defined
-    which are characterized by the property of neither dissipating
-    nor storing but only transferring energy

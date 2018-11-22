@@ -1,5 +1,0 @@
-highly stable medium voltage direct and alternating
-    voltage sources part two addition to earlier review dealing
-    with short term stabilization by valve circuits or transductors
-    and with the reduction of long term drift in d c power
-    units

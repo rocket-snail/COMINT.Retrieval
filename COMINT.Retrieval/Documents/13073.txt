@@ -1,5 +1,0 @@
-quantum mechanical semiconductor generators and
-    amplifiers of electromagnetic oscillations a note of the
-    possibility of using the electron transitions between the
-    conduction or valence band and the donor or acceptor impurity
-    levels to obtain maser action

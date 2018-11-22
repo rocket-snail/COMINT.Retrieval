@@ -1,8 +1,0 @@
-application of information theory to the design of
-    line-scan imaging systems. information theory is used to
-    formulate a single figure of merit for assessing the
-    performance of line scan imaging systems as a function of their
-    spatial response (point spread function or modulation transfer
-    function), sensitivity, sampling and quantization intervals,
-    and the statistical properties of a random radiance
-    field.

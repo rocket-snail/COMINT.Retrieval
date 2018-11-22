@@ -1,2 +1,0 @@
-the anode cathode follower a two stage circuit of near
-    unity gain which inverts negative pulsesis described

@@ -1,8 +1,0 @@
-a criterion of stability for oscillations in n mesh
-    networks with varying parameters analysis given previously of
-    is generalized to apply to any network in which some or all of
-    the capacitances or inductances vary periodically conditions
-    necessary for the growth of free oscillations having small
-    initial amplitudes are investigated the system is represented
-    by a determinant equation from whose roots the stability
-    conditions are derived

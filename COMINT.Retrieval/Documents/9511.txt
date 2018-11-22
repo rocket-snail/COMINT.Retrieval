@@ -1,4 +1,0 @@
-the characteristics of different types of coupling of two
-    coupled undamped electrical oscillating systems without an
-    impressed voltage the effect of various types of coupling on
-    the parameters of oscillatory circuits are considered

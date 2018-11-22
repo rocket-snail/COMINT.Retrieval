@@ -1,4 +1,0 @@
-phantastron circuits using transistors arrangements of
-    three transistors to simulate the screen anode current
-    partition of a pentode enable transistron type circuits to be
-    designed

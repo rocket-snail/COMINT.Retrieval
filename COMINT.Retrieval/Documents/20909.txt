@@ -1,6 +1,0 @@
-magnetohydrodynamic shock waves in the solar corona with
-    applications to bursts of radio frequency radiation shock
-    fronts ahead of corpuscular streams may account for type and
-    type bursts detailed calculations are given based on a set of
-    transport equations previously derived for an ionized gas
-    of

@@ -1,6 +1,0 @@
-new effects of an anxiliary electrode on a discharge at
-    low pressure an auxiliary electrode close to the cathode
-    provides a means of sensitive control of the discharge optimum
-    operational conditions were found for a range of discharge
-    parameters low frequency noise may be suppressed by an
-    electrode of wire gauze

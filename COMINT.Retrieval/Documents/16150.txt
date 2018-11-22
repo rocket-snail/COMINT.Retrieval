@@ -1,9 +1,0 @@
-application of the wiedemann effect to the
-    magnetostrictive coupling of crossed coils an electromechanical
-    quadripole is described comprising a tubular magnetostrictive
-    ferrite core carrying crossed coils one wound toroidally and
-    the other as an external helix theory is presented in terms of
-    an equivalent circuit the device can be used for filtering
-    gating phase reversing etc successful experiments with
-    ferroxcube cores operating at frequencies between are
-    reported

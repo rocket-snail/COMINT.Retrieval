@@ -1,4 +1,0 @@
-bias supplies for direct coupled circuits details are
-    given of power supply arrangements using special transformers
-    with low shunt capacitance thus permitting operation at above
-    earth potentials in direct coupled amplifiers

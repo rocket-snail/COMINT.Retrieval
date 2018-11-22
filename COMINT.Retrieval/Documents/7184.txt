@@ -1,6 +1,0 @@
-transport phenomena in completely ionized gas considering
-    electron electron scattering hall mobility and other transport
-    properties of electrons in a completely ionized gas have been
-    investigated when a magnetic field is applied taking into
-    account electron electron scattering results have been
-    presented for different mean ionic charges

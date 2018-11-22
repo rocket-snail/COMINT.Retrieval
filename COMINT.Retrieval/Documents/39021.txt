@@ -1,2 +1,0 @@
-transient response of a thermo couple circuit under
-    steady currents

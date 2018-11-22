@@ -1,3 +1,0 @@
-selenium rectifier disks as voltage dependent resistors
-    for amplification of fluctuations of a component voltage and
-    voltage stabilization particularly amplitude limiting

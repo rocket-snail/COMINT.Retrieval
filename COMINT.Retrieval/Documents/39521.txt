@@ -1,3 +1,0 @@
-improved rc oscillator a modified version of the bridged
-    t circuit described by sulzer this oscillator operates at a
-    single frequency in the range

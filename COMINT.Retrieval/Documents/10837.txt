@@ -1,7 +1,0 @@
-the first order behavior of separable oscillators
-    analysis is given for oscillators whose linear and nonlinear
-    elements are separable in the first order theoretical and
-    experimental results indicate that apart from adjustments of
-    the linear elements the major factor for obtaining frequency
-    stability and smooth control is the suppression of the even
-    power terms in the amplitude characteristic

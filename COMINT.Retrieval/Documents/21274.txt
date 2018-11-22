@@ -1,5 +1,0 @@
-a note on the formula for the mobility of electrons with
-    mean free path varying with velocity a correct generalized
-    formula is derived for the electronic drift velocity in an
-    ionized gas taking the townsend ramsauer effect into
-    account

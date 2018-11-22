@@ -1,9 +1,0 @@
-electronically tuned wide range oscillator a hel
-    transmission line with ge diodes mounted at intervals of is
-    used as tuning element in a colpitts circuit tuning is
-    accomplished by applying a switching pulse to a selected diode
-    to short the line the five tuning positions give frequencies of
-    about and respectively the length of helical line required is
-    very much less than that of a parallel conductor line for the
-    same frequency satisfactory operation of an experimental model
-    was achieved at switching rates up to pulses sec

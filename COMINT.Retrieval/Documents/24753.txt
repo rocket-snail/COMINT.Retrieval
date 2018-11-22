@@ -1,4 +1,0 @@
-bandpass transistor amplifiers a determinant method is
-    given for the analysis of amplitude and phase responses of
-    tuned amplifiers having complex internal feedback
-    circuits

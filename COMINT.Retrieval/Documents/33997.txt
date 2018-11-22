@@ -1,6 +1,0 @@
-note on a mechanism for the vertical transport of
-    ionization in the ionosphere vertically travelling gravity
-    waves can produce corresponding vertical movements of dense
-    layers of ionization which are formed at alternate nodes of the
-    wave system the combined effects of coexistent standing and
-    travelling waves are considered

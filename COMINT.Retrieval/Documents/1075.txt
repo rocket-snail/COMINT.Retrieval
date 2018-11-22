@@ -1,8 +1,0 @@
-sinusoidal and relaxation oscillations sustained by
-    nonlinear reactances descriptions are given of various
-    combinations of nonlinear components eg a saturating choke with
-    linear components eg a capacitor whereby negative resistance
-    characteristics can be obtained either of the type in which
-    current is a single valued function of voltage or of the type
-    in which voltage is a single valued function of current
-    practical applications are discussed

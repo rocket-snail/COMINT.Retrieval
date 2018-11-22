@@ -1,9 +1,0 @@
-some dynamic problems of flight to the moon trajectories
-    for reaching the moon or for flying round the moon and
-    returning to the earth are considered the initial rocket
-    velocities and the distances from the earth and moon of four
-    different orbits are tabulated a periodic orbit passing near
-    the moon and earth seems to be impractical because an error in
-    the initial velocity of mm sec would be enough to allow the
-    rocket to escape into space after only four revolutions for a
-    shorter account see

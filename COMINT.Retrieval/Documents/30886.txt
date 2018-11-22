@@ -1,4 +1,0 @@
-transient conditions in a transformer supplying energy to
-    a half wave rectifier circuit analysis is given for a
-    simplified equivalent circuit leakage reactance and core loss
-    being neglected experimental results confirm the theory

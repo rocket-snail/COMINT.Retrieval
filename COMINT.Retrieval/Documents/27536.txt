@@ -1,7 +1,0 @@
-the effect of sudden ionospheric disturbances sids on
-    pulse reflections from the lower ionosphere during a typical
-    large sid associated with a class or class flare the increase
-    in ionization might vary from at km through at km to unity at
-    km the amplitude recovery of the e layer echo lagged about min
-    behind the recovery of the lower echoes around km at all
-    heights below km echo recovery occurred simultaneously

@@ -1,4 +1,0 @@
-observation of nuclear quadrupole resonances with a
-    coaxial cavity spectrometer a note on the construction of a
-    spectrometer based on a two cavity klystron oscillator and its
-    operation in the range

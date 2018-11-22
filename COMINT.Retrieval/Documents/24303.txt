@@ -1,7 +1,0 @@
-a conductivity storage transistor pulse width modulator
-    transistors of both point contact and junction types exhibit in
-    certain pulse applications prolonged conduction generally
-    ascribed to hhole storage this can be controlled in a circuit
-    to provide a simple means of pulse width modulation for time
-    division multiplex the technique is described for use with
-    selected point contact transistors

@@ -1,7 +1,0 @@
-a precise determination of the charge of the electron
-    from shot noise the electron charge is calculated from the shot
-    fluctuations of saturation current in a specially constructed
-    diode connected diode connected across a tuned circuit resonant
-    at from precision measurements of circuit parameters and the
-    mean square value of shot noise the final result obtained
-    is

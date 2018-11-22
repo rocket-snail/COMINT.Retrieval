@@ -1,4 +1,0 @@
-the long term stability of fixed resistors an
-    investigation of the causes of long term failure nder practical
-    conditions of use or storage test methods are critically
-    discussed

@@ -1,6 +1,0 @@
-a general theory of magnetic resonance saturation a
-    general theory for describing a spin assembly due to a nearly
-    resonant rotating magnetic field arbitrary strength is given
-    two different cases are treated dependent on the relation
-    between the static field and the frequency of fluctuation of
-    the environment

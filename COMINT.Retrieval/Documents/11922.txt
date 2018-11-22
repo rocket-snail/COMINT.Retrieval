@@ -1,4 +1,0 @@
-a technique for cascading tunnel diode amplifiers the
-    simple tunnel diode amplifier does not lend itself readily to
-    cascading but the addition of a second tunnel diode to each
-    stage gives an amplifier which can easily be cascaded

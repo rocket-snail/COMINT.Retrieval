@@ -1,7 +1,0 @@
-matrix representation of transistor circuits transistor
-    circuits are discussed in terms of measurable quantities only
-    once the admittance matrix of the grounded base transistor has
-    been determined the matrices of the grounded emitter and
-    grounded collector transistors can easily be derived matrix
-    representation also provides a direct method for analysis of
-    stages in cascade

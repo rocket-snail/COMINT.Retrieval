@@ -1,3 +1,0 @@
-application of distortion functions to instananeous
-    nonlinear circuits mathematica treatment of nonlinear
-    nonreactive networks using the functions derived in of

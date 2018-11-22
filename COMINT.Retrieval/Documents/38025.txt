@@ -1,7 +1,0 @@
-a derivation method for designing two and three element
-    filter structures a summary of fundamental principles with
-    specific examples of two and three element design using loss
-    free elements with no mutual inductance the h n and associative
-    derivations and an extension of zobels m derivation are treated
-    also the lc derivation involving interchange of la and c
-    application of nortons transformation is illustrated

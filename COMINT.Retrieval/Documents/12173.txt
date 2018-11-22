@@ -1,5 +1,0 @@
-high frequency diffraction by a sphere a procedure
-    suitable for investigating diffraction produced by a convex
-    body with rotational symmetry illuminated by a high frequency
-    plane wave is discussed and applied to the case of a
-    sphere

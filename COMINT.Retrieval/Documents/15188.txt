@@ -1,4 +1,0 @@
-small transformers with low magnetic leakage the external
-    field characteristics of various types of laminated and c core
-    transformers are examined to determine the form of construction
-    with lowest leakage

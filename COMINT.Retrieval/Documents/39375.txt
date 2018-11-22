@@ -1,5 +1,0 @@
-influence of the cathode work function on the sparking
-    potential in hydrogen the kelvin vibrating electrode method of
-    measuring contact potential differences has been used to follow
-    changes in work function of evaporated metallic films in a
-    parallel plate electrode system in hydrogen

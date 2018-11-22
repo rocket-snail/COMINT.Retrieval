@@ -1,5 +1,0 @@
-special libraries serving state governments. contains
-    analyses of bibliographic materials, finance, staff, and
-    services in special libraries serving state governments and
-    tabulations of aggregate data from 1,134 libraries responding
-    to the survey.

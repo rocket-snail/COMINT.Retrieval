@@ -1,9 +1,0 @@
-feasibility study for the university of london online
-    referral centre. investigates the setting up of a referral
-    centre based on an on-line file of research being carried out
-    at uk universities, polytechnics and colleges; similar to the
-    information published in the british library's 2research in
-    british universities, polytechnics and colleges1. report covers
-    the referral centre at the university of london and the cafs
-    (content addressable file system) as a means of computerised
-    storage/retrieval for the referral data base.

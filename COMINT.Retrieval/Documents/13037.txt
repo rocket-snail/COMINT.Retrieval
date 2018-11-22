@@ -1,2 +1,0 @@
-noise temperature measurement on a travelling wave maser
-    preamplifier

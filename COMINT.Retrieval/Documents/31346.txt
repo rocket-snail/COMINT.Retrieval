@@ -1,8 +1,0 @@
-the second order effect of free electrons on lattice
-    conduction second order perturbation theory in conjunction with
-    the usual treatment of electron phonon interaction allows us to
-    calculate the correction to the first order result for the
-    scattering of phonons by electrons it is shown that the second
-    order term is much smaller and therefore negligible this
-    justifies the use of the first order theory in the treatment of
-    the interaction in metals and semiconductors

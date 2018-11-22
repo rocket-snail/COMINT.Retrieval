@@ -1,7 +1,0 @@
-method of obtaining pressure and temperature insensitive
-    microwave cavity resonators methods using invar walls with
-    steel or brass end plates for te cavities are unsatisfactory
-    due to hysteresis effects improved techniques are described for
-    fixed frequency resonators which have temperature coefficients
-    less than per the pressure coefficient is less than in per
-    millibar

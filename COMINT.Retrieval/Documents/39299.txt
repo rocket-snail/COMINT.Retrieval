@@ -1,6 +1,0 @@
-a procedure for tuning a bridge stabilized crystal
-    oscillator a meacham bridge circuit is used in which the lamp
-    is replaced by a thermistor and a second thermistor is added to
-    compensate for ambient temperature fluctuations a sensitive
-    method of tuning input and output transformers in this circuit
-    is described

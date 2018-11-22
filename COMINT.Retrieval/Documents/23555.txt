@@ -1,7 +1,0 @@
-subharmonic oscillations in nonlinear systems the order
-    of the subharmonics in systems with nonlinear restoring force
-    is closely related to the form of the nonlinearity a detailed
-    analysis is presented for the subharmonic oscillation of order
-    for the cases in which the nonlinearity is expressed by a cubic
-    or a quintic function stability is discussed by means of the
-    criterion previously given o august

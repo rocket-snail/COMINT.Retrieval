@@ -1,4 +1,0 @@
-self discharge reactions in lead acid batteries in a
-    theoretical and experimental analysis the rates of seven
-    different reactions which contribute to the self discharge
-    process have been determined references

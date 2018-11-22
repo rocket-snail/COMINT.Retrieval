@@ -1,4 +1,0 @@
-note on positive ion effects in pulsed electron beams
-    experimental results are given for electron beams of duration
-    under conditions normally encountered in high power microwave
-    valves

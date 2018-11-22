@@ -1,5 +1,0 @@
-transistor pulse generators numerical design data are
-    given for four circuits using ge junction transistors and one
-    using a si transistor pulse rise times as low as are attainable
-    at repetition frequencies up to pulse durations are variable
-    from

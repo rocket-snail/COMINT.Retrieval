@@ -1,7 +1,0 @@
-what librarians have wanted to know about remarc and were
-    not afraid to ask. carrollton press, inc., is creating a new
-    data base (remarc) from an estimated 5.2 million non-marc
-    library of congress (lc) catalogue records. answers some
-    questions put by librarians concerning acquisition of remarc
-    records, relationship of the records with lc files, costs, and
-    why carrollton embarked on the remarc database project.

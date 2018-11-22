@@ -1,4 +1,0 @@
-miniaturization and microminiaturizatio description of
-    new techniques giving increased reliability together with a
-    preliminary evaluation of their performance compared with
-    existing techniques

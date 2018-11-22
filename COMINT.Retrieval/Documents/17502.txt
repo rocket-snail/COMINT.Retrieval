@@ -1,5 +1,0 @@
-scattering of electromagnetic waves from an infinitely
-    long magnetized cylindrical plasma the magnetically contained
-    plasma is characterized in terms of its macroscopic dielectric
-    tensor and the scattering problem is solved analytically
-    numerical results are given

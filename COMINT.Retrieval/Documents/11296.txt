@@ -1,5 +1,0 @@
-collision damping of space charge waves in a plasma the
-    general determinantal equation applicable to the propagation of
-    space charge waves including the effect of collisions in the
-    absence of a velocity distribution in a plasma is derived
-    suggestions arising from the solutions are discussed

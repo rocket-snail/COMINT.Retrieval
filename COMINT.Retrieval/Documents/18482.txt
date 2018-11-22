@@ -1,6 +1,0 @@
-high voltage power supplies two units are described an
-    interrupted rf oscillator with rectifier tripler and a
-    continuous rf oscillator with rectifier doubler both give an
-    output of about at at and both include low loss transformers
-    with ferroxcube cores is housed in an oil filled container is
-    larger and dispenses with oil

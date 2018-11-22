@@ -1,6 +1,0 @@
-methods for predicting the orbits of near earth
-    satellites methods are described for predicting the times and
-    positions of the daily transits of a satellite and the geometry
-    of its orbit the methods depend upon maintaining an accurate
-    record of the period of revolution from which the other orbital
-    elements are deduced theoretically

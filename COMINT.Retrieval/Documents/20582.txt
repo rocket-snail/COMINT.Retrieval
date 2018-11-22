@@ -1,5 +1,0 @@
-dielectric layer with spherical cavity in homogeneous
-    electrostatic field the special case of a cavity with centre
-    equidistant from the two faces of the layer is considered
-    mathematically a method is indicated for solving the problem
-    when the cavity is not centrally placed

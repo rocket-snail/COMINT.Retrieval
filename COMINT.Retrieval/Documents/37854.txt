@@ -1,6 +1,0 @@
-coefficients for the rapid reduction of records to
-    profiles without computing aids the tables of coefficients can
-    be used for the ordinary ray at any station having aa magnetic
-    dip less than the sensitivity of the coefficients to dip angle
-    and gyrofrequency is discussed and comparisons are made with
-    the profiles produced using the budden matrix method

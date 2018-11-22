@@ -1,5 +1,0 @@
-cross doping agents for rutile masers the electron
-    paramagnetic resonance spectra of rutile doped with ta nb and
-    ce have been examined at liquid helium temperatures ta and nb
-    appear to be suitable for securing a short spin lattice
-    relaxation time

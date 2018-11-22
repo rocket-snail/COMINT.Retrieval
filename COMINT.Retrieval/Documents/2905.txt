@@ -1,4 +1,0 @@
-frequency modulation o a pound stabilized oscillator a
-    method is outlined for applying frequency modulation ot an
-    improved pound stabilized oscillator of herve the frequency
-    deviation is limited to about

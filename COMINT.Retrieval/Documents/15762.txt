@@ -1,7 +1,0 @@
-cosmic radio sources observed at a survey has been made
-    over most of the celestial sphere between declinations and
-    using a narrow pencil beam discrete sources giving flux
-    densities of about were identified including which may not have
-    been previously reported nearly all the discrete sources are
-    associated with irregularities of the background
-    radiation

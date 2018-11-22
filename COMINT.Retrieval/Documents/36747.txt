@@ -1,4 +1,0 @@
-dual cavity microwave discriminator intended for
-    stabilizing reference klystron oscillators used in doppler
-    shift radar systems tuning range is thermal drift part in per
-    and discriminator sensitivity per

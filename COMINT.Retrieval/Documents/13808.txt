@@ -1,5 +1,0 @@
-c r t power supply uses transistor oscillator a positive
-    feedback oscillator using a transistor provides an output
-    voltage which is doubled rectified and stabilized at a
-    collector supply of is the only external power required for
-    output current the overall efficiency is

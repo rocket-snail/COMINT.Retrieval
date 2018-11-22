@@ -1,9 +1,0 @@
-multiloop feedback amplifiers a stability criterion is
-    derived which involves only one nyquist plot rational negative
-    feedback and equalizer circuits or servomechanisms with
-    prescribed characteristics the basic feedback amplifier circuit
-    is examined with the object of determining the design of the
-    transformation and feedback networks so as to obtain a given
-    overall frequency response for a given response of the
-    amplifier alone servomechanisms and equalizers are treated as
-    particular cases

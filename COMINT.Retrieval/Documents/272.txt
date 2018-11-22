@@ -1,6 +1,0 @@
-time-lags for vitaminology publications in indexing and
-    abstracting periodicals. presents time-lag characteristics
-    (variability range, mean, median, variance, and skewness) for
-    vitaminology publications in several indexing and abstracting
-    periodicals and discusses their use in estimating the
-    information value of secondary publications.

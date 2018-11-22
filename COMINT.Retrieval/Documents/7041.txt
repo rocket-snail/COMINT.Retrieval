@@ -1,6 +1,0 @@
-relaxation oscillations in voltage regulator tubes
-    relaxation oscillations may occur if the regulator tube is
-    shunted by a capacitor and the load line intersects the tube
-    characteristic on the low current side of the minimum methods
-    of modifying the circuit to prevent these oscillations are
-    indicated

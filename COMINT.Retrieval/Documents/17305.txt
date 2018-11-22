@@ -1,6 +1,0 @@
-junction transistor blocking oscillators circuits have
-    been designed producing pulses with rise time using transistors
-    with cut off frequencies of a few details of the regenerative
-    transformer coupling are discussed triggering requirements and
-    the effects of loading are evaluated experimental results
-    support the theory

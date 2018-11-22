@@ -1,4 +1,0 @@
-the unbalanced symmetrical parallel t network taking
-    account of condenser loss the network is analysed without
-    adopting the usual approximations and its application to wave
-    analyser and oscillator circuits is discussed see of

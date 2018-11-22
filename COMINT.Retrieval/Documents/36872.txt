@@ -1,8 +1,0 @@
-m 201 reader/printer.r eview of the 3m 201
-    reader/printer, designed for use in drafting rooms, technical
-    information centres, reprographic facilities, and other
-    applications requiring the display and printing of microimages
-    made from engineering drawings or other large documents.
-    presents a specification summary, and details of basic design
-    and operation, microforms accepted, display characteristics,
-    printer characteristics and price.

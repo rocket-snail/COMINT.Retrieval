@@ -1,9 +1,0 @@
-resource notebook on staff development. focuses on
-    library staff development. the introduction provides background
-    and a brief conceptual overview of staff development. the first
-    section of documents provides examples of data gathering tools
-    and approaches to gathering information. the second group of
-    documents illustrates methods of describing and analyzing
-    current staff development programmes, and the final section
-    contains examples of recommendations for new approaches to
-    staff development which have been made by libraries.

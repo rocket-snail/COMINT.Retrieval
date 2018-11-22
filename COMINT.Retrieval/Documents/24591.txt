@@ -1,3 +1,0 @@
-a stabilized dc power supply using transistors a mains
-    operated unit is described which provides an output voltage
-    variable from to at currents of up to

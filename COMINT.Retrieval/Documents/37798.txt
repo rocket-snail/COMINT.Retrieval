@@ -1,7 +1,0 @@
-the reflection of electromagnetic waves at a plane metal
-    surface covered with an absorbing layer the reflection
-    coefficient is calculated as a function of for an em wave
-    incident perpendicularly on a thin absorption layer numerical
-    and graphical methods are given for the evaluation of layer
-    parameters which make the reflection coefficient as small as
-    possible over a wide range of

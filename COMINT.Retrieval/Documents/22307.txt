@@ -1,5 +1,0 @@
-electric polarizability of a short right circular
-    conducting cylinder calculations to an accuracy of
-    approximately five significant figures are carried out for
-    cylinders with radius half length ratios of and the results are
-    applicable to the design of artificial dielectrics

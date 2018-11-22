@@ -1,5 +1,0 @@
-the construction of a digital computing system from a
-    basic transistor circuit the computer uses identical basic
-    circuits to convert decimal numbers to and from the binary
-    scale diagrams of the basic circuit and the system are given
-    printed circuits are used

@@ -1,9 +1,0 @@
-an analogue computing circuit for the evaluation of the
-    ratio of two slowly varying potentials the circuit based on the
-    miller integrator is described in detail the computed ratio is
-    displayed as a meter deflection the use of feedback reduces the
-    sensitivity to valve characteristic variations the error is
-    less than of full scale deflection within wide input limits
-    computation of reciprocals and products may be performed by
-    means of similar circuits several possible applications of the
-    device are mentioned

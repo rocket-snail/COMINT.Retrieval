@@ -1,7 +1,0 @@
-hydromagnetic capacitor very high dielectric constants
-    can be achieved with an ionized gas in a strong magnetic field
-    when an orthogonal electric field is applied resultant particle
-    drift stores electrical energy dielectric constants from to
-    have been measured in a coaxial capacitor using a rotating
-    plasma disk potential use in fast discharge work is
-    considered

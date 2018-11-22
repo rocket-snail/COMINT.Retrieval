@@ -1,6 +1,0 @@
-multilayer absorbers for electromagnetic waves the
-    absorbing power of structures is discussed which consist of two
-    or more layers of loss free dielectric and thin resistive
-    material arranged alternately the reflection coefficients are
-    calculated for a number of such structures which are treated as
-    resonance absorbers

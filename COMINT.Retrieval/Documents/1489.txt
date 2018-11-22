@@ -1,4 +1,0 @@
-theory of skin effect in constant magnetic field the
-    surface impedance is calculated for the case of a metal surface
-    parallel to the magnetic field an analogous treatment for a
-    normal field was given earlier by azbel and kaganov of

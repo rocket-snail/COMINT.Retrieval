@@ -1,3 +1,0 @@
-multiaperture core counters tive nondestructive storage
-    read out description of a counter circuit and its use in a
-    missile guidance control system

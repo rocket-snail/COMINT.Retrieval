@@ -1,5 +1,0 @@
-transport phenomena in slightly ionized gases high
-    electric fields an investigation of the variation with electric
-    field of a number of transport properties in the presence of a
-    magnetic field perpendicular to the electric field and
-    temperature gradient in the gas

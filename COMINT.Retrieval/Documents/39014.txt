@@ -1,6 +1,0 @@
-very low frequency atmospherics report on measurements of
-    atmospherics in the frequency range by means of specially
-    designed equipment the results are discussed with reference to
-    measurements made by others a sinusoidal signal of about nine
-    cs was observed which may be due to resonance of the system
-    earth ionosphere

@@ -1,4 +1,0 @@
-transistor audio amplifier design principles are outlined
-    for using multiple push pull stages in series the construction
-    of a amplifier for battery operation and of a low noise
-    preamplifier is described

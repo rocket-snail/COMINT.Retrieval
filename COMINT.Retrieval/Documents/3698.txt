@@ -1,6 +1,0 @@
-construction and properties of high quality oscillator
-    crystals details are given of the shape processing and mounting
-    of crystals for use in quartz clock standards the influence of
-    various design parameters on crystal characteristics and
-    performance is discussed and a method of frequency control is
-    described see also of scheibe et al

@@ -1,4 +1,0 @@
-an ionosphere recorder for low frequencies based on hf
-    recorder design this beat frequency instrument covers the range
-    and uses a single loop aerial about long by ft high sample
-    records are reproduced

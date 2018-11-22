@@ -1,3 +1,0 @@
-miller sweep circuit circuits are described in which both
-    miller integrator and puckle flyback circuits are combined to
-    produce a very linear time base

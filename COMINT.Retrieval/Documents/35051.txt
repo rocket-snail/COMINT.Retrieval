@@ -1,3 +1,0 @@
-the equation of state of a plasma the free energy of a
-    completely ionized gas is given in the form of an expansion in
-    terms of the density of interacting particles

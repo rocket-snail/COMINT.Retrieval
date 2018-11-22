@@ -1,6 +1,0 @@
-semiconductor diode gates the general properties of gate
-    circuits are discussed and a simple design analysis of
-    transmission type and switching type gates is given the results
-    of an experimental check are noted and the suitability of point
-    contact and junction type rectifiers for different purposes is
-    discussed

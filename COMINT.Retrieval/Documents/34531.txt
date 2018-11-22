@@ -1,8 +1,0 @@
-library manual for health planning agencies. this library
-    manual for health systems agencies, and other small
-    health-oriented libraries has been developed through a
-    cooperative effort by pact health planning center and the dhew
-    region 8 library. it is hoped that this manual will not only
-    explain the systematic use and organisation of a library and
-    information system but also encourage the development of such a
-    system in all region 8 agencies.

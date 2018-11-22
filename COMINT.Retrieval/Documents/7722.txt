@@ -1,4 +1,0 @@
-a transistor relaxation oscillator and its applications
-    the modifications of the schmitt trigger circuit necessitated
-    by the use of transistors are investigated practical circuits
-    and operating characteristics are given

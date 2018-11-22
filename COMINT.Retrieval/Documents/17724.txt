@@ -1,5 +1,0 @@
-theorem on the reactive energy in an electric dipole in a
-    state of variation analysis is based on differentiation of the
-    operational impedance a simple formula is derived giving the
-    instantaneous difference between the stored magnetic and
-    electric energy

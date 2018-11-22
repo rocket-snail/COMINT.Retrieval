@@ -1,5 +1,0 @@
-performance of class b audio amplifiers with random noise
-    signals two basic limitations on performance are considered
-    average anode power dissipation is the same as that for
-    sinusoidal modulation but the positive grid operation permitted
-    is slightly different

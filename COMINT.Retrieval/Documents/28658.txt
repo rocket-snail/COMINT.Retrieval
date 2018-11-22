@@ -1,2 +1,0 @@
-excluded volume problem and the ising model of
-    ferromagnetism

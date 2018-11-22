@@ -1,6 +1,0 @@
-transistorized phase discriminators half wave and full
-    wave phase discriminators are described with two or three
-    terminal dc outputs an analysis of the operating
-    characteristics of transistors in discriminator circuits is
-    given temperature stability and power limitations are
-    discussed

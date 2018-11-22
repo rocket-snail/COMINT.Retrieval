@@ -1,3 +1,0 @@
-dispersion the effect is discussed in terms of group and
-    phase velocities and applied to waveguides cables circuits and
-    the ionosphere

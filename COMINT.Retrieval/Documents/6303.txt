@@ -1,5 +1,0 @@
-the diode pump integrator the designs of a diode circuit
-    for integrating a train of pulses is discussed and conditions
-    are established for linear and nonlinear operation an
-    application to a frequency sensitive relays with quick on off
-    characteristics is described

@@ -1,5 +1,0 @@
-three level maser detector for ultra microwaves note on
-    the principles of a device similar to the spectrometer
-    described earlier the absorption at ultra microwave frequencies
-    changes the population of levels and results in an increase or
-    decrease of absorption at a lower microwave frequency

@@ -1,7 +1,0 @@
-a generalization of weissflochs transformation law the
-    transformation law relating to a loss free quadripole between
-    homogeneous lines is generalized by showing that all points on
-    the transformation curve can be correlated with corresponding
-    positions on the input and output lines between which the
-    quadripole acts as an ideal transformer with a reactance in
-    parallel see also of

@@ -1,2 +1,0 @@
-a saturable core reference source for use with magnetic
-    amplifiers

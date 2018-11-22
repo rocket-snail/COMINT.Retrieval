@@ -1,6 +1,0 @@
-the analytical representation of the geomagnetic field
-    the representation of the geomagnetic field for the epoch by
-    series of spherical functions up to order are discussed within
-    the limits of accuracy reached the permanent geomagnetic field
-    may be derived only with respect to sources within the
-    earth

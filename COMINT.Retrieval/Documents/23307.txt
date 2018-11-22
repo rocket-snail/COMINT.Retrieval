@@ -1,4 +1,0 @@
-spectral diffusion phonons and paramagnetic spin lattice
-    relaxation discussion of paramagnetic relaxation phenomena at
-    low temperatures by analogy with holsteins theory of trapping
-    of resonance radiation in gases

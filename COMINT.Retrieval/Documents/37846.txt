@@ -1,5 +1,0 @@
-frequency stability and quartz controlled oscillators the
-    operation of some commonly used types of crystal controlled
-    oscillator is reviewed frequency can be held constant to within
-    a factor of over period of months by using a bar crystal
-    resonator

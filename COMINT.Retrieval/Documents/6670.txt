@@ -1,8 +1,0 @@
-a correlation between the transient and frequency
-    responses in servomechanisms statistical evidence is used to
-    relate time and frequency response parameters these empirical
-    relations together with a new theoretical relation for the
-    delay time enable the step response to be sketched given the
-    open loop response some nontypical closed loop responses may be
-    broken down into two subtransient step responses which are
-    separately determinable

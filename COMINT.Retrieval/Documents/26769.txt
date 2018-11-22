@@ -1,4 +1,0 @@
-using silicon diodes in radar modulators a peak power of
-    kw is developed using si diodes for charging the artificial
-    line and for clipping reverse voltage swtings the diodes
-    dissipate instantaneous powers up to kw

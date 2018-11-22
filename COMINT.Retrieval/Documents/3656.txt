@@ -1,5 +1,0 @@
-an alternating voltage stabilizer a unit designed to give
-    an output of varying by for line voltage changes of frequency
-    changes and load variations from to includes provision for
-    correction of form factor by simultaneously stabilizing the
-    rectified mean and rms voltages

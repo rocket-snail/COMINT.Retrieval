@@ -1,5 +1,0 @@
-approximate waveform solutions for diodes in pulse
-    circuits with an approximate representation of a diode
-    solutions are obtained for the response of simple circuits to a
-    rectangular wave input applications of the results are
-    discussed

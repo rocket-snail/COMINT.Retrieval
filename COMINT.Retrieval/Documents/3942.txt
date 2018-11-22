@@ -1,4 +1,0 @@
-infrared circuits in tiros satellites a channel
-    radiometer for measuring parameters relating to the earths heat
-    balance and horizon sensors to determine spin rate and
-    orientation are described

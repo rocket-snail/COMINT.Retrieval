@@ -1,9 +1,0 @@
-information science at the french national archives.
-    account of progress to date from 1972 on the project to improve
-    access to holdings by using automation to produce a new series
-    of indexes. details are given of the early manual treatment of
-    complex material requiring specialist analysis, and of later
-    listings produced by automated techniques after research on new
-    methods. examples of individual and corporate lists are given,
-    with particular details of the system used in management of
-    ministerial documents.

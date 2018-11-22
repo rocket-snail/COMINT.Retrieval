@@ -1,4 +1,0 @@
-cherenkov radiation for a dipole moment in a medium with
-    spatial dispersion treatment of electric and magnetic dipoles
-    in an isotropic nongyrotropic medium radiation from a ring
-    current in such a medium is also considered

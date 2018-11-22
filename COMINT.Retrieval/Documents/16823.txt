@@ -1,5 +1,0 @@
-scale times and scale lengths of variables with
-    geomagnetic and ionospheric illustrations the conception of the
-    atmospheric scale height is generalized to apply to any scalar
-    or vector function of time and or position examples are given
-    relating to magnetic fields and the ionosphere

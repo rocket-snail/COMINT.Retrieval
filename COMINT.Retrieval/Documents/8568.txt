@@ -1,9 +1,0 @@
-methods for setting rental and discard prices. a recent
-    review of rental collection administration at new zealand's
-    hastings public library showed that income from renting books
-    was not keeping pace with expenditure on the rental collection.
-    suggests a new method for setting rental charges (based on
-    recovery of purchase price in 16 issues) and presents a method
-    of working out the discard price of library materials (on the
-    basis that they lose a certain proportion of their value with
-    each circulation).

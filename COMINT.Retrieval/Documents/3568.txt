@@ -1,5 +1,0 @@
-on the realization of a highly stable direct current
-    power supply with a wide range of output voltage the principle
-    of operation of a stabilized power supply incorporating two
-    feedback loops is described the properties of the circuit are
-    deduced from transfer functions

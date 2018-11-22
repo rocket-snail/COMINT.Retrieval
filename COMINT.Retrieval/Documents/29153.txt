@@ -1,4 +1,0 @@
-circuit considerations relating to micro electronics a
-    discussion of the problems associated with microminiaturizatio
-    especially power dissipation ad and its relation to circuit
-    functions and packing density

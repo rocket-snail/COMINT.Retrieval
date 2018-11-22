@@ -1,5 +1,0 @@
-variable frequency microwave cavity spectro meter
-    molecular gas spectra at wavelengths around are investigated
-    using a system in which a single coaxial cai cavity serves as
-    stark or zeeman modulation cell and as frequency reference
-    unit

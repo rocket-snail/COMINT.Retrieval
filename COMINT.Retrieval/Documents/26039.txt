@@ -1,2 +1,0 @@
-the absorption coefficient of a plasma at radio
-    frequencies

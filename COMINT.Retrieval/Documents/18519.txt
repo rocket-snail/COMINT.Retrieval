@@ -1,8 +1,0 @@
-resonance scattering by atmospheric sodium part theory of
-    the intensity plateau in the twilight airglow numerical results
-    based on theory of radiative transfer are compared with
-    observations by various workers for a layer scattering solar d
-    line radiation observed in the zenith distance winter
-    observations indicate an absolute brightness slightly greater
-    than given by the theory abundance of na appears to vary
-    between summer and winter atoms

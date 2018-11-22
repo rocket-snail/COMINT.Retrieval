@@ -1,5 +1,0 @@
-radiosonde measurement of vertical electric field and
-    polar conductivity a field mill and a gerdian type conductivity
-    apparatus are described for use with a modified kew mk
-    radiosonde these are used for measuring the electrical
-    properties of the lower atmosphere and clouds

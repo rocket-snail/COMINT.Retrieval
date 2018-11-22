@@ -1,4 +1,0 @@
-a note on the relativistic boltzmann equation and some
-    applications the relativistic equation in the absence of
-    collisions is derived and applied to the case of a velocity
-    modulated drifting electron beam

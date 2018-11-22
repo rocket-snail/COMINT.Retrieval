@@ -1,3 +1,0 @@
-voltage controlled wide range oscillator the variation of
-    the small signal impedance of a junction diode with bias is
-    used to give a voltage controlled phase shift

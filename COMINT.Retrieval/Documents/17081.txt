@@ -1,8 +1,0 @@
-formative time lags in the electrical breakdown of gases
-    the time rate of growth of ionization currents in a uniform
-    field greater than that corresponding to the static sparking
-    potential is investigated theoretically curves showing the
-    dependence of the formative time lag on overvoltage are given
-    with an example of their use in the elucidation of secondary
-    ionization processes operative in the breakdown
-    mechanism

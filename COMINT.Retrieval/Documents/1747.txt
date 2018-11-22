@@ -1,4 +1,0 @@
-calculation of the leakage flux of the pendent armature
-    relay the magnetic conductivity of the space between core and
-    yoke is determined by application of southwells relaxation
-    method

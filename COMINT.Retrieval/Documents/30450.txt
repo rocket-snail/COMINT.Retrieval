@@ -1,2 +1,0 @@
-transient phenomena in band filters analysis of a filter
-    consisting of two coupled circuits

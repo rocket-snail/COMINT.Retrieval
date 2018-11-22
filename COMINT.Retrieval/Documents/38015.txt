@@ -1,9 +1,0 @@
-three dimensional analogue computer the tridac is an
-    electronic hydraulic machine developed for the royal aircraft
-    establishment for solving problems in radar and guided missile
-    operation it occupies of floor space uses and consumes under
-    peak conditions individual mathematical operations are
-    performed with an error of full scale the basic analogue
-    quantity is a voltage and the basic element is a amplifier with
-    a gain of the order of stabilized by association with an
-    amplifier

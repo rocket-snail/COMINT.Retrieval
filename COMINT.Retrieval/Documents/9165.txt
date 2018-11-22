@@ -1,4 +1,0 @@
-high order harmonics for x band oscillator stabilization
-    a simplified phase locking stabilization technique for
-    microwave oscillators harmonic orders up to about are
-    used

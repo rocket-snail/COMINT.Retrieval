@@ -1,5 +1,0 @@
-scattering of a surface wave by a discontinuity in the
-    surface reactance on a right angled wedge an examination of the
-    em field produced when a surface wave travels along the front
-    face of a right angled wedge and is c scattered by the
-    tip

@@ -1,4 +1,0 @@
-radar measurements of the planet venus by means of radar
-    equipment operating at a new value for the astronomical unit
-    was determined accurate to and the rotation period of venus was
-    estimated as days

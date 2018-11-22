@@ -1,5 +1,0 @@
-selecting, installing and designing a com system.
-    examines the designing of a com system from 2 particular
-    standpoints; start-up costs and start-up volume. the influence
-    of these 2 factors on cost justification for the system is
-    isolated.

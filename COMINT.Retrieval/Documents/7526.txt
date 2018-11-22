@@ -1,9 +1,0 @@
-a theoretical consideration of the electron and ion
-    density distributions in the lower portion of the f region
-    assuming that the photoionization processes in the ionosphere
-    are the physics of the lower f region can be explained fairly
-    well the appearance and disappearance of the f layer with solar
-    zenith angle and solar activity can be understood no values of
-    reaction coefficients can be found which are consistent with
-    both the ion density distribution in the ionosphere and
-    laboratory estimates of the coefficients

@@ -1,4 +1,0 @@
-tapped inductances maxwell coils for af are considered
-    and a simple method is presented for calculating the position
-    of the tapping to give a specified fraction of the total
-    inductance

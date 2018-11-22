@@ -1,4 +1,0 @@
-sensitive single channel pulse height analyser the
-    analyser operates with input pulses of amplitude and a dead
-    time of about the stability over a period of several days is
-    better than

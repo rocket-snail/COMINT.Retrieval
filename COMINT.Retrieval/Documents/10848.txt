@@ -1,8 +1,0 @@
-implementation of the expanded indiana vocational
-    education information services. the project described was
-    designed to develop and disseminate reports on indiana research
-    and development products on vocational education to appropriate
-    state and national target audiences; to implement a system for
-    acquiring, organising, storing, retrieving and disseminating
-    research and development information. report not available from
-    ntis.

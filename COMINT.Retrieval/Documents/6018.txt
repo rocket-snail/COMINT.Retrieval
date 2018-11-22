@@ -1,5 +1,0 @@
-the coupling of a spin system to a cavity mode a wave
-    mechanics treatment is given in which the expectation value of
-    the component of total spin angular momentum is determined this
-    problem has become important with recent developments in maser
-    technology

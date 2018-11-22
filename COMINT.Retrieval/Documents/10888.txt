@@ -1,8 +1,0 @@
-power rectifiers and transistors power rectifiers with
-    rectification ratios as high as can be made by fusing donor and
-    acceptor contacts to the opposite faces of a ge wafer analysis
-    of the characteristics of such rectifiers gives results in good
-    agreement with experimental values the properties of
-    transistors prepared in a similar manner and capable of outputs
-    as high as are described at present the operation of these
-    power units is limited to about by transit time effects

@@ -1,5 +1,0 @@
-the helitran two designs of rf transformer with
-    continuously variable turns ratio forming a nearly perfect
-    voltage divider are described a helitran can simplify the
-    design of the variable conductance control of three terminal
-    bridges with a transformer ratio arm

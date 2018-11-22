@@ -1,5 +1,0 @@
-ion charge exchange reactions in oxygen afterglows
-    measurements made by a linear accelerator mass spectrometer of
-    the decay of ion concentration after a pulsed discharge are
-    discussed with reference to electron loss processes in the
-    upper ionosphere

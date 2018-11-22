@@ -1,4 +1,0 @@
-the motion of charged particles in the magnetic field of
-    a straight current carrying wire the calculated velocity of a
-    particle in the field along an infinitely long wire is in
-    agreement with alfvens approximation

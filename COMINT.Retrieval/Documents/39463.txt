@@ -1,5 +1,0 @@
-an alternating current stabilizer a stabilizer for a
-    valve heater power supply uses a diode operating with low
-    heater voltage as the error detector and a transductor as the
-    control element the output voltage can be maintained constant
-    to within

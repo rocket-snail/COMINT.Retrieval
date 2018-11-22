@@ -1,5 +1,0 @@
-fluctuation of oscillations of klystron generator a
-    theoretical investigation of noise in a reflex klystron is
-    presented in a typical case the natural bandwidth of the
-    oscillations is the results obtained by shimoda are believed to
-    be in error

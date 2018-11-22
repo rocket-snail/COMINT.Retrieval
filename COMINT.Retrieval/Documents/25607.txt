@@ -1,8 +1,0 @@
-kinetic theory of weakly ionized homogeneous plasmas part
-    a rigorous method is presented for integrating boltzmanns
-    equation by successive approximations for a weakly ionized gas
-    subjected to an alternating electric field and a static
-    magnetic field the electron velocity distribution function is
-    developed with respect to the electric field and the individual
-    functions obtained are developed as spherical functions the
-    method is applied to investigation of a lorentz type gas

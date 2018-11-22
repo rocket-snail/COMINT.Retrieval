@@ -1,5 +1,0 @@
-stable orbits of charged particles in an oscillating
-    electromagnetic field in the field of a cylindrical waveguide
-    driven in the mode the particle moves around the axis of the
-    guide sufficient conditions for stable orbits are
-    derived

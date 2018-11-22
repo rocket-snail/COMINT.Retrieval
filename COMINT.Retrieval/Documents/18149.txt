@@ -1,4 +1,0 @@
-the physical nature of a metal surface in conduction
-    theory a discussion is presented in which the reflection of
-    electrons striking the surface from inside is treated as a
-    diffraction phenomenon

@@ -1,5 +1,0 @@
-a prediction of a meteor orbital period the probable
-    orbital period of a meteor shower observed on is predicted from
-    examination of snowfall records in japan assuming the suggested
-    correlation between precipitation and occurrence of meteor
-    showers to be real

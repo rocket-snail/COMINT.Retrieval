@@ -1,3 +1,0 @@
-interesting new developments in the components istray
-    reactances in power and instrument transformers saturating
-    reactor magnetic pulser design

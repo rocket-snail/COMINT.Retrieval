@@ -1,4 +1,0 @@
-procedure for designing reciprocal computer circuits
-    circuits with outputs approximately inversely proportional to
-    their inputs can be constructed with diodes resistors and d c
-    supplies

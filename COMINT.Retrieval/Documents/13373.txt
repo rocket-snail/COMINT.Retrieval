@@ -1,7 +1,0 @@
-theoretical world curves of maximum f ionization part a
-    time dependent solution of the continuity equation including
-    vertical diffusion of ionization is used to obtain a
-    theoretical variation of maximum f layer electron density with
-    latitude and local time some similarity to experimental data is
-    found but the equatorial trough does not occur in the
-    theoretical solution see also of

@@ -1,9 +1,0 @@
-the analysis of fading records from spaced receivers
-    fading records obtained in investigating ionospheric winds by
-    the spaced receiver method described by mitra of and phillips o
-    are discussed considerable variability in the records is to be
-    expected even if the wind is constant in both direction and
-    magnitude two particular one hour records for vertical
-    incidence reflection from the e layer are analysed one is
-    consistent with constant wind conditions the other requires
-    more detailed analysis

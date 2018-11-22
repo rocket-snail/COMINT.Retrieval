@@ -1,8 +1,0 @@
-graphical representation of chemical structures in
-    chemical abstracts service publications. the main features of
-    the comprehensive formatting guidelines used for creating
-    chemical structure diagrams for chemical abstracts service
-    publications are described. the guidelines were designed to
-    standardise format as much as possible and to conserve column
-    space in publications. methods used for reducing crowding in
-    diagrams are described.

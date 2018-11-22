@@ -1,7 +1,0 @@
-a theorem on the impedance transforming properties of
-    reactive networks two circle transformations derived from the
-    impedance transformation properties of a terminal network are
-    used to develop a circle locus theorem which considerably
-    simplifies analysis of impedance matching networks it is
-    applicable to any linear reactive network with any arbitrary
-    reference impedance not lying on the reactance axis

@@ -1,2 +1,0 @@
-improved high power dc converters design and performance
-    details of several new circuits are given

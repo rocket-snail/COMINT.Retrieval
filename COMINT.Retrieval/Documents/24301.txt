@@ -1,4 +1,0 @@
-progress report on semiconductor rectifiers findings
-    indicate that silicon and germanium rectifiers are more
-    desirable in high temperature areas while selenium retains its
-    superiority in high c rrent uses

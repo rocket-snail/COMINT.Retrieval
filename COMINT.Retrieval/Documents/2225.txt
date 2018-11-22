@@ -1,3 +1,0 @@
-dependence of light amplification in phosphors on light
-    intensity differential chromaticity thresholds in the direction
-    of primary blue in a trichromatic synthesis system

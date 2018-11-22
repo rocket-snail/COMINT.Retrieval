@@ -1,4 +1,0 @@
-decade amplifier the circuit incorporates rc and direct
-    coupled stages and a chopper stabilizing amplifier giving a
-    bandwidth of with a gain of in steps the equivalent input drift
-    is output is up to

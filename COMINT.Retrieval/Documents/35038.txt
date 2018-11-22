@@ -1,6 +1,0 @@
-narrowing effect of dipole forces on inhomogeneously
-    broadened lines observations of the effect in mn ferrite and
-    yttrium iron garnet are described the theory for cases in which
-    the spatial period of the inhomogeneity is large compared to
-    atomic distances and is either short or comparable to sample
-    size is discussed and its applications are considered

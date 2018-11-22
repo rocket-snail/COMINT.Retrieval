@@ -1,5 +1,0 @@
-the expanded reactance series resonator erser a
-    description is given of a circuit element wherein the bandwidth
-    between the infinities of a series resonant circuit can be
-    exchanged for increased steepness of the reactance slope
-    through resonance

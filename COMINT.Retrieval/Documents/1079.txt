@@ -1,6 +1,0 @@
-diode phase detectors the general case of unequal
-    voltages applied to simple and balanced push pull phase
-    detectors is studied curves for design and evaluation of
-    accuracy are given the use of a signal greater than the
-    reference voltage appears to be desirable in some
-    applications

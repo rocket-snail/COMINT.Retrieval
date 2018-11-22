@@ -1,4 +1,0 @@
-the wien bridge as a frequency determining element in
-    selective amplifiers analysis of the balance condition in a
-    bridge circuit suppressing the amplifier feedback voltage at a
-    fixed frequency

@@ -1,6 +1,0 @@
-signal and noise characteristics of diode reactance
-    amplifiers for the uhf region examples are given of mixer
-    circuits straight amplifiers and a travelling wave amplifier
-    using parametric amplifier techniques the problem of matching
-    by means of nonreciprocal elements or by bridge circuit i also
-    dealt with

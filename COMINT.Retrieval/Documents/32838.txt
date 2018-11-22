@@ -1,2 +1,0 @@
-comments on necessary and sufficient trajectory
-    conditions for dense electron beams

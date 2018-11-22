@@ -1,6 +1,0 @@
-angular distribution of secondary ions on bombardment of
-    a tantalum plate by ions of alkali metals an experimental
-    investigation is reported of the dependence of the energy and
-    intensity distribution of secondary and ions on the angle of
-    incidence of the primary ions results are presenred
-    graphically

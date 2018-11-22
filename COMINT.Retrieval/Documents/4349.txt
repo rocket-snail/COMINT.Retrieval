@@ -1,4 +1,0 @@
-possible explanation of the coexistence of ferromagnetism
-    and superconductivity a discussion based on the suggestion that
-    superconducting regions extend only through the thicknesses of
-    the ferromagnetic domain walls

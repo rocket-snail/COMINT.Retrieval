@@ -1,4 +1,0 @@
-a comparative study of document retrieval systems of
-    nursing interest. the report compares 4 document retrieval
-    systems and 1 manual system for coverage, indexing and
-    retrieval of nursing articles.

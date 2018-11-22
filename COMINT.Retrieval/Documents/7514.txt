@@ -1,9 +1,0 @@
-transistor oscillators and their load independent
-    properties the equivalence of the internal and the external
-    feedback in a transistor oscillator circuit is established two
-    types of load independent oscillator are considered one with a
-    load impedance in parallel with the equivalent passive
-    quadripole and the other with the impedance in series the
-    conditions for obtaining an oscillator with two load
-    independent impedances and a load independent oscillator in the
-    form of a six terminal network are examined see also of

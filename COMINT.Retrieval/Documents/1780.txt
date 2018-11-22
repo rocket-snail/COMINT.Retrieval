@@ -1,8 +1,0 @@
-ionospheric refraction in radio astronomy expressions are
-    derived for the apparent displacements of cosmic radio sources
-    at transit resulting from ionospheric refraction the theory
-    includes the effects of horizontal electron density gradients
-    which often outweigh those due to a spherically symmetrical
-    ionosphere the relation of ionospheric refraction to the total
-    thickness and the total electron content in a vertical column
-    are discussed

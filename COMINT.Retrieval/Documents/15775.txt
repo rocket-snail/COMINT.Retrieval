@@ -1,6 +1,0 @@
-thyratron inverter uses controlled firing time the
-    circuits described permits control of output voltage without
-    saturable reactor with improved regulation efficiency and
-    response speed one thyratron serves as control tube for
-    extinguishing the conducting power tube at any desired
-    phase

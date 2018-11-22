@@ -1,8 +1,0 @@
-synchronization of frequency modulated free running
-    oscillators investigated by servomechanism methods application
-    of a servo system to the control of a free running oscillator a
-    method is described for determining the frequency response of
-    the closed loop from measurements of open loop characteristics
-    quadripole correctors for improving the response will also
-    widen the frequency range over which control may be
-    exercised

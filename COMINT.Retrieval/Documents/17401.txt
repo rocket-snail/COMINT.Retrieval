@@ -1,3 +1,0 @@
-definite exponential integrals b (algorithm 109) july,
-    1962 kruglyak, y. a. whitman, d. r. ca620711 jb march 17, 1978
-    8:30 pm

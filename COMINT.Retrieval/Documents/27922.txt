@@ -1,6 +1,0 @@
-microwave faraday rotation design and analysis of a
-    bimodal cavity an equivalent circuit is developed for the
-    cavity and the coupling between degenerate modes is expressed
-    in terms of the susceptibility tensor of the material producing
-    the rotation the results are compared with experimental
-    data

@@ -1,9 +1,0 @@
-elf electric fields from thunderstorms from an assumed
-    cloud to ground discharge model calculations of wide band
-    vertical electric field variations indicate a small decrease
-    with distance up to a relation to and a relation beyond km
-    radiation field spectrum analysis over the frequency range
-    indicates that below long discharges produce more energy than
-    short discharges and that intercloud discharges may produce as
-    much as cloud to ground discharges conclusions are supported by
-    experimental evidence

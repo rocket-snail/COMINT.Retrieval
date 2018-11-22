@@ -1,4 +1,0 @@
-x band measurement of shock tube plasma temperature the
-    radiation temperature of a plasma behind a hypersonic shock
-    wave is measured using a microwave receiver results indicate
-    that the temperature is approximately

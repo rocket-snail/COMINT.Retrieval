@@ -1,3 +1,0 @@
-least squares solution with constraints (algorithm 177)
-    june, 1963 synge, m. j. ca630610 jb march 14, 1978 10:17
-    am

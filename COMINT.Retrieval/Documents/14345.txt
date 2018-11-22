@@ -1,4 +1,0 @@
-ferrite core current steering comutators and ring
-    counters commutating circuits are described which steer well
-    defined current pulses sequentially along a number of paths and
-    simplified design formulae are given

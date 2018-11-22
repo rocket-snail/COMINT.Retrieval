@@ -1,2 +1,0 @@
-theory of electromagnetic waves in a crystal with
-    excitons

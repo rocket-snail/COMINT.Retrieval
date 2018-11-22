@@ -1,4 +1,0 @@
-converting recorders to rectilinear outputs a computer
-    circuit generating variable transport time delays is described
-    for transforming pen recordings from arcs to straight lines see
-    also of massa and massa

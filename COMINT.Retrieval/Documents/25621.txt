@@ -1,3 +1,0 @@
-an analysis of a type of comb filter a theoretical
-    analysis and discussion of practical devices for use in radar
-    as moving target indicators and signal integrators

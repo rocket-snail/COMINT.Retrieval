@@ -1,3 +1,0 @@
-a feedback pair video amplifier details are given of a
-    circuit with a gain of frequency range and a midband output
-    linear up to rms

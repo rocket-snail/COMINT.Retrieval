@@ -1,8 +1,0 @@
-thickness shear and flexural vibrations of contoured
-    crystal plates equations of motion expressing approximately and
-    separately the thickness shear and flexural modes are derived
-    from data on the coupled modes for a plate of uniform thickness
-    of and of mindlin these equations are applied to the case of a
-    plate of double wedge shape and a plate with bevelled edges
-    results support the finding that thickness shear motion is
-    localized at the centre flexural motion at the edges

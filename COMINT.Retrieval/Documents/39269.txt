@@ -1,3 +1,0 @@
-visual display of isolated optical resonator modes in a
-    laser cavity is described two concave mirrors forming a nearly
-    spherical cavity are used

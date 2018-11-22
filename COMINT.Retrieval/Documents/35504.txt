@@ -1,8 +1,0 @@
-nonlinear phenomenological theory of plasma oscillations
-    damped oscillations are shown to arise under certain conditions
-    the intensity of the standing waves being augmented by
-    collisions with a loss of efficiency in general increasing
-    current and plasma temperature tend to promote oscillations
-    while the role of plasma density is more complex the influence
-    of a magnetic field in the limiting case of no damping is also
-    investigated

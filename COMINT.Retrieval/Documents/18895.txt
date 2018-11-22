@@ -1,8 +1,0 @@
-the drift of an ionized layer in the presence of the
-    geomagnetic field the efficiency of air winds in causing
-    ionization drift decreases with atmospheric pressure thus in
-    the f region electric fields may be the main cause of drift in
-    the region electric fields may contribute equally with air
-    winds in the d region air winds would be the main cause the
-    effect of winds and fields is causing drifting of cylindrical
-    irregularities in each region is given

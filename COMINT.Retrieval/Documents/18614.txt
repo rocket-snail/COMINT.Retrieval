@@ -1,4 +1,0 @@
-secondary electron emission and the satellite ionization
-    phenomenon electron emission from a satellite and the electron
-    density variation near it due to bombardment by neutral
-    particles are considered

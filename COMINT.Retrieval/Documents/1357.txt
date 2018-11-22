@@ -1,4 +1,0 @@
-theory of the crystal controlled inductive three terminal
-    circuit conditions of oscillation equivalent circuits and
-    methods of compensation for the crystal controlled hartley
-    oscillator are discussed

@@ -1,3 +1,0 @@
-merge sort algorithm [m1] (algorithm a426) may, 1972
-    bron, c. sort, merge 5.31 ca720512 jb january 31, 1978 9:33
-    am

@@ -1,8 +1,0 @@
-the electron distribution in the ionosphere over slough
-    part quiet days the distribution of elect on density with
-    height is calculated from records using an electronic computer
-    the method assumes sumes that the curve increases monotonically
-    and allows for the effect of the earths magnetic field the
-    height of maximum electron density in the f layer is found to
-    be considerably lower than previously supposed particularly in
-    the summer and equinox months

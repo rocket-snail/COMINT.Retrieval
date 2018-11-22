@@ -1,4 +1,0 @@
-the influence of coherent magnetic dipole radiation field
-    on magnetic resonance corrections to the relaxation time and
-    resonance frequency shift due to the effect of the radiation
-    field are computed

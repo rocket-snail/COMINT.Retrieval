@@ -1,6 +1,0 @@
-chemical generation and storage of electricity a review
-    of recent work on fuel cells whose operation is based on
-    oxidation of carbon and hydrogen and which give a low voltage
-    output the particular importance of this type of cell is that
-    it may give higher efficiency in the use of primary
-    fuels

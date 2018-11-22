@@ -1,4 +1,0 @@
-double compensated tunable cavity two frequency
-    temperature compensation of hermetically sealed cavities filled
-    with dry inert gas is described a typical performance curve is
-    shown

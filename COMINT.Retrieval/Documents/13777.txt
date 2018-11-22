@@ -1,6 +1,0 @@
-high frequency amplification using junction transistors
-    the maximum possible stage gain of a unilateralized grounded
-    emitter narrow band amplifier stage is calculated and the
-    design of interstage coupling transformers is described a
-    typical if amplifier stage is designed and its stability factor
-    calculated

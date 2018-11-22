@@ -1,3 +1,0 @@
-the winding capacitances in magnetic amplifiers the
-    distributed winding capacitance can be replaced by a lumped
-    capacitance for which an empirical formula is found

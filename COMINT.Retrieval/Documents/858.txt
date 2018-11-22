@@ -1,6 +1,0 @@
-electrical and thermal relaxation effects in current
-    carrying metallic conductors the a c admittance of conductors
-    carrying d c is calculated and a relation is found for
-    determining the frequency dependent thermal conductivity
-    results of measurements on lamp filaments confirm this
-    relation

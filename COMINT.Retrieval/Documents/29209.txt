@@ -1,6 +1,0 @@
-computation of the bounding surface of a dipole field in
-    a plasma by a moment technique the cavity formed by a plasma
-    free dipole magnetic field in a field free stationary plasma is
-    determined by a numerical method a possible extension of the
-    theory to determine the shape of the cavity produced in the
-    solar wind by the geomagnetic field is indicated

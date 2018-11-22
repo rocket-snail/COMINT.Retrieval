@@ -1,8 +1,0 @@
-feedback stabilized transistor amplifier loading of the
-    feedback network is avoided by the use of an emitter coupled
-    differential amplifier in the first stage a three stage
-    amplifier using ge transistors gives an overall gain of
-    independent of the transistors used si junction transistors
-    give more stable operation at high ambient temperatures
-    circuits and component values for typical amplifiers are
-    given

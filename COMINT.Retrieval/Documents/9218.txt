@@ -1,9 +1,0 @@
-a brief description of the san jose community college
-    districts 'on-line' registration system. this document is a
-    narrative description of an interactive, on-line registration
-    system, which was designed and written for the san jose
-    community college district. the document includes the machine
-    configuration, the history and development of the system, how
-    the operators and students interact with the system, and
-    examples of various hard copy documents that are associated
-    with the registration system.

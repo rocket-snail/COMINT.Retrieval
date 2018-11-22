@@ -1,5 +1,0 @@
-wide band linear amplifier the amplifier de cribed is
-    designed for use with a common aerial to provide a distribution
-    system for a ship frequency coverage is with suppression in the
-    bands nominal gain is performance figures are given the level
-    of intermodulation and cross modulation products is low

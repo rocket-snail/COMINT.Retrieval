@@ -1,2 +1,0 @@
-effects of carrier shifts on derivative networks for ac
-    servomechanisms

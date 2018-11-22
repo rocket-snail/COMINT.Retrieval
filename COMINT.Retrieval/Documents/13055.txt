@@ -1,2 +1,0 @@
-a treatment of cascaded active four terminal networks and
-    with application to transistor circuits

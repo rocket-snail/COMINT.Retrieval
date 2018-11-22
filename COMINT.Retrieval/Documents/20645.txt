@@ -1,4 +1,0 @@
-a solid state microwave amplifier and oscillator using
-    ferrites experimental results obtained with an oscillator based
-    on the proposal by suhl the active element is a piece of
-    magnetized ferrite at room temperature

@@ -1,4 +1,0 @@
-analysis of ferrite core switching for practical
-    applications an analytical expression describing the switching
-    process is derived which is suitable for practical circuit
-    design measurements confirm the results of calculations

@@ -1,2 +1,0 @@
-two terminal junction devices for frequency conversion
-    and computation

@@ -1,6 +1,0 @@
-interaction of charged particles in a dielectric
-    analytical results may be summarized by the statement that if
-    sufficiently distant external charges in a dielectric interact
-    with each other and with the charge of an extra electron or
-    hole as if all charges were renormalized according to the
-    expression

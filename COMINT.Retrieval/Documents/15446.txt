@@ -1,4 +1,0 @@
-transport equations for plasmas in strong external fields
-    coupling of plasma particles to a strong electric field can
-    greatly exceed their mutual coupling and this is shown to lead
-    to a vlasov type transport equation

@@ -1,5 +1,0 @@
-transmission and reflection by a parallel wire grid
-    experimental results are given for the transmission and
-    reflection coefficients of a plane grid of parallel wires at
-    frequencies near kmcs the results are compared with
-    theory

@@ -1,8 +1,0 @@
-learning system for automatic structural analysis of mass
-    spectra. a computer-assisted mass spectral interpretation
-    system with a learning mechanism is described. the set of
-    correspondences between substructure and spectral component
-    (cssc) is used for interpreting mass spectra. cssc is
-    generated, renewed, and improved automatically in the system.
-    chemical structures are represented in terms of blocks, which
-    facilitates the learning process.

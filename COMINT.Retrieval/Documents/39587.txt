@@ -1,9 +1,0 @@
-model of information training specialisation. the
-    training specialisation process in the institute for the
-    advanced training of information workers, moscow, is
-    represented by a stochastic hierarchical
-    continuously-developing structure having parameters dependent
-    on the development pattern of the statewide scientific and
-    technical information system. the institute's realised and
-    planned training specialisations derived from the model in
-    question are listed.

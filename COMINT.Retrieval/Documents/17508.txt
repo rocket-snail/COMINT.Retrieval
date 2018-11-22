@@ -1,3 +1,0 @@
-static switching a transistor nor unit output only when
-    all inputs absent is shown to be suitable as a basic element
-    for building switching systems

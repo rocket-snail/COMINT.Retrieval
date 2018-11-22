@@ -1,4 +1,0 @@
-a guide to the design of sinusoidal oscillators using
-    junction transistors oscillators based on series and parallel
-    resonant circuits rc phase shift networks negative resistance
-    effects and control crystals are included

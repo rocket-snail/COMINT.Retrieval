@@ -1,6 +1,0 @@
-operating conditions of the symmetrical multivibrator an
-    approximate method for the division of a multidimensional phase
-    space into sub spaces is described and applied to analyse the
-    operation of a symmetrical multivibrator taking account of
-    parasitic capacitance and grid current three modes of operation
-    are considered

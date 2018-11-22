@@ -1,8 +1,0 @@
-tunable temperature compensated reference cavity a design
-    is discussed based on separation of the tuning and temperature
-    compensation functions temperature compensation at fixed
-    frequency is discussed first and the conditions for variable
-    frequency are then deduced experiments indicate that a cavity
-    with a double nosed construction can be made satisfying the
-    theoretical requirements over a or band analysis is presented
-    with reference to an equivalent circuit

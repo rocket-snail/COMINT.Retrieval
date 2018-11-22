@@ -1,2 +1,0 @@
-analysis of magnetic amplifiers without diodes a general
-    method of magnetic amplifier analysis is developed

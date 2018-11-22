@@ -1,6 +1,0 @@
-two new equations for the design of filters equations are
-    presented for designing constant k configuration filters with
-    tchebycheff type characteristics for the case when the unloaded
-    q of the elements is sufficiently high for them to be
-    considered nondissipative both band pass and low pass filters
-    are considered the band pass examples are mainly for uhf

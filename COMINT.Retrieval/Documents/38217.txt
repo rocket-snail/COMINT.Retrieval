@@ -1,3 +1,0 @@
-a quartz servo oscillator a description of a quartz
-    oscillator stable to parts in with dual stabilization by
-    resonant loop balance and bridge operated servo control

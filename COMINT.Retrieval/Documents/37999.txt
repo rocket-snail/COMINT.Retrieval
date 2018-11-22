@@ -1,4 +1,0 @@
-calculations for a power amplifier for driving a dc motor
-    analysis of a symmetrical class a amplifier supplying energy to
-    a motor connected in the cathode circuit of the output stage
-    see also of march

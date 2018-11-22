@@ -1,6 +1,0 @@
-variable frequency echo sounding of the ionosphere at
-    oblique incidence the development of the technique described by
-    is discussed with particular attention to synchronizing
-    arrangements records obtained over two paths are compared with
-    records of vertical incidence soundings at points on the
-    paths

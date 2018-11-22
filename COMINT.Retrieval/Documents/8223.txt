@@ -1,5 +1,0 @@
-viewdata' its advantages and effects are still debatable
-    (in german). the advantages and disadvantages of bildschirmtext
-    are discussed. the use of bildschirmtext and its costs are
-    considered and the way in which it functions is
-    outlined.

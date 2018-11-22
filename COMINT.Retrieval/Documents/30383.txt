@@ -1,5 +1,0 @@
-analysis of the split load stage transistorized
-    expressions are derived for the current and voltage gain output
-    impedance and output return loss of a single stage negative
-    feedback circuit results are incorporated in an analysis of a
-    three stage feedback amplifier with split load output

@@ -1,8 +1,0 @@
-bypass and decoupling circuits in audio design the
-    amplifier equation is put into a form which expresses the gain
-    for ideal conditions of perfect bypassing and no reactive
-    elements with separate terms taking account of the actual
-    reactive effects these terms are evaluated for the limiting
-    conditions at the low and high ends of the frequency band and
-    the real and imaginary parts are separated design of triode and
-    pentode circuits is considered

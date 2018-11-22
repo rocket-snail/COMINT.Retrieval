@@ -1,5 +1,0 @@
-determination of ionospheric absorption from recordings
-    of field strength and cosmic noise brief descriptions are given
-    of a method of determining the ionospheric absorption index
-    from oblique incidence recordings and of the riometer method
-    using extraterrestrial noise sources

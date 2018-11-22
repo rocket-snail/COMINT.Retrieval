@@ -1,4 +1,0 @@
-electrostatic field changes due to lightning discharges
-    report and analysis of extensive observations at distances in
-    this range es effects are dominant over induction and radiation
-    effects

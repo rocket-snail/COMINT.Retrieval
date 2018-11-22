@@ -1,8 +1,0 @@
-lsu' the library space utilization methodology. a
-    computerised research technique for measuring the space
-    utilisation of public library facilities provides a behavioural
-    activity and occupancy analysis for library planning purposes.
-    the library space utilisation (lsu) methodology demonstrates
-    that significant information about the functional requirements
-    of a library can be measured and displayed in a quantified
-    form. report not available from ntis.

@@ -1,5 +1,0 @@
-longitudinal and latitudinal effect of the ionosphere
-    estimated by observation on board the soya values of at hourly
-    intervals are plotted against geomagnetic latitude for the
-    range covered by the voyages from japan to antarctica in
-    december and january in

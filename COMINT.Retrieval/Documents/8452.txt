@@ -1,6 +1,0 @@
-direct voltage instantaneous breakdown of oil impregnated
-    paper capacitors as a function of area the experimental results
-    given show that the variation of mean breakdown voltage with
-    increasing area is represented adequately by milnors equation
-    the coefficient of variation appears to be independent of area
-    but decreases with increasing thickness of dielectric

@@ -1,4 +1,0 @@
-junction transistor equivalent circuits and vacuum tube
-    analogy a comparison is made between the operating
-    characteristics of a pnp junction transistor and a triode valve
-    using a network to represent the transistor

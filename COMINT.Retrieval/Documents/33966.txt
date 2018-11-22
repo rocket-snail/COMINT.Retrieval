@@ -1,5 +1,0 @@
-library in-service program for teachers. presents the
-    material given to all new teachers by the librarian of st.
-    mary's dominican high school, new orleans, louisiana; all new
-    teachers spend 4 hours in the school library and research
-    centre on their 2nd day in the school.

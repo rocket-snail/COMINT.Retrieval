@@ -1,7 +1,0 @@
-the smoothing of loss attenuation in basic types of
-    ladder filter the characteristics of basic and terminating half
-    sections with losses are derived from image parameter theory
-    and the results applied to show how the attenuation can be
-    smoothed by introducing mismatch at the end of the end of the
-    filter or by inserting series and or shunt resistors at
-    properly chosen points within the network

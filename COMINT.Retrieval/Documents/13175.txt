@@ -1,6 +1,0 @@
-pulse distortion by band filters the roots of the
-    homogeneous differential equations for image parameter band
-    pass filters with one to four stages are tabulated the
-    integration constants are determined for the case of a square
-    wave modulated carrier equal to the mid band frequency of the
-    filter

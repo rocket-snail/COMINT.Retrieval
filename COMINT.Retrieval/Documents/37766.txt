@@ -1,3 +1,0 @@
-a class of optimal noiseless load h sharing matrix
-    switches a scheme for constructing a matrix switch with a
-    reduced number of input wires is given see also below

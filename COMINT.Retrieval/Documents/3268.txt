@@ -1,4 +1,0 @@
-efficient harmonic generation practical harmonic
-    generators are reviewed briefly and the most efficient is shown
-    to be the rectifier amplifier type a transistor amplifier
-    provides best efficiency at low powers

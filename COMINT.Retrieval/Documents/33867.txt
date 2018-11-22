@@ -1,5 +1,0 @@
-solutions of the equations of space charge flow for
-    radial flow between concentric spherical electrodes the
-    solutions are formulated so that arbitrary initial conditions
-    may be introduced by this means a variety of physical problems
-    can be solved with the aid of a table of airy functions

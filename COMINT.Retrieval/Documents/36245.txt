@@ -1,2 +1,0 @@
-romberg integration (algorithm 60) may, 1962 buchner, k.
-    h. ca620518 jb march 20, 1978 1:33 pm

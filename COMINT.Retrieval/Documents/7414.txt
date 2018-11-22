@@ -1,7 +1,0 @@
-directory of selected forestry-related bibliographic data
-    bases. the compilation lists 117 bibliographic data bases
-    maintained by scientists of the forest service, us department
-    of agriculture. for each data base, the following information
-    is provided' name of the data base; originator; data started;
-    coverage by subject, geographic area, and size of collection;
-    base format and availability.

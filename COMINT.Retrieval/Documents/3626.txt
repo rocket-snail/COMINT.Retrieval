@@ -1,7 +1,0 @@
-telesoftware-value added teletext. the introduction of
-    the home microcomputer to a large population is discussed. the
-    need to make it cheap, easy to buy and operate and provide the
-    correct service is emphasised. using the television and the
-    teletext system, a method of providing computing power in the
-    home is described. the hardware necessary, design of programmes
-    and how the oracle software may be used are considered.

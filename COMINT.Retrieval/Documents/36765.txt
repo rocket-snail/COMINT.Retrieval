@@ -1,7 +1,0 @@
-a short modern review of fundamental electro magnetic
-    theory the method of presenting concepts taking the inverse
-    square law of force between magnetic poles or electric charges
-    as starting point is recommended as stressing the symmetry of
-    magnetic and electrical relations faradays laws of induction
-    are discussed and maxwells equations are presented in terms of
-    electric and magnetic flux density

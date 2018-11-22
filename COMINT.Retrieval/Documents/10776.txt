@@ -1,3 +1,0 @@
-transistor voltage regulators design considerations are
-    discussed for series type regulators and the magnetic amplifier
-    type designed for the tridac computer is described

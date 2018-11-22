@@ -1,3 +1,0 @@
-electrons in lattice fields a study of the motion of a
-    free electron in the conduction band of an ionic crystal taking
-    account of the lattice vibrations

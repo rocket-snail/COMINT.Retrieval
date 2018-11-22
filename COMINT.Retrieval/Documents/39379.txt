@@ -1,7 +1,0 @@
-discriminator circuit analysis theory and performance
-    figures are given for a simple frequency discriminator circuit
-    using an asymmetrical arrangement the conversion efficiency
-    compares favourably with that of the equivalent foster seeley
-    discriminator it is particularly recommended for purposes where
-    high efficiency is of greater importance than accurate
-    linearity over a wide frequency range

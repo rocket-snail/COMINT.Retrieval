@@ -1,5 +1,0 @@
-the second moment of a paramagnetic absorption line
-    taking account of the effect of fine and hyperfine structures
-    formulae are derived for calculating the reduced second moment
-    of a resonance line and the fine structure constants of nuclear
-    and electron paramagnetic absorption

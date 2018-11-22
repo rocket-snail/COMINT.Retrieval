@@ -1,2 +1,0 @@
-theory of afc synchronization correction to paper noted
-    in of november

@@ -1,6 +1,0 @@
-the hybrid ring a hybrid circuit for very high
-    frequencies input admittance and coupling attenuation are
-    calculated as functions of frequency good agreement with
-    measured values is obtained methods of increasing bandwidth are
-    discussed and a practical arrangement is described for the band
-    using a construction similar to microstrip

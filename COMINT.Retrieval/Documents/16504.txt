@@ -1,4 +1,0 @@
-simplified coincidence circuits using transistor and
-    diodes a simple coincidence circuit is described which is as
-    fast as a standard valve circuit the measured threshold and
-    resolving time characteristics are given

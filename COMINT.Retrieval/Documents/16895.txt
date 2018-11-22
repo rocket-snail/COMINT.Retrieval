@@ -1,6 +1,0 @@
-calculation of charge density distribution of multilayers
-    from transit time data a method is discussed for calculating
-    the electron density distribution in the ionosphere from data
-    obtained using a rocket borne variable frequency transmitter or
-    pulse reflections from higher layers it is not possible to
-    obtain a solution free from ambiguity

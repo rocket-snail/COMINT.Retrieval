@@ -1,4 +1,0 @@
-ion drag pressure generation a theory of pressure build
-    up under unipolar ion conduction is presented and verified
-    experimentally constriction of the current flow leads to
-    sizable pressures in insulating liquids

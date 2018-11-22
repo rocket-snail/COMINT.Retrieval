@@ -1,4 +1,0 @@
-scattering by a narrow unidirectionally conducting
-    infinite strip expressions for the far zone fields and the
-    first two terms in the series for the total scattering cross
-    section are obtained

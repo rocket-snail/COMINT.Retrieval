@@ -1,5 +1,0 @@
-graphical analysis for circuits containing overdriven
-    vacuum tubes methods of approach and graphical constructions
-    for use in analysis of circuits such as those used for pulse
-    forming and wave shaping are described with applications to
-    particular circuits

@@ -1,9 +1,0 @@
-closed catalogs and split files' a funny thing happened
-    on the way to the form. discusses problems in converting
-    catalogues to aacr2, suggesting alternative methods of
-    effecting the changeover. many libraries are closing or
-    freezing their card catalogues in the usa and moving to a com,
-    interim card or on-line catalogue. if all aacr2 changes are not
-    made as they occur split files are inevitable which leads to
-    poor precision and recall as users are reluctant to search in
-    more than 1 place.

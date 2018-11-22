@@ -1,4 +1,0 @@
-theory of electrical conductivity in metal the
-    fluctuations in the potential in the electron ion plasma of a
-    metal and the electrical resistance due to the scattering of
-    electrons by these fluctuations are calculated

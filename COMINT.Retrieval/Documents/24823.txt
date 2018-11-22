@@ -1,9 +1,0 @@
-reflection of an electron beam from high frequency fields
-    experimental verification of time average forces due to an rf
-    field acting on charged particles is obtained by measuring the
-    transmission of an electron beam through the high frequency
-    fields of a cavity by adjusting the external dc magnetic field
-    so that cyclotron resonance is approached it is possible to
-    reflect high energy beams that is of microwave power completely
-    reflected a beam agreement between experiment and theory was
-    close

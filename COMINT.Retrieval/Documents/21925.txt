@@ -1,9 +1,0 @@
-the hall effect in metals at high frequencies theory is
-    developed in terms of a surface hall coefficient calculations
-    are made for a metal with two overlapping energy bands and the
-    variations with frequency and with field strength are shown
-    graphically for some special cases at very low frequencies the
-    hall coefficient is constant over a range of higher frequencies
-    it increases as the square root of the frequency and then
-    becomes constant again the frequency variation of the phase
-    angle between current and hall is also investigated

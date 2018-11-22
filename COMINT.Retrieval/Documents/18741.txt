@@ -1,6 +1,0 @@
-transistor equations using h parameters transistor
-    circuit calculations are simplified by making use of d
-    fundamental parameters for the four terminal network
-    corresponding to the base input common emitter circuit circuit
-    equations in terms of these parameters are tabulated for the
-    three basic configurations

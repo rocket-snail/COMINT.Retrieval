@@ -1,8 +1,0 @@
-matrix analysis of linear time varying circuits on cavity
-    resonators with nonhomogeneous media perturbation theory is
-    used to find the frequencies of oscillation and factors of a
-    cavity containing a medium for which the permittivity and the
-    permeability are arbitrary functions of position the theory is
-    applied to cylindrical cavity containing a disc of dielectric
-    which dies not extend over the complete cross section of the
-    cavity

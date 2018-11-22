@@ -1,2 +1,0 @@
-auroral radio echo table and diagram for a station in
-    geomagnetic latitude

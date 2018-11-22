@@ -1,5 +1,0 @@
-diffusion cooling o electrons in ionized gases
-    measurements made during low pressure ne and ar afterglows show
-    a reduction in ambipolar diffusion coefficient characteristic
-    of diffusion cooling which is not observed when he is
-    present

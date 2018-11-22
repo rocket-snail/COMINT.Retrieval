@@ -1,4 +1,0 @@
-development of basic data systems. student information.
-    describes alabama's educational student information systems and
-    outlines 15 activities in the development of such systems.
-    report not available from ntis.

@@ -1,4 +1,0 @@
-calculation of mixing processes in transistor stages at
-    low frequencies on the basis of the equivalent circuit diagram
-    extension of the theory given in of august to transistor mixer
-    circuits and to distortion effects in them

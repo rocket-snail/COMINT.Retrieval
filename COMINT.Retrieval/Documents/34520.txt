@@ -1,4 +1,0 @@
-high density recording on magnetic tape a self clocking
-    technique is used to bypass problems of digital recording at a
-    density of bits high reliability is obtained with no
-    information drop out

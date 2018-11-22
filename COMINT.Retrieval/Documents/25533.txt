@@ -1,2 +1,0 @@
-tchebycheff approximation for loss free image parameter
-    filters according to cauer

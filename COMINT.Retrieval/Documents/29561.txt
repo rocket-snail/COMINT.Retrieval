@@ -1,3 +1,0 @@
-a relationship between the lower ionosphere and the night
-    glow emission correlation is found between the emission and
-    radio echoes obtained with a ionosonde

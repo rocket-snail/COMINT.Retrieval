@@ -1,5 +1,0 @@
-a low capacitance input circuit methods of reducing the
-    effect of coaxial cable capacitance are discussed a probe
-    containing only passive elements is used with a single triode
-    pentode valve feedback amplifier to give an input capacitance
-    of and a gain of unity over a bandwidth of

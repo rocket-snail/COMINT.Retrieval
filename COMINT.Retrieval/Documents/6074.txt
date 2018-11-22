@@ -1,7 +1,0 @@
-on the space charge divergence of an axially symmetric
-    beam the usual assumptions made in estimating the space charge
-    effect are consistent with a coaxial cylindrical conducting
-    boundary for small amounts of divergence a hyperbola solution
-    is suggested this may in some cases be as good as or better
-    than the usual solution even when divergence is not
-    small

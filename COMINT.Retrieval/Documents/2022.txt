@@ -1,5 +1,0 @@
-the stabilization of dc voltages by switched transistors
-    stabilizing circuits are discussed in which transistors
-    function as continuous control devices or as switches driven by
-    a schmitt trigger circuit comparison is also made with a
-    transistor switched rectifier circuit

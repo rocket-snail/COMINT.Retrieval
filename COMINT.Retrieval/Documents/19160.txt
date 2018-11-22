@@ -1,4 +1,0 @@
-on plasma oscillations with special emphasis on the
-    landau damping and the gross gaps in the frequency spectrum a
-    linear theory of oscillations of the form in a collision free
-    electron plasma in an external magnetic field is given

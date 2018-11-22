@@ -1,9 +1,0 @@
-theory of ferromagnetic anisotropy by means of a virial
-    theorem and perturbation theory the anisotropy energy of a
-    ferromagnetic crystal is expressed in terms of the coulomb
-    energy alone this is approximated by a multipole expansion and
-    the anisotropy constants are given in terms of electric
-    multipole moments and crystalline potential constants the
-    multipole moments which arise from the orbital angular momentum
-    induced by spin orbit coupling have been estimated from the
-    known values of angular momentum

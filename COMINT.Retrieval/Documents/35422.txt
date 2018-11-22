@@ -1,6 +1,0 @@
-ion neutral reactions a list is given of reactions which
-    may control the chemical composition of positive ions in the
-    ionosphere under certain assumptions about reaction rate
-    coefficients nitrogen is substantially dissociated in the f
-    region to the theoretical conclusions of other
-    investigators

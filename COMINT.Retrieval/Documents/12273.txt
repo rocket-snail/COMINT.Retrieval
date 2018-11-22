@@ -1,8 +1,0 @@
-the radiation greens functions analysis for the radiation
-    field of a group of charges is derived using functions similar
-    to the greens function of potential theory but applied to the
-    time variables problems of radiation theory the method presents
-    a model of interaction between a quantum of movement of a unit
-    point charge and the corresponding excitation of a set of eigen
-    fields it is illustrated by treating the case of a point charge
-    rotating in a cylindrical cavity

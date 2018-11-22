@@ -1,6 +1,0 @@
-scattering of electromagnetic waves from a random surface
-    the medium below the surface is assumed to be perfectly
-    conducting so that the far zone form of the stratton chu
-    solution can be used the mean and covariance of the approximate
-    expression for the scattered radiation are determined for both
-    vertical and horizontal polarization

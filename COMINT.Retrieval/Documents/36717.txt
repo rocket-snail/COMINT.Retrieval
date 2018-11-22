@@ -1,7 +1,0 @@
-a study of the ionospheric irregularities which cause
-    spread f echoes and scintillations of radio stars a discussion
-    of the correlation between the occurrence of spread f echoes at
-    slough inverness and oslo the irregularities responsible for
-    the spreading occur in bands which lie along parallels of
-    latitude and have a width of the order of km it is suggested
-    that the irregularities occur at heights near km

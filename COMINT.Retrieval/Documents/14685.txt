@@ -1,8 +1,0 @@
-theory of a conductor near the boundary of two media the
-    electromagnetic field due to an oscillation of angular
-    frequency in the conductor can usually be split into two
-    components a cylindrical wave field and a spherical wave field
-    near the axis of the conductor which is parallel to the
-    boundary plane the field is of a special type the condition for
-    the existence of the two components is derived and applied to
-    particular cases

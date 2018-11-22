@@ -1,8 +1,0 @@
-statistics on headings in the marc file. the statistics
-    provide information on the characteristics of headings in the
-    l.c. marc 2 file and the expected sizes and growth rates of
-    various subsets of authority files. the information is to be
-    used to assist in making decisions concerning the contents of
-    authority files for different authority files for different
-    types of headings and the frequency of update for various
-    subsets.

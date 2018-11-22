@@ -1,6 +1,0 @@
-osculating elements derived from the modified hansen
-    theory for the motion of an artificial satellite musens
-    development of the hansen theory for the motion of an
-    artificial satellite can also lead to an expression for the
-    velocity vector and osculating elements as well as for the
-    gravitational perturbations

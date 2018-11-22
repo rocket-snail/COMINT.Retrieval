@@ -1,7 +1,0 @@
-dc stability of transistor circuits the design of
-    amplifiers using junction transistors is discussed with
-    particular reference to the influence of the base to collector
-    leakage current which increases rapidly with rising temperature
-    for stable operation the change of collector current produced
-    by a change of leakage current should be low circuit
-    arrangements for achieving this are indicated

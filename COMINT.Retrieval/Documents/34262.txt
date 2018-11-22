@@ -1,5 +1,0 @@
-improvement in a paramagnetic electron resonance
-    spectrograph application to the study of diphenylpicrylhydra
-    the sensitivity of apparatus operating in the band is greatly
-    increased when the klystron source of nominal power is replaced
-    by one of much higher power

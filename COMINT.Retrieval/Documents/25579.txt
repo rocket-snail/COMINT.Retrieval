@@ -1,4 +1,0 @@
-self healing in metallized paper capacitors the physical
-    and manufacturing techniques involved in the production of
-    truly self healing single layer metallized paper capacitors are
-    described

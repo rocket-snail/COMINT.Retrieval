@@ -1,5 +1,0 @@
-on the damping of electromagnetic waves in a plasma
-    situated in a magnetic field using expressions derived by
-    sitenko and stepanov for the components of the permittivity
-    tensor an expression for the damping coefficient is
-    obtained

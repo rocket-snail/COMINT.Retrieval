@@ -1,4 +1,0 @@
-triode cathode followers for impedance matching to
-    transformers and filters design curves derived from
-    measurements on five different types of triode are
-    presented

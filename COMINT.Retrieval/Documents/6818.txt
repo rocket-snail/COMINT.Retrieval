@@ -1,6 +1,0 @@
-the characteristics and applications of thermally
-    sensitive resistors or thermistors basic properties of
-    thermistors are reviewed and terms used to specify their
-    characteristics are defined outline descriptions are given of
-    their applications in measurement control and protection
-    circuits etc

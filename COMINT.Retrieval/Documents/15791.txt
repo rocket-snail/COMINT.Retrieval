@@ -1,5 +1,0 @@
-a possible cause of air resistance changes in satellite
-    orbits the variation in the extent of the atmosphere in
-    accordance with geomagnetic activity particularly in the
-    auroral zones is suggested as a possible cause of observed
-    changes in satellite orbital period

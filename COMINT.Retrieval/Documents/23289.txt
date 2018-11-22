@@ -1,9 +1,0 @@
-practical calculation of jacobis sn elliptic function
-    with special reference to the determination of the cauer
-    parameter for filters with operative attenuation
-    characteristics elliptic functions encountered in calculations
-    of tchebycheff type filters are considered the method of
-    deriving these functions and hence the attenuation frequency
-    curve is shown in detail for the case of an antimetrical low
-    pass filter formulae for calculating the functions are
-    tabulated in an appendix

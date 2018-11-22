@@ -1,4 +1,0 @@
-universal circle diagrams for certain radio syst systems
-    when the q of a system eg a lecher line is nearly constant over
-    the pass band circle diagrams similar to those previously
-    obtained for quartz crystals of can be established

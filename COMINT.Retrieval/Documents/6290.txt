@@ -1,7 +1,0 @@
-measurement of ionospheric drift by radio star
-    observations the incidence of scintillations is greatest in the
-    hours before sunrise at puerto rico it is not correlated with
-    spread f or e the drift results show that the ionosphere
-    irregularities causing scintillation are elongated along the
-    lines of force of the geomagnetic field and that drift rather
-    than random changes is the main source of scintillation

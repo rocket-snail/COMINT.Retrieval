@@ -1,3 +1,0 @@
-drift velocity of a charged particle in an inhomogeneous
-    magnetic field a class of magnetic fields is defined for which
-    the drift velocity may be calculated exactly

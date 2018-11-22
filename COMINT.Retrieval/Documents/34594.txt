@@ -1,8 +1,0 @@
-electrical circuit for the direct determination of the
-    energy distribution function of secondary electrons a circuit
-    modification of the retarding field method is described by
-    means of which the current voltage characteristic is
-    differentiated this results in improved accuracy and resolution
-    as compared to numerical differentiation results of
-    measurements on a oxide caesium cathode are shown
-    graphically

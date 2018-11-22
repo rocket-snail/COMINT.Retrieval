@@ -1,9 +1,0 @@
-microwave cavity resonators some perturbation effects and
-    their applications first order perturbation theory is used to
-    examine the change in resonance frequency and q of a cavity due
-    to a small deformation of the wall an expression is derived for
-    the coupling coefficient between the two degenerate modes h and
-    e in the absence of perturbation these two modes can co exist
-    applications of the theory to measurements of dielectric
-    properties study of ferromagnetic resonance etc are
-    described

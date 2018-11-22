@@ -1,4 +1,0 @@
-performance calculations for dc chopper amplifiers
-    switched chopping and demodulating circuits are analysed and
-    methods of calculating the essential parameters are
-    described

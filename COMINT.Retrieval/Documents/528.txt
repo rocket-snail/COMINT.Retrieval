@@ -1,5 +1,0 @@
-approximation of transient response from frequency
-    response data a relatively short method is described involving
-    an point graphical integration which gives accurate results for
-    linear feedback systems with a closed loop transfer function of
-    fifth order or below

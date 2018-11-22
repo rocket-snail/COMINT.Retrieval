@@ -1,8 +1,0 @@
-international symposium on electrical discharges in gases
-    the text is given of papers presented at the symposium held at
-    delft in april the subjects discussed included fundamental
-    processes in gas discharges instabilities and oscillations in
-    gas discharges high frequency discharges and the dependence of
-    breakdown on frequency and on the product of pressure and
-    electrode separation methods of measurement arc discharges and
-    spark discharges

@@ -1,7 +1,0 @@
-geomagnetic distortion of the region on the magnetic
-    equator part two an extension of work described earlier to
-    study the relation between diurnal variations of years of
-    different sunspot number and the phase of germagnetic
-    variations region distortion is explatned by vertical
-    ionization drift due to the field extended from the
-    region

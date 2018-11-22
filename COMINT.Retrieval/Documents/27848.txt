@@ -1,4 +1,0 @@
-orbits of artificial satellites orbits are specified by
-    three nondimensional parameters at rocket burnout and
-    expressions giving the periods of closed orbits in terms of the
-    parameters are derived

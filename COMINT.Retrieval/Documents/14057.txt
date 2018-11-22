@@ -1,5 +1,0 @@
-distributed amplifier for nuclear research details
-    including component values are given of a four stage amplifier
-    with input and output impedances of gain is over a bandwidth of
-    pulses with rise times as short as sec are satisfactorily
-    reproduced linearity is good up to output

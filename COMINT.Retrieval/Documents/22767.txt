@@ -1,5 +1,0 @@
-theory of diffraction at a sphere taking account of the
-    surface wave theory developed previously of is applied to the
-    case of a sphere the main difference found is an abrupt phase
-    change in the surface wave a as it passes over either
-    pole

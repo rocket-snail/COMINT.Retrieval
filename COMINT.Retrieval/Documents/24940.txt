@@ -1,8 +1,0 @@
-on the properties of the electron beam in the presence of
-    an axial magnetic field of arbitrary strength a study of the
-    effect of an axial magnetic field on the propagation of waves
-    in an idealized electron beam using small signal theory and
-    neglecting collisional effects the possibility of angular
-    asymmetric excitation is considered and special attention is
-    paid to the influence of the a c drift lorentz terms and of the
-    relativistic corrections in the derived equations

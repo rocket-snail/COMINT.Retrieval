@@ -1,5 +1,0 @@
-the definition of noise factor when applied to systems
-    containing negative resistance elements the concept of
-    available power and the definition of noise factor are extended
-    to include negative resistance by using the idea of
-    exchangeable power

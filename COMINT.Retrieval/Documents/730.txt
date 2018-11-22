@@ -1,5 +1,0 @@
-magnetic forces and relativistic speeds in stationary
-    electron beams in nonrelativistic electron beams magnetic
-    forces may have to be considered they are still more important
-    in relativistic beams care must be taken in using the results
-    of calculations in which these forces are neglected

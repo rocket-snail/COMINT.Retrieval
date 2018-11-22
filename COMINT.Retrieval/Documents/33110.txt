@@ -1,4 +1,0 @@
-a quick method for calculating transistor amplifier
-    circuits by neglecting the parameter calculations on transistor
-    amplifiers can be greatly simplified this is applied in
-    calculations of feedback temperature stability and noise

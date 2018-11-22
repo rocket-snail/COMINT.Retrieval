@@ -1,8 +1,0 @@
-terminology and equations for linear active four terminal
-    networks including transistors a general system of terminology
-    is developed for linear active quadripoles both nodal and loop
-    analysis being presented definitions are given of current
-    voltage and power amplification factors and the transformation
-    equations are derived the results are applied to a number of
-    transistor circuits the appropriate formulae being tabulated
-    numerical examples are worked out

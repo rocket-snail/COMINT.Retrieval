@@ -1,2 +1,0 @@
-note on coherence vs narrow bandedness in regenerative
-    oscillators masers lasers etc

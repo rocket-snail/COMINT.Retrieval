@@ -1,4 +1,0 @@
-the switching on of a resonant circuit with controlled
-    reactance investigations of the build up transient
-    characteristics of a variable reactance oscillator
-    parametron

@@ -1,3 +1,0 @@
-effect of the magnetic field in ionospheric back scatter
-    back scatter spectral lines may be used to calculate magnetic
-    field ion mass and plasma temperature see also

@@ -1,7 +1,0 @@
-wide band absorbers for electromagnetic waves the
-    construction is described of shaft type absorbers suitable for
-    metre waves measurements of reflection coefficient as a
-    function of frequency and angle of incidence are discussed and
-    the possibilities of reducing the depth of the absorber and of
-    extending the absorption range to lower frequencies are
-    mentioned

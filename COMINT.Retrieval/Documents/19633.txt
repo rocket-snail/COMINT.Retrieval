@@ -1,3 +1,0 @@
-hall effect in ferromagnetics anomalous effects are
-    explained in terms of the spin orbit interaction of polarized
-    conduction electrons

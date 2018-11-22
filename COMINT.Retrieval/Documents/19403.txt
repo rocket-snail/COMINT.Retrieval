@@ -1,5 +1,0 @@
-a fast start stop machine for handling magnetic tape the
-    wide tape is handled at a speed of with start stop times of
-    referred to of the final speed the tape loop length is
-    controlled by phototransistors driving an error correcting
-    servomechanism

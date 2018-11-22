@@ -1,6 +1,0 @@
-a new type of ionospheric drift recorder a method of
-    eliminating photographic and pen recording of fading signals
-    and the laborious calculations a tape recorder is used to
-    introduce a variable time delay into one aerial feed when this
-    delay equals that of the received signals a minimum is obtained
-    delays of have been measured

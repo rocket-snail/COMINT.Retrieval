@@ -1,2 +1,0 @@
-documentation problems: algol 60 march, 1963 naur, p.
-    ca630302 jb march 14, 1978 1:50 pm

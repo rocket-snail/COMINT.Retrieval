@@ -1,5 +1,0 @@
-attempt to interpret the shape of paramagnetic resonance
-    signals by the introduction of a high frequency demagnetizing
-    field the theory accounts for the asymmetry of the resonance
-    curve of organic radicals such as diphenyl picryl hydrazyl
-    at

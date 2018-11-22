@@ -1,9 +1,0 @@
-thesaurus for urban roads. the thesaurus was constructed
-    for use in the library of the university of sao paulo faculty
-    of architecture and urban studies. in a full introduction, the
-    treatment of terminology and the structural basis are
-    discussed, with notes on the style of presentation. the
-    thesaurus itself is given in full, in five sections' a
-    hierarchical plan, alphabetical list of terms, systematic list
-    of descriptors, hierarchical index of descriptors, and
-    glossary.

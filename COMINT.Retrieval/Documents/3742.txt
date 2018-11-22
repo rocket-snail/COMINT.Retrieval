@@ -1,3 +1,0 @@
-time to pulse height converter a circuit is described for
-    deriving pulses the amplitudes of which decrease linearly with
-    time

@@ -1,8 +1,0 @@
-computer processing of librarianship and scientific
-    information theses. describes the work undertaken by the chair
-    of scientific information and librarianship at the faculty of
-    philosophy, charles university in prague. for the computer
-    processing of theses, system asti was applied. by producing
-    varied types of indexes, this system enables a wide access to
-    the stored data. its scope can be enlarged to include theses on
-    a national scale.

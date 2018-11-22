@@ -1,1 +1,0 @@
-odd binary asynchronous counters

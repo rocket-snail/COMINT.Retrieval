@@ -1,6 +1,0 @@
-a few considerations on library automation. the
-    advantages and disadvantages of automation in libraries are
-    discussed. concludes that there are real gains for users but
-    that automation will not solve all problems. automation should
-    release qualified staff from routine work and give them more
-    time for specialised work.

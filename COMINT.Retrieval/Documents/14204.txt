@@ -1,6 +1,0 @@
-the determination of a criterion for the surface
-    conduction of insulating solids an electrode system is
-    described for determining a curve of the variation of specific
-    resistance of a specimen as a function of distance between
-    electrodes a criterion of surface conduction may be deducted by
-    extrapolation

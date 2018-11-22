@@ -1,7 +1,0 @@
-transfer matrix of a four terminal passive network in
-    terms of its image parameters the constants in the fundamental
-    simultaneous equations relating the input and output voltages
-    and currents for a linear passive quadripole have a particular
-    significance and can be used to derive the transfer matrix of
-    any passive network in terms of the image impedances this is
-    demonstrated for the l type of network

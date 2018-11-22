@@ -1,5 +1,0 @@
-small signal analysis of molecular beam masers a
-    perturbation calculation gives the resonance polarization of a
-    molecule in an electric field as a function of time an analysis
-    is then made of maser operation with a divergent univelocity
-    beam

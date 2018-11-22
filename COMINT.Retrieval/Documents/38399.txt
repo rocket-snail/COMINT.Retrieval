@@ -1,3 +1,0 @@
-a band parametric amplifier with large bandwidth a
-    bandwidth of at was achieved using a single varactor
-    diode

@@ -1,8 +1,0 @@
-bounds existing on the time and frequency responses of
-    various types of networks six theorems are presented relating
-    the transient and steady state responses of linear stable fixed
-    lumped constant networks fourier transform analysis is used
-    physical interpretations are discussed rise times and settling
-    times being considered the overshoot or undershoot of the
-    response to a step current input for a rc driving point
-    impedance cannot be

@@ -1,7 +1,0 @@
-some factors influencing field emission and the fowler
-    nordheim law departures from the normal fowler nordheim law
-    which have been observed at fields up to have previously been
-    ascribed to space charge field distortion it is shown that
-    certain other effects due to failure of the image law non
-    uniformity of work function and to passible surface
-    irregularities could produce simular effects

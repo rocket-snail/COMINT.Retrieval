@@ -1,4 +1,0 @@
-motion of gaseous ions in a strong electric field part
-    the theory previously given for uniform ion densities of is
-    extended to deal with nonuniform densities errata in the
-    earlier paper are indicated

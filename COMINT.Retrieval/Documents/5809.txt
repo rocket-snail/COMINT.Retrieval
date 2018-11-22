@@ -1,4 +1,0 @@
-magnetostriction discussion of magnetostriction phenomena
-    in single crystals and in multicrystal materials three effects
-    are distinguished form effect forced magnetostriction
-    spontaneous linear magnetostriction

@@ -1,5 +1,0 @@
-high frequency oscillators designed for regulation and
-    control of aircraft vhf equipment description of a quartz
-    controlled fixed frequency unit and a vfo with a frequency
-    converter for the range of a quartz crystal provides check
-    points for all harmonics of in the range of the vfo

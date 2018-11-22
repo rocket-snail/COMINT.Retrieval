@@ -1,2 +1,0 @@
-report on input-output procedures for algol 60 (ifip)
-    october, 1964 ca641018 jb march 9, 1978 4:32 pm

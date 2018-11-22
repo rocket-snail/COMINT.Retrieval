@@ -1,9 +1,0 @@
-switching on the electronic library. briefly discusses
-    the cost of using 'electronic libraries' (data bases) and
-    explains why it is worth the expense in 3 areas-patents,
-    medical and chemical information, and the law. refers to the
-    problem of choosing appropriate terms in a data base search and
-    the development of user-friendly almost-foolproof computer
-    systems. concludes that, despite the difficulties, these
-    electronic libraries are still much more convenient than
-    systems such as prestel.

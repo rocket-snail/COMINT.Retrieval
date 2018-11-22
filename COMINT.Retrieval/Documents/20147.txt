@@ -1,2 +1,0 @@
-the integral of error squared criterion for servo
-    mechanisms

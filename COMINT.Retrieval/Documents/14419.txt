@@ -1,2 +1,0 @@
-diffraction of a spherical wave pulse by a half f plane
-    screen fourier integral treatment for a point source

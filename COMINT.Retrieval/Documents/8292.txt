@@ -1,7 +1,0 @@
-a subsidiary layer in the e region of the ionosphere
-    echoes from sporadic e can be distinguished from those from a
-    layer at km height it is suggested that the ionization in this
-    layer results from the impact of meteors on the atmosphere and
-    that it may therefore be called the meteoric e layer the
-    distinctive properties may be used to extend the use of the
-    ionosphere for intermediate distance radio communication

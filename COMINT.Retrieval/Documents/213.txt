@@ -1,6 +1,0 @@
-elliptic functions in network synthesis the jacobian
-    elliptic functions are used to solve the approximation problem
-    of network synthesis a unified design chart for image parameter
-    filters elliptic function filters and phase difference networks
-    is shown and tabular and graphical data emphasizing extreme
-    parameter values are given

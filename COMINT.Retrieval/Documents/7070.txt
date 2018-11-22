@@ -1,7 +1,0 @@
-ionospheric absorption investigations at hawaii and
-    johnston island the absorption of cosmic noise at thirty mcs
-    varies in such a way as to suggest that the patches of
-    absorption are less than one thousand km in size the variations
-    are not correlated with the spread f or with the sporadic e
-    phenomena but are correlated with f suggesting partial
-    reflection of the cosmic noise by the f layer

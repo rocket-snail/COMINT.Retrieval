@@ -1,7 +1,0 @@
-a modified miller timebase circuit high linearity and
-    rapid flyback are achieved by using a blocking oscillator to
-    charge the feedback capacitor in the miller type circuit
-    compensation is provided for variations in the blocking
-    oscillator characteristics a unit giving sweep durations of
-    with either triggered or continuous operation is
-    described

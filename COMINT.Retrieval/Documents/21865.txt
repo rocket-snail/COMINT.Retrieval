@@ -1,5 +1,0 @@
-distribution of current densities on the edges oo an
-    ideally conducting rectangular wedge placed in the field of a
-    plane electromagnetic wave simplified formulae for calculating
-    current densities are derived which in their final form contain
-    only well known tabulated functions

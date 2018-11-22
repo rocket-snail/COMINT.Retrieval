@@ -1,2 +1,0 @@
-negative resistance distributed amplifier operation f the
-    amplifier is described in terms of iterative sections

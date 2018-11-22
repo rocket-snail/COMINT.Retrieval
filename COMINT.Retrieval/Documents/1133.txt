@@ -1,7 +1,0 @@
-simplified analog computers differential analyser is
-    described based on ten identical operational amplifiers which
-    may b used for integration multiplication etc as required by
-    the particular problem the arrangement is very flexible and may
-    be used with external circuitry for the generation of special
-    functions required in synthesizing particular input
-    analogues

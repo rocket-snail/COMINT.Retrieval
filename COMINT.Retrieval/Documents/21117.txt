@@ -1,8 +1,0 @@
-analysis of network response to periodic waves the steady
-    state response of a network to a nonsinusoidal periodic wave
-    may be found by applying the operational calculus method of
-    waidelich of in a simplified form the method can be used for
-    any linear network comprising a finite number of lumped
-    elements a set of rules for obtaining the required inverse
-    transforms together with a table of inverse transforms for
-    square wave inputs is pe presented and explained

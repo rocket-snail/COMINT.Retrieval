@@ -1,6 +1,0 @@
-how analogue networks solve air conditioning problems the
-    thermal properties of a unit area of the structural elements
-    are represented by an equivalent electrical circuit a complelt
-    block diagram shows how these are used to simulate the thermal
-    behaviour of a room and its air conditioning system some
-    detailed circuitry is given

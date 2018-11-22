@@ -1,5 +1,0 @@
-a versatile pulse shaper a triggered miniature thyratron
-    circuit is described for deriving sharp pulses with uniform
-    amplitude and duration from an input of nonuniform pulses a
-    table shows the output waveform for various circuit
-    arrangements and component values

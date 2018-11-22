@@ -1,3 +1,0 @@
-group delay and group velocity the concepts are defined
-    and their relation to the transfer function of a network is
-    given see also of

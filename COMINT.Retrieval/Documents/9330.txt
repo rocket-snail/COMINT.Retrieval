@@ -1,5 +1,0 @@
-cosmic rays observed by satellite an analysis of the
-    telemetered cosmic ray information received in japan except
-    during magnetic storm conditions the number of cosmic rays
-    decreases exponentially with height diurnal and storm
-    variations are discussed

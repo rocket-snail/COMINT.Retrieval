@@ -1,9 +1,0 @@
-a design for a constant volume amplifier the so called
-    constant volume amplifier is used extensively on overseas
-    telephone circuits so that a reasonable modulation depth can be
-    used without the risk of overmodulation circuit details are
-    given of an amplifier which is simple to set up and reliable in
-    operation and which uses a cathode follower circuit as a
-    variable impedance the results obtained are comparable to those
-    given by conventional networks using metal rectifier bridge
-    networks

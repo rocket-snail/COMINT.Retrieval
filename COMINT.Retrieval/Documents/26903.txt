@@ -1,5 +1,0 @@
-on an interplanetary magnetic field arguments are
-    presented for the existence of an interplanetary magnetic field
-    f intensity not exceeding g such a field would explain the
-    observed cut off in the primary cosmic ray momentum spectrum
-    and time delays in solar terrestrial phenomena

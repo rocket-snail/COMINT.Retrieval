@@ -1,5 +1,0 @@
-a method ensuring stability and equality of channel
-    widths in a pulse amplitude analyser the method is basically
-    that of wilkinson of pulses of amplitudes between and are
-    accepted and bandwidth stability for hour working periods is
-    within

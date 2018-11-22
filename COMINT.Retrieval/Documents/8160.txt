@@ -1,2 +1,0 @@
-heapsort (algorithm 232) june, 1964 williams, j. w. j.
-    ca640608 jb march 9, 1978 9:34 pm

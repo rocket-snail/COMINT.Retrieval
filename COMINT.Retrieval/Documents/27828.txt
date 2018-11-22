@@ -1,3 +1,0 @@
-two simple estimates for overshoot and group delay
-    approximations relating to the transient response of cascade
-    connected quadripoles

@@ -1,6 +1,0 @@
-sensitivity of microwave spectrometers using maser
-    techniques expressions ar derived for the reduction in the
-    coefficient of minimum detectable absorption in a microwave
-    waveguide when molecules in an excited state are added along
-    the waveguide the application of this principle to a cavity
-    spectrometer is discussed

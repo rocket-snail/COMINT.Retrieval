@@ -1,7 +1,0 @@
-abac of the function for studying the initial complex
-    permeability of circular cross section conductors at high
-    frequency the impedance of the conductor is measured and the
-    parameter is then found from the abac using a known formula the
-    complex permeability is then derived using a given relation
-    between and this abac supplements tht presented by prache which
-    was not applicable to good conductors

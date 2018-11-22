@@ -1,3 +1,0 @@
-bessel functions computed recursively (algorithm 44)
-    april, 1961 wojcicki, m. e. ca610411 jb march 17, 1978 12:01
-    am

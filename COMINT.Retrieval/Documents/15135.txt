@@ -1,5 +1,0 @@
-simultaneous study of drifts at different levels in the
-    ionosphere by the spaced receiver method by comparing drift
-    speeds in the and regions the effect of a lower layer on upper
-    layer drift measurements is deduced and drift gradients are
-    estimated

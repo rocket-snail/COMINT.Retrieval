@@ -1,7 +1,0 @@
-on simulation studies of motion of bodies in ionized
-    atmosphere the problems involved in laboratory model studies on
-    satellite motion in an ionized z atmosphere are analysed
-    scaling relations obtained satisfy the conditions for
-    aerodynamic magneto hydrodynamic and electrodynamic similitude
-    flight conditions corresponding to the earths upper atmosphere
-    can be simulated by suitable scaling of he test model

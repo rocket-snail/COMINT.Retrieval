@@ -1,5 +1,0 @@
-stabilization of a servomechanism subject to large
-    amplitude oscillation the frequency response method of analysis
-    developed by kochenburger of is applied to a system containing
-    a saturable amplifier and in determining the required nonlinear
-    stabilizing filter

@@ -1,9 +1,0 @@
-investigation of high frequency discharge by method of
-    probes the methods used by banerji and ganguli were compared
-    experimentally the results obtained in the two cases were
-    similar a study was also made of the temperature concentration
-    of electrons and potential along the axis of the discharge tube
-    at various pressures between about and mm hg of and at
-    frequencies of the order of the distribution was found to
-    depend on the gas pressure the diameter of the tube and the hf
-    field strength results are presented graphically

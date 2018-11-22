@@ -1,5 +1,0 @@
-analogue multiplication using time as one variable if one
-    analogue quantity appears as a time interval accurate
-    electronic multiplication is simplified transistor circuits
-    giving products proportional to average or peak output voltage
-    are described

@@ -1,7 +1,0 @@
-dissipative networks with third order maximally flat
-    amplitude characteristics an analysis is made of dissipative
-    low pass networks a simple chande of t e frequency variable
-    allows the results to be applied to bead pass networks for the
-    case of narrow band operation the concept of quarter wave
-    coupling is developed and the equivalent triple tuned circuit
-    conf guration is derived

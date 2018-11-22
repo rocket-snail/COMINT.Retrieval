@@ -1,5 +1,0 @@
-theoretical analysis of doppler radio signals from earth
-    satellites the analysis is briefly described and its
-    application to the calculation of the orbits of two satellites
-    sputnik and explorer from isolated observations made at one
-    station is given

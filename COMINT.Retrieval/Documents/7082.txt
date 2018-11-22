@@ -1,9 +1,0 @@
-methods for the calculation of transient distortion based
-    on the general properties of transfer functions theories of
-    transients in filters developed by kupfmuller wheeler and cotte
-    are compared cottes method of calculation is considered most
-    suitable for the general investigation of transient distortion
-    a definition of bandwidth is proposed it is shown that in the
-    general case there is no simple analytical relation of the type
-    derived by kupfmuller between bandwidth and rise time see also
-    of

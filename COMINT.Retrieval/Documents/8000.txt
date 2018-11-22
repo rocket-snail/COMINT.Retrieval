@@ -1,9 +1,0 @@
-computer software and equipment considerations. aims to
-    provide a starting point for understanding what a small
-    computer system for library applications includes and how to
-    get further information on costs of computer software and
-    hardware. considers' terminology; adding terminals; printing
-    capabilities; different types of disc storage; communication
-    capabilities; and service and maintenance. regardless of who
-    supplies the computer (or computer services), someone on the
-    staff must take full responsibility for the project.

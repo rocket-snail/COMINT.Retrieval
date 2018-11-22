@@ -1,4 +1,0 @@
-the calculation of the numerical values of the elliptic
-    functions for tchebycheff type filters formulae suitable for
-    handling by automatic computers are derived for the solution of
-    jacobis elliptic functions

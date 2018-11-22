@@ -1,2 +1,0 @@
-study of the transfer properties of a linear system based
-    on the concept of rate of growth of spectral energy

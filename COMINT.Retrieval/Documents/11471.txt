@@ -1,4 +1,0 @@
-some consequences of the theory of action at a distance
-    in classical electrodynamics the energy taken by a free charge
-    and by a harmonic oscillator is calculated on the absorber
-    theory

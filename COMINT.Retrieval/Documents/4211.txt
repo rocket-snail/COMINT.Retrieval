@@ -1,5 +1,0 @@
-component design trends high frequency coils use new core
-    materials points discussed include use of ferrite cores for
-    coils operating at frequencies up to about use of glass and
-    other low loss materials for formers and use of toroidal
-    constructions

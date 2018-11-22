@@ -1,3 +1,0 @@
-maxflow (algorithm 324 [h]) february, 1968 bayer, g.
-    network,liner programming, maximum flow 5.41 ca680206 jb
-    february 23, 1978 12:02 pm

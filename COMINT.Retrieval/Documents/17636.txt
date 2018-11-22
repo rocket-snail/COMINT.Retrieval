@@ -1,4 +1,0 @@
-dynamic probe measurements in the ionosphere measurements
-    made during a rocket flight showed a rapid rise of probe
-    current between and height which indicated a ps positive ion
-    electron density ratio of approximately

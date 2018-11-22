@@ -1,3 +1,0 @@
-precision thermostat a temperature sensitive resistance
-    bridge controls a crystal oven to give a short period
-    temperature stability

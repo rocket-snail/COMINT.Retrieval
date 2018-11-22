@@ -1,4 +1,0 @@
-contribution to the theory of anisotropy of ferromagnetic
-    single crystals a mathematical analysis based on dysons theory
-    of spin wave interaction is applied to the investigation of
-    anisotropic ferromagnets of hexagonal symmetry

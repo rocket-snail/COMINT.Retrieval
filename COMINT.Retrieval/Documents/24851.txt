@@ -1,6 +1,0 @@
-diffraction patterns for solid delay lines solutions of
-    the vector equation of equilibrium for an isotropic solid are
-    presented for the special case of loss free sine waves examples
-    are considered in which the distribution of a single stress
-    component is selected to simulate the stress produced by a high
-    frequency quartz crystal

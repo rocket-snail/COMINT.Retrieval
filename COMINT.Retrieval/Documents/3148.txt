@@ -1,2 +1,0 @@
-real error function, erf (algorithm 123) june, 1963
-    thacher jr., h. c. ca630618 jb march 14, 1978 10:07 am

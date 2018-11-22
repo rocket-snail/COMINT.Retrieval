@@ -1,5 +1,0 @@
-all triode electronic switch the basis of the arrangement
-    described is a gate circuit using two high triodes cathode
-    coupled respectively to two high transconductance triodes the
-    grids of the latter being coupled to the anodes of a
-    multivibrator

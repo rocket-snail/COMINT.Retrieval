@@ -1,7 +1,0 @@
-dissected amplifiers using negative resistance possible
-    circuit arrangements of semiconductor devices to give hf
-    amplification are discussed based on segregation of the
-    amplifier properties of negative resistance and directionality
-    an arrangement of a hexagonal ge plate with magnetic field
-    perpendicular to its plane and with an appropriate network of
-    resistances corresponds to a pentode amplifier

@@ -1,6 +1,0 @@
-digital computers at manchester university an account is
-    given of the development of the universal high speed computer
-    its features include a cr tube store for binary digits an
-    intermediate store for more than digits completely automatic
-    transfer between the two stores a fast multiplier and input and
-    output systems using hole teleprinter tape

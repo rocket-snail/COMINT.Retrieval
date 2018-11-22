@@ -1,5 +1,0 @@
-coupling of the solar wind and the exosphere possible
-    physical processes at the geomagnetic boundary are considered
-    in order to resolve the different estimates of its position
-    obtained from rocket magnetometer experiments and from the
-    study of cometary tails of type one

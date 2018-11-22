@@ -1,4 +1,0 @@
-sunspot and magnetic activity unusual features of sunspot
-    and magnetic activity in the years and their effects on the
-    performance and frequency usage of some hf radio teletype
-    circuits are examined

@@ -1,3 +1,0 @@
-automatic phase control theory and design systems with a
-    sinusoidal reference signal are analysed and the results
-    verified experimentally

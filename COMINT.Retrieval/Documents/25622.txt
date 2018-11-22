@@ -1,3 +1,0 @@
-diffraction by a unidirectionally conducting half plane a
-    solution is obtained by transform methods for diffraction of a
-    plane e m wave

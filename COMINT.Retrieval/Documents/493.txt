@@ -1,5 +1,0 @@
-association of radio outbursts with solar flares data
-    covering the period july december have been examined for a
-    relation between rf bursts and flares a greater than normal
-    percentage of impulsive flares of importance were accompanied
-    by rf bursts

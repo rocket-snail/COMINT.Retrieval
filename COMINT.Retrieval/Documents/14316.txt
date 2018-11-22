@@ -1,9 +1,0 @@
-servomechanism papers six papers presented at a
-    convention held in san francisco august with editorial trends
-    in feedback systems nonlinear control systems with random
-    inputs a method of analysis and synthesis of closed loop servo
-    systems containing small discontinuous nonlinearities stability
-    of feedback systems using dual nyquist diagram optimum lead
-    controller synthesis in feedback control systems on the
-    comparison of linear and nonlinear servo mechanism response
-    predictor servomechanisms

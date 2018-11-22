@@ -1,4 +1,0 @@
-the theory of electrical resistance of good metallic
-    conductors reasonable values are obtained for the resistivity
-    of the alkali metals except li by calculation based on the
-    propagation of compression waves in an ionic continuum

@@ -1,4 +1,0 @@
-a note on noise temperature expressions are given for the
-    effective noise temperature of a lossy passive network with
-    internal noise sources their application in different receiving
-    systems is discussed

@@ -1,4 +1,0 @@
-possible source of line width in ferromagnetic resonance
-    brief theoretical discussion indicating the effect of the
-    finite size of a sample on the dispersion of relaxation
-    times

@@ -1,6 +1,0 @@
-some observations on time considered as a complex
-    variable results of applying this concept in fourier and
-    laplace transformations are examined and its application to the
-    analysis of transients is discussed a practical interpretation
-    of reversing the real time complex frequency relation is given
-    with reference to echo phenomena

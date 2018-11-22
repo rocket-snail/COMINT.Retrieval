@@ -1,6 +1,0 @@
-frequency multiplication by secondary electrons in the
-    centimetre wavelength range fourier analysis of the electron
-    current produced by secondary electron resonance multiplication
-    shows that many harmonics are generated so that the process
-    appears suitable for frequency multiplication in the cm
-    range

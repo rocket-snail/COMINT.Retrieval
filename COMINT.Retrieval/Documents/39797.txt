@@ -1,5 +1,0 @@
-theory of strong electromagnetic waves in massive iron
-    maxwells equations are solved for propagation in material
-    having a rectangular hysteresis curve formulae are derived for
-    depth of penetration wave impedance and power input the results
-    are compared with those of rosenberg

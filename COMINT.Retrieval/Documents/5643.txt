@@ -1,6 +1,0 @@
-susceptibility of the three level maser the
-    susceptibility presented to a radiation field of frequency by
-    the paramagnetic material is calculated the effect of the
-    cavity reaction at the frequency is considered the line shape
-    is shown to be drastically altered for large amplitude driving
-    fields

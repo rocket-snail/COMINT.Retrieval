@@ -1,4 +1,0 @@
-nonlinear circuit elements in high frequency and low
-    frequency technology a review of the properties and
-    applications of nonlinear inductors capacitors and resistors of
-    many different types see also of

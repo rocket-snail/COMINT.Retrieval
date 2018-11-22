@@ -1,7 +1,0 @@
-energy distribution of thermo electrons in electron beam
-    devices experiments are described which show that the energy
-    distribution of the thermo electrons in oscillograph tubes
-    electron microscopes etc is not of the maxwell type the
-    deviations from the maxwell distribution particularly in the
-    low energy range are attributed to reciprocal dynamic
-    effects

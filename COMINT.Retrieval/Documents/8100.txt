@@ -1,3 +1,0 @@
-determining the dielectric permittivity and magnetic
-    permeability tensors of a medium an analytical note on the
-    separation of gyroelectric and gyromagnetic effects

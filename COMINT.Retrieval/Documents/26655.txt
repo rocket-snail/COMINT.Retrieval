@@ -1,4 +1,0 @@
-a new type of construction for high grade transductor
-    cores improvements of laminated core design and assembly are
-    discussed which permit a better utilization of the qualities of
-    the material

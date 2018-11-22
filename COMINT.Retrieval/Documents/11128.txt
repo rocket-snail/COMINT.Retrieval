@@ -1,3 +1,0 @@
-basic library skills: a short course. designed to be a
-    self-contained short course in the use of the library for
-    non-librarians.

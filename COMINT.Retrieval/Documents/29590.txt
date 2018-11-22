@@ -1,4 +1,0 @@
-on the production of high intensity magnetic fields of
-    short duration the design of capacitor discharge apparatus for
-    pulsed fields is discussed calculations are compared with
-    experimental data for coils producing fields

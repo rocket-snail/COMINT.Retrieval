@@ -1,1 +1,0 @@
-binary adder uses gas discharge triode

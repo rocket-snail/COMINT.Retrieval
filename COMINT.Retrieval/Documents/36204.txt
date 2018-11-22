@@ -1,4 +1,0 @@
-a simple low frequency amplifier description of a tuned
-    amplifier circuit for the range incorporating a damped phase
-    shift oscillator with independent control of resonance
-    frequency and q factor

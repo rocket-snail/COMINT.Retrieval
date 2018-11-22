@@ -1,7 +1,0 @@
-development of the electrical resistance of thin films of
-    platinum subjected to a relatively high direct voltage
-    measurements made on films of different thicknesses before and
-    after the application of voltages of or indicate that the
-    resistance is increased decreased or unchanged depending on the
-    amount of heat developed which in turn depends on the initial
-    resistance and hence on the thickness

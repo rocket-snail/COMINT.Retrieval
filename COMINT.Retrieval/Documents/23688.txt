@@ -1,2 +1,0 @@
-decimal-to-binary conversion of short fields february,
-    1963 yarbrough, l. d. ca630203 jb march 14, 1978 2:22 pm

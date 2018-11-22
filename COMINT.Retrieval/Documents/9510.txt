@@ -1,6 +1,0 @@
-updating scientific information through key publications.
-    this primer shows how to update quickly scientific information
-    in a particular area, using a key publication from that area.
-    the method presented here, using a key publication avoids the
-    usual frustrating search for all possible key words that might
-    have been used by the persons who stored the data.

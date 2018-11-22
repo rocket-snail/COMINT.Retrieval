@@ -1,5 +1,0 @@
-negative inductance cuts magnetic amplifier lag the speed
-    of response of a magnetic amplifier is improved without
-    reducing its sensitivity by balancing out the effect of control
-    circuit inductance by means of a negative inductance device
-    comprising a valve with an iron cored mutual inductor

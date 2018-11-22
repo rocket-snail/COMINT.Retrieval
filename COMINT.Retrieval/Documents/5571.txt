@@ -1,4 +1,0 @@
-the latitudinal and seasonal variations of the absorption
-    of solar radiation by ozone calculations indicate that the
-    length of day and the solar altitude factor are sufficient to
-    give the major features of the ozone solar absorption

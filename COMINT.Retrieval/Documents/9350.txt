@@ -1,5 +1,0 @@
-a continuously recording automatic auroral radar a low
-    power system with fixed aerials is used to give a continuous
-    photographic record the echo intensity is also integrated
-    electronically to give a chart record which is immediately
-    available

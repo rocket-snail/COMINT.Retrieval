@@ -1,4 +1,0 @@
-video amplifiers with extremely large bandwidth practical
-    designs of a cascade amplifier and one with distributed
-    amplification are illustrated comparison of the tw types shows
-    certain advantages of the cascade type

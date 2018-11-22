@@ -1,4 +1,0 @@
-field external to open structure magnetic devices
-    represented by ellipsoid or spheroid mathematical expressions
-    for the fields are given and curves are plotted with
-    dimensional ratio as parameter

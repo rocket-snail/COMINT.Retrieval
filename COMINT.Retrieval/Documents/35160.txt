@@ -1,6 +1,0 @@
-an analogue computer study of the transient behaviour and
-    stability characteristics of serial type digital data systems
-    the transient characteristics of sampled data computer systems
-    incorporating a holding circuit are examined with particular
-    emphasis on the transient response to a standard input step
-    function

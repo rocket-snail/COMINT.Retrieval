@@ -1,7 +1,0 @@
-a method of generating pairs of millimicrosecond current
-    pulses separated by a variable interval the first pulse is
-    formed by the discharge of a coaxial line l through a spark gap
-    into a variable length section of identical line a second pulse
-    is produced by the return of the first pulse after reflection
-    at the short circuited end further reflections from the other
-    end of l are prevented by a clipping valve

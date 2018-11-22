@@ -1,8 +1,0 @@
-electron density fluctuations and scattering of radio
-    waves in the ionosphere discussion of theoretical and
-    experimental determinations of electron density fluctuations
-    and of energy scattered at vhf indicates that in vertical
-    incidence soundings at frequencies below the critical frequency
-    the scattered field is chiefly due to waves first scattered in
-    the forward direction and then reflected from higher levels in
-    the ionosphere

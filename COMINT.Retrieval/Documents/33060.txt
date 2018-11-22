@@ -1,4 +1,0 @@
-the calculation of linear circuits circuit components
-    which may include valves transistors and transformers are set
-    up in the form of a multipole admittance matrix from this five
-    determinants are obtained

@@ -1,6 +1,0 @@
-incoherent scattering by free electrons as a techniqe for
-    studying the ionosphere and exosphere some observations and
-    theoretical considerations observations confirm the existence
-    of the incoherent scatter at predicted levels bu indicate less
-    doppler broadening than expected for which an explanation is
-    offered

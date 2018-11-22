@@ -1,5 +1,0 @@
-on cyrator networks the attenuation and image impedance
-    characteristics of four terminal networks using nonreciprocal
-    elements are considered in networks incorporating gyrators it
-    is possible to obtain finite attenuation in one direction and
-    infinite attenuation in the other

@@ -1,4 +1,0 @@
-magnetics in doppler signal data extraction doppler radar
-    data extraction problems such as detection integration and
-    interrogation using devices with magnetic cores are
-    discussed

@@ -1,3 +1,0 @@
-on stabilizing the gain of varactor amplifiers use of the
-    varactor d c to comtrol pump level improved the gain
-    stability

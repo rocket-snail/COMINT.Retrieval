@@ -1,3 +1,0 @@
-optimum shape coils analysis is presented for designing a
-    coil to produce a required field at the centre of a cylinder
-    with a minimum expenditure of power

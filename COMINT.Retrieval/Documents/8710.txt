@@ -1,3 +1,0 @@
-a note on subexpression ordering in the evaluation of
-    arithmetic expressions august, 1974 denning, p. j. graham, g.
-    s. ca740807 jb january 17, 1978 9:44 am

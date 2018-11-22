@@ -1,6 +1,0 @@
-dc amplifier expands input voltage range a direct coupled
-    dc amplifier with infinite input voltage range and infinite
-    input impedance is described and details are given of its
-    application in a differential valve voltmeter without input
-    voltage dividers for measurements at mean levels between
-    and

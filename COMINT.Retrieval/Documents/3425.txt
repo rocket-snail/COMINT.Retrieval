@@ -1,4 +1,0 @@
-the propagation of the wave front in a dispersive medium
-    the problem is investigated theoretically by means of the
-    laplace transformation for the general case of a plane em wave
-    in a homogeneous medium

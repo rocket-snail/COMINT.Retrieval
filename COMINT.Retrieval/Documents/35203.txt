@@ -1,7 +1,0 @@
-the complex formulation of the equations for two
-    dimensional space charge flow the equations satisfied by an
-    electron for congruent space charge flow are solved using a
-    complex variable formulation for a constant magnetic field
-    normal to the flow solutions are also obtained in the presence
-    of magnetic fields and for flow along the level lines of a
-    harmonic function

@@ -1,5 +1,0 @@
-nonlinear interaction of an electromagnetic wave with a
-    plasma layer in the presence of a static magnetic field part
-    theory of harmonic generation theory of propagation through an
-    anisotropic ionized layer as a function of incident field
-    strength and layer thickness is presented

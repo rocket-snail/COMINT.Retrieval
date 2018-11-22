@@ -1,7 +1,0 @@
-densities and temperatures of the upper atmosphere
-    inferred from satellite observations the atmospheric density
-    between and km altitude appears to be appreciably higher than
-    that derived from rocket data the temperature in this region
-    must therefore be higher than that given by present model
-    atmospheres the density is still below that derived from meteor
-    data

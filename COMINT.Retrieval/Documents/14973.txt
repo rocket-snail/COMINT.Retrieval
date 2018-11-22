@@ -1,4 +1,0 @@
-a lagrangian formulation of the boltzmann vlasov equation
-    for plasmas a variational principle is found which leads to a
-    new formulation of the problem of small oscillations about
-    equilibrium

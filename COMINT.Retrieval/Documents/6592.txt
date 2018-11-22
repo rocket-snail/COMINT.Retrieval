@@ -1,5 +1,0 @@
-designing transistor circuits switching dynamics
-    equivalent circuit data for determining overall response time
-    are tabulated for basic transistor switches with an applied
-    input step for the underdriven condition the overdriven case is
-    also considered

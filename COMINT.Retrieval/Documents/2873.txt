@@ -1,3 +1,0 @@
-the skin effect and ferromagnetic resonance mathematical
-    analysis of normal and anomalous skin effect in metals under
-    conditions of ferromagnetic resonance

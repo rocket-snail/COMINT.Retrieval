@@ -1,7 +1,0 @@
-a secure message system for the secure distributed
-    processing project. this report documents work performed under
-    a mitre moie project. the report describes the design of a
-    multilevel-secure message system based on the rand mh message
-    system running under the unix operating system. a colour
-    terminal is used for control and display of security
-    classifications.

@@ -1,9 +1,0 @@
-an observational study of man-computer interaction using
-    an online bibliographic information retrieval system. reports a
-    preliminary investigation into the man-computer interaction
-    aspects of on-line searching. it describes the methodology
-    developed for observing and recording mci in the use of on-line
-    information retrieval systems. a brief analysis of the data
-    obtained is also given, together with an assessment of the
-    extent to which the goal of effective mci is being
-    achieved.

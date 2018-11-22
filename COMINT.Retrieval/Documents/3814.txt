@@ -1,4 +1,0 @@
-designing transistor af power amplifiers the amplifier
-    described delivers to a load it contains a driver stage a phase
-    splitter using a transistor pair and a push pull output
-    stage

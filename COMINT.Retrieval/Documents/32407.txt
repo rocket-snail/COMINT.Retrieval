@@ -1,4 +1,0 @@
-time lags associated with ultra high frequency gas f
-    breakdown an investigation of the time lags associated with gas
-    breakdown in correctly profiled parallel plate gaps at a
-    frequency of

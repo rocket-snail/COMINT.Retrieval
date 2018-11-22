@@ -1,4 +1,0 @@
-earth satellite observations and the upper atmosphere
-    temperature inversion in the f layer the suggested wiggle in
-    the curve for logarithmic density has been derived exactly from
-    satellite observations

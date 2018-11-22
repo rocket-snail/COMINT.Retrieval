@@ -1,8 +1,0 @@
-the stability of a homopolar dynamo the stability of the
-    self exciting disk dynamo is considered taking into account the
-    friction at the axle and the effect of an external electrical
-    load in parallel with the field coils possible analogies
-    between the results obtained and the motion of an electrically
-    conducting fluid in a magnetic field are discussed the theory
-    may be useful in explaining the magnetic field of the earth and
-    of sunspots

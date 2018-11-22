@@ -1,4 +1,0 @@
-study of damping by coherent radiation in nuclear
-    magnetic resonance the general equations derived are applied to
-    a calculation of the range of oscillation and frequency pulling
-    in a maser type oscillator

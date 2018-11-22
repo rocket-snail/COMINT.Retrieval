@@ -1,6 +1,0 @@
-switching circuits using bidirectional nonlinear
-    impedances a general review of circuit logic is developed for a
-    bidirectional nonlinear switching element the design of pnp
-    transistor driver sriver stages is considered a binary octal
-    decoder circuit and a simple binary full adder circuit are
-    discussed as examples

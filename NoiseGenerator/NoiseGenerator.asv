@@ -40,8 +40,8 @@ for k = 1 : length(files)
     %Multiply nosie matrix with original audio file
     noisySound = perfectSound .* (~matrix .* noiseFactor) +  (0.1 * randn(length(perfectSound), 1)) .* matrix;
     %Write noise audiofile
-    file = strcat(noisy_audio_dir, '\noised_', num2str(noiseFactor), '_', num2str(block_length_noise), '_',  filemat(k+2,1).name);
-    audiowrite(file, noisySound, freq);
-    fprintf(strcat('finished ', num2str(k), ' output: %s\n'), file);
+    file = strcat(noisy_audio_dir, 'noised_', num2str(noiseFactor), '_', num2str(block_length_noise), '_',  filemat(k+2,1).name);
+    audiowrite((,noisySound, freq);
+    fprintf(strcat('finished  ', num2str(k),'\n'));
 end
 

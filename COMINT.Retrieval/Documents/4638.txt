@@ -1,5 +1,0 @@
-thermoelectric generators basic design formulae are given
-    abd discussed using a semiconductor layer thick with
-    thermoelectric coefficient a temperature difference of across
-    it and a heat input of a d assuming a specific mass of and an
-    efficiency of an output of may be obtained

@@ -1,5 +1,0 @@
-a series magnetic amplifier with inductive loading
-    analysis and discussion of the manner in which the current
-    waveform is affected by varying the circuit resistances
-    inductances or control voltage digest only full paper to be
-    published in trans amer inst elect engrs

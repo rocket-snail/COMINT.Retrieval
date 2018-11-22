@@ -1,5 +1,0 @@
-a high q rc feedback filter description of the design and
-    construction of a acceptor filter which will maintain a of
-    stable to within over one hour and a of to within over
-    considerable periods the circuit uses a twin t rejector filter
-    in the negative feedback path of an amplifier

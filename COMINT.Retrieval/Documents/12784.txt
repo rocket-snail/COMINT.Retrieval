@@ -1,5 +1,0 @@
-determination of the electronic temperature in gas
-    discharges measurements made in an electrodeless discharge over
-    a pressure range and an electron concentration range of ratio
-    to indicate that the electronic temperature remains practically
-    constant its value being to within in dry air

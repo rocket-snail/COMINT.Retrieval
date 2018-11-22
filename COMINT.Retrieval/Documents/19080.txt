@@ -1,4 +1,0 @@
-new method of evaluating ferro inductors formulae for
-    calculating the insertion loss and the resistance increase due
-    to the iron core are derived the practical factors governing
-    optimum coil design are investigated

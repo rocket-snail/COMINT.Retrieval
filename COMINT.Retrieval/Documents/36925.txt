@@ -1,3 +1,0 @@
-a stark effect microwave spectrograph with high resolving
-    power description of a spectrograph incorporating a carcinotron
-    as microwave source and using stark effect modulation

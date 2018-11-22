@@ -1,5 +1,0 @@
-building and using dielectric amplifiers a detailed
-    account is given of th process developed at the national bureau
-    of standards for preparing the capacitors used in dielectric
-    amplifiers a two stage voltage amplifier and an output stage
-    capable of driving a loudspeaker are described

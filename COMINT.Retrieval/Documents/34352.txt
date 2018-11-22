@@ -1,3 +1,0 @@
-binary circuits count backwards or forwards a
-    transistorized module is described that can be used to build
-    logical circuits a complete reversible counter measures

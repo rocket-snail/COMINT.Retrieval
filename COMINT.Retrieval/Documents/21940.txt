@@ -1,3 +1,0 @@
-calculation of the widths of ferrimagnetic absorption
-    lines and of relaxation times in the case o spin waves of non
-    negligible amplitude

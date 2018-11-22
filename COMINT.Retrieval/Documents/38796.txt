@@ -1,8 +1,0 @@
-maxwells equations for three layered media and their
-    application to the theory of the movement of a magnetic storm
-    solutions of the characteristic equations for ideal and for
-    real three layered media are given application is made to
-    discussion of the characteristics of the marginal layers and
-    calculation of the velocity of propagation of the elements of a
-    magnetic storm other possible applications of the theory given
-    are noted

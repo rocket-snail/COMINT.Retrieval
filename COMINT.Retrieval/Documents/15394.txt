@@ -1,3 +1,0 @@
-calculation of harmonic distortion in sinusoidal
-    frequency modulation cases of a waveguide of any cross section
-    and an amplification stage with a tuned transformer

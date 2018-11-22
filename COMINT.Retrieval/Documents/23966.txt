@@ -1,3 +1,0 @@
-instantaneous multiplier for computers multiplication is
-    performed by means of balanced modulators using standard if
-    transformers and other components

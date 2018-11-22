@@ -1,6 +1,0 @@
-the relationship of low height ionosonde echoes to
-    auroral zone absorption ad vhf d scatter weak diffuse echoes
-    are shown at heights between and in the frequency range the
-    diurnal seasonal and height characteristics of the layer
-    indicate that it is related to auroral zone absorption and is
-    responsible for vhf forward scatter

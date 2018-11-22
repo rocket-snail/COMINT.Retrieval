@@ -1,6 +1,0 @@
-the possible role of the electrical double layer in the
-    contact of solids and in adhesion phenomena calculations are
-    made of the surface charge density and the component of
-    adhesive force for the case of a contact between a metal and a
-    semiconductor film and b a semiconductor film between two
-    metals

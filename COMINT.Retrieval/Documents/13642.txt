@@ -1,4 +1,0 @@
-servo system design for balloon borne star trackers the
-    telescope pointing equipment can operate over a dynamic light
-    range of the average pointing error being within seconds of
-    arc

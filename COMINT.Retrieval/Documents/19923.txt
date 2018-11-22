@@ -1,2 +1,0 @@
-the charging and discharging of nonlinear capacitors
-    correction to paper abstracted in of

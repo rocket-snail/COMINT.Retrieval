@@ -1,8 +1,0 @@
-the height of the atmospheric electric equilibrium layer
-    continuation of previous work by israel and kasemir the values
-    of electron concentration corresponding to two limiting
-    assumptions regarding dependence of recombination coefficient
-    on pressure are compared with values deduced fro determinations
-    of d layer ionization is found to be proportional to the cube
-    root of the pressure the height of the equilibrium layer is
-    about km

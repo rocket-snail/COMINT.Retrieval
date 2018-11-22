@@ -1,9 +1,0 @@
-an electrodynamic perturbation theorem with application
-    to nonreciprocal systems a modification of the reciprocity
-    theorem is used to evaluate the antisymmetric part of the
-    admittance matrix of an electrodynamic system in terms of the
-    fields produced by the applied voltages the effect of system
-    perturbations on the admittance matrix is determined the method
-    is applicable to and microwave gyrators as well as to
-    reciprocal systems but gives solutions only to a first order of
-    approximation

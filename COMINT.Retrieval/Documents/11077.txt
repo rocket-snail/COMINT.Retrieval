@@ -1,4 +1,0 @@
-a negative resistance for dc computers a nomogram is
-    presented for the design of a circuit using transistors and
-    resistors to give any required value of negative
-    resistance

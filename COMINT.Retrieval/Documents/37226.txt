@@ -1,9 +1,0 @@
-light waves in crystals in the region of exciton
-    absorption and the impurity photoeffect in the frequency range
-    for which the refractive index is much less than unity the
-    amplitudes of normal and longitudinal waves in a cubic crystal
-    greatly exceed the amplitude of the incident wave the
-    photoionization of impurities is therefore much more intense
-    this explains the sharp maximum in the internal and external
-    photoeffects observed experimentally in the frequency range
-    corresponding to exciton absorption

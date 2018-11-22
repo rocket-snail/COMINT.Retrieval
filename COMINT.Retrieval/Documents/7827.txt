@@ -1,7 +1,0 @@
-dipole field type magnetic disturbances and auroral
-    activities the magnetic perturbation produced at the ground by
-    the current system associated with an electric dipole at is
-    calculated magneto grams obtained during an auroral display are
-    analysed to deduce the position ad motion of the equivalent
-    dipoles these correspond closely to prominent visual auroral
-    forms

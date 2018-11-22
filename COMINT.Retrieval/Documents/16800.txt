@@ -1,7 +1,0 @@
-new trigger circuits for use with cold cathode counting
-    tubes a description is given of several trigger circuits
-    devised for use particularly with dekatron tubes of bacon and
-    pollard the circuits can be used in the construction of a
-    scaling unit which can subtract as well as add the counting
-    losses of such a unit when used on random pulses are
-    considered

@@ -1,6 +1,0 @@
-the correlatograph a paper tape recorder analogue device
-    for the continuous display of the short term correlation
-    function by means of a time time lag correlation factor plot
-    intensity is described it was designed for the analysis of
-    signals in a magnetic tape recording the electromechanical
-    design is based on the af spectrograph of

@@ -1,4 +1,0 @@
-an attempt to detect linear polarization in the galactic
-    background radiation at observations of a strip of sky about
-    declination set an upper limit of to the degree of linear
-    polarization for bandwidths of

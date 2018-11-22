@@ -1,8 +1,0 @@
-the effect of the earths oblateness on the orbit of a
-    near satellite the equations of motion of a satellite in an
-    orbit over an oblate earth in vacuo are solved analytically by
-    a perturbation method the solution applies primarily to orbits
-    of eccentricity or less the accuracy of the solution for radial
-    distance should then be about and the error in angular travel
-    about per revolution a brief comparison is made between theory
-    and observation for sputniks and

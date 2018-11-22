@@ -1,3 +1,0 @@
-an experimental transistorized calculator the machine is
-    functionally identical with the calculating punch but the
-    valves are completely replaced by transistors and

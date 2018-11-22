@@ -1,6 +1,0 @@
-noise in transistor amplifiers conditions for obtaining
-    optimum signal noise ratio are indicated for amplifiers using
-    point contact and junction type transistors graphs show the
-    dependence of noise figure on operating point and for a two
-    stage amplifier on the source impedance of the second stage see
-    also of march and of montgomery

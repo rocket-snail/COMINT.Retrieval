@@ -1,4 +1,0 @@
-coupling of laser rods interference was observed between
-    the oscillations produced in two parallel ruby laser rods
-    coupled by a prism results indicate that the coupling of
-    independently pumped lasers is feasible

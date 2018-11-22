@@ -1,7 +1,0 @@
-audio frequency spectrum of atmospherics results are
-    reported of simultaneous recordings of the frequency components
-    in the band the frequency of the largest component in the slow
-    tail decreases as source distance increases and is higher at
-    night than by day while for the oscillator part the opposite
-    effect occurs selective attenuation at frequencies around is
-    indicated

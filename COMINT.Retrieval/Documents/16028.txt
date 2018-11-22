@@ -1,6 +1,0 @@
-a precision direct current stabilizer a dc stabilizer is
-    described which delivers stable to a few parts in a
-    degenerative feedback system is used with a contact modulator
-    amplifier self oscillation being prevented and the frequency
-    response improved by an auxiliary ac feedback loop facilities
-    for monitoring the stability are provided

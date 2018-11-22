@@ -1,5 +1,0 @@
-a waveguide filter theory on the basis of the matrix
-    theory used by hessel et al formulae are derived giving
-    insertion loss and envelope delay for multistage filters having
-    as parameters the ratios of the bandwidth of the stages to the
-    bandwidth of the total filter

@@ -1,8 +1,0 @@
-reverse characteristics with surface breakdown of silicon
-    psn rectifiers the influence of surface recombination on the
-    reverse and breakdown characteristics is investigated
-    measurements were made on si rectifiers with weakly doped
-    diffusion region which had been exposed to dry nitrogen and
-    oxygen with or without ozone for different lengths of time with
-    or without heat treatment for measurements in moist
-    gases

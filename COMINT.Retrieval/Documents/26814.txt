@@ -1,8 +1,0 @@
-solution to the equations of space charge flow by the
-    method of the separation of variables the steady state
-    behaviour of electron beams with high space charge densities is
-    analysed the equations for irrotational electrostatic laminar
-    space charge flow are set up in terms of the action function
-    these equations are reduced by separation of variables in
-    cylindrical polar coordinates the method may be extended to
-    include the effect of magnetic fields

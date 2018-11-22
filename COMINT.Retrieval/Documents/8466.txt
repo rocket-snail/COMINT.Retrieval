@@ -1,4 +1,0 @@
-exploration of oscillating beam plasma fields with a
-    transverse electron beam the results appear to be compatible
-    with considerable randomization and possible break up of the
-    main beam by the oscillations

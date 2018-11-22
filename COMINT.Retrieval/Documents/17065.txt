@@ -1,9 +1,0 @@
-the effects of anisometric amplitude patterns in the
-    measurement of ionospheric drifts measurement of ionospheric
-    drift by determination of time shifts between fading curves of
-    ionospherically reflected waves received at three spaced points
-    is discussed and the errors involved in assuming that the
-    amplitude pattern on the ground is statistically isometric ar
-    evaluated from recordings of fading curves on a mean error of
-    in the direction of drift was found the greatest error being
-    the errors are not generally systematic

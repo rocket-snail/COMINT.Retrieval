@@ -1,5 +1,0 @@
-measurement of noise in a maser amplifier measurements on
-    an beam maser whose cavity and input and output loads were
-    cooled to near liquid nitrogen temperature yielded a noise
-    figure of based on room temperature as compared with a
-    theoretical figure of

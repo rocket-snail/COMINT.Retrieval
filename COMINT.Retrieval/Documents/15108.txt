@@ -1,7 +1,0 @@
-forces between parallel electron streams a simplified
-    fundamental analysis is presented taking account of the forces
-    of acceleration es repulsion em attraction gravitation and any
-    local fields the results indicate that for all electron
-    velocities up to the immediate threshold of the velocity of
-    light the resultant force between parallel electron streams is
-    repulsive

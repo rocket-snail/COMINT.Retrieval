@@ -1,6 +1,0 @@
-design data for band pass ladder filters employing
-    ceramic resonators graphical and tabulated design data based on
-    image parameter theory are given for filter comprising
-    piezoelectric disks resonating in a radial mode with or without
-    capacitors the ranges of centre frequency bandwidth and image
-    impd impedance achievable are discussed

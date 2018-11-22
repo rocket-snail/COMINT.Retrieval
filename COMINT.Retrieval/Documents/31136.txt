@@ -1,6 +1,0 @@
-variational principles in high frequency scattering two
-    variational principles are formulated for two dimensional
-    scattering by obstacles the more successful of these treats the
-    obstacle like an aperture coupling two half spaces the zero
-    order calculation for the cross section of a circle is found to
-    have the correct frequency dependence

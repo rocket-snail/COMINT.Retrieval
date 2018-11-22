@@ -1,9 +1,0 @@
-the application of microcomputers to new i&r files: a
-    beginner's experience. paper presented at a seminar 'community
-    information in the 80's' towards automation of information and
-    referral files' at the 1980 american library association annual
-    conference. the microcomputer-based system installed by chicago
-    public library for their native american information/referral
-    center is described. the system is based on an apple 2
-    microcomputer and serves the american indian population of
-    chicago.

@@ -1,7 +1,0 @@
-spin rate of the satellite echo as determined bya
-    tracking radar radar observation of echo indicate that between
-    passes and the spin rate increased from to rev min between
-    these two observations the satellite first started passing into
-    the earths shadow which possibly resulted in changes in
-    internal pressure and subsequent deformation of the
-    baloon

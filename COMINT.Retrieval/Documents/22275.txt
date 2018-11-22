@@ -1,4 +1,0 @@
-variations of scale height in the upper atmosphere
-    analysis of satellite orbital data suggests a decrease of the
-    density scale height in the upper atmosphere from to which is
-    attributed to a drop of in the average temperature at km

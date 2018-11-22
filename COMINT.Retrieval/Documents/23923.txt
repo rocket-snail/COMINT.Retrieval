@@ -1,6 +1,0 @@
-stabilization problems in physics a review of voltage
-    current and magnetic field regulators the performances of
-    various stabilizing valve circuits and primary regulators are
-    compared and the importance of good control of filament heating
-    voltages is emphasized special problems of stabilization in
-    nuclear physics are mentioned

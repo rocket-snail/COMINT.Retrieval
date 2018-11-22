@@ -1,6 +1,0 @@
-electron scattering in high magnetic field electrical
-    conductivity in a strong magnetic field is calculated for the
-    case of scattering by delta function impurities collision
-    broadening is neglected and the scattering by an individual
-    centre is solved exactly rather than by perturbation
-    theory

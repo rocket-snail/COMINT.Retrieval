@@ -1,3 +1,0 @@
-an x band parametric amplifier using a silver bonded
-    diode a wafer type construction is used for the silver bonded
-    diode

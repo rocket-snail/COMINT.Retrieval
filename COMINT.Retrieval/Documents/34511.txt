@@ -1,6 +1,0 @@
-analysis of millimicrosecond rf pulse transmission the
-    analysis assumes a quadratic approximation for the complex
-    propagation constant and a transmitted pulse with gaussian
-    envelope the theory is applicable to uniform microwave
-    transmission systems and relates pulse shapes with the cw
-    properties of the system

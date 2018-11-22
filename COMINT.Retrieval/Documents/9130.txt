@@ -1,4 +1,0 @@
-high efficiency variable reactance frequency multiplier a
-    conversion efficiency of was obtained using variable
-    capacitance diodes with input frequency of and output frequency
-    mc

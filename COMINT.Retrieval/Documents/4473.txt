@@ -1,6 +1,0 @@
-microwave technique for studying discharges in gases
-    experiments were made with a neon filled tube inserted through
-    a pancake waveguide internal height mm the variation of the
-    discharge dc due to the rf field being observed on a cro for
-    various relative positions of tube and guide the frequency used
-    was about and the rf power

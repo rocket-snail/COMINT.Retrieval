@@ -1,4 +1,0 @@
-reflection at arbitrary incidence from a parallel wire
-    grid the analysis presented is valid for any direction of
-    polarization angle of incidence or value of wire
-    conductivity

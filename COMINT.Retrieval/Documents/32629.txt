@@ -1,5 +1,0 @@
-radio astronomical investigations by means of artificial
-    earth satellites the ionosphere cuts off extraterrestrial radio
-    emissions over a wide range of frequencies thus observations
-    which would not be possible on the ground could be made from
-    satellites

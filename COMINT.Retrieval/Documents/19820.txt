@@ -1,7 +1,0 @@
-on the possible relation of galactic radio noise to
-    cosmic rays the possibility is considered that cosmic rays are
-    accelerated in regions of the galaxy with intermediate particle
-    density cm a conservative estimate of the magnetic fields in
-    such regions would lead to a radio noise flux of the observed
-    order of magnitude the observed spectrum could easily be
-    produced

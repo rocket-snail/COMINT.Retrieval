@@ -1,4 +1,0 @@
-note on a network theorem the formulation adopted by
-    zepler of is criticized and it is shown that his results can be
-    obtained more simply by using the conventional impedance
-    concept rather than his unconventional power concept

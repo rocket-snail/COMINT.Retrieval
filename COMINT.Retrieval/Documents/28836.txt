@@ -1,7 +1,0 @@
-international museum data standards and experiments in
-    data transfer. investigates the data standards adopted by a
-    number of major museum documentation systems around the world
-    and attempts to unify these standards into a single listing of
-    data categories. attempts to apply the unified data standard
-    during computer processing of museum records from different
-    systems.

@@ -1,5 +1,0 @@
-electrons of the van allen radiation flux calculations
-    show that electrons in the radiation belts cannot be produced
-    by neutron decay from the cosmic ray albedo the acceleration of
-    trapped electrons by em fields is briefly discussed see also
-    of

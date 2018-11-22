@@ -1,6 +1,0 @@
-a model of information computer systems. considers the
-    calculation of network state probabilities in the stationary
-    mode for a particular case of a disconnected 2-centre network
-    with a recurrent incoming flow. illustrates the results with
-    numerical examples. the method can be used for the analysis of
-    real computerised information systems.

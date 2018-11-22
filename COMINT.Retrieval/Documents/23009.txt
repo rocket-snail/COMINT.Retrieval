@@ -1,6 +1,0 @@
-some preliminary results of the pioneer fifth
-    magnetometer experiment the sudden increase in magnetic field
-    strength during solar activity suggests that collisionless
-    magnetoacoustic waves may be formed at the boundary between the
-    earths field and the interplanetary field which is put at
-    thirteen earth radii

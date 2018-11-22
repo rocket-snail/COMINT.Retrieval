@@ -1,5 +1,0 @@
-the measurements of random radio frequency fields by the
-    use of short electric and magnetic dipoles a note on the
-    relation between measured noise voltages at the terminals of a
-    short aerial and the temperature of the radiation field with
-    reference to satellite measurements of sky brightness of

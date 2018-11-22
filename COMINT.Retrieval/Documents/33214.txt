@@ -1,4 +1,0 @@
-a model of phosphors on the basis of quantum mechanics
-    part kinetics of electron and phonon reactions the optical
-    behaviour of a phosphor is discussed assuming that two types of
-    defect centre exist in the crystal

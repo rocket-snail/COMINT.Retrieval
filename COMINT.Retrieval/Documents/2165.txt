@@ -1,5 +1,0 @@
-capacitance of a spherical capacitor in a practical
-    spherical capacitor the capacitance is not given exactly by the
-    theoretical formula because the outer sphere has an aperture
-    upper and lower limits are derived for the magnitude of the
-    error involved

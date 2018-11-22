@@ -1,4 +1,0 @@
-direct determination of boltzmanns constant from
-    resistance noise the value of obtained frl from thermal noise
-    measurements in the frequency range is joules degree to an
-    accuracy within

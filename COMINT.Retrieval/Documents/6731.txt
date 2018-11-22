@@ -1,3 +1,0 @@
-theory of majority decision elements various problems
-    concerning a single majority decision element are
-    considered

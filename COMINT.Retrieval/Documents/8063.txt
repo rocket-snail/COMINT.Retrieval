@@ -1,6 +1,0 @@
-on the problem of brownian motion of nonlinear systems a
-    kinetic derivation is given of the spectral noise intensity in
-    firstorder approximation and for relatively high frequencies
-    for a nonlinear rc circuit consisting of an idealized diode
-    valve in thermal equilibrium and a capacitor the discrepancy
-    with the rusults obtained by macdonald

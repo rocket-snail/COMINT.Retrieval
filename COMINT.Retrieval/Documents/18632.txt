@@ -1,5 +1,0 @@
-active filter element and its application to a fourier
-    comb a theoretical analysis is given and constructional data
-    are presented for a variable q variable frequency band pass
-    filter using transistor amplifiers stable q operation is
-    possible over q factor range of for frequencies up to

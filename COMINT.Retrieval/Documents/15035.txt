@@ -1,6 +1,0 @@
-on the dynamics of a bounded plasma in an external field
-    an investigation of the dynamics of a quasi neutral plasma
-    formation located in the field of a plane em wave the method of
-    successive approximations is used within the limits of the
-    assumptions of the analysis a plasma bunch tends to spread
-    out

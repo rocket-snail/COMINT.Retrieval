@@ -1,7 +1,0 @@
-a lunar radio interferometer in a two aerial
-    interferometer used in radio astronomy one of the aerials can
-    be replaced by the surface of the sea in the instrument
-    described the ionosphere of the moon is used in place of the
-    second aerial with metre wavelengths the minimum angle of
-    refraction of the lunar ionosphere is found to be of the order
-    of

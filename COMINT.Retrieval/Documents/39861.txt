@@ -1,6 +1,0 @@
-values of the transport coefficients in a plasma for any
-    degree of ionization based on a maxwellian distribution values
-    for electrical conductivity for any degree of ionization steady
-    magnetic field and various electron neutral collision laws are
-    presented other transport coefficients are tabulated the
-    analysis uses the fokker planck and boltzmann equations

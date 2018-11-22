@@ -1,2 +1,0 @@
-bisection routine (algorithm 4) march, 1960 gorn,s.
-    ca600306 jb march 22, 1978 1:59 pm

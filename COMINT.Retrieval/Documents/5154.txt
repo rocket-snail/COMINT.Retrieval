@@ -1,6 +1,0 @@
-requirements regarding electrical squaring circuits and
-    practical possibilities for the realization of square law
-    characteristics the design of square law detector circuits for
-    use in the measurement of rms values is discussed and the
-    characteristics of various types of circuit using diodes or
-    amplifier v valves are examined

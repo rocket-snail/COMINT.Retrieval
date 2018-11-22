@@ -1,4 +1,0 @@
-a fast binary counter a transistor binary counter
-    employing seven flip flops is described its operation is
-    dependent only on the switching time of one flip flop which may
-    be

@@ -1,4 +1,0 @@
-the cherenkov effect produced by single particles in
-    gases the application of photo multipliers for detecting
-    cherenkov radiation is discussed and successful experimental
-    work is reported

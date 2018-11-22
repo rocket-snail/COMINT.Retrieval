@@ -1,4 +1,0 @@
-some solutions for electromagnetic problems involving
-    spheroidal spherical and cylindrical bodies results are given
-    for the l f response to an oscillating magnetic dipole by
-    conducting bodies of simple shape

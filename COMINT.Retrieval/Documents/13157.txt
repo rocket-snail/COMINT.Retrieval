@@ -1,6 +1,0 @@
-comparison of measured and computed values of the rapid
-    fading rate of ultra high frequency signals reflected from the
-    moon observations made in august during a bistatic moon
-    reflection experiment carried out at are reported they show
-    good agreement with values calculated from the effective
-    libration rate of the moon

@@ -1,4 +1,0 @@
-relation between atmospheric ozone and storms comparison
-    of records indicates that the ozone concentration in creases
-    during storm times the increase occurs suddenly on the average
-    hours before the first discharge

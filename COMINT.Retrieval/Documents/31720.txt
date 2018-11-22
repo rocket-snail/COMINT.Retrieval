@@ -1,3 +1,0 @@
-partial equivalence with reference to a theorem of cocci
-    cauer the equivalence of two terminal networks containing r c
-    and l elements is discussed

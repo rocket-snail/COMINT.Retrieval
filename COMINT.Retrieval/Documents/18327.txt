@@ -1,6 +1,0 @@
-differential law for the intensities of electrical
-    fluctuations and influence of skin effect an investigation is
-    made of the form of the correlation function of the external
-    field which expresses the thermal electrical fluctuations in a
-    conductor and of the differential law on which nyquists
-    integral formula is based

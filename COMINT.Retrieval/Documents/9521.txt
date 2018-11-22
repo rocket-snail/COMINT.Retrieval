@@ -1,2 +1,0 @@
-modified hankel function (algorithm 163) april, 1963
-    fettis, h. e. ca630406 jb march 14, 1978 12:26 pm

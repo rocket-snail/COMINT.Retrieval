@@ -1,4 +1,0 @@
-diagrams for the design of double tuned band filters with
-    arbitrary coupling the design curves and equations given are
-    based on filter parameters which can be obtained directly by
-    measurement in the filter circuit

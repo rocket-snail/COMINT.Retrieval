@@ -1,5 +1,0 @@
-on the origin of radio emission from cosmic clouds the
-    balance between absorption and stimulated emission for free
-    free transitions in a gas plasma can lead to a negative as well
-    as a positive effective absorption coefficient and hence to
-    amplification of the spontaneous emission

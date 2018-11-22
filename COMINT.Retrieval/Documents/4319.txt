@@ -1,5 +1,0 @@
-nonlinear tuned capacitors the design and production of
-    very small tuning capacitors using ba sr titanate ferroelectric
-    dielectrics is described examples are given of applications to
-    oscillators for the frequency range with power outputs
-    of

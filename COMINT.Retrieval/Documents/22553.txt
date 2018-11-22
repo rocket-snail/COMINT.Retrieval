@@ -1,2 +1,0 @@
-bounds for thermistor compensation of resistance and
-    conductance

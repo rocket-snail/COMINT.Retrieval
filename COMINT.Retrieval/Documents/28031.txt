@@ -1,6 +1,0 @@
-the connection between transverse magnetogalvaniic
-    effects and resistivity the magnetogalvanic rotation due to the
-    hall effect in an isotropic conductor is expressed in terms of
-    transverse magnetogalvanic conductivity its variation with
-    temperature and field intensity is discussed briefly with
-    reference to ferromagnetic and super conducting media

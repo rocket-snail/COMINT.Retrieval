@@ -1,5 +1,0 @@
-the rectangular loop ferrite core as storage device for
-    data processing installations outline of principles underlying
-    the storage mechanism and magnetization reversal process with
-    details of typical characteristics and dimensions of cores for
-    use as storage elements

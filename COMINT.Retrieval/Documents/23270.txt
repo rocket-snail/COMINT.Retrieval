@@ -1,6 +1,0 @@
-solar terrestrial time delays the observed delay of about
-    hours between the meridian passage of a sunspot or flare and
-    the onset of an associated magnetic storm or aurora is shown to
-    originate in the deflection of the ion streams involved by
-    either a solar magnetic dipole of moment or an interplanetary
-    magnetic field of intensity or a combination of the two

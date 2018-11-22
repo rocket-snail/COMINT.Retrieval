@@ -1,3 +1,0 @@
-boosting power transistor efficiency high efficiency is
-    obtained by carefully controlling the instantaneous voltage and
-    current through the transistor

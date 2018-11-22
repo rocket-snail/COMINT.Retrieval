@@ -1,8 +1,0 @@
-gain stable mixers and amplifiers with current feedback
-    narrow band radio frequency amplifiers and mixers may be
-    stabilized by negative feedback without increasing the
-    bandwidth excessively a couple using current feedback is
-    described this couple requires only a simple resistive beta
-    circuit and may be designed such that the band pass
-    characteristic is largely independent of the feedback
-    experimental results are reported

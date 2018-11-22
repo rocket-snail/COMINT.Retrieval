@@ -1,8 +1,0 @@
-project jason measurement of trapped electrons from a
-    nuclear device by sounding rockets highaltitude sounding
-    rockets have been used to observe electrons injected into the
-    geomagnetic field from the highaltitude nuclear detonations of
-    the argus experiment the results of these observations agree
-    with those measured by satellite explorer the trapping of
-    neutron decay particles from large yield highaltitude
-    explosions in the pacific was also observed

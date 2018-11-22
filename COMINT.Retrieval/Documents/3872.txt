@@ -1,7 +1,0 @@
-proper and improper use of statistics in geophysics a
-    discussion of some of the peculiarities of the geophysical
-    sciences together with their implications for statistical
-    methods particularly for the correlation coefficient is given
-    the discussion is illustrated by an analysis of a recently
-    published paper in conclusion some advice e on the use of
-    correlations is offered

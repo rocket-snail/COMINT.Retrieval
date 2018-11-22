@@ -1,6 +1,0 @@
-electrically variable gas dielectric capacitor a neon
-    tube placed between the plates of an air dielectric capacitor
-    give a variation in dielectric constant proportional to the
-    tube current maximum variation of capacitance is about the
-    device may be used for frequency control of self excited
-    oscillators

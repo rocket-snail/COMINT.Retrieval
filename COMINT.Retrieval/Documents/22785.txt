@@ -1,5 +1,0 @@
-the effect of field configuration on gas discharge
-    breakdown in microwave cavities at low pressure a new regime of
-    gas discharge breakdown in microwave cavities is shown to be
-    due to gradients in the electric field amplitude experimental
-    results are given

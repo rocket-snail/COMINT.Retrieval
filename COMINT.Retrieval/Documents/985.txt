@@ -1,8 +1,0 @@
-electron energy distributions in stationary discharges
-    extension of previous analysis of to the case of a stationary
-    discharge in a dc space charge field the effect of the space
-    charge is to increase the proportion of high energy electrons
-    this results in a higher ionization rate but the effect is not
-    large enough to account for low maintenance potentials observed
-    in positive columns and in microwave discharges in inert
-    gases

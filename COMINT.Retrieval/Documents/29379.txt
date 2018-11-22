@@ -1,3 +1,0 @@
-linear slope delay filters for compression design
-    considerations are summarized for filters having linear change
-    of delay time with frequency over a narrow band

@@ -1,4 +1,0 @@
-the theory of electric currents in the magnetosphere in
-    the brief theoretical treatment given the plasma of the
-    magnetosphere is replaced by a particle gas with diamagnetic
-    properties

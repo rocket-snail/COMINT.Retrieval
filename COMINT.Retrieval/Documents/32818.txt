@@ -1,5 +1,0 @@
-the theoretical possibility of separating beams of
-    charged particles having different polarizations in a magnetic
-    field it is shown that a separation of beams such as is
-    obtained in the stern gerlach experiment can theoretically be
-    obtained also in the case of charged particles

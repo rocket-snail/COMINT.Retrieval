@@ -1,5 +1,0 @@
-ammonia maser oscillator the principle of operation and
-    constructional details of an ammonia maser are described four
-    parameters affecting the frequency of operation have been
-    investigated ammonia flow separator voltage magnetic fields and
-    cavity tuning

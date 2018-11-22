@@ -1,2 +1,0 @@
-attenuator design a chart is given for the design of
-    constant resistance types of attenuator

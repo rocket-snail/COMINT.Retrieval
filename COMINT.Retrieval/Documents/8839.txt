@@ -1,9 +1,0 @@
-information retrieval theory and design based on a model
-    of the user's concept relations. information retrieval systems
-    can be viewed as models of human assessment of the similarity
-    between requests and documents. reports the development and
-    testing of a theory of information retrieval based on this
-    'system-as-model' (sam) view, which in turn is an expansion of
-    the present model used in information retrieval. considers the
-    implications of the new theory for information retrieval
-    research and development.

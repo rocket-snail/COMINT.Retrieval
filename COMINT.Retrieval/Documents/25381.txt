@@ -1,7 +1,0 @@
-design of transistor power amplifiers methods are
-    outlined for obtaining maximum power output consistent with
-    acceptable distortion factors considered include stage gain and
-    power supply using values obtanable with the transistor two
-    numerical examples are worked out a class a push pull grounded
-    base arrangement for a low distortion af amplifier and a clas b
-    grounded emitter arrangement for a output stage

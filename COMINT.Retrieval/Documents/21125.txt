@@ -1,4 +1,0 @@
-an electronic analogue computer for solving systems of
-    linear equations mathematical derivation of the operating
-    principle and stability conditions for a computer consisting of
-    amplifiers

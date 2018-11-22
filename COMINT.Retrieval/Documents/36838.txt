@@ -1,8 +1,0 @@
-guide to applications' public use energy statistical data
-    base (puesdb) of the national energy information system (neis).
-    describes the public use energy statistical data base of the
-    national energy information system (neis). the puesdb is
-    composed of energy quantity and price information at the
-    national level relating to petroleum, natural gas, coal, and
-    electricity, as well as economic and other data relevant to
-    energy analysis.

@@ -1,6 +1,0 @@
-the three level solid state travelling wave maser
-    theoretical comparison is made between the characteristics of
-    the travelling wave maser and those of the cavity maser and the
-    general requirements for slow wave structures are discussed
-    theoretical analysis and experimental results are presented for
-    the comb in waveguide slow wave structure

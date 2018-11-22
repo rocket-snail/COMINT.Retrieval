@@ -1,5 +1,0 @@
-ionospheric absorption and solar activity in intermediate
-    latitudes measurements of the absorption of cosmic noise were
-    made at athens on and analysis of the data allowed the
-    components of the total absorption due to the f and d layers
-    and the extra component to be estimated

@@ -1,6 +1,0 @@
-a new coaxial resonator filter a band pass filter with an
-    m derived type of characteristic is described consisting of
-    loop coupled coaxial resonators in a reentrant arrangement
-    performance may be described in terms of an equivalent lattice
-    network good agreement is shown between the experimental and
-    theoretical insertion loss characteristics

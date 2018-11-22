@@ -1,8 +1,0 @@
-remarks on the annual and diurnal variations of the
-    occurrence of whistlers the annual variation of whistler
-    density observed at kuhlungsborn appears to be correlated with
-    the thunderstorm activity of south africa and not with that of
-    the conjugate point which is at a higher geomagnetic latitude
-    nocturnal variations of whistler density show phase differences
-    between summer and winter which are attributed to absorption in
-    the lower ionosphere

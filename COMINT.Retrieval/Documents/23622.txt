@@ -1,5 +1,0 @@
-nonlinear study of frequency modulated oscillator
-    analysis is presented to show how the nonlinear damping of the
-    valve limits the growth of oscillations in the case of
-    parametric excitation thus permitting the establishment of a
-    stationary oscillation

@@ -1,5 +1,0 @@
-graphical evaluation of magnetic amplifier performance
-    based on constant voltage reset test core characteristics for
-    various reset fluxes are determined experimentally leading to a
-    graphical evaluation of the performance of a two core self
-    saturating magnetic amplifier

@@ -1,4 +1,0 @@
-demonstration of classical plasma behaviour in a
-    transverse magnetic field a demonstration that the removal of
-    the internal electric field halts the streaming of the plasma
-    transverse to the b field

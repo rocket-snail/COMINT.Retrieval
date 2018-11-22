@@ -1,2 +1,0 @@
-a resonant slot parametric amplifier brief description of
-    a varactor diode amplifier for operation in the range

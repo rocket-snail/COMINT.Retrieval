@@ -1,9 +1,0 @@
-some measurements on a not selfsustaining gas discharge
-    with an axial magnetic field report of investigations of the
-    potential distribution inside the central arc column of the
-    discharge the experimental arrangement consists of a
-    cylindrical anode with a filamentary cathode at one end and a
-    reflector at the other and a hot probe with electronegative
-    gases deep troughs of negative potential are observed with
-    electropositive gases the central plasma potentials are still
-    negative in relation to the anode

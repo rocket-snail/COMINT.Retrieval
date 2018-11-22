@@ -1,4 +1,0 @@
-non ideal gyrators the analogy between non ideal gyrators
-    and non ideal transformers is established equations are derived
-    for the perfect gyrator and the gyrator with leakage matching
-    and directional characteristics are discussed

@@ -1,6 +1,0 @@
-rocket measurements of absorption in the lower ionosphere
-    results are given of measurements of the field strength of one
-    long wave and two medium wave transmitters the d layer minimum
-    height is about km and medium wave observations indicate
-    maximum absorption at km the attenuation being km for normal
-    incidence

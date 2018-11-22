@@ -1,8 +1,0 @@
-the f layer at sunrise observations at cambridge and
-    slough show that at fixed heights in the f region just after
-    layer sunrise the electron density increases faster in winter
-    than in summer and faster at sunspot maximum than at sunspot
-    minimum it is postulated that seasonal changes of atmospheric
-    composition alter the rates of electron production and loss
-    thereby causing both the noon and sunrise seasonal f layer
-    anomalies

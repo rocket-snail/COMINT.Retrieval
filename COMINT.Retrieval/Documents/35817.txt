@@ -1,9 +1,0 @@
-a high speed waveform sampling circuit pulsed sampling
-    circuits are discussed for obtaining a quantized output
-    corresponding to a continuously varying input voltage a cathode
-    follower with negative feedback is used to provide an
-    arrangement giving sz satisfactory operation with sampling
-    pulses of short duration and small amplitude a diode switch
-    circuit leads from the cathode follower to the input of a sign
-    reversing amplified between whose input and output terminals
-    the storage capacitor is connected

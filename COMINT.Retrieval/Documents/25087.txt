@@ -1,6 +1,0 @@
-a stable gain transformer coupled transistor af amplifier
-    the amplifier is designed primarily for use with dc choppers
-    giving a square wave output at cs circuit diagrams are given
-    and the performance is illustrated by graphs changes in the
-    transformer design for use at other frequencies are
-    discussed

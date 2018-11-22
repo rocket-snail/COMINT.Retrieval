@@ -1,2 +1,0 @@
-transistor binary number store for pulse
-    operations

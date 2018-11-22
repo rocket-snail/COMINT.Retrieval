@@ -1,7 +1,0 @@
-an autocorrelogram computer a comparatively simple and
-    inexpensive instrument is described with detailed circuit
-    diagram the signal recorded on a magnetic tape is played back
-    through two separate heads thus producing the functions and
-    these are amplified multiplied and then integrated by a
-    modified dc watt hour meter the computer was originally
-    developed as a yarn cross section analyser

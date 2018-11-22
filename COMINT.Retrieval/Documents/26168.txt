@@ -1,5 +1,0 @@
-identification of sporadic e from low frequency sweep
-    polarization records reversals in the direction of rotation of
-    the polarization ellipse are interpreted s using the wave
-    theory of reflection from a thin sharply bounded layer in the
-    ionosphere

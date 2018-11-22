@@ -1,5 +1,0 @@
-electric fields and currents in dielectrics a general
-    solution is given for the distribution of electric field and
-    charge carrier concentration in a dielectric between two
-    metallic contacts when field emission and thermionic currents
-    flow from the cathode

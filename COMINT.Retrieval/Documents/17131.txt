@@ -1,9 +1,0 @@
-on the design of rectifiers with electron stabilization
-    the design of a stabilized rectifier should be divided into two
-    stages calculation of the limits of stability of the limiting
-    values of the mains voltage and load current for normal
-    operation of the rectifier and determination of the coefficient
-    of stability suitable methods for dealing with stage are
-    proposed details of the calculation are set out and the case of
-    the regulating valve with a shunt is discussed
-    separately

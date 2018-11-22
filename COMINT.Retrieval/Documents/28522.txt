@@ -1,6 +1,0 @@
-the radio refractive index of air a review paper
-    containing references the constants in the classical debye
-    expression for the radio refractive index are discussed
-    together with the errors incurred in using standard
-    meteorological data model atmospheres and radio climatology are
-    also discussed

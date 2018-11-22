@@ -1,7 +1,0 @@
-on the integral width of cascaded tuned amplifiers a
-    formula is derived by which the overall integral bandwidth of
-    an amplifier containing a number of noninductively coupled
-    circuits is expressed in the effective quality factors of the
-    separate resonance circuits the quantity can also be expressed
-    in the integral widths of the separate circuits for two or
-    three stages very simple relations are found

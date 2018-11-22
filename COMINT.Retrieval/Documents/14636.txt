@@ -1,6 +1,0 @@
-two network theorems concerning change of voltage
-    reference terminal the first theorem describes the change in
-    the admittance matrix corresponding to the change of the
-    voltage reference terminal ground terminal the second theorem
-    shows that the determinant of the d admittance matrix is
-    invariant under such transformations

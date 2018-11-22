@@ -1,6 +1,0 @@
-function generator for sines or cosines operation of the
-    transistorized unit described is based on the fact that the
-    area under a sine curve varies as a cosine function basic
-    components required are a linear pulse width modulator an ideal
-    switch two pnp transistors connected emitter to emitter an
-    integrator and a sine wave source

@@ -1,4 +1,0 @@
-low pass filters for mobile use constructional details
-    are given of simple compact filters for the suppression of
-    radiation at television frequencies from mobile transmitters
-    operating at frequencies below and in the range

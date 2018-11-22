@@ -1,8 +1,0 @@
-implementation of the csin (chemical substances
-    information network) user services office. the document
-    presents a plan to implement the design for the csin user
-    services office. it describes the specific functions,
-    procedures, staffing, and facilities implied in the earlier
-    design report and refined by subsequent discussions with the
-    csin administration and the development contractor, computer
-    corporation of america.

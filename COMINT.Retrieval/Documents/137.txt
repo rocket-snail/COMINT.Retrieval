@@ -1,4 +1,0 @@
-nonlinear effects on electron plasma oscillations a
-    nonlinear term in the boltzmann equation is considered as a
-    perturbation and the results are examined to investigate the
-    validity of the linear approximation

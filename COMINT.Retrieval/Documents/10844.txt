@@ -1,5 +1,0 @@
-electric correlators typical applications of electric
-    correlating devices are discussed and the operation of various
-    types of these is described details are given of a static type
-    translator using transistors and crystal diodes as nonlinear
-    switching elements

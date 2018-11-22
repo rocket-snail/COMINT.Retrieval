@@ -1,4 +1,0 @@
-a note on the back scattering of a circular disk
-    asymptotic series are obtained for the back scattering cross
-    sections of an acoustically hard disk an acoustically soft disk
-    and a perfectly conducting disk

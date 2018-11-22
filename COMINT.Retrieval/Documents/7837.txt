@@ -1,5 +1,0 @@
-transistorized if strip design the performance of
-    tetrodes in grounded emitter and grounded base circuits is
-    compared a nine stage if amplifier using grounded emitter
-    tetrodes is described with transformer coupling between stages
-    providing for neutralizing and matching

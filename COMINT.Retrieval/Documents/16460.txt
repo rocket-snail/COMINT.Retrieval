@@ -1,8 +1,0 @@
-resonance circuits comprising or elements and some
-    applications the frequency characteristics of the wien bridge
-    and of an analogous inductance bridge are investigated
-    theoretically pseudo resonance phenomena occurring in the
-    neighbourhood of bridge balance are discussed true resonance is
-    obtained when the bridge is associated with a feedback circuit
-    to act as an oscillator the tuned amplifier and the and
-    oscillators are described

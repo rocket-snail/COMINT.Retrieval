@@ -1,5 +1,0 @@
-on the process of flux reversal in multiaperture ferrite
-    cores experimental results for two aperture cores are presented
-    and a model is suggested to represent the flux state within a
-    two aperture core for various winding circuit
-    combinations

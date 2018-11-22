@@ -1,6 +1,0 @@
-radio reflexions from the moon and solar corona the
-    formula for the rotation of the plane of polarization given by
-    daniels and bauer of is revised for the case when with low
-    solar activity the electron density in the ionosphere has
-    decreased and the electrons in the space around the earth
-    cannot be neglected

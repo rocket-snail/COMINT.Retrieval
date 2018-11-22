@@ -1,6 +1,0 @@
-energy spectrum of electrons trapped in the geomagnetic
-    field solutions of the fokker planck equation for th electron
-    distribution function are obtained by reducing the equation to
-    an eigenvalue problem the spectrum obtained with a source of
-    decaying albedo neutrons is at variance with the observed
-    result

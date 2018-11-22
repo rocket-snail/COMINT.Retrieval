@@ -1,4 +1,0 @@
-amplifiers with band filter coupling the design of
-    multistage amplifiers with flat or tchebycheff type response is
-    considered design formulae and response cuf curves are
-    given

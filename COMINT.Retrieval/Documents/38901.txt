@@ -1,5 +1,0 @@
-gaseous optical maser with external concave mirrors the
-    construction and operation of a helium neon optical maser is
-    described the discharge tube is sealed at both ends with
-    optically flat windows at the brewster angle to the beam
-    axis

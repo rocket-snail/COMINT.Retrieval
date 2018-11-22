@@ -1,4 +1,0 @@
-impedance transformations in band pass filters the design
-    of band pass impedance transforming filters is derived from the
-    equivalence between an asymmetrical band pass filter and a
-    symmetrical section plus an ideal transformer

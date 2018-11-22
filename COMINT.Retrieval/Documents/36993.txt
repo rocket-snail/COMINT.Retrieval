@@ -1,6 +1,0 @@
-the theory of electromagnetic waves in a crystal in which
-    excitons are produced it is shown that in a crystal several
-    waves of the same frequency polarization and propagation
-    direction exist but with different indices of refraction this
-    phenomenon differs from double refraction of light and occurs
-    even in isotropically polarizing cubic crystals

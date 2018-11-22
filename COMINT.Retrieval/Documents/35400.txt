@@ -1,9 +1,0 @@
-is it more cost-effective to print on- or offline?.
-    questions the traditional assumption that it is less expensive
-    to print search results off-line than to print them on-line.
-    describes a simple formula to determine on-line print costs for
-    comparison with off-line charges for 2 major data base vendors
-    (lockheed and sdc). the equation permits the calculation of the
-    maximum citation length at which off-line printing becomes
-    economic. concludes that with local printing at 1200 baud,
-    there is very little advantage to printing off-line.

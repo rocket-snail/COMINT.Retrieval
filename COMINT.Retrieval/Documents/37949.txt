@@ -1,9 +1,0 @@
-the differences in the relationship between ionospheric
-    critical frequencies and sunspot number for different sunspot
-    cycles statistical analysis of data from washington dc and
-    watheroo australia shows significant differences for months
-    near the equinoxes and also seasonal variations between the and
-    cycles inconclusive results for other months are ascribed in
-    part to the small sample size of available data for radio
-    propagation predictions therefore only current cycle data
-    should be used

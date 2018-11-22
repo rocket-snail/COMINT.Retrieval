@@ -1,5 +1,0 @@
-computer enumeration and generation of trees and rooted
-    trees. a computer-adopted method for enumerating and plotting
-    trees (alkanes) and rooted trees (substituted alkanes) with +n
-    vertices (carbon atoms) is described. results are compared to
-    some previous work in this area.

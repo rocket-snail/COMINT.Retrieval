@@ -1,8 +1,0 @@
-on the excitation of oscillations in a thermal plasma
-    plasma oscillations are considered for an arbitrary
-    distribution of electron beams the fundamental equations are
-    derived assuming a weak signal and the absence of static fields
-    the dispersion relation derived is applied to the case of
-    excitation of thermal plasma by an injected electron beam and
-    the rate of wave growth is determined the numerical results are
-    compared with results obtained by merrill and webb june

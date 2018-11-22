@@ -1,3 +1,0 @@
-a simple high temperature microwave spectrograph
-    equipment for operation in the frequency range is described
-    based on the stark modulation effect

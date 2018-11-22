@@ -1,8 +1,0 @@
-some remarks on the interaction of solar plasma and the
-    geomagnetic field an explanation of the small scale of magnetic
-    disturbances on the earths surface is that currents flow in
-    plasma sheets and move along the curved magnetic lines of force
-    these sheets are distant less than one earths radius from the
-    surface and would produce perturbation fields consistent with
-    the size and direction necessary to explain storm time
-    geomagnetic variations

@@ -1,9 +1,0 @@
-synthesis of paralleled terminal rc networks to provide
-    complex zeros in the transfer function an improvement n the
-    method given by guillemin of is described which required fewer
-    paralleled networks the desired transfer ratio is converted
-    into the sum of several transfer ratios each of which can be
-    realized with a single ladder network a method of synthesis for
-    these networks in terms of a common driving point admittance
-    function is described and theory developed for their connection
-    in parallel

@@ -1,9 +1,0 @@
-thermal and gravitational excitation of atmospheric
-    oscillations previous work is extended to include a unified
-    treatment for both gravitational and thermal forcing functions
-    from consideration of various atmospheric models it appears
-    that thermal effects are far more important than gravitational
-    ones in producing the solar semi diurnal pressure variation
-    this is not confirmed by observation but the disagreement may
-    be eliminated by assuming the possibility of heating other than
-    by ground eddy currents

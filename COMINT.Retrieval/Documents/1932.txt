@@ -1,7 +1,0 @@
-one to two millimeter wave spectroscopy part experimental
-    methods and results for ocs chf and ho continuation of work
-    reported previously of multiplier and detector performance were
-    greatly improved by using crystals small compared to the
-    wavelength to be detected a new tuning technique based on known
-    absorption lines was developed measurements made included that
-    of a new water vapour line at

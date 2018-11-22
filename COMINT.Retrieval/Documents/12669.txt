@@ -1,6 +1,0 @@
-damping of the natural electromagnetic oscillations of
-    the system earth air ionosphere continuation of work noted in
-    above an approximate formula is derived for the damping of the
-    lowest frequency oscillations from which the effective height
-    of the air layer and the effective conductivity of the
-    ionosphere can be determined

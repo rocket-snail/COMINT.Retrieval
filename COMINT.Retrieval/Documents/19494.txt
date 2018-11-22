@@ -1,4 +1,0 @@
-apsidal motion of an igy satellite orbit an error in
-    previous work is corrected concerning the movement of the line
-    of apsides relative to a node please note change of udc
-    number

@@ -1,5 +1,0 @@
-magnetic core dividers for itv sync generators an
-    accurate and stable digital divider can be made with a pair of
-    magnetic cores having rectangular hysteresis loops division by
-    factors up to has been obtained in a single stage in the
-    frequency range

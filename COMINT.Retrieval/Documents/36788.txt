@@ -1,4 +1,0 @@
-some properties of potential barriers matrices used in
-    defining the wave function at the junction between different
-    media are shown to be applicable for calculations relating to
-    potential barriers of various forms

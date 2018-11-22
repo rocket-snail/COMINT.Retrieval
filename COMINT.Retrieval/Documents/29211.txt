@@ -1,6 +1,0 @@
-cosmic ray measurements in the vicinity of planets and
-    some applications part one primary cosmic radiation the
-    variation of the primary cosmic ray intensity is calculated as
-    a function of distance from a dipole in its equatorial plane
-    scientific applications indicated include the determination of
-    magnetic fields of the moon and planets

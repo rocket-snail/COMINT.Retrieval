@@ -1,7 +1,0 @@
-coaxial cavity filters for multiplexing of radio relay
-    systems essentially full text of paper to be published in
-    filters are discussed comprising cascaded coaxial line sections
-    the selectivity attained permits a frequency separation as low
-    as between a transmitter and a receiver operating on a common
-    aerial and a separation as low as between transmitters or
-    receivers

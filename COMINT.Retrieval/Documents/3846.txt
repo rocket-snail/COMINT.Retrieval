@@ -1,6 +1,0 @@
-diffraction of electromagnetic waves by an aperture in an
-    infinite screen an approximate solution is derived for
-    conditions of normal incidence on a perfectly conducting screen
-    the method is applicable where the aperture is large compared
-    with and reduces the problem to one of scalar boundary
-    values

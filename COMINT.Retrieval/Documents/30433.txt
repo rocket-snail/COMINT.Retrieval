@@ -1,2 +1,0 @@
-numerical inversion of laplace transforms march, 1960
-    schmittroth, l. a. ca600305 jb march 22, 1978 2:00 pm

@@ -1,4 +1,0 @@
-the short electronic analogue computer description o the
-    design and operation of a general purpose computer designed for
-    quantity production and capable of single shot and repetitive
-    operation

@@ -1,4 +1,0 @@
-remarks on the additions to kupfmullers transient
-    transient formula kupfmullers formula for low pass filters is
-    generalized and an analogous formula valid for all pass delay
-    circuits with optimally flat response is derived

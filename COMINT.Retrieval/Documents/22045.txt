@@ -1,5 +1,0 @@
-pcm coding system uses special tubes the system uses a
-    ten target ribbon beam switching tube for sampling and a tube
-    with ten stable positions determined by crossed electric and
-    magnetic fields for coding descriptions of tubes and circuit
-    are given

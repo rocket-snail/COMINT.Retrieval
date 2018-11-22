@@ -1,7 +1,0 @@
-radiation of plasma oscillation radiation of em waves
-    from a mercury discharge tube was picked up by a horn feeding a
-    receiver tuned to a peak value of received signal was obtained
-    for a discharge current corresponding to a plasma resonant at
-    reflections from the plasma were also observed they reached a
-    peak value at the same discharge current but did not fall with
-    higher currents

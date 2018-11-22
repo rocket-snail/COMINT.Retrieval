@@ -1,5 +1,0 @@
-a spectral analysis of the radio sources in cygnus x the
-    results support the conclusions of other workers showing that
-    the emission is from optically thin regions except for the
-    strongest source in the region tie source which was found to
-    have a nonthermal component

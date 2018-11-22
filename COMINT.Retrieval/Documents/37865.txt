@@ -1,4 +1,0 @@
-margin considerations for an esaki diode resistor or gate
-    worst case margin considerations imply that applications are
-    restricted to storage systems flip flops shift registers and
-    the like

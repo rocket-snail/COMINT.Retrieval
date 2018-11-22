@@ -1,9 +1,0 @@
-online microfilm recorders at los alamos national
-    laboratory. the los alamos computing division has developed a
-    satellite graphics output station (pages). this station accepts
-    user requests for output through a large computer network (the
-    icn). the system translates a standard metafile into a
-    device-specific format and efficiently generates the requested
-    output. at the same time, pages provides some graphics
-    processing, previously provided by the large
-    supercomputers.

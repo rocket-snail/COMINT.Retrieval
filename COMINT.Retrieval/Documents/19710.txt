@@ -1,9 +1,0 @@
-microwave study of positive ion collection by probes the
-    electron density in a plasma is determined from the shift in
-    resonance frequency of a cavity in which a discharge is
-    maintained the results are used to verify theory of positive
-    ion collection by negatively biased or double probes
-    experiments were performed in h ar and he at pressures from to
-    mm hg agreement between experimental and theoretical results is
-    good at the lower pressures at high pressures the probe
-    collected about twice the current predicted by theory

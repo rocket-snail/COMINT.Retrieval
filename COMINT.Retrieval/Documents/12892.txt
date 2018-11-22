@@ -1,3 +1,0 @@
-on the theory of the peltier heat pump the figure of
-    merit for a single stage pump is optimized in the region of
-    partial fermi degeneracy

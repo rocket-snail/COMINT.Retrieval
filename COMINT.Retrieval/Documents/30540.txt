@@ -1,5 +1,0 @@
-magnetic gate circuits controlled by high frequency
-    signals principles of operation of three and four core gating
-    circuits based on the nonlinear properties of parametron type
-    cores are described experimental characteristics and
-    applications are noted

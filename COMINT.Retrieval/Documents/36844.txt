@@ -1,8 +1,0 @@
-model experiments on aurorae and magnetic storms
-    experiments on a magnetized sphere of were performed to check
-    alfvens theory above although a proper scaling down is not
-    possible some confirmation of the theory was obtained in
-    particular the space charge accumulated in the discharge region
-    discharges along the lines of magnetic force photographs of the
-    discharge patterns produced at various electric and magnetic
-    field strengths are shown and discussed

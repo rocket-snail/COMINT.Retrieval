@@ -1,5 +1,0 @@
-broadband millimetre wave paramagnetic resonance
-    spectrometer the specimen and waveguide which can be cooled by
-    means of a cryostat are placed between close pole pieces giving
-    high uniform magnetic fields design details and some
-    measurements on zero field splittings are given

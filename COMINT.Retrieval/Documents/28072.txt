@@ -1,5 +1,0 @@
-minimum size and maximum packing density of nonredundant
-    semiconductor devices the essential active region in
-    semiconductor devices is already close to minimum size further
-    miniaturization of these devices must come from reduction in
-    the size of nonessential parts

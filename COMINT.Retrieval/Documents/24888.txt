@@ -1,3 +1,0 @@
-a weighted buddy method for dynamic storage allocation
-    (corrigendum) april, 1975 shen, k. k. peterson, j. l. ca750404
-    jb january 9, 1978 4:06 pm

@@ -1,5 +1,0 @@
-library networks, 1981-82. detailed study of library
-    networking in the usa with sections including' the scope of
-    networking; the computer utilities; suppliers to the market;
-    national efforts; networks and libraries in the years ahead;
-    and appendices on each of the major us library networks.

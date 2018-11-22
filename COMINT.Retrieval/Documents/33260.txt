@@ -1,6 +1,0 @@
-the practical significance for communication technique of
-    the relation between hilbert transformation and harmonic
-    analysis conformal mapping is used to show that the hilbert
-    transformation can be reduced to a harmonic analysis which
-    would simplify attenuation and phase calculations practical
-    methods of carrying out the transformation are outlined

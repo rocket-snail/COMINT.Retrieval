@@ -1,6 +1,0 @@
-facts and how to find them. paper presented to the
-    society of indexers, 11 july 80. discusses some of the problems
-    involved in information retrieval and describes some techniques
-    for extracting information from people, organisations and
-    documents. gives some examples of methods used by the author to
-    discover unusual or difficult to obtain facts.

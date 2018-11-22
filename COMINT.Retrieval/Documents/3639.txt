@@ -1,5 +1,0 @@
-the dirac electron in rectilinear fields diracs equations
-    for an electron in a rectilinear field are first reduced to a
-    single equation of simple form suitable for the solution of
-    problems an explicit solution is then obtained for an electron
-    in a constant electric field

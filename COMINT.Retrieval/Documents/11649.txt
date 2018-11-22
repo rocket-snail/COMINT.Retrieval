@@ -1,9 +1,0 @@
-automation support for collection management and control.
-    discusses the automation of circulation systems and inventory
-    management, with reference to experiences in the design and
-    development of an integrated library system at the lister hill
-    national center for biomedical communications, national library
-    of medicine, bethesda, usa. describes the areas of automation
-    support that will be of benefit to collection management and
-    control, and indicates the extent to which this particular
-    system is incorporating and developing these areas.

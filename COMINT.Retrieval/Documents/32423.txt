@@ -1,4 +1,0 @@
-the design of the eccles jordan circuit design formulae
-    are derived from a fundamental analysis of the circuit their
-    application is illustrated in the design of a high stability
-    flip flop circuit using a valve

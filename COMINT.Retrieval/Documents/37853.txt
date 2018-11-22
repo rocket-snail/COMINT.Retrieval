@@ -1,2 +1,0 @@
-fourier series approximation (algorithm 157) september,
-    1963 george, r. ca630920 jb march 13, 1978 7:20 pm

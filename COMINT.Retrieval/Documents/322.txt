@@ -1,4 +1,0 @@
-geomagnetic activity and eruptions statistical analysis
-    of observational data to determine the relation between various
-    types of solar flare and increases in geomagnetic
-    activity

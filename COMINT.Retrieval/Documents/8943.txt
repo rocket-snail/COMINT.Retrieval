@@ -1,9 +1,0 @@
-effect of hydromagnetic waves in a dipole field on the
-    longitudinal invariant hydromagnetic waves of period sec and
-    amplitude at earth radii may cause a systematic lowering of
-    mirror points with subsequent loss of particles in atmospheric
-    collisions two models for electron density variation along a
-    field line are investigated particle acceleration by the fermi
-    process is dominated by particle loss at mirror points and it
-    is suggested that only high frequency waves will give effective
-    acceleration

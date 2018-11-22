@@ -1,5 +1,0 @@
-phase selective gate rejects quadrature a phase reference
-    voltage controls two unmatched diodes which conduct only when
-    the in phase component is at maximum and the quadrature
-    component at minimum a circuit designed for a servo amplifier
-    is described

@@ -1,6 +1,0 @@
-calculation of the elementary electric charge from the
-    energy quantum model by extending the theory developed
-    previously of august and back reference a value of esu is
-    obtained for the elementary electric charge this differs by
-    from the established value for the electron the difference
-    being mostly due to the approximations used

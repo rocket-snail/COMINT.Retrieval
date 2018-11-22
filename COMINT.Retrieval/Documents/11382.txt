@@ -1,7 +1,0 @@
-on the theory of stationary waves in plasmas a
-    mathematical treatment is presented appropriate to the case of
-    a continuous non vanishing distribution of particle velocities
-    a complete set of stationary plane wave solutions can be
-    constructed there is no dispersion equation because for a given
-    wave vector a continuous range of values of frequency is
-    possible

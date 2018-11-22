@@ -1,5 +1,0 @@
-secondary positive ion emission from metal surfaces
-    secondary positive ions ejected from surfaces of mo ta and pt
-    under bombardment by inert gas ions of low energy have been
-    studied in high vacuum using a mass spectrometer with a radius
-    of curvature and a sector field

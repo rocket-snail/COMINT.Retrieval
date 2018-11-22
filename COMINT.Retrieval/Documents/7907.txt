@@ -1,8 +1,0 @@
-noise in an amplifier stage with negative voltage
-    feedback the problem is considered with particular reference to
-    the input circuit of an amplifier for a magnetic tape recorder
-    analysis indicates that frequency distortion inherent in the
-    system can be corrected by use of negative feedback at the
-    input valve and indicates the existence of an optimum ratio for
-    the input transformer from the point of view of signal noise
-    ratio

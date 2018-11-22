@@ -1,5 +1,0 @@
-instrumentation for the first anglo american scout
-    satellite the satellite is primarily designed for studies of
-    the ionosphere the techniques for measurement of electron
-    density and temperature ion mass solar x rays and lyman flux
-    are described

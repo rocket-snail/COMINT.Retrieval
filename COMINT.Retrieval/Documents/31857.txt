@@ -1,5 +1,0 @@
-solution of ladder networks containing nonlinear
-    resistances a graphical method of solving network problems
-    involving nonlinear and or negative resistances is described
-    such networks have been used for the solution of nonlinear
-    differential equations

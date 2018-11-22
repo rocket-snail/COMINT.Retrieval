@@ -1,8 +1,0 @@
-the solution of passive electrical networks by means of
-    mathematical trees a new method of solution for network
-    problems is based on the properties of certain basic types of
-    network termed trees and trees linkage functions defined in
-    terms of sets of trees and trees obey laws analogous to those
-    of kirchhoff so that relations involving voltages and currents
-    can be expressed in terms of linkages results of the method are
-    given in terms of admittances

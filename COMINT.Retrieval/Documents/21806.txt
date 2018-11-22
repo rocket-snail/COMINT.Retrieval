@@ -1,6 +1,0 @@
-programme design for the computer adaptation of routines
-    for elaborate arithmetical operations discussion of the
-    extension of the library routine system to deal with floating
-    point multiple precision and complex arithmetic and certain
-    combinations of these the interpretive method of programme
-    organization is used

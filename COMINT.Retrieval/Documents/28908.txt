@@ -1,4 +1,0 @@
-radiation from a line source adjacent to a conducting
-    half plane expressions for the field are obtained in terms of
-    tabulated functions by using an alternative method of analysis
-    to that of harrington

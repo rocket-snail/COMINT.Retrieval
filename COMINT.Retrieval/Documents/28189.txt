@@ -1,8 +1,0 @@
-pira seminar s13. an introduction to database publishing.
-    the text of talks by m.y. gates on the basics of data base
-    publishing, and by d.h. barlow on identifying data bases and on
-    financial and marketing strategies for data base publishing is
-    given. a presentation by d.h. barlow and p. barwise at a nfais
-    conference on modelling techniques as an aid in marketing
-    decisions is also included. a leaflet on langton electronic
-    publishing systems is enclosed.

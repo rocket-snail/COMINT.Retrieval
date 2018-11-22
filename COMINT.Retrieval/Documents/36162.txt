@@ -1,5 +1,0 @@
-irredundant disjunctive and conjunctive forms of a
-    boolean function a thorough algebraic method is described for
-    determining the complete set of irredundant normal and
-    conjunctive forms the procedure is mechanical and the method
-    can be applied for programming computers

@@ -1,3 +1,0 @@
-analogue computation a survey of the principles practice
-    and current applications of computers together with a tabulated
-    analysis of british models

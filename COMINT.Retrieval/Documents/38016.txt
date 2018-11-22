@@ -1,7 +1,0 @@
-observations of unusual radio frequency noise emission
-    and absorption the noise enhancements observed during periods
-    of solar activity are classified as smooth or abrupt while
-    smooth changes occur in both day and night hours the abrupt
-    increases are observed only near local midnight the smooth
-    enhancements occur almost simultaneously with the absorption of
-    radiation in a sector of the northern sky

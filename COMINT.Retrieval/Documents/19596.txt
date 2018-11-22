@@ -1,4 +1,0 @@
-circuit designed for high voltage gain from transistors
-    in the circuit described a common emitter stage feeds into a
-    modified common collector stage with low output
-    impedance

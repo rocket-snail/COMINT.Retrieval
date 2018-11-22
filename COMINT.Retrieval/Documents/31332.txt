@@ -1,7 +1,0 @@
-conser' an international project. describes the
-    development of conser-an international project to convert
-    retrospective and current serial records of us and canadian
-    libraries into a machine readable bibliographic file. discusses
-    briefly' the use of the conser data base for serials
-    cataloguing; some of the problems encountered by the project;
-    and expansion and future development.

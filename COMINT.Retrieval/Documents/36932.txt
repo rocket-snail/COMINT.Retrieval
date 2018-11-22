@@ -1,7 +1,0 @@
-the organization and use of information: contributions of
-    information science, computational linguistics and artificial
-    intelligence. reviews the ways in which new developments in
-    computer-based methods for working with concepts of
-    information, knowledge and language can improve the
-    understanding of how people organise and use
-    information.

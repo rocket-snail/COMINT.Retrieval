@@ -1,9 +1,0 @@
-the development of computer systems in general practice.
-    (msc thesis). in recent years it has been increasingly realised
-    that information handling in general practice is inadequate for
-    providing a high standard of health care, particularly in
-    preventive medicine and chronic disease surveillance. the
-    conventional patient records have been particularly criticised.
-    a questionnaire sent to general practitioners interested in
-    microcomputer-based information systems revealed that within 3
-    years most of the group would be operating such systems.

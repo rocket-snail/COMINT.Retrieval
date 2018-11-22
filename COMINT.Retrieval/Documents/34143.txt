@@ -1,5 +1,0 @@
-asymptotic evaluation of the field at a caustic a
-    determination is made of the field at and near the focus when a
-    plane em wave is incident on a parabolic cylinder the case of a
-    reflector comprising a segment of a circular cylinder is also
-    considered

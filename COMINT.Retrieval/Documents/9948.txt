@@ -1,9 +1,0 @@
-fluctuations of temperature accompanying the solar
-    eclipse during the eclipse there was a depression of the rms
-    value of the fluctuations which was accompanied by a
-    temperature inversion with a steep gradient as the eclipse
-    passed the maximum blackout period the rms value of the
-    temperature fluctuations between two points vertically
-    separated was found to increase with diminishing inversion and
-    to continue to increase as the gradients changed from positive
-    to negative values

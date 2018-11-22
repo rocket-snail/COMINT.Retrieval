@@ -1,4 +1,0 @@
-current capacitance characteristics of metal rectifiers
-    report of measurements and discussion of the reverse current
-    voltage and capacitance voltage characteristics of metal
-    rectifiers at room and liquid air temperatures

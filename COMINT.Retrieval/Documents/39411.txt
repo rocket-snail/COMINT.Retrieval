@@ -1,3 +1,0 @@
-the synthesis of a parallel adder circuit using a pattern
-    recognition technique besides the synthesis a comparison with a
-    conventional adder circuit is given

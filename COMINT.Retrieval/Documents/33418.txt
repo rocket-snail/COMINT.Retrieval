@@ -1,3 +1,0 @@
-optical pumping in crystals an estimate is made of the
-    expected population change in the ground state of a crystal due
-    to optical pumping

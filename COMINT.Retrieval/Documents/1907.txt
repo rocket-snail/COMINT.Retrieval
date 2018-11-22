@@ -1,4 +1,0 @@
-gain and in phase suppression of symmetric and
-    unsymmetric differential amplifiers the equivalent circuit of
-    the differential amplifier is given and the operating
-    parameters are calculated

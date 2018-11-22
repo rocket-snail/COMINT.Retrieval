@@ -1,6 +1,0 @@
-improvement of 'spresi' code terms by using them in
-    calculation of chemical properties by structural and additive
-    methods. describes the use of the spresi fragmental code for
-    the isolation in chemical compounds of the structure fragments
-    which are used in the calculation of the properties of chemical
-    compounds by structure and additive methods.

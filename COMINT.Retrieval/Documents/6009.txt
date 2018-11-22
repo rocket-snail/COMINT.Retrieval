@@ -1,7 +1,0 @@
-dekatrons and electromechnical registers operated by
-    transistors transistor circuits are described for driving cold
-    cathode decade tubes and electromechanical counters in both
-    cases the transistor circuit combines the waveform shaping
-    properties of the thermionic valve with the economy of power
-    achieved with the cold cathode valve high reliability of
-    performance is also attained

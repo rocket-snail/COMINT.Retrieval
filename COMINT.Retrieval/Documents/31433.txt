@@ -1,4 +1,0 @@
-electronic rotor a method is described for introducing
-    the concepts of bearing and angle into fast cartesian analogue
-    computations without the use of mechanical shafts and
-    servomechanisms

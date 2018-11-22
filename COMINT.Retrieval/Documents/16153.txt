@@ -1,5 +1,0 @@
-low frequency wave filters employing thermistors a
-    general review of thermistor properties and small signal
-    performance is presented together with results of measurements
-    at very low frequencies and response curves of simple filter
-    circuits

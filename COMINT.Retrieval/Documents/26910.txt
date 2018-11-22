@@ -1,7 +1,0 @@
-the psychological impact of automation on library and
-    office workers. the successful design and implementation of
-    library automated systems require careful attention to the
-    human psychological needs of system operators and users.
-    presents a review of the literature, focusing on automation
-    fears, their underlying causes, and some of the means available
-    for their reduction or elimination.

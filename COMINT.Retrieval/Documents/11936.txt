@@ -1,3 +1,0 @@
-normalized input admittance curves of two stage band
-    filters and the smallest mismatch circles for a given frequency
-    range

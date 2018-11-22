@@ -1,7 +1,0 @@
-high frequency transistor amplifiers transistor high
-    frequency transistor amplifiers transistor equivalent circuits
-    appropriate for hf wide band operation are presented input and
-    output impedance and power gain for grounded base and grounded
-    emitter arrangements are discussed the design of an if
-    amplifier using four npn transistors is described as an example
-    the bandwidth is centred at and the gain is pr stage

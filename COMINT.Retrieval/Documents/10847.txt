@@ -1,4 +1,0 @@
-lunar daily variation of horizontal drifts in the
-    ionosphere at waltair the amplitudes and phases of the hourly
-    harmonics of the drift in the e and f regions are given for the
-    four seasons

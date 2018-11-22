@@ -1,2 +1,0 @@
-radio wave propagation characteristics of a simple
-    ionospheric model based on rocket data

@@ -1,7 +1,0 @@
-flux resetting characteristics of full wave magnetic
-    amplifier affected by the metallic rectifier quantitative
-    relations between rectifier and flux resetting characteristics
-    are investigated by a technique in which the effects of
-    nonlinear forward and reverse characteristics of the rectifier
-    are separated by means of mechanical synchronous
-    contacts

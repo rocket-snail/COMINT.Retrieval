@@ -1,4 +1,0 @@
-a high stability transistor oscillator for the design
-    development construction and testing of a oscillator are
-    described power output is stable within and frequency within
-    ove the temperature range

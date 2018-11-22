@@ -1,7 +1,0 @@
-the effect of long transmission lines on klystron
-    oscillators discussion of effects occurring when the oscillator
-    load is several wavelengths away from the valve equivalent
-    circuits are applied to analysis of the fm distortion and of
-    the discontinuities in the klystron characteristics
-    experimental results are presented which corroborate the
-    theory

@@ -1,5 +1,0 @@
-studio amplifier design for color television distribution
-    amplifiers with highly linear phase characteristics over a wide
-    frequency range are obtained by using multistage feedback
-    amplifiers with rc couplings having different time
-    constants

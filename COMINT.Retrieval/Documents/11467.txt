@@ -1,3 +1,0 @@
-combination in lexicographical order (algorithm 154)
-    august, 1963 bosworth, k. m. ca630827 jb march 13, 1978 8:18
-    pm

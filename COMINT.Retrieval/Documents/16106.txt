@@ -1,4 +1,0 @@
-stagger tuned and bandpass coupled circuits in wide band
-    i f valve amplifiers formulae are derived for the replacement
-    of any two equally detuned circuits in a stagger tuned
-    amplifier by a single bandpass coupled pair

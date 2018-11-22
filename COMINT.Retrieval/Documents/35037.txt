@@ -1,7 +1,0 @@
-apparatus for the experimental study of the diffraction
-    of centimetre waves apparatus operating at is described for
-    determining the phase and intensity at any point of the em
-    field two versions are presented one for the investigation of
-    diffraction near the axis and the other for the distant
-    diffraction field the effect of diffracting bodies less than in
-    size can be detected

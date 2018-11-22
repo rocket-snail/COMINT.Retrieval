@@ -1,8 +1,0 @@
-contact charging between a borosilicate glass and nickel
-    contact charging of glass spheres rolling on clean ni was
-    studied under conditions of controlled cleanliness humidity and
-    gas pressure the effect of a transverse electric field is
-    important only for high surface conductivity surface
-    conductivity surface conduction limits the maximum charge which
-    also varies with pressure due to gaseous discharge between the
-    sphere and the metal

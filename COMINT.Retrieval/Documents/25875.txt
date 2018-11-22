@@ -1,8 +1,0 @@
-an analysis of drifts of the signal pattern associated
-    with ionospheric reflections a statistic treatment to determine
-    the drift and random velocity components from the signals
-    observed on three spaced receivers particular attention is
-    given to the random motion in order to examine the detailed
-    movement of the pattern the results suggest a ruled pattern
-    undergoing fluctuations in contour spacing as the pattern
-    drifts across the receiver site

@@ -1,4 +1,0 @@
-double tetrode oscillator the oscillator covers a
-    frequency range of and can be anode modulated with pulses
-    repeated at a rate of about constructional details are
-    given

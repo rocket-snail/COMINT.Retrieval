@@ -1,4 +1,0 @@
-an introduction to the use of transistors in inductive
-    circuits the mechanism of a delayed switch off effect which is
-    due to avalanche multiplication is described and a method of
-    avoiding it in relay switching circuits is given

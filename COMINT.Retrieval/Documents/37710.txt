@@ -1,6 +1,0 @@
-formative time lag studies with high frequency discharges
-    pulse techniques were used to study phenomena in coaxial
-    cylinder and parallel wire systems in the frequency range where
-    the discharge changes from corona type to one which completely
-    crosses the gap the breakdown voltage drops about above the
-    critical frequency

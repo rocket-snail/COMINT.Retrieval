@@ -1,5 +1,0 @@
-mechanical filters for communications technique english
-    summary the principle of operation and the design of filters
-    consisting of magnetostrictive transducers and mechanical
-    resonators are described details are given of a if band filter
-    and a ssb filter for a carrier frequency of

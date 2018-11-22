@@ -1,2 +1,0 @@
-interpolation by aitken (algorithm 70) november, 1961
-    mifsud, c. j. ca611108 jb march 15, 1978 10:53 pm

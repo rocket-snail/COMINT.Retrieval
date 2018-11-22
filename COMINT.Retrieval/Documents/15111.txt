@@ -1,8 +1,0 @@
-clustered systems integrate information. the 2nd part of
-    a 3-part series concerning text-editing equipment. clustered
-    systems contain multiple work stations, computers, and
-    peripheral devices. they allow users to share a common data
-    base and facilities, reducing overall system costs and
-    providing expanded capabilities for each user. lists the major
-    clustered systems currently available and, where applicable,
-    the latest enhancements and planned capabilities.

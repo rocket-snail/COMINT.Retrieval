@@ -1,4 +1,0 @@
-electron relaxation time in a high frequency
-    electromagnetic field and the surface impedance of a metal an
-    analysis of effects due to quantization of the em field and the
-    electron orbits in a constant magnetic field

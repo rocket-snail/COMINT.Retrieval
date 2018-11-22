@@ -1,3 +1,0 @@
-slow speed circular timebase french version of paper by
-    hardie and thomas of supplemented with references and a note on
-    earlier types of sine cosine potentiometer

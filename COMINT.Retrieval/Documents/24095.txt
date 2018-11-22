@@ -1,6 +1,0 @@
-the determination of the horizontal velocity o
-    ionospheric movements from fading records from spaced receivers
-    a method is presented which does not require a long sample of
-    record and which is valid for any distribution of orientation
-    of lines of maximum amplitude the derived formula is compared
-    with that of mitra

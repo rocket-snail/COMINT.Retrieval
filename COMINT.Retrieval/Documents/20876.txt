@@ -1,3 +1,0 @@
-wien bridge oscillators theoretical analysis of wien
-    bridge oscillators and procedure for practical design together
-    with an example of thermistor stabilization

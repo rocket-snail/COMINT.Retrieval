@@ -1,5 +1,0 @@
-new storage systems based on the magnetization of three
-    dimensional elements three systems are described two are diode
-    controlled circuits for switching magnetic storage devices and
-    the third biax is a multi aperture ferrite element using the
-    principle of flux interference see also

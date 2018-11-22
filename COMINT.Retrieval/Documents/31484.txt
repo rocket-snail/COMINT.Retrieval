@@ -1,6 +1,0 @@
-a highly stable variable time delay system description
-    with detailed circuit diagrams of delay systems in which
-    distributed amplification is used to compensate the losses in
-    the linear delay elements time jitter is extremely low two
-    practical circuits have maximum delays of and per step and per
-    step respectively

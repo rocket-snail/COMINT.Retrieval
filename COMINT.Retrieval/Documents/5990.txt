@@ -1,6 +1,0 @@
-a method for analysing values of the scalar magnetic
-    intensity the method uses a series for the square of the scalar
-    intensity the terms of which are obtained from the spherical
-    harmonics generally applied to each component of the intensity
-    those magnetic characteristics normally given by analysis of
-    the vector intensity are obtained

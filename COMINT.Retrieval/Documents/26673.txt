@@ -1,7 +1,0 @@
-designing a scientific and technical information data
-    transmission network. discusses the design criteria for a data
-    transmission network to facilitate effective resource sharing
-    among computer-based information centres; presents a network
-    structure which makes it possible to establish a
-    packet-switching communication network; and describes major
-    functions of data transmission network links.

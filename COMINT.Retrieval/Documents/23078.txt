@@ -1,3 +1,0 @@
-feedback control systems with dead time lag or
-    distributed lag by root locus method generalization and
-    application of the method originated by evans of

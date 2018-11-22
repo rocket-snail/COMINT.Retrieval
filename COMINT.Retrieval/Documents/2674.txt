@@ -1,6 +1,0 @@
-noise and electron temperatures of some cold cathode
-    argon discharges noise temperatures at were compared with the
-    corresponding electron temperatures for the positive columns of
-    some cold cathode discharges in a they were found to be in
-    close agreement the discharges gave reproducible results and
-    are recommended for use as noise standards

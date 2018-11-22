@@ -1,5 +1,0 @@
-dc transistor amplifier for high impedance input a short
-    discussion and circuit diagram of an amplifier using a double
-    emitter follower and grounded emitter voltage amplifier
-    temperature compensation gives short term drift stability the
-    input impedance is and the current gain

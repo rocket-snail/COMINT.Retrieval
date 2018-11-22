@@ -1,8 +1,0 @@
-refractive index of dipolar gas mixtures at decimetre
-    wavelengths the refractive index of mixtures of air and water
-    vapour was measured at frequencies from to over a range of
-    pressures using a cavity resonator method results are shown in
-    curves discrepancies between the observations and values
-    predicted from theory are attributed to the fact that the
-    relaxation time of the water molecules is not negligible at low
-    pressures

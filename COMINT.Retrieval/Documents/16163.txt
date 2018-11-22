@@ -1,5 +1,0 @@
-oscillator circuits with variable parameters pheolinear
-    oscillators approximation formulae are given for determining
-    pull in range and gain of parametric oscillators sinusoidal
-    variation of capacitance and ao of attenuation are the cases
-    particularly considered

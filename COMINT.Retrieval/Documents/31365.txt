@@ -1,4 +1,0 @@
-charged sphere in cylinder the charge density potential
-    and capacitance of the sphere are calcuotential and capacitance
-    of the sphere are calculated to an accuracy within one part in
-    ten using the method described earlier

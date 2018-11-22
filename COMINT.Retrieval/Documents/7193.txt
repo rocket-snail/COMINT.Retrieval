@@ -1,6 +1,0 @@
-series resonant circuit theory expressions are derived
-    for the fractional errors in tuning capacitance resonance
-    frequency maximum current and selectivity at current resonance
-    due in the case of frequency tuning to the frequency dependence
-    of the circuit resistance and in the case of capacitance tuning
-    to capacitor losses and coil self capacitance

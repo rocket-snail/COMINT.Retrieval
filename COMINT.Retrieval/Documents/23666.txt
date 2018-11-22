@@ -1,8 +1,0 @@
-amplification of small alternating voltages with the
-    magnetic amplifier a theoretical investigation of the
-    conditions under which saturated reactors are suitable for
-    amplifying sall alternating voltages a parallel choke circuit
-    with self saturation was found to be suitable and a two stage
-    amplifier based on this circuit is described the amplification
-    obtainable is sufficient to give a galvanometer indication with
-    voltages down to

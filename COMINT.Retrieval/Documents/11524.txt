@@ -1,5 +1,0 @@
-the design of function generators using short time memory
-    devices and nonlinear elements the various types of function
-    generator discussed have easily controllable output waveforms
-    which can be made to approximate to any desired shape with a
-    high degree of accuracy

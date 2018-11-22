@@ -1,4 +1,0 @@
-the collector coupled complementary pair the astable mode
-    gives phantastron type waveforms with peak to peak voltages
-    almost equalling the supply voltage the bistable md mode gives
-    thyratron type characteristics

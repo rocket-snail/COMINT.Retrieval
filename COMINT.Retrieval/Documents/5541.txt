@@ -1,4 +1,0 @@
-detection of an electrical current in the ionosphere
-    above greenla d a description of measurements made on august
-    using a rocket borne magnetometer the average current density
-    of the layer detected was about eleven a km

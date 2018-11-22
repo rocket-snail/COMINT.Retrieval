@@ -1,7 +1,0 @@
-a study of the relationship between the feed-back ability
-    and the density and resolution of the microfilm (in chinese).
-    successful duplication of microfilms depends on, 2inter alia1,
-    the density and resolution of the microfilms. compares the
-    microfilming quality requirements of documents containing both
-    chinese characters and roman letters and documents containing
-    roman letters only.

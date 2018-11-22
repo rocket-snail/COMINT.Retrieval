@@ -1,4 +1,0 @@
-transductor with high impedance control winding
-    termination the dynamic behaviour of this transductor is
-    represented by equations similar to those for a transductor
-    with a low impedance control winding termination of

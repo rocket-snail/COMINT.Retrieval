@@ -1,4 +1,0 @@
-simplified product detector design a circuit is described
-    for a pentagrid converter which may be self excited or
-    separately excited and which has an inter modulation balance
-    adjustment to reduce rectification effects

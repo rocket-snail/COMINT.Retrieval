@@ -1,7 +1,0 @@
-ionospheric drift measurements in the long wave range as
-    a contribution to the problem of general circulation of the
-    upper atmosphere spaced receiver measurements at of ionospheric
-    drift at altitude indicate distinct seasonal reversals in the
-    circulation of the upper atmosphere small diurnal variations
-    are superimposed on the normal drifts and an additional ns
-    component is observed during magnetic storms

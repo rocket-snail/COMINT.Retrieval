@@ -1,9 +1,0 @@
-the perturbation of an electromagnetic field by small
-    deformations of a metal surface a general expression is derived
-    for the perturbation due to the deformation if the deformation
-    is slight this perturbation can be found by the usual method of
-    quadratures the method is applied to the problem of the
-    diffraction of a plane wave at a step the height of wich is
-    small compared with from this the well known formulae of
-    rayleigh for reflections from small and smooth irregularities
-    are easily derived

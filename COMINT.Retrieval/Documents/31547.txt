@@ -1,8 +1,0 @@
-theory of noisy quadripoles analysis is based on
-    equivalent circuits in which the original quadripole is
-    depicted as noise free all noise sources being transferred to a
-    separate noise quadripole connected in front of it the noise
-    figure is found from the equivalent noise resistance the
-    equivalent noise conductance and a complex correlation
-    admittance methods for the experimental determination of the
-    elements of the noise quadripole are outlined

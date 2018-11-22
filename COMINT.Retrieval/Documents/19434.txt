@@ -1,4 +1,0 @@
-changing the phase of a low frequency sinusoid
-    description of various methods suitable for manual or automatic
-    control or combined automatic and manual control of the phase
-    of a sinusoidal low frequency voltage

@@ -1,5 +1,0 @@
-measurements of the laser output measurements of energy
-    output were made by means of a simulated black body absorber
-    the accuracy of the system was sufficient to measure a minimum
-    energy of joules a plot of laser output as a function of pump
-    input energy is reproduced

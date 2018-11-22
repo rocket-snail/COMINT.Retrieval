@@ -1,2 +1,0 @@
-a transient approach to the solution of a linear
-    servomechanism by an equivalent network

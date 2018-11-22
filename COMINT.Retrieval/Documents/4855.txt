@@ -1,3 +1,0 @@
-application of analogue calculation to flight simulators
-    computer elements for simulating the reactions resulting from
-    the effects of gyration pitch and roll are described

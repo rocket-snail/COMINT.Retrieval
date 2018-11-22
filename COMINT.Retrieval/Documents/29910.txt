@@ -1,4 +1,0 @@
-low energy cosmic ray events associated with solar flares
-    details are given of events during the period which have been
-    detected by the measurement of ionospheric absorption in arctic
-    regions

@@ -1,9 +1,0 @@
-resonance absorber for electromagnetic waves an absorber
-    for centimetre wavelengths consists of resonators regularly
-    distributed over a metal plate the resonators are cavities
-    containing a few milligrammes of fe powder and absorb energy by
-    interaction with the magnetic component of the e m field the
-    impedance of the absorber depends on the losses of the
-    individual resonators and on their concentration a system
-    theoretically giving total absorption at is obtained by making
-    the impedance the characteristic impedance of free space

@@ -1,7 +1,0 @@
-electrical control of valve transmitter frequency by
-    means of an electrodeless gas discharge the tuned circuit
-    inductor of an oscillator was wound round an argon filled
-    cylindrical container in which an electrodeless discharge could
-    be mained the oscillator frequency was nearly linearly
-    proportional to the anode voltage and was also dependent on the
-    gas pressure see also

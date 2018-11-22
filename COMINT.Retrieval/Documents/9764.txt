@@ -1,5 +1,0 @@
-the application of digital computers to nuclear reactor
-    design the main computational problems are reviewed together
-    with examples of the treatment of neutron transport problems an
-    assessment is made of the performance requirements of future
-    computers

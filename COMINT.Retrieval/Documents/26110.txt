@@ -1,8 +1,0 @@
-electrostatic charges in plastics experimental evidence
-    is presented that the static charge on plastics is a volume
-    charge distribution rather than a surface distribution the
-    charge contained in a plastic that has been in contact with
-    metal is found to drain out of the plastic by a flow process
-    which depends both upon the resistivity of the plastic and upon
-    the possibility of neutralization of surface charges by
-    opposite charges external to the plastic such as in air

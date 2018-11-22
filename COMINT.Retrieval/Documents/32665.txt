@@ -1,6 +1,0 @@
-acceleration of electrons by an external force field the
-    usual proof that an electron in an energy band reacts to an
-    external force as though it had an effective mass is shown to
-    be invalid it is shown however that for static externally
-    applied fields modified energy bands can be found for which the
-    acceleration theorem is rigorously correct

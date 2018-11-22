@@ -1,4 +1,0 @@
-pass band and selective af amplification f of a hf
-    oscillator the bandwidth of a hf oscillator has been
-    investigated theoretically and experimentally by studying the
-    behaviour of the oscillator as a selective af amplifier

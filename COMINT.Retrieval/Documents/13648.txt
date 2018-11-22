@@ -1,4 +1,0 @@
-electron spin in semiconductors theory is developed
-    showing that starting from equilibrium electron distribution
-    expressed in terms of absolute activity it is possible
-    correctly to take account o electron spin

@@ -1,3 +1,0 @@
-understanding the cyrator an equivalent network is used
-    to show that gyrators can be simply realized by means of
-    current or voltage generators

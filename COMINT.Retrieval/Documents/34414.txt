@@ -1,7 +1,0 @@
-a range of and transductors for service use a survey of
-    common transductor types is made and details are given together
-    with particular applications of input type transductors with n
-    mumetal or permalloy cores for supply voltages of and rms and
-    power type units with hcr or permalloy f coe cores for supply
-    voltages of and rms all are of the automatic self excitation
-    type

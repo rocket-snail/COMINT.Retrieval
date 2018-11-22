@@ -1,5 +1,0 @@
-some remarks on motion of ionospheric irregularity the
-    relative motion between irregularities in electron density and
-    their surroundings is discussed two treatments of the problem
-    are considered the surrounding ionization being assumed to be a
-    a hydromagnetic fluid and b a fully ionized gas

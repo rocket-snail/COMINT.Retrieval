@@ -1,8 +1,0 @@
-tunable microwave aerial diplexer a diplexer for the band
-    is based on the use of continuously tunable resonant circuits
-    comprising coaxial line sections short circuited at one end and
-    having a third coaxial conductor insulated from and sliding
-    within the inner conductor in a particular design illustrated
-    for separation between transmission and reception frequencies
-    the transmitted energy penetrating into the receiver is
-    attenuated by

@@ -1,7 +1,0 @@
-initial rise of brightness of electroluminescent
-    substances under the action of an alternating field observed
-    phenomena can be explained on the assumption of excitation of
-    luminescence centres by conduction band electrons that have
-    acquired sufficient energy these electrons reach the conduction
-    band from electron donor levels a few tenths of an electron
-    volt below and are then accelerated

@@ -1,8 +1,0 @@
-word processing and information management. after briefly
-    outlining the history of the use of computers in librarianship,
-    describes word processing systems and their components.
-    discusses possible applications of word processing systems for
-    technical processes and information work, together with
-    examples of systems in various uk and us institutions.
-    concludes with guidelines for choosing a system and prospects
-    for the future.

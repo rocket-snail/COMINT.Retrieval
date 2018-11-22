@@ -1,6 +1,0 @@
-magnetic amplifier design commencing with the basic
-    information of power supply frequency desired gain and time
-    constant charts are developed to determine the core design with
-    reference to load voltage and current with a specified core
-    additional charts are presented to determine the design of the
-    winding layout

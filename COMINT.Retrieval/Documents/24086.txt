@@ -1,6 +1,0 @@
-electromagnetic scattering by thin conducting plates at
-    glancing incidence a large signal is scattered back from a thin
-    plate illuminated edge on by a field whose magnetic vector is
-    normal to the plate experimental measurements show that the
-    currents in the plate are predominant near the edges their
-    relation to theoretical results is discussed

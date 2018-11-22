@@ -1,7 +1,0 @@
-the optimum design of a tunable multiplier for frequency
-    modulated oscillations the design of tunable frequency
-    multipliers containing simple one or two stage filters in the
-    individual multiplier stages is investigated adjacent channel
-    attenuation and distortion can be achieved if the
-    multiplication per stage does not exceed the fundamental
-    frequency should not be less than about

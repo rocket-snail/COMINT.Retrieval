@@ -1,6 +1,0 @@
-linear transmission of pulses at centimetre wavelengths
-    analysis for the transmission of pulses of arbitrary shape by
-    waveguide and cavity resonator systems is based on use of
-    laplace transforms using theory presented previously a
-    calculation is made of the transfer function for a system of
-    weakly coupled cavity resonators

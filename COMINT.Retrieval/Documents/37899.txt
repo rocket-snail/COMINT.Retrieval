@@ -1,3 +1,0 @@
-vx band receiving amplifier a regenerative klystron
-    amplifier is described suitable for use in a microwave
-    television receiver having a gain at with a bandwidth of

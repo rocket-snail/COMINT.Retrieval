@@ -1,4 +1,0 @@
-the photoeffect in a uniform electric field it is shown
-    theoretically that even very high external fields have little
-    effect on the angular distribution of the photoelectrons or on
-    the total effective atomic cross section

@@ -1,8 +1,0 @@
-junction transistor trigger circuits the junction
-    transistor with earthed emitter is sufficiently similar to the
-    thermionic valve with earthed cathode to enable it to be used
-    in conventional trigger circuits details are given of bistable
-    monostable and emitter coupled trigger circuits multi vibrators
-    a scale of two circuit and a blocking oscillator pulses of
-    duration down to about can be produced power consumption is of
-    the order of per stage

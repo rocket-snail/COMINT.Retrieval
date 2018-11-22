@@ -1,4 +1,0 @@
-optimum characteristics of linear pulse systems
-    conditions for minimum distortion of pulses in linear systems
-    the analysis is applied to particular filter circuits the
-    results are embodied in three theorems

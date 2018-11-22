@@ -1,3 +1,0 @@
-cathode coupled cascode stabilizer circuit in a negative
-    hv power supply the peak to peak ripple was less than and a
-    change in line voltage gave less than change in output

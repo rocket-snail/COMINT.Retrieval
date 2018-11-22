@@ -1,3 +1,0 @@
-a neuristor prototype a description of an electronic
-    lumped element model of the neuristor proposed by crane
-    sept

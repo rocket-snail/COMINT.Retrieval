@@ -1,8 +1,0 @@
-some boundary value problems involving plasma media a
-    plasma consisting of a neu ral mixture of electrons ions and
-    molecules in the presence of a constant magnetic field
-    possesses a dielectric constant which is in the form of a
-    tensor exact solutions of boundary value problems involving
-    such media are obtained for two dimensional configurations
-    explicit results are given for the reflection coefficients of
-    stratified plasma in planar and cylindrical geometry

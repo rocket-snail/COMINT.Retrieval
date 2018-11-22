@@ -1,9 +1,0 @@
-a stabilised extra high tension rectifier for description
-    of equipment using a triode control valve which functions as a
-    variable resistor in the dc circuit the reference voltage is
-    provided by a dry battery the output voltage fluctuations are
-    only of those of the mains supply the output voltage
-    fluctuations are only of those of the mains supply the output
-    voltage is variable between and in four overlapping stages each
-    subdivided into steps which can be varied continuously
-    protective measures are described

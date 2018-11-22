@@ -1,4 +1,0 @@
-current and voltage regulators a review of the principles
-    of various types of regulator utilizing a reference standard
-    systems for low and high power and for direct and alternating
-    current or voltage are considered

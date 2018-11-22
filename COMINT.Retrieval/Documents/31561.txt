@@ -1,3 +1,0 @@
-transistorized rc phase shift power oscillator data on
-    the performance of a phase shift circuit operating at
-    frequencies around are given

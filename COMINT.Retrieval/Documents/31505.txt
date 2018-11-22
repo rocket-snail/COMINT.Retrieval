@@ -1,6 +1,0 @@
-horizontal motions in radar echoes from aurora
-    observations at saskatoon at show a sytematic motion of echoes
-    towards the west before midnight and towards the east after
-    midnight the mean velocity in either direction showing a
-    statistical relation to variations in the earths magnetic
-    field

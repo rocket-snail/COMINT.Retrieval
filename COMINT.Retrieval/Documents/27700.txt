@@ -1,7 +1,0 @@
-pre breakdown phenomena in uniform fields observations
-    were made of pre breakdown phenomena in uniform field gaps
-    under ambient atmospheric conditions and measured irradiation
-    intensities in which current and light pulses were recorded
-    from measurements of the current pulse duration a value for the
-    mobility of positive ions was obtained at field strengths
-    approaching the breakdown value

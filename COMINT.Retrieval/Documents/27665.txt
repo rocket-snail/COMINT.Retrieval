@@ -1,3 +1,0 @@
-the origin of a backward wave in a nonmagnetized plasma
-    cylinder bounded by air the conditions for the existence of
-    such a wave are derived

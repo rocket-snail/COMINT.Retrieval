@@ -1,6 +1,0 @@
-an amplifier for ac bridges the requirements of an
-    amplifier for ac bridges working to an accuracy of one part in
-    ten thousand or better from power frequencies to audio
-    frequencies are discussed an amplifier to meet in part these
-    requirements is described and figures are given for its
-    performance

@@ -1,7 +1,0 @@
-a reversible binary counter a multivibrator type counter
-    performs addition or subtraction depending on application of a
-    control signal to a two gate system interposed between
-    consecutive counter stages the control signal may be obtained
-    from a multivibrator circuit similar to the counter stages
-    applications in digital analogue conversion and in an
-    interpolator are discussed

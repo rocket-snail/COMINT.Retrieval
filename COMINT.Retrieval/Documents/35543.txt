@@ -1,5 +1,0 @@
-micromodulator a device for measuring the intensities of
-    microwave absorption lines by means of a small electromagnet
-    and power supply a free electron resonance is utilized to
-    provide a standard comparison line at any frequency up
-    to

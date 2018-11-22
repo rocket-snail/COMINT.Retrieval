@@ -1,4 +1,0 @@
-the period and amplitude of the van der pol limit cycle
-    the amplitude and period of the limit cycle of the van der pol
-    equation are found for all values of by joining graphically the
-    results of solutions about and

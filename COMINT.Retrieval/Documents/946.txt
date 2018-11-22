@@ -1,5 +1,0 @@
-source representations for debyes electro magnetic
-    potentials theory of radiation presented is discussed debye
-    potentials can be used for all points even within the source
-    distribution this leads to an alternative methods for the
-    direct determination of multipole expansions

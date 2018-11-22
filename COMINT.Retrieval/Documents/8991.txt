@@ -1,4 +1,0 @@
-simple circuit stabilizes ferrite fm modulator
-    stabilization over a range of frequencies is achieved by the
-    use of an auxiliary fixed frequency oscillator and associated
-    feedback control circuit

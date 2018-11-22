@@ -1,5 +1,0 @@
-mixing preamplifier a circuit for mixing signals from
-    several photocells has diodes connected in the grid circuit of
-    the separate input valves so as to avoid signal attenuation
-    which would otherwise result from the parallel arrangement of
-    these valves

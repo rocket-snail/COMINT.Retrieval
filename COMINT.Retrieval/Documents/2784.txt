@@ -1,3 +1,0 @@
-design curves for simple filters charts are given for the
-    design of simple lc ladder filters with either butterworth or
-    tchebycheff type of response

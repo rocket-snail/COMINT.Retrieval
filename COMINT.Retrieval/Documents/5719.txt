@@ -1,4 +1,0 @@
-negative current voltage characteristics in hydrogen at
-    high pressure using plane parallel electrodes measurements of
-    the characteristics are described and studied
-    theoretically

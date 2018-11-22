@@ -1,9 +1,0 @@
-an even harmonic magnetic amplifier the circuit is an
-    adaptation of the inverter described by frost smith a typical
-    figure for the power gain and for the output the zero drift is
-    less than the shift produced by an input power of the input
-    impedance ranges up to about making it suitable for use iwth
-    many types of transducer but the poor response time restricts
-    application to cases where the input varies slowly multistage
-    amplifiers of this type are useful for control and measurement
-    purposes

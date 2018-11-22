@@ -1,7 +1,0 @@
-limitations and possibilities for improvement of
-    photovoltaic solar energy converters part one considerations
-    for earths surface operation the possibilities of improving the
-    performance of the single si solar cell are considered as these
-    are limited the use of other materials and the development of a
-    multilayer and a multiple transition cell are examined and
-    found to give larger theoretical efficiencies

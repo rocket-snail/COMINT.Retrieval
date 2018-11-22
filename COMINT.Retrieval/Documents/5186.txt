@@ -1,6 +1,0 @@
-charged particle orbits in varying magnetic fields a
-    magnetic field with time variation but with azimuthal symmetry
-    about an axis is considered the movement of the charged
-    particle is found by considering it to move nearly in a circle
-    about a guiding centre whose motion can also be
-    calculated

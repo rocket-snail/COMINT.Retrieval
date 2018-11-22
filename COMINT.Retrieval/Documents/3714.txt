@@ -1,4 +1,0 @@
-a transistor reversible binary counter the counter is
-    built of elementary transistor packaged units the mechanism
-    used to achieve reversibility and the circuit for each type of
-    building block are described

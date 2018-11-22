@@ -1,8 +1,0 @@
-computer simulation of physical-chemical properties of
-    organic molecules. 1. molecular system identification. a
-    computer program which generates molecular geometries and
-    performs molecular calculations for organic molecules is
-    presented. a linear coding methodology used for inputting the
-    molecules is also described. this is the foundation of a
-    program aimed at the simulation of the physical-chemical
-    properties of organic molecules.

@@ -1,9 +1,0 @@
-dynamics of transistor negative resistance circuits a
-    general method is presented for calculating approximately the
-    characteristics of nonlinear circuits the region of operation
-    is divided into subregions within each of which the circuit may
-    be considered as nearly linear the method is applied to
-    analysis of a high speed switching circuit using a point
-    contact transistor discussion of negative resistance relaxation
-    oscillations calculation of waveforms and rise times of a
-    regenerative transistor amplifier below

@@ -1,8 +1,0 @@
-electromagnetic waves in a plasma located in a magnetic
-    field mathematical analysis for the case of a cylindrical
-    plasma rod located in an uniform external field and isolated
-    from the metallic walls of a waveguide a dispersion equation is
-    derived and the e m field configuration is determined it is
-    shown that e m waves can be propagated in the system at
-    frequencies significantly lower than the langmuir and larmor
-    frequencies

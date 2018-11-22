@@ -1,5 +1,0 @@
-some aspects of the design of a d c amplifier for use
-    with a slow analogue computer the errors introduced as a result
-    of an h t resistance common to several amplifiers is calculated
-    and a criterion for the accuracy of a linear computer
-    stated

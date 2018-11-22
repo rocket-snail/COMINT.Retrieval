@@ -1,5 +1,0 @@
-a soluble problem in energy bands the problem of an
-    electron moving in a periodic simple cubic potential of the
-    form cos x cos y cos z in investigated with particular
-    attention to the nature of the wave functions wannier functions
-    degeneracy of overlapping bands etc

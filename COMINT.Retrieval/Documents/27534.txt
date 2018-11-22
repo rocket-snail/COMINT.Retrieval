@@ -1,5 +1,0 @@
-application of the methods of optics to calculations of
-    diffraction phenomena in the centimetre wave range analysis and
-    examples illustrating the use of kirchhoffs theory for
-    approximate calculation of diffraction effects both for
-    centimetre em waves and for sound waves

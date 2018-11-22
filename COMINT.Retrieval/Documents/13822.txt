@@ -1,2 +1,0 @@
-derivation of the laws of geometrical optics from
-    maxwells field theory

@@ -1,8 +1,0 @@
-oscillator feedback networks of minimum attenuation
-    single valve oscillators with feedback networks comprising
-    three resistors and three capacitors are discussed optimum
-    values for the components are determined by analysis and are
-    plotted as functions of valve output resistance for a given
-    value of valve input resistance both shunt r and shunt c
-    networks are considered the former being recommended for very
-    low frequencies and the latter for relatively high ones

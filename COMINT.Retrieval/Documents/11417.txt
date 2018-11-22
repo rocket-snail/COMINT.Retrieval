@@ -1,5 +1,0 @@
-approximate relations between transien and frequency
-    response an existing graphical method for deriving the
-    transient response of a linear netwo k from the sinusoidal
-    frequency response and vic eversa is extended to cover certain
-    difficult cases typical examples are illustrated

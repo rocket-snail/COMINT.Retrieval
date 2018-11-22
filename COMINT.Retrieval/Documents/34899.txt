@@ -1,6 +1,0 @@
-an x band sweep oscillator a generator which sweeps
-    through the frequency band in sec is described a mechanically
-    tuned klystron is used the output level is maintained constant
-    to within db by means of an automatic control circuit including
-    a variable attenuator with ferrite rotator unit above which
-    also provides am at

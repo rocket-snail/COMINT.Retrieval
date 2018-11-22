@@ -1,2 +1,0 @@
-langevin equation and the ac conductivity of non
-    maxwellian plasmas

@@ -1,3 +1,0 @@
-q-bessel functions in(t)(algorithm 214) november, 1963
-    simoes pereira, j. m. s. ca631104 jb march 13, 1978 3:49
-    pm

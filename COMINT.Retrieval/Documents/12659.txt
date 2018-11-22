@@ -1,5 +1,0 @@
-possibility of defining a scalar magnetic potential
-    inside currents and application to the design of magnetic
-    electron lenses the system considered is a thick solenoid
-    various equivalent magnetic shell systems and the corresponding
-    magnetic potential distributions are discussed

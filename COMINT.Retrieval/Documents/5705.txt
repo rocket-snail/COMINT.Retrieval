@@ -1,4 +1,0 @@
-a method for interpreting the doppler curves of
-    artificial satellites a graphical analytical method for
-    determining the point of inflexion and the maximum slope is
-    explained in detail see

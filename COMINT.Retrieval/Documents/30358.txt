@@ -1,7 +1,0 @@
-theory of the cosmic ray equator the westward shift of
-    the cosmic ray equator from the geomagnetic equator is
-    explained by assuming that there exist ionized atmospheric
-    layers which rotate more slowly than the earth the resultant
-    magnetic field beyond the layers is then a dipole field whose
-    magnetic north pole is west of the geomagnetic north
-    pole

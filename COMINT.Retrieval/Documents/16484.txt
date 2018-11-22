@@ -1,7 +1,0 @@
-ionospheric variations associated with geo magnetic
-    disturbances part variations at moderate latitudes and the
-    equatorial zone and the current system for the sp field
-    variations of the e and f regions are studied the current
-    system for the s field is calculated the ionospheric variations
-    may be due to the effect of a vertical drift by the earths
-    magnetic field and the electric field of the s current

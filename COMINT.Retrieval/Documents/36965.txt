@@ -1,4 +1,0 @@
-improved low repetition rate millimicrosecond pulse
-    generator a discharge line device using a vibrating reed type
-    of mercury switch in a suitable coaxial mounting provides pulse
-    repetition rates of up to cs

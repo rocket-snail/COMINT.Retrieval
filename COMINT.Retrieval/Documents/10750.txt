@@ -1,4 +1,0 @@
-absorption techniques as a tool for cm research
-    absorption lines in the spectra of radio stars are used to
-    study the distribution of interstellar gas minimum distances to
-    radio stars and problems related to cosmology

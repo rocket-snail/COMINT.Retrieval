@@ -1,4 +1,0 @@
-the stable and unstable image parameters in quadripole
-    theory the definition of stable and unstable image impedances
-    by edldtkeller is extended to related parameters and their
-    position in the complex plane is determined

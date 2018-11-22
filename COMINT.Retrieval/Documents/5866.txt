@@ -1,4 +1,0 @@
-decade decimal counter speeds printed read out high speed
-    circuit uses magnetron beam switching tubes to sample store and
-    provide multi output functions without stopping the original
-    count or losing input information during read out

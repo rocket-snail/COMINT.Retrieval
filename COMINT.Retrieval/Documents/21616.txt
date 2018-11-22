@@ -1,4 +1,0 @@
-crystal oscillator has variable frequency a maximum
-    frequency deviation of is obtained from a two stage crystal
-    feedback amplifier operating at with a long term frequency
-    stability within a few parts per million

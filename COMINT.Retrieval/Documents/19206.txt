@@ -1,2 +1,0 @@
-treesort 3 (algorithm 245 [m1]) july, 1965 abrams, p. s.
-    ca650707 jb march 6, 1978 8:59 pm

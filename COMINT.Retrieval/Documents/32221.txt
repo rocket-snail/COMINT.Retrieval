@@ -1,5 +1,0 @@
-the electric potential in an electrically shielded space
-    experiments confirm the previously observed variation of
-    potential inside a metallic enclosure the phenomenon is
-    attributed to the production of space charge by ionization due
-    to spontaneous radiation from the enclosure walls

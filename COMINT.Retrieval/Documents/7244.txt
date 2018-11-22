@@ -1,6 +1,0 @@
-propagation of an electromagnetic field in a medium with
-    spatial dispersion investigation of the propagation of a
-    transverse wave along a magnetic field in a plasma taking
-    account of the thermal motion of electrons strong absorption
-    occurs in the region at which cherenkov radiation is
-    possible

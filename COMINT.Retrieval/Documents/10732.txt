@@ -1,2 +1,0 @@
-a high speed ferrite storage system a read write cycle
-    time can be achieved in the small store described

@@ -1,4 +1,0 @@
-perturbation of electron flow a perturbation analysis of
-    single stream quasi static non relativistic electron flow is
-    developed based on the nonlinear equation for the velocity
-    field

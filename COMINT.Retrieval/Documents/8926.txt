@@ -1,5 +1,0 @@
-use of relaxation oscillators in the generation of
-    frequency modulated oscillations an analysis of the operation
-    of a relaxation oscillator as a frequency modulator with a
-    series of diode circuits for transformation of the triangular
-    waveform into sinusoidal form

@@ -1,8 +1,0 @@
-online ordering. a comparison of document suppliers.
-    describes a study where different types of documents have been
-    simulataneously ordered on-line from 9 selected document
-    suppliers. considerable differences as to cost, speed of
-    delivery and reliability of delivery have been observed. this
-    is related to the type of document, the country of publication
-    and the subject content of the material. on-line ordering as a
-    routine in library acquisition work is discussed.

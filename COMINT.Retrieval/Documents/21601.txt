@@ -1,5 +1,0 @@
-radio noise from planets a comparison is made of hf radio
-    noise from jupiter and venus and from terrestrial lightning the
-    hypothesis that radio noise from the two planets is due to
-    electrical discharges analogous to terrestrial lightning
-    requires modification

@@ -1,4 +1,0 @@
-thermoelectric temperature stabilization of electrical
-    circuit elements the application of the peltier effect to the
-    cooling of semiconductor rectifiers and transistors is
-    discussed

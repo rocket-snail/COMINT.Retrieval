@@ -1,8 +1,0 @@
-the barkhausen effect the only feasible mechanism to
-    account for the phenomena associated with the barkhausen effect
-    is one in which the movement of a limited section of a domain
-    boundary is delayed by a nonmagnetic inclusion whose cross
-    sectional dimensions lie within the range hysteresis losses in
-    ferromagnetic materials may be reduced by the selective
-    reduction of the number of inclusions whose size is within this
-    critical range

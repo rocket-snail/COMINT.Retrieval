@@ -1,5 +1,0 @@
-determination of the frequency of a transistor
-    multivibrator between and to experimental and theoretical
-    results supplement those of mc duffie of for the pulse duration
-    and repetition rate of astable transistor multivibrator
-    circuit

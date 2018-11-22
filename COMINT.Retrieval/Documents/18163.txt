@@ -1,3 +1,0 @@
-the wien bridge as a phase shifter several circuits are
-    presented illustrating the use of the wien bridge to provide
-    phase shift with small amplitude change

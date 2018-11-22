@@ -1,6 +1,0 @@
-a mathematical model of request generation process to
-    data base. on the basis of a formalised description of the
-    process of user access to a data base at a terminal, builds a
-    mathematical model of the distribution of information requests
-    for various time intervals and determines the parameters of
-    user access.

@@ -1,5 +1,0 @@
-printed unit assemblies for tv etching and silk screening
-    techniques and their suitability for the production of various
-    circuit elements are discussed experimental results are quoted
-    which show that the performance of etched coils compares
-    favourably with that of wire wound coils

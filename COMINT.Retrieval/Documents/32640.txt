@@ -1,8 +1,0 @@
-the computation of coils for producing uniform magnetic
-    fields and constant field gradients calculations for helmholtz
-    coil systems are presented for the field at the mid point on
-    the axis to be uniform the second derivative of the field in
-    the axial direction must be zero at that point for the field
-    gradient to be constant the third derivative must vanish
-    families of curves suitable for design purposes are
-    derived

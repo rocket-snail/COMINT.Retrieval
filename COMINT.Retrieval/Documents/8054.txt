@@ -1,5 +1,0 @@
-polis at westminster. describes the working of polis
-    (parliamentary online information system) at the uk house of
-    commons library. polis replaces 9 manual indexes covering such
-    topics as parliamentary questions, home and international
-    affairs.

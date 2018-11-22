@@ -1,3 +1,0 @@
-diffraction of an e polarized plane wave by an
-    imperfectly conducting wedge a new and exact solution is
-    obtained for arbitrary wedge angle

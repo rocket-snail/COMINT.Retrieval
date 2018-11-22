@@ -1,8 +1,0 @@
-theory of forced oscillations in electromagnetic cavities
-    and the equivalent circuit of a cavity the em field inside an
-    excited cavity coupled to a two way transmission line is
-    calculated on the basis of a series expansion of arbitrary
-    vector fields in cavity resonators in terms of orthogonal
-    eigenfunctions the equivalent circuit derived consists of an
-    infinite number of lumped elements approximation formulae for
-    practical application are given

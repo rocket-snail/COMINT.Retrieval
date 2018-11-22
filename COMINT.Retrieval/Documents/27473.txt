@@ -1,4 +1,0 @@
-a sliding bias amplifier using an the two stage circuit
-    described and analysed in detail gives nearly twice the output
-    power obtainable in conventional class a operation using a heat
-    sink of the same size

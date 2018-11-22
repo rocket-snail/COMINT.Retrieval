@@ -1,5 +1,0 @@
-ionospheric wind systems and electron concentrations of
-    the layer theory based on viscous stresses in the ionosphere
-    leads to a simple meridional circulation which explains
-    observed longitudinal differences in the electron
-    concentration

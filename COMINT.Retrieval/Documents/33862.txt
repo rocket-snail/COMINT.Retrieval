@@ -1,7 +1,0 @@
-transfer and transport of energy by resonance processes
-    in luminescent solids experiment shows that the ratio between
-    the efficiencies of activator and sensitizer fluorescence
-    increases with increasing sensitizer concentration this is at
-    variance with theory an explanation is given and a theory is
-    developed that accounts for the temperature dependence of the
-    energy transfer

@@ -1,4 +1,0 @@
-observations on the general solar plasma instability
-    suggestions are made for satellite experiments during
-    occasional very intense solar streams to determine the nature
-    and geometry of the plasma barrier

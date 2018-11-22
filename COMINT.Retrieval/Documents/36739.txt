@@ -1,4 +1,0 @@
-an analogue computer for the prediction of acoustic
-    propagation in the atmosphere ray patterns are presented on a
-    cr tube when air temperature and wind velocity data are fed
-    into the computer

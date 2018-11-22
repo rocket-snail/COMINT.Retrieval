@@ -1,5 +1,0 @@
-amplitude comparator for computing purposes a simple
-    circuit is described which gives uniform output pulses for a
-    large range of input signal derivatives low transformer output
-    impedance is provided measures are indicated for ensuring
-    stability when the signals are slowly varying

@@ -1,4 +1,0 @@
-functional perspective of the sentence and context
-    determination. compares a number of approaches to the
-    functional perspective of a sentence and explains the approach
-    which is chosen.

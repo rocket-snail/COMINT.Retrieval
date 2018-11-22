@@ -1,5 +1,0 @@
-the theory of plasmas in the presence of magnetic fields
-    on the basis of boltzmanns equation the complete theory of a
-    stationary cylindrical plasma is obtained allowing for the
-    presence of the intrinsic magnetic field and of an additional
-    longitudinal magnetic field

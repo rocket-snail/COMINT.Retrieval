@@ -1,3 +1,0 @@
-interchange of infinite attenuation elements in ladder
-    filter structures formulae are given for interchanging series
-    antiresonant and shunt resonant circuits

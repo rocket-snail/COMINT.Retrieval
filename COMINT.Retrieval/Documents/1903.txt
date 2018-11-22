@@ -1,7 +1,0 @@
-improvement of the frequency stability of a high
-    frequency oscillator frequency modulated by means of a
-    condenser microphone a frequency stabilizing system is
-    described in which the condenser microphone serves
-    simultaneously for frequency modulation and as an es control
-    element the system finds application in miniature vhf
-    transmitters and eliminates the need for crystal control

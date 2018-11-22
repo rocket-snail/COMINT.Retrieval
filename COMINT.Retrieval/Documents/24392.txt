@@ -1,5 +1,0 @@
-new power sources for space age electronics developments
-    are described in chemical nuclear and solar energy sources
-    which are expected to fulfil requirements for portable
-    electrical power in space output characteristics of different
-    types are summarized

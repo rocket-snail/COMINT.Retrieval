@@ -1,5 +1,0 @@
-the effect of inverse feedback on input impedance
-    formulae are given for the input impedance gain and gain
-    without feedback of twelve single stage amplifiers and these
-    together with the circuits and their equivalents are
-    tabulated

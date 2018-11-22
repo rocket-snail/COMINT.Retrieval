@@ -1,4 +1,0 @@
-internal noise of transistor amplifiers the internal
-    noise levels of two commercial transistor amplifiers were
-    measured for various input impedances and the results are shown
-    graphically

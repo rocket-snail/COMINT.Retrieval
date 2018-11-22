@@ -1,5 +1,0 @@
-design of parallel t resistance capacitance networks
-    formulae are derived for networks having a transfer
-    characteristic symmetrical with respect to resonance frequency
-    and a minimum loss for a prescribed frequency
-    discrimination

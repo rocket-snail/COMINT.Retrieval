@@ -1,5 +1,0 @@
-an approximate solution of a problem concerning the
-    motion of a conducting plasma a new method for the asymptotic
-    integration of linear differential equations with partial
-    derivatives of the hyperbolic type has been applied to the
-    integration of equations of plasma oscillations

@@ -1,6 +1,0 @@
-on magnetic permeability for the case of magnetization
-    under the action of a circular alternating field in the
-    presence of a dc longitudinal field a method is described for
-    measuring the permeability of a torsion free iron wire results
-    are given for various values of the circular alternating field
-    the longitudinal field and the wire tension

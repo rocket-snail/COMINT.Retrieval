@@ -1,9 +1,0 @@
-the concept of instantaneous frequency discussion shows
-    that this concept can properly be applied to the cases of
-    demodulation by a linear discriminator and fm of a self
-    oscillator by variation o a parameter of the circuit but its
-    use in other cases such as calculation of the harmonic
-    distortion of a simple tuned circuit leads to erroneous results
-    this is demonstrated by rigorous calculation of the distortion
-    introduced by an lgc circuit in the anode circuit of a pentode
-    amplifying stage

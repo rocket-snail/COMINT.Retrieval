@@ -1,6 +1,0 @@
-theory of solar eclipse effects on the earths magnetic
-    field the deformation of the current during a solar eclipse is
-    represented by a current function which is superposed on the
-    system and moves with the eclipse the magnetic field components
-    of are computed and the influence of the part induced in the
-    earths crust is discussed

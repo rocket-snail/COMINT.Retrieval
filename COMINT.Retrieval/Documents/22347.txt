@@ -1,2 +1,0 @@
-a note on the application of determinants to the solution
-    of linear network problems

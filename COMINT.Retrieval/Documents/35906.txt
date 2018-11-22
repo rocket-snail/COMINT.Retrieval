@@ -1,3 +1,0 @@
-permutation generator (algorithm 87) october, 1962
-    schrack, g. f. shimrat, m. ca621013 jb march 17, 1978 7:14
-    pm

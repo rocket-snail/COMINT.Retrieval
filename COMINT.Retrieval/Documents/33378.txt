@@ -1,4 +1,0 @@
-satellite flashing light system to provide increased
-    accuracy of the determination of the position of a satellite a
-    coded flashing light system could be carried design details are
-    given

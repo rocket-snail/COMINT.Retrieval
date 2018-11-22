@@ -1,4 +1,0 @@
-small oscillations in an electron beam the stability
-    conditions for the propagation of small amplitude em
-    oscillations in noncompensated electron streams are examined
-    and solutions for some particular cases are obtained

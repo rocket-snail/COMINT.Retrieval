@@ -1,5 +1,0 @@
-cdecoding circuits with semiconductor elements various
-    types of circuit for binary decoding systems are given and
-    requirements regarding the minimum number of semiconductor
-    diodes and transistors to be used are evaluated and
-    compared

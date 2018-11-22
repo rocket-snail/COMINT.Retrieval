@@ -1,4 +1,0 @@
-a multiple isolated input metoork with common output
-    design equations are developed for the general case of n
-    isolated inputs with a common output measurements made on two
-    input and three input units are given

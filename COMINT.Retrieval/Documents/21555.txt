@@ -1,8 +1,0 @@
-penetration of an electromagnetic wave into a
-    ferromagnetic material an investigation of the magnetization of
-    metallic ribbon toroidal cores with rectangular hysteresis loop
-    used as computer storage elements approximate solutions are
-    obtained for the field inside the core under different
-    conditions of loading theoretical and experimental output
-    waveforms show close agreement for high magnetizing force and
-    thickness of core material mil

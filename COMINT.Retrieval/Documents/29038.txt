@@ -1,6 +1,0 @@
-levels of output related to cost of operation of
-    scientific and technical libraries. part 1' techniques and
-    cumulative statistics. the lorcost project was undertaken to
-    develop a quantitative picture of costs and services at
-    scientific and technical libraries in the usa by the
-    construction of a mathematical model.

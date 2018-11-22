@@ -1,7 +1,0 @@
-noise of metal contacts measurements were made of the
-    small voltage fluctuation produced by the passage of direct
-    current through ball contacts current values from to about were
-    used and the influence of contact resistance pressure and
-    temperature was investigated for steel copper and gold contacts
-    a possible mechanism accounting for the results is
-    suggested

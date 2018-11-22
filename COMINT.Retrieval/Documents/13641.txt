@@ -1,7 +1,0 @@
-changes in the absorption of cosmic noise observed during
-    two ionospheric disturbances curves are given showing the
-    observed time variation of total absorption at at the period of
-    ionospheric disturbances on following the suggestions of
-    increased absorption is shown to be correlated with increased
-    and is presumably due to region attenuation deductions are made
-    as to the path and speed of the disturbances

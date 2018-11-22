@@ -1,7 +1,0 @@
-the effect of driving electrode shape on the electrical
-    properties of piezoelectric crystals formulae are derived for
-    the electrical admittance of a piezoelectric crystal in terms
-    of its resonant frequencies and static and dynamic capacitances
-    the results are applied to the investigation of the effect of
-    electrode shape on the resonance spectrum and the capacitance
-    ratio of the crystal

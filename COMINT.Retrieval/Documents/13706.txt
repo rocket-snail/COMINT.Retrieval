@@ -1,7 +1,0 @@
-the interpretation of night time low frequency ionograms
-    two types of retardation of the extraordinary ray on passing
-    through a region whose frequency is below the gyro frequency
-    are discussed one is observed near the critical frequency of
-    the ordinary ray and the other near the gyro frequency
-    information about the total number and distribution of
-    electrons below the f layer can be deduced from them

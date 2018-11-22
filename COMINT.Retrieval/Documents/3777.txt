@@ -1,3 +1,0 @@
-an electronic transmitter receiver antenna switch
-    description of a twin triode circuit for instantaneous break in
-    operation

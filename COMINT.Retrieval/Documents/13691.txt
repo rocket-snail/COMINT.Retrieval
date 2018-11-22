@@ -1,6 +1,0 @@
-an operational ruby maser for observations at centimetres
-    with a foot radio telescope details are given of a preamplifier
-    weight for mounting at the focus of a reflector an automatic
-    gain stabilization system is incorporated total input noise
-    temperature of the radiometer is with gain stabilization and
-    without

@@ -1,7 +1,0 @@
-ici's experiences with crossbow. the crossbow system has
-    been in regular use for over 10 years and has proved an
-    efficient and cost-effective way of handling chemical structure
-    information in very large files. at ici it is used with an
-    integrated chemical and biological data base as well as on
-    external wln-based files. some salient features of crossbow are
-    briefly assessed.

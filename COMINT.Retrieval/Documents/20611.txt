@@ -1,7 +1,0 @@
-active ladder network analysis a computationally
-    economical method is developed in which the voltage appearing
-    across the final rung of the ladder is expressed as a function
-    of the individual randomly distributed sources of emf by a
-    reduction process involving successive applications of
-    thevenins theorem to all the meshes the method is illustrated
-    by examples

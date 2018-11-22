@@ -1,9 +1,0 @@
-the secondary emission from copper and silver films
-    obtained with primary electron energies below values obtained
-    for the secondary emission ratio are lower than those hitherto
-    recorded both ag and cu having a ratio in the primary energy
-    range ev the difference is attributed to the improved vacuum
-    conditions used measurements of the energy distribution of the
-    secondary electrons for primary energies show that the
-    secondary electrons are in fact elastically reflected primary
-    electrons

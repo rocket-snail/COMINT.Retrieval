@@ -1,5 +1,0 @@
-polarization of electromagnetic waves basic relations of
-    polarized em waves are expressed in vector notation use is made
-    of the vector of refraction m defined as the product of the
-    refractive index and the real unit vector of the wave
-    normal

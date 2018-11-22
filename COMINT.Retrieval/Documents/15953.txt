@@ -1,8 +1,0 @@
-ultra low frequency three phase oscillator an oscillator
-    for the frequency range uses three identical networks each
-    comprising a polystyrene capacitor and a stable resistor in a
-    stair arrangement radiating from the power supply the circuit
-    is in effect a three stage amplifier oscillations occurring at
-    the frequency for which the phase shift is in each rc network
-    uses is made of the miller effect to keep down the size and
-    cost of the frequency determining elements

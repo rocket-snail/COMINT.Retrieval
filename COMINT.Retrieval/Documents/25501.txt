@@ -1,7 +1,0 @@
-disc seal triode amplifiers the design of a resonant type
-    coupling network for discseal triodes operating in the earthed
-    grid connection at frequencies in the range is considered a
-    coaxial form of line is adopted tuning for a small range can be
-    by a screw or for a larger range by a built in capacitance
-    complete amplifiers can give output and gain using three
-    stages

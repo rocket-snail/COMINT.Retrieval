@@ -1,9 +1,0 @@
-investigation of a computerised network to facilitate
-    resource sharing within the va library network (valnet), volume
-    2. 2nd volume of the investigation of a computerised virginia
-    library network reports the information gathered during
-    discussions with staff of va central office library division,
-    regional learning resource center librarians in the va, va
-    field librarians, librarians whose libraries have automated
-    systems, and vendors. a review of the library automated and
-    network literature is included.

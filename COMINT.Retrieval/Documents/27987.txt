@@ -1,7 +1,0 @@
-a method of estimating ionospheric absorption heights
-    from recovery times rapid recovery from absorption occurs when
-    the ionizing source is suddenly cut off from a plot of
-    ionospheric relaxation time against height an estimate can be
-    made of the height of the absorbing layer which is in good
-    agreement with measurements made by the three frequency
-    riometer method

@@ -1,3 +1,0 @@
-microwave conductivity of slightly ionized air values
-    computed from experimental data are compared with others
-    derived from simple formulae

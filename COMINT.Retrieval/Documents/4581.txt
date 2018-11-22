@@ -1,7 +1,0 @@
-frequency drift of short time transients in solar radio
-    noise an analysis of records made at oslo on a two channel
-    receiver is being made to give a detailed study of solar noise
-    storm bursts channels are centred on and bandwidth is time
-    constant and noise factor about it is suggested that the
-    transients in most cases have a frequency drift in either
-    direction ranging from about to higher values

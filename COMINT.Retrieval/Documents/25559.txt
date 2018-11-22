@@ -1,7 +1,0 @@
-gain bandwidth and noise in maser amplifiers a
-    theoretical study reveals that the optimum gain bandwidth
-    product of the two port maser is only half that of the
-    circulator maser for the same basic cavity the optimum noise
-    figure is the same if some bandwidth is sacrificed in the two
-    port maser practical considerations may however make the latter
-    competitive

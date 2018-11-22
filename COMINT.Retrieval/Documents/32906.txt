@@ -1,2 +1,0 @@
-the effect of capacitance on power supply filter bounce a
-    discussion on the design of power supply filters

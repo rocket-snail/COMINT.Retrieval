@@ -1,8 +1,0 @@
-the representation of the main geomagnetic field and of
-    its secular variation by means of two eccentric dipoles a model
-    comprising two dipoles is suggested to account for the second
-    order terms in the expansion representing the geomagnetic
-    potential the systematic displacement of the dipoles with time
-    explains certain features of the geomagnetic secular variation
-    the model provides a generally improved approximation to the
-    actual surface geomagnetic field

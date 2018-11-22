@@ -1,4 +1,0 @@
-background noise in oscillators with rf pushing an
-    extension of previous work to include non linearities in which
-    the frequency of oscillation is a function of oscillation
-    amplitude

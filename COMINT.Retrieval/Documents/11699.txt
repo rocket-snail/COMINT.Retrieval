@@ -1,8 +1,0 @@
-vertical characteristics of travelling ionospheric
-    disturbances a comparison between the occurrence of
-    disturbances on fixed frequency records and profiles for the
-    same period reveals that there appears to be an upper limiting
-    height for the occurrence of disturbances on fixed frequency
-    and the direction of travel of disturbances is related to
-    season only and seems unrelated to height in the
-    ionosphere

@@ -1,9 +1,0 @@
-the preparation of a computer-generated concordance.
-    describes the preparation of 2a concordance and word-lists to
-    the poems of dylan thomas 1using the cocoa computer based
-    concordancing program. discusses' the selection of the base
-    text; the production of the initial working concordance; the
-    compilation, from head words in the concordance, of complete
-    word lists sorted both alphabetically and by frequency of
-    occurrence; and the compilation, (mainly by hand), of a number
-    of word lists of specific interest.

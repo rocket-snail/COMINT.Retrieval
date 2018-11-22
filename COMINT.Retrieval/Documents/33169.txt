@@ -1,5 +1,0 @@
-active band pass filter has sharp cut off an adjustable
-    rc af filter having butterworth attenuation characteristics and
-    octave cut off slope is described outputs of rms can be
-    obtained without appreciable harmonic distortion the dynamic
-    range exceeds db

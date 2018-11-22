@@ -1,8 +1,0 @@
-microprocessors in personal informational systems.
-    powerful microcomputer systems have become available at a cost
-    which many individuals and small libraries can afford.
-    discusses present and near-term future capabilities of
-    microcomputers for personal information systems and
-    requirements for such systems. examines currently available
-    hardware and software in terms of these requirements, also
-    current trends.

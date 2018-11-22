@@ -1,5 +1,0 @@
-the apparent high frequency resistance of a conducting
-    layer of finite width parallel to an infinite plane conductor
-    opposing field and induced currents formulae are derived for
-    the case where the conducting strip comprises a winding with a
-    number of separate turns

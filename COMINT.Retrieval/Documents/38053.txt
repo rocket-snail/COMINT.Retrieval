@@ -1,4 +1,0 @@
-on the axial echo area of the cone sphere shape initial
-    results of a study of the back scattering from a cone sphere
-    are given comparison is made between the measured and
-    calculated axial echo areas of a cone sphere

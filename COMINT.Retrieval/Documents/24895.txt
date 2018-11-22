@@ -1,4 +1,0 @@
-the shielding of a fixed charge in a high density
-    electron gas a corsed expression for the density of displaced
-    electrons is derived by a systematic application of the many
-    body perturbation theory

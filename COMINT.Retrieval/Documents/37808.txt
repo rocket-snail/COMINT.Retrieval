@@ -1,3 +1,0 @@
-general properties of the propagation constant of a
-    nonreciprocal iterated circuit formulae are given and the use
-    of such circuits in travelling wave valves is considered

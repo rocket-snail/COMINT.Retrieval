@@ -1,2 +1,0 @@
-signals from switched ferroelectric memory
-    capacitors

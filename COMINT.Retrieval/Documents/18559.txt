@@ -1,3 +1,0 @@
-a realization of the error curve system the filter
-    analysed by of is discussed in terms of kupfmullers system
-    theory

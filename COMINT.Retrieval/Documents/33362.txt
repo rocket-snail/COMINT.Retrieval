@@ -1,5 +1,0 @@
-high voltage electron extraction frov an arc discharge
-    plasma a method is described for obtaining stable electron
-    beams of current densities using stable electron beams of
-    current densities using a magnetically confined mercury
-    pool

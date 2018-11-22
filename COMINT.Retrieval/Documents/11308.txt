@@ -1,4 +1,0 @@
-the resistance of an elliptic plate formulae for the
-    resistance are derived in the form of infinite series capable
-    of numerical evaluation to any degree of approximation for two
-    different electrode arrangements

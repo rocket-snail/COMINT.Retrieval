@@ -1,8 +1,0 @@
-extensions of the chapman theory of layer formation an
-    attempt has been made to establish some of the theorems
-    necessary for the extension of the chapman theory of layer
-    formation to the case where a spectrum of ionizing radiation
-    acts on an atmosphere with any temperature profile some
-    invariant properties of the electron production function have
-    been established and they have proved useful in estimating the
-    temperature and temperature variations in the ionosphere

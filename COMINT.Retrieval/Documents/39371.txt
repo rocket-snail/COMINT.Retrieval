@@ -1,3 +1,0 @@
-wide band impedance transformers an analysis of networks
-    consisting of cascades of lumped circuit sections of graded
-    impedance level

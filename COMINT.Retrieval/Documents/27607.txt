@@ -1,4 +1,0 @@
-all pass amplifier in a five stage amplifier for the
-    frequency range having an overall gain of high frequency
-    attenuation is reduced by using the parasitic capacitances of
-    the valves ar as elements in a high pass filter

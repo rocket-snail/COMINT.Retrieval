@@ -1,6 +1,0 @@
-microwave generators for the ien caesium standard two
-    microwave generators are described which are used in the atomic
-    frequency standard of the istituto elettrotecnico nazionale in
-    turin for cs resonance excitation by molecular beam technique
-    measurements of phase drift and frequency stability are also
-    considered

@@ -1,8 +1,0 @@
-the determination of canonical reactance quadripoles with
-    prescri ed iterative matrix the iterative matrix of any
-    reactance quadripole is realized by means of canonical circuits
-    the method consists in developing a two pole function into a
-    continued fraction this function represents the impedance of
-    the two pole network which results from terminating by unity
-    resistance the output of a quadripole realizing the given
-    matrix

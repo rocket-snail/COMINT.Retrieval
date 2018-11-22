@@ -1,3 +1,0 @@
-basic circuits used in digital automation commonly used
-    circuits are described from a practical point of view with
-    circuit diagrams and details of components

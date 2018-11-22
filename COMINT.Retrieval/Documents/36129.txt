@@ -1,6 +1,0 @@
-the effect of fluctuations on the diffraction patterns of
-    a focusing system general formulae are derived for the average
-    distribution of intensity and the distribution of fluctuations
-    in a diffraction pattern when fluctuations are present in the
-    incident wave limiting cases of large and small fluctuations
-    are considered

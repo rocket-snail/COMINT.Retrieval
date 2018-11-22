@@ -1,5 +1,0 @@
-synthesis of electrical filters from operating parameters
-    by means of zolatarev fractions design formulae are given in
-    which special functions are avoided by using mathematical
-    tables of glowatzki see of and which involve less calculation
-    than is required using the grossman formulae of

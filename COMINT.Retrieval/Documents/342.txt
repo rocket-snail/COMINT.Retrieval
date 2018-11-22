@@ -1,3 +1,0 @@
-digital differential analysers principles of operation
-    are described and details are given of the design of the avro
-    dda machine addam

@@ -1,3 +1,0 @@
-designing tunnel diode rf amplifiers a strip line filter
-    and tunnel diode are combined to give low noise amplification
-    at uhf in a small module

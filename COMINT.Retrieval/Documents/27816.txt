@@ -1,5 +1,0 @@
-volume density of radio echoes from meteor trails in
-    radar type reception the echo density is evaluated taking
-    account of trail orientation the meteor evaporation process and
-    the characteristics of the transmitter receiver system used for
-    back scatter reception

@@ -1,7 +1,0 @@
-vacuum fluctuation noise and dissipation continuation of
-    previous investigation of the interaction of an electron beam
-    with the field in an enclosed region an expression is derived
-    for the observable mean squared emf and is used to calculate
-    the fluctuations induced in the beam when interacting with a
-    damped oscillator as the damping becomes very large the
-    fluctuations approach zero

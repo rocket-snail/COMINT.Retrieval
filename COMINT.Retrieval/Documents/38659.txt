@@ -1,9 +1,0 @@
-the utilization of degenerate modes in a spherical cavity
-    formulae are derived for calculating the coupling coefficients
-    between an arbitrary number of modes excited simultaneously in
-    a cavity resonator the perfect symmetry of the sphere gives
-    rise to a high degree of degeneracy ie many independent field
-    configurations with the same natural frequency experiments on a
-    spherical cavity gave results in good agreement with the theory
-    practical coupling devices discussed include irises loops and
-    small volumes of conductor placed within the cavity

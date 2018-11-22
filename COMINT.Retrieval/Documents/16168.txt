@@ -1,8 +1,0 @@
-influence of the horizontal geomagnetic field on electric
-    waves between the earth and the ionosphere travelling obliquely
-    to the meridian a more general case than that noted earlier is
-    considered briefly results indicate that the differences in the
-    type of atmospherics waveform arriving from south east and from
-    south west are due to differences not in the propagation but in
-    the nature of the discharge which may occur over the sea in one
-    case over land in the other

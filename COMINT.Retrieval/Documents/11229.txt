@@ -1,2 +1,0 @@
-a transistorized current stabilizer for an
-    electromagnet

@@ -1,5 +1,0 @@
-low noise parametric amplifier a note of preliminary
-    analytical and experimental results obtained with a cavity type
-    amplifier for the s band in which through variable coupling the
-    effect of diode losses on noise figure can be minimized at the
-    expense of pump power

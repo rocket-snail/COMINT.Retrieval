@@ -1,3 +1,0 @@
-coupling of multipoles represented as a wave transmission
-    problem the method of solving multiple coupling problems by
-    means of a scattering matrix is described

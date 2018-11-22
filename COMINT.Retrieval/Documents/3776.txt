@@ -1,4 +1,0 @@
-the electron density distribution derived from whistler
-    data and faraday fading observations an interpolation law
-    allows satellite observations to be combined with whistler
-    data

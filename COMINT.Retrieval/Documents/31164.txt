@@ -1,8 +1,0 @@
-design of conditionally stable feedback systems
-    conditionally stable systems are shown to have a greater
-    feedback than that obtainable from unconditionally stable
-    feedback circuits the design of such systems is analysed
-    mathematically and a practical method for automatically
-    preventing oscillation occurring in them is suggested
-    experimental results obtained with a suitable circuit are
-    presented

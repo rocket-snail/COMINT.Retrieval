@@ -1,6 +1,0 @@
-quadratic interpolation in tapped potentiometer function
-    generators the quadratic variation of the resistance to ground
-    from the slider of an auxiliary potentiometer interpolating
-    between the tapping points on the function generating
-    potentiometer is utilized to achieve quadratic
-    interpolation

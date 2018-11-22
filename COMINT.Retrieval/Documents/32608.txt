@@ -1,5 +1,0 @@
-motion of a charged particle in an anisotropic medium
-    expressions are derived for the em field components and the
-    total energy losses are determined for a charged particle
-    moving in an anisotropic gyroelectric and gyromagnetic
-    medium

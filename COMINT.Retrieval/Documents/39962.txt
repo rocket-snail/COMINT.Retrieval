@@ -1,4 +1,0 @@
-research of condensers and its results voltage
-    temperature and frequency characteristics are given for a
-    number of types of capacitor particularly the batio and
-    silvered mica types

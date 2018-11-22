@@ -1,3 +1,0 @@
-models demonstrating the phenomena of ferromagnetic
-    hysteresis extension and refinement of the preisach model see
-    also of

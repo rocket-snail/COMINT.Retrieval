@@ -1,3 +1,0 @@
-gain stabilized transistor amplifier gain is stabilized
-    by using an unbypassed resistor in the emitter circuit of a
-    junction transistor

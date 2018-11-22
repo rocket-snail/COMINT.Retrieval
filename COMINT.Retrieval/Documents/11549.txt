@@ -1,9 +1,0 @@
-a comparison of two weighting schemes for boolean
-    retrieval. describes 2 approaches, tied together by their
-    conceptual basis in fuzzy set theory, for representing weighted
-    boolean requests. one represents directly the importance of
-    component boolean expressions to the user. the other
-    establishes conditions that must be met before a document can
-    be retrieved. both may have a place in information retrieval
-    systems-their relative strengths should appear through
-    empirical investigation.

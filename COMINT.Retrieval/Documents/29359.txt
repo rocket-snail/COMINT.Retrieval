@@ -1,4 +1,0 @@
-on electromagnetic radiation in magneto ionic media a
-    wave matrix is defined the zeros of whose determinant are the
-    propagation constants of the ordinary and the extraordinary
-    plane waves

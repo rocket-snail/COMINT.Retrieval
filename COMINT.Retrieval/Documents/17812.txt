@@ -1,6 +1,0 @@
-optical observations of artificial earth satellites
-    observations are made visually using telescopes and are also
-    recorded photographically an oscillographic method is described
-    for recording the exact instant of the opening and closing of
-    the camera shutter these observations are valuable in the
-    determination of the exact shape of the earth

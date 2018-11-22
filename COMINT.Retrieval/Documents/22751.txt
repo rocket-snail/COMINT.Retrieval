@@ -1,8 +1,0 @@
-the effect of an intermediate layer on the frequency
-    characteristics of ultrasonic delay lines general expressions
-    are derived for the line conversion factor taking account of an
-    intermediate layer between the transducer and the line the
-    effect of this layer on the frequency characteristics and
-    transmission band is considered and the relevant
-    characteristics of different transducer and layer materials are
-    tabulated

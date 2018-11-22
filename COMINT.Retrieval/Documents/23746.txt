@@ -1,4 +1,0 @@
-timebase circuits discussion of the principles of
-    operation of various types of timebase including an
-    anastigmatic system and of hv generation by the fly back
-    method

@@ -1,6 +1,0 @@
-a method ensuring channel width stability and equality in
-    a pulse amplitude analyser apparatus based on wilkinsons work
-    has the following characteristics channel width variable
-    between channel stability within for a period of operation
-    possible channels or more according to the type of recorder
-    available

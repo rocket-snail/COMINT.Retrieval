@@ -1,6 +1,0 @@
-piezoelectric voltage transformers possible modes of
-    operation are considered and the design and performance of a
-    ceramic transformer with respect to one of these modes is
-    examined the advanect to one of these modes examined the
-    advantages and possible applications of such devices are
-    discussed

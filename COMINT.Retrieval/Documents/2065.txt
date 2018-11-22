@@ -1,3 +1,0 @@
-quartz at type filter crystals for the frequency range
-    design data are given for suppressing the unwanted modes to at
-    least below the main mode see also of

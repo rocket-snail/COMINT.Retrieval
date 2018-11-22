@@ -1,5 +1,0 @@
-the square loop ferrite core as a circuit element the
-    shape of the output waveforms when the cores are switched is
-    explained by a quantitative theory which takes into account the
-    residual loss reasonable agreement with experimental evidence
-    is shown

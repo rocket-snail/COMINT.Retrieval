@@ -1,9 +1,0 @@
-experimental band pass amplifier a description is given
-    of the practical design of an amplifier circuit in which the
-    bandwidth can be adjusted and the gain varied between wide
-    limits without shifting the centre frequency of or affecting
-    the response curve features of the design are the capacitive
-    coupling of the tuned circuits the neutralization of the grid
-    anode capacitance of a type pentode by means of a specially
-    constructed plunger type capacitor and th compensation of valve
-    input impedance variations by a suitable cathode load

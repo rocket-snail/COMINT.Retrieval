@@ -1,9 +1,0 @@
-approximate theory of ferrimagnetic spin waves the wave
-    functions and the energy spectrum for the spin wave problem in
-    a normal spinel are found by means of a straightforward
-    extension of andersons approach to antiferromagnetism on only
-    ab exchange is assumed to exist and the calculation is carried
-    to second order in the magnitude of the propagation vector k
-    five distinct energy surfaces are found two of which are
-    identical in the classical limit to the ones previously
-    reported by h kaplan

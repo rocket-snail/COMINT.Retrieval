@@ -1,8 +1,0 @@
-krantel-a joint venture by dutch newspapers. the progress
-    being made in the netherlands to make newspapers available
-    through the viditel viewdata service of the dutch post office
-    is reported. krantel is a project designed to help newspapers
-    take advantage of the opportunities offered by viewdata.
-    although 10 newspapers have experimented with their own
-    viewdata systems, commercial activity is low, and some reasons
-    for this are suggested.

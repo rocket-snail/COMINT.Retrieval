@@ -1,7 +1,0 @@
-the ionosphere and artificial earth satellites two
-    methods for investigating the ionosphere are briefly described
-    the doppler shift of emitted signals and the observation of the
-    times of radio rise and radio setting of the satellites from
-    the difference between the optical and the radio observations
-    of the rising and setting the electron concentration can be
-    calculated

@@ -1,3 +1,0 @@
-transistor circuitry for radiation counting four
-    instruments are described a pulse amplifier a pulse height
-    analyser a scaler and a linear count rate meter

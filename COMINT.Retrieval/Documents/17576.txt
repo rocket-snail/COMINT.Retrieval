@@ -1,8 +1,0 @@
-new circuits for generating pulses by means of a pulsed
-    reactor review of circuits containing a saturable reactor with
-    rectangular magnetization characteristic for deriving pulses of
-    required amplitude and phase from a sine wave input the method
-    of shifting the phase by means of an auxiliary pre magnetizing
-    current is described pulse shapes obtainable from a square wave
-    input are discussed and practical circuits for deriving this
-    input from single and three phase ac are shown

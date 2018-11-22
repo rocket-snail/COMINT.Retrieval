@@ -1,7 +1,0 @@
-a derivation of maxwells equations for a vacuum by means
-    of an energy quantum model propagation phenomena such as
-    interference and diffraction can be explained by means of
-    quantum theory if the energy quanta are assumed to have finite
-    volume the magnitude of this volume is estimated from
-    consideration of the energy received by a dipole in a field of
-    strength

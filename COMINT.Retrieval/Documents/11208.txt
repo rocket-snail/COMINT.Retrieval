@@ -1,5 +1,0 @@
-scintillation spread f and trans equatorial scatter both
-    radio star scintillation and spread f show little dependence on
-    magnetic activity during sunspot minimum at sunspot maximum
-    they are strongly negatively correlated whilst transequatorial
-    scatter is positively correlated with magnetic activity

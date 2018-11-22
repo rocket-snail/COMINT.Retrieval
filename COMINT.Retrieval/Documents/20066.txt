@@ -1,6 +1,0 @@
-simultaneous oscillation at three natural frequencies in
-    nonlinear feedback circuits the steady states of a nonlinear
-    feedback loop with three degrees of freedom are investigated
-    under the assumption of quasilinearity with reference to the
-    theory of multimode oscillators experimental results and
-    practical applications of the effect are discussed

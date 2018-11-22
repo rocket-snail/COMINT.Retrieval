@@ -1,4 +1,0 @@
-transistor monostable circuits cross coupled and emitter
-    coupled circuits are analysed to determine the circuit
-    characteristics results obtained with two practical circuits
-    show good agreement with theory

@@ -1,6 +1,0 @@
-influence of insulating films on the corona current and
-    breakdown voltage of spark gaps experiments are reported in
-    which a point to plate discharge path was used the plate being
-    coated with lacquer or other insulator observed breakdown
-    voltages are in some cases lower than with an uncoated plate an
-    explanation of the results is presented

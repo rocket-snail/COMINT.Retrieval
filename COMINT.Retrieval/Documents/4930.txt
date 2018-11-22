@@ -1,7 +1,0 @@
-theory of the plasma in a rarefied gas when the current
-    strength varies general equations for relatively slow processes
-    in a plasma are applied to the calculation of the concentration
-    of electrons and ions when the strength of the current through
-    the gas varies the partial de ionization of the gas when the
-    current decreases and the residual concentration of electrons
-    and ions after the current ceases to flow are determined

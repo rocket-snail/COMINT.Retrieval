@@ -1,4 +1,0 @@
-negative electrical conductivities the complex electrical
-    hf conductivity of a plasma in a magnetic field is calculated
-    on the basis of boltzmanns equation and the occurrence of
-    negative values of the real part of is discussed

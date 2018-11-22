@@ -1,7 +1,0 @@
-disturbances in the f and e regions of the ionosphere
-    associated with geomagnetic storms the e and f layer variations
-    which occur during geomagnetic disturbances are examined for
-    different phases of the solar cycle and for a number of
-    latitudes the data are discussed in relation to the electron
-    drifts associated with geomagnetic disturbances see also
-    below

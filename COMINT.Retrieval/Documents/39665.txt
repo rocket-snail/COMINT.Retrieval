@@ -1,6 +1,0 @@
-an improved crystal band elimination filter an all pass
-    network consisting of two filters in parallel is described
-    suitable for applications in which it is required to transmit a
-    wide frequency bands within the range internal impedance
-    transformations eliminate the need for high ratio
-    transformers

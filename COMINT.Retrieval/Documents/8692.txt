@@ -1,5 +1,0 @@
-a study of ionospherics at macquarie island a systematic
-    study of radio emissions of natural origin recorded at one
-    station is presented and the generation of these ionospherics
-    is considered on the basis of an extension of the cherenkov
-    radiation model

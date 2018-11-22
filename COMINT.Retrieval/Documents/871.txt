@@ -1,4 +1,0 @@
-measurement of the atmospheric electric field in the free
-    atmosphere the results of radiosonde measurements up to about
-    height are compared with measured and calculated field strength
-    data of other authors

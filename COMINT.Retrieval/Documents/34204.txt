@@ -1,4 +1,0 @@
-refraction and diffraction of pulses a solution for
-    reflection and refraction of a plane pulse at a plane surface
-    is obtained by fourier synthesis using a method which is also
-    valid when total reflection occurs

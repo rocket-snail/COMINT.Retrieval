@@ -1,7 +1,0 @@
-on the plane weve extinction cross section of an obstacle
-    the relation between the extinction cross section of an
-    obstacle which both absorbs and scatters power and the
-    amplitude and phase of a scattered time harmonic plane wave is
-    proved using an explicit representation of the scattered field
-    the result is valid for a plane wave with arbitrary elliptic
-    polarization

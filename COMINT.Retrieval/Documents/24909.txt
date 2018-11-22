@@ -1,7 +1,0 @@
-current balancing reactors for semiconductor rectifiers
-    in both semiconductor and mercury arc rectifiers of high
-    current capacity where many diodes are connected in parallel
-    the currents in the separate units must be balanced balancing
-    arrangements for semiconductor rectifiers are described
-    including the use of punched laminations as strip type
-    reactors

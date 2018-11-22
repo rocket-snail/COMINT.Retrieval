@@ -1,5 +1,0 @@
-a variable inductor an af inductor is described in which
-    core hysteresis effects are eliminated the inductance being
-    controlled by moving a magnet in relation to the cores q values
-    at and at are possible experimental filters using the inductors
-    are also described

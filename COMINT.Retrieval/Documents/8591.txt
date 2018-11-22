@@ -1,6 +1,0 @@
-use of a different type of fluorescent material as an
-    optical maser a device is suggested which is based on the
-    stokes shift associated with absorption and emission bands
-    created by point defects in solids such as kcl preliminary
-    calculations indicate that such a device can be made to
-    operate

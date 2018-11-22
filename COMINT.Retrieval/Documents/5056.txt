@@ -1,5 +1,0 @@
-selected definitions a selection of the definitions
-    prepared by the acm standards committee's subcommittee on
-    programming terminology is presented for review by the acm
-    membership. april, 1963 fritz, w. b. ca630401 jb march 14, 1978
-    12:32 pm

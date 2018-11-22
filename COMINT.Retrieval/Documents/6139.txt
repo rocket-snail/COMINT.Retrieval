@@ -1,6 +1,0 @@
-determination of the earths gravitational potential from
-    satellite orbits from the motions of the orbital planes of four
-    satellites values for the second fourth and sixth harmonics in
-    the earths gravitational potentials have been obtained
-    allowance is made for atmospheric lunar and solar perturbations
-    and the results are compared with those of other authors

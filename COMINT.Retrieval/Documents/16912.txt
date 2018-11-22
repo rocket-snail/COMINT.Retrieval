@@ -1,8 +1,0 @@
-a junction transistor tetrode for high frequency use
-    application of suitable bias to a fourth electrode connected to
-    the p type central section of an npn junction transistor causes
-    a considerable reduction of the base resistance this reduction
-    enables the transistor to be used at frequencies over ten times
-    the normal limit circuits are given for a variable frequency
-    tuned amplifier a band pass amplifier and a sine wave
-    oscillator for

@@ -1,4 +1,0 @@
-economy in the series stabilizer consideration of the
-    efficiency of series stabilizer circuits under almost constant
-    load conditions a resistive shunt to the series element can
-    improve efficiency

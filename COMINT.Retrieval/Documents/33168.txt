@@ -1,5 +1,0 @@
-the atmospheric density in the earths ionosphere and
-    exosphere the atmospheric density distribution in the exosphere
-    and the f layer as determined from satellite observations is
-    plotted and causes of density fluctuations with height are
-    briefly discussed

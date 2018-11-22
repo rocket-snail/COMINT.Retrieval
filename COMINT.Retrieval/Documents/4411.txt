@@ -1,4 +1,0 @@
-capacitive phase shifters the design is described of a
-    continuous phase shifter consisting of a variable capacitor
-    with four groups of stator plates and one group of kidney
-    shaped rotor plates

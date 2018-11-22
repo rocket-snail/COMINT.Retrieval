@@ -1,7 +1,0 @@
-the ultra bandwidth finline coupler the finline coupler
-    is a recently developed microwave circuit element with which it
-    has been possible to assemble hybrid junctions directional
-    couplers and polarization selective couplers capable of
-    operating over bandwidths of at least three to one in frequency
-    constructional details and experimental d results are
-    given

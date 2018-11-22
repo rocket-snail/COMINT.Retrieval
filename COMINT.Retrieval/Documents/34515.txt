@@ -1,3 +1,0 @@
-analysis of satellite data from an analysis of the orbit
-    of satellite atmospheric density variations have been isolated
-    which are tentatively ascribed to third harmonic tides

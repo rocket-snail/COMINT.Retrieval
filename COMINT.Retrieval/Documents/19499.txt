@@ -1,6 +1,0 @@
-observations of sudden ionospheric disturbances observed
-    phase changes for reflected waves of frequency are possible due
-    to an increase in electron density extending to above the e
-    layer maximum measurements of the absorption of cosmic noise
-    transmitted through the ionosphere show that an increase occurs
-    at heights as low as km or even

@@ -1,7 +1,0 @@
-information systems theoretical foundations. some basic
-    concepts concerning information systems are defined and
-    investigated. with every information system a query language is
-    associated and its syntax and semantics is formally defined.
-    some elementary properties of the query language are stated.
-    the presented approach leads to a new information systems
-    organisation.

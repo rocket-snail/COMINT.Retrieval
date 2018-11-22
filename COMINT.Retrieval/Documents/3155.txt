@@ -1,5 +1,0 @@
-premagnetization of the core of a pulse transformer by
-    means of ferroxdure premagnetization to improve the loading of
-    the core of a transformer carrying unidirectional pulse
-    currents is examined theoretically a practical transformer is
-    described

@@ -1,6 +1,0 @@
-an electronic supply for use in the calibration of
-    instruments description of a high power oscillator amplifier
-    set with phase shift unit giving an output of at least at unity
-    power factor within the range from each of two amplifiers the
-    output voltage does not vary by more than during the time taken
-    to calibrate point on an instrument scale

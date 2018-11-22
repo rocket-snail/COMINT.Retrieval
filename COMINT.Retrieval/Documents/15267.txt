@@ -1,7 +1,0 @@
-bradford's 'books and information library 'bus'.d
-    escribes a project by bradford libraries (uk) to build up
-    closer contacts with the local community by converting a
-    double-decker bus into a mobile library. the bus contains a
-    citizens' advice bureau and aims to improve adult literacy in
-    the area. staff include: 1 librarian; 1 advice worker; 1
-    literacy worker; and 2 drivers/assistants.

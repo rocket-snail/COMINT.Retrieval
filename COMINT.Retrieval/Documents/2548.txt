@@ -1,6 +1,0 @@
-influence of large fluctuations on an electronic relay
-    the probability of untimely triggering by fluctuation voltages
-    is considered theoretically the cases discussed include the
-    effect of fluctuations on a relay with or without inertia both
-    in the presence and in the absence of regular pulses the effect
-    on a coincidence type circuit is also discussed

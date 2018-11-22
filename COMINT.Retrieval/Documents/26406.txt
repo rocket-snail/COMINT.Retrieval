@@ -1,7 +1,0 @@
-some design criteria for automatic controls the design of
-    control systems to give optimum response is discussed in terms
-    of the area between the graphical representation of a step
-    disturbance and th control response curve this area and a
-    weighted control area can be calculated directly from th system
-    parameters and enable the necessary control sensitivies to be
-    determined for optimum response

@@ -1,5 +1,0 @@
-equation of state of high temperature plasma fully
-    ionized plasmas at high temperatures are investigated on the
-    basis of quantum theory and a correction to the debye huckel
-    approximation is evaluated for the free energy and the equation
-    of state

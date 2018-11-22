@@ -1,4 +1,0 @@
-perturbations of a nonlinear filtered oscillator analysis
-    summarized earlier and of the effect of a disturbance on the
-    behaviour of an oscillator comprising a nonlinear amplifier
-    feedback loop and low pass filter see also of

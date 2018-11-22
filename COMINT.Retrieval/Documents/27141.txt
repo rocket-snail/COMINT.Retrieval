@@ -1,4 +1,0 @@
-actual noise measure of linear amplifiers a new noise
-    measure is proposed which includes the noise contribution from
-    the load it is of particular use in comparing amplifiers whose
-    terminations are not necessarily optimized

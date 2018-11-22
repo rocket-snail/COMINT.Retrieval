@@ -1,5 +1,0 @@
-theory of relaxation oscillations in optical masers a
-    theoretical explanation is given of the intense short spikes
-    observed in the output of optical masers of a simple formula is
-    derived for the time interval between them and the rate at
-    which they decay to a constant level

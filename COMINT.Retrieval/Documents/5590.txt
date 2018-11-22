@@ -1,7 +1,0 @@
-crystal frequency multipliers for centimetre and
-    millimetre waves circuits are described for generating
-    harmonics at frequencies using crystals the generator is
-    coupled by a cross bar transition to the crystal which can be
-    shifted axially for purposes of impedance matching higher
-    frequencies can be achieved by use of crystals in a similar
-    arrangement

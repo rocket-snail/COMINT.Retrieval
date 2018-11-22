@@ -1,6 +1,0 @@
-extension of a theorem for normal passive electrical two
-    poles in the steady state the theorem of which gives the
-    terminal resistance of a two pole network as a function of the
-    resistances of its elements is extended to allow for n degrees
-    of freedom of the network satisfying the reciprocity
-    condition

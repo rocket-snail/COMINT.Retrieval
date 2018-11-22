@@ -1,3 +1,0 @@
-power and efficiency of passive quadripoles families of
-    circle diagrams are used to study the output power efficiency
-    insertion loss and attenuation of quadripoles

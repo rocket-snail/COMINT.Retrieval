@@ -1,5 +1,0 @@
-frequency modulation of a transmitter by inductance
-    variation the use of a ferrite cored variable inductor is
-    proposed and its advantages over a reactance valve circuit are
-    discussed an experimental f m master oscillator is
-    described

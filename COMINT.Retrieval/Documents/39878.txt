@@ -1,7 +1,0 @@
-bifilar t trap details are given of a circuit with a
-    bifilar t trap designed for rejecting the second harmonic of a
-    signal in an infrared detector amplifier other applications of
-    the bifilar t trap are considered eg a tuned af amplifier
-    having a bandwidth of a few hundred cycles with a narrow band
-    of high attenuation at the centre and a narrow band feedback
-    amplifier

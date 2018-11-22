@@ -1,9 +1,0 @@
-notes on the gyrator problem the impedance transformation
-    properties indicated by tellegen of as characteristic of the
-    gyrator can also exist in ordinary quadripoles the peculiar
-    nature of the gyrator is indicated by the sign of the output
-    current different conventions used in representing quadripole
-    currents and voltages are discussed it is proposed that the
-    equations should be written in a way that takes into account
-    the terminating impedances and the internal impedance of the
-    source

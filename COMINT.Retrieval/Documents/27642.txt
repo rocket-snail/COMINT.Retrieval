@@ -1,4 +1,0 @@
-calculation of the transfer function from the magnitude
-    of the transmission factor generalization ad modification of
-    kupfmullers system theory to eliminate certain contradictions
-    with practical systems

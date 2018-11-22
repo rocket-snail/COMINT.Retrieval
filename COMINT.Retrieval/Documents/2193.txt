@@ -1,9 +1,0 @@
-electroluminescence with nonsinusoidal fields experiments
-    using pulses of rectangular sawtooth exponential form were made
-    to supplement the information obtained by applying sinusoidal
-    voltages of piper and williams the phosphor investigated was
-    giving green and blue luminescent bands which were examined
-    separately measurements were made of field and frequency
-    dependence and decay law with square pulses only qualitative
-    observations were made with the other waveforms a theoretical
-    interpretation of the results is advanced

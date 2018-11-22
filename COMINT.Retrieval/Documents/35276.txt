@@ -1,2 +1,0 @@
-theory of molecular oscillator and molecular power
-    amplifier

@@ -1,6 +1,0 @@
-some deductions of ionospheric information from the
-    observations of emissions from satellite experimental procedure
-    and results the application of the approximate analysis to the
-    small number of suitable observations suggest that the
-    ionization density decreases slowly with height above the
-    maximum of at night

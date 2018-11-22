@@ -1,6 +1,0 @@
-analog to digital data converter the required conversion
-    is performed by arranging an oscillator generating pulses at a
-    repetition rate proportional to the analogue voltage to feed a
-    digital counters for a fixed period the oscillator described
-    has a range of four decades stability is better than of maximum
-    pulse frequency

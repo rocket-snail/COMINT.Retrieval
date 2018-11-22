@@ -1,5 +1,0 @@
-signals from switched ferroelectric memory capacitors the
-    equivalent circuit for a bistable storage capacitor is a
-    current generator with a resistance in parallel the properties
-    of the output signals from switched and unswitched stores are
-    discussed using this model

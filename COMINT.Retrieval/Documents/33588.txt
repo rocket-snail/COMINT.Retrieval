@@ -1,6 +1,0 @@
-calculations of distortion and interference effects in
-    transistor amplifier stages on the basis of the equivalent
-    circuit diagram low frequency conditions and input signals up
-    to maximum permissible amplitude are considered and the
-    calculations are applied to two stage circuits the extension of
-    the theory to high frequency conditions is indicated

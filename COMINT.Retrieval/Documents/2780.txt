@@ -1,6 +1,0 @@
-solar activity and whistler dispersion the time delay
-    between the occurrence of a local lightning flash and the
-    beginning of the associated whistler is correlated with the
-    monthly mean sunspot number the correlation coefficient is
-    greatest when the sunspot number is related to whistler
-    measurements made months later

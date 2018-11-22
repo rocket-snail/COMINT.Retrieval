@@ -1,3 +1,0 @@
-rectangular hysteresis loop magnetic cores as switching
-    elements theoretical bases and experimental results are given
-    for core switching with voltage and current pulses

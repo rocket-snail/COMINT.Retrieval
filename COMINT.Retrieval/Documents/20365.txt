@@ -1,6 +1,0 @@
-observation at akita of ionospheric drift simultaneous
-    observations of the variations with time of the virtual heights
-    of the layers were made at three observatories in japan during
-    the period july august mainly at night drift velocities of the
-    layers are deduced the results are presented in the form of
-    histograms

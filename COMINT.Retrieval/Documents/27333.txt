@@ -1,8 +1,0 @@
-ultra high frequency power amplifiers a general review of
-    the design and construction of power amplifiers operating in
-    the range travelling wave valves designed for a bandwidth of
-    one octave are limited in their mean power output by
-    overheating of the helix backward wave amplifiers based on
-    crossed field interaction require a variable beam voltage for
-    wide band operation but have a high efficiency and low
-    operating voltage

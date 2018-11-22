@@ -1,5 +1,0 @@
-analysis of the relaxation period of a multivibrator the
-    analysis takes account of positive grid swing and appreciable
-    shunting capacitance comparison of values obtained from the
-    theory with experimental results indicates that the method is
-    satisfactory

@@ -1,3 +1,0 @@
-transient phenomena in ruby maser a note on time lags
-    observed in the build up of oscillations in a pulsed three
-    level maser operating at with pump frequency

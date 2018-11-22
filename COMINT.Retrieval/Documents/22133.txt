@@ -1,4 +1,0 @@
-propagation of perturbations in a one dimensional two
-    beam electron flow using a difference kernel integral equation
-    method a solution is obtained for drift in two beam flow in the
-    presence of a transverse electric field

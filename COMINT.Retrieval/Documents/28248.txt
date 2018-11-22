@@ -1,3 +1,0 @@
-basic magnetic logic circuits in computers classification
-    of fundamental circuits which can be realized by means of
-    square loop ferromagnetic cores

@@ -1,6 +1,0 @@
-tolerances and temperature coefficient of coils with
-    ferroxcube slugs extension of a previous discussion of from the
-    point of view of insensitivity to variations of core
-    permeability and of temperature the closed core with air gap is
-    best the rod core with long coil next and the rod core worst
-    see also of

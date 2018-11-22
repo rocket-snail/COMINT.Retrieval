@@ -1,6 +1,0 @@
-build up phenomena in minimum phase networks wheelers
-    paired echo method is used to evaluate the network response to
-    a single pulse and to a step voltage the method is
-    fundamentally a simplified application of the fourier integral
-    and is particularly useful for evaluating the distortion with a
-    minimum of computation

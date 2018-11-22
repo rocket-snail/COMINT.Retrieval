@@ -1,6 +1,0 @@
-the wave mechanical damped harmonic oscillator a wave
-    mechanics treatment is given of damped harmonic motion for the
-    charge in a tuned circuit and the em field in a resonant cavity
-    the classical frequency appears in the time dependence of the
-    eigenfunctions and the classical damping as a decay in the
-    eigenvalues

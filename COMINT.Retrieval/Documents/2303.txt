@@ -1,9 +1,0 @@
-security in map collections. briefly surveys the
-    available literature on general library security systems, and
-    presents the results of a study of security in us and canadian
-    map libraries. analyses the information obtained on' the degree
-    of map loss; the possible effects of circulation policies and
-    floor plan on map loss; and alternative protection activities
-    other than general library security systems. concludes that
-    there is great potential in the area of map security, and makes
-    recommendations for further investigation of this topic.

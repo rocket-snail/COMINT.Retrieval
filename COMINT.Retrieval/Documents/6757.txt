@@ -1,4 +1,0 @@
-on the theory of skin effect in metals the coefficient of
-    em wave transmission through a sufficiently thick film is
-    calculated taking into account a small slowly damped addition
-    derived from the evaluation of the spin magnetic moment

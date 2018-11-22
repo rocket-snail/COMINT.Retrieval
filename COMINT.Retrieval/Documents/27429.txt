@@ -1,3 +1,0 @@
-the stability of narrow band transistor amplifier stages
-    a stability criterion is derived on which a method of phase
-    neutralization is based

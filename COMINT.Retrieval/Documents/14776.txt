@@ -1,7 +1,0 @@
-a broad band intermediate frequency amplifier for use in
-    frequency modulation microwave radio relay systems a amplifier
-    is described which is suitable for the transmission of channel
-    frequency division multiplex telephony or subcarrier colour
-    television signals in fm microwave radio relay systems a test
-    tone noise ratio of is not significantly degraded after
-    transmission through five amplifiers in tandem

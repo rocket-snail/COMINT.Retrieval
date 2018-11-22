@@ -1,6 +1,0 @@
-vh radar echoes associated with atmospheric phenomena
-    during observations with radar equipment at echoes were
-    obtained which could not be attributed either to aurorae or to
-    meteors the characteristics of these echoes suggest that they
-    may be due to upward discharges from the troposphere to the
-    ionosphere which may be triggered off by meteors

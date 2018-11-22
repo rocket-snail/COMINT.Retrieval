@@ -1,7 +1,0 @@
-selfquenching in superregenerative parametric amplifiers
-    a qualitative reasoning of the behaviour of cavity time
-    parametric amplifiers in the u h f range using ge diodes is
-    given for the condition of selfbias or external bias with high
-    internal resistance applied to the diode increase in pump power
-    makes frequency response multipeaked as with regenerative valve
-    amplifiers in the coherent state

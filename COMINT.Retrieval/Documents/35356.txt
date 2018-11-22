@@ -1,5 +1,0 @@
-afos word processor. typewriter.fr is a program whereby,
-    by observing a few simple rules of syntax, written
-    correspondence not requiring a letterhead can be composed and
-    edited at an adm in an afos product set aside for this
-    task.

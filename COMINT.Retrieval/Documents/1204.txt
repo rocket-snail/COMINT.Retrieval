@@ -1,5 +1,0 @@
-correlation between low frequency radio noise and
-    magnetic and cosmic ray storms measurements at poitiers and
-    limeil show that vlf radio noise starts about after an ssc a
-    maximum being reached about after the ssc the maximum noise
-    occurs at the maximum of cosmic ray storms

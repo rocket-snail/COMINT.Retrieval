@@ -1,4 +1,0 @@
-scale factors for analog computers description of a
-    design technique whereby scale factors relating analogue
-    variables to the variables of the system investigated are first
-    determined for true time operation

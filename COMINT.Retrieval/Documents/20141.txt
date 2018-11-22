@@ -1,5 +1,0 @@
-the electron content of the ionosphere in winter
-    observations of the faraday rotation of moon reflected radio
-    waves at two closely spaced frequencies are described accurate
-    values were obtained for the total electron content of the
-    ionosphere for many hours on successive days

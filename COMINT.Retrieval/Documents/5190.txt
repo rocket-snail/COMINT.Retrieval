@@ -1,8 +1,0 @@
-printed circuits some general principles and applications
-    of the foil technique methods of producing printed circuits are
-    discussed from the viewpoint of the printer the foil technique
-    is suitable for both general and special applications the main
-    processes involved namely printing etching fusing mechanical
-    patterning transfer and multilayer technique are described
-    various characteristics of foil conductors are examined and
-    some particular applications are indicated

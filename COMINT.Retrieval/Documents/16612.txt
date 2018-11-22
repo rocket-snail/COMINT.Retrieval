@@ -1,4 +1,0 @@
-synchronizing magnetic drum storage speed synchronization
-    to an acoustic delay line is obtained by a time difference
-    discriminator which controls the drum speed an accuracy within
-    is achieved with a line voltage variation

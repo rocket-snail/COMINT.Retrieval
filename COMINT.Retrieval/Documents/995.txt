@@ -1,3 +1,0 @@
-polyphase oscillators the frequency stability and freedom
-    from harmonics is greater for single phase than for symmetrical
-    polyphase oscillators

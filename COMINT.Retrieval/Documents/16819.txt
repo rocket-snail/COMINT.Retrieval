@@ -1,5 +1,0 @@
-a semi empirical expression for the first townsend
-    coefficient of molecular gases the formula derived by
-    druyvesteyn and penning is discussed and is modified on the
-    basis of different assumptions regarding the energy dependence
-    of the scattering cross sections of the gas molecules

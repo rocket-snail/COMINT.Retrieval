@@ -1,7 +1,0 @@
-a phonic wheel generator for position indication in
-    digital computer magnetic drum storage the design is discussed
-    of a variable reluctance phonic wheel generator for frequencies
-    above the final form comprises a rotating slotted disk and
-    polarizing permanent magnet placed centrally between two pickup
-    heads pickup output as high as has been attained the system has
-    been adopted in the type computer

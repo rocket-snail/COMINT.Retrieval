@@ -1,7 +1,0 @@
-the case of charged density distribution versus
-    semipermanent polarization as a basis for electret behavior it
-    is shown that if an electret were composed of ordinary charge
-    distributions its effects would diminish by in a day or two the
-    observed effects indicate the existence of a semi permanent
-    polarization and can be regarded as arising from a lag in the
-    cancelling action of conductivity

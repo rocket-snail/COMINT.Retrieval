@@ -1,3 +1,0 @@
-the distribution of trapped particles in a changing
-    magnetic field the changes in distribution which result from
-    various changes in the field parameters are calculated

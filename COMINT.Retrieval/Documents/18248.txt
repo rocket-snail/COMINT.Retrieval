@@ -1,8 +1,0 @@
-waveform studies of electric field changes during cloud
-    to cloud lightning discharges assuming that cloud to cloud
-    discharges may be identified from the sign of the field change
-    and the time separation of the individual strokes such
-    discharges exhibit all the features known to be associated with
-    ground discharges they include precursors multiple strokes
-    return strokes slow field changes and hook components junction
-    field changes between strokes

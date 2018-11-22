@@ -1,5 +1,0 @@
-radiative cooling of satellite borne electronic
-    components the basic principles of radiative cooling in a
-    satellite are discussed it is considered feasible that
-    temperatures could be maintained provided the proper skin
-    coating is used

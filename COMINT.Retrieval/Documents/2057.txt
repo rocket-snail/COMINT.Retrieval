@@ -1,9 +1,0 @@
-a contribution to the theory of the motion of weak
-    irregularities in the ionosphere if diffusion is neglected any
-    one dimensional irregularity travels unchanged with a constant
-    velocity which depends on the magnitude and direction of the
-    ionospheric e s and magnetostatic fields in the same way a weak
-    two dimensioal irregularity which is parallel to the direction
-    of the magneto static field travels with a constant velocity
-    and preserves its shape more complicated irregularities do not
-    preserve their shape

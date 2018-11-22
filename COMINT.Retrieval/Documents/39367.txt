@@ -1,7 +1,0 @@
-second approximation in the method of small perturbations
-    the propagation of a plane wave in a medium containing random
-    inhomogeneities is considered a second approximation in the
-    perturbation method is obtained assuming that the correlation
-    coefficient of refractive index fluctuations is gaussian this
-    is applied to determine the form of the normalizing factor in
-    the wave equation

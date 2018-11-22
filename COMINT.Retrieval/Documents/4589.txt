@@ -1,5 +1,0 @@
-project echo lower side band up converter for satellite
-    tracking radar the amplifier is pumped at and although
-    regenerative it has been made conditionally stable by careful
-    mechanical and electrical design the overall noise figure is
-    gain and bandwidth

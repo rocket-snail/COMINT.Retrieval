@@ -1,3 +1,0 @@
-four terminal parametric amplifier a lumped constant
-    model using ge junction diodes at a signal frequency of has a
-    gain of a bandwidth of and a noise factor of db

@@ -1,5 +1,0 @@
-high speed counter uses surface barrier transistor the
-    complete circuit is given of a four stage reversible binary
-    counter used for decoding signals the high cut off frequency of
-    the surface barrier transistors employed permits the attainment
-    of a counting rate of pulses

@@ -1,7 +1,0 @@
-microwave emission from high temperature plasmas energy
-    losses from cyclotron radiation are concluded to be negligible
-    for plasma temperatures less than and probably for those
-    greater than emission at the fundamental frequency and first
-    few harmonics is detectable and measurement of the relative
-    intensities offers a means of determining the plasma
-    temperature

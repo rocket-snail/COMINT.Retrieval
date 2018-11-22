@@ -1,6 +1,0 @@
-microwave investigations of plasma the basic theory and
-    the experimental details of three methods are described
-    resonator method waveguide method and cross modulation method
-    the ambipolar diffusion and recombination coefficients and the
-    electron collision frequency are determined and experimental
-    results are reported

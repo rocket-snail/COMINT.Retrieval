@@ -1,6 +1,0 @@
-selective properties of an oscillator system synchronized
-    by a harmonic signal theoretical investigation of the
-    dependence of the amplitude and phase oscillations of an
-    oscillator on the interference of a quasiharmonic e m f the
-    effect on the system of harmonic and fluctuation noise is
-    briefly examined

@@ -1,7 +1,0 @@
-step by step transition from wave optics to ray optics in
-    inhomogeneous anisotropic absorbing media part solution of the
-    equations for wave normal and refractive index by wbk
-    approximation ray optical reflection and alternation the
-    equations given in part of are solved the existence of
-    particular points is established for which the transition canot
-    be made

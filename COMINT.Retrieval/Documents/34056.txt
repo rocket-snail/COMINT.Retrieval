@@ -1,8 +1,0 @@
-human choices in the office of the future. a key factor
-    in the widespread acceptance and use of complex office
-    information systems will be the human factors of the system.
-    mentions some of the likely problem areas and briefly discusses
-    the relevant human factors techniques for solving these
-    problems. the user is the most important component and his
-    reactions to the system will decide whether its introduction is
-    a success or failure.

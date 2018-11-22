@@ -1,7 +1,0 @@
-effective parameters in ferrimagnetic resonance the
-    steady state solution for the susceptibility tensor of a two
-    sublattice system has been found by using sublattice equations
-    of motion which include complete landau lifschitz relaxation
-    terms with individual relaxation parameters and which describe
-    relaxation toward the instantaneous total field acting on the
-    sublattice

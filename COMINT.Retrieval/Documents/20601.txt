@@ -1,6 +1,0 @@
-a variable ultrasonic electro optical delay line and a
-    new ultrasonic optical effect in fused quartz a variable delay
-    line for rf pulses is described in which unpolarized light is
-    modulated by the rf signal passing through a quartz bar and is
-    detected by a photomultiplier the operation of the system is
-    unexplained

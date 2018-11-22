@@ -1,2 +1,0 @@
-invert (algorithm 42) january, 1963 naur, p. ca630110 jb
-    march 14,1978 2:36 pm

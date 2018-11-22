@@ -1,3 +1,0 @@
-the coulomb force and the ampere force a study of the
-    modification of coulombs equation that will satisfy amperes
-    experimental results

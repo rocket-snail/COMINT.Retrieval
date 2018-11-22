@@ -1,4 +1,0 @@
-scattering by nonspherical particles the small angle
-    scattering approximation of schiff is applied to several
-    nonspherical body sharpes effects of orientation and elongation
-    are discussed

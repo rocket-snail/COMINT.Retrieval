@@ -1,5 +1,0 @@
-variation of volta potential with temperature
-    experimental results show that the measured work functions of
-    and depend on the experimental conditions rather than on the
-    electron concentration or structural phase changes this was
-    investigated in greater detail by

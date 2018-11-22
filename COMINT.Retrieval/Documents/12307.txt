@@ -1,6 +1,0 @@
-welded joints on diodes reduce computer bulk diode
-    mounting methods are discussed teking up the least possible
-    space while affording adequate accessibility by using spot
-    welding the diode leads can be shortened to an elongated matrix
-    and a honeycomb arrangement accommodating up to diodes are
-    among the alternatives described

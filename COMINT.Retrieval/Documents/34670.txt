@@ -1,5 +1,0 @@
-overview of the chemical substances information network.
-    introduces the chemical substances information network (csin),
-    a coordinated network of on-line chemical information systems.
-    outlines the history of csin, the benefits of its use, and its
-    technical capabilities.

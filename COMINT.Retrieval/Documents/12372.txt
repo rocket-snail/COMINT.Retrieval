@@ -1,8 +1,0 @@
-inferred temperature variations at the f peak the scale
-    height at the f peak has been estimated using data on the total
-    electron content of the ionosphere obtained from the faraday
-    rotation of lunar radio echoes and data obtained from vertical
-    incidence soundings the scale height varies with time probably
-    as a result of temperature variations the observed scale
-    heights are in good agreement with a model atmosphere based on
-    rocket and satellite observations

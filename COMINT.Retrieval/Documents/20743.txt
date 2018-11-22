@@ -1,4 +1,0 @@
-the diffraction of a cylindrical pulse by a half plane a
-    method of analysis is used which enables the greens function to
-    be derived two transformations and two inversions are
-    involved

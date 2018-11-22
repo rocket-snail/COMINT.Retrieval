@@ -1,9 +1,0 @@
-a low frequency random signal generator the and noise
-    components each in an overall bandwidth of are selected from
-    the noise output of an argon filled thyratron operating in a
-    magnetic field after peak rectification the resulting noise
-    signals are added so that their dc components cancel the
-    amplitude distribution of the resultant output then
-    approximates very closely to a gaussian distribution the output
-    noise spectrum is flat from zero frequency up to a full circuit
-    diagram is given

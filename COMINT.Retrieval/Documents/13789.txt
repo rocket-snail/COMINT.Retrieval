@@ -1,6 +1,0 @@
-on the long period lunar and solar effects on the motion
-    of an artificial satellite part the theory of lunisolar effects
-    on artificial satellite orbits is presented in a form suitable
-    for numerical integration and for the development of the
-    perturbations into fourier series with numerical
-    coefficients

@@ -1,8 +1,0 @@
-application of molecular beams to radio spectroscopic
-    study of rotation spectra of molecules molecular beams may be
-    used to obtain narrow spectral lines of width about and the
-    rotation spectra of materials in the solid state quantitative
-    estimates are made of the possibility of detecting the rotation
-    transition in molecules at a frequency of using a spectroscope
-    with a waveguide absorption cell and of the transition using a
-    cavity resonator instrument see also of january

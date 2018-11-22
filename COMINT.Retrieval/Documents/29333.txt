@@ -1,7 +1,0 @@
-synthesis of transfer functions by active networks a
-    criterion is presented for determining whether a prescribed
-    transfer function can be synthesized by this means the
-    arbitrary function can be treated by breaking it down into
-    quadratic elements alternative methods involving inversion of
-    the transfer function of a ladder network realization are also
-    discussed

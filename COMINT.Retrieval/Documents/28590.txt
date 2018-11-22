@@ -1,4 +1,0 @@
-structure of a magnetohydrodynamic shock wave in a plasma
-    of infinite conductivity the analysis presented is relevant ot
-    problems of solar radiation the ionosphere and cosmic
-    rays

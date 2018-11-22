@@ -1,5 +1,0 @@
-ionospheric scintillations of satellite signals results
-    showing variations from a smooth doppler shift curve for
-    various frequencies and orbits give a measure of frequency
-    scintillation occurring and hence the roughness of the
-    intervening ionospheric path

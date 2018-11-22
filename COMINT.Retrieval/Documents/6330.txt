@@ -1,4 +1,0 @@
-effect of variation of dc current in a modulated electron
-    beam experiments indicate that existing theory needs correction
-    an empirical formula satisfying all experimental observations
-    is difficult to obtain

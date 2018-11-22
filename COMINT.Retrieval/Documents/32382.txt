@@ -1,3 +1,0 @@
-determination of core size in pulse transformer design
-    the construction of a design chart is described and its
-    application is illustrated

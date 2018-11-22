@@ -1,4 +1,0 @@
-high speed track selection for a magnetic drum store a
-    survey of mechanical and electronic relay switching systems is
-    given and the advantages of transistor switches are
-    discussed

@@ -1,5 +1,0 @@
-an explanation of the superior radiation resistance
-    resistance of type base si solar cells calculation of the
-    effect of electron flux on the minority carrier lifetime in the
-    base region gives results which agree well with measurements of
-    actual damage

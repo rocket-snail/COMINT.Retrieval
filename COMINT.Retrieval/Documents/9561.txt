@@ -1,4 +1,0 @@
-guided propagation in a slowly varying medium formulae
-    are derived for the propagation of elastic or em waves in a
-    variable stratified medium with particular application to
-    underwater sound transmission

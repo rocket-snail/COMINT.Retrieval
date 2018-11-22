@@ -1,3 +1,0 @@
-synthesis of ladder networks to give butterworth or
-    chebyshev response in the pass band general formulae are
-    derived for the design of low pass ladder networks

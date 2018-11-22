@@ -1,4 +1,0 @@
-an error in the thermal conductivity for a fully ionized
-    gas a discrepancy between formulae of marshall and of
-    rosenbluth and kaufmann of is due to an error in the last
-    collision integral of marshall

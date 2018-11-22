@@ -1,5 +1,0 @@
-microwave breakdown of air in nonuniform electric fields
-    two cases are treated theoretically a rectangular microwave
-    cavity and a similar cavity with a hemispherical boss one of
-    its walls the theoretical predictions are compared with
-    breakdown measurements in air

@@ -1,7 +1,0 @@
-scientific information systems and the principles of
-    selectivity. a mathematical model for the transmission of
-    contagious diseases is adapted to apply to scientific
-    communication. this model, which allows the definition of
-    structural and dynamic properties of scientific communication,
-    is tested and the effects of introducing quality filters are
-    discussed.

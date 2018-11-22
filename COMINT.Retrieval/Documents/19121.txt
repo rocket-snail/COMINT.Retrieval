@@ -1,7 +1,0 @@
-on the discrimination of a synchronized oscillator
-    against interference accompanying the synchronizing signal the
-    response of the oscillator to an interfering signal is
-    investigated when the interference component of the oscillator
-    output is small the response is found to be linear and the
-    discrimination is expressed analytically the experimental
-    results are in good agreement with theory

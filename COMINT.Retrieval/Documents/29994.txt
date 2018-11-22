@@ -1,4 +1,0 @@
-on the diffusion of decaying particles in a radial
-    electric field an analysis is made of the diffusion of charged
-    particles in a radial field in which the intensity is
-    distributed according to an inverse square law

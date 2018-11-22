@@ -1,5 +1,0 @@
-proposal for modulating the output of an optical maser
-    the strong magnetic field associated with a modulating beam is
-    used to rotate the plane of polarization of a plane polarized
-    beam from another maser which then passes through an analyser
-    and emerges modulated in amplitude

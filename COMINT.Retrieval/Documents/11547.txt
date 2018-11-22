@@ -1,4 +1,0 @@
-geometrical theory of diffraction in inhomogeneous media
-    the theory developed by an extension of fermats principle and
-    considering smooth convex bodies is applied to the calculation
-    of the field of diffracted rays

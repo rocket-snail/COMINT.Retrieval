@@ -1,8 +1,0 @@
-spectrum equalization the transfer characteristics of
-    nearly all forms of linear quadripoles can be equalized as
-    regards both amplitude and phase by adding to the response
-    function its successive time derivatives or integrals the
-    method may be applied to systems for which the equivalent
-    passive quadripole is not realizable eg a scanning aperture
-    application of the method to servo control and television is
-    discussed

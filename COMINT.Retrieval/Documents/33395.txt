@@ -1,4 +1,0 @@
-direct coupled transistor audio amplifier description of
-    a design procedure for a three stage amplifier in which the
-    collector of one stage is di ectly connected to the base of the
-    following stage see of february

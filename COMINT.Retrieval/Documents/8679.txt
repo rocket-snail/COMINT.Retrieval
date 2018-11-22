@@ -1,6 +1,0 @@
-the interpretation and synthesis of certain spread f
-    configurations appearing on equatorial ionograms computer ray
-    tracing to thin irregularities in the equatorial ionosphere
-    explains three classes of spread f from synthesized ionograms
-    it is possible to deduce the position size and drift velocities
-    of patches of irregularities

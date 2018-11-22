@@ -1,7 +1,0 @@
-on the network with the minimum number of coils necessary
-    and sufficient conditions for maximizing the degrees of freedom
-    of an network which contains a given number of inductances and
-    resistances and an arbitrary number of capacitances are
-    established a method of determining the transfer function of a
-    tchebycheff type band pass filter with a minimum number of
-    coils id described

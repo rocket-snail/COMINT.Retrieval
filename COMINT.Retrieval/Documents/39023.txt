@@ -1,8 +1,0 @@
-contribution to the study of a rectifier in series with
-    an inductive resistance different hypotheses are considered for
-    expressing the voltage drop across the rectifier at low
-    frequencies values of mean and maximum current are calculated
-    according to each hypothesis and compared with vith values
-    measured using a coil of inductance and resistance in series
-    with a valve rectifier a circuit for measuring low peak
-    voltages using a gas filled tetrode is described

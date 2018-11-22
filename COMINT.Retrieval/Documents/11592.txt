@@ -1,8 +1,0 @@
-distributed amplifiers mutual inductance coupled type
-    design procedure is outlined the problems of output voltage and
-    output matching being considered in detail a method involving
-    over running the valves is described for increasing gain and
-    output while maintaining the time delay constant when
-    amplifying random pulses details are given of the construction
-    and performance of two amplifiers having a useful bandwidth
-    of

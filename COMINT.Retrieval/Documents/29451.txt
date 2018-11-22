@@ -1,7 +1,0 @@
-a broadband low level error voltage detector the
-    unbalance of a carrier frequency voltage in a bridge circuit
-    having two inductive and two ge diode arms is used for
-    detecting small dc or ac error signals sensitivity down to and
-    response within are provided by the instrument which is
-    relatively free from zero drift application to high speed
-    multichannel sampling and to servo systems is discussed

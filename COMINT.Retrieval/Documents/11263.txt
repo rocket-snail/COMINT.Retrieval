@@ -1,7 +1,0 @@
-numerical ray tracing in electron lenses corrections are
-    suggested to liebmanns formulae for tracing paraxial rays a
-    more accurate method is developed applicable also to marginal
-    rays and is compared with methods suggested by other workers
-    the use of the constancy of the wronskian determinant as a
-    criterion of accuracy of paraxial ray tracing is
-    discussed

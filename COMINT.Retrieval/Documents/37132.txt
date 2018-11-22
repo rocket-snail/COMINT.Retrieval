@@ -1,6 +1,0 @@
-skin resistance of a transmission line conductor of
-    polygon cross section a theorem is presented according to which
-    a conductor whose cross section is a polygon that can be
-    circumscribed on a circle has the same skin resistance as a
-    conductor of the same material having the said circle as its
-    cross section see also of

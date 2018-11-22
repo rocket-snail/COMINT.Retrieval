@@ -1,2 +1,0 @@
-reducing errors caused by power supply variations
-    differential amplifiers in cascade cancel the errors

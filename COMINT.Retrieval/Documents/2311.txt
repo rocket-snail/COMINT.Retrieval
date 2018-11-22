@@ -1,5 +1,0 @@
-the planar problem of the diffraction of electromagnetic
-    waves by two ideally conducting strips of finite width located
-    one below the other mathematical analysis based on the method
-    of successive approximations using special approximation
-    formulae

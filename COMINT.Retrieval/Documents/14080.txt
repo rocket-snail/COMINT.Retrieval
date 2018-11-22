@@ -1,2 +1,0 @@
-a method for the elimination of slow variations in the
-    recording of pulsations of the geomagnetic field

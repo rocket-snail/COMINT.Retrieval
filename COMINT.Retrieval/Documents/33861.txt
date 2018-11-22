@@ -1,5 +1,0 @@
-parallel connected magnetic amplifiers a complete
-    analysis based on a single valued bh relation is made for three
-    types of load resistive inductive and capacitive transient
-    response is considered analysis of feedback amplifiers shows
-    clearly the jump phenomenon in the output characteristic

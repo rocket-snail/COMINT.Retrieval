@@ -1,6 +1,0 @@
-the characteristics of persistent sporadic meteor echoes
-    for sporadic meteors whose trails have an electron line density
-    greater than electrons the observed distribution of meteor echo
-    duration cannot be explained by power law distributions there
-    is no significant seasonal or diurnal variation in the mass
-    distribution of the meteors examined

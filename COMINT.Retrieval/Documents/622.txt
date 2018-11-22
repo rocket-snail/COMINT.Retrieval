@@ -1,2 +1,0 @@
-nomographs for designing transistor narrow band
-    amplifiers

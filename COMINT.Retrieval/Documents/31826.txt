@@ -1,3 +1,0 @@
-a cryotron memory cell an improved versatile storage cell
-    consisting of three cryotrons and one superconductive loop is
-    described

@@ -1,8 +1,0 @@
-superconducting rectifier and amplifier to avoid heat
-    losses due to heavy current leads in apparatus at liquid helium
-    temperatures a high voltage ac supply is applied to a
-    transformer which is coupled to the load through a coil of
-    superconducting material by applying a magnetic field parallel
-    to the axis of the coil a dc component is produced in the load
-    a current amplification factor of is obtained at using coils of
-    wire drawn from lead tin solder

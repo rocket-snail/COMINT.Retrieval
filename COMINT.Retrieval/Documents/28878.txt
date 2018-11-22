@@ -1,3 +1,0 @@
-proposal for a solid state radio frequency maser a brief
-    comment on conditions which are necessary to construct a maser
-    using zeeman levels of the pure quadrupole spectrum

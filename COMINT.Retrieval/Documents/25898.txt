@@ -1,5 +1,0 @@
-time to pulse height converter of wide range the
-    converter is designed to plug in to commercial oscilloscopes
-    and can time several events per time scan relative to one
-    starting event counting losses can be reduced by negative time
-    scanning the circuit diagram is given

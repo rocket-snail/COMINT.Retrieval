@@ -1,5 +1,0 @@
-an analysis of the dc design considerations of a
-    transistorized schmitt trigger parts design difficultes are
-    reduced by establishing first the necessary and second the
-    desirable requirements so that the number of variable
-    parameters is mu minimized

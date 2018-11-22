@@ -1,8 +1,0 @@
-description of the change over process in multivibrators
-    the dynamic processes occurring in multivibrators are described
-    using a graphical method a bistable circuit is considered as
-    example and a system of curves representing all possible
-    internal processes is derived on the basis of differential
-    equations for the characteristic time functions of this circuit
-    the influence of the duration and amplitude of the triggering
-    pulse on transition time is determined

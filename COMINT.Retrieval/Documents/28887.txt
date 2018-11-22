@@ -1,8 +1,0 @@
-harmonic and intermodulation distortion in power law
-    devices explicit expressions are derived for the
-    intermodulation components produced when two sinusoidal
-    voltages are applied simultaneously to a device such as a diode
-    whose transfer characteristic can be represented by a simple
-    power law formula results of practical importance in
-    intermodulation distortion testing are presented
-    graphically

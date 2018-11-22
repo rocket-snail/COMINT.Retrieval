@@ -1,3 +1,0 @@
-orbiting spectrometer plots solar x rays pulse analyser
-    and counter circuits in the scout satellite for investigations
-    in the wavelength range are described

@@ -1,4 +1,0 @@
-narrow band filter composed of quadripoles the design of
-    filter circuits for very low frequencies is discussed
-    oscillograms illustrate the suppression of noise superposed on
-    a signal for theory of quadripoles see also

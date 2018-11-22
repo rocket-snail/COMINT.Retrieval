@@ -1,4 +1,0 @@
-photovoltaic effect derived from the carnot cycle an
-    expression for the maximum power derivable from any
-    photovoltaic device is developed in terms of the incident light
-    intensity measured in units of black body radiation

@@ -1,9 +1,0 @@
-library service for the armed forces in norway. 74
-    libraries serve the norwegian armed forces. welfare services
-    are an integral part of the general care and administration of
-    defence personnel and the library service is a section of the
-    defence welfare service. the larger libraries stock around
-    5,000 volumes, while the smaller ones have 900-1,000. in recent
-    years all 74 libraries have received the same new books, in
-    order to provide the same selection to each unit and some
-    libraries have begun to provide music collections.

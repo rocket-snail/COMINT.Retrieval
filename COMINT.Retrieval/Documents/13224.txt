@@ -1,9 +1,0 @@
-response characteristics of a linear system with third
-    order transfer function the rise time and delay time of a low
-    pass system on application of a step function input are
-    calculated using elmores formulae conditions for minimizing
-    these times are determined for functions with three poles and
-    two zeros the pulse transformer is treated as a numerical
-    example the calculations are supported by experimental results
-    as long as consideration is restricted to no overshoot
-    conditions

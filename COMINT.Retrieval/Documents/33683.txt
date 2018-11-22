@@ -1,7 +1,0 @@
-an electronic analogue multiplier using carriers an
-    electronic analogue multiplier is described which is based on a
-    modulation technique no dc amplifiers are used which makes the
-    output entirely free of drifts all distortions up to the fourth
-    order are eliminated the experimental model that has been built
-    handles inputs from dc to and gives an output from dc to the
-    amplitude range of the output is

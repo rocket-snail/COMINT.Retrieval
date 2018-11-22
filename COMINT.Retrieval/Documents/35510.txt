@@ -1,6 +1,0 @@
-the structure of hydromagnetic sho k waves part one
-    nonlinear hydromagnetic waves in a cold plasma waves in a quasi
-    neutral gas consisting of ions and electrons are investigated
-    neglecting collisions but not the inertial effects of the
-    electric current the relation of these waves to hydromagnetic
-    shock waves in low density plasmas is considered

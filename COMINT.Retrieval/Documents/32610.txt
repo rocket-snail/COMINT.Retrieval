@@ -1,5 +1,0 @@
-a vacuum evaporated random access memory the basic
-    multiple layer magnetic film structure described is shown to
-    have valuable properties in coincident signal switching
-    applications including low magnetic turn over time and
-    extremely small cell volume

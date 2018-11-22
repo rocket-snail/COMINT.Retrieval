@@ -1,5 +1,0 @@
-the bootstrap amplifier an analysis of a rc coupled
-    pentode amplifier with the anode decoupling capacitor returned
-    to the cathode of a cathode follower the effects of the
-    coupling and decoupling capacitors on the low frequency
-    response characteristics are calculated

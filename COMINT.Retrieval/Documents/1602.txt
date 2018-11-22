@@ -1,7 +1,0 @@
-the design of function generators using silicon carbide
-    nonlinear resistors the effective current vol ge
-    characteristics of sic resistors are modified by linear
-    resistors placed in series and parallel such modified resistors
-    are then used as input or feedback components in amplifiers to
-    give nonlinear functions design details are given of squie law
-    and sine function generators using this device

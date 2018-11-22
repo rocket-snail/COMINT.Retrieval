@@ -1,5 +1,0 @@
-summarized proceedings of a conference on solid state
-    memory and switching devices london september some of the newer
-    techniques are discussed with reference to ferrite
-    ferroelectric and superconducting devices and magnetic thin
-    films

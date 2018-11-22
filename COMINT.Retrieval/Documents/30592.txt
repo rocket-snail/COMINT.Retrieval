@@ -1,5 +1,0 @@
-efficiency of frequency multipliers using charge storage
-    effect in general highest efficiency is obtained by cascading
-    lower order multipliers based on the depletion layer effect but
-    the power rating of the charge storage type is considerably
-    higher

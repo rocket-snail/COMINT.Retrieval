@@ -1,7 +1,0 @@
-perpendicularly superposed magnetic fields digest of a
-    paper to be published in theory is outlined for a cross field
-    reactor comprising a hollow ferrite toroid carrying one annular
-    winding internally and one toroidal winding externally the
-    device can be used as an low level converter or modulator as a
-    variable inductance or as a frequency multiplier of
-    divider

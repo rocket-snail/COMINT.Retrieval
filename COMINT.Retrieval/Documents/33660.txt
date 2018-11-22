@@ -1,5 +1,0 @@
-some considerations regarding the principle of phase
-    invariance it is shown that the conservation laws
-    characterizing the ether can be derived from the principle of
-    phase invariance provided a complex field is used to describe
-    the ether

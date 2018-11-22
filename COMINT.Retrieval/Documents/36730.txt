@@ -1,6 +1,0 @@
-synthesis techniques for gain band width optimization in
-    passive transducers the technique produces from the idealized
-    gain bandwidth constraints which ensure matching to a given
-    load a set of functions specifying the equalizer along the
-    fixed transducer is synthesized from these functions examples
-    illustrating the technique are given

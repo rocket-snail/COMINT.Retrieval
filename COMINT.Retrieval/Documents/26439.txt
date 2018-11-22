@@ -1,5 +1,0 @@
-the influence of electromagnetically coupled systems
-    compound systems consisting of a primary electromagnetically
-    coupled to a secondary system are considered the equations
-    obtained are applied to examples of magnetic coupling and a
-    conducting diode

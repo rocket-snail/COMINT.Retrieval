@@ -1,6 +1,0 @@
-ionospheric wind analysis by meteoric echo techniques the
-    procedure for finding vector average wind of is shown to be
-    unaffected by the presence of turbulent wind components
-    expressions are derived for the rms values of the horizontal
-    and vertical wind components sources of errors are discussed in
-    detail

@@ -1,5 +1,0 @@
-primary cosmic ray proton and alpha particle intensities
-    and their variation with time results of a series of high
-    altitude balloon flights made primarily to investigate the
-    short term variations of primary protons and alpha
-    particles

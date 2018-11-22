@@ -1,5 +1,0 @@
-a comparison of theory and observation of the echo
-    satellite a comparison is made between theoretical and observed
-    changes in the perigee height of echo due to radiation pressure
-    the change in atmospheric drag gives information on densities
-    in the height region

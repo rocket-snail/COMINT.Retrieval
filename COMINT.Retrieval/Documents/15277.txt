@@ -1,3 +1,0 @@
-analogue computer solution of the differential equation
-    for a spark gap the differential equation derived by weizel is
-    easily solved by means of the pm ott integrator

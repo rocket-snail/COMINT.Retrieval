@@ -1,8 +1,0 @@
-investigation of the transverse thermomagnetic effect the
-    potential difference produced between faces of a conductor
-    perpendicular to the applied magnetic field and perpendicular
-    to the thermal flow was measured and found to be proportional
-    to the magnetization in weak fields hysteresis is observed at
-    saturation the potential difference remains constant a formula
-    similar to that representing the hall effect is given the
-    results for low carbon steel are shown graphically

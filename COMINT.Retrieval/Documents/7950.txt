@@ -1,6 +1,0 @@
-recordings of transmissions from the satellite at the
-    antenna laboratory the ohio state university irregularities in
-    signals are attributed to polarization effects caused by
-    variations in magnetic field near the observing point some
-    periodic fading may be caused by a defect in the satellite
-    aerial

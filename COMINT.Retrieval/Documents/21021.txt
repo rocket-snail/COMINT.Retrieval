@@ -1,8 +1,0 @@
-theory of electromagnetic resonators of almost conical
-    shape a mathematical investigation is carried out of
-    oscillations in a resonator formed by a spheroid and a confocal
-    two sheet hyperboloid for the case of a small ratio between the
-    focal distance and the wave length perturbation theory is
-    modified to take into account the large deviation of the field
-    from that in a resonator formed by a sphere and two coaxial
-    cones

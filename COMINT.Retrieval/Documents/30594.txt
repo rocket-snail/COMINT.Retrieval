@@ -1,6 +1,0 @@
-millimicrosecond pulse generator capable of million
-    pulses per second the generator has a repetition rate of up to
-    sec pulse rise time less than and pulse widths from to the
-    negative output pulse is adjustable over a range of to into a
-    load there are facilities for gating single pulses and
-    triggering from an outside source

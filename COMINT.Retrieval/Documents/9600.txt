@@ -1,4 +1,0 @@
-earth oblateness in terms of satellite orbital periods an
-    equation relating the earths oblateness to the anomalistic and
-    nodical periods and orbit parameters of a satellite is
-    given

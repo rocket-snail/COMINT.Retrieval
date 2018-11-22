@@ -1,5 +1,0 @@
-the influence of the conductivity of the surrounding
-    medium on the input impedance of a current loop using focks
-    solution for the field of a low frequency current element lying
-    on the surface of a conducting medium the input impedance of a
-    current loop is calculated by the method of induced emfs

@@ -1,5 +1,0 @@
-thermoelectric generator description of a paraffin lamp
-    driven generator for use with battery type receivers the
-    outputs are for the vibrator ht unit and for heaters tapping is
-    also provided as being more efficient than pure metal thermd
-    semiconductor type thermoelements are mentiono couples

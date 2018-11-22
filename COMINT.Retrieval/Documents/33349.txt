@@ -1,5 +1,0 @@
-scale height determinations and auroras the method
-    hitherto used for determining scale heights from auroral
-    luminosity curves is shown to be invalid the possibility of
-    protons being responsible for the production of aurorae is
-    considered

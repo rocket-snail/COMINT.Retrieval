@@ -1,6 +1,0 @@
-cataloguing and transliteration of indic literature.
-    briefly discusses problems in the cataloguing of names in
-    indian language materials and suggests how to maintain
-    consistency. lists elements which may and may not be used as
-    entry elements. transliteration is used so that staff can
-    handle these languages and for computerisation.

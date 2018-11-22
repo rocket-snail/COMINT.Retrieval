@@ -1,6 +1,0 @@
-rc active filters a type of filter is described in which
-    the active element is a negative impedance converter using
-    transistors of the number of capacitors required is only equal
-    to the total number of reactance elements in the corresponding
-    lc filter theory is given and tests on low pass high pass and
-    band pass filters are reported

@@ -1,5 +1,0 @@
-the zeeman effect in ammonia microwave spectra the zeeman
-    effect was investigated experimentally using magnetic fields up
-    to oersted results indicate that the line shows a change from
-    the zeeman effect to the paschen back effect at field strengths
-    near oersted

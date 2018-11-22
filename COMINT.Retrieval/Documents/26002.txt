@@ -1,7 +1,0 @@
-doppler shifted radio echoes from aurora note on the
-    results of an experiment in which alternate pulsed and cw
-    signals at were transmitted northward from a transmitter
-    signals recorded at a receiver miles away with aerial beamed
-    north showed a doppler frequency shift upward or downward
-    correlating respectively with homogeneous and rayed structure
-    both shifts may be recorded simultaneously

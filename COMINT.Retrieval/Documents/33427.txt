@@ -1,6 +1,0 @@
-contribution to the study of parametric amplifiers an
-    analysis of parametric amplifier operation in terms of feedback
-    loops expressions are derived for the insertion gain noise
-    temperature and bandwidth of different two and three frequency
-    arrangements which can be generalized for a four frequency
-    system

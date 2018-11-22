@@ -1,7 +1,0 @@
-euronet-diane' how to achieve further harmonization.
-    based upon the experience gained through operation of
-    euronet-diane, describes the different harmonisation efforts
-    undertaken and proposed in order to make euronet-diane look
-    like one system to the user. it describes various proposals put
-    forward, both on the technical and on the administrative side,
-    and how far these have been accepted and implemented.

@@ -1,4 +1,0 @@
-the three level gas maser as a microwave spectrometer a
-    method of microwave spectroscopy using three level maser action
-    is described and results of experiments on hdco are discussed
-    in relation to theory

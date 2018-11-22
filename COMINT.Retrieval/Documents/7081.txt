@@ -1,5 +1,0 @@
-gain saturation in a travelling wave parametric amplifier
-    there is a periodic transfer of power along the line between
-    signal idler and pump frequencies see of the resultant
-    reduction in gain with increase of signal strength is shown
-    graphically

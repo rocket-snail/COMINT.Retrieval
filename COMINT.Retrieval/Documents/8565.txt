@@ -1,2 +1,0 @@
-velocity of propagation of electromagnetic waves at audio
-    frequencies

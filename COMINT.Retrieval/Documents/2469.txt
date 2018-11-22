@@ -1,5 +1,0 @@
-investigation of horizontal drifts in the e region of the
-    ionosphere in relation to random fading of radio waves
-    measurements of e region wind velocities v and frequency of
-    fading n were made at and the linear relation which is in
-    agreement with theory is deduced

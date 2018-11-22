@@ -1,9 +1,0 @@
-design specification of the barr smith library on-line
-    bibliographic system (biblion). describes the objectives and
-    presents a systems overview of biblion-the on-line
-    bibliographic system of the barr smith library of the
-    university of adelaide. discusses' the location of
-    bibliographic and holdings information; local australian
-    bibliographic network refresher tape input; the recording of
-    detailed holdings; information retrieval; system limitation;
-    and performance and support requirements.

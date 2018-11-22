@@ -1,7 +1,0 @@
-the control of self maintained discharge currents by
-    illumination of the cathode the discharge characteristics of
-    neon filled and photocells illuminated with a hg discharge lamp
-    were obtained experimentally the magnitude of the controllable
-    current in the townsend discharge space depends on the
-    illumination of the cathode the driving potential applied and
-    the value of the stabilizing resistance used

@@ -1,3 +1,0 @@
-adaptive numerical integration by simpson's rule
-    (algorithm 145) april, 1963 mckeeman, w. m. ca630419 jb march
-    14, 1978 11:49 am

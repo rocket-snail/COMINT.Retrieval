@@ -1,4 +1,0 @@
-absorption of microwaves in gases absorption coefficients
-    in the cm waveband were determined for ammonia ethyl alcohol
-    and acetaldehyde at a pressure of mm hg and for methyl iodide
-    and acetone at cm hg and cm hg respectively

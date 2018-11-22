@@ -1,4 +1,0 @@
-the propagation of electromagnetic waves along a conical
-    helix with variable pitch theoretical analysis expressions are
-    derived for the reflection coefficient which may be practically
-    zero and for the impedance characteristics

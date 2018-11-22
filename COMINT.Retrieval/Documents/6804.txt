@@ -1,5 +1,0 @@
-simulation of nonlinear field problems some three
-    dimensional problems can be solved by using a resistance
-    network in conjunction with a single ac amplifier a function
-    generator a scanning switch and a number of simple analogue
-    storage units

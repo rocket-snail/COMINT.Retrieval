@@ -1,3 +1,0 @@
-an rf source of heater power for low level audio
-    frequency amplifiers details are given of a simple and compact
-    oscillator having a rated output of at

@@ -1,4 +1,0 @@
-library services in the bank of norway. describes the
-    library services of the bank of norway, with details of
-    staffing, stock, organisation and the effects of new technology
-    on the services.

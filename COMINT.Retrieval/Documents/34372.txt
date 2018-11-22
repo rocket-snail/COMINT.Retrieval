@@ -1,4 +1,0 @@
-approximate calculation of bistable switching circuits
-    using junction transistors case of switching circuits with
-    common emitter resistance application of the method described
-    earlier for the case of double bias operation january

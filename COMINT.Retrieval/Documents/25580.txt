@@ -1,6 +1,0 @@
-double modulation system for narrowing electron resonance
-    absorption lines a method for observing electron resonance
-    absorption on an oscilloscope screen by modulating both the
-    magnetic field and the klystron frequency the apparent line
-    width can be reduced by a factor of relative to the true line
-    width

@@ -1,6 +1,0 @@
-rectifier modulators stray capacitances in modulators of
-    nominally purely resistive type always increase the conversion
-    loss sets of experimental results and a normalization procedure
-    are discussed the circumstances in which it is desirable to
-    tune out the stray capacitances by means of inductances are
-    assessed

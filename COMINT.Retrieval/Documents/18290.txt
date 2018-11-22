@@ -1,5 +1,0 @@
-the motion of irregularities in the ionosphere the mean
-    velocity of irregularities in electron density is determined
-    using simple turbulence theory the irregularities move with the
-    same velocity as the winds in the e region but there is a
-    marked difference from wind velocity in the f region

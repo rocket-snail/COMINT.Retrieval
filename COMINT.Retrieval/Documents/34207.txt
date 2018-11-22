@@ -1,9 +1,0 @@
-winds in the ionospheric regions a model for the region
-    between and height is constructed from considerations of the
-    temperature gradients and the observed wind velocities
-    according to this model the wind is south west in the e and f
-    regions and north east or east in the f region its velocity
-    increases from at km to at there is a seasonal variation in the
-    magnitude of the velocity but the model does not involve any
-    diurnal or seasonal changes of direction such as have been
-    reported by observers

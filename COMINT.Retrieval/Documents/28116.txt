@@ -1,7 +1,0 @@
-energy losses of charged particles due to excitation of
-    platma oscillations a kinetic equation is derived describing
-    the interaction between beam elements and plasma under
-    equilibrium conditions for non equilibrium conditions a
-    nonlinear theory of plasma oscillations excited by an electron
-    beam is developed and results are applied to account for the
-    rapid energy transfer from the beam

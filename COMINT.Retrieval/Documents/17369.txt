@@ -1,6 +1,0 @@
-the theory of the anomalous skin effect in metals
-    information concerning the fermi surface obtained from
-    measurements of surface impedance in the region of the
-    anomalous skin effect does not depend on whether the conduction
-    electrons are considered as a gas or as a degenerate
-    fluid

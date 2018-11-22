@@ -1,6 +1,0 @@
-effect of electron exchange on the dispersion relation of
-    plasma oscillations the dispersion relation is derived from a
-    canonical transformation slightly different from that of bohm
-    and pines a correction factor is introduced for electron
-    exchange effects but agreement between theory and experiment is
-    not thereby improved

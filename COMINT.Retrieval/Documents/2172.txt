@@ -1,3 +1,0 @@
-high speed magnetic amplifiers an alternative arrangement
-    using a junction transistor for coupling a junction transistor
-    for coupling is described

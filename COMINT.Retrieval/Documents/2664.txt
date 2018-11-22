@@ -1,8 +1,0 @@
-transformer analogue network analysers the use of voltage
-    transformers as multipliers for complex quantities is explained
-    a network analyser is described comprising a measuring section
-    and a number of identical panels each with two multiplying
-    units these panels can be used to represent impedances
-    admittances etc negative resistance and unilateral mutual
-    inductance can easily be represented applications discussed
-    include the solution of linear simultaneous equations

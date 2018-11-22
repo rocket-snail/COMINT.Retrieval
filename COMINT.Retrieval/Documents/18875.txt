@@ -1,5 +1,0 @@
-ferromagnetic coupling between crossing coils discussion
-    of the operation of devices comprising a toroidal and a
-    solenoidal coil wound on a common cylindrical saturated
-    ferromagnetic core gating coincidence and signal storage
-    applications are mentioned

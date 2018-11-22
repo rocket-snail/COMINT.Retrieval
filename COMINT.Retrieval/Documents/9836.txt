@@ -1,4 +1,0 @@
-noise in oscillators effects of white noise of thermal of
-    electronic origin on the initiation of oscillations and on
-    perturbations in amplitude and phase of sustained oscillations
-    are analysed

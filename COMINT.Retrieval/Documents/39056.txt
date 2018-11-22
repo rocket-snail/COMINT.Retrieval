@@ -1,4 +1,0 @@
-steady component of the interplanetary magnetic field
-    pioneer v satellite magnetometer measurements suggest the
-    existence of a galactic interstellar field which is uniform
-    over the solar system

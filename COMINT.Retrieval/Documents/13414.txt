@@ -1,3 +1,0 @@
-a collective description of electron interactions part
-    coulomb interactions in a degenerate electron gas part of
-    april

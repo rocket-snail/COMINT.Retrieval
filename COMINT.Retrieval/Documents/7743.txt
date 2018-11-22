@@ -1,6 +1,0 @@
-statistical theory of kinetic phenomena general
-    expressions are derived for kinetic coefficients which are used
-    to obtain approximate formulae for the case of weak electron
-    phonon inter action the derived formulae are used for
-    investigating the thermoconductivity and thermo e m f of
-    semiconductors

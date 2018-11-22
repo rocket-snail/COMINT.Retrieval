@@ -1,6 +1,0 @@
-modern ionosphere sounding equipment of the netherlands
-    ptt full description with block diagrams of a pulse equipment
-    for the range pulse duration is adjustable from to repetition
-    frequency is sec a complete frequency sweep can be made in
-    either or sec two cr tubes in parallel provide monitoring and
-    photographic facilities

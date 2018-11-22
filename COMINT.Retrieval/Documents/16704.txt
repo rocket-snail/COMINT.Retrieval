@@ -1,7 +1,0 @@
-effect of random inhomogeneities on electrical and
-    galvanomagnetic measurements a theoretical treatment is given
-    in which the scale of inhomogeneities is supposed small
-    compared with the specimen size but large compared with the
-    mean free path and debye length comparison with exactly soluble
-    cases shows the derived formulae to e valid for sizable
-    fluctuations

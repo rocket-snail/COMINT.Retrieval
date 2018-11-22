@@ -1,8 +1,0 @@
-the noise and gain properties of molecular and parametric
-    amplifiers analysis is sufficiently general to include both
-    types of amplifier as special cases the concepts of negative
-    noise temperature and negative quality factor are introduced by
-    analysing the energy exchange between a general sample of
-    masser and a quantized cavity field the three level maser of
-    bloembergen and the ferrimagnetic amplifier of suhl are
-    discussed in some detail

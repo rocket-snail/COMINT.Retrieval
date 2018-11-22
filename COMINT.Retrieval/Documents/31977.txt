@@ -1,4 +1,0 @@
-investigations on harmonic frequency dividers to
-    determine the prerequisite conditions for achieving high
-    division ratios and large locking ranges at high
-    frequencies

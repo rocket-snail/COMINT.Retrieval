@@ -1,4 +1,0 @@
-production of direct voltages in a rarefied gas tube
-    excited by a high frequency electric field an investigation of
-    the influence of the coil position and hf excitation voltage on
-    the direction of current flow through the discharge tube

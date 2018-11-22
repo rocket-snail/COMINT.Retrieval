@@ -1,3 +1,0 @@
-cathode follower for a dc reference level describes the
-    use of a cathode follower to provide a variable reference
-    voltage source with a low output impedance

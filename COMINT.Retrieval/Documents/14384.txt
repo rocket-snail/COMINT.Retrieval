@@ -1,6 +1,0 @@
-the random occurrence of meteors in the upper atmosphere
-    the distribution of time intervals between bursts of signals
-    over a path was studied statistically using data obtained in
-    two periods of two hours and bursts respectively results were
-    consistent with forward scattering from meteor trails produced
-    by random entry of meteors into the atmosphere

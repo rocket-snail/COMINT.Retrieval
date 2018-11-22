@@ -1,5 +1,0 @@
-thermal noise in dissipative media to account for the
-    spontaneous thermal fluctuations in a general dissipative
-    medium a current source term is introduced into maxwells
-    equations the results are applicable to nonuniform media and to
-    media at nonuniform temperatures

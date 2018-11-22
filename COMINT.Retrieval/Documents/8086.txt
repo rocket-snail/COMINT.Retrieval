@@ -1,3 +1,0 @@
-reducing interference in ionospheric sounding a special
-    circuit is described for separating the desired pulses from
-    interfering cw signals

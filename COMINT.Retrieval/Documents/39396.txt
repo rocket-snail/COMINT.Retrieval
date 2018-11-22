@@ -1,4 +1,0 @@
-diffraction of electromagnetic waves at a paraboloidal
-    screen of finite dimensions axially symmetric fields
-    theoretical treatment of diffraction at a thin ideally
-    conducting paraboloidal segment

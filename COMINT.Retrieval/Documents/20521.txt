@@ -1,4 +1,0 @@
-temperature stable transistor circuit based on the half
-    supply voltage principle the principle is applied to the design
-    of a transformerless af output stage and is used in each stage
-    of a six transistor superheterodyne receiver see of

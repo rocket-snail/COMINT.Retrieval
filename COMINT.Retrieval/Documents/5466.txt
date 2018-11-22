@@ -1,4 +1,0 @@
-low noise amplifier description of a parametric amplifier
-    using a variable capacitance in the form of a diffused base si
-    diode with an active area in diameter advantages and
-    applications of such amplifiers are discussed

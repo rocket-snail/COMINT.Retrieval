@@ -1,3 +1,0 @@
-supersonic delay line memory device for parametron signal
-    results obtained with an experimental brass wire delay line are
-    given suitable coupling circuits are shown

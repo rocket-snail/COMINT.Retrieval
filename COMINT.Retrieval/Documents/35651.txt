@@ -1,5 +1,0 @@
-electronic line storage device for the compression of the
-    frequency band of periodically recurring signals particularly
-    of radar displays the operation of a c r tube line storage
-    system is discussed equipment is described for measuring the
-    integrating characteristics of such storage devices

@@ -1,6 +1,0 @@
-approximate calculations of the diffraction of plane
-    electromagnetic waves by some metallic bodies part a new
-    approximate method of calculation is described which is
-    applicable to the diffraction of em waves by wedges or strips
-    the method applies to wavelengths much smaller than the linear
-    dimensions of the diffracting body

@@ -1,2 +1,0 @@
-an amplitude stabilized transistor oscillator correction
-    to paper abstracted in

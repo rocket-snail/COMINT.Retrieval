@@ -1,3 +1,0 @@
-single ended amplifiers for class b operation a
-    transistorized high fidelity push pull amplifier is described
-    in detail

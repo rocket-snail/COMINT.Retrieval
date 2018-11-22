@@ -1,5 +1,0 @@
-design of toroidal coils with ferrite cores operating in
-    the audio frequency range a method of determining the optimum
-    relation between core dimensions is outlined this gives the
-    minimum coil size for a given q factor or the maximum q factor
-    for a given size

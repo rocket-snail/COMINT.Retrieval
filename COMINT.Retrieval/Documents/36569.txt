@@ -1,8 +1,0 @@
-nonsaturating pulse circuits using two junction
-    transistors junction transistors are found to be fast enough
-    for pulse applications if the collector voltage is prevented
-    from reaching zero switching times can be achieved with
-    available types the required limiting action is effected by
-    introducing diodes which terminate the switching transients by
-    their breakdown a two transistor binary counter is
-    described

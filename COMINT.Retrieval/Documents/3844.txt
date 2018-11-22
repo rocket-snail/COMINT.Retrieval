@@ -1,3 +1,0 @@
-cosmic noise measurements from at noise field strengths
-    are given as measured in the satellite for positions in both
-    hemispheres

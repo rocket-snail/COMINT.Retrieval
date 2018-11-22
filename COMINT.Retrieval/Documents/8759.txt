@@ -1,3 +1,0 @@
-the geometrical representation of the parallel and the
-    series reactance as a loss free parabolic quadripole further
-    application of the method described previously

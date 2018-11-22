@@ -1,4 +1,0 @@
-the stability factor and static gain of transistor
-    amplifiers a general method relating the stability factor of
-    disturbances of thermal origin to static gain is
-    described

@@ -1,6 +1,0 @@
-the influence of magnetic impulses on the kinetic energy
-    of electrons analysis is presented showing that magnetic
-    impulses such as those caused by em waves with discontinuities
-    in the magnetic components may produce variation of the kinetic
-    energy of electrons z and may contribute to the destruction of
-    atomic structures

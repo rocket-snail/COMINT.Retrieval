@@ -1,3 +1,0 @@
-on force free magnetic fields the assumption that the
-    lorentz force vanishes in cosmic magnetic fields which occur in
-    regions of low density is discussed

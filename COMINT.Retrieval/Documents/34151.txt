@@ -1,3 +1,0 @@
-negative l and c in solid state masers gives an
-    equivalent circuit for a maser which includes negative l and c
-    components

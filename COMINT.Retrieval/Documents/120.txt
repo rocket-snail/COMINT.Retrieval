@@ -1,4 +1,0 @@
-random number generator using subharmonic oscillators the
-    outputs of two oscillators driven from a common source are
-    combined in a hybrid ring the generator can produce random
-    binary digits at a maximum rate of digits sec

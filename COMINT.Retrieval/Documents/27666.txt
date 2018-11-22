@@ -1,7 +1,0 @@
-the electrical and thermal conductivities of monovalent
-    metals numerical calculations for the case of so sodium using
-    the bardeen formula for the scattering cross section and
-    blackmans value for a longitudinal b debye temperature agree
-    better with observation than do the simple bloch expressions
-    but there still remain discrepancies further x study of the
-    scattering cross section function might remove these

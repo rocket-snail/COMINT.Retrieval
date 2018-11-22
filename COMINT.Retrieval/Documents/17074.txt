@@ -1,7 +1,0 @@
-technology information system review. the technology
-    information system is being developed as part of the
-    transportation systems research program at lawrence livermore
-    national laboratory. the goal of tis is to provide the
-    capability to access, develop, and utilise information needed
-    in the r and d decision-making process and the conduct of
-    resultant r and d projects.

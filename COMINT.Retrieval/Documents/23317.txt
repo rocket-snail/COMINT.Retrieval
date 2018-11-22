@@ -1,5 +1,0 @@
-magnetic decay in a hollow circular cylinder the rate of
-    decay is found t depend on a dimensionless constant which is a
-    function of the inner radius and outer radius of the cylinder
-    numerical values of have been computed for various
-    ratios

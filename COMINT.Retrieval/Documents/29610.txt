@@ -1,6 +1,0 @@
-the tunnel diode superregenerative amplifier the
-    simplicity of the circuitry required and the characteristics of
-    tunnel diodes make superregenerative amplifiers very attractive
-    for applications where high gains are required the noise
-    performance of maser and parametric amplifiers is
-    superior

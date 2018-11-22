@@ -1,5 +1,0 @@
-microwave propagation in hot magneto plasmas the
-    refractive indices for circularly polarized waves propagating
-    along the magnetic field in an ionized gas at high temperature
-    are calculated they are found to depend sensitively on electron
-    density and temperature

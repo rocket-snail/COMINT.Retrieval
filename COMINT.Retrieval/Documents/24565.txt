@@ -1,3 +1,0 @@
-thermistor nomograph chart for finding values of
-    thermistor resistance at given temperature the accuracy is
-    nearly as good as that of a slide rule

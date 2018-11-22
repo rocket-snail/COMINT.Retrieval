@@ -1,5 +1,0 @@
-mechanism of resistance variation in a magnetic field a
-    model with two layers having different resistances and
-    resistivities is proposed to explain the hall effect and the
-    variation of resistance of a material subjected to an electric
-    field

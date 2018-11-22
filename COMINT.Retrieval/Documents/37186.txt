@@ -1,5 +1,0 @@
-effect of small irregularities on the constitutive
-    relations for the ionosphere a theoretical treatment of the
-    modification of refractive index due to small irregularities
-    the latter may play an important part in the propagation of vlf
-    radio waves

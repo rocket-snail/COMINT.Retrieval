@@ -1,6 +1,0 @@
-concerning bookers theory of meteoric reflections the
-    assumption of small scale ionospheric turbulence see of
-    conflicts with many known facts about meteor echoes such as the
-    persistence of aspect sensitivity for as long as ten seconds
-    and the known variation with time of the angular correlation
-    function

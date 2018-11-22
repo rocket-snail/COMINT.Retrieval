@@ -1,3 +1,0 @@
-thin film balanced modulator passive balanced modulator
-    circuits are evolved using single domain permalloy film which
-    is vacuum deposited in a magnetic field

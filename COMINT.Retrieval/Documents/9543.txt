@@ -1,9 +1,0 @@
-a practical method of designing active filters a method
-    for designing filters for the frequency range below about with
-    sharp cut off is based on consideration of five basic variables
-    namely two resistances tow capacitances and the gain from these
-    further practical parameters are derived by taking the products
-    of resistance and capacitance the ratio of resistances and the
-    ratio of capacitances the active elements can in many cases be
-    simple cathode follower circuits design data for a number of
-    different cases are tabulated

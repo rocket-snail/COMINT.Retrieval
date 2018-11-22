@@ -1,3 +1,0 @@
-measurement of plasma temperature and electron density
-    the value of electron density deduced earlier is twice the true
-    value

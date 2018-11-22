@@ -1,5 +1,0 @@
-fractional frequency generation by regenerative
-    modulation the circuit theory is similar to that presented
-    previously for frequency multiplication of an arrangement is
-    described producing six frequencies lower than input as well as
-    others higher than input

@@ -1,5 +1,0 @@
-determination of the angle of arrival of auroral echoes
-    an interference method is used at kjeller to measure the angle
-    of arrival of auroral echoes as varies from to the range
-    increases from to and it is shown that the height of the
-    reflection area must be km

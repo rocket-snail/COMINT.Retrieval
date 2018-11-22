@@ -1,6 +1,0 @@
-a special trigger circuit the bistable transistor circuit
-    with common emitter resistance analysed earlier of has
-    characteristics similar to those of the schmitt multivibrator
-    circuit two variations of the circuit component values are
-    considered corresponding to saturating and nonsaturating
-    conditions

@@ -1,4 +1,0 @@
-physics and applications of secondary electron emission
-    the book cover practically everything of importance and should
-    serve as an admirable guide to workers in all branches of
-    electronics

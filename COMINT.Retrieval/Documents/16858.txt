@@ -1,8 +1,0 @@
-gec contribution to viewdata. a description is given of
-    gec's involvement in research and development work on viewdata,
-    from the early 1970s. the work is considered in sections which
-    describe the development and progress through to the first
-    production stages. it is shown how the different groups were
-    linked together to provide a comprehensive range of viewdata
-    equipment particularly for the post office viewdata system,
-    prestel.

@@ -1,9 +1,0 @@
-synthesis of terminal pair networks to realize a
-    quadripole ladder network comprising only reactive elements and
-    with prescribed transfer function five general conditions must
-    be satisfied these are discussed with particular reference to
-    the synthesis of a ladder network consisting of a number of l
-    sections in cascade all the sections except one comprising only
-    inductors and capacitors a simple method of completely
-    determining the transfer function of such a network is
-    outlined

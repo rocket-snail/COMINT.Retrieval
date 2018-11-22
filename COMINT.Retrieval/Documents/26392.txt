@@ -1,9 +1,0 @@
-the emission polar diagram of the radio frequency
-    radiation from sunspots the variation in received sunspot
-    radiation with solar rotation was determined from a statistical
-    analysis of observations made over a number of years half power
-    widths of the radiation pattern of an average sunspot derived
-    from this analysis are for frequencies respectively results
-    indicate that the lifetime of the radiation sources is shorter
-    for the lower frequencies the lifetime is comparable with that
-    of a visible spot

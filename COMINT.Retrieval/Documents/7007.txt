@@ -1,3 +1,0 @@
-survey of thermistor characteristics characteristics and
-    applications are tabulated for different constructions of the
-    two basic types of thermistor

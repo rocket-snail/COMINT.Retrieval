@@ -1,7 +1,0 @@
-the next decade: what will it mean to libraries?
-    facsimile: the long distance copying machine. outlines the
-    features and capabilities of facsimile transmission equipment
-    and identifies some developments needed to make the equipment's
-    use economic in libraries (flat-bed machines with staff-saving
-    devices, considerable drop in price, and basing of
-    communication costs on use rather than distance).

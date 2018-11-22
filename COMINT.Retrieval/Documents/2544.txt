@@ -1,6 +1,0 @@
-precise frequency control for a rotary converter the
-    royal research ship discovery has been provided with a power
-    supply whose frequency is precise to approximately part in by
-    locking the phase of a small rotary convertor to that of a
-    reference signal derived from a quartz crystal
-    oscillator

@@ -1,5 +1,0 @@
-on the radio emission of hydrogen nebulae random
-    variations in electron density and electron temperature through
-    the nebulae are shown to alter the optical depth radio emission
-    of stromgren spheres is also discussed and an empirical method
-    for determining stromgrens constant is described

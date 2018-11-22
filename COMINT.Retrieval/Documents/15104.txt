@@ -1,6 +1,0 @@
-electron trajectories in a nonuniform axially symmetric
-    magnetic field the equations for motions for electrons in a
-    sinusoidally varying magnetic field have been solved a device
-    for converging a hollow cylindrical electron beam designed and
-    built on the basis of the solutions gave measured area
-    convergences of to

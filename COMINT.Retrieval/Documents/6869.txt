@@ -1,3 +1,0 @@
-electrical protection for transistorized equipment
-    semiconductor diodes are used to limit excessive voltages
-    accidentally placed on telephone circuits

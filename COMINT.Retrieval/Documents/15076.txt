@@ -1,3 +1,0 @@
-nonlinear distortion in the amplitude demodulation of
-    small alternating voltages by means of thermionic and germanium
-    diodes

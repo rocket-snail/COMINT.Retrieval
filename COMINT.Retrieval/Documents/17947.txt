@@ -1,4 +1,0 @@
-australian guided weapons analogue computer brief
-    description of agwac whose design is based on that of the royal
-    aircraft establishment simulator tridac the equipment is built
-    up of plug in units bricks

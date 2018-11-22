@@ -1,4 +1,0 @@
-thermodynamic consideration of electromagnetic cavity
-    resonators a simple method is presented for calculating the
-    shift of resonance frequency produced by introducing a foreign
-    body into the cavity

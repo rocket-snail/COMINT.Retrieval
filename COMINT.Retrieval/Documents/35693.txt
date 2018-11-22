@@ -1,8 +1,0 @@
-an overmodulation effect in negative feedback valve
-    amplifiers if the final stage of a multistage rc coupled
-    feedback amplifier is driven into grid current through over
-    loading there is a difference between the input levels at which
-    grid current sets in and that at which it ceases the distortion
-    caused by this effect is investigated measures to eliminate it
-    are discussed but are not considered worth undertaking for
-    multichannel carrier systems

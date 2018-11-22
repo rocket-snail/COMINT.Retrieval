@@ -1,8 +1,0 @@
-eitaromcoated spheres in the region of the first
-    resonance calculations based on methods developed previously
-    indicate that a dielectric coated conducting sphere can be made
-    to have a greater scattering cross section than an uncoated
-    conducting sphere of the same overall diameter this was
-    confirmed experimentally using technique described by results
-    of calculations and measurements are shown graphically a
-    physical interpretation is presented

@@ -1,5 +1,0 @@
-the joint use of the ordinary and extraordinary virtual
-    height curves in determining ionospheric layer profiles an
-    extension of buddens matrix method for determining ionospheric
-    layer profiles errors are reduced by using the extraordinary
-    virtual height curve as well as the ordinary curve

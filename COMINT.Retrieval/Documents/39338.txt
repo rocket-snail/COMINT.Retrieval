@@ -1,5 +1,0 @@
-multitapped potentiometers as accurate linear transducers
-    a method is given for calculating the su shunt resistance
-    values required to compensate t for the load error which
-    enables the potentiometer resistance the minimum input
-    resistance and the load to be independently specified

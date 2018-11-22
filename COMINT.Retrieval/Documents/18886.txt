@@ -1,8 +1,0 @@
-electronic integrator with immediate digital output
-    details are given of a technique for obtaining an instantaneous
-    numerical value proportional to the area of a recurring voltage
-    transient the basic principle is to summate the pulses from a
-    generator whose repetition rate is a linear function of the
-    instantaneous input voltage the system has a high order of
-    linearity approximately and is used for roughly triangular
-    pulses of duration

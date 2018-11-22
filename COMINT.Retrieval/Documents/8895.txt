@@ -1,4 +1,0 @@
-charged particle trajectories in static electric and
-    magnetic fields relative expressions are derived for the
-    curvature and torsion of a trajectory in terms of electric and
-    magnetic field distributions

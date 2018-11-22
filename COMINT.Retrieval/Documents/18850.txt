@@ -1,6 +1,0 @@
-fundamentals of digital computer programming the process
-    of programming is explained in relation to a typical but
-    simplified stored programme computer using basic instructions
-    elementary arithmetical and logical computation are illustrated
-    the ability of the computer to modify its own programme is
-    demonstrated

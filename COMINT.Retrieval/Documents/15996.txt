@@ -1,9 +1,0 @@
-some gyrator and impedance inverter circuits the design
-    of feedback amplifiers to provide impedance inversion is
-    considered negative impedance elements may be included to
-    compensate for the residual impedances in the inverter when
-    this is done the circuit exhibits gyrator properties
-    measurements on a high stability amplifier with a series
-    resistance of in the input lead indicated that accurate
-    impedance inversion was obtained for load resistances from
-    to

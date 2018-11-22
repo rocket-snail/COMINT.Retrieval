@@ -1,4 +1,0 @@
-printed resistors preparation of resistors by injection
-    moulding is described the effect of ink composition and the
-    printing and curing processes on the resistor characteristics
-    are described

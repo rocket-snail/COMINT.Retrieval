@@ -1,6 +1,0 @@
-radio frequency emission from cosmic ray electrons theory
-    developed by schwinger is used for the quantitative
-    investigation of the intensity and spectral distribution of rf
-    radiation from cosmic ray electrons in interstellar magnetic
-    fields an upper limit is deduced for the density of an electron
-    component of the cosmic radiation

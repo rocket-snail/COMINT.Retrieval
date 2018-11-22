@@ -1,5 +1,0 @@
-a new transducer diagram a diagram is presented in which
-    a loss free quadripole is completely represented by two
-    straight lines and a point the method is based on projective
-    geometry and gives a visual as well as a numerical presentation
-    of the impedance transformation effected by the network

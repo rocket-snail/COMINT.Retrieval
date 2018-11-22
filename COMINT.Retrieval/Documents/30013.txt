@@ -1,3 +1,0 @@
-dielectric constant of a dense electron gas theoretical
-    investigation of dispersion and absorption of em waves in a
-    dense electron gas

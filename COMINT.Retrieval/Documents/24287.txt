@@ -1,8 +1,0 @@
-criteria determing the design and performance of a source
-    modulated microwave cavity spectrometer an analysis is given of
-    the radio and audio frequency modulation method employed in
-    microwave spectroscopy the results of the theory are compared
-    with measurements taken on a microwave spectrometer and are
-    found to be in close agreement the calculations are extended to
-    include the case where an absorbing gas is enclosed in a
-    resonant cavity

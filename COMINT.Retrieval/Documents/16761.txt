@@ -1,4 +1,0 @@
-tuning stability nomograph a chart is given for
-    facilitating calculation of the parallel capacitors required to
-    give an overall temperature coefficient of zero in circuits
-    using inductance tuning

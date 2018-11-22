@@ -1,4 +1,0 @@
-characteristics of ionospheric disturbance during a sever
-    magnetic storm data from ionospheric stations relevant to the
-    storm of are analysed and the salient characteristics
-    explained

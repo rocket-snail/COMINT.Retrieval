@@ -1,9 +1,0 @@
-nonlinear distortion of a random signal application to
-    frequency modulation analysis is based on the instantaneous
-    statistical properties of a random signal the energy spectrum
-    for a given bandwidth being determined from the appropriate
-    correlation functions application of the method is illustrated
-    in the case of fm when propagation time is considered since the
-    calculation takes account of intermodulation products over a
-    complete frequency band the method has advantages over that
-    based on intermodulation of discrete frequencies

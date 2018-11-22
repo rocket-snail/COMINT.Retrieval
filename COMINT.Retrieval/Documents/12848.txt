@@ -1,4 +1,0 @@
-contribution to the theory of transport processes in a
-    plasma located in a magnetic field the mean statistical
-    characteristics such as velocity heat flow and stress tensor
-    are determined

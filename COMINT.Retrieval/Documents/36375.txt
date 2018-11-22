@@ -1,8 +1,0 @@
-modern techniques in periodical publishing (in italian).
-    new technologies affecting periodical publishing are examined,
-    with particular reference to their effects on editorial and
-    production procedures. the technologies discussed include vdu
-    terminals, ocr, phototypesetting with crt terminals, ink jet
-    printing and remote press control. competitive technology and
-    its implications are also discussed with particular reference
-    to teletext, viewdata and facsimile transmission.

@@ -1,4 +1,0 @@
-some augmented cathode follower circuits direct coupled
-    cathode follower circuits with very high input and low output
-    impedance are described suitable for driver stages see of
-    buffer stages and frequency selective amplifiers

@@ -1,6 +1,0 @@
-transistors in current analogue computing a comparison of
-    variable current and variable voltage analogue computing
-    techniques shows that transistors are particularly suitable for
-    the former low power low frequency transistors in direct
-    coupled amplifiers which may be used in computers are
-    described

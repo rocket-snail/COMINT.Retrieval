@@ -1,8 +1,0 @@
-explicit form of f m distortion products with white noise
-    modulation expressions are derived for frequency and amplitude
-    distortion of the output of a network whose phase or amplitude
-    characteristics vary nonlinearly with frequency the evaluation
-    of these expressions using a digital computer is illustrated
-    for the case of fourth order distortion associated with terms
-    in the discriminator amplitude characteristic up to the sixth
-    degree

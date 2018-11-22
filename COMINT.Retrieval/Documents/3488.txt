@@ -1,5 +1,0 @@
-new principle of measurement of ionospheric absorption
-    the mean coefficient o absorption in the region of the
-    ionosphere eb below an artificial satellite may be calculated
-    from measurements of the signal strength of the satellite
-    transmission received on an omnidirectional aerial

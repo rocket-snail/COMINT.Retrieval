@@ -1,8 +1,0 @@
-negative feedback tone control the circuit described
-    provides independent control of bass and treble response
-    without switching the rc arrangement on each side of a bass
-    control potentiometer is made symmetrical so that it may be
-    combined in the feedback line with a treble control circuit the
-    potentiometer of which has an earthed centre tap at medium and
-    high frequencies p is effectively shorted with both
-    potentiometers at a middle setting response is level

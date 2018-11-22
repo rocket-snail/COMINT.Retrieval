@@ -1,4 +1,0 @@
-the design of transistor push pull d c converters the
-    circuit least affected by external influences is a square wave
-    oscillator controlled by a saturating transformer design
-    formulae are given

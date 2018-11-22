@@ -1,6 +1,0 @@
-photochemical rates in the equatorial f region from the
-    eclipse it is deduced tiat temperature changes and transport of
-    electrons were probably negligible during the eclipse formulae
-    are given for the rate of photoionization and the linear
-    recombination coefficient as a function of height and the total
-    rate of absorption of energy in the f region is deduced

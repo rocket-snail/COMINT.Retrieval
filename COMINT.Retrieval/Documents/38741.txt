@@ -1,4 +1,0 @@
-on the relation between zener breakdown and residual
-    resistance in crystals the theory of zener breakdown in
-    crystals is extended to the case of very strong electric
-    fields

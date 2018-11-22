@@ -1,6 +1,0 @@
-the uniqueness of the solutions in the rigorous theory of
-    diffraction the solutions previously given by honl of not only
-    satisfy the usual conditions but also meet the requirement that
-    no subsidiary wave fields be radiated from the edges of the
-    aperture so that the uniqueness of the solutions is
-    established

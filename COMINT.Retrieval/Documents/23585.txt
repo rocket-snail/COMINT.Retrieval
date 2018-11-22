@@ -1,4 +1,0 @@
-designing stable triode microwave oscillators two circuit
-    constructional arrangements are described using a planar triode
-    type and suitable respectively for operation at frequencies of
-    and

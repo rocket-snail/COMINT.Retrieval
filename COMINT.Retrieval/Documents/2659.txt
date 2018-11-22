@@ -1,7 +1,0 @@
-harmonic cancellation from computing voltage source in
-    servo analogue computers analysis showing how harmonics of the
-    carrier can be cancelled out in the summing network of the
-    servo amplifier by injecting appropriate harmonic signals into
-    the quadrature rejection circuit the analysis is valid for very
-    small phase shift the system is advantageous when harmonics
-    cannot be sufficiently attenuated by filters

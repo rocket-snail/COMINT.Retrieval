@@ -1,9 +1,0 @@
-the possibility of electron total energy distribution
-    analysis in a quasi spherical capacitor the energy distribution
-    of electrons emitted at various angles from a plane disk shaped
-    target at the centre of a spherical collector is determined
-    from an analysis of electron trajectories the discrepancy
-    between these and those for a spherical capacitor does not
-    exceed one per cent the provision of an aperture in the
-    collector for an electron gun results in a five per cent
-    error

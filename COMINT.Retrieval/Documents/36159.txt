@@ -1,6 +1,0 @@
-a stable source of high voltage a voltage regulator
-    suitable as a voltage reference at about with current up to
-    several milliamperes is described with the temperature
-    controlled to within the e output is stable to within part in
-    over hours effects of varying magnetic fields gauss are
-    negligible

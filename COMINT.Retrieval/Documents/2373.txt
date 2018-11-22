@@ -1,6 +1,0 @@
-an electromechanical ac line voltage stabilizer
-    description of a stabilizing unit having a short recovery time
-    comparing favourably with that of commercial electronic devices
-    a temperature limited diode in a bridge circuit is used to
-    detect the line voltage variations and is followed by a phase
-    inverter and a thyratron driving circuit

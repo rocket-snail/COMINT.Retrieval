@@ -1,6 +1,0 @@
-natural frequencies of coils and windings digest only
-    calculations for an equivalent circuit consisting of reactors
-    only were made using punched card equipment an ac network
-    analyser the effect of neglecting the mutual inductance between
-    elements partly or completely is shown graphically very close
-    agreement with measured natural frequencies was obtained

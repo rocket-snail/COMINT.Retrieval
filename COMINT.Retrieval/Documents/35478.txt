@@ -1,7 +1,0 @@
-a magnetic amplifier silicon transistor power supply for
-    missile application a detailed description of a power supply
-    system producing seven regulated direct voltages and two r m s
-    regulated alternating voltages a magnetic amplifier is
-    incorporated in each channel for regulation and al direct
-    voltages are derived from the same h f transistor
-    inverter

@@ -1,3 +1,0 @@
-a formal system for information retrieval from files
-    april, 1970 hsiao, d. harary, f. ca700414 jb february 13, 1978
-    2:37 pm

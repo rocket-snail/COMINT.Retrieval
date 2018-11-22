@@ -1,4 +1,0 @@
-a new high speed bistable device for pulse sharpening
-    description of a triode hexode flip flop circuit of generating
-    pulses sec and its application in switching and scaling
-    circuits

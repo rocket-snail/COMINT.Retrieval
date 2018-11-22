@@ -1,2 +1,0 @@
-synthesis of the transfer function of terminal pair
-    networks

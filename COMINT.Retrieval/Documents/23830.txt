@@ -1,4 +1,0 @@
-thermionic emission from spherical metallic particles the
-    build up of positive charge on a particle due to loss of
-    electrons in the absence of space charge is predicted
-    quantitatively

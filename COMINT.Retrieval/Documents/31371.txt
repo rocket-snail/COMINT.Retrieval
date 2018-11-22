@@ -1,7 +1,0 @@
-maser amplifier characteristics for transmission and
-    reflection cavities the noise temperature bandwidth and gain
-    modulation for transmission and reflection type masers are
-    compared the latter type is superior in most respects although
-    the same noise temperature may be obtained with the
-    transmission type with some sacrifice in bandwidth and gain
-    modulation a figure of merit for both types is given

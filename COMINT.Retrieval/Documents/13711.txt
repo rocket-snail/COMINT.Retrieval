@@ -1,8 +1,0 @@
-the parallel t resistance capacitance network analysis is
-    given for the general case of finite source and load
-    resistances when these two resistances are appropriately
-    related the network loss is the same at low and high
-    frequencies the transfer characteristic is then a circle in the
-    complex plane this symmetrical networks is equivalent to a
-    simple series resonant circuit as regards its transfer
-    characteristic

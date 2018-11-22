@@ -1,6 +1,0 @@
-rules of similitude for magnetic amplifier systems rules
-    are established which enable the properties of magnetic
-    amplifier systems to be deduced from the results of suitable
-    tests on a model the amplifier or analogue computer the method
-    covers cases in which model and prototype have different core
-    materials and different circuits

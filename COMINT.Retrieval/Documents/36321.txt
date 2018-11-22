@@ -1,6 +1,0 @@
-low noise parametric amplifier the n ise temperature and
-    pump power xsing a semiconductor diode can be accurately
-    predicted from a measurement of the diode and circuit
-    parameters the ultimate lower noise limit depends on the
-    product of diode cut off frequency and the normalized
-    capacitance swing

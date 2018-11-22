@@ -1,3 +1,0 @@
-the relation between time and frequency functions with
-    practical examples of the calculation of the transient response
-    of linear transmission systems

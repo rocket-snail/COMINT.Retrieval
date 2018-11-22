@@ -1,4 +1,0 @@
-circuit applications of field effect transistors
-    applications of photosensitive cds transistors in sawtooth
-    generators amplifiers and phase shift oscillators are
-    described

@@ -1,5 +1,0 @@
-indicator triode for direct data read out the triode
-    combines amplifier and indicator in one envelope a triode and
-    transistor bistable circuit is described with a required input
-    trigger level and also a shift register in which these circuits
-    are cascaded

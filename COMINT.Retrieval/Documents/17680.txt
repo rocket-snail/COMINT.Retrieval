@@ -1,6 +1,0 @@
-high gain transistor amplifier the advantages of
-    transistors over valves as low level high gain amplifiers with
-    low noise properties are discussed and illustrated by a
-    commercial application in a gramophone pre amplifiers in which
-    a single transistor stage takes the place of two or more valve
-    stages

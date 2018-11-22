@@ -1,5 +1,0 @@
-electrodynamical acceleration of plasma bunches a method
-    is described of generating a gas discharge plasma by the
-    electric explosion of a mm diameter copper wire in a discharge
-    chamber evacuated to mm hg a capacitor is used with initial
-    voltage

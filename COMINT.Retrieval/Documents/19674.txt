@@ -1,4 +1,0 @@
-generalization of the nyquist diagram method for
-    nonlinear systems methods previously explained of june are
-    generalized to o cover the case of oscillations represented by
-    a nonlinear differential equation of any order

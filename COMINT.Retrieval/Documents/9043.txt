@@ -1,5 +1,0 @@
-feedback in junction transistor circuits series and
-    parallel feedback circuits for a single stage are reduced to a
-    four parameter equivalent circuit for analysis cascaded
-    transistor stages reduced in a similar manner result in either
-    mesh or nodal derived equivalent circuits

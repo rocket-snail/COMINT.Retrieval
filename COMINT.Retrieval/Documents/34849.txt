@@ -1,4 +1,0 @@
-interconnection of electronic computers brief account of
-    experiments on the joint operation of the and machines on
-    business data processing work the former machine transmits
-    control signals to the latter via a cable

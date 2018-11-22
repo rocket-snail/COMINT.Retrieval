@@ -1,9 +1,0 @@
-electron emission resulting from the impact of ions on
-    molybdenum and carbon targets experiments were made using
-    normally incident polyatomic ions of energy between and the
-    number and energy distribution of the emitted electrons did not
-    depend on the target material the energy distribution of the
-    electrons was independent of the nature and energy of the
-    incident ions but the number of electrons emitted per ion
-    increased with the energy of the ions and depended on the
-    nature of the ions

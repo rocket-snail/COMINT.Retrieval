@@ -1,7 +1,0 @@
-polar magnetic storms and geomagnetic bays appendix a
-    theory of field an current system deduced from geomagnetic
-    observations is compared with a system calculated on the dynamo
-    theory taking anisotropic conductivity of the ionosphere into
-    account agreement is fairly good conductivity considerations
-    suggest that the s current system is located at a height below
-    km

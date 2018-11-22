@@ -1,5 +1,0 @@
-parametric phase distortionless l band limiter the diode
-    loaded helix as a microwave amplifier application of the
-    sampling function to circuit analysis of modulators and
-    demodulators using diodes takes into account the forward and
-    reverse resistance of the diodes

@@ -1,5 +1,0 @@
-a numerical graphical method for synthesizing switching
-    circuits economical circuit arrangements can be rapidly
-    developed by systematic application of three simple rules to a
-    numerical representation of a boolean function simple examples
-    ar egiven

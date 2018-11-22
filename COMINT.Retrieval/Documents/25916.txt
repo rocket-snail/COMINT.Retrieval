@@ -1,6 +1,0 @@
-the development of an e region model consistent with long
-    wave phase path measurements an electron density model iw
-    evolved by modification of the chapman theory to include the
-    effects of variable scale height dissociation of o and variable
-    recombination the model is checked against phase height data
-    for and and against values

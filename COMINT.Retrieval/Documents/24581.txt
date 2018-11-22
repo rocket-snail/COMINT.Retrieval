@@ -1,4 +1,0 @@
-thermo and galvano magnetic effects in strong fields at
-    low temperatures thermoelectric force resistance and hall
-    effect of a metal in a magnetic field at low temperatures are
-    calculated using a two zone model of the metal

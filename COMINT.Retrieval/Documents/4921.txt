@@ -1,2 +1,0 @@
-conformal mapping for filter transfer function synthesis
-    correction to paper abstracted in of february

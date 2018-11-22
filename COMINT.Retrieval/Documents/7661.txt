@@ -1,6 +1,0 @@
-ringing amplifier a circuit for amplifying pulses by in a
-    radar transponder is described damped oscillations produced by
-    the transient response of a tuned circuit are amplified and the
-    second half cycle selected to trigger the transponder the unit
-    is of small size and has a low power consumption and a fixed
-    internal delay of

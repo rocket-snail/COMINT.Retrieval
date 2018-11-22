@@ -1,4 +1,0 @@
-cosmic ray intensity in interplanetary space cosmic ray
-    intensity has been calculated as a function of distance from
-    the sun in the region between the orbits of mars ane
-    venus

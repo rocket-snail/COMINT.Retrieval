@@ -1,7 +1,0 @@
-variation with electron energy of the collision cross
-    section of helium for slow electrons continuation of previous
-    work on the interaction of microwaves in gas discharge plasmas
-    momentum transfer between atoms and electrons with energies
-    between and is investigated the electron density being not less
-    than about experimental results appear to indicate a slight
-    variation of momentum transfer with electron energy

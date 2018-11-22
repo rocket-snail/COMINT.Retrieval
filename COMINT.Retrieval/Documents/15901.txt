@@ -1,8 +1,0 @@
-interaction of electromagnetic waves of radio frequency
-    in isothermal plasmas collision cross section of helium atoms
-    and ions for electrons theoretical and practical aspects of the
-    laboratory experiments described previously are discussed and
-    results of measurements using he gas are presented the ratio of
-    the effective cross sections of ions and atoms for electron
-    collisions is about at an ion density of at room
-    temperature

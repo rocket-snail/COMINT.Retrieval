@@ -1,8 +1,0 @@
-the variation with distance in the range km of
-    atmospheric waveforms records of the electric field variation
-    of a violent thunderstorm made at distances of are analysed
-    over portion which cov large and rapid increase in field
-    strength corresponding t to the return stroke of the lightning
-    discharge theoretical and experimental results for the waveform
-    the ratio of the maximum es field to the net es change and the
-    current in the discharge are in fair agreement

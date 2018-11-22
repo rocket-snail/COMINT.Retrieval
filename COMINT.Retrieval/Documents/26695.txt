@@ -1,4 +1,0 @@
-an approximate treatment of cascaded four terminal
-    networks an approximate expressions is derived for the nth
-    power of a matrix the result is used in an approximate
-    treatment of a ladder network used as a filter

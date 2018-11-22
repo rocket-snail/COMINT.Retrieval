@@ -1,3 +1,0 @@
-quartz delay lines the state of the art a summary of
-    available information on geometry performance ad applications
-    of ultrasonic delay lines

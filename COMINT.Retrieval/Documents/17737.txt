@@ -1,9 +1,0 @@
-new tables of total mie scattering coefficients for
-    spherical particles of real refractive indexes k the total mie
-    scattering coefficient is defined as the total flux scattered
-    by the particle divided by the flux incident on its cross
-    section the size parameter the theory applies only to a very
-    dilute aerosol of randomly arranged spheres and does not allow
-    for coherence in the field or for multiple scattering has been
-    calculated on an electronic computer for in steps of and for
-    and

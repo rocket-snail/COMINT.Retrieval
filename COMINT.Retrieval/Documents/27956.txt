@@ -1,6 +1,0 @@
-theory of secondary electron cascade in metals a study is
-    made of the diffusion energy loss and multiplication of
-    secondary electrons prior to emission energy distributions
-    consistent with experimental results are derived also values
-    for the uield and the dependence of yield on work
-    function

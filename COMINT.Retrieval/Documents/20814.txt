@@ -1,5 +1,0 @@
-generalization of the appleton hartree magneto ionic
-    formula recent laboratory results show that it is not valid to
-    neglect the effect of the electron velocity distribution
-    function an applicable generalized expression for the complex
-    refractive index is obtained

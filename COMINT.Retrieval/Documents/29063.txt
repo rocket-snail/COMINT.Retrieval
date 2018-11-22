@@ -1,5 +1,0 @@
-stressed ferrites having rectangular hysteresis loops to
-    obtain the rectangular hysteresis loop required in ferrite
-    cores used in switching and storage devices the cores are
-    stressed by encasing them in plastics which shrink during
-    polymerization

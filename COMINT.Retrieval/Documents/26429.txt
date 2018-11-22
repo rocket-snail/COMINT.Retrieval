@@ -1,2 +1,0 @@
-the electron phonon interaction according to the
-    adiabatic approximation

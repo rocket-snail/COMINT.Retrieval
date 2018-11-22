@@ -1,4 +1,0 @@
-miniaturization and quality improvement of circuit parts
-    coils transformers resistors capacitors quartz crystal units
-    and filters developed by the nippon telegraph and telephone
-    public corporation are described and illustrated

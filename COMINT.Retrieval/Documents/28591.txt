@@ -1,6 +1,0 @@
-a general circle diagram for the input admittance of a
-    grounded grid disk seal triode the method given takes account
-    of the transconductance and anode cathode capacitance of the
-    triode the effect of the transconductance phase which depends
-    on the electron transit time is shown in the diagram a
-    numerical example is given see also of november

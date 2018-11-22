@@ -1,4 +1,0 @@
-theory of cyclotron resonance treatment of cyclotron
-    resonance in a metal in an inclined magnetic field and in a
-    parallel magnetic field with arbitrary electron
-    reflection

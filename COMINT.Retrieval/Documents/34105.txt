@@ -1,8 +1,0 @@
-time delay and frequency response of resonant cavities
-    the frequency response and time delay characteristics of
-    resonant cavities are discussed it is found that a signal
-    travelling through a resonant cavity undergoes a time delay
-    dependent on both the cavity q and also the difference between
-    the signa and resonant frequencies the time delay for a
-    frequency modulated wave is calculated and checked
-    experimentally

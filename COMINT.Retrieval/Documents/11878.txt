@@ -1,3 +1,0 @@
-stabilization of current operated transistor switching
-    circuits a method is given for calculating the parameters of
-    simple compensating circuits

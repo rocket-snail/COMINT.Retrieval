@@ -1,3 +1,0 @@
-differentiating and integrating circuits with positive
-    operational feedback a general method of analysis and design is
-    presented and illustrated with a particular circuit

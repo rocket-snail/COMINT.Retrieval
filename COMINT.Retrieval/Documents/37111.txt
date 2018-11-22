@@ -1,7 +1,0 @@
-concerning ionospheric turbulence at the meteoric level a
-    discussion on the application of fluid mechanics to meteoric
-    phenomena is continued with particular reference to a rough
-    trail paradox which concerns the relative turbulent velocities
-    of large and small eddies the paper is mainly concerned with
-    the relative merits of work by booker and cohen and by manning
-    eshleman regarding the explanation of radar echo fading

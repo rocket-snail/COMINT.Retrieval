@@ -1,5 +1,0 @@
-transistor video amplifiers the principles of design of
-    iterated video amplifiers using transistors are discussed in
-    terms of a simplified hybrid equivalent circuit the design and
-    performance of an experimental television video distribution
-    amplifier are described

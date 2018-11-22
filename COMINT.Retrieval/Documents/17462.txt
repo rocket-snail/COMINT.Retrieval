@@ -1,5 +1,0 @@
-production of two temperatures in an ionized gas in a
-    magnetic field if the electrons radiate a considerable part of
-    their energy in a time short compared to the relaxation time of
-    the gas the electronic temperature will differ considerably
-    from the ionic temperature

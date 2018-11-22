@@ -1,2 +1,0 @@
-calculation of the parameters of a quadripole by means of
-    signal flow graphs

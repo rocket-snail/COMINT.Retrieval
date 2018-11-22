@@ -1,5 +1,0 @@
-observed variations in the amplitude scintillations of
-    the cassiopeia radio source observations over a period of four
-    years are analysed daily variations are presented as functions
-    of solar and sidereal time ad the effect of the solar cycle is
-    studied

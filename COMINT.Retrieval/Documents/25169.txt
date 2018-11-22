@@ -1,6 +1,0 @@
-film record-a record sheet for current photography.
-    describes a film record sheet (designed by the author) to be
-    completed by the photographer after the film has been
-    processed. each roll of film is the subject of a record sheet
-    giving details of camera, lens and other technical items,
-    content of photographs, and place.

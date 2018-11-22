@@ -1,3 +1,0 @@
-note on antimetrical lattice filters with successive
-    reactances of alternate sign a simplification of the treatment
-    given by oswald of january

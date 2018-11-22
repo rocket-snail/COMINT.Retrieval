@@ -1,3 +1,0 @@
-lunar and solar perturbations on satellite orbits the
-    lunar and solar effects on perigee height for satellite orbits
-    of large eccentricity are investigated

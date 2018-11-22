@@ -1,5 +1,0 @@
-the mississauga library system' a case study. describes
-    how the mississauga public library has employed an integrated
-    on-line acquisitions system available through the university of
-    toronto library automation system (utlas), describing the
-    searching, ordering, and receipt of library materials.

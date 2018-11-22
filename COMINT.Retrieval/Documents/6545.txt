@@ -1,6 +1,0 @@
-the gyrator as a terminal element a terminal gyrator
-    forming the nucleus of any terminal network that violates the
-    reciprocity relation is considered a method is developed which
-    realizes such an element with any unilateral transducer such as
-    a valve or transistor the effect of loading by parallel or
-    series admittance is investigated

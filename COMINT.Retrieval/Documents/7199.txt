@@ -1,7 +1,0 @@
-a note on the cause of sudden ionization anomalies in
-    regions remote from high altitude nuclear bursts the sudden
-    changes in vlf propagation characteristics associated with the
-    nuclear explosions over johnston island are attributed to bomb
-    induced ionization in the ionospheric d layer it is suggested
-    tht this ionization is caused by particles resulting from the
-    decay of fission neutrons

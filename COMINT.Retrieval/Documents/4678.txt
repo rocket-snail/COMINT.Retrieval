@@ -1,4 +1,0 @@
-gyrators and nonreciprocal systems discussion of the
-    conditions necessary for a linear four terminal network
-    containing only passive elements and gyrators to have different
-    attenuations in either direction

@@ -1,3 +1,0 @@
-the response of a network to a frequency modulated input
-    voltage mathematical treatment illustrating the relative
-    simplicity of the method of operational calculus

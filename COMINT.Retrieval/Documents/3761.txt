@@ -1,5 +1,0 @@
-diffusion of pulsed currents in conductors theoretical
-    investigation of the density distribution and the equivalent
-    depth of penetration of a transient current for the case of a
-    plane tem wave incident normally upon a plane conductor
-    particular pulse waveforms are considered see also f

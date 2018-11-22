@@ -1,2 +1,0 @@
-multistage band pass filter with optimum approximation to
-    the ideal rectangular shape of the response curve

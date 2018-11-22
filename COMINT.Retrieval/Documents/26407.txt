@@ -1,6 +1,0 @@
-radiation from fast particles moving through magnetic
-    materials under certain conditions of frequency and angle of
-    observation ringing of the spin system occurs differences from
-    the normal cherenkov effect are discussed also the possibility
-    of using the effect as a neutral magnetic moment detector or as
-    a probe of magnetic materials

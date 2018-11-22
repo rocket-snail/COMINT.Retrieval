@@ -1,6 +1,0 @@
-quantum theory of spatial dispersion of electric and
-    magnetic susceptibilities electromagnetic effects in a
-    homogeneous medium can be described in terms of a conductivity
-    dependent on frequency and wave vector and a susceptibility
-    dependent only on the wave vector a universal relation between
-    conductivity and susceptibility is derived

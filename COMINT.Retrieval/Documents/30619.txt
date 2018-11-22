@@ -1,4 +1,0 @@
-logical and control functions performed with magnetic
-    cores use of magnetic cores with square hysteresis loops in
-    digital computer systems based on the single line shift
-    register is described

@@ -1,2 +1,0 @@
-statistical design and evaluation of filters for the
-    restoration of sampled data

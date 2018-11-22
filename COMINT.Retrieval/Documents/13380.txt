@@ -1,6 +1,0 @@
-transistor amplifiers for use in a digital computer pulse
-    regenerative amplifiers for a synchronous binary computer are
-    based on use of external feedback so that a negative resistance
-    transistor characteristic is not required by using semi gated
-    feedback allowance can be made for the slow recovery of ge
-    diodes incorporated in the circuit

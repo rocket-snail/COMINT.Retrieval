@@ -1,7 +1,0 @@
-electromagnetic waves in hollow metal cylinders with
-    circular cross section the object of the paper is to coordinate
-    the treatment of the subject and to clarify some points the
-    electric and magnetic lines of force are mapped in perspective
-    other diagrams show the distribution of poynting vector over
-    the cross section and the currents in the walls wave
-    propagation in concentric lines is investigated

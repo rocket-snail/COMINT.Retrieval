@@ -1,7 +1,0 @@
-a fixed gas dielectric capacitor of high stability
-    factors contributing to instability of capaced the position of
-    the maximum is determined composed for parallel plate types
-    suitable for use under laboratory conditions a capacitor
-    embodying these principles is described the performance figures
-    indicate that a considerable gain in stability can be achieved
-    without serious complication in design

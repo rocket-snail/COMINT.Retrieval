@@ -1,2 +1,0 @@
-a pulse width modulator modulation is achieved using the
-    hole storage effect in a junction transistor

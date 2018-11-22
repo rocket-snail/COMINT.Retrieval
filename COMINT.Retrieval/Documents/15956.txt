@@ -1,8 +1,0 @@
-computerized information retrieval. a user guide.
-    prepared to introduce the user to advanced scientific and
-    technical information services and systems this guide
-    emphasises computer searches, helping the user to set the
-    bounds of his or her problem, to define the way the literature
-    is stored in the computer, and to develop an improved problem
-    statement with which to enter the computer. report not
-    available from ntis.

@@ -1,5 +1,0 @@
-compact supplies have wide range regulation use of solid
-    state rectifiers and high current regulator tubes eliminates
-    power transformer and reduces size and cost of power supplies
-    units have regulation better than ripple of and stacking factor
-    of about capacity per inch of rack space

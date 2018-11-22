@@ -1,9 +1,0 @@
-developments at the rutherford and appleton laboratories
-    library. recent developments at the library include com
-    catalogues, and the use of aere (harwell)'s text retrieval
-    software package status, which is described in some detail.
-    status was already on site, so (hopefully) no other costs would
-    be incurred, local expertise with prime hardware was available,
-    and other library systems were already using status so it could
-    be assumed that some of the initial problems had already been
-    solved elsewhere.

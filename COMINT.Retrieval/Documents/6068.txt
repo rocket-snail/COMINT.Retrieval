@@ -1,9 +1,0 @@
-the distribution of temperature along a thin rod
-    electrically heated in vacuo part end losses the correction for
-    end losses is calculated for some typical physical properties
-    which are functions of powers of temperature t or both as in
-    thermionic emission the calculated corrections for a long w
-    filament agree closely with those computed graphically by
-    worthing the corrections for medium length filaments such as
-    used in hf power valves are practically the same as those for a
-    long filament heated by the same current

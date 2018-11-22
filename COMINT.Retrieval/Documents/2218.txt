@@ -1,8 +1,0 @@
-a special report on word and text processing. includes'
-    how not to be seduced by word processing systems by a. toller;
-    snake pit bull pen or command post' the office of the future by
-    p. fedirchuk; the future of computer translation by b. thouin;
-    graphics development in the 80's by c. lightfoot; processing
-    text versus editing and formatting by c. howerton; and
-    standardising languages for word and text processing by c.
-    card.

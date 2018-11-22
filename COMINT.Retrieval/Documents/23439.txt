@@ -1,5 +1,0 @@
-a twin t variable slope filter by suitable modification a
-    twin t notch filter is converted into a low pass filter in
-    which the rate of attenuation up to a specified upper frequency
-    is controlled by a single potentiometer design data are given
-    and a detailed circuit is described

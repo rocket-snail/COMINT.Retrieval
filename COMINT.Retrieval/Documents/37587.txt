@@ -1,6 +1,0 @@
-a magnetic device for high speed sensing of small
-    currents the structure and operation of the ferror device are
-    described it comprises a bar of low coercive force square loop
-    ferrite with two holes transverse to the long axis the material
-    around the holes acts as a pair of toroidal cores whose
-    switchable flux may be controlled by a solenoid current

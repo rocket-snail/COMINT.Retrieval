@@ -1,6 +1,0 @@
-diffraction field of a circular aperture an equation
-    expressing the diffracted field is derived for the case of a
-    normally incident plane wave and a perfectly reflecting screen
-    the equation is of the form given by stratton of but is
-    modiffied to agree with certain theoretically and
-    experimentally established conditions

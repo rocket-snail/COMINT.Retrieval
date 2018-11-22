@@ -1,5 +1,0 @@
-investigations on the occurrence of high frequency
-    oscillations in an ion source with magnetic guiding field
-    oscillations at about were observed in and and their amplitude
-    and frequency were measured under various conditions the effect
-    is interpreted as an acoustic type of plasma oscillation

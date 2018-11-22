@@ -1,9 +1,0 @@
-geomagnetic and ionospheric relationships the effect of a
-    magnetic disturbance on various geomagnetic and ionospheric
-    parameters is investigated by choosing days on which the sum is
-    markedly different from that of the adjacent days most of the
-    parameters show a peak or trough corresponding to that of the
-    disturbance following it with a delay of hours particular
-    attention is called to some peculiar seasonal effects to
-    features of of the sporadic e layer at slough and the vertical
-    movement of the f layer at huancayo

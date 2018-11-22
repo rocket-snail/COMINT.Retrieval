@@ -1,8 +1,0 @@
-study of a flip flop with four positions of equilibrium
-    by the methods of topological analysis analysis is presented in
-    general terms for a two stage circuit assuming square law valve
-    characteristics three possible states identified are static
-    dynamic and impulse the eccles jordan and multivibrator
-    circuits are particular cases an experimental circuit has been
-    designed its performance agreed well with the
-    predictions

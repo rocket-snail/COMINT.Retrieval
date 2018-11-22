@@ -1,3 +1,0 @@
-field of a charged particle in a moving medium energy
-    losses of the charge due to cherenkov radiation and excitation
-    of plasma waves are determined

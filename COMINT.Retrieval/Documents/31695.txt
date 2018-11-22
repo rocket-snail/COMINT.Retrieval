@@ -1,8 +1,0 @@
-the parallel and series operation of germanium rectifiers
-    the permissible ratings of germanium rectifiers operated in
-    series and parallel connections have been calculated for the
-    cases where load balancing resistors are placed in parallel and
-    in series respectively with the individual rectifiers
-    transistorized power supplies for a mass spectrometer magnet
-    current supply and filament emission control circuits of low
-    power dissipation are described

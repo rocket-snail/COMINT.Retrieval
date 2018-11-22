@@ -1,5 +1,0 @@
-frequency conversion in a microwave discharge analysis of
-    the nonlinearity of a microwave discharge between two closely
-    spaced parallel plates of dimensions small compared to
-    parametric amplification in a discharge is briefly
-    considered

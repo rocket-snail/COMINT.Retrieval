@@ -1,6 +1,0 @@
-the magnetostatic force on two circular cylindrical
-    conductors carrying uniform steady currents the magnetic field
-    dur to two parallel conductors in a nonuniform magnetic field
-    is determined for the case when the conductor material si
-    magnetic general expressions are deduced for the magnetostatic
-    force and are investigated for particular examples

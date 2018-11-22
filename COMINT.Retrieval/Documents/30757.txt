@@ -1,3 +1,0 @@
-the tuning fork a two stage mechanical band filter a
-    tuning fork coupled to electromechanical transducers is
-    considered as a quadripole with band pass properties

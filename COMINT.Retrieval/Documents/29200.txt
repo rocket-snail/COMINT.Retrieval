@@ -1,5 +1,0 @@
-theory of electric breakdown in the high temperature
-    region and its relation to thermionic emission discussion is
-    based on consideration of the distribution of electrons over
-    the energy states rather than the behaviour of individual
-    electrons

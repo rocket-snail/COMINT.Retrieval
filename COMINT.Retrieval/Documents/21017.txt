@@ -1,5 +1,0 @@
-a high speed rotary switch and some applications the
-    general requirements of high speed switches are discussed with
-    particular reference to applications in information sampling
-    systems details and applications of a rotary switch permitting
-    rotational speeds of up to rev min are described

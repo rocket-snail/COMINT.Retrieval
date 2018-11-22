@@ -1,6 +1,0 @@
-fluctuations in oscillator with inertial nonlinearity
-    fluctuations in a valve oscillator the steady state amplitude
-    in which is determined by an inertial nonlinearity such as a
-    feed back system are considered theoretically and some
-    practical conclusions are reached on the choice of circuit
-    parameters for minimum amplitude fluctuations

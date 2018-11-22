@@ -1,6 +1,0 @@
-the frequency of nonlinear plasma oscillations the
-    frequency of plane standing waves of electrons moving through a
-    back ground of infinitely heavy ions is independent of
-    amplitude if the electron velocity is a unique function of
-    position this is not true for spherical and cylindrical plasma
-    oscillations

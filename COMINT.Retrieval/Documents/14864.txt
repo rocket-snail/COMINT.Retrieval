@@ -1,2 +1,0 @@
-industrial measurement of the temperature coefficient of
-    ceramic dielectric capacitors

@@ -1,6 +1,0 @@
-interrelations among the upper atmosphere disturbance
-    phenomena in the auroral zone an analysis of data from syowa
-    station antarctica reveals a numerical relation between the
-    intensity of the line the maximum electron density of
-    ionization and the magnitude of the horizontal disturbance
-    vector

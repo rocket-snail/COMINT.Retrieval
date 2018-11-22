@@ -1,7 +1,0 @@
-converting direct voltage to alternating voltage at high
-    power description of a unit providing a supply for a radio
-    beacon at schiphol an inverter circuit with balanced hg vapour
-    filled thyratrons is used and the maximum continuous power
-    output is with an overall efficiency of considerably higher
-    supply frequencies can be provided by using thyratrons with
-    different gas fillings

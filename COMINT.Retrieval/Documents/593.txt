@@ -1,4 +1,0 @@
-nondegenerate x band amplifier the parametric amplifier
-    described uses a pill varactor diode it has a gain of and a
-    noise figure of with more pump power greater gains should be
-    relizable at bandwidths equal to or slightly less than

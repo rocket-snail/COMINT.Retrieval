@@ -1,2 +1,0 @@
-a sensing system for punched cards or continuous punched
-    foil

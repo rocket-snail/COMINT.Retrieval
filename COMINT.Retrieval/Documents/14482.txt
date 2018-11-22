@@ -1,6 +1,0 @@
-a linear capacitance change circuit capacitance changes
-    produced by mechanical displacement modulate the frequency of a
-    franklin oscillator which drives a nonode fm discriminator
-    sensitivity is and the output is linear between and about
-    references are given to measurements of mechanical and other
-    quantities by means of a capacitance change

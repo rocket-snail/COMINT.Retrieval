@@ -1,6 +1,0 @@
-the temperature variation of the frequency of at and bt
-    cut quartz resonators measured frequency temperature
-    characteristics can be represented analytically as power series
-    three terms being sufficient to deal with the temperature range
-    the influence of the order of overtone on the temperature
-    coefficient is discussed see also of february

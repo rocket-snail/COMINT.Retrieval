@@ -1,4 +1,0 @@
-a microwave meacham bridge oscillator a high stability
-    microwave oscillator has been constructed consisting of a
-    travelling wave amplifier cavity microwave bridge and bolometer
-    experimental results are compared with theory

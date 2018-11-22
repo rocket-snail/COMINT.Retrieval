@@ -1,8 +1,0 @@
-output coupling networks for use with logical circuits of
-    the emitter current switching type zener diodes coupling
-    networks required to transfer the collector voltage swing in
-    emitter current switching circuits to earth level are
-    considered the disadvantage of low coupling efficiency of
-    passive output coupling networks is considered in comparison
-    with the versatility which they give to standard logical
-    elements

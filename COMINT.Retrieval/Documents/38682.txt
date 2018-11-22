@@ -1,6 +1,0 @@
-electron temperature evidence for nonthermal equilibrium
-    in the ionosphere measurements of ion density and electron
-    temperature from four rocket flights by dumb bell shaped
-    johnson malter type probes are presented the method of analysis
-    is described in detail with examples electron temperatures
-    about double the gas temperatures were found from to

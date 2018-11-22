@@ -1,2 +1,0 @@
-analysis of fast wave couplers for transverse field beam
-    type parametric amplifiers

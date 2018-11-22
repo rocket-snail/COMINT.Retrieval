@@ -1,6 +1,0 @@
-contribution to the problem of limiting values for
-    semiconductor circuit elements the danger of exceeding the
-    permissible voltage limits in series connected power rectifier
-    elements is discussed this difficulty can be overcome by the
-    use of parallel resistors or capacitors as shown in the reverse
-    voltage time curves given

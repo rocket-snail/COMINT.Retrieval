@@ -1,9 +1,0 @@
-plasma density fluctuations in a magnetic field a
-    continuation of earlier work in which the frequency spectrum
-    was derived for the spatial fourier transform of the electron
-    charge density fluctuations in a plasma the effects of a
-    constant magnetic field in an arbitrary direction are
-    considered a theoretical basis is provided for analysing back
-    scatter experiments and intensities are derived a function of
-    the real frequency variable for the case of thermodynamic
-    equilibrium

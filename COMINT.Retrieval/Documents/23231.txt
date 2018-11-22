@@ -1,2 +1,0 @@
-detection of double resonance by frequency change
-    application to hg feb

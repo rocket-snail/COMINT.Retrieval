@@ -1,7 +1,0 @@
-theory of auroral morphology the theory is based on the
-    production of instabilities in electron sheets it predicts
-    observed features relating to the duration of homogeneous arcs
-    and the transition from glow to homogeneous arcs to ray arcs
-    and draperies other observations explained are certain
-    phenomena in flaming aurorae and the lowering of mirror points
-    in certain conditions

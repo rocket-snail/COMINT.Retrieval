@@ -1,8 +1,0 @@
-complex conductivity of some plasmas and semiconductors
-    the complex conductivities of plasmas and semiconductors have
-    been calculated for several cases where the collision frequency
-    can be expressed as a power function of the energy from the
-    result some characteristic parameters of the plasma originally
-    investigated by spitzer are estimated the problem of
-    determining the relaxation from a non symmetrical dispersion is
-    discussed

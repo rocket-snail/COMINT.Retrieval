@@ -1,2 +1,0 @@
-evaluation of determinant (algorithm 41) march, 1964
-    rotenberg, l. j. ca640303 jb march 10, 1978 3:40 am

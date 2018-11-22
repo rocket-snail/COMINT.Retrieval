@@ -1,7 +1,0 @@
-high field electron emission from irregular cathode
-    surfaces the enhancement of the field in front of an emitter
-    due to surface irregularities is studied in detail with
-    reference to mechanisms proposed by and by the enhancement
-    factor varies with distance from the surface and is also field
-    dependent the results afford and explanation of anomalous
-    conduction variations in liquids and gases

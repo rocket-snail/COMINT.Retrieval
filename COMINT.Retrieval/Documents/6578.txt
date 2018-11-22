@@ -1,5 +1,0 @@
-commercial speech recognition' definitions, capabilities
-    and applications. the state of the commercial speech
-    recognition art today as manifested by available devices is
-    reviewed and the capabilities of such devices are
-    discussed.

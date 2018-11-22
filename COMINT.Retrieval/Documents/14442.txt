@@ -1,6 +1,0 @@
-temperature stabilized transistor amplifiers design
-    equations are derived and nomograms presented for determining
-    the temperature variation of the operating point of a junction
-    transistor amplifier application of the information for
-    temperature stabilization is indicated numerical examples are
-    given

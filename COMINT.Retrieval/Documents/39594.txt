@@ -1,5 +1,0 @@
-network response to transient frequency modulation inputs
-    an approximate method is developed for calculating the response
-    when the input modulation varies rapidly during short periods e
-    g when television or pulse signals are used for frequency
-    modulation

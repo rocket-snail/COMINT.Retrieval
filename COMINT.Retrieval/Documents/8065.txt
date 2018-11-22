@@ -1,4 +1,0 @@
-hydromagnetic waves in the ionosphere the results of
-    numerical integration of the hydromagnetic wave equations in
-    the ionosphere are presented earlier estimates of ionospheric
-    heating by hydromagnetic waves are confirmed

@@ -1,5 +1,0 @@
-starved amplifiers advantages of the starved amplifier
-    valve operated with very low anode and screen voltages for high
-    gain amplification are indicated relevant valve data must be
-    determined by the designer typical curves for miniature
-    pentodes are presented and discussed

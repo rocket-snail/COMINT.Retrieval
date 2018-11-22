@@ -1,5 +1,0 @@
-methods of pulse selection to produce accurate timing
-    marks from standard frequencies counter circuits are given
-    which are suitable for the production of low frequency timing
-    pulses independent of phase fluctuations in the frequency
-    dividers of crystal clocks

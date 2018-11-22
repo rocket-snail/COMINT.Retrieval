@@ -1,6 +1,0 @@
-frequency control and frequency fluctuations of the
-    astable multivibrator a modified multivibrator circuit is given
-    which permits frequency variation over the range by means of
-    grid bias control the causes of fluctuations of pulse
-    repetition frequency are investigated and design formulae are
-    derived for minimizing these effects

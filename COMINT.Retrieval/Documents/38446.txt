@@ -1,7 +1,0 @@
-transient processes in a trigger circuit with a
-    transistor transient processes in a common base circuit using a
-    point contact transistor are considered expressions for the
-    currents are derived and the speed of operation of the circuit
-    is estimated requirements are formulated for point contact
-    transistors to be used in high speed trigger circuits see also
-    of

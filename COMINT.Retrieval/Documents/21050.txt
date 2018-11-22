@@ -1,9 +1,0 @@
-library services survey of eastern illinois university
-    extension classes. a survey was carried out at the eastern
-    illinois university library to determine the extent to which
-    services to the continuing education and extension programme
-    could be improved. students and faculty were asked to rate
-    services as adequate or inadequate and rank possible methods of
-    improving services on a scale of 1 to 5. analyses the results
-    of the survey and describes the ways in which it will be used
-    for the improvement of services.

@@ -1,4 +1,0 @@
-the conductive chapman layer the shape of the electron
-    production function when ionizing radiation acts as an
-    atmospheric heat source is given for atmospheres in mixed or
-    diffusive equilibrium

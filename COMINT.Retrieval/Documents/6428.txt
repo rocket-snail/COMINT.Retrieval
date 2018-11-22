@@ -1,7 +1,0 @@
-electron electron interaction and heat conduction in
-    gaseous plasmas the thermal conductivity in low gas pressure ne
-    and xe plasmas has been shown experimentally to be determined
-    chiefly by heat flow in the electron gas of the plasma the
-    experimentally determined values of the thermal conductivity
-    are in agreement within less than one order of magnitude with
-    those given by the theory of spitzer n harm

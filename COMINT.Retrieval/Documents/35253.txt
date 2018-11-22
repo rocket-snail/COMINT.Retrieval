@@ -1,6 +1,0 @@
-ten pulse amplitude discriminator a pulse height
-    discriminator has been developed which is capable of operating
-    at repetition rates up to it accepts positive input pulses with
-    a threshold adjustable from to the output signal is of constant
-    shape and amplitude the circuit is described and test results
-    are given

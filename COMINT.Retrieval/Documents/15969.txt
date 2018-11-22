@@ -1,6 +1,0 @@
-a circuit for analogue formation of a quarter squares
-    multiplier using a triangle carrier waveform in the squaring
-    circuits is extended to give division simultaneously with
-    multiplication this is achieved by controlling the slope of the
-    triangle carrier waveform so as to be proportional to the
-    divisor z

@@ -1,3 +1,0 @@
-vacuum deposited metal film resistors detailed
-    description of the problems and procedure involved in the
-    production and testing of film resistors

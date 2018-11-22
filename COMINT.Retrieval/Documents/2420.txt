@@ -1,5 +1,0 @@
-electric field distributions in an ionized gas a method
-    for improving systematically the holtsmark distribution is
-    described it is then applied to the calculation of the
-    distribution of the high frequency component of the electric
-    field in an ionized gas in thermal equilibrium

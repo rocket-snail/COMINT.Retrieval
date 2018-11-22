@@ -1,7 +1,0 @@
-some exactly integrable cases of electromagnetic
-    oscillations in two coupled cavity resonators calculations of
-    resonance frequencies are made for cavity configurations whose
-    boundaries coincide with co ordinate surfaces of an elliptical
-    cylindrical co ordinate system the expressions obtained are
-    developed explicitly for the case of weak coupling and are
-    compared with known approximations

@@ -1,6 +1,0 @@
-a synthesis procedure the synthesis of symmetrical
-    reactance networks with equal terminations is considered from
-    the insertion loss characteristic the impedance which the half
-    circuit presents at the axis of symmetry is derived from
-    network theory and the complete circuit is obtained by back to
-    back connection of the two halves

@@ -1,4 +1,0 @@
-two step switching of saturable reactors the performance
-    of the mathematical model of woodson when subjected to abrupt
-    flux reversals is compared with experimental data for orthonol
-    cores

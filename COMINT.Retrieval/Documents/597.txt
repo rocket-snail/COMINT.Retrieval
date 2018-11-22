@@ -1,9 +1,0 @@
-computerised information retrieval-closed or open: some
-    criteria for a closed system. describes what is meant by
-    'closed' and 'open' computerised information retrieval and the
-    variations in between. factors subject to different degrees of
-    constraint are: access to data, access to the system, identity
-    of users and method of access to the system. discusses in
-    detail the lexis legal information system, stressing the
-    features which indicate that it is a closed system, explaining
-    the resultant advantages.

@@ -1,6 +1,0 @@
-the imaging properties of electron beams in arbitrary
-    static electromagnetic fields detailed theory of the
-    aberrations of electron optical systems with curved axes with
-    application to calculation of the imaging properties of a
-    helical beam moving in the field of a pair of coaxial
-    cylindrical electrodes

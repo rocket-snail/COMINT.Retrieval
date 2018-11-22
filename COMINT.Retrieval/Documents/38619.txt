@@ -1,4 +1,0 @@
-tensor theory of gyromagnetic power general linear
-    relations for non absorbing media are derived the influence of
-    symmetry upon tensor equations and the effect of magnetic
-    anisotropy on em wave propagation is examined

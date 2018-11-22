@@ -1,6 +1,0 @@
-a tunnel diode slot transmission amplifier a negative
-    conductance waveguide transmission type amplifier consisting of
-    a tunnel diode mounted within an s band waveguide end plate
-    slot has been built operating at a frequency of with a
-    bandwidth of and gain no measurements have yet been made of
-    noise figure

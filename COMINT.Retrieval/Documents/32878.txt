@@ -1,8 +1,0 @@
-the work function of irregular metal surfaces calculation
-    of the image potential for spherical and spherical and prolate
-    spheroidal bosses on an otherwise smooth surface h shows that
-    this potential might be reduced to of its value for an ideal
-    plane surface since the image potential is likely to form a
-    large portion of the work function for most metals the work
-    function will be significantly reduced when the surface is
-    rough

@@ -1,4 +1,0 @@
-tunnel diode logic circuits equations tre derived
-    relating diode tolerances to those of tther circuit components
-    for analogue threshold logic and majority logic use practical
-    lunnel diode logic circuits are believed to be possible

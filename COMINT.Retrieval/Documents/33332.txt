@@ -1,6 +1,0 @@
-a method for sharpening the output waveform of junction
-    transistor multivibrator circuits a method of designing the
-    circuit to reduce the recharging time of the coupling capacitor
-    is given an improvement in waveform at the collector of one
-    transistor is achieved with an accompanying deterioration of
-    the other output

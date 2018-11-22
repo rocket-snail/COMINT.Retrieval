@@ -1,3 +1,0 @@
-three output immittance theorems a discussion of various
-    theorems having practical application in the analysis of
-    transistor circuits

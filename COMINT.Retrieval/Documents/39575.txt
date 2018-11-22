@@ -1,5 +1,0 @@
-the conditions for the onset of oscillation in transistor
-    oscillators the condition for self oscillation is established
-    and oscillators are considered in two groups with frequency
-    either dependent on or independent of transistor
-    parameters

@@ -1,9 +1,0 @@
-a note on the network postulates kirchhoff law that the
-    sum of the potential differences about any closed path of
-    branches is zero is repl ced by a version making no explicit
-    references to paths of branches the resulting law can be
-    interpreted geometrically in terms of orthogonal subspaces of a
-    certain vector space the network definition given is readily
-    shown to be invariant under changes of basis the equivalence
-    between the new definition and the classical one is
-    established

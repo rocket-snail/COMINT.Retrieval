@@ -1,8 +1,0 @@
-theory of plasma waves in metals the hartree
-    approximation is used to investigate the effect of the crystal
-    lattice on plasma oscillations in metals a formula is derived
-    for the oscillation frequency for free electrons this reduces
-    to that given by bohm and gross for insulators there are no
-    oscillations in metals with occupied d bands there is strong
-    coupling between the plasma oscillations and the d electrons
-    causing frequency broadening

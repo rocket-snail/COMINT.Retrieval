@@ -1,5 +1,0 @@
-simultaneous oscillations at two frequencies in a self
-    oscillatory system with automatic bias an investigation of the
-    self biasing by grid current in an oscillator confirms that
-    oscillations at two different frequencies may occur see also of
-    may

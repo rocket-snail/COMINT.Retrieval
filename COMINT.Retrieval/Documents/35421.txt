@@ -1,3 +1,0 @@
-a chart for analyzing transmission line filters from
-    input impedance characteristics use of smith chart techniques
-    is demonstrated

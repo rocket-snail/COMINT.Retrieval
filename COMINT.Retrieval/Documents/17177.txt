@@ -1,7 +1,0 @@
-the decilog a unit for logarithmic measurement
-    difficulties resulting from an extended use of the term decibel
-    are discussed suggested new logarithmic units of ratio are
-    reviewed it is proposed to supplement the decibel by
-    introducing the decilog whose value is such that the number of
-    decilogs is equal to times the logarithm to the base of the
-    ratio

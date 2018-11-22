@@ -1,6 +1,0 @@
-nonstationary parametrons to eliminate the necessity for
-    the critical adjustment of amplitude and phase of the
-    excitation current dc controlled and diode controlled
-    parametrons were investigated a fast decay time was achieved
-    with diode control resulting in a high speed of operation in
-    logic circuits

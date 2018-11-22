@@ -1,6 +1,0 @@
-solar flare effects on and atmospheric radio noise solar
-    flares have been analysed and a positive relation between them
-    and short time noise power decreases has been found the most
-    significant noise fade outs occurred when the sun was ovr one
-    of the major noise centres contributing to the noise at the
-    recording station

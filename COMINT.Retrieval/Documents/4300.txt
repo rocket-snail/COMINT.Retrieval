@@ -1,7 +1,0 @@
-the transformation properties of loss free quadripoles
-    between homogeneous lines and a proof of weissflochs
-    transformation law using circle geometry a method for
-    evaluating certain parameters in the application of weissflochs
-    transformation law and back references this law has
-    applications in measuring technique and circuit theory in the
-    cm and dm regions

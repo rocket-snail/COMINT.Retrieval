@@ -1,7 +1,0 @@
-temperature compensating networks a generalized
-    analytical design procedure is proposed for the realization of
-    two typical temperature compensating bias networks employing
-    thermistors for class b push pull transistor amplifiers a set
-    of simple relations is derived for evaluating the network
-    component values and restrictions are indicated on the choice
-    of appropriate thermistors

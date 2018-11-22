@@ -1,2 +1,0 @@
-a method of calculation of profiles from ionospheric
-    curves

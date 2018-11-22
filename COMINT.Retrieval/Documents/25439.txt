@@ -1,6 +1,0 @@
-spin precession in a vibrating bloch wall at small
-    amplitudes the natural frequency of vibration of the wall is
-    derived on the basis of an effective internal magnetic field
-    the formula obtained for a wall is identical except for a
-    factor with that given by doring for a wall on the basis of the
-    wall mass

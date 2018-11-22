@@ -1,7 +1,0 @@
-digital servomechanism controls shaft position devices
-    for converting data from digital to analogue form are discussed
-    two experimental system which convert binary digital input
-    signals into shaft rotation angles are described the converter
-    functions as a closed loop servomechanism in which the error
-    sensing portion is a digital computer information can be
-    indicated remotely with an accuracy within

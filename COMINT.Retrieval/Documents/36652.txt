@@ -1,7 +1,0 @@
-electronic circuits of the narec crystal diodes are used
-    where practical for all nonlinear functions in this digital
-    computer thermionic valves being used only for inversion or
-    amplification all circuits are designed to provide low
-    impedance output signals whose maximum and minimum levels are
-    held to prescribed potentials the circuits are packaged in
-    standard valve plug in units see also

@@ -1,4 +1,0 @@
-on the current system of solar flare effects the current
-    system associated with large solar flares is symmetric about
-    the magnetic equator it is shown that the current must flow in
-    a region where electron decay is due to attachment

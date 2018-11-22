@@ -1,7 +1,0 @@
-machine aids for translators' a review. paper presented
-    at the aslib technical translation group conference, london, 20
-    nov 80. examines the reasons for automating text production
-    which will be equally applicable to the production of
-    translated texts. investigates developments in machines and
-    microchip technology, including voice recognition and response
-    and optical character recognition equipment.

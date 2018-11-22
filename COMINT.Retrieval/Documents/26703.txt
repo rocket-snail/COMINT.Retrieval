@@ -1,6 +1,0 @@
-flexural vibrations in mechanical filters matrix methods
-    are used for calculating the characteristics of flexural
-    vibrations in rods and the results are compared with those
-    measured by an experimental method described the design of
-    mechanical filters with torsional and longitudinal vibrations
-    and free from flexural waves is discussed

@@ -1,4 +1,0 @@
-the origin of magnetic fields in moving plasma discussion
-    indicates that diffusion effects produce sufficiently large
-    emfs in rotating masses of ionized gas to account for the
-    existence of solar and stellar magnetic fields

@@ -1,5 +1,0 @@
-the dynamics of a subharmonic oscillator with linear
-    dissipation a mathematical analysis is made of the dynamic
-    behaviour of subharmonic oscillators parametrons assuming a
-    nonlinear reactance but a linear dissipation or
-    resistance

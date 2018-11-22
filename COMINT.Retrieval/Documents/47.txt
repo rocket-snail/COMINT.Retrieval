@@ -1,5 +1,0 @@
-theory of electric waves in inhomogeneous plasmas
-    dispersion functions are derived for longitudinal waves in
-    plasmas of variable electron density the special case of a
-    quasi neutral electron beam of spatially variable density is
-    discussed

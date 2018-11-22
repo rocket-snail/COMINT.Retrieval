@@ -1,7 +1,0 @@
-investigation of ionic composition of the ionized layers
-    of the atmosphere rockets and artificial satellites equipped
-    with mass spectrometers of the type described by bennett
-    automatically sending results to the earth are considered the
-    ionization of the atmosphere by a fast moving satellite vehicle
-    and the effect of the vacuum created behind it are also
-    examined

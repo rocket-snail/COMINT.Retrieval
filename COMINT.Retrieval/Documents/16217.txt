@@ -1,5 +1,0 @@
-a design method for wide band balanced and screened
-    transformers in the range leakages and winding capacitances are
-    accurately and independently controlled and a high degree of
-    winding balance is attained with an insertion loss of about
-    db

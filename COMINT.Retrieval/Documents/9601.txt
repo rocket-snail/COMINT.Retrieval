@@ -1,9 +1,0 @@
-a study of the army's word processing program with cases.
-    demonstrates potential advantages and disadvantages that could
-    result from the implementation of a word
-    processing/administrative support system. a model is presented
-    on planning, implementing, and maintaining a word
-    processing/administrative support system. a comparison is made
-    of the guidance contained in ar 340-8 and the guidance
-    contained in the current word processing literature as pertains
-    to the activities presented in the model.

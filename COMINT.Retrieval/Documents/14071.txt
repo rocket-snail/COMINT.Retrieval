@@ -1,7 +1,0 @@
-interfacing typesetters to word processors'
-    telecommunications leads the way. methods of interfacing
-    typesetters to word processors are described, particularly
-    through telecommunications. a market survey of equipment is
-    included. the disadvantages of magnetic media, optical scanners
-    and other methods are briefly considered and the advantages
-    offered by telecommunications are listed.

@@ -1,3 +1,0 @@
-low noise tunnel diode down converter having conversion
-    gain the nonlinearity of the negative resistance characteristic
-    of the tunnel diode can be used for frequency conversion

@@ -1,3 +1,0 @@
-printed circuits made without drawings a ring matrix
-    technique is described for rapid production in the laboratory
-    of a circuit negative which is readily modified

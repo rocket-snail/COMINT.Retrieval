@@ -1,7 +1,0 @@
-designing tunnel diode circuits using composite
-    characteristics with tunnel diodes connected in series certain
-    relations between their peak and valley currents and their
-    final voltages can be satisfied so that the composite curve has
-    peaks valleys and stable positive regions the use of this type
-    of characteristic for binary addition scaling and encoding is
-    described

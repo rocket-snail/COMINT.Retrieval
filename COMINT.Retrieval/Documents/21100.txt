@@ -1,8 +1,0 @@
-transient response in fm the fm response to the unit
-    impulse and the unit step function is calculated for a network
-    whose transfer function is known a meaning is assigned to the
-    associated fourier integrals which diverge in the riemann sense
-    the methos is generalized to any input function which vanishes
-    for negative as an illustration of the method the impulse and
-    the step fm responses of a single tuned circuit are
-    calculated

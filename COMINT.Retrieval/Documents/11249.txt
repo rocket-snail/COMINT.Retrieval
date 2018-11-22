@@ -1,6 +1,0 @@
-the hamiltonian formalism of damping in a tuned circuit
-    an lc circuit coupled to a transmission line is studied as an
-    example of introducing damping into the quantum mechanical
-    treatment of a harmonic oscillator the problem of coupling a
-    spin system to the current in the inductance is also
-    studied

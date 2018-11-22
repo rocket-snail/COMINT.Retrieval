@@ -1,3 +1,0 @@
-energy spectrum of an electron beam after passing through
-    a thin metallic film the energy loss is determined for films of
-    al cr bi au ag and cu

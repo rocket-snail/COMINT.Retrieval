@@ -1,4 +1,0 @@
-upper atmosphere helium ions available data are
-    consistent with an atmospheric model in which a layer of helium
-    ions at least thick separates the ionosphere from the
-    protonosphere

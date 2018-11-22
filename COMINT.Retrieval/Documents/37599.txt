@@ -1,7 +1,0 @@
-the distribution of radio brightness across the crab
-    nebula interferometer measurements were made at with aerial
-    spacings on an axis and on a axis information regarding phase
-    was obtained from independent measurements of the position of
-    the source results show that brightness distribution is
-    symmetrical and that optical and radio centres of the source
-    coincide within of arc

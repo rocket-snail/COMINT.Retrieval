@@ -1,4 +1,0 @@
-controlled rectifiers drive a c and d c motors by using
-    saturable magnetic core firing circuits the size and weight of
-    switching devices are reduced half wave and full wave push pull
-    circuits are described

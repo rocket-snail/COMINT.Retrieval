@@ -1,4 +1,0 @@
-block diagram analysis of vacuum tube circuits the method
-    is illustrated by analyses of an amplifier with current
-    feedback from the cathode circuit and a phase shift
-    oscillator

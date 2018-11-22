@@ -1,8 +1,0 @@
-millimeter wave absorption in superconducting aluminum
-    available experimental evidence indicates that for wavelengths
-    above the absorption is different for the normal and the
-    superconducting states measurements are reported on a high
-    purity al waveguide the ratio of surface resistivities for the
-    superconducting and normal states is plotted as a function of
-    temperature for various values the results are discussed in
-    relation to alternative energy gap models

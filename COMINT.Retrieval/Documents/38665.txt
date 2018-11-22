@@ -1,7 +1,0 @@
-a review of magnetic and ferroelectric computing
-    components high speed digital storage devices may be classified
-    as delay line or random access types with subdivisions in each
-    case for regenerative and nonregenerative devices the more
-    important magnetic and ferroelectric storage units are
-    critically discussed and possible future lines of development
-    indicated references

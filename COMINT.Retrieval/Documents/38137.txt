@@ -1,4 +1,0 @@
-a three phase three valve multivibrator a three valve
-    circuit in which each amode is capacity coupled to the other
-    two grids is described frequencies up to are obtained using
-    miniature rf pentodes

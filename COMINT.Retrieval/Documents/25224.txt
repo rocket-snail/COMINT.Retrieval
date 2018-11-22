@@ -1,8 +1,0 @@
-the detection of the current system in ionospheric radio
-    sounding anomalies found in the application of chapmans theory
-    of ionosphere layer formation of theory of ionosphere layer
-    formation to layer phenomena are explicable if it is accepted
-    that the current system modifies the diurnal variation of
-    electron density in the layer most probably by some form of
-    vertical drift mechanism similar phenomena are found in the
-    layer

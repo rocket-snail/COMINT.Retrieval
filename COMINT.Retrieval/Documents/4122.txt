@@ -1,9 +1,0 @@
-a voltage stabilizer for a radio frequency extra high
-    tension set the voltage to be stabilized is applied across a
-    bank of resistors and a fraction is balanced against a rf
-    reference voltage the difference being converted in a circuit
-    comprising two valves type to a signal which is amplified
-    rectified in a phase sensitive circuit and applied to control
-    the screen voltage of the main oscillator curves show the
-    variation with load current up to for nominal output voltages
-    of and kv

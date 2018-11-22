@@ -1,2 +1,0 @@
-on integrals occurring in the variational formulation of
-    diffraction problems

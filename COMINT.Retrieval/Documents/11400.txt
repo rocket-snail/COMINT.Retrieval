@@ -1,4 +1,0 @@
-ferroresonant systems of circuit logic characteristics
-    for coupled inductors are presented and and computer circuits
-    based on these elements are described with oscillograms
-    illustrating practing operation

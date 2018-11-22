@@ -1,5 +1,0 @@
-the transactor the two terminal constant current and
-    constant voltage generators used in equivalent circuits of
-    active networks are replaced by transmission type active
-    elements called transactors the relations between variants of
-    this element are established

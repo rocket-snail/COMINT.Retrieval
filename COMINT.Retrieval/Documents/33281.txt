@@ -1,9 +1,0 @@
-a low frequency pulse generator with independent control
-    of pulse shape and pulse frequency a modified multivibrator
-    circuit is described in which the pulse repetition frequency is
-    controlled by a variable resistance in the control grid circuit
-    of a heptode and the pulse duration by the voltage on a second
-    control grid the screen voltage being stabilized the circuit
-    shown can be used with the photoformer described by sunstein to
-    generate pulses of any shape with repetition frequency variable
-    between and pulses and pulse duration

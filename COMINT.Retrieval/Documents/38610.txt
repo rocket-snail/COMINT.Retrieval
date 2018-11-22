@@ -1,5 +1,0 @@
-q as a mathematical parameters a definition applicable to
-    rc networks and other systems having lumped parameters an and
-    appropriate in cases where the q value is of the order of or
-    less gives q in terms of circuit time constant and the
-    differential operator

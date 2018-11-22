@@ -1,9 +1,0 @@
-the residual time constant of self saturating
-    transductors theoretical and experimental evidence is presented
-    indicating that the main winding of selfsaturating transductor
-    influences the time constant for small signals to an extent
-    dependent on the blocking intervals of the rectifiers and on
-    the main winding resistance the blocking interval is in turn
-    dependent on the output amplitude this is consistent with the
-    normal experience that transductor response becomes faster as
-    the output increases

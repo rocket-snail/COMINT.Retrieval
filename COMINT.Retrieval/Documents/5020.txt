@@ -1,6 +1,0 @@
-design theory of optimum negative resistance amplifiers
-    an examination is made of amplifiers obtained by imbedding a
-    linear active one port device in arbitrary three port devices
-    the optimum gain bandwidth formula synthesis procedure and
-    design curves are given for this and other amplifier
-    configurations

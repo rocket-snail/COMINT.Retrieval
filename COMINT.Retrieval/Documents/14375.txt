@@ -1,6 +1,0 @@
-impossible behaviour of nonlinear networks the following
-    proposition is discussed an isothermal electromechanical system
-    whose primary resistors are quasi linear cannot convert direct
-    current to alternating current a resistor is said to be quasi
-    linear if the voltage drop across it is a function only of the
-    current and if the differential resistance is positive

@@ -1,4 +1,0 @@
-empirical laws, theory construction and bibliometrics.
-    examines the properties of bibliometric distributions and the
-    relationship between such empirical laws and basic underlying
-    theories.

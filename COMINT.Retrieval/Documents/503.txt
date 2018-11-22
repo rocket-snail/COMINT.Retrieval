@@ -1,6 +1,0 @@
-influence of an alternating voltage and a direct voltage
-    on a nonlinear capacitor families of curves are presented
-    showing measured variations of capacitance and tan as functions
-    of a direct voltage and a voltage applied simultaneously for a
-    capacitor with dielectric the curves facilitate determination
-    of optimum working point for dielectric amplifiers

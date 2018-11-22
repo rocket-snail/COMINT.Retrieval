@@ -1,5 +1,0 @@
-constant ionosphere height for audio frequency
-    propagation from an analysis of smooth type waveforms of a
-    constant height has been estimated for winter storms there was
-    no systematic variation with the onset of night time
-    conditions

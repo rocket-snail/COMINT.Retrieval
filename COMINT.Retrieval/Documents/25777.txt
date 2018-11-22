@@ -1,6 +1,0 @@
-minimum noise figure of the negative resistance amplifier
-    using esaki diodes the minimum noise figure is determined for a
-    nonreciprocal single stage amplifier and the result is extended
-    to cover multistage amplifiers a noise figure of about can be
-    achieved for high gain single stage or multistage
-    amplifiers

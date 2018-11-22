@@ -1,6 +1,0 @@
-waveforms of atmospherics with superimposed pulses
-    recorded with an automatic atmospherics recorder the recorder
-    design is briefly outlined and observations are discussed in
-    which stepped pulses from one lightning discharge are
-    superimposed on the waveform from a second discharge see also
-    of tantry

@@ -1,8 +1,0 @@
-auger electron emission in the energy spectra of
-    secondary electrons from and analysis of the observed energy
-    distributions of the secondary electrons for a range of primary
-    energies reveals subsidiary maxima at points along the energy
-    axis characteristic of the target meterial but independent of
-    the primary voltage the positions of these points are
-    consistent with an auger process origin for the electrons with
-    these energies

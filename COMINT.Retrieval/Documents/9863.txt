@@ -1,9 +1,0 @@
-combined photographic and radio echo observations of
-    meteors measurements have been made on a bright geminid meteor
-    by means of a meniscus schmidt camera and two pulsed radio
-    transmitters operating at frequencies near thirty six mcs the
-    radio echo duration is found to be several orders of magnitude
-    less than would be expected from simple diffusion theory this
-    behaviour is explained in terms of the attachment of electrons
-    to neutral oxygen molecules to form negative ions and a value
-    for the attachment coefficient is determined

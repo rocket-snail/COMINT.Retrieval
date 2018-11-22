@@ -1,6 +1,0 @@
-the determination of the electron distribution in the
-    upper ionosphere from satellite doppler observations by
-    simultaneous reception at two frequencies one of which is an
-    approximate multiple of the other a monotonic electron
-    distribution can be determined exactly the method is
-    illustrated for sputnik one

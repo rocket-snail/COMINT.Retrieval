@@ -1,5 +1,0 @@
-solutions for the static junction discussion of certain
-    classes of solution of the nonlinear differential equation for
-    the potential distribution near a pn junction an inverse series
-    solution is developed which is appropriate for diverse impurity
-    distribution

@@ -1,2 +1,0 @@
-the use of admittance diagrams in oscillator analysis a
-    digest of the available information on this technique

@@ -1,7 +1,0 @@
-the effect of relaxation on microwave measurements of the
-    anomalous skin effect the ratio of the conductivity to the mean
-    free path of an electron in bi t microwave frequencies
-    estimated on on the basis of dingles theory is compared with
-    given earlier by pippard and chambers neglecting relaxation
-    effects this discrepancy and the discrepancy for normal metals
-    are discussed

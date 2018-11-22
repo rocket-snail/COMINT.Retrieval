@@ -1,3 +1,0 @@
-radiation damping effects in two level maser oscillators
-    analytical note on the modulation effects occurring in a
-    spontaneously radiating inverted two level spin system

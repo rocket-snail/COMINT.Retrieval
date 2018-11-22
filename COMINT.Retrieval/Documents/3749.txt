@@ -1,4 +1,0 @@
-transfer characteristics of electromechanical coupling
-    filters as a function of the coupling element the effect of
-    manufacturing tolerances to respect of diameter and length of
-    mechanical transmission line elements is investigated

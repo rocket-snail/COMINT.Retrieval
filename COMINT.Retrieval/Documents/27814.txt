@@ -1,6 +1,0 @@
-a progressive code digital quantizer description of an
-    analogue to digital converter which receives information from a
-    graph reader and gives a corresponding numerical indication
-    several circuits are shown based on the principle of comparing
-    the analogue voltage with the sum of a finite geometric
-    series

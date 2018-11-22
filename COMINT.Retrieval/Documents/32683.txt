@@ -1,6 +1,0 @@
-digital input for precision variable oscillators details
-    are given of a signal generator for the frequency range the
-    drive unit is a voltage controlled oscillator regulated by the
-    difference in width between standard pulses and pulses whose
-    duration is that of the time required for the oscillations fed
-    to a counter unit to equal a preset number

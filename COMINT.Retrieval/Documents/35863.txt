@@ -1,3 +1,0 @@
-x rays from van allen belt electrons it ought to be
-    possible to detect the x ray flux at peak intensity above the
-    cosmic radiation background at baloon altitudes

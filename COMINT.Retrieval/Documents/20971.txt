@@ -1,9 +1,0 @@
-interaction of libraries and publishers. libraries and
-    publishers have evolved together. publishers rely on libraries
-    as a minimum market for their scholarly products. inflationary
-    pressures have caused publishers to increase prices that, in
-    turn, strain library budgets that have not increased as fast,
-    and which, in turn, undermine the minimal demand publishers can
-    count on, adding to inflationary pressure. a simple
-    mathematical model for the dynamics of the interaction between
-    libraries and publishers is analysed.

@@ -1,5 +1,0 @@
-counting pulses of various forms and occurrence intervals
-    by electronic counters modifications to univibrator circuits
-    are described which prevent retriggering during the recovery
-    period or provide a retriggering characteristic permitting the
-    recording of overlapping pulses or both

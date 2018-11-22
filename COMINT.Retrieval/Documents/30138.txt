@@ -1,4 +1,0 @@
-plasma approach to metallic conduction normal and
-    superconductive response in metals may be construed as limiting
-    modes of metallic conduction using a theory of plasma
-    interaction

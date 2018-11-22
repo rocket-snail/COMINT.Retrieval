@@ -1,6 +1,0 @@
-nonlinear capacitors for dielectric amplifiers the
-    operation of the dielectric amplifier depends on the vas on the
-    variation of dielectric constant with applied voltage
-    requirements for materials suitable for high frequency small
-    signal applications are discussed a two stage amplifier with rf
-    power supply ad and gain of is briefly described

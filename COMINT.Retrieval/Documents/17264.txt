@@ -1,9 +1,0 @@
-audio frequency filter with continuously adjustable
-    attenuation characteristic a composite filter for the frequency
-    band is described comprising two sets each of separately
-    controllable filters with contiguous narrow frequency bands the
-    controls are arranged so that the positions of the individual
-    knobs give an approximate representation of the overall
-    frequency characteristic the device is useful for investigating
-    correcting networks and for producing special effects in
-    broadcasting

@@ -1,4 +1,0 @@
-the future of library catalog' computer-supported
-    catalogs (in chinese). describes how a library can build up a
-    machine-readable catalogue file and the production and special
-    features of on-line catalogues.

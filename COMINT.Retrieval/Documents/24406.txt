@@ -1,3 +1,0 @@
-the dependence of the amplitude of the first harmonic of
-    nuclear magnetic resonance absorption on the amount of
-    detuning

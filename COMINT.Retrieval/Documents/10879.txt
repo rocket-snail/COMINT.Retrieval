@@ -1,7 +1,0 @@
-operational amplifier without a stabilized power supply a
-    new operational amplifier is proposed in which two parallel
-    circuits for low and high frequencies are used with a summing
-    amplifier and two feedback circuits the theory of the amplifier
-    is discussed and some experimental results are given for a
-    mains voltage variation of the output voltage of the amplifier
-    varies by with a drift rate of sec

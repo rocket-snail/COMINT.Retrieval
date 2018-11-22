@@ -1,5 +1,0 @@
-the penetration of an electron beam through a plasma part
-    general considerations amplifications and overstability the
-    problem is treated from the point of view of the double stream
-    amplifier the resistive and inductive envelope amplifier and
-    stability theory

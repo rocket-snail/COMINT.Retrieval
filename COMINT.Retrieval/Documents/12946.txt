@@ -1,7 +1,0 @@
-quantum theory of a damped electrical oscillator and
-    noise part the radiation resistance the results obtained in
-    part of are extended to include damping and noise due to a
-    radiation resistance and expressions for the mean square noise
-    voltage and available noise power are derived which are shown
-    to be the sm same as those previously obtained they are also
-    extended to apply to a single mode of a cavity resonator

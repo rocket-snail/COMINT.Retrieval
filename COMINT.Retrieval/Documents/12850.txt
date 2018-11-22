@@ -1,3 +1,0 @@
-diffraction by an infinite slit a rigorous analysis of
-    the problem for plane waves with special emphasis on short
-    wavelengths and grazing incidence

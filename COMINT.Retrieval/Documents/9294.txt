@@ -1,5 +1,0 @@
-the realization of a given transfer coefficient feedback
-    amplifier systems the design of feedback amplifiers using rc
-    networks is discussed in general terms and in relation to
-    analogue computers low frequency filters servomechanisms
-    etc

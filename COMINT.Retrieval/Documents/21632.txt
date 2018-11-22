@@ -1,7 +1,0 @@
-integrating and differentiating circuits applications to
-    filtering and to z acoustics the basic circuits and the effect
-    of successive operations on speech and music signals are
-    considered a detailed study is made of an if band stop filter
-    derived by linear combination of differentiating and
-    integrating circuits its applications in a distortion meter
-    selective amplifier and df oscillator are described

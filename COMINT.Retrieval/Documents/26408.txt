@@ -1,3 +1,0 @@
-multivibrator circuit using pnp and npn junction
-    transistors details of an improved circuit giving low output
-    impedance and small power consumption

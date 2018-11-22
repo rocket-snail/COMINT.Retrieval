@@ -1,9 +1,0 @@
-experience with the use of the com computerized
-    conferencing system. the com computerised conferencing system
-    has been in regular use on the decsystem-10 computer at the
-    stockholm university computing center since mar 79. summarises
-    the results of some other studies of similar computerised
-    conferencing systems. the report gives information about how
-    much kom (the swedish language version of com) is used, what it
-    is used for, which people use it, and the user opinions about
-    the advantages and disadvantages of the system.

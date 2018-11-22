@@ -1,6 +1,0 @@
-some deductions of ionospheric information from the
-    observations of emissions from satellite the theory of the
-    analysis the effect of the ionosphere on the doppler shift
-    frequency and on the frequency of faraday fading is expressed
-    theoretically in terms of the difference in phase path of the
-    waves for two positions of the satellite

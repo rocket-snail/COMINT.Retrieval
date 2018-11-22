@@ -1,4 +1,0 @@
-guiding of whistlers in a homogeneous medium the velocity
-    of energy flow of whistlers as a function of wave normal angles
-    is computed results differ from the longitudinal value except
-    at very low frequencies or very small angles

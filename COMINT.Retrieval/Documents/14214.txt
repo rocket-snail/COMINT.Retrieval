@@ -1,3 +1,0 @@
-energy detector for satellites a description of a
-    detector used in explorer and inun to measure the integrated
-    energy flux of low energy electrons and protons

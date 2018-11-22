@@ -1,5 +1,0 @@
-formulae for the mean losses of energy in collisions of
-    slow electrons moving in diatomic gases approximate formulae
-    are derived which correspond closely with results of
-    experiments for electrons of low energy the formulae are
-    relevant to the theory of interaction of radio waves

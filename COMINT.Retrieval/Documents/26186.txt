@@ -1,4 +1,0 @@
-a tapered strip line for pulse transformer service a
-    rolled up construction is described for an exponential line
-    impedance transformer the impedance is at one end of the line
-    and at the other pulse as long as can be handled

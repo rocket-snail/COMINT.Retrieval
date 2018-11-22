@@ -1,3 +1,0 @@
-the effective radius of the electron in crystal lattices
-    the effective radius of electrons in metals determined by
-    different methods is found to be

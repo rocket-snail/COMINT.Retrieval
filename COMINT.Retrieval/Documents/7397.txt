@@ -1,8 +1,0 @@
-the operating mechanism of voltage dependent silicon
-    carbide resistors measurements on aggregates of sic particles
-    such as pressed powder show how thermal effects depend on grain
-    size and the duration of the current pulse thermal and field
-    effects can be separated by reference to resistance voltage
-    characteristics at different temperatures for single contacts
-    between crystals or between a crystal and a metal knife
-    edge

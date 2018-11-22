@@ -1,9 +1,0 @@
-space charge wave amplification in a shock front and the
-    fin structure of solar radio noise the dispersion equation
-    corresponding to the non maxwellian velocity distribution of
-    the particles in a shock front is derived the roots indicate
-    frequency bandwidths of space charge wave amplification
-    decreasing with the shock strength it is suggested in agreement
-    with cenisse and rocard of that the storm bursts of narrow
-    bandwidth originating in shock fronts constitute the elementary
-    fine structure components of solar radio noise bursts

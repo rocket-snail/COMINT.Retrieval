@@ -1,8 +1,0 @@
-impedance quadripoles for the frequency compensation of
-    aerial input impedance networks with one or two frequency
-    independent resistances are discussed which are capable of
-    effecting wide band matching with lower losses than reactive
-    circuits at frequencies up to or above composite coaxial line
-    sections are used in an application to a dipole aerial for use
-    with a parabolic cylinder reflector he compensating coaxial
-    line serves as support for the dipole

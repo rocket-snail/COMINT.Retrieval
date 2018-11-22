@@ -1,5 +1,0 @@
-jaumann structures with capacitive tapping for band pass
-    crystal filters symmetric and dissymmetric capacitive tapping
-    of a band pass filter transformer is considered and a method of
-    obtaining a maximum capacitance ratio in the branch to be
-    replaced by a crystal is developed

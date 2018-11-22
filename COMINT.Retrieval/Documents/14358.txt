@@ -1,6 +1,0 @@
-lc classification key' a comparison of classes q-v with
-    their z counterparts. the key relates the main classes and
-    subclasses of the library of congress system for q through v to
-    their corresponding z numbers (the z sections deals mostly with
-    bibliographies). it is a continuation of the key to classes a
-    through p which appeared in +r+q 21 (1) fall 81, 72-80.

@@ -1,5 +1,0 @@
-the accuracy obtainable with transistors in pulse
-    amplitude and pulse width modulation the effects of ambient
-    temperature and power supply fluctuations on transistor pm
-    circuits for telemetry applications are analysed the design of
-    a pam pwm converter is given

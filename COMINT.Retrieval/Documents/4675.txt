@@ -1,6 +1,0 @@
-a new method of solving the problem of the diffraction of
-    electromagnetic waves by a thin conducing disk the problem is
-    reduced to the determination of two functions each of which
-    satisfies a fredholm integral equation which can be solved by
-    numerical methods a simple formula for the scattering
-    coefficient is derived

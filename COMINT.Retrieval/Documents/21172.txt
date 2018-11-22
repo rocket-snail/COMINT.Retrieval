@@ -1,5 +1,0 @@
-transient response of fm signals practical investigation
-    of distortion introduced by networks and lines into a signal
-    when its frequency suddenly changes the effects of filters
-    coaxial terminations and resistive and rc networks are
-    considered

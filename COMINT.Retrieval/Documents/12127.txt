@@ -1,9 +1,0 @@
-quantum theory of galvanomagnetic effects a study is made
-    of the effect of the quantization of the electron orbits in a
-    magnetic field on the galvanomagnetic properties of an
-    isotropic semiconductor or semimetal in the phonon scattering
-    range the conductivity tensor is calculated using the quantum
-    mechanical density operator the hall coefficient and transverse
-    resistivity are studied for a number of different sets of
-    conditions for electron density magnetic field and
-    temperature

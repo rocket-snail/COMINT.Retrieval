@@ -1,4 +1,0 @@
-transistorized electronic analogue multiplier a four
-    quadrant circuit using the exponential characteristics of the
-    input of grounded base junction transistors is described the
-    performance compares favourably with that of other types

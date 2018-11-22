@@ -1,6 +1,0 @@
-studies of externally heated hot cathode arcs part plasma
-    density distributions in the anode glow mode analysis of the
-    plasma density distributions indicates that the anode glow mode
-    can exist only if the emission capacity of the cathode is at
-    least twice as great as the anode current this is supported by
-    experimental evidence part

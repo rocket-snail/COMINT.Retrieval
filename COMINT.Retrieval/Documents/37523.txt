@@ -1,9 +1,0 @@
-videotex and libraries. the study explored the concept of
-    interactive videotex (viewdata) in a library setting and the
-    potential usefulness for the australian business community. it
-    was funded jointly by the national library of australia and
-    telecom australia and undertaken by insearch ltd. study also
-    undertook an assessment of the usefulness of videotex services
-    'in-house' as information sources for the national library, for
-    public libraries and as a vehicle for the library's services
-    and announcements.

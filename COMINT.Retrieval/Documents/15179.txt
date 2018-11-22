@@ -1,5 +1,0 @@
-the transmission of signals of any form by means of a
-    degenerate parametric amplifier formulae are derived for the
-    response of a degenerate parametric amplifier comprising an
-    antiresonant circuit with frequency dependent admittance in
-    parallel with a nonlinear capacitance diode

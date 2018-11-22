@@ -1,2 +1,0 @@
-behaviour of the ferroresonant series circuit containing
-    a square loop reactor

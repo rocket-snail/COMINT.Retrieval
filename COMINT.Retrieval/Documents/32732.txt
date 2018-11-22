@@ -1,6 +1,0 @@
-a new method for investigating linear quadripoles z a
-    treatment based on representation of impedance transformations
-    by displacements on the surface of a sphere known graphical
-    methods are made accessible to a purely geometric treatment by
-    the method of projection problems of networks satisfying
-    kirchhoffs laws can be solved with compasses and ruler

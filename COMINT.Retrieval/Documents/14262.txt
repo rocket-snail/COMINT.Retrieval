@@ -1,4 +1,0 @@
-electronic computers and industrial mathematics the mode
-    of operation of a high speed digital computer is described in
-    functional terms programming procedure is illustrated in
-    relation to typical applications

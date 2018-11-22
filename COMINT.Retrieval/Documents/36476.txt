@@ -1,5 +1,0 @@
-design and performance of ultra precise quartz crystal
-    units techniques are described for producing crystal resonators
-    with a frequency stability within about part in and a of for
-    periods up to month the frequency stability compares favourably
-    with that of atomic frequency standards

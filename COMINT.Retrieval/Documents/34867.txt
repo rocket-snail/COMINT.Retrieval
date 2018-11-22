@@ -1,3 +1,0 @@
-reciprocal gamma function of real argument (algorithm 80)
-    march, 1962 holsten, w. ca620307 jb march 20, 1978 3:05
-    pm

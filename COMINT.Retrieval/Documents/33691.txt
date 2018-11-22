@@ -1,4 +1,0 @@
-comparing the characteristics of applied program packages
-    of automated retrieval systems. discusses the characteristics,
-    advantages, and disadvantages of the applied programme packages
-    aspid, pegas, asod, aidoc, usm, and uss.

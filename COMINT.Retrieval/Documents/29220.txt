@@ -1,4 +1,0 @@
-transistor amplifier for magnetic tape and drum playback
-    the amplifier operates from a input over the range and from to
-    c rise time of the output pulse is less than s details are
-    given of the design and full performance

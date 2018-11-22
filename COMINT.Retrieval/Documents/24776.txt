@@ -1,4 +1,0 @@
-observations of some theorems for linear passive networks
-    an extension of cohns theorem for linear passive two poles see
-    eg of is proposed facilitating the determination of energy
-    relations in such networks

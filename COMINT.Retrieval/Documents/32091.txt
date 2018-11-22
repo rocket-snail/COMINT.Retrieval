@@ -1,6 +1,0 @@
-multipotentials of multipoles general theory is presented
-    applicable equally to magnetic or dielectric multipoles every
-    multipole is shown to be associated with a scalar or vector
-    multipotential which has spherical symmetry from the equation
-    of this multipotential the usual scalar potential can be
-    obtained by successive derivations

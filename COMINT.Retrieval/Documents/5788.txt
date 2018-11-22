@@ -1,2 +1,0 @@
-a synthesis procedure for an n port network the method is
-    based on the bott duffin procedure for two port networks

@@ -1,7 +1,0 @@
-developments in blaise/locas. paper presented at a
-    one-day seminar on the university of london shared cataloguing
-    system, 3 apr 81. review of current and likely future
-    developments in blaise-locas, which include' the use of the
-    blaise on-line system in the context of locas; use by locas
-    users of the editor; amendment of ukmarc and lcmarc records,
-    their creation and their deletion.

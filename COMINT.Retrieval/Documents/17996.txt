@@ -1,5 +1,0 @@
-fundamental types of geomagnetic activity k indices
-    obtained from observations at irkutsk geomagnetic latitude
-    watheroo slutsk and tashkent are compared and discussed the
-    average k indices and st variations for irkutsk are presented
-    graphically

@@ -1,3 +1,0 @@
-electric field induced anisotropies in an inhomogeneous
-    plasma anisotropies in electron diffusion and conductivity can
-    be produced in the absence of a magnetic field

@@ -1,5 +1,0 @@
-geomagnetic pulsations and the earths outer atmosphere
-    hydromagnetic oscillations of the ionized outer atmosphere are
-    considered as a possible cause of geomagnetic pulsations
-    observational results are applied to this model and the
-    distribution of ionic density is determined

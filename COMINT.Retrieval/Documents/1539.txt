@@ -1,7 +1,0 @@
-the next decade: what will it mean to libraries?
-    electronic mail. review of electronic mail (facsimile
-    transmission) systems which allow the transmission of document
-    images and their reconstruction as copies at a remote location.
-    briefly discusses the implications of electronic mail systems
-    for widespread distribution of memos, and for computer
-    conferencing.

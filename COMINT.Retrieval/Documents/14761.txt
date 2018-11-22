@@ -1,7 +1,0 @@
-automated distribution of information (as exemplified by
-    the moldavian socialist republic). considers general
-    organisational problems in creating an automated information
-    system within the framework of the moldavian academy of
-    sciences, ussr, and describes its development. the system is to
-    facilitate the use of information sent from central information
-    bodies in machine-readable format.

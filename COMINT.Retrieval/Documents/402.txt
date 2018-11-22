@@ -1,4 +1,0 @@
-high frequency resistance capacitance oscillators the
-    relative merits of shunt capacitance and shunt resistance
-    oscillators are discussed the conditions of oscillation are
-    analysed and the upper frequency limits are examined

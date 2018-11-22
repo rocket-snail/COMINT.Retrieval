@@ -1,3 +1,0 @@
-a parallel arithmetic unit using a saturated transistor
-    fast carry circuit an addition time over digits of ns is
-    achieved

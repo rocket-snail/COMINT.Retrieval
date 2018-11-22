@@ -1,4 +1,0 @@
-propagation of electromagnetic waves in a transp rent
-    periodically stratified space equations derived for the general
-    case are applied to the special case of a pile of double layers
-    of equal optical thickness

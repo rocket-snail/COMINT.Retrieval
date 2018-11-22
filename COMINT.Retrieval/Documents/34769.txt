@@ -1,6 +1,0 @@
-community analysis for the public library. discusses some
-    of the types of information which should be known about the
-    community served by a public library, how that information can
-    best be secured (community analysis), and how it might be used.
-    community analysis sets limits and provides guidelines as to
-    what can be done in providing library services.

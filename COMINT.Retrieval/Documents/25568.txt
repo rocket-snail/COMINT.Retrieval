@@ -1,7 +1,0 @@
-controlled saturation in transistors and its application
-    in trigger circuit design carrier storage of charge in
-    transistors has a maximum which is defined as controlled
-    saturation this depends only on the base current this idea is
-    used to develop a trigger circuit of good resolving time whose
-    output terminal is able to handle heavy currents and presents a
-    low impedance

@@ -1,5 +1,0 @@
-dielectric rod waveguide cells for microwave spectroscopy
-    the calculation of the distribution of microwave power around a
-    quartz rod excited in the dipole mode enabled rod sizes to be
-    selected for cells covering the range teflon windows were found
-    to be satisfactory see also of the

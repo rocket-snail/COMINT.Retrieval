@@ -1,4 +1,0 @@
-a magnetic drum store for analogue computing large
-    storage capacity combined with relatively short access time is
-    obtained the drum can be used for generating nonlinear
-    functions and as a delay network

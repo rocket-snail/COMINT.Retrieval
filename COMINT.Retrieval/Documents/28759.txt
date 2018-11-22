@@ -1,3 +1,0 @@
-feedback design for transistor amplifier stages equations
-    are given for realizing a specific input impedance or maximum
-    feedback for a given gain

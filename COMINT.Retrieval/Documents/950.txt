@@ -1,7 +1,0 @@
-the cryosistor a field effect controlled impact
-    ionization switch a new three terminal device is described in
-    which the impact ionization of impurities in ge at is
-    controlled by means of the depletion field effect of a reverse
-    biased junction the localized nature of the ionization should
-    permit the construction of numerous independent cryosistors on
-    a single ge wafer

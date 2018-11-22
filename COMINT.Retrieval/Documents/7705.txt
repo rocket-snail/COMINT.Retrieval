@@ -1,4 +1,0 @@
-how to design vr tube circuits families of supply voltage
-    supply series resistance curves for various voltage regulator
-    tubes are used as the basis for designing stabilized direct
-    voltage supply circuits

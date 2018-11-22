@@ -1,6 +1,0 @@
-transistor circuit for resonance coefficient multiplier
-    use of transistors in multiplier circuits is discussed the
-    input admittance is calculated and the conditions for
-    stabilization against self oscillations are derived design and
-    performance of experimental arrangements are described
-    composite transistors may be used

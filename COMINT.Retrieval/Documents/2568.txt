@@ -1,4 +1,0 @@
-rocket instrumentation for reliable upper atmosphere
-    temperature determination electronic telemetry equipment is
-    described and typical curves are presented showing the
-    variation of pressure and temperature with altitude

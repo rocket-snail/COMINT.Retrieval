@@ -1,6 +1,0 @@
-a method of calculation of electrical conductivity using
-    relaxation theory a general solution is obtained for the
-    electric current density irreversibility is then introduced so
-    that practical cases may be considered a perturbation
-    approximation gives the same result as that based on the bloch
-    theory

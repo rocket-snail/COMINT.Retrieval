@@ -1,5 +1,0 @@
-an rf resonant circuit for use at mcs circuits of
-    inductive line type with a tuning range have been designed
-    without metallic sliding or rotating contacts the construction
-    may be of low loss plastic with plated or printed conductors
-    eccentric coaxial or two wire arrangements are used

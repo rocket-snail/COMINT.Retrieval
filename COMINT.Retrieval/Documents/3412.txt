@@ -1,5 +1,0 @@
-spatial distribution of electrons from neutron decay in
-    the outer radiation belt the spatial distribution of electrons
-    in the outer radiation belt is calculated theoretically
-    assuming as a source the decay products of albedo neutrons
-    there is moderate agreement with satellite results

@@ -1,7 +1,0 @@
-basics of online searching. presents a unified picture of
-    bibliographic searching by computer, through an examination of
-    the principles of interactive on-line searching. examples are
-    based on the brs, dialog and orbit search services, covering
-    the nature of on-line searching, the kinds of files available
-    on-line, commands used to search them, and search
-    strategy.

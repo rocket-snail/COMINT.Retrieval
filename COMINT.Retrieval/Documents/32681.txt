@@ -1,7 +1,0 @@
-an analysis of a class of variable frequency sinusoidal
-    oscillators using a single active element an analysis is given
-    of a class of oscillators requiring a single active element
-    with an electronically variable mutual conductance the
-    oscillation frequency is directly or inversely proportional to
-    two experimental circuits are described and compared with
-    theory

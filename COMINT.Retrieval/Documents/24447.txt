@@ -1,5 +1,0 @@
-problems of magnetic pre amplifiers the topics discussed
-    include the quality the effect of core shape on the
-    magnetization characteristic effect of characteristic of valve
-    or semi conductor rectifier on amplification and effects of
-    incomplete magnetic decoupling of input circuit

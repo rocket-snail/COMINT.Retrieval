@@ -1,3 +1,0 @@
-the problem of frequency synthesis review of the basic
-    techniques employed for addition subtraction ad division in
-    frequency synthesizers

@@ -1,5 +1,0 @@
-organisation of specialised information services at
-    industrial enterprises. part 1. 1st of a 5-part series which
-    describes the use of mathematical methods applied in order to
-    optimise an information system. deals with advanced techniques
-    of surveying information needs.

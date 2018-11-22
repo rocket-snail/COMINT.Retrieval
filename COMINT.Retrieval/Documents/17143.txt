@@ -1,5 +1,0 @@
-microwave spectrometer tests electron resonance a method
-    of measuring the absorption properties of paramagnetic
-    materials in which a sample is immersed in a dc field whose
-    strength is varied to determine the value at which rf energy is
-    absorbed by the sample

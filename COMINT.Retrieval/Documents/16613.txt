@@ -1,7 +1,0 @@
-the diffusion of moisture in electrical capacitors and
-    their insulation resistance the laws of moisture diffusion are
-    derived mathematically and investigated experimentally on paper
-    capacitors the effect of moisture on the insulation resistance
-    of the dielectric is calculated and comparison is made with
-    measurements on plastic covered capacitors stored under
-    conditions of high humidity

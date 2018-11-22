@@ -1,7 +1,0 @@
-analogue multiplier based on the hall effect discussion
-    of the application of the hall effect for electronic
-    multiplication of voltages an investigation of semiconductors
-    shows si to be the best for accurate multiplication the choice
-    of crystal dimensions is discussed with reference to the
-    solution of a potential problem with skew boundary conditions
-    which determines the hall voltage

@@ -1,7 +1,0 @@
-transistor circuits for use with gas filled multicathode
-    counter valves transistors are used in conjunction with
-    dekatrons to provide a logical circuit the combination is run
-    off a low voltage supply the hv to the dekatrons being supplied
-    by a transistor dc converter a block of these circuits is made
-    to function successfully in a telephone exchange
-    register

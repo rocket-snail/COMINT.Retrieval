@@ -1,5 +1,0 @@
-the reactatron a low noise semiconductor diode microwave
-    amplifier two nonlinear capacitor microwave junction diodes are
-    used in a balanced hybrid with a pump frequency of about twice
-    the signal frequency of power gains greater than with a noise
-    figure of were obtained for a bandwidth of

@@ -1,8 +1,0 @@
-the cockcroft walton voltage multiplying circuit the
-    original circuit is studied by considering it as a transmission
-    line losses are examined and formulae are developed for the
-    voltage efficiency for a given size of capacitor and number of
-    stages two modifications to improve voltage efficiency are
-    discussed the first is the use of a loading coil at the hv end
-    of the line the other is the inclusion of inductors in series
-    with each of the capacitors

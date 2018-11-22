@@ -1,6 +1,0 @@
-orbital acceleration of satellites during geomagnetic
-    disturbance approximate analysis d is developed to show that
-    joule heating of the lower reaches of the ionosphere by
-    geomagnetic currents is a major factor in the modulation of
-    thermospheric densities which causes fluctuations in the
-    orbital acceleration of satellites

@@ -1,3 +1,0 @@
-a uhf ruby maser the maser is tunable over the range and
-    consists of a ruby crystal at the centre of a teflon loaded
-    cavity which is excited in a te pump mode

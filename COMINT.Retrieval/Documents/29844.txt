@@ -1,4 +1,0 @@
-design of static relays for signalling and control the
-    advantages of static relays and the replacement of mechanical
-    relays by semiconductor devices are discussed circuit diagrams
-    are given

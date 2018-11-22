@@ -1,3 +1,0 @@
-wave functions for impurity levels a general method of
-    solving difference equations arising in impurity calculations
-    is developed

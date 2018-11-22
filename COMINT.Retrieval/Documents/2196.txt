@@ -1,4 +1,0 @@
-fundamentals of linear graphs and their applications to
-    networks without transformers the application of linear graph
-    theory to the analysis and synthesis of passive networks ad
-    matrix methods of solution are described

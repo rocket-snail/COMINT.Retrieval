@@ -1,7 +1,0 @@
-partial drift compensation in electronic dc analog
-    computers for differential equations a method particularly
-    suitable for computers with time shared elements is described
-    the number of compensation points can be much smaller than the
-    number of drift sources the method is illustrated by describing
-    the compensation of a machine for computing direction
-    cosines

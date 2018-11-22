@@ -1,5 +1,0 @@
-unidirectional lower sideband parametric amplifier
-    without circulator the amplifier described has the
-    characteristics of a circulator system in respect of matching
-    gain noise figure and non reciprocity but has inferior
-    bandwidth

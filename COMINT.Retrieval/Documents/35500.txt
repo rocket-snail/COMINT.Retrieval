@@ -1,8 +1,0 @@
-the application of picture coding techniques to viewdata.
-    a technique for including colour pictures in a viewdata page
-    has been developed by the post office research centre. the need
-    for improved graphics is explained. the method of picture
-    coding is outlined including some technical detail, hardware
-    needed and costs involved. examples of applications are given
-    including mail order, advertising, portraits, security systems
-    and education.

@@ -1,8 +1,0 @@
-the coverage of patent documents in viniti's abstracting
-    journals. investigates the coverage of patent information in
-    abstracting journals produced by viniti (the all-union
-    institute for scientific and technical information, ussr) and
-    explores the suitability of the journals for various kinds of
-    patent research. describes a technique for using the journals
-    for patent searching and for preparing subject
-    compilations.

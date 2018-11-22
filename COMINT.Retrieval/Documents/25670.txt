@@ -1,7 +1,0 @@
-the reaction field and its use in some solid state
-    amplifiers the theory of the maser is presented in terms of the
-    radiation reaction field produced in a cavity or waveguide by
-    the presence of the electromagnetic moment of the sample being
-    investigated two amplifiers are discussed which use the
-    reaction field in different ways from the usual solid state
-    maser

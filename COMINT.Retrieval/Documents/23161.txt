@@ -1,3 +1,0 @@
-introductory theory for upper atmosphere wind and sonic
-    velocity determination by sound propagation theory applicable
-    to a rocket grenade experiment is developed

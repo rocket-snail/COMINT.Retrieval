@@ -1,5 +1,0 @@
-a field effect varistor a two terminal passive
-    semiconductor is described in which the current can be held
-    constant within in the voltage range v currents from to can be
-    handled the ac dc resistance ratio in this region is of the
-    order of

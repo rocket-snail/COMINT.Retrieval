@@ -1,5 +1,0 @@
-extrapolation of sunspot climate relationships
-    consideration of the periodicity of sunspot number variations
-    is based on taking the maximum year as the middle one of three
-    successive maximal years the next maximum should occur in and
-    should be a strong one

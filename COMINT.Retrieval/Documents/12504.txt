@@ -1,3 +1,0 @@
-diffraction by an elliptic cone two greens functions are
-    derived for the reduced wave equation in the exterior or
-    interior of an elliptic cone

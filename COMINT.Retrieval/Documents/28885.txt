@@ -1,6 +1,0 @@
-note on the motion of electrons and holes in perturbed
-    lattices a new set of orthogonal localized functions is
-    discussed the functions bear the same relation to the functions
-    of luttinger and kohn as the wannier functions bear to the
-    bloch functions the new functions are used to give an
-    alternative derivation of the effective mass equation

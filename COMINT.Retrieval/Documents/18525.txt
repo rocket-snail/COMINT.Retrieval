@@ -1,2 +1,0 @@
-vertex excited surface waves on both faces of a right
-    angled wedge

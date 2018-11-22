@@ -1,3 +1,0 @@
-on the linear circuit aspects of cryotrons an expression
-    is derived for the gate resistance of a cryotron in the
-    transition region

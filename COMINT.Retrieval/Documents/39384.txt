@@ -1,4 +1,0 @@
-cathode coupled push pull output stage a theoretical
-    investigation of linear operation shows that for large common
-    cathode resistances the ratio of anode currents in each valve
-    approximates to unity

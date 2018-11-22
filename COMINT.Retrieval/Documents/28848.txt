@@ -1,5 +1,0 @@
-fourier coefficients of crystal potentials a method is
-    developed for the calculation of the fourier coefficients of
-    the electrostatic potential of a given distribution of valence
-    electrons in a solid taking full account of the nonspherical
-    character of the atomic polyhedron

@@ -1,8 +1,0 @@
-fluctuation magnetic after effect thesis based on neels
-    theory on the irreversible after effect in ferromagnetic
-    materials which is identified with the residual loss earlier
-    reports of the work were noted in of and of in which it should
-    have been stated that the square root of the remanent
-    magnetization is proportional to the logarithm of time elapsed
-    from the suppression of the field and to the logarithm of the
-    duration of application

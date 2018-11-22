@@ -1,4 +1,0 @@
-magnetization nutations in maser oscillation pulses the
-    maser equations of are shown to give similar time dependent
-    magnetization and magnetic field patterns to kemps equations of
-    for similar boundary conditions and circuit parameters

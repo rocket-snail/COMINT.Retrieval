@@ -1,8 +1,0 @@
-education in medical documentation in west germany.
-    describes education in medical documentation and information
-    processing in west germany. there are 3 principal levels of
-    training' (1) documentation assistant; (2) diploma (degree) in
-    medical informatics, informatics (computing) with medical
-    applications, or medicine with computer applications; and (3)
-    certificate of the gmds, the highest accolade and a
-    professional recognition conferred by a learned society.

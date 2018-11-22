@@ -1,4 +1,0 @@
-superconductivity at millimeter wave frequencies
-    preliminary results of experiments on at frequencies between
-    and are reported residual resistivity is observed at these
-    frequencies

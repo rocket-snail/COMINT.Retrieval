@@ -1,6 +1,0 @@
-controlled rectification using transistors the
-    suitability of a transistor as a switching device is discussed
-    in terms of its operating characteristics and an equivalent
-    circuit is derived a switched rectifier circuit for use in a
-    chopper type d c amplifier is described which incorporates a
-    transistor oscillator providing the control frequency

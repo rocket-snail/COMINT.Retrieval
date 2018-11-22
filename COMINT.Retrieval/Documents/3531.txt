@@ -1,4 +1,0 @@
-storage devices for high speed calculators a survey
-    covering thermal optical sonic delay electrochemical cr tube
-    ferroelectric capacitor magnetic drum magnetostriction and
-    magnetic core devices

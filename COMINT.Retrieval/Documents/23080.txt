@@ -1,3 +1,0 @@
-a stabilized locked oscillator frequency divider the
-    results of an analysis of the divider are presented in a
-    graphical form suitable for design purposes

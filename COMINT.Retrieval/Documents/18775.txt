@@ -1,5 +1,0 @@
-focus on state libraries' a report to the nation. state
-    of the art review of australian state libraries, defining the
-    concept of a state library, providing an historical background,
-    and discussing problems of state libraries. discusses the needs
-    of state libraries for the future.

@@ -1,5 +1,0 @@
-electron density distribution in the upper ionosphere
-    from rocket measurements seven flights between and having
-    maximum heights of are discussed the electron distribution
-    above the f layer maximum agrees well with that given by
-    chapman theory

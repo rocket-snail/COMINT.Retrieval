@@ -1,5 +1,0 @@
-rotary amplifiers in servomechanisms the rotary amplifier
-    consists of a dc generator driven at constant speed the
-    properties of this machine as an amplifier are discussed use of
-    this amplifier as power stage for a valve amplifier in
-    servomechanisms is described

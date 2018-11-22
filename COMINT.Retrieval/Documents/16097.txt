@@ -1,5 +1,0 @@
-instant information. describes the promis (problem
-    oriented medical information system) computer, said to be
-    capable of storing and retrieving any information required in
-    the health field, and considers its applications for the
-    organisation of medical records.

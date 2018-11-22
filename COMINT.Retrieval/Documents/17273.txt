@@ -1,5 +1,0 @@
-magnetic double refraction of microwaves in paramagnetics
-    investigation at of the rotation of the plane of polarization
-    of an wave in a circular waveguide containing a paramagnetic
-    salt and its dependence on the intensity of the static magnetic
-    field perpendicular to the direction of wave propagation

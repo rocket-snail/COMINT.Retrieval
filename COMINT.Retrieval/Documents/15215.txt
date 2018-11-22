@@ -1,6 +1,0 @@
-derivation of a frequency multiple of a variable
-    frequency a mask is placed across the face of k c r o
-    displaying the variable frequency f the mask outline is
-    sinusoid representing the frequency multiple n it is viewed by
-    a photocell whose output varies at a frequency nf equations
-    defining the mask outline for any value of n are given

@@ -1,7 +1,0 @@
-spurious frequency modulation in signal generators the
-    chief cause of fm in an am circuit is the variation of valve
-    input capacitance with modulation methods of reducing this
-    effect are examined two circuits effective in reducing fm at
-    vhf are described an untuned class a amplifier with grid
-    modulation a voltage dividing network containing a crystal
-    diode suitably biased to act as resistance

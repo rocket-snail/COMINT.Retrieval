@@ -1,5 +1,0 @@
-world wide distribution of diurnal variation of the
-    neutron intensity of cosmic rays data from stations throughout
-    the world for the period to december have bee analysed to
-    detect possible latitude and i diurnal effects in periods
-    averaged over six months

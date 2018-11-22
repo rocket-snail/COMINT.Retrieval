@@ -1,5 +1,0 @@
-audio frequency nuclear resonance echoes a spin e ho
-    technique for determining nuclear magnetic resonance by
-    experiments in the earths magnetic field is described it is
-    possible to derive the true spin spin relaxation time even if
-    the field is not homogeneous

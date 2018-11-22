@@ -1,6 +1,0 @@
-semiconductors shrink servo system size a velocity type
-    servo system in which the network design is based on the
-    constant current driving source and low impedance load
-    conditions imposed by transistor operation output impedance is
-    reduced considerably by using a double common collector power
-    stage with inverse feedback

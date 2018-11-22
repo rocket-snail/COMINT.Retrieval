@@ -1,7 +1,0 @@
-effect of hydromagnetic waves on the lifetime of van
-    allen radiation protons hydromagnetic waves with frequency less
-    than and amplitude at two or three earth radii are capable of
-    removing all high energy outer belt protons maximum energy in
-    about day if an albedo neutron source is assumed for the inner
-    belt protons the calculated proton flux as a function of radial
-    distance from the earth agrees well with pioneer results

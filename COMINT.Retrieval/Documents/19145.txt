@@ -1,6 +1,0 @@
-ionospheric drifts determined from radio star
-    scintillation observations spaced receiver observations have
-    been made at halley bay and ionospheric velocities deduced from
-    the motion of the diffraction pattern over the ground both the
-    time of midnight reversal and the drift speed correlate well
-    with evans measurements of motions of auroral forms

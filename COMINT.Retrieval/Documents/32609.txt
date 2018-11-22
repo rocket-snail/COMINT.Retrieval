@@ -1,7 +1,0 @@
-theory of secondary electron emission by high speed ions
-    a new theoretical treatment shows that the yield of secondaries
-    is proportional to the rate of energy loss of the incident
-    particles and is independent of work function conductivity and
-    other bulk properties of the metal the theory explains the
-    experimental observations and its application to general
-    problems of electron escape and capture is discussed

@@ -1,4 +1,0 @@
-transistors theory and application part cascading
-    transistor amplifier stages formulae and values of circuit
-    parameters are tabulated for various possible arrangements
-    using point contact or junction transistors

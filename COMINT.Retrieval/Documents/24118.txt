@@ -1,9 +1,0 @@
-stabilizer for control of high direct voltages the
-    development and performance of a stabilizer for direct voltages
-    of the order of several thousands of volts are described the
-    application of the stabilizer to voltages of any value using as
-    variable resistor a large number of triode valves in series
-    suppressing the voltage divider bridge generally used to
-    control the regulator system is also discussed rectifier ripple
-    can be eliminated so that a simple type of filter can be
-    used

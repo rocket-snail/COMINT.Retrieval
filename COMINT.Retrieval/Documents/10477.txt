@@ -1,3 +1,0 @@
-series resonance with nonlinear capacitor a graphical
-    method is used to explain multiple resonance and hysteresis in
-    a circuit tuned by a capacitor with a dielectric

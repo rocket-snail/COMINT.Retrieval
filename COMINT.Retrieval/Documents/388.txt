@@ -1,6 +1,0 @@
-series operation of a glow discharge tube and a barretter
-    the replacement of the series resistor by a barretter results
-    in improved stabilization the operation of the type glow
-    discharge tube with type barretter was investigated and the
-    batch variations of the type barretter characteristics were
-    examined

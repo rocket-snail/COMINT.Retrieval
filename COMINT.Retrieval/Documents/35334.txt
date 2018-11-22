@@ -1,7 +1,0 @@
-the initiation of a vhf pulse discharge in neon an
-    investigation carried out at with pulses of duration sec is
-    described the distribution function of the electron velocities
-    the kinetic coefficient of the electron interaction with the
-    gas molecules the hf conductivity and the onset of discharge
-    induced by a rectangular hf pulse are examined the results are
-    presented graphically

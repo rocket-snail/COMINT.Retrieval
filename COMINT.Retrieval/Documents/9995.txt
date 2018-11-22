@@ -1,5 +1,0 @@
-radiofrequency power supply brief description of a
-    circuit designed for a maximum current output of an output
-    voltage of being provided by means of a chain of wire wound
-    resistors the variation of the dc output voltage measured over
-    a period of hours was part in

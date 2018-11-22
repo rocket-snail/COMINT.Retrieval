@@ -1,5 +1,0 @@
-three hole cores for coincident fluy memory coincident
-    flux operation permits pulse currents that are not limited by
-    coercive force threshold shorter read write times and greater
-    tolerance to temperature and pulse current variations are
-    obtained

@@ -1,7 +1,0 @@
-the relation of the satellite ionization phenomenon to
-    the radiation belts during march and april when telemetry
-    transmissions from explorer were monitored the strongest
-    enhancements of wwv signals received at columbus ohio occurred
-    at times of peak counting rate aboard the satellite many of
-    these events were accompanied by a partial or complete fade out
-    of the satellite signal see also of

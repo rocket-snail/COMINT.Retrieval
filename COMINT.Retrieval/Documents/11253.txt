@@ -1,4 +1,0 @@
-an analogue elctronic multiplier using transistors as
-    square wave modulators the multiplier is designed for high
-    speed operation at reasonable cost protection circuits for the
-    transistors are provided

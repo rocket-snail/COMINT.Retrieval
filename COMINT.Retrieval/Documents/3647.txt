@@ -1,4 +1,0 @@
-microwave conductivity of a plasma in a magnetic field
-    the boltzmann equation for electrons in a uniform isothermal
-    plasma is solved the microwave conductivity is simply related
-    to certain coefficients of the solution

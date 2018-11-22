@@ -1,6 +1,0 @@
-determination of the bandwidth of band pass filters for
-    centimetre waves theory developed previously of is used to
-    analyse the band pass filter operation of an arbitrary
-    arrangement of coupled cavity resonators a detailed treatment
-    is given for the system comprising two stagger tuned coupled
-    resonators

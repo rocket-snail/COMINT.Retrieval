@@ -1,9 +1,0 @@
-the pulse transfer function and its application to
-    sampling servo systems a method of analysis of sampling in a
-    linear system is described which is based on a sequence
-    transformation closely analogous to the laplace transform the
-    pulse transfer function relates a sequence of samples at the
-    output of the system to the input sequence of pulses producing
-    it servo systems with a finite time delay in the feedback loop
-    are particularly considered a list of transforms is provided in
-    an appendix

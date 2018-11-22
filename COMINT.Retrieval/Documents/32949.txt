@@ -1,6 +1,0 @@
-triode transformation groups the properties of the six
-    networks including respectively the six possible transmission
-    paths through a triode valve of are shown to be interrelated in
-    such a way that given the characteristics of any one o the
-    circuits those of the remainder are obtain ble by a routine
-    transformation process

@@ -1,5 +1,0 @@
-a statistical method for solution of the laplace
-    differential equation using electronic computers an electrical
-    analogue of the galton board is used in which the rolling balls
-    are replaced by pulses and the pins by pulse storage
-    units

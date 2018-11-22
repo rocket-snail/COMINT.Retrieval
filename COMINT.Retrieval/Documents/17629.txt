@@ -1,9 +1,0 @@
-the insertion characteristics of cascaded circuits a
-    method of dealing with series connected filter circuits in
-    particular those consisting of electromechanical elements is
-    considered a single quaripole is derived to represent cac
-    cascade connected equal and symmetrical quadripoles and
-    different types of end section are added to this equivalent
-    quadripole the impedance matrix of the equivalent network is
-    determined the application of the principle to a combination of
-    unequal quadripoles is outlined

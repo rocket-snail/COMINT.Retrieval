@@ -1,4 +1,0 @@
-filter design data for communication engineers a design
-    procedure is outlined which permits rapid computation of the
-    element values of the optimum zobel filter having a given
-    attenuation characteristic

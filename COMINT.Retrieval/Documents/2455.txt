@@ -1,8 +1,0 @@
-the cataloging of serials in microform under aacr 2
-    rules. until the publication of 2aacr 2,1 the anglo-american
-    cataloging rules dictated that microform reproductions be
-    catalogued under the general rules for monographs, serials,
-    music, etc., the chief source of information being the title
-    page of the original. 2aacr 2 1rules reverse this practice and
-    separate the original from the film reproduction in the
-    catalogue and in turn do a disservice to the user.

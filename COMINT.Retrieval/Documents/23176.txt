@@ -1,6 +1,0 @@
-generalization to nonlinear net works of a theorem due to
-    heaviside a theorem enunciated by heaviside and proved by
-    lorentz for linear electromagnetic systems subjected to a
-    suddenly impressed constant electric force is extended to
-    electrical net works comprising nonlinear reactances and linear
-    resistance

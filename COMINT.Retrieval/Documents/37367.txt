@@ -1,5 +1,0 @@
-description and analysis of automated data banks.
-    discusses the software, data organisation, and language of the
-    computerised data banks pegas, aidos, bastai, siod-2, bank, and
-    nabob. compares their data base capacity, retrieval time for an
-    index, and configuration of computer equipment for each.

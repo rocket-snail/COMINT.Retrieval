@@ -1,7 +1,0 @@
-resonance conditions in a sytem of two circuits with
-    inductive coupling assuming m r l and c constant conditions are
-    derived for the existence of one minimum and two maximum values
-    of current in the secondary in the general and in two
-    particular cases the results are applied to a band pass filter
-    and presented graphically for two different parameter valuex
-    low q values are assumed

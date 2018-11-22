@@ -1,3 +1,0 @@
-band filters with electronic bandwidth control the design
-    of a two stage filter with amplification in the feedback line
-    is considered

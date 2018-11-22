@@ -1,8 +1,0 @@
-system organization of the dyseac dyseac is a general
-    purpose high speed digital computer incorporating the following
-    special facilities external transfer operations concurrent with
-    internal computing such transfers referring directly to any
-    area of the internal storage system adjustment of speed of
-    internal programme so that it proceeds in step with the
-    external programme interruption of a programme for
-    interpolation of new orders

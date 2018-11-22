@@ -1,5 +1,0 @@
-pulse amplifier with submillimicrosecond rise time the
-    rise time is about the dc pulses modulate a carrier and the rf
-    pulses are amplified by a travelling wave valve demodulation
-    then gives the amplified dc pulses the maximum power gain is
-    and the maximum output voltage v

@@ -1,2 +1,0 @@
-hankel function (algorithm 124 [s17]) december, 1965
-    reilly, g. a. ca651213 jb march 6, 1978 3:35 pm

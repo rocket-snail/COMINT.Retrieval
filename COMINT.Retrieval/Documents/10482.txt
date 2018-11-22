@@ -1,6 +1,0 @@
-transient performance of servomechanisms digest of paper
-    published in a criterion of transient performance developed
-    previously and based on the time integral of absolute value of
-    error is applied to second and third order linear
-    servomechanisms with derivate or integral type error correction
-    and different types of input

@@ -1,2 +1,0 @@
-an attempt to detect the galactic magnetic field field
-    using zeeman splitting of the hydrogen line

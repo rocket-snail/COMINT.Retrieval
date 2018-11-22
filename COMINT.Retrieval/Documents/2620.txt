@@ -1,4 +1,0 @@
-manual sdi in special libraries. describes the need for
-    sdi (selective dissemination of information) services; outlines
-    the main procedures in sdi; and discusses the non-automated
-    operation of sdi services in a special library.

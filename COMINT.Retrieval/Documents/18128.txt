@@ -1,8 +1,0 @@
-solid circuits discussion of the international symposium
-    on electronic components held at malvern england a solid
-    circuit forming the equivalent of several transistors connected
-    by resistors and capacitors is obtained by depositing films of
-    conductive resistive and dielectric materials on a small block
-    of semiconductor material the solution of problems regarding
-    the operation of components at high temperatures is
-    mentioned

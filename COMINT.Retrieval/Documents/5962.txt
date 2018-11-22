@@ -1,4 +1,0 @@
-impedance converters the quadripole relations and
-    equivalent circuits of negative impedance converters are
-    summarized and applied to practical unbalanced converter
-    circuits with valves and transistors

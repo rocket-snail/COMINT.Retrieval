@@ -1,3 +1,0 @@
-large storage binary to decimal converter a digital
-    converter is described which will handle binary digit numbers
-    with a maximum input speed of bits

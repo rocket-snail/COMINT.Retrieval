@@ -1,2 +1,0 @@
-equivalence between the line width and the rate of energy
-    relaxation in the inversion spectrum of ammonia

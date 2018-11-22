@@ -1,4 +1,0 @@
-logical design of a computer for business use paper
-    presented at the convention on electronics in automation
-    cambridge england june describing an emi serial machine
-    operating at a clock rate of with magnetic drum storage

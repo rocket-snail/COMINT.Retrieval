@@ -1,4 +1,0 @@
-calculations for a power amplifier for a dc motor the
-    design is considered of valve circuits for driving low power
-    motors such as are often used in control or telemetry
-    equipment

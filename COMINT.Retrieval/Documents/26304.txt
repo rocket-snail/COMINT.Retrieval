@@ -1,7 +1,0 @@
-electronic differential analyser of the krzhizhanovski
-    energetics institute of the academy of sciences the analyser
-    comprises operational amplifiers four multipliers and four
-    function trans ormers with a harmonics generator the basic
-    circuits are described differential equations up to the order
-    have been solved equations up to the order could be
-    handled

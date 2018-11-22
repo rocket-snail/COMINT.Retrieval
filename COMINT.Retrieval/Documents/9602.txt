@@ -1,5 +1,0 @@
-a frequency independent microwave attenuator with largely
-    constant phase shift a waveguide attenuator of the rotary vane
-    type is described and calibration and error curves are given
-    close agreement of measured attenuation with theoretical values
-    was obtained in attenuators for the range of

@@ -1,6 +1,0 @@
-practical considerations about the relationship between
-    applied mathematics and information science. computer modelling
-    as an aspect of applied mathematics is discussed. the
-    integration of this type of research with research on
-    information systems is examined, with implications for the
-    applied mathematician.

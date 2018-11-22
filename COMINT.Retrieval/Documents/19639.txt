@@ -1,7 +1,0 @@
-commentary on improving the image of the special library.
-    comments on previous articles in 2spec. libr.1 by charles bauer
-    and w.d. robertson (2see1 81/2152 and 81/1157) regarding the
-    most important role of the special library. argues that special
-    librarians should become involved in educating high school
-    children as to what can be expected of an effective special
-    library.

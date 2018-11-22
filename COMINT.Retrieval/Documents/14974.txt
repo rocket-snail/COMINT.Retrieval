@@ -1,5 +1,0 @@
-the boltzmann equation in the theory of electrical
-    conduction in metals the boltzmann equation for electrical
-    conduction in metals is derived assuming where is the collision
-    time an expression independent of this assumption is considered
-    but not evaluated

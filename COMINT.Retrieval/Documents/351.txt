@@ -1,6 +1,0 @@
-the determination of the absorption of the ionosphere
-    from pulse amplitude observations equipment for measuring
-    ionospheric absorption by means of vertical incidence soundings
-    is described it operates at or with pulse width variable
-    between and details are given of the polarimeter receiving
-    circuit see also above

@@ -1,7 +1,0 @@
-magnetically keyed phase sensitive demodulators the
-    operation and performance of a pulse shaping circuit using
-    magnetic reactors is described the properties of three types of
-    phase sensitive demodulator are compared diode demodulators
-    have linear characteristics magnetic amplifier demodulators
-    have high input impedance and transistor demodulators combine
-    good linearity with low noise level

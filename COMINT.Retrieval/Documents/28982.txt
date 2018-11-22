@@ -1,4 +1,0 @@
-a gas tube inverter with the supply voltage below the
-    breakdown voltage investigation of the operating
-    characteristics of simple circuits using gas discharge tubes
-    working with direct voltages down to about

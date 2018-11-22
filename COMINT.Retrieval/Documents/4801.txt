@@ -1,6 +1,0 @@
-low noise amplifier circuit details are given of a
-    cascade amplifier using disk seal triodes designed for the
-    study of semiconductor noise at low temperatures the
-    theoretical noise figure of the amplifier is calculated and
-    compared with the value obtained from radiometer
-    measurements

@@ -1,6 +1,0 @@
-electron energy distribution measurements in gas
-    discharges accuracy of the distribution determination using the
-    method of druyvestyn is improved by differentiating the
-    langmuir probe signal and filtering mains frequency noise from
-    the output the second differential coefficient is obtained by
-    graphical differentiation

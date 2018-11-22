@@ -1,2 +1,0 @@
-jacobi (algorithm 85) august, 1963 naur, p. ca630824 jb
-    march 13, 1978 8:21 pm

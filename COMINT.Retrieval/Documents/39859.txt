@@ -1,4 +1,0 @@
-behaviour of square loop magnetic cores in circuits the
-    switching time with a loaded secondary winding is derived the
-    behaviour of ferrite cores under various conditions of loading
-    and drive is shown to agree with theory

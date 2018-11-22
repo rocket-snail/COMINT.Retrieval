@@ -1,6 +1,0 @@
-magnetic resonance for arbitrary field strengths
-    discussion is presented for a paramagnetic gas assuming that
-    strong collisions are the only important factor apart from the
-    applied magnetic field and that the latter comprises a
-    circularly polarized component in the plane perpendicular to
-    the constant components

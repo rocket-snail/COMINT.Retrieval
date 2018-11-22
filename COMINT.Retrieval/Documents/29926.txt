@@ -1,4 +1,0 @@
-the altitude of the line in the night airglow measured
-    from a rocket measurements using rocket borne photometers show
-    that the layer from which the line originates lies between and
-    with peak luminosity between and

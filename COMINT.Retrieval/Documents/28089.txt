@@ -1,8 +1,0 @@
-viscosity in the region it is shown that viscosity is of
-    primary importance for disturbances whose scale is smaller than
-    the mean free path and cannot be described by an effective
-    coefficient any initial disturbance on such a small scale will
-    disappear very rapidly assuming normally accepted values for a
-    altitude it follows that patches of ionization causing the
-    twinkling of radio stars cannot be due to turbulence in the
-    neutral gas as suggested by

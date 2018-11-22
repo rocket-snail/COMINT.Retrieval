@@ -1,6 +1,0 @@
-the synthesis of high purity oscillations suitable for
-    single sideband receivers a phase locked oc oscillator has its
-    output mixed with part of a spectrum to form an if in the
-    region an interpolating signal with unwanted components down is
-    used to lock the loop frequencies at intervals between and are
-    derived

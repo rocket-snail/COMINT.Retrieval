@@ -1,8 +1,0 @@
-different stations the possibility that the day to day
-    changes in absorption at slough swansea and freiburg are
-    identical is examined statistically after allowing for known
-    sources of error it is considered that the residual differences
-    in summer months are too small to be significant but that it is
-    probable that real differences occur in winter in both cases
-    the minimum probable correlation for the swansea slough
-    comparison is very high

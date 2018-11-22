@@ -1,4 +1,0 @@
-two alternative definitions of small signal r f power of
-    electron beams lagrangian or eulerian definition is chosen
-    according to the type of problem or method of
-    calculation

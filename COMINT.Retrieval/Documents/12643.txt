@@ -1,4 +1,0 @@
-construction of a strong field maser type self oscillator
-    proton spin resonance in a current of magnetically polarized
-    water is applied in the design of a maser which operates in
-    stable conditions without parasitic modulation

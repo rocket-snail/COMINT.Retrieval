@@ -1,5 +1,0 @@
-measurement of electric fields as applied to glow
-    discharges a magnetically compensated zero deflection electron
-    beam method is described using automatic recording field
-    strengths between and can be rapidly measured and tube wall
-    potentials can simultaneously be recorded

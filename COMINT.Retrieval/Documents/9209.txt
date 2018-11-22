@@ -1,8 +1,0 @@
-high frequency compensation of rc amplifiers a discussion
-    with special reference to transient response optimum values are
-    tabulated for the circuit parameters for some typical circuits
-    and compensating arrangements in a multistage amplifier simply
-    compensated by means of a coil in the anode leads the rise time
-    can be reduced to of the uncompensated value if the time
-    constants of the stages are equal and to if the time constants
-    are staggered

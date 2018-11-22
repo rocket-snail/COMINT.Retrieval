@@ -1,3 +1,0 @@
-penetration of transient electromagnetic fields into a
-    conductor theory for a uniform electric field abruptly applied
-    to a plane boundary

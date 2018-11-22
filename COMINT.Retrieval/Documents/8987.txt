@@ -1,3 +1,0 @@
-an oscillator for very low frequencies a circuit giving
-    sinusoidal oscillations with periods of or more uses cathode
-    follower connected triodes as phase shift elements

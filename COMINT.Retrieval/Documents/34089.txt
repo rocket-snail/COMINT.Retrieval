@@ -1,6 +1,0 @@
-plasma theory of the ionosphere the basic equations for
-    the dynamic and electrical behaviour of the ionosphere are
-    derived from the theory of a theory of a neutral plasma and are
-    used to investigate the problems of diffusion of the plasma at
-    layer boundaries em damping of air movements and tidal
-    oscillations of the ionosphere

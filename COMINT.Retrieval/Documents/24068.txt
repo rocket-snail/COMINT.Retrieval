@@ -1,4 +1,0 @@
-giant fluctuations in a degenerate fermi gas arguments
-    are presented that for sufficientsy weak intoractions the
-    ground states in two or more dimensions are the familiar plane
-    wave states

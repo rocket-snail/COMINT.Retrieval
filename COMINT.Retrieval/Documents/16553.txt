@@ -1,3 +1,0 @@
-the error effect of the operation amplifier in analogue
-    computers the various errors and their sources are discussed
-    and some methods of automatic correction are described

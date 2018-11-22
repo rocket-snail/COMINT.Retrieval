@@ -1,4 +1,0 @@
-practical circuits of video amplifiers using junction
-    transistors practical circuits with two two types of russian
-    transistor are described complex feedback is used in order to
-    reduce the distortion of the leading edges of the pulses

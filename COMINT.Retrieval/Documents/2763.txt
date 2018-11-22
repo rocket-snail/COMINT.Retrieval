@@ -1,5 +1,0 @@
-variable precision regulated low voltage high current
-    supply for large electromagnets circuit details are given of a
-    power supply with combined electronic and magnetic amplifier
-    control delivering currents of at with regulation and ripple
-    values

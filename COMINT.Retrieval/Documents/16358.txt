@@ -1,2 +1,0 @@
-transformer drive for switching transistors a note on
-    design problems and the preferred circuit arrangement

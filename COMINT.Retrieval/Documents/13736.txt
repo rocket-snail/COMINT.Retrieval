@@ -1,5 +1,0 @@
-correlation in geophysics the advantages of using a
-    correlation number based on a counting process are discussed in
-    comparison with the limitations inherent in the use of a
-    correlation coefficient examples are given of the correlation
-    of ionospheric data

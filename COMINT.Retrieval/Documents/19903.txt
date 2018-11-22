@@ -1,5 +1,0 @@
-transistor operation stabilization of operating points
-    the provision of optimum emitter and collector bias currents
-    for a transistor amplifier is discussed and a relation between
-    the values of resistors and voltages is derived which should be
-    satisfied if stable operation is to be achieved

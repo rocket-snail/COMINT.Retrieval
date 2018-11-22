@@ -1,7 +1,0 @@
-electrical wave filter with prescribed operating
-    characteristics calculations are simplified by the application
-    of image parameter theory to filter design which may outweigh
-    the advantages of economy in circuit components resulting from
-    the use of insertion loss methods exact relations are derived
-    between the quadripole and insertion loss characteristics of
-    reactance quadripoles and examples are given

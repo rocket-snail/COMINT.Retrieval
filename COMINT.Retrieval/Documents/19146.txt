@@ -1,4 +1,0 @@
-a high power transistor magnetic dc t amplifier the
-    amplifier uses a transistor chopper two transistor amplifiers
-    and a magnetic amplifier the circuits described give a high
-    gain high power output and high input impedance

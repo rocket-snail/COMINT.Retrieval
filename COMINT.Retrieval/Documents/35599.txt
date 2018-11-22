@@ -1,6 +1,0 @@
-viewdata and the information age. part 1' fact and
-    fantasy. the history of viewdata is traced and the differences
-    between viewdata (eg prestel) and teletext (eg ceefax) are
-    discussed. also described are the user's equipment, the data
-    base, viewdata operation, and similar systems developed in
-    other countries.

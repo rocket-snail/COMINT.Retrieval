@@ -1,3 +1,0 @@
-frequency modulator for a marginal oscillator a voltage
-    sensitive capacitor with dc bias is used in the tank circuit of
-    the oscillator

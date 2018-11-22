@@ -1,7 +1,0 @@
-radioactive charging effects with a dielectric medium the
-    characteristics of a cell consisting of a ray source a
-    polystyrene dielectric separator and a collector made of carbon
-    or metal were investigated radioactive current and voltage
-    sources similar to this cell are feasible the arrangement
-    offers a simple way of studying the effects of radiation on
-    electrical processes in solids

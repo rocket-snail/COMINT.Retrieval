@@ -1,9 +1,0 @@
-electron effective mass in solids a generalization of
-    bardeens formula a formula is derived for the effective mass of
-    an electron in a crystal which replaces the sum over excited
-    states in the usual sum rule by an integral over the surface of
-    the unit cell the integrand of the surface integral involves
-    the wave functions at the symmetry point or band extremum ad a
-    second solution of schroedingers equation at the same energy
-    but satisfying inhomogeneous boundary conditions on th cell
-    surface

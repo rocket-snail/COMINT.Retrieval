@@ -1,7 +1,0 @@
-a transistor high gain chopper type dc amplifier a
-    modulated system is employed consisting of a transistor input
-    chopper a high gain transistor ac amplifier and an output
-    chopper the system has an open loop gain of with a band
-    extending from direct current to peak output is and current
-    drift referred to input is in the range the voltage drift at
-    the input is less than

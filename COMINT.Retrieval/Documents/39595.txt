@@ -1,2 +1,0 @@
-diurnal change of ionospheric heights deduced from phase
-    velocity measurements at vlf

@@ -1,3 +1,0 @@
-chebyschev curve-fit (revised) (algorithm 318 [e2])
-    december, 1967 boothroyd, j. ca671208a jb february 26, 1978
-    2:20 pm

@@ -1,8 +1,0 @@
-hemloc-health and medical libraries' on-line catalogue.
-    paper presented at the 1980 library association of australia
-    cataloguers' section national cataloguing seminar, to which
-    this issue is devoted. in oct 79, the australian health
-    department library closed its card catalogue and commenced
-    input into hemloc-health and medical libraries' on-line
-    catalogue. discusses input, output, and basic cataloguing
-    aspects of hemloc.

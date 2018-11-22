@@ -1,6 +1,0 @@
-the transmission range of two circuit band pass filters
-    particularly for large bandwidths graphical methods of
-    calculation are developed which give results with accuracy
-    adequate for practical purposes the methods are applicable to
-    unsymmetrical and wide bandfilters and also to narrow band
-    symmetrical filters

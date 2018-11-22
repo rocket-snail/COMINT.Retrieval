@@ -1,4 +1,0 @@
-energy dissipation and secondary electron emission in
-    solids experiments show a proportionality between secondary
-    electron yield and energy dissipation by incident
-    electrons

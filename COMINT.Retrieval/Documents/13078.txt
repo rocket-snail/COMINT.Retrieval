@@ -1,8 +1,0 @@
-nonadiabatic behaviour in a low frequency beam type maser
-    characteristics are discussed theoretically when the adiabatic
-    focusing approximation travelling wave maser using chromium
-    doped rutile the active material is of small cross section and
-    is connected to standard size x band waveguides by dielectric
-    tapers performance figures quoted show appreciable gain per
-    unit length with a very large tunable bandwidth obtained
-    without the use of any external sh slowing structure

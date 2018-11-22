@@ -1,3 +1,0 @@
-a multiplier based on the two parabola method the method
-    of operation is described and the accuracy obtainable is shown
-    by some examples of calculations

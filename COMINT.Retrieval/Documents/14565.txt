@@ -1,9 +1,0 @@
-manual of documentation practices applicable to
-    defence-aerospace scientific and technical information. volume
-    3. section 7. information retrieval. 8. dissemination
-    practices. 9. microform systems and reprography. describes in a
-    series of separately-published volumes the basic documentation
-    practices which are involved in the initial setting up, and
-    subsequent operation of an information-library organisation to
-    provide defence-aerospace scientific and technical information
-    services.

@@ -1,4 +1,0 @@
-current time relationship in the forward direction of
-    electrolytic rectifiers qualitative explanation of the effects
-    observed on applying alternating rectangular and sinusoidal
-    voltages

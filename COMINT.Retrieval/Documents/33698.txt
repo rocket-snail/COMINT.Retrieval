@@ -1,6 +1,0 @@
-breakdown and leakage resistance investigation of
-    metallized paper capacitors the basis of comparison between
-    conventional paper and metallized paper capacitors is discussed
-    experiments on units with polyester impregnants suggest that if
-    self healing is of primary importance a pure aliphatic
-    hydrocarbon type of impregnant will give best results

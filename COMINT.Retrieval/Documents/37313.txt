@@ -1,5 +1,0 @@
-dc amplifier employing junction type transistors
-    temperature sensitive resistors and junction diodes are used in
-    conjunction with compensating networks to eliminate drift
-    effects a two stage amplifier circuit having a drift in hours
-    at room temperature is described

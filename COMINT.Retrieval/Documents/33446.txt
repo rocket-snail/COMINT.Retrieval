@@ -1,6 +1,0 @@
-longitudinal waves in an ionized medium plasma the
-    permittivity of an electronic plasma is calculated taking
-    account of electron motion the value found depends on the
-    spatial structure of the field a concept of spatial dispersion
-    is introduced the properties of longitudinal waves and their
-    relation to transverse waves are investigated

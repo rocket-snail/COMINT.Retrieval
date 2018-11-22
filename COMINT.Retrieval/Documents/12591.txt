@@ -1,7 +1,0 @@
-twisted magnetic fields in conducting fluids the
-    formation of loops in the lines of force of a twisted magnetic
-    field confined within a cylinder of radius r is discussed by
-    the method of normal modes the condition obtained for loop
-    formation is that the pitch of the twisted field be less than r
-    the velocity of alfven waves in this model is also
-    discussed

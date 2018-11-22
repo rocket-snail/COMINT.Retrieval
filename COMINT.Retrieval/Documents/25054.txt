@@ -1,6 +1,0 @@
-a simple varying capacitor method for the measurement of
-    contact potential difference in high vacuum apparatus based on
-    kelvins original method and suitable for use at a pressure of
-    mm hg is described the value found for the contact potential
-    difference between cu and ag films evaporated on to w sheets
-    was the ag being positive with respect to the cu

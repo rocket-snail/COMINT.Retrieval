@@ -1,3 +1,0 @@
-active low pass rc filters a method is described of
-    synthesizing the overall response of active cascaded low pass
-    filters using simple rc ladders and buffer amplification

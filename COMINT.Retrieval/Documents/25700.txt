@@ -1,6 +1,0 @@
-transistor bias design from thermal incremental
-    properties explicit formulae for design of single stage bias
-    networks are given two thermal parameters need to be known one
-    related to and the other to the rate of change of input current
-    applications and experimental verification of the theory are
-    included see also of

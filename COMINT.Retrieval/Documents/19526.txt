@@ -1,4 +1,0 @@
-height and thickness parameters for region f of the
-    ionosphere more useful parameters may be obtained by replacing
-    measurements of hm by measurements of heights at fixed
-    submultiples of the maximum density

@@ -1,8 +1,0 @@
-curvature induced error in the analysis of fading records
-    curvature of lines of maximum amplitude in a radio field
-    strength pattern drifting cross an array of three receivers can
-    introduce an error into the estimate of the drift velocity but
-    the error is expected to be large only infrequently the mean
-    error is sm ller for an array of receivers at the corners of an
-    equilateral triangle than for one at the corners of a right n
-    angled triangle

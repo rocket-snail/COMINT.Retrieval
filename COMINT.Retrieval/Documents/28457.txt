@@ -1,9 +1,0 @@
-the attainment of very high gain with unmatched
-    transistors when a transistor is used with unmatched source or
-    load impedance maximum gain is achieved with a particular value
-    of the impedance maximum gain is achieved with a particular
-    value of the impedance on the other side quadripole analysis is
-    used to determine this optimum impedance value with grounded
-    base or grounded emitter circuits the cut off frequency is the
-    same as with matched impedance with grounded collector circuits
-    the cut off frequency depends on the degree of matching

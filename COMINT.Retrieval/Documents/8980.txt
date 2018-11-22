@@ -1,4 +1,0 @@
-some comparisons between analogue and digital computers
-    the uses of analogue and digital computers in industry are
-    discussed and a large scale machine of each class is described
-    briefly

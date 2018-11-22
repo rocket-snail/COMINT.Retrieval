@@ -1,6 +1,0 @@
-dynamic core behaviour and magnetic amplifier performance
-    discrepancies between theoretical analyses and measurements of
-    magnetic amplifier performance are attributed to excessively
-    simplified representations of core behaviour experimentally
-    acquired knowledge of core flux characteristics is used to
-    predict the operation of amplifier systems

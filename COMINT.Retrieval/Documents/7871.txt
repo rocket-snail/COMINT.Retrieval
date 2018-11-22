@@ -1,4 +1,0 @@
-transistors generate multiwaveforms the use of junction
-    transistors as nonlinear network elements is illustrated by a
-    discussion of the design of a regenerative degenerative
-    oscillator

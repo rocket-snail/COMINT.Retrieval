@@ -1,3 +1,0 @@
-silicon transistor crystal oscillators have high
-    temperature stability outline of circuit design considerations
-    and discussion of experimental results

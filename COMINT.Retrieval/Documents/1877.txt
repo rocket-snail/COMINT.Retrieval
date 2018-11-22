@@ -1,3 +1,0 @@
-ferrite cored capacitors details are given of british
-    capacitors with ferrite loading for improving their attenuation
-    characteristics

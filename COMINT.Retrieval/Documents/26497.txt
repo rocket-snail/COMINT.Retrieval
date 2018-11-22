@@ -1,4 +1,0 @@
-a universal time component in geomagnetic disturbance
-    evidence of a universal time component in diurnal variation of
-    the geomagnetic disturbance is obtained from an analysis of k
-    index figures

@@ -1,6 +1,0 @@
-design of open ended microwave resonant cavities two
-    types of cavity for refractive index measurements are described
-    one rectangular in cross section the other cylindrical the
-    cavities are termin ted in short sections partitioned so that
-    each sub division is a waveguide operating below the cut off
-    frequency of the cavity

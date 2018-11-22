@@ -1,4 +1,0 @@
-a wide band single diode parametric amplifier using
-    filter techniques an arrangement is described using parallel
-    tuned circuits at appropriate points along the signal line to
-    give bandwidths up to at a centre frequency of

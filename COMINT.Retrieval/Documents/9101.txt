@@ -1,4 +1,0 @@
-cerenkov radiation from extended electron beams near a
-    medium of complex index of refraction if ferrites are used in
-    place of simple dielectric media the radiated power can under
-    suitable conditions be increased

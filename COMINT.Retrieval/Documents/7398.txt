@@ -1,3 +1,0 @@
-antenna matching network efficiency charts are presented
-    for estimating the transfer efficiency of matching
-    networks

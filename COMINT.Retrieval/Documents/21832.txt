@@ -1,5 +1,0 @@
-radar determination of the scattering properties of the
-    moon results obtained by feinstein are modified to take into
-    account the curvature of an irregular reflecting surface and
-    applied to problems associated with scattering from a lunar
-    surface which has two dimensional corrugations

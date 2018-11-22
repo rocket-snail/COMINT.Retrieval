@@ -1,7 +1,0 @@
-the nonlinearity of titanate capacitors ferroelectric and
-    ferromagnetic materials are compared and expressions for the
-    specific nonlinearity are derived for both these expressions
-    give the hysteresis loss cm referred to unity circular
-    frequency and a reactive power of the specific nonlinearities
-    of material with a dielectric constant of and ferrite with an
-    initial permeability of the same order of magnitude

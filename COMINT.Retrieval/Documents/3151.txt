@@ -1,5 +1,0 @@
-response of cascaded double tuned circuits the transient
-    and steady state responses are developed in terms of the
-    location of the poles of the transfer function the results can
-    also be applied to networks with a response asymmetrical about
-    the band centre but with a narrow relative bandwidth

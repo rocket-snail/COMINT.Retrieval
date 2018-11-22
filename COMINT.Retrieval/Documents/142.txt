@@ -1,4 +1,0 @@
-magnetic regulation transistor power supply the method
-    uses saturable reactors in the input and load circuit of the
-    supply for close regulation a silicon diode reference voltage
-    may be used

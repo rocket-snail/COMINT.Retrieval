@@ -1,6 +1,0 @@
-operation of a solid state quantum mechanical amplifier
-    the operation of an s band solid state quantum mechanical
-    amplifier operated at with a computed noise temperature of less
-    than is compared with similar devices and is used as proof of
-    the condition of discrete phonon saturation which has been
-    previously postulated see also of june

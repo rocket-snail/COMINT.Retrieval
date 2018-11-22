@@ -1,9 +1,0 @@
-a general overview of the olivetti network file system.
-    olivetti's network file system (nfs) is a standardised service
-    providing file access, management and transfer independently of
-    file location, specific host system, or data type. it is part
-    of the company's distributed data processing architecture.
-    discusses the principles which led to the design of nfs;
-    introduces the concept of a virtual file used by nfs; describes
-    the nfs architecture and functions of each element; and
-    explains the basic facilities available.

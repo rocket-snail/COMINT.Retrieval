@@ -1,5 +1,0 @@
-the maser and its application to satellite communication
-    systems the properties of the travelling wave maser with a comb
-    structure are discussed with particular reference to the
-    frequency range performance is estimated and compared with a
-    parametric amplifier in a practical aerial system

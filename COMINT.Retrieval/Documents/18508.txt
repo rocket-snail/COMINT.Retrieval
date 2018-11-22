@@ -1,5 +1,0 @@
-parametric oscillations with point contact diodes at
-    frequencies higher than pumping frequency the signal and idler
-    frequencies are symmetrically placed with respect to a multiple
-    of the pumping frequency the results are consistent with the
-    manley rowe relations

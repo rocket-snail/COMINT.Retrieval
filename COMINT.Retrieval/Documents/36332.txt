@@ -1,9 +1,0 @@
-the penetration depth in impure superconducting tin a new
-    method is described for measuring the surface impedance of
-    metals at low temperatures and at radio frequencies using this
-    method the surface impedance of normal tin and the penetration
-    depth in superconducting tin have been studied at about
-    frequency as a function of impurity content the measured
-    surface impedances agree well with the values expected and the
-    penetration depths increase with impurity content in
-    confirmation of pippards observations

@@ -1,4 +1,0 @@
-some considerations on optimum filters an explicit
-    formula is derived which gives the pulse response of a filter
-    for signal detection in o noise where the known signal is
-    expressed in the form of a trigonometric polynomial

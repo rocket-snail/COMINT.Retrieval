@@ -1,3 +1,0 @@
-the propagation of oscillations in electron beams with
-    uncompensated space charge mathematical treatment of an
-    electron cloud rotating in a uniform magnetic field

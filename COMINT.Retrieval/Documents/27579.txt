@@ -1,5 +1,0 @@
-voltage stabilizers for microwave oscillators analysis
-    indicates that the effect of variation of valve heater voltage
-    in commonly used stabilizers of is not serious in the case of
-    series parallel arrangements but may be serious where a single
-    series valve is used

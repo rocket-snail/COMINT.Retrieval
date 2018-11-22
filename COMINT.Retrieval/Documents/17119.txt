@@ -1,3 +1,0 @@
-stabilizer for alternating voltages the design of a
-    biased reactor arrangement having good frequency independence
-    and satisfactory speed of operation is discussed

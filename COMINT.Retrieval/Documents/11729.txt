@@ -1,5 +1,0 @@
-propagation of a plane electromagnetic wave in a plasma
-    at cut off and beyond a complete solution of maxwells equations
-    for two typical density distributions is used to demonstrate
-    the limitations of the geometrical optics hypotheses for thin
-    plasmas

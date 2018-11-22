@@ -1,6 +1,0 @@
-modems. 1964-january, 1982 (citations from the ntis data
-    base). the design, selection and utilisation of modems are
-    investigated in the cited government-sponsored research
-    reports, with applications to data transmission, laser
-    communications, voice communications, and satellite
-    communications.

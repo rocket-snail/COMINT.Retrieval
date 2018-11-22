@@ -1,7 +1,0 @@
-experimental investigations on multivibrators and
-    amplifier circuits with secondary electron emission valves as
-    described by kroebel multivibrators of the type described by
-    kroebel of february were investigated pulse flank slopes of the
-    order of up to pulse amplitudes of were obtained the
-    multivibrator can be modified to act as a pulse amplifier
-    without feedback

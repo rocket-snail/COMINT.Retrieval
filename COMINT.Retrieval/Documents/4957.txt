@@ -1,5 +1,0 @@
-the west german national serial data system. the west
-    german national serials data base is being jointly developed by
-    the deutsches bibliotheksinstitut and the state library in west
-    berlin. it currently covers 260,000 titles-800,000 holdings in
-    1,000 west german libraries.

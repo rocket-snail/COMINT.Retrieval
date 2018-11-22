@@ -1,7 +1,0 @@
-absorption and electron distribution in the layer
-    determined from measurements of transmitted radio signals from
-    earth satellites a comparison is made between measured and
-    theoretically derived values of field strength of received
-    signals when the satellite is in the region of maximum electron
-    concentration and in regions above and below this level field
-    strength curves for distances are given

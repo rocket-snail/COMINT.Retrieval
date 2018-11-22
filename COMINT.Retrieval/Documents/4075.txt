@@ -1,4 +1,0 @@
-a simple quartz crystal oscillator driven by a junction
-    transistor the transistor is connected with grounded base and
-    the quartz crystal is operated in its series mode the frequency
-    range is up to about and the output power up to about

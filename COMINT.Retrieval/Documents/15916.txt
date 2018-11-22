@@ -1,7 +1,0 @@
-on the propagation of electromagnetic waves in a medium
-    with appreciable spatial dispersion brief description of a
-    method more detailed then that of ginzburg of april in which
-    expansions are obtained for direct and inverse dispersion it is
-    shown that in cubic crystals inclusion of the spatial
-    dispersion leads to a weak anisotropy of the index of
-    refraction

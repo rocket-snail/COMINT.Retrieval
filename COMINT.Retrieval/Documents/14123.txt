@@ -1,8 +1,0 @@
-environmental assessment data systems user guide' project
-    profile system. the report is a user guide to the project
-    profile system (pps), a computerised data base on projects of
-    various types that pertain to specific industrial categories.
-    pps is 1 of 5 data bases which are components of the
-    environmental assessment data systems (eads), designed to aid
-    researchers in environmental assessment, emissions
-    characterisation, and control technology development.

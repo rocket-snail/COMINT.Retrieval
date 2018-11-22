@@ -1,2 +1,0 @@
-a theoretical comparison of average and spot noise figure
-    in transistor amplifiers

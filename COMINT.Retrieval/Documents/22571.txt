@@ -1,5 +1,0 @@
-on the determination of the true height of ionization at
-    high latitudes the matrix metred of bubben for determining true
-    height electron density profiles form ionograms is modified to
-    allow the use of the third magneto ionic z component when the
-    ordinary component is unsuitable

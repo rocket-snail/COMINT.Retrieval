@@ -1,2 +1,0 @@
-effective cross sections of electrostatic interaction in
-    plasmas definitions

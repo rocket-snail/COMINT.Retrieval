@@ -1,3 +1,0 @@
-measuring load characteristics of silicon cells a simple
-    test circuit is described which can be inserted in any type of
-    rectifier circuit

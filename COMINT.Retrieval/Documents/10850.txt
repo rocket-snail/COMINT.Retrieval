@@ -1,7 +1,0 @@
-function generators based on linear interpolation with
-    applications to analogue computing by using suitable
-    combinations of diode circuits and high gain feedback
-    amplifiers it is possible to generate functions without
-    restriction to monotonic characteristics experimental results
-    are presented for a sin generator in which the error is about
-    of the maximum output

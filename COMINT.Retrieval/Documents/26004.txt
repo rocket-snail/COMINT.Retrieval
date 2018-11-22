@@ -1,5 +1,0 @@
-the energy properties of nonlinear reactance circuits
-    there will be a conversion of power at one frequency to power
-    at another frequency if one frequency is a rational fraction of
-    the other or if at least one intermodulation frequency
-    exists

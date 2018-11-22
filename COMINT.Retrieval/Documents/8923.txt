@@ -1,5 +1,0 @@
-the initial transient behaviour of filters with
-    characteristic amplitude response the distortion of a step
-    voltage input by butterworth type and tchebycheff type filters
-    is analysed calculations are made for all pass equalizing
-    networks for the former type

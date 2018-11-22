@@ -1,4 +1,0 @@
-an introduction to matrices and their use in transistor
-    circuit analysis brief details are given for analysing both
-    simple and complex circuits using transistors with emphasis on
-    application to practical circuits

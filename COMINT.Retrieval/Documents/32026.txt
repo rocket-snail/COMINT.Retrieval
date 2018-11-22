@@ -1,5 +1,0 @@
-a minimal noise preamplifier for proportional counters
-    and similar applications a negative feedback amplifier is
-    described which is linear over an input range of db the maximum
-    gain is and is attained over a frequency range of about signals
-    of can be recognized

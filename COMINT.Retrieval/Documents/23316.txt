@@ -1,7 +1,0 @@
-development of an application software for on-line
-    information retrieval. a software package has been developed
-    for on-line searching the inspec data base. care has been taken
-    to maintain the portability of the package so that it can be
-    run on any third generation computer system. details of the
-    package and its utilisation for sdi service have been
-    described.

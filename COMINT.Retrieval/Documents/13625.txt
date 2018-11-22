@@ -1,5 +1,0 @@
-a supplement to a study of electromagnetic point point
-    sources a supplement to a previously published paper
-    establishing that there are only two fundamental fields which
-    can effectively be replaced by a point source corresponding to
-    a distribution concentric about its origin

@@ -1,7 +1,0 @@
-compensation of direct coupled amplifiers against drift
-    caused by heater voltage fluctuations the output from a
-    thermopile heated from the source which supplies the valve
-    heaters of an amplifier is fed back either to the input or to
-    the indicator to compensate for zero drifts the drift is
-    reduced by two thirds without loss of amplifier
-    sensitivity

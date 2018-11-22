@@ -1,8 +1,0 @@
-development of an information system for urban planning
-    and human environment in sfry. paper presented at the european
-    seminar on information systems, madrid, june 1979. the yugoslav
-    project on an information system for urban planning is
-    described. the development of the system, its characteristics,
-    organisational structure, relationship with other systems,
-    sources and users of information as well as tasks involved in
-    its realisation are analysed.

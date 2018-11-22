@@ -1,9 +1,0 @@
-transistor shift registers three different types of high
-    speed transistor shift registers are discussed the high speed
-    is made possible by the use of nonsaturating bistable circuits
-    two general shift registers r are described making use of
-    respectively one n and two transistors per stage the third
-    register is of a specialized variety capable of shifting a
-    single digit in addition an analysis is made of the triggering
-    requirements of the register using a single transistor per
-    stage

@@ -1,5 +1,0 @@
-electronic magnetic field stabilizer with feedback
-    fluctuations in the magnetizing current of an electromagnet are
-    integrated using a vibrator amplifier in a circuit with a time
-    constant of ms and the derived signal energizes a compensating
-    coil

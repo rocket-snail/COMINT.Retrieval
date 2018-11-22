@@ -1,6 +1,0 @@
-new phase and frequency comparison circuits a method is
-    described for producing a rectified voltage which is a function
-    of the phase and frequency difference of two alternating
-    voltages it is particularly suitable for pulse shaped waveforms
-    and its application for synchronizing systems in television
-    receivers is examined in detail

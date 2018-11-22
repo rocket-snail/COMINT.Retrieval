@@ -1,6 +1,0 @@
-characteristics of an ammonia beam maser the design
-    construction and operating characteristics of a maser are
-    described with particular reference to the use of the line
-    threshold oscillation conditions and tuning effects are
-    calculated theoretically and compared with observed
-    performance

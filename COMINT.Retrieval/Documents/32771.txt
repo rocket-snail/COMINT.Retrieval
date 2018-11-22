@@ -1,4 +1,0 @@
-experiments with plasma rings a brief description is
-    given of a plasma gun discharging into a glass drift tube
-    measurements have been made of the circuit current and the
-    magnetic flux carried by the plasma

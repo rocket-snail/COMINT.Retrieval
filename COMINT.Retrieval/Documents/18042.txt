@@ -1,8 +1,0 @@
-pulse generator with variable repetition frequency and
-    pulse width an instrument designed around the eq nonode valve
-    is described the principle of operation is that of the detector
-    of the pulse repetition frequency can be varied between and or
-    higher the duty factor from to and the amplitude from to the
-    pulse flank occupies of the pulse period pam pwm and pphm can
-    be used a complete circuit diagram including component values
-    is given

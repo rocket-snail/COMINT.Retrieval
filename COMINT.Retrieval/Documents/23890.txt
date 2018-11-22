@@ -1,6 +1,0 @@
-on the faithful reproduction of the flat top of a pulse
-    in a high fidelity pulse amplifier an experimental verification
-    is reported of analysis presented previously it was
-    demonstrated that the anode current may sag appreciably if the
-    time constants of the cathode and screen grid circuits are not
-    properly chosen

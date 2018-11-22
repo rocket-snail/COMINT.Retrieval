@@ -1,7 +1,0 @@
-art modern/dialog. art modern is an on-line data base,
-    available through lockheed dialog since 1977. it contains
-    citations and abstracts from the semiannual artbibliographies
-    modern, beginning with 5 (1) 1974. outlines its scope,
-    coverage, and indexing characteristics; offers some search
-    hints; and provides (with comments) the texts of 9 on-line
-    searches.

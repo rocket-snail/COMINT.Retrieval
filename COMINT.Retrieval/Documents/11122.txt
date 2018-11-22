@@ -1,5 +1,0 @@
-remarks on spin wave theory for the ferromagnetic
-    exchange problem a theory is developed which is essentially
-    equivalent to the bloch bethe van kranendonk formalism see
-    thermodynamic properties below the curie point are fully
-    treated

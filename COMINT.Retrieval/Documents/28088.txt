@@ -1,8 +1,0 @@
-observations of galactic radiation on a wave length of cm
-    report of measurements made using the wurzburg mirror at
-    marcoussis results are presented in the form of an isophot map
-    of the galaxy with intensities expressed as apparent
-    temperature in arbitrary units the cm radiation is attributed
-    principally to ionized hydrogen a table giving the positions of
-    localized sources includes five thought to have been observed
-    for the first time

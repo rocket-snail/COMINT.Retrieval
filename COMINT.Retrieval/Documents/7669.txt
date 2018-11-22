@@ -1,4 +1,0 @@
-an interferometer for the measurement of radio source
-    sizes the cross type radio telescope at sydney o has been
-    modified to study sources in the range arc the instrument and
-    its operation are described

@@ -1,7 +1,0 @@
-spontaneous voltage fluctuations in a resonant circuit
-    the rms value of voltage fluctuations of thermal origin at the
-    terminals of a parallel rlc circuit is determined for the
-    unusual case where the frequency range in question is not
-    negligible in comparison with the bandwidth of the resonant
-    circuit curves are given to facilitate numerical
-    calculation

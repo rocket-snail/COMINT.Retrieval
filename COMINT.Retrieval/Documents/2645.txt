@@ -1,8 +1,0 @@
-radio observation of the earth satellite describes
-    observations of field strength bearing and doppler shift of the
-    signal it is considered that to explain anomalous field
-    strengths and doppler shifts propagation involving ground
-    scattering followed by ionospheric reflection must be
-    considered anomalous doppler effects include rapidly varying
-    shift and apparent recession when the satellite is approaching
-    the receiver

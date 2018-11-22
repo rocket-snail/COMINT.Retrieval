@@ -1,4 +1,0 @@
-signal converter by magnetic cores for parametron device
-    input signals for a parametron device may be switched using
-    ferromagnetic cores whose permeability is controlled by direct
-    voltage

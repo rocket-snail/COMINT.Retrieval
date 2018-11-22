@@ -1,7 +1,0 @@
-forward current surge failure in semiconductor rectifiers
-    a semiconductor current limiter a constant current device is
-    described which uses the field effect at a junction the reverse
-    bias applied controls the conductance of a thin sheet of
-    semiconductor various models and a particular design are
-    discussed and some applications to switching and waveform
-    generation are given

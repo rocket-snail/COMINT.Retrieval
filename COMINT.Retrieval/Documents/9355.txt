@@ -1,7 +1,0 @@
-combined reading and writing on a magnetic drum a
-    technique is described which uses a single head for storing
-    information and reading it back design of a suitable amplifier
-    for this method of operation is discussed the process can be
-    performed with successive cells at the repetition rate of sec
-    the technique extends the use of magnetic drums to data
-    processing as well as storage

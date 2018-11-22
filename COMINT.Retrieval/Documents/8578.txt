@@ -1,5 +1,0 @@
-isonet: an international network for standards. gives a
-    short historical review of standards and then describes the
-    establishment, organisation and tasks of isonet, the basic
-    concepts of information processing, the definition of
-    bibliographic data and the iso thesaurus.

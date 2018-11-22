@@ -1,2 +1,0 @@
-experimental and theoretical investigation of
-    semiconductor hall effect generators

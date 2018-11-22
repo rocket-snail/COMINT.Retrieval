@@ -1,4 +1,0 @@
-effect of upper sidebands in travelling wave parametric
-    amplifiers the effect of higher sidebands on paramagnetic
-    amplification is investigated for circuits of limited bandwidth
-    and infinite bandwidth

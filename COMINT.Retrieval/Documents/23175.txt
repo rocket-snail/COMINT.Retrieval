@@ -1,7 +1,0 @@
-changes in amplitude of the day variation in cosmic ray
-    intensity during the solar cycle of activity the amplitude
-    variation is in general agreement with the changes in solar
-    activity assessed by the sunspot number only for the years and
-    the poor correlation for the years may be explained by the
-    changes in the electromagnetic conditions in interplanetary
-    space during the solar cycle

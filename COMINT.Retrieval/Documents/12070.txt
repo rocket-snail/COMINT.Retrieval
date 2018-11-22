@@ -1,2 +1,0 @@
-an algorithm for determining minimal representations of a
-    logic function

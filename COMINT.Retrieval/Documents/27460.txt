@@ -1,8 +1,0 @@
-a sine wave generator with periods of hours an inverse
-    function generator based on the difference amplifier is
-    examined and examples of its use are considered in a
-    logarithmic voltmeter and for sine triangle waveform
-    transformation triangle sine transformation can be achieved by
-    negative feed back a vlf triangular waveform obtained from a cr
-    circuit and relay is thus converted to an accurate sine wave
-    without transients

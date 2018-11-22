@@ -1,9 +1,0 @@
-wire cylinder electric discharges in air in relation to
-    the space charge field emission hypothesis study of
-    experimental data on wire cylinder discharges in relation to
-    the field emission hypothesis yields graphical and arithmetic
-    methods of finding the effective field at the time of flash
-    initiation and the space charge field at the wire the effective
-    field is of the order of and is interpreted as a measure of the
-    emission field of the cathode metal or of the ionized air see
-    also of

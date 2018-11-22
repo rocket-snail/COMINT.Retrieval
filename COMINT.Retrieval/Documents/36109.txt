@@ -1,6 +1,0 @@
-a design method for direct coupled flip flops design
-    procedure is described securing independence of valve
-    characteristics and achieving stability with resistors and
-    supply voltages which may vary by given percentages from the
-    nominal values switching speed for given stability is a
-    function of the supply voltages

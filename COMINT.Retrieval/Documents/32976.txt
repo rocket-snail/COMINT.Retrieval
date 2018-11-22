@@ -1,4 +1,0 @@
-continuous radar echoes from meteor ionization trails
-    preliminary results are presented of experiments giving support
-    to the view that meteoric ionization is the most important
-    factor in extended range chf propagation

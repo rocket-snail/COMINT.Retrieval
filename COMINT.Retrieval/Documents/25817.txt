@@ -1,4 +1,0 @@
-differential amplifier features dc stability drift in
-    transistorized amplifiers is analysed and circuits for reducing
-    drift are described for a particular amplifier a h test showed
-    the equivalent input drift to be less than from to c

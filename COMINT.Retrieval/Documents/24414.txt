@@ -1,7 +1,0 @@
-icl throws out its ipa challenge. briefly describes the
-    development and features of icl's information processing
-    architecture which was launched in the summer of 1980 to
-    compete with ibm. the architecture includes both hardware and
-    software and was designed to encompass future developments such
-    as office automation. discusses the possibility of linking up
-    with a telecommunications network.

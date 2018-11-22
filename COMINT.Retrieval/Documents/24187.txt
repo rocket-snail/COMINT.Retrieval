@@ -1,7 +1,0 @@
-automatic speech recognition' the dawid system. a
-    collection of papers describing progress in the development of
-    the dawid speech recognition system as well as the different
-    approaches in evaluating and measuring the performance of the
-    system. dawid is a real time isolated word recognition machine
-    consisting of a hardware analyser and a software classifier
-    programmed on a pdp computer.

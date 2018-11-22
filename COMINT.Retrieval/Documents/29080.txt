@@ -1,3 +1,0 @@
-sweep frequency observations of meteor scatter bursts the
-    duration of the signals as a function of frequency agrees
-    closely with the theoretical inverse square relation

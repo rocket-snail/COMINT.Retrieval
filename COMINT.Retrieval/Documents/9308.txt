@@ -1,4 +1,0 @@
-energy momentum tensor for plane waves a general form is
-    established for the energy gating in a homogeneous medium the
-    field equations of which are derivable from a quadratic
-    lagrangian function

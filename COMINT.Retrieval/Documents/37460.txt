@@ -1,5 +1,0 @@
-use of the silicon resistor in the d c stabilization of
-    transistor circuits stabilization of ground emitter small
-    signal stages over a wide range of temperatures is achieved
-    with a si resistor of high positive temperature coefficient in
-    the emitter circuit

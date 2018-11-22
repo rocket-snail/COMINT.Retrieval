@@ -1,4 +1,0 @@
-noise generated in the ion sheath of a probe the
-    frequency dependence of the saturated diode current is examined
-    theoretically and results obtained are compared with measured
-    values

@@ -1,4 +1,0 @@
-on stochastic linear systems systems governed by nth
-    order linear differential equations having random coefficients
-    are studied and the methods developed are applied to a r l c
-    circuit having random capacitance variations

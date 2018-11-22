@@ -1,5 +1,0 @@
-system noise measurement of a solid state maser a
-    complete amplifier system with an effective input noise
-    temperature of is described the sources of noise are analysed
-    and it is shown that the noise temperature of the maser proper
-    is close to the theoretical value

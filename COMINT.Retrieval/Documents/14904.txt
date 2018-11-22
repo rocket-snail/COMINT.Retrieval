@@ -1,4 +1,0 @@
-contribution to the theory of electromagnetic wave
-    propagation in media with random heterogeneities of the
-    refractive index a correlation function is derived which can be
-    used in connection with em wave diffraction problems

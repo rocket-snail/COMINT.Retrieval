@@ -1,5 +1,0 @@
-amplifier for the generation of accurately controlled
-    microsecond pulses a description is given of a pulse amplifier
-    whose output voltage can be accurately controlled by the
-    setting of a ten turn potentiometer the output amplitude and
-    pulse lengths are variable up to and respectively

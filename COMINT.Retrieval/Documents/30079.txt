@@ -1,2 +1,0 @@
-theory of resonance absorption of energy by a rotating
-    solid

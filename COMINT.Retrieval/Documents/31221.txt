@@ -1,8 +1,0 @@
-novel circuit for a stable variable frequency oscillator
-    a circuit designed to reduce the effect of resonator frequency
-    drift uses a multiloop feedback arrangement with three
-    oscillators maintained at frequencies such that one is the sum
-    of the other two the sum frequency being controlled by a quartz
-    crystal while the other two are controlled by variable
-    resonators the circuit and frequency drift temperature
-    characteristics of an experimental oscillator are shown

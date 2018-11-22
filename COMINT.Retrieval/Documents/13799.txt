@@ -1,7 +1,0 @@
-nomogram for air gap design a nomogram is given for
-    determining the relation between the actual air gap in a choke
-    or transformer and its effective value for normal types of
-    laminations thermistors a review is given of the various types
-    of thermistor their method of manufacture and the physical
-    theory of their operation some typical applications are
-    outlined

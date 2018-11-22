@@ -1,3 +1,0 @@
-theory of the complex refractive index a quantum
-    mechanical formalism is developed for representing the complex
-    refractive inded of a gas

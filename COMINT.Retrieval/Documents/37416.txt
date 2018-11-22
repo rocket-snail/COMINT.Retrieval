@@ -1,3 +1,0 @@
-nonlinear network problems general analysis is presented
-    for flow problems a number of theorems are proved relaxation
-    methods are used

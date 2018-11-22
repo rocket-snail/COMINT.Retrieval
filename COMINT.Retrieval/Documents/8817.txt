@@ -1,4 +1,0 @@
-a silicon junction diode modulator by the use of biased
-    diodes in a specially designed bridge circuit is converted to
-    over ange from audio frequencies to at least with a zero
-    stability of better than at room temperature and

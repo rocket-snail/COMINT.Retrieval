@@ -1,8 +1,0 @@
-transformation for constant impedance networks certain
-    constant impedance networks having a restricted range of
-    variation of loss often contain components which are difficult
-    to manufacture the transformation which is described overcomes
-    this difficulty at the expense of two extra resistors in the
-    network and a small amount of frequency independent loss added
-    to the characteristics another application is the absorption of
-    inductor dissipation in special cases

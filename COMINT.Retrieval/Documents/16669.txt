@@ -1,3 +1,0 @@
-voltage and current stabilization with power transistors
-    basic circuits and design data and details of two power units
-    are given

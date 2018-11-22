@@ -1,2 +1,0 @@
-a variational calculation of the equilibrium properties
-    of a classical plasma

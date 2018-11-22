@@ -1,4 +1,0 @@
-the development of a high performance tape handler
-    magnetic tape wide is handled completely out of contact at by
-    means of vacuum techniques start stop and reverse times are
-    better than

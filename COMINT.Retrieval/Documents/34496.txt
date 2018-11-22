@@ -1,5 +1,0 @@
-the geometrically simplest form of representation of the
-    general lossy quadripole the transformation discussed is based
-    on a construction of four planes perpendicular to each other in
-    pairs in a non euclidean system it can be represented in a
-    drawing by stereographic projection

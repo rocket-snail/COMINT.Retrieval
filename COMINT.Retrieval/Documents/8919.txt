@@ -1,6 +1,0 @@
-the spherical coil as an inductor shield or antenna the
-    coil is a single layer winding of constant axial pitch on a
-    spherical surface its properties can be expressed by simple
-    formulae and can be used to evaluate the shielding effect of a
-    closed nonmagnetic metal shell resonance effects are
-    studied

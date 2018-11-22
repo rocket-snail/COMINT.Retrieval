@@ -1,2 +1,0 @@
-the static characteristics of the cathode coupled limiter
-    clipper

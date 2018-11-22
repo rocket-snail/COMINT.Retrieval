@@ -1,5 +1,0 @@
-some characteristics of the upper air magnetic field and
-    ionospheric currents magnetic scalar intensity from rocket data
-    is compared with that derived by extrapolation from the surface
-    vector field the agreement is good for equatorial regions but
-    is only fair for white sands new mexico

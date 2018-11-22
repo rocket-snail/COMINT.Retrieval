@@ -1,4 +1,0 @@
-differentiating circuits passive network and feedback
-    amplifier types of differentiator are discussed and the
-    performances of two variants of the latter type are
-    compared

@@ -1,8 +1,0 @@
-a critical discussion about special ionospheric
-    characteristics twelve month running means of f and r are
-    compared for locations and linear relations between the two are
-    apparent for limited regions deviations from linearity may be
-    genuine at some locations and due to magnetic effects but may
-    arise from observational errors and inconsistencies at others
-    present data are inadequate for examination of m factors on a
-    world wide basis

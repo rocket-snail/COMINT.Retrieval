@@ -1,6 +1,0 @@
-ionization of gas by electrons a statistical analysis is
-    made of the ionization produced by an electron when it is
-    absorbed in hydrogen linear integral equations are obtained for
-    the average number and the mean square fluctuations of the ion
-    pairs these are evaluated approximately for high values of
-    incident energy

@@ -1,6 +1,0 @@
-some features of the transverse propagation of high
-    frequency waves in a magneto active plasma mathematical
-    analysis based on the kinetic equations of nonrelativistic
-    theory for a simple case of transverse wave propagation in a
-    uniform plasma located in a constant magnetic field the effect
-    of electron collisions with other particles is neglected

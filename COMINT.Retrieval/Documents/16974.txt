@@ -1,5 +1,0 @@
-origin of noise in a ferromagnetic parametric amplifier
-    further measurements on a ferromagnetic parametric amplifier
-    with longitudinal pumping indicate that the exceptionally high
-    noise figure previously reported is not thermal in
-    origin

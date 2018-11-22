@@ -1,9 +1,0 @@
-ground conductivity determinations at low radio
-    frequencies by an analysis of the spheric signatures of
-    thunderstorms the experimental and analytical techniques are
-    described a detailed comparison of predicted and experimentally
-    observed waveforms indicates that the effective conductivity
-    can be determined to a precision of one or two significant
-    figures application of the techniques for evaluating the
-    reflection and transmission properties of the lower ionosphere
-    is suggested

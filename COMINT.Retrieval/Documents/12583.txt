@@ -1,2 +1,0 @@
-a mathematical basis for an error analysis of
-    differential analysers

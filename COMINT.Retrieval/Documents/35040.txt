@@ -1,9 +1,0 @@
-the utility factor in circuit diagrams the importance is
-    stressed of laying out circuit diagrams so that the working of
-    the circuit can be easily and clearly grasped the common type
-    of drawing office diagram may look neat but usually requires to
-    be radically rearranged to indicate circuit functions it is
-    suggested that circuit diagrams should be drawn on the same
-    general plan as block diagrams a standard lay out being used
-    for common sub circuits and only lines carrying signals being
-    included

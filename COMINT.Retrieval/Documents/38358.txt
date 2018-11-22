@@ -1,3 +1,0 @@
-the ferroresonant circuit a theoretical and experimental
-    treatment of the resonance obtained by varying the voltage
-    applied to a circuit containing an iron cored inductance

@@ -1,3 +1,0 @@
-electrically variable time delay using cascaded drift
-    transistors eight cascaded transistors provide a variation of
-    delay of with a minimum cut off frequency of

@@ -1,5 +1,0 @@
-suggestions on constructing oscillators the operation of
-    various valve and transistor oscillators is analysed fixed and
-    continuously tunable oscillators pulse generators and two
-    frequency oscillators for special applications are
-    discussed

@@ -1,4 +1,0 @@
-electrical noise in carbon film potentiometers noise
-    characteristics are studied as a function of parameters such as
-    the speed of rotation of the sliding contact and the load
-    current

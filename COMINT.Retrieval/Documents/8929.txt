@@ -1,6 +1,0 @@
-retrospective conversion at a two-year college.
-    retrospective conversion of the holdings, at miami university
-    at hamilton library, into machine-readable form via the oclc
-    system is described. results of a test conversion are given and
-    indicate that 7.32 years would be needed for complete
-    conversion.

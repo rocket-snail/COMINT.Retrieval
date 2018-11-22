@@ -1,5 +1,0 @@
-ionospheric indices of solar activity it is suggested
-    that a simple index based on e layer measurements at a single
-    station is adequate and that the additional effort required to
-    provide the index based on f layer measurements at three
-    stations is not justified see also of minnis

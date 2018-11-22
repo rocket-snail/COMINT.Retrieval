@@ -1,5 +1,0 @@
-bridge stabilized oscillators and their derivatives
-    reprinted from general analysis is presented for the operation
-    of the bridge stabilized feedback oscillator and modifications
-    obtained by interchanging bridge elements crosswise or by
-    unbalancing the bridge are discussed

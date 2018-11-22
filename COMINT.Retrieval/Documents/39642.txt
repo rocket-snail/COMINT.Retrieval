@@ -1,3 +1,0 @@
-a method for obtaining the wave solutions of
-    ionospherically reflected long waves including all variables
-    and their height variation

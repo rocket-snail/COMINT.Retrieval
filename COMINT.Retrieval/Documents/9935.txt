@@ -1,5 +1,0 @@
-equivalent circuit for a passive nonreciprocal network a
-    nonreciprocal quadripole is considered comprising an ideal
-    amplifier and phase shifter compared with the gyrator
-    representation this method facilitates the linking of the
-    network parameters with measurements

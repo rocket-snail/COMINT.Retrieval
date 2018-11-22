@@ -1,9 +1,0 @@
-a performance evaluation of similarity measures, document
-    term weighting schemes and representations in a boolean
-    environment. reports on the results of a study which aimed to
-    evaluate ranking algorithms so that generalisations about their
-    effectiveness could be made. a single data base, common user
-    population, and common sets of queries and relevance judgements
-    were used. also reports on some unexpected findings relating to
-    the performance of document representations and searcher
-    differences.

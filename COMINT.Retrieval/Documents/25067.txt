@@ -1,4 +1,0 @@
-on the energy dissipation of conduction electrons
-    undergoing elastic scattering by impurities a brief theoretical
-    note on the mechanism responsible for the energy dissipation in
-    conduction in metals

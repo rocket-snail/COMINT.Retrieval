@@ -1,6 +1,0 @@
-the possibility of observing features of galactic radio
-    emission from a satellite borne radio telescope the
-    experimental conditions for the required degree of focusing are
-    discussed the receiver should sweep a frequency range of with a
-    bandwidth of in a satellite established in a nearly circular
-    orbit at a height of

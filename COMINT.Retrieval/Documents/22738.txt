@@ -1,7 +1,0 @@
-detection of electrons in the upper atmosphere by the
-    third earth satellite electrons of energies were detected by
-    means of two fluorescent screens covered with thin al foil of
-    different thickness used in conjunction with photomultipliers
-    the flux increases sharply with decreasing energy at high
-    latitudes the night time energy flux reaches a few tens of ergs
-    cm sec sterad

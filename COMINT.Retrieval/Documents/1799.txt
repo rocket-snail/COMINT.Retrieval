@@ -1,9 +1,0 @@
-a triode fm discriminator the triode is arranged to
-    operate as a gated rectifier with the gating time and hence the
-    rectified output dependent on the input frequency a sine wave
-    with the straight portion extending over about one radian can
-    be used for the input waveform for a particular circuit in
-    which the rectified output should theoretically change by about
-    for a frequency change for this frequency difference was about
-    the output is proportional to input amplitude as well as to
-    frequency

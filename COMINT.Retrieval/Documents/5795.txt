@@ -1,5 +1,0 @@
-an analogue multiplier divider using thyrites a new
-    analytical method is proposed for determining quadratic
-    elements using thyrite resistors a description is given of a
-    new multiplier with thyrite units which requires only two
-    operational amplifiers experimental results are given

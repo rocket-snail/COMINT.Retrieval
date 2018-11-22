@@ -1,6 +1,0 @@
-radio observations of the lunar atmosphere the refraction
-    occurring in the lunar atmosphere is estimated from
-    observations at of the lunar occulation of the crab nebula on
-    january the electron density at the moons surface is derived
-    for an atmosphere in hydrostatic equilibrium and for a
-    continuously escaping atmosphere

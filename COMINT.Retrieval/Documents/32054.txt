@@ -1,5 +1,0 @@
-a lunar and planetary echo theory a lunar radio echo is
-    divided into a specular component and a lambert scatter
-    component based on a model of the lunar surface the theory is
-    compared with experimental data on the shape and frequency
-    spectrum of reflected pulses

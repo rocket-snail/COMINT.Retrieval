@@ -1,2 +1,0 @@
-on node and mesh determinants an extension of the
-    analysis presented by seshu

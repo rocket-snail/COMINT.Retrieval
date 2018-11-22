@@ -1,7 +1,0 @@
-unified formulae for filters with tchebycheff type
-    insertion loss formulae are derived for the determination of
-    zeros and poles of the transfer function based on the
-    tchebycheff polynomial or on cauer parameters the
-    characteristics and treatment of elliptic functions are
-    discussed and curves are given for relating the insertion loss
-    requirements to the parameters of the transfer function

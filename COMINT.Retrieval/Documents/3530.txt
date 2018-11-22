@@ -1,7 +1,0 @@
-high frequency transistor polyphase oscillator conditions
-    for oscillation of a polyphase transistor oscillator are
-    developed from its valve equivalent of march experimental
-    results show the relative performances of single polyphase and
-    push pull transistor oscillators and demonstrate the
-    superiority of the polyphase oscillator when a high power
-    output is required at high frequencies

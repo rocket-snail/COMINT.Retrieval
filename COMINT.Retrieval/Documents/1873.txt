@@ -1,6 +1,0 @@
-a reliable locked oscillator pulse timer description with
-    complete circuit diagram and method of adjustment of a highly
-    stable locked oscillator pulse timer providing pulses with
-    recurrence frequency from a input the frequency divider has
-    previously been described of the unit has an overall phase
-    stability to within per volt of line voltage change

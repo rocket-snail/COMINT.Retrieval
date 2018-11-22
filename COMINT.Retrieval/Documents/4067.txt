@@ -1,2 +1,0 @@
-romberg integration (algorithm 60) march, 1962 thacher
-    jr., h. c. ca620311 jb march 20, 1978 3:01 pm

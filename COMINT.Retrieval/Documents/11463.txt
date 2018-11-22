@@ -1,4 +1,0 @@
-the size of the moving irregularities in the f region and
-    the spread angle of the radio waves scattered from them
-    analysis of fading patterns obtained by a three receiver method
-    discloses an average length of irregularity

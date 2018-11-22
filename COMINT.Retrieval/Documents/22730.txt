@@ -1,7 +1,0 @@
-the development of the electrical filter by k w wagners
-    methods wagners method of filter design which is based on
-    consideration of the filter as a ladder of matched reflection
-    free sections icompared with methods developed by zobel cauer
-    and others it is concluded that the principles laid down by
-    wagner have lost none of their original validity or
-    usefulness

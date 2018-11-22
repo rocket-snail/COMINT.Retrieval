@@ -1,5 +1,0 @@
-high frequency oscillator stabilization by pulse counting
-    techniques a system is described for frequency stabilization to
-    within parts in the range using an lc tuned oscillator locked
-    to a standard frequency a description of the trochotron divider
-    used in the circuit is given

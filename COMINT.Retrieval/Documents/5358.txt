@@ -1,5 +1,0 @@
-a new electrodynamics a new formulation alternative to
-    that of maxwells equations is developed from the theories of
-    weber and of ritz the fundamental equation expresses the force
-    on a charged particle caused by another charged particle for
-    preliminary work see and above

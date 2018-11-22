@@ -1,5 +1,0 @@
-the equivalent circuit of oscillating piezoelectric
-    crystal rods formulae are derived for calculating the circuit
-    parameters for longitudinal torsional and flexural oscillations
-    taking account of internal damping and the air gap between
-    electrodes and crystal

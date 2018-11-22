@@ -1,5 +1,0 @@
-some observations of aurora using a low power frequency
-    modulated radar an experimental cw radar is described which
-    provides information on range and radial motion of auroral
-    echoes a histogram of the range distribution of echoes from
-    reflecting areas north of ottawa shows a maximum at

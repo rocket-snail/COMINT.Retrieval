@@ -1,2 +1,0 @@
-microcircuit binary full adder uses unipolar transistors
-    are used for both active and passive elements

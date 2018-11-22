@@ -1,7 +1,0 @@
-a coherent theory of relaxation phenomena the theory
-    presented is based on the theory of functions general formulae
-    are derived and the particular case of elastic relaxation
-    oscillations is discussed conditions for the occurrence of
-    discrete and of continuous relaxation spectra are determined
-    and a formula is derived for the distribution function of the
-    continuous spectrum

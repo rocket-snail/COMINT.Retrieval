@@ -1,6 +1,0 @@
-frequency multiplication by large factors by means of the
-    oscillation build up method frequency multiplication by factors
-    of several thousands can be achieved with the oscillator
-    described which is pulse controlled at the fundamental
-    frequency and produces a harmonic spectrum of few components
-    during the build up of oscillations

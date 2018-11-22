@@ -1,5 +1,0 @@
-investigations on artificial dielectrics at microwave
-    frequencies part two the expression for the phase change in
-    transmission of an e m wave incident on a parallel plate type
-    artificial dielectric as a function of the plate spacing has
-    been verified experimentally

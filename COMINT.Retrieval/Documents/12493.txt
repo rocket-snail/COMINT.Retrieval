@@ -1,2 +1,0 @@
-the radiation emitted within ionized gas in the presence
-    of a magnetic field

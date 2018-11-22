@@ -1,6 +1,0 @@
-design of choke magnetic amplifiers with complex load the
-    design of transductors is considered from the practical point
-    of view the characteristic curves of four core materials of
-    russian origin are given to illustrate the method the design of
-    a transductor with an amplification factor of working into a
-    load is worked out in full

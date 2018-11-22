@@ -1,3 +1,0 @@
-the fresnel biprism in electron optics influence of the
-    size of the source effect of a periodic voltage applied to the
-    wire of the biprism

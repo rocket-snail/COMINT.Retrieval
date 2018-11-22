@@ -1,5 +1,0 @@
-fields and stresses in dielectric media expressions are
-    obtained for the mechanical forces at the boundary of an
-    isotropic dielectric caused by an electric field results are
-    verified in particular cases by electrolyte tank
-    experiments

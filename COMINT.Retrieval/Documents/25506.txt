@@ -1,4 +1,0 @@
-a recording magnetic variometer description of an
-    electronic magnetometer designed for continuous measurement of
-    changes in the earths magnetic field at one place variations as
-    small as oersted can be recorded

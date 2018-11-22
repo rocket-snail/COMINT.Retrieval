@@ -1,6 +1,0 @@
-theory of the diode reactance amplifier with parallel
-    circuits detailed treatment of the theory and design of
-    parametric amplifiers consisting of a variable reactance
-    semiconductor diode coupling two resonant circuits minimum
-    noise conditions are evaluated and design parameters are
-    tabulated for three basic types of circuit

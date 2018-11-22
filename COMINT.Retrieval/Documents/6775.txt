@@ -1,9 +1,0 @@
-oblique echoes from over dense meteor trails ray paths
-    are computed for waves refracted by meteor trails curves are
-    derived showing how the echo duration depends on the trail
-    orientation these curves show that the sec law applies for
-    overdense trails only if the plane of propagation contains the
-    trail axis if not the effective secant exponent may be as small
-    as the theory is in agreement with duration measurements of
-    mckinley and mcnamera and gives results similar to the more
-    complex wave solutions of keitel see of

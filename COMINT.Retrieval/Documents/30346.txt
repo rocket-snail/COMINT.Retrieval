@@ -1,5 +1,0 @@
-light pen links computer to operator using a photodiode
-    to read dots produced on a r tube enables an operator to
-    control an associated computer by pointing the light pen at
-    certain dots information can be written into the
-    computer

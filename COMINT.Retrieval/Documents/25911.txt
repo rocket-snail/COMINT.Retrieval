@@ -1,2 +1,0 @@
-higher pentode gain note on the use of a transistor as an
-    anode load

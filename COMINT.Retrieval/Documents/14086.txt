@@ -1,3 +1,0 @@
-microwave parametric amplifier by means of germanium
-    diode construction and performance of an amplifier for using
-    gold and silver bonded ge diodes

@@ -1,3 +1,0 @@
-the design of biased diode function generators relations
-    between the number and spacing of diode sections to give
-    minimum error are derived

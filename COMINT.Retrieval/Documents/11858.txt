@@ -1,9 +1,0 @@
-a method of evaluation of the quasi stationary distortion
-    of fm signals in tuned interstages a graphical approach to the
-    problem of designing low distortion f circuits making use of
-    the normalized derivative of the phase frequency function is
-    shown to be preferable to that using the phase frequency curve
-    itself the principles are applied to the determination of the
-    distortion factor of a single tuned circuit interstage and of a
-    cascade arrangement of three stagger tuned resonant
-    circuits

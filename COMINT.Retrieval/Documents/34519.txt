@@ -1,4 +1,0 @@
-unusual transistor circuits the main features of design
-    and a physical explanation of the action are given for voltage
-    catching transistor pump emitter squared follower and
-    transistor gating circuits

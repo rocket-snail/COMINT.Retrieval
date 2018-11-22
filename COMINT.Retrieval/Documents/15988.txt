@@ -1,4 +1,0 @@
-phase generator has resistive shifter the generator
-    operates over a frequency range and supplies a pair of
-    sinusoidal voltages with an accurately known phase relation
-    that is continuously adjustable over

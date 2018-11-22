@@ -1,8 +1,0 @@
-catalogue of power law and tchebycheff type filter up to
-    order four table give the circuit diagrams and the normalized
-    values of the circuit elements in maximally flat response and
-    tchebycheff type filters terminated and with a short or open
-    circuit at one end for different values of the pass band
-    reflection coefficient corresponding attenuation
-    characteristics are given in diagrams the application of the
-    tables is illustrated in five numerical examples

@@ -1,5 +1,0 @@
-emerging standards for book acquisition. describes the
-    work of the us book industry systems advisory committee; the
-    use of its computer-to-computer order format; the format's
-    potential; and the future use of computers in communications
-    between publishers, wholesalers, and libraries.

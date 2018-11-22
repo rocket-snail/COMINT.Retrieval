@@ -1,5 +1,0 @@
-unidirectional paramagnetic amplifier design the theory
-    and design of a cavity paramagnetic amplifier are given the
-    faraday effect is used to obtain unidirectional amplification
-    which can result in noise figures an order of magnitude better
-    than other systems

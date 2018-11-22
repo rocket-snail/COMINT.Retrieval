@@ -1,5 +1,0 @@
-geomagnetic activity and sunspots analysis of
-    observations by the method of superposed epochs shows that
-    geomagnetic activity following the central meridional passage
-    of certain sunspots is related more closely to their rf
-    radiation than to their eruptive intensity

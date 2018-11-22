@@ -1,7 +1,0 @@
-a system of magnetic moments in a weak variable magnetic
-    field a mathematical analysis of a system of magnetic moments
-    which possesses electric exchange and weak magnetic dipole
-    dipole interactions and which is located in an external
-    magnetic field the equation of motion of the magnetization
-    vector is derived and the limits of its applicability are
-    discussed

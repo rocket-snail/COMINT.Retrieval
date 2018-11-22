@@ -1,4 +1,0 @@
-a new method for the evaluation of electric conductivity
-    in metals a method is developed for evaluating the closed
-    formal expressions for electrical conductivity which have
-    recently been developed see eg of and of greenwood

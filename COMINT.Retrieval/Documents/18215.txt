@@ -1,5 +1,0 @@
-diurnal lapse of signals from sputnik a brief note dated
-    april states that systematic observations have established that
-    pulse modulation is present only when the satellite is in
-    sunlight on very close transits the cw signal can be detected
-    with sufficient strength to record the doppler shift

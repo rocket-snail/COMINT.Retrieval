@@ -1,6 +1,0 @@
-microwave high power simulator by periodically injecting
-    energy from a directional coupler into a waveguide cavity made
-    in the form of a closed loop much higher power levels can be
-    achieved than are available from microwave power generators
-    energy is stored in a circulating or travelling wave see also
-    of

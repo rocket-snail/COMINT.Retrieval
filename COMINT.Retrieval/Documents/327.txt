@@ -1,5 +1,0 @@
-design of networks with prescribed delay and amplitude
-    characteristics a general analytic method is described for
-    designing reactive quadripoles with specified group delay
-    characteristics means of equalizing attenuation without
-    affecting the delay are discussed

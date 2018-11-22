@@ -1,6 +1,0 @@
-thermoelectric effects the basic principles of
-    thermoelectricity are reviewed recent achievements are outlined
-    in terms of specific practical applications n and the present
-    status of the more detailed theoretical treatments is discussed
-    in a nonmathematical fashion useful equations describing
-    important parameters are tabulated over references

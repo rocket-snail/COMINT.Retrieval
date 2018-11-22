@@ -1,4 +1,0 @@
-the use of universal curves in the design of transistor
-    amplifier stages design curves are derived from the principal
-    transistor parameters for linear operation at low
-    frequencies

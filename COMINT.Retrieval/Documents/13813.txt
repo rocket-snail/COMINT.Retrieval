@@ -1,4 +1,0 @@
-band stop filters a method of achieving resistance
-    compensation is bandstop filters is described performance
-    curves and normalized component values are calculated for a
-    pole filter

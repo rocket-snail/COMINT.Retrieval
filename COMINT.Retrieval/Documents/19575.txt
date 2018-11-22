@@ -1,2 +1,0 @@
-determinant (algorithm 159) december, 1963 lapidus, a.
-    ca631211 jb march 13, 1978 2:53 pm

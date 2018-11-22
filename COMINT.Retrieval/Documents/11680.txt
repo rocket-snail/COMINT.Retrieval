@@ -1,6 +1,0 @@
-transistor circuits for a digital computer the
-    requirements of amplifiers used for pulse regeneration are
-    considered and blocking oscillators and regenerative amplifiers
-    employing transistors suitable for reshaping and retiming
-    pulses in a digital computer with a digit rate are described
-    some details of their practical application are given

@@ -1,3 +1,0 @@
-an eight digit word generator the theory of operation and
-    the design of a binary word generator using surface barrier
-    transistors and a direct coupling technique are given

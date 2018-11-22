@@ -1,5 +1,0 @@
-a general approach for obtaining transient response by
-    the use of a digital computer adaptation of digital computers
-    to the inverse laplace transformation process and the fourier
-    integral method is shown to have major advantage in determining
-    the transient response of linear control systems

@@ -1,8 +1,0 @@
-use of slow molecules in molecular generators methods of
-    improving the absolute frequency stability of a beam type maser
-    are considered based on the use of molecular beams with mean
-    velocities much less than the thermal velocity at room
-    temperature three techniques are described removal of high
-    velocity molecules from the beam retardation of the molecules
-    by an external field reduction of the temperature of the
-    molecular beam

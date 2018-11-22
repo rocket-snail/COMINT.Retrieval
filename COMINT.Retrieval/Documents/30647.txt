@@ -1,6 +1,0 @@
-electromagnetic wave propagation in bounded electron
-    beams equations in appropriate form are solved subject to
-    boundary conditions chosen in accordance with a particular
-    uniqueness theorem which is proved modes of propagation in a
-    waveguide completely filled with an electron beam are
-    determined

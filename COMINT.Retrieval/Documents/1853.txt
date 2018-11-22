@@ -1,6 +1,0 @@
-network transformations for wave filter design
-    calculations are simplified by charts which enable the
-    configuration of two terminal networks to be altered while
-    retaining their impedance characteristic and also to alter the
-    element values without changing the configuration or impedance
-    characteristics

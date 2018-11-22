@@ -1,4 +1,0 @@
-formulae relating some equivalent networks explicit
-    formulae are obtained for the elements of a network without
-    transformers which has the same driving point impedance as an
-    arbitrary two loop passive network

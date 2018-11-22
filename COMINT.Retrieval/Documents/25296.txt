@@ -1,5 +1,0 @@
-numerical calculation of the potential and field due to a
-    uniformly charged disk various methods of calculating the
-    potential at any point are discussed the particular advantages
-    of the relaxation method in the most general case being pointed
-    out

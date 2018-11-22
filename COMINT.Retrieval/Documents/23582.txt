@@ -1,7 +1,0 @@
-world wide measurements of horizontal ionospheric drifts
-    a critical survey is made of radio techniques for measuring
-    horizontal drifts a comparison is then made of results obtained
-    during the i g y using the closely spaced receiver method which
-    discloses seasonal and latitudinal differences in the diurnal
-    variation of drifts tentative explanations of these results are
-    given

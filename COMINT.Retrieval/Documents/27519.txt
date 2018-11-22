@@ -1,7 +1,0 @@
-the vertical distribution of electrical conductivity in
-    the upper atmosphere data obtained from rocket measurements are
-    used to determine the vertical distribution of conductivity and
-    its height integrated values for the d e and f regions the
-    greatest conductivity value is found for the e layer around
-    hence this region is probably the seat of the electrical
-    currents producing diurnal magnetic variations

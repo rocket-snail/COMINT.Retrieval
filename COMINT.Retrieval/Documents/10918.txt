@@ -1,3 +1,0 @@
-pulse amplifier with nonlinear feedback the transistor
-    amplifier described provides constant output over a range of
-    input signals

@@ -1,6 +1,0 @@
-thermal radio emission from the transition layer
-    chromosphere corona two models of the transition layer are
-    computed using new values of emission and absorption
-    coefficients comparison with recent observations shows that the
-    models predict decimetre wave emission with reasonable
-    accuracy

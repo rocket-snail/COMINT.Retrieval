@@ -1,3 +1,0 @@
-linear reactor chart design data are presented for iron
-    core reactors with inductance unaffected by variations of dc
-    through the winding or alternating voltage across it

@@ -1,8 +1,0 @@
-the lower e and d region of the ionosphere as deduced
-    from long radio wave measurements an ionosphere model is
-    proposed which is in reasonable agreement with experimental
-    data during the day this locates the reflection region in the
-    tail of the d layer around km height the ionosphere winds
-    region in the nose of the layer centred on km and a region of
-    minimum ionization density between the d and e layers at about
-    km with electron density of about electrons cm

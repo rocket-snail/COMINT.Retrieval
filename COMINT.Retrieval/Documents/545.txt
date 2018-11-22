@@ -1,5 +1,0 @@
-the application of electronic digital calculating methods
-    to punched card machines principles of operation and design of
-    the electronic multiplying punch are discussed an outline is
-    given of the calculating process used for sterling and fof
-    decimal systems

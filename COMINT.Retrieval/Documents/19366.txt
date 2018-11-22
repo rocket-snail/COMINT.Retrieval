@@ -1,8 +1,0 @@
-conceptual information retrieval. if we want to build
-    intelligent retrieval systems, we will have to give them the
-    capabilities of understanding natural language, automatically
-    organising and reorganising their memories, and using
-    intelligent heuristics for searching their memories. these
-    systems will have to analyse and understand both new text and
-    natural language queries. in answering questions, they will
-    have to direct memory search to reasonable places.

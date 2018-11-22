@@ -1,6 +1,0 @@
-molecular amplifier and generator for submillimetre waves
-    the rotational transitions of nh molecules lie in the
-    wavelength region below mm an amplifier can be constructed
-    using a device in which radiation from one horn crosses a
-    number of molecular beams and falls on a second horn the
-    maximum power obtainable is about

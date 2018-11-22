@@ -1,5 +1,0 @@
-on the propagation of a discontinuous electromagnetic
-    wave a treatment of a variant of sommerfields problem in which
-    the oscillating dipole is replaced by a dipole whose moment
-    jumps form zero to one a solution for the general case is given
-    in torms of complete elliptic integrals

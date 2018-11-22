@@ -1,7 +1,0 @@
-the influence of a high frequency gas discharge on the
-    frequency of a self excited short wave oscillator stage
-    continuing earlier investigations further tests were made with
-    a oscillator under various conditions of discharge coupling and
-    magnetic field characteristic curves indicating a linear
-    relation between frequency and anode voltage are obtainable the
-    interpretation of the observations is discussed

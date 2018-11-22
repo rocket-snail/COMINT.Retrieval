@@ -1,5 +1,0 @@
-note on hydromagnetic propagation and geomagnetic field
-    stability the use of surface magnetic data in estimating the
-    conditions in the exosphere s is criticized inferences from suf
-    surface magnetometers are not consistent with measurements
-    obtained from space probes

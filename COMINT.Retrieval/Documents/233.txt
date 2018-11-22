@@ -1,5 +1,0 @@
-spikes on chopper transistor waveforms the effect of load
-    resistance and capacitance on spike feed through is
-    investigated and the amplitude and rise and fall times are
-    derived a spike test for chopper transistors is
-    recommended

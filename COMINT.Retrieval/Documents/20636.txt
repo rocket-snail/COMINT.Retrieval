@@ -1,8 +1,0 @@
-band pass circuits with minimum number of coils part band
-    pass filters with prescribed attenuation characteristic any
-    band pass filter with the exception of the equalized
-    characteristic impedance type can be constructed using a
-    suitable combination of the basic filter sections described by
-    transforming parts of the filter using the circuit equivalents
-    given th number of circuit components can be reduced this is
-    illustrated by a numerical example

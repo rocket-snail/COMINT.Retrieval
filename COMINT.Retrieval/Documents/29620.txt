@@ -1,3 +1,0 @@
-magnet amplifiers with inductive load the instability
-    region in the control characteristic curve is discussed and a
-    method of avoiding operation in this region suggested

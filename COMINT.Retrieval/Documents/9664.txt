@@ -1,4 +1,0 @@
-minimum noise figure of a parametric amplifier with the
-    aid of a circulator the noise figure may be made to approach
-    the minimum value where is the pumping and the output
-    frequency

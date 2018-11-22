@@ -1,2 +1,0 @@
-the measurement of the time delay of ultrasonic delay
-    lines

@@ -1,5 +1,0 @@
-a magnetic core buffer store for use with a card punch or
-    line printer the store accepts data from a computer and
-    provides a series of parallel outputs suitable for printer or
-    card punch square loop magnetic cores are used and the decoding
-    and parity check circuits are described

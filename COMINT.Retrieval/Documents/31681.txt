@@ -1,4 +1,0 @@
-passage effect in paramagnetic resonance experiments
-    paramagnetic resonance signals under various experimental
-    conditions are classified theoretically and some experimental
-    checks carried out

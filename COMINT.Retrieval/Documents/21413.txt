@@ -1,9 +1,0 @@
-world wide da ly var ations in the height of th maximum
-    electron density in the ionospheric f layer the heights given
-    by the method of shimazaki of which related and the height of a
-    parabolic f layer have been compared with the more correct
-    values derived from corresponding profiles the agreement
-    between the two methods is quite good during the night in
-    middle and low latitudes but during the day in these latitudes
-    and for all hours at high latitudes shimazakis relation
-    overestimates the height by about km

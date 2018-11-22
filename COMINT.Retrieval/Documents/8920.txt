@@ -1,5 +1,0 @@
-nomograms for the computation of tropospheric refractive
-    index charts for calculating refractive index refractive index
-    discontinuities and vertical gradient are presented in a form
-    convenient for use with standard radiosonde data they are valid
-    for wavelengths cm

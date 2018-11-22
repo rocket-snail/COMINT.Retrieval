@@ -1,5 +1,0 @@
-low impedance capacitor design with special application
-    to filters methods of reducing series inductance of
-    conventional capacitors are investigated measurements of
-    capacitor characteristics are discussed and an improved method
-    of connection for filter capacitors is described

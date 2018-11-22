@@ -1,6 +1,0 @@
-secondary processes due to absorption of the lyman lines
-    emitted from aurorae discussion indicated that the line of the
-    hydrogen lyman series emitted from aurorae my be effective in
-    ionizing in the lower atmosphere but not to the extent required
-    for polar blackouts absorption of the lyman line by oxygen
-    atoms is not significant in ordinary aurorae

@@ -1,4 +1,0 @@
-the switching on of two oscillator circuits which are
-    coupled by an externally controlled reactance case of the
-    parametric amplifier extension of earlier investigations of
-    february to the case of coupled resonant circuits

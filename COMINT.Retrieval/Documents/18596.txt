@@ -1,9 +1,0 @@
-reflection of a transient electromagnetic wave at a
-    conducting surface a treatment of oblique incidence reflection
-    from the plane interface of a dissipative medium the inversion
-    of the laplace transforms can only be carried out in closed
-    form in special cases series solutions are developed for the
-    general case and numerical results are presented graphically a
-    possible application of the results to the case of a lightning
-    discharge waveform and reflection from a sharply bounded
-    ionosphere is noted

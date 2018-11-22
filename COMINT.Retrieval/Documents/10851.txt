@@ -1,9 +1,0 @@
-instrumentation for measuring changes in phase of
-    ionospheric echoes changes in carrier phase of ionosphere pulse
-    echoes are determined from a comparison of the transmitted
-    signal stored by a memory circuit with the echo signal received
-    the phase variation is presented in the instrument described on
-    a cro and a continuous photographic record is obtained the
-    equipment used is similar in principle to that of findlay of
-    results of e region observations at have been published by
-    davids

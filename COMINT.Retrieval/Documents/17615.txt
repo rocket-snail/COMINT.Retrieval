@@ -1,2 +1,0 @@
-legendre polynomial (algorithm 13) april, 1961 herndon,
-    j. ca610428 jb march 16, 1978 11:37 pm

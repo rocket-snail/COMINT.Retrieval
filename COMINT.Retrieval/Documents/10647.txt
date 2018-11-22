@@ -1,5 +1,0 @@
-an electrical multiplier utilizing the hall effect in
-    indium arsenide details are given of the construction and
-    performance of a multiplier for computer applications in which
-    an inas hall plate is mounted in the gap in a ferrite
-    core

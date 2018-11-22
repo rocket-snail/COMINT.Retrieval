@@ -1,5 +1,0 @@
-direct drive amplifier for two speed servos a five
-    transistor servo amplifier drives a standard motor without
-    using an output transformer for a two speed system the
-    amplifier contains a switching circuit incorporating zener
-    diodes and a three stage feedback network

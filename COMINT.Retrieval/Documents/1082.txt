@@ -1,5 +1,0 @@
-low frequency oscillations of plasma in a magnetic field
-    mathematical analysis of small oscillations of a plasma
-    consisting of electrons and singly charged ions some limiting
-    cases are discussed for which a solution of the dispersion
-    equation can be found

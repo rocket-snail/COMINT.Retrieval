@@ -1,4 +1,0 @@
-stability problems in monostable multivibrators the
-    influence of the amplitude of trigger pulses on multivibrator
-    operation and the dependence of pulse width on the trigger
-    frequency are discussed

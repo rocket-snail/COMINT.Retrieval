@@ -1,4 +1,0 @@
-ibm system 6 information processor).d escribes the ibm
-    system 6 information processor, capable of performing 9 tasks,
-    each identified by a unique screen image on the functional
-    display. details of system configurations are given.

@@ -1,9 +1,0 @@
-the application of some semiconductors as logarithmic
-    elements voltage dividers incorporating rectifiers to give
-    special characteristics were described by kallmann of for
-    circuits involving high resistances rectifiers made from other
-    semiconductors may be more suitable logarithmic characteristics
-    obtained using various semiconductor rectifiers are presented
-    temperature compensation is achieved by use of negative
-    temperature coefficient resistors the logarithmic response has
-    been obtained at frequencies up to

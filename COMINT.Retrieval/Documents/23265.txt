@@ -1,7 +1,0 @@
-ionospheric scattering of satellite trn transmissions
-    reports of observations of night time scintillations of
-    satellite transmissions are briefly analysed in relation to the
-    position of the observing station and the direction of passage
-    of the satellite results demonstrate the ability of field
-    aligned irregularities to scatter radio waves in a manner
-    highly sensitive to aspect see also of april

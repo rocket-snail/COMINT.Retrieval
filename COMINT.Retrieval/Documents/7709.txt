@@ -1,4 +1,0 @@
-free air turbulence measurements of the altitude
-    distribution between and of layers of turbulence made by means
-    of a gustsonde incorporating a vhf transmitter are
-    analysed

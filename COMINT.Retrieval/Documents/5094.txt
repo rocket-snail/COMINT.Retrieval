@@ -1,5 +1,0 @@
-electromagnetic pressure on a charge moving in a magnetic
-    field the radiation pressure on an oscillating particle is
-    considerably greater than that on a free charge the problem is
-    considered in a nonlinear approximation and the equations of
-    motion are discussed

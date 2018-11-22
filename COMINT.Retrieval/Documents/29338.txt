@@ -1,4 +1,0 @@
-low q band pass filters a lossless filter design is
-    modified to preserve the relative discrimination between a
-    wanted frequency and an unwated band when the filter elements
-    are lossy

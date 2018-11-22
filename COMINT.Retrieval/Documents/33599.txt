@@ -1,6 +1,0 @@
-correlation of the initial electric field and the radar
-    echo in thunderstorms precipitation as detected with radar is a
-    necessary but not sufficient condition for significant cloud
-    electrification the presence of detectable precipitation does
-    not lead to thunderstorm electrification unless the
-    precipitation echo shows rapid vertical development

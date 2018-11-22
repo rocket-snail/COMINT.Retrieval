@@ -1,5 +1,0 @@
-high frequency operation of magnetic amplifiers digest of
-    paper published in operation at high frequency makes possible
-    power gains and bandwidths unattainable at power frequencies
-    since a given power can be controlled with a smaller
-    core

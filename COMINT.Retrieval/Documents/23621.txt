@@ -1,2 +1,0 @@
-a radio frequency nondestructive readout for magnetic
-    core memories

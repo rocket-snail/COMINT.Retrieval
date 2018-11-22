@@ -1,5 +1,0 @@
-the influence of the output time constant of a cathode
-    follower a nomogram is derived for determining the maximum
-    pulse amplitude as a function of rise time and output time
-    constant that may be applied without causing positive grid
-    current

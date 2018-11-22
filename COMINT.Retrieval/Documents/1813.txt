@@ -1,4 +1,0 @@
-low field x band ruby maser the signal frequency used was
-    and the pump frequency the low pump frequency and low magnetic
-    field requirements are attractive although the achievable gain
-    bandwidth product is lower than with other masers

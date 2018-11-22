@@ -1,2 +1,0 @@
-behaviour of thermal noise and beam noise in a quadrupole
-    amplifier

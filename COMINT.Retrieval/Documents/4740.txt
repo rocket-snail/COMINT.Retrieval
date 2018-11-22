@@ -1,4 +1,0 @@
-transistor rectifier gives dc of either polarity a
-    diagonally symmetric power transistor circuit which permits
-    smooth load current variation over a range of several
-    amperes

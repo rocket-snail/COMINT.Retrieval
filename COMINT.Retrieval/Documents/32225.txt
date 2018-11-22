@@ -1,9 +1,0 @@
-library networks in the federal republic of germany.
-    describes cooperative and network activities in west germany.
-    an attempt is made to define the requirements of network data
-    bases. the following topics are discussed' data base structure,
-    hierarchical relationships, authority files, local files, local
-    data, access points, and data manipulation control. these
-    requirements are compared with the capabilities of data base
-    management software available or implemented in west germany,
-    especially with the systems ibas, bvs, hebis-mon.

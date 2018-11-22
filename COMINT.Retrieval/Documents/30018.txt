@@ -1,6 +1,0 @@
-current noise in carbon film resistors an experimental
-    investigation at audio frequencies is reported the results are
-    consistent with an empirical formula according to which the
-    current noise voltage varies approximately directly with
-    current in a few specimens the noise was found to depend on the
-    direction of current

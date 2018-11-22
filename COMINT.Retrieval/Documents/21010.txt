@@ -1,4 +1,0 @@
-the design of a standard block for a digital computing
-    system logical theory design considerations and practical
-    circuit of a block based on alloy junction transistors
-    operating at frequencies up to

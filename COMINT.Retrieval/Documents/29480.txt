@@ -1,3 +1,0 @@
-efficiency of field ionization at a metal surface
-    theoretical analysis of the dependence of the field ion current
-    on various parameters

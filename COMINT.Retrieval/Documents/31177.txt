@@ -1,5 +1,0 @@
-recording radio signals from earth satellites a method is
-    described for presenting simultaneously on moving film the
-    information necessary for doppler frequency shift measurements
-    for frequency sampling and for the study of signal intensity
-    variations

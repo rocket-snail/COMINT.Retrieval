@@ -1,7 +1,0 @@
-naive user is big business. as the data processing
-    industry searches out new markets in which to grow, it comes up
-    against a host of new inexpert users. reports on developments
-    in user-friendly systems, including speech and touch input.
-    argues that the industry which should involve users in the
-    systems design for the training of data processing designers
-    has neglected ergonomics.

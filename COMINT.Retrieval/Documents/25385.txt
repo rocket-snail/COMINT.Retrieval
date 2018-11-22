@@ -1,4 +1,0 @@
-progress of sputnik estimates of the orbital period semi
-    major axis now and eccentricity on and two intermediate dates
-    are given these are based on observational data from different
-    sources

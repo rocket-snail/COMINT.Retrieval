@@ -1,5 +1,0 @@
-a method of determining the relative amounts of and
-    region absorptions of medium and short radio waves the method
-    is based on the concept of rela ation time the value of which
-    for the layer is appreciably different from that for the
-    layer

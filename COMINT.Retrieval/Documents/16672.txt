@@ -1,4 +1,0 @@
-the effect of certain contaminants on the capacitance and
-    losses of pyralene impregnated paper capacitors undesirable
-    effects can be eliminated by avoiding the use of resin flux in
-    the soldering process

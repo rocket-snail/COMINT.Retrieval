@@ -1,9 +1,0 @@
-financial reporting and vendor performance' a case study.
-    contribution to the lita (american library association. library
-    and technology association) institute. reports generated
-    through the on-line acquisitions system, bos (book order
-    system), developed at the university of massachusetts, amherst,
-    are described. a series of reports record monthly activity,
-    showing titles ordered, received, cancelled, reordered, and
-    funds involved; use of funds by subject and type of
-    publication; and performance of book jobbers.

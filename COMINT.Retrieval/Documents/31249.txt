@@ -1,8 +1,0 @@
-antiope and d.r.c.s. the drcs system allows for greater
-    flexibility in producing an image for videotex or teletext. 3
-    main areas of application are discussed. the character set for
-    text material differs from country to country. fine graphics
-    (for example maps) and repeated symbols (for example electronic
-    schematics) are made possible using few characters. the
-    problems of using the drcs system in antiope are
-    discussed.

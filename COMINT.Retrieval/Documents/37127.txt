@@ -1,7 +1,0 @@
-coaxial transmission line filters analysis for coaxial
-    line band pass filters is given based on tem mode transmission
-    the influence of the nature and spacing of the obstacles on the
-    bandwidth is discussed measurements on filters of various
-    constructions support the theoretical results a te mode high
-    pass filter is also discussed for narrow band applications this
-    type of filter is inferior to the cavity type

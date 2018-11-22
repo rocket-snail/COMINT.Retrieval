@@ -1,9 +1,0 @@
-user response to telidon. studies of user response to
-    videotex may be aimed at 2 broad questions: 'how will the user
-    respond to various design features of videotex?' and 'what will
-    be the behavioural and social consequences of videotex?'
-    studies of the response to design of various aspects of telidon
-    have been conducted in the laboratories of the department of
-    communications in ottawa. reviews experiments regarding user
-    response to tree indexes on telidon, to reading from a telidon
-    screen, and to graphics on telidon.

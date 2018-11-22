@@ -1,3 +1,0 @@
-optimum matching of symmetrical low pass and high pass
-    filters application to low pass and high pass ladder filters
-    using piezoelectric crystals appendices to earlier paper

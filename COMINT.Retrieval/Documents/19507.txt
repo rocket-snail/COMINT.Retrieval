@@ -1,7 +1,0 @@
-a scalar representation of electromagnetic fields it is
-    shown that in a region which is free from currents and charges
-    any em field may be rigorously derived from a single generally
-    complex scalar wave function the momentum density and energy
-    density defined in terms of this function differ from those
-    given by the usual expressions but the differences disappear on
-    integration over any arbitrary macroscopic domain

@@ -1,8 +1,0 @@
-multiple quantum transitions in paramagnetic resonance at
-    high rf field strengths the normal paramagnetic resonance
-    spectrum of in cubic mgo is found to be modified by additional
-    absorption lines which are interpreted as double quantum
-    transitions occurring between nearly equally spaced energy
-    levels at high rf power calculation of the relative absorption
-    intensity for which transitions agrees with experimental
-    results

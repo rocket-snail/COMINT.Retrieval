@@ -1,2 +1,0 @@
-a magnetic disk random access memory alphanumeric
-    characters can be stored with average access time

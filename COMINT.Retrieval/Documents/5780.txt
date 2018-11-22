@@ -1,5 +1,0 @@
-application of graph theory to the analysis of active and
-    mutually coupled networks a unified graphical approach applying
-    the concept of the mathematically equivalent circuit of as it
-    relates to the indefinite admittance matrix of a
-    multipole

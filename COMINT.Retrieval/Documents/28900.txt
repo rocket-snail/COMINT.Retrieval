@@ -1,7 +1,0 @@
-a versatile transistor circuit the design is described of
-    point contact transistor switching circuits such that direct
-    currents of the order of several tens of milliamperes can be
-    handled with a voltage drop of only one or two volts
-    applications of these circuits in a symmetrical push pull
-    magnetic writing circuit and a shift register are
-    considered

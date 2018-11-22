@@ -1,6 +1,0 @@
-instability of a plasma with an anisotropic distribution
-    of ion and electron velocities investigation of the propagation
-    of magnetohydrodynamic waves in an infinite a rarefied plasma a
-    kinetic treatment leads to an increase of the instability
-    region compared to that obtained in the quasihydrodynamic
-    approximation

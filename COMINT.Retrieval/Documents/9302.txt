@@ -1,4 +1,0 @@
-solid state oscillator for microwave frequencies an
-    experimental solid state device using gadolinium ethyl sulphate
-    an ionically bound paramagnetic salt as the active element is
-    described see of scovil et al

@@ -1,3 +1,0 @@
-a wide range phase shift oscillator an oscillator with a
-    frequency range from below to over is described coupling is
-    used a polyphase version is also described

@@ -1,5 +1,0 @@
-radio astronomical measurements from earth satellites
-    ionospheric and atmospheric absorption limit measurements made
-    on earth a summary is given of some of the problems whose
-    solution can best be sought by measurements with apparatus
-    mounted in earth satellites

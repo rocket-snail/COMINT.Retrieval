@@ -1,5 +1,0 @@
-comments on tidal winds in the high atmosphere the
-    accuracy of published data on tidal wind variations are
-    discussed on the basis of computations of the indices of the
-    probable error circle variations with seasons and elevation are
-    real although their magnitudes may be unreliable

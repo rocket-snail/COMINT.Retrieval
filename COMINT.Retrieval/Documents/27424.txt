@@ -1,3 +1,0 @@
-a simple rectangular pulse generator the cathode coupled
-    multivibrator circuit discussed produces pulses of up to
-    amplitude with rise times from to

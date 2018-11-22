@@ -1,4 +1,0 @@
-applications of wave matrices for calculations over
-    terminal networks with transverse symmetry an extension of the
-    method used in the classical theory of linear networks and
-    based on bisecting the four terminal network

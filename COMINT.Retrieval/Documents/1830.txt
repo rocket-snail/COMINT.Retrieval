@@ -1,6 +1,0 @@
-the effect of the ionosphere on the doppler shift of
-    radio signals from an artificial satellite application of
-    snells law to a ray passing through a spherically stratified
-    ionosphere to a receiver on the ground leads to a relation
-    between doppler shift and angle of incidence at the
-    ground

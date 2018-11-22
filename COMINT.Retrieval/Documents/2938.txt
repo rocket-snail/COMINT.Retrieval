@@ -1,3 +1,0 @@
-measurement of the attachment of slow electrons in oxygen
-    drift tube measurements are extended into the termal energy
-    range a three body attachment process is indicated

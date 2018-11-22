@@ -1,4 +1,0 @@
-tchebycheff type band pass filters with arbitrary number
-    of circuits extension of the method developed by dishal of
-    undercoupled as well as critically and overcoupled circuits are
-    dealt with

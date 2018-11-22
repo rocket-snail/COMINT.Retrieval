@@ -1,6 +1,0 @@
-an electron analyser of contact circuits a description is
-    given of an apparatus for rapid determination of possible
-    combinations in the operation of a circuit comprising six
-    relays one of the possible uses of the apparatus is the
-    simplification of the existing circuits by removing the
-    unnecessary contacts

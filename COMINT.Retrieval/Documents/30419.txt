@@ -1,5 +1,0 @@
-a new serial digital decoder intermediate storage and an
-    amplifier feedback loop are used making the decoder practically
-    independent of clock timing pulses it can also be used in an
-    analogue system to solve certain types of polynomial
-    equation

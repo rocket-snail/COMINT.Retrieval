@@ -1,7 +1,0 @@
-stable frequency dividers using thyrite elements locked
-    oscillator frequency dividers using nonlinear thyrite elements
-    as load impedors are described with slight circuit
-    modifications a stable locking action is obtainable for
-    division by any number between and no circuit adjustments are
-    required as the valves age dividers have been constructed for
-    frequencies up to

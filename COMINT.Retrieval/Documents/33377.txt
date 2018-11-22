@@ -1,5 +1,0 @@
-the height variation of horizontal drift velocities in
-    the e region the drift was measured on two adjacent frequencies
-    corresponding to heights of reflection differing by about km
-    the diurnal change in the ns and ew velocity components differs
-    in phase at the two heights

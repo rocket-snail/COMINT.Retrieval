@@ -1,5 +1,0 @@
-failure rate studies on silicon rectifiers a study of the
-    failure rate of rectifiers rated at peak inverse volts under
-    various conditions average failure rates for the type are
-    approximately three times those for the type under identical
-    conditions

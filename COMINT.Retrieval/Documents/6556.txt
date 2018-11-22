@@ -1,5 +1,0 @@
-electric nonlinear computation performed by linear
-    elements simple linear circuits are shown for performing
-    multiplication division and inversion and forming powers
-    positive and negative roots logarithms antilogarithms and
-    hyperbolic functions

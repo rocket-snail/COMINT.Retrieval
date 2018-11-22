@@ -1,2 +1,0 @@
-the effect of collisions on the propagation of radio
-    waves in the ionosphere

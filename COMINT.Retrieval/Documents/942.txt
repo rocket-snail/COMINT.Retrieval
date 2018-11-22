@@ -1,3 +1,0 @@
-multi gain representation for a single valued
-    nonlinearity with several inputs and the evaluation of their
-    equivalent gains by a cursor method

@@ -1,6 +1,0 @@
-design of high frequency coils for high currents a
-    practical guide to the design of single layer air cored
-    cylindrical coils and a short circuit variometer the
-    dissipation of heat electrical breakdown potential and the
-    various losses are considered formulae tables and an inductance
-    coil dimensions nomogram are given

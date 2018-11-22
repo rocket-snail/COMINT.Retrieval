@@ -1,7 +1,0 @@
-the power factor and capacitance of mica capacitors at
-    low frequencies experimental results confirm an empirical law
-    of the form negative and fractional for the power factor over
-    the range at normal temperatures they also confirm a relation
-    between frequency power factor and capacitance power factors as
-    high as have been found corresponding to increases of nearly in
-    capacitance over the values at higher frequencies

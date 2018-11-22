@@ -1,4 +1,0 @@
-phonon masers and the phonon bottleneck a calculation
-    shows that the transfer of energy from the electron spin system
-    can set up a stimulated phonon emission leading to maser
-    action

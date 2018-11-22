@@ -1,8 +1,0 @@
-electrohydromagnetic waves in a fully ionized gas part
-    the appleton hartree dispersion formula for magneto ionics is
-    generalized to include the effect of heavy ions the ratio of
-    particle energy to magnetic field energy in a wave of arbitrary
-    frequency is determined a band of frequencies around the plasma
-    frequency is found for which waves are attenuated location of
-    these bands would enable the interplanetary magnetic field and
-    electron density to be estimated

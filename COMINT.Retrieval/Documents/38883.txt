@@ -1,6 +1,0 @@
-calculation of plane electron trajectories in particular
-    electric and magnetic fields by means of complex vector loci
-    further examples of the method previously described of include
-    trajectories in a time variable homogeneous magnetic field
-    circular paths in a suitable em field as for the
-    betatron

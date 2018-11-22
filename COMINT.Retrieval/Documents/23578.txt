@@ -1,3 +1,0 @@
-solid state maser amplifier the principles of maser
-    operation are introduced and the essential details of a
-    practical cavity maser system are described

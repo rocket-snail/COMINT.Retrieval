@@ -1,9 +1,0 @@
-investigations of the characteristics of bi stable
-    multivibrators the characteristics are discussed theoretically
-    with reference to the design of reliable counting and switching
-    units design procedure is illustrated by two numerical examples
-    one of a binary counting unit with counting rate up to at
-    supply voltages between the other for a pulse counting rate at
-    supply voltages between and a modification of the latter
-    circuit using a double triode instead of was used at counting
-    rates up to

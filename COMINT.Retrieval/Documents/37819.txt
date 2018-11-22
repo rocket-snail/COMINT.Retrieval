@@ -1,3 +1,0 @@
-necessary and sufficient trajectory conditions for dense
-    electron beams gives conditions for flow in the direction of
-    one coordinate in a number of coordinate systems

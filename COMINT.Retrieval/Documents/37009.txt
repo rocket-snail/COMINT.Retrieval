@@ -1,9 +1,0 @@
-the breakdown of gases subject to crossed electric fields
-    the effect of an auxiliary electric field acting at right
-    angles to a field on the breakdown stress of various gases is
-    investigated experimentally when the auxiliary field is
-    unidirectional or of relatively low frequency its application
-    raises the break down stress but when its frequency reaches the
-    two fields appear to act independently a partial explanation is
-    advanced the gases studied include air oxygen nitrogen hydrogen
-    and neon

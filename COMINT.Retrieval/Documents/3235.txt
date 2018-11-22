@@ -1,5 +1,0 @@
-the representation of coupling free branched circuits on
-    an analogue computer a method is given for simulating branched
-    circuits on an analogue computer so that each circuit component
-    can be varied independently to determine its effect on circuit
-    characteristics

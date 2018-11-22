@@ -1,6 +1,0 @@
-the diffraction of a dipole field by a perfectly
-    conducting half plane a method of analysis is developed which
-    is valid for any orientation of the dipole the dipole field is
-    resolved into plane waves whose diffraction can be studied
-    independently the particular case of an electric dipole with
-    its axis normal to the half plane is investigated

@@ -1,5 +1,0 @@
-the design of the control unit of an electronic digital
-    computer the design of the control or sequencing unit is
-    discussed in one system the order code is determined by the
-    arrangement of the diodes in a diode matrix and in another by
-    the threading of wires through a matrix of ferrite cores

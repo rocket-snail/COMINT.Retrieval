@@ -1,4 +1,0 @@
-a hall effect microwave mixer a signal frequency current
-    and a magnetic field at the local oscillator frequency produce
-    a hall effect emf at the if across a semiconducting plate the
-    minimum conversion loss achieved is

@@ -1,4 +1,0 @@
-analysis of half wave magnetic amplifier circuits with ac
-    bias voltage detailed analysis with special reference to the
-    elimination of the rectifier from the control circuit of rameys
-    half wave magnetic amplifier

@@ -1,7 +1,0 @@
-theory of a fast switching electron beam frequency
-    coherence and bandwidth of a gas discharge harmonic generator
-    long time delays from a single magnetic storage core time
-    delays up to several minutes can be accurately achieved using
-    an assymetrical bidirectional core voltage the delay may be
-    controlled by a d c voltage or current change or by a change of
-    resistance

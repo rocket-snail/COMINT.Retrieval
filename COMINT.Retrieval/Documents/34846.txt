@@ -1,5 +1,0 @@
-theory of overhead nonblanketing sporadic e sequences of
-    curves are calculated for an e layer in which a horizontal
-    stratum of irregularities thick is slowly descending the
-    results are very similar to recorded sequences of ionograms
-    showing sporadic e

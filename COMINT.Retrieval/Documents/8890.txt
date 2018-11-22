@@ -1,4 +1,0 @@
-the design of a peaking transformer the basic principles
-    of the peaking transformer are outlined and the design of a
-    transformer to produce pulses of duration about from a input is
-    discussed

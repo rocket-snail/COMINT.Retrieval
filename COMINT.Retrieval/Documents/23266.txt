@@ -1,2 +1,0 @@
-resistors for radio interference suppression in otto
-    cycle internal combustion engines

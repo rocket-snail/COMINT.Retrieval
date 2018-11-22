@@ -1,6 +1,0 @@
-practical local calling circuit the circuit diagram of an
-    experimental local station calling device designed for
-    operation on the amateur band is given and discussed the unit
-    is basically a transistor receiver which operates a calling
-    bell via a relay power consumption is of the order of per
-    annum

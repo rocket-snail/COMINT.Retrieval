@@ -1,9 +1,0 @@
-library service for handicapped people' arenas, players
-    and stakes. libraries are 1 of many arenas in which the rights
-    of the handicapped are being asserted. collectively they form a
-    minority sizable enough to justify a programme of services but
-    the services must differentiate the needs of the various types
-    of handicap. a network of libraries and other agencies is
-    tackling the problems of information poverty and isolation and
-    encouraging a shift from attitudes of patronage to those of
-    civil rights.

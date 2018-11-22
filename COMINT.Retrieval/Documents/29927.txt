@@ -1,5 +1,0 @@
-figure of merit in magnetic amplifiers the figure of
-    merit discussed is the ratio of power amplification to
-    amplifier response time it is useful as a basic for the
-    comparison of amplifiers which are linear over the working
-    range and have equal rated output powers

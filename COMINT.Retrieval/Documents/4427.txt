@@ -1,7 +1,0 @@
-the principle of stabilization of constant impedance
-    devices n and its application to a transistor power supply the
-    useful operating range of a shunt type voltage regulator is
-    expressed in terms of a utilization coefficient general
-    relations derived are applied to a two transistor circuit of
-    the type described earlier of november particularly suitable
-    for stabilization of valve heater supplies

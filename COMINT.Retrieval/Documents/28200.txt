@@ -1,5 +1,0 @@
-new null transmission networks three frequency selective
-    networks are discussed a balanced lattice a variable a mutual
-    inductance type gives the largest off null outputs but is not
-    easily adjustable over a range of frequencies an application of
-    type for transformer testing is described

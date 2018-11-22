@@ -1,8 +1,0 @@
-a new type of high voltage machine a machine is described
-    which operates on a principle related to that of the van de
-    graaff generator with the difference that the moving belts
-    carry not surface charges but capacitors which become charged
-    on reaching a certain point and are then connected in series
-    performance figures are given for an experimental model in
-    which the capacitors are stationary and the electrical contacts
-    are rotated

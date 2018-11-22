@@ -1,7 +1,0 @@
-collector bias the transistor equivalent of cathode bias
-    and some applications a self bias circuit for stabilizing the
-    operating point of a transistor amplifier without unduly
-    decreasing the gain at very low frequencies is discussed
-    expressions for the frequency response stability and input
-    impedance are derived and the application of the circuit to
-    amplifiers oscillators and active filters is considered

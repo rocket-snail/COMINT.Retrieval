@@ -1,9 +1,0 @@
-the relation between the geomagnetic field and range
-    disturbance in various latitudes analysis of observations leads
-    to a theory of the mechanism of magnetic disturbances
-    intermediate between the classical theory and tht advanced by
-    nikolsky of the true storm time effect is greatest at the
-    equator an additional effect comprising instantaneous response
-    to and recovery from the disturbance is greatest in the auroral
-    zone the effect on the ionosphere at high latitudes is briefly
-    considered

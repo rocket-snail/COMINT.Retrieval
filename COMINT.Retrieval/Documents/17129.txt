@@ -1,3 +1,0 @@
-network synthesis a method is outlined for the synthesis
-    of balanced asymmetrical rc networks which may have a lower pad
-    loss than the corresponding symmetrical types

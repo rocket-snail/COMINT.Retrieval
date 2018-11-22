@@ -1,7 +1,0 @@
-theory of the anomalous skin effect in normal and
-    superconducting metals the current density in a normal metal in
-    which the electric field varies over a mean free path is
-    derived from a quantum approach in which use is made of the
-    density matrix in the presence of scattering centres but in the
-    absence of the field the method is applied to
-    superconductors

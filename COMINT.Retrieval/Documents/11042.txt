@@ -1,6 +1,0 @@
-a variable atmospheric density model from satellite
-    accelerations an empirical expression is derived which relates
-    atmospheric density and scale height h to satellite orbital
-    elements and solar rf noise flux f from this can be obtained as
-    a function of f height and solar zenith angle tables of and are
-    given for and for two values of f and

@@ -1,8 +1,0 @@
-some perturbation effects in microwave cavities operating
-    in degenerate modes theoretical investigation of the
-    perturbation caused by introducing a metal rod into a
-    cylindrical cavity operating in the companion modes te and tm
-    the changes in q value and resonance frequency are different
-    for the two modes the magnitudes of these changes as dependent
-    on the radius and depth of insertion of the rod are
-    considered

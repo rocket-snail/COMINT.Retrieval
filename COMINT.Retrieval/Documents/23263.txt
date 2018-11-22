@@ -1,4 +1,0 @@
-results obtained with rocket borne ion spectrometers a
-    description of the instrumentation used and an analysis of the
-    results obtained from the three flights in which both positive
-    and negative ion spectrometers were flown

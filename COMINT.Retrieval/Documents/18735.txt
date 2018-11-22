@@ -1,4 +1,0 @@
-a correction to the exospheric electron density estimate
-    using the nose whistlers of march a reinterpretation of the
-    data gives electron densities about four times larger than
-    those previously deduced

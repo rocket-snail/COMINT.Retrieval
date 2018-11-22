@@ -1,3 +1,0 @@
-the design of cathode follower circuits a detailed
-    summary of design principles and operating characteristics with
-    a description of several circuit applications

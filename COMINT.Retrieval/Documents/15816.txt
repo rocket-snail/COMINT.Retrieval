@@ -1,4 +1,0 @@
-study of transients in similar electrical networks the
-    transient characteristics of equivalent networks obtained by
-    frequency or impedance transformation are analysed for english
-    version

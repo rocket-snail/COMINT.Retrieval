@@ -1,7 +1,0 @@
-radar echoes from meteor trails under conditions of
-    severe diffusion an expression is derived indicating that the
-    power of the echo is proportional to and to where is the range
-    for a given meteor velocity there is a critical height above
-    which the effects of diffusion become serious a graph shows the
-    critical height velocity curves for values of between
-    and

@@ -1,7 +1,0 @@
-rotation of artificial earth satellites radio signals
-    received from sputnik were subject to deep regular fading with
-    a semiperiod of about probably due to free motion of the
-    satellite about its centroid these fluctuations were less
-    noticeable in the field strength record of sputnik the
-    advantages of a disk shaped satellite and methods of
-    eliminating rotational effects are discussed

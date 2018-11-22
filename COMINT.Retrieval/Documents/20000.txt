@@ -1,4 +1,0 @@
-signal operated switching description of a fault warning
-    system operated by cessation of an audio signal and used as a
-    programme failure alarm the circuit is based on a thyratron
-    valve

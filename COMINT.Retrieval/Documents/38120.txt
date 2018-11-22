@@ -1,3 +1,0 @@
-pulse shaping with variable capacitance diodes small
-    signal and analysis is carried out for variable capacitance
-    integrating and differentiating circuits

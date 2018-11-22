@@ -1,5 +1,0 @@
-on the problem of synthesis of amplifier circuits a new
-    mathematical method is described for the analysis of transients
-    in amplifiers and a means of synthesis is suggested for
-    multistage systems considering different types of
-    distortion

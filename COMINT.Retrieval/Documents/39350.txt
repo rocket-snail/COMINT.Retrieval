@@ -1,5 +1,0 @@
-selective rc amplifier using transistors investigation of
-    the use of phase shift networks in transistor circuits the dual
-    of the wien bridge arm is used to form an oscillator and a
-    selective amplifier which has constant gain while the
-    selectivity and tuning are continuously variable

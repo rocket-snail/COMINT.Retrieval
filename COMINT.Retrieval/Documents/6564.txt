@@ -1,4 +1,0 @@
-cross relaxation effects in a ruby l band maser at low
-    magnetic fields the reversals of maser h behaviour on cooling
-    from to are explained in terms of cross relaxation transitions
-    involving triple spin flips

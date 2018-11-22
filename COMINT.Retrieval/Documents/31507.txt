@@ -1,5 +1,0 @@
-lc or dewey?. reviews the library's choice between use of
-    the dewey decimal classification and the library of congress
-    classification. traces the history of each scheme, and
-    discusses the conversion by many libraries from dewey to lc.
-    costs of conversion are assessed.

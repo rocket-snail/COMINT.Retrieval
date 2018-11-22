@@ -1,5 +1,0 @@
-effect of the energy distribution of electrons on the
-    average secondary emission yield of an insulator an expression
-    for the average yield in terms of electron temperature is
-    calculated for pyrex th electron energy distribution being
-    maxwellian

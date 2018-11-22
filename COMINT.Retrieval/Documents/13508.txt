@@ -1,3 +1,0 @@
-the design of delay equalizers using the analogue method
-    a resistance network analogue and its application to the design
-    of a television circuit delay equalizer are described

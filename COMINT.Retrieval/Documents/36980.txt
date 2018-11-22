@@ -1,7 +1,0 @@
-the analysis of ionospheric records ordinary ray part
-    tables presented enable the effect of the earths magnetic field
-    to be taken into account when using the method of analysis of
-    ratcliffe of appleton and beynon of using these tables
-    theoretical curves can be constructed for a parabolic or a
-    linear distribution of ionization and for all magnetic
-    latitudes up to about

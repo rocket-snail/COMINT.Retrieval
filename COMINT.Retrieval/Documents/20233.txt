@@ -1,6 +1,0 @@
-parallel t rc selective amplifiers the operation of a
-    less familiar form of selective amplifier with low impedance
-    input is analysed in which the signal is injected at the null
-    point of the parallel t network in the feedback loop design
-    equations are derived and applied as an example to a fixed
-    tuned amplifier with a square wave input

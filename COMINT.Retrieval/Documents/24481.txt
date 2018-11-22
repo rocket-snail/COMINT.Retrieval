@@ -1,3 +1,0 @@
-newton interpolation with backward divided differences
-    (algorithm 168) september, 1963 thacher jr., h. c. ca630924 jb
-    march 13, 1978 7:15 pm

@@ -1,7 +1,0 @@
-a continuously variable band pass filter for the audio
-    frequency range the design of a band pass filter whose
-    bandwidth and lower cut off frequency are continuously variable
-    is described the requisite crystal filters are derived from the
-    band pass elements given by image parameter theory the
-    equipment and some of its response curves are
-    illustrated

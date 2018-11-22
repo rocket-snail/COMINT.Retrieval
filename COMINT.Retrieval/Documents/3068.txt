@@ -1,7 +1,0 @@
-travelling wave resonator a circuit comprising a
-    directional coupler with the secondary arm ports connected to
-    form a continuous loop is used for storing energy extracted
-    from the primary in a wave which circulates around the loop an
-    x band version used in testing for high power breakdown is
-    briefly described presented at the national electronics
-    conference

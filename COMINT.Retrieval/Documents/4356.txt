@@ -1,8 +1,0 @@
-space modulation of amplitude limited oscillations simple
-    theoretical considerations show that demodulation can be
-    achieved by using a detector with rectangular characteristic
-    the amplitude modulated amplitude limited signal is converted
-    by this detector into rectangular pulses whose width is
-    determined by the rate of variation of the input signal voltage
-    the amplitude modulation can then be detected by using a second
-    detector having similar characteristics

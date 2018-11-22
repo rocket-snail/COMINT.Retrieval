@@ -1,8 +1,0 @@
-general properties of electromagnetic amplifiers the
-    relations between gain bandwidth or time constant and power
-    rating are discussed results to be expected from use of
-    feedback are e amined the amplifiers considered include
-    thermionic valve magnetic and rotating machine types devices
-    for improving the shape of the pass band normally involve delay
-    distributed amplifiers permit improvement of the gain bandwidth
-    parameter but not of the gain time constant ratio

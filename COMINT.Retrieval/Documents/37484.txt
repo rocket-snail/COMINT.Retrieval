@@ -1,5 +1,0 @@
-designing multiple feedback loops design considerations
-    applicable to transistors in the common cathode common base or
-    common emitter connections are discussed theorems for
-    determining the gain of any multiple loop circuit and a
-    stability criterion are given

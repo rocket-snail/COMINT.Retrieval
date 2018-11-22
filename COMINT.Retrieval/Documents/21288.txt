@@ -1,9 +1,0 @@
-channel 2000. description and findings of a viewdata test
-    conducted by oclc in columbus, ohio, oct-dec 1980. the results
-    of a test carried out by online computer library center to
-    develop and test a library electronic home information system,
-    to quantify potential user demand and attitudes, to identify
-    the need for additional information services, to evaluate the
-    existing environment and potential competition, to determine
-    the social issues involved and to examine the role of libraries
-    in the evolving marketplace are reported.

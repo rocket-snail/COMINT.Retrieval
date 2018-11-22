@@ -1,5 +1,0 @@
-low pass filter for subaudio frequencies details are
-    given of a low pass filter suitable for use in a missile borne
-    telemetry system the filter incorporates a transistor feedback
-    amplifier and has a flat response from an attenuation slope of
-    octave

@@ -1,7 +1,0 @@
-copper eddy current losses in coils with car onyl iron
-    and ferrite cores the design of low loss short multilayer coils
-    and long single layer coils is considered because core losses
-    are much reduced with modern ferrite cores the relative
-    importance of the copper eddy current losses s greater these
-    losses and their dependence on the coil and core parameters are
-    discussed in detail

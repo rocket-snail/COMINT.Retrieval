@@ -1,5 +1,0 @@
-planar problem of diffraction of electromagnetic waves by
-    an ideally conducting strip of finite width an application of
-    the method of solution proposed earlier to the case of small
-    values ts the wave number and the half width of the
-    strip

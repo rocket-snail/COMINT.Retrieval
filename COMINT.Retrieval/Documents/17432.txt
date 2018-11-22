@@ -1,3 +1,0 @@
-the optimum line width for a reflection cavity maser
-    extension of previous work of to show that the maximum gain
-    bandwidth product is achieved

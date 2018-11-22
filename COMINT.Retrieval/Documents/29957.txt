@@ -1,8 +1,0 @@
-technical project documentation and its use in design.
-    final report. the purpose of this study was to investigate the
-    information which staff circulate within a company in support
-    of an engineering project, and to examine the interface between
-    this information and that which circulates on a national basis.
-    the project team aimed to identify the strengths and weakness
-    of some information systems currently employed in industry with
-    a view to improving them in the future.

@@ -1,5 +1,0 @@
-a public library management system. discusses existing
-    library budget theories and systems and describes in detail the
-    computer-based management system incorporating a budget system
-    designed by the author for pikes peak regional library
-    district, colorado springs, colorado.

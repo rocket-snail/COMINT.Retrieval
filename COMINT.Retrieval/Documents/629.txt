@@ -1,4 +1,0 @@
-conductivity of a warm plasma a theory for obtaining the
-    conductivity of a uniform plasma as a function of frequency and
-    temperature is presented and compared with a number of recent
-    treatments

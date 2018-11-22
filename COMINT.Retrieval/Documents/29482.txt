@@ -1,9 +1,0 @@
-a study of spread f ionospheric echoes at night at
-    brisbane part range spreading from an examination of the
-    variation of the amount of range spreading produced by sweeping
-    the gain of a fixed frequency ionospheric recorder it is
-    possible to gauge the degree of roughness of ionospheric layers
-    the effective roughness is a function of the separation of
-    transmitter and receiver being less the greater the distance
-    between them the intensity of z ray echoes recorded in brisbane
-    is consistent with elliss theory part of

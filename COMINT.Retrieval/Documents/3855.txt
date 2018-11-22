@@ -1,2 +1,0 @@
-theory a nd design data for the synthesis of tchebycheff
-    parameter filters

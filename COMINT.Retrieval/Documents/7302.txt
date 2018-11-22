@@ -1,3 +1,0 @@
-rosenbrock function minimization (algorithm r450)
-    october, 1974 klemes, j. klemsa, j. ca741010 jb january 16,
-    1978 11:09 am

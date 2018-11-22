@@ -1,5 +1,0 @@
-frequency stabilization of valve oscillators in respect
-    of grid current amplification factor and load formulae are
-    derived for determining the values of stabilizing reactances
-    for series connection in the grid anode and load
-    circuits

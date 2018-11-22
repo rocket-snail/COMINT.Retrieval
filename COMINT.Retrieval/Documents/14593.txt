@@ -1,7 +1,0 @@
-the influence of the geomagnetic field on turbulence in
-    the ionosphere damping of turbulent motion of neutral particles
-    is negligible for the smaller eddies in the higher regions
-    electrons are constrained to move nearly parallel to the
-    magnetic field this results in variations of electron density
-    even when the density of neutral molecules does not vary these
-    variations may be appreciable above

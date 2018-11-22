@@ -1,4 +1,0 @@
-considerations on the solar cell the absorption curve of
-    the material and solar spectrum effects are contained in a
-    single function readily obtained by numerical
-    integration

@@ -1,3 +1,0 @@
-a helical coordinate system and its applications in
-    electromagnetic theory the system described enables problems
-    involving helical symmetry to be solved exactly

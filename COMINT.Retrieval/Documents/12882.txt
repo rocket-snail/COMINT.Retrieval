@@ -1,8 +1,0 @@
-the british library's approach to aacr2. the formal
-    commitment of the british library to aacr2 and dewey 19
-    entailed substantial changes to the uk marc format, the blaise
-    filing rules, and a variety of products produced for the
-    british library itself and for other libraries, including the
-    british national bibliography. the british library file
-    conversion involved not only headings but also algorithmic
-    conversion of the descriptive cataloguing.

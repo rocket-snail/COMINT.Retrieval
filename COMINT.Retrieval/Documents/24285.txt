@@ -1,3 +1,0 @@
-magnetic memory device for business machines description
-    of a device combining the short access time of a magnetic drum
-    and the larte storage capacity of the tape record

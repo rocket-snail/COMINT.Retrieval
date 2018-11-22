@@ -1,3 +1,0 @@
-distributed amplifier using tubes with secondary emission
-    description of a two stage amplifier with three type valves in
-    each stage having a gain of a bandwidth of

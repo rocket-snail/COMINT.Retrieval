@@ -1,4 +1,0 @@
-a nondegenerate s band parametric amplifier with wide
-    bandwidth band pass filters in the input ad and idler circuits
-    are used to give a bandwidth of at a centre frequency of
-    operation in four different modes is possible

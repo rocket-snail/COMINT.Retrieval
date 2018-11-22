@@ -1,7 +1,0 @@
-a voltage sensitive switch the controlled dielectric
-    breakdown of oxide films has been investigated a small shock
-    resistant device requiring no additional power supply has been
-    developed which consists of an oxide layer between an al base
-    and a ag film before breakdown the device has a resistance of
-    at least on switching the resistance drops to about some
-    circuit applications are described

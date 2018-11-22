@@ -1,6 +1,0 @@
-the simultaneous generation of two oscillations in one
-    oscillator and the stability of the difference frequency the
-    operating conditions are determined which are required for the
-    simultaneous generation of two different frequencies in a valve
-    feedback oscillator see experimental results are
-    discussed

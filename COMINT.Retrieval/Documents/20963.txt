@@ -1,8 +1,0 @@
-waves in a conducting sheet situated in a strong magnetic
-    field the hydromagnetic approximation is applied to the
-    elementary linear theory of transverse waves in a thin uniform
-    plane conducting sheet in which the inertia is provided by the
-    sheet and the restoring forces by strong vacuum magnetic fields
-    on either side of the sheet the dispersion relation and damping
-    are obtained the waves should be observable in the
-    laboratory

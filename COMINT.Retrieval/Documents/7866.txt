@@ -1,5 +1,0 @@
-interpretation of the ampere experiments ampere equation
-    for the force between current elements is unique assuming the
-    correctness of his five postulates the general equations are
-    here derived that apply if either the third or the fifth
-    postulate is omitted

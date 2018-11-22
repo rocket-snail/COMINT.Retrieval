@@ -1,8 +1,0 @@
-a statistical study on the minimum frequency in curve for
-    the e region of the ionosphere the diurnal and seasonal
-    variation of the minimum frequency in the curve for the e
-    region is investigated and also its relation to the sunspot
-    number the diurnal variation suggests the existence below the e
-    layer of an absorbing layer which is ionized by solar radiation
-    the electron density in the d layer is estimated to be
-    cm

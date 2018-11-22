@@ -1,9 +1,0 @@
-electromagnetic properties of plasmas in a magnetic field
-    continuation of work reported in of assuming a constant and
-    uniform magnetic field results obtained are discussed in
-    relation to those of other workers in particular the matrix for
-    the complex conductivity of an ionized gas and and the
-    dispersion equation previous results apply only for values of
-    gyromagnetic frequency small compared with where is the
-    electron collision frequency and the pulsatance of the electric
-    field

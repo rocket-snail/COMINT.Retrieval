@@ -1,8 +1,0 @@
-theoretical considerations regarding the day glow results
-    of rocket observations made by miley et al are examined the
-    reported great altitude and luminosity of the emissive source
-    cannot be reconciled with the assumption that dayglow is due to
-    direct photo action by incident solar radiation a determination
-    is made of the emission to be expected from processes known to
-    be operative including resonant and fluorescent scattering
-    photo dissociation photo ionization and recombination

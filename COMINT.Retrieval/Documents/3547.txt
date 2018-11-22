@@ -1,6 +1,0 @@
-nonlinear condensers the properties and applications of
-    high permittivity materials containing are discussed with
-    particular reference to the dependence of the dielectric
-    constant on temperature and on the voltage applied applications
-    of capacitance with the dc bias voltage in a modulator and in a
-    capacitor type amplifier are described

@@ -1,7 +1,0 @@
-an easily applied method for the reduction of hf records
-    to nh profiles including the effects of the earths magnetic
-    field the method depends on sampling h at fixed submultiples of
-    the frequencies at which true heights are required the latt r
-    are then obtained by averaging the values of h a complete
-    computation is presented for washington dc and the results
-    checked against an analysis of curves for known profiles

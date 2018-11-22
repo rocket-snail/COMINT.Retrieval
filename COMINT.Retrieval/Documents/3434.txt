@@ -1,6 +1,0 @@
-a dielectric approach to impurity conduction the problem
-    of impurity conduction in valence crystals is formulated on a
-    dielectric basis calculations are made of a the contribution to
-    the permittivity arising from the hydrogenic donor atoms b the
-    donor activation energy and c the effect of screening by
-    conduction electrons

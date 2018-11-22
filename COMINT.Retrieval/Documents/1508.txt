@@ -1,5 +1,0 @@
-a flutter computer with low gain amplifiers low gain
-    amplifiers are used thus avoiding drift troubles the principle
-    of the computer is to shift all the poles of the solution to
-    the left in the complex plane being a stable solution of the
-    problem the method is useful in low stiffness problems

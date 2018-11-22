@@ -1,7 +1,0 @@
-concept of a computer-supported method for stack and
-    open-access lending. description of an on-line loan system
-    developed for possible application at the library of the
-    university of munster. consideration is given to hardware and
-    software, book and reader identifiers, and data carriers. the
-    necessary routines are itemised, and likely costs taken into
-    consideration.

@@ -1,4 +1,0 @@
-transistor switching speed theoretical treatment of the
-    limitations of transistors in high speed switches together with
-    some methods of improving performance by decreasing switching
-    time

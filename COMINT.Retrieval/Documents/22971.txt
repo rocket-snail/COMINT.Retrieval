@@ -1,7 +1,0 @@
-the reactance characteristics of concentric line circuits
-    with interrupted inner conductor oscillator circuits in which
-    the inner conductor is interrupted e g those comprising
-    diskseal valves are investigated to determine the reactance as
-    a function of gap and line section lengths normally the higher
-    resonant frequencies of the circuit are not harmonics of the
-    fundamental frequency

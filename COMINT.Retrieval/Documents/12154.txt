@@ -1,3 +1,0 @@
-reflection conditions for vertical propagation in the
-    ionosphere in the presence of collisions and of the earths
-    magnetic field case of the e layer

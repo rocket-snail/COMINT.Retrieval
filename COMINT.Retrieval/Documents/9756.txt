@@ -1,2 +1,0 @@
-application of electron spin resonance in a microwave
-    oscillator or amplifier

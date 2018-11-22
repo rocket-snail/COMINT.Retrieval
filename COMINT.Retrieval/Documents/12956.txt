@@ -1,2 +1,0 @@
-practical calculation of the defocusing influence of the
-    space charge application to relativistic electron beams

@@ -1,3 +1,0 @@
-a simple shaft digitizer and store a shaft position
-    encoder of simple construction for analogue to digital
-    conversion is described

@@ -1,4 +1,0 @@
-ionization loss rates below km a discussion of the loss
-    processes in the d region with a review of data on the rate
-    coefficients involved theoretical height distributions of
-    electrons and of positive and negative ions are given

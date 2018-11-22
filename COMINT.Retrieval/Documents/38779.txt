@@ -1,5 +1,0 @@
-electric field in a microwave plasma as a function of
-    time investigation of the transient state in a pulsed discharge
-    in deuterium at pressures field strength was determined bi an
-    optical method of noting the stark effect on the balmer lines
-    in the external oscillating field

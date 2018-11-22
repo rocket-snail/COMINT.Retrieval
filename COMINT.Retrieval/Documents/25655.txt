@@ -1,7 +1,0 @@
-the applicability of active filters to the measurements
-    of the frequency spectra of pulses the use in frequency
-    analysers of active filters comprising amplifiers with double t
-    type rc networks results in higher q values at low frequencies
-    than is possible with stagger tuned lc circuits the error
-    assessment given by seeger and stablein of is also applicable
-    to this type of circuit

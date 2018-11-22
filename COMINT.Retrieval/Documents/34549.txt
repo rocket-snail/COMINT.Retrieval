@@ -1,4 +1,0 @@
-a note on the ground state of antiferromagnetism
-    kasteleijns method of obtaining the lowest energy state is
-    generalized for the cases of two and three dimensional
-    lattices

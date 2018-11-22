@@ -1,8 +1,0 @@
-feedback theory some properties of signal flow graphs the
-    equations characterizing transmission systems may be
-    represented by networks of directed branches termed signal flow
-    graphs the branches terminate at nodes which represent repeater
-    stations the topology of these diagrams is studied with
-    particular reference to feedback circuits the technique is
-    illustrated by application to specific circuit design
-    problems

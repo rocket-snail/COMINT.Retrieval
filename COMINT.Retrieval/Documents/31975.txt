@@ -1,7 +1,0 @@
-a wide band hybrid ring for uhf the bandwidth of a hybrid
-    ring is increased by replacing the long arm with a line and
-    introducing a frequency insensitive reversal of phase
-    calculations are made of input and transfer admittances
-    insertion loss and the effect of capacitance across the loads
-    some experimental results are given and applications to power
-    splitters harmonic generators mixers are indicated

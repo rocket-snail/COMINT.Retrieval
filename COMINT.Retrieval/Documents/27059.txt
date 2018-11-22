@@ -1,5 +1,0 @@
-radiation around the earth to a radial distance of km
-    radiation measurements made during the flight of pioneer on
-    december are discussed and a brief description is given of the
-    two geiger muller detector tubes used and the associated
-    telemetry equipment

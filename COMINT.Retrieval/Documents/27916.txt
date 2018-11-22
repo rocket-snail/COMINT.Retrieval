@@ -1,2 +1,0 @@
-simpson's integration (algorithm 84) april, 1962 hennion,
-    p. e. ca620403 jb march 20, 1978 2:25 pm

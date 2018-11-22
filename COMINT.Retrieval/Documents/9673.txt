@@ -1,5 +1,0 @@
-practical methods of harmonic analysis for geophysical
-    problems use of fourier series for resolving the diurnal
-    variations of geophysical elemements is discussed rapid methods
-    of analysis based on ordinate and ordinate schemes are
-    described

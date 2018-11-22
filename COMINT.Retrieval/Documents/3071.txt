@@ -1,5 +1,0 @@
-application factors for electrical resolvers the device
-    described resembles a small motor and was originally designed
-    for solving a trigonometry problems in conjunction with
-    analogue computers possible applications for control purposes
-    in industry are discussed

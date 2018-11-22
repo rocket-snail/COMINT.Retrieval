@@ -1,3 +1,0 @@
-ferroresonant computing circuits the basic ferroresonant
-    circuit and applications to switching and counting devices are
-    described

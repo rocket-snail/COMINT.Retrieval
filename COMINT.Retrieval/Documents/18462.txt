@@ -1,6 +1,0 @@
-ion size effect and mechanism of electrolytic
-    rectification previous theories of electrolytic rectification
-    are shown to be inadequate extensive experimental work is
-    presented which shows the importance of the size of the cation
-    in solution and the existence of an extremely thin surface
-    barrier of height about

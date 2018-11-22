@@ -1,6 +1,0 @@
-a general approach to hysteresis a alternative
-    formulation of the domain model a comparison is made of various
-    methods of formal representation of hysteresis phenomena in
-    terms of a domain model a symmetrical treatment is developed
-    permitting the equations to scanning curves within a hysteresis
-    loop to be written in a simple form

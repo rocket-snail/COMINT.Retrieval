@@ -1,6 +1,0 @@
-square law circuit a device for use as a multiplier in a
-    analogue computers consists of a source producing a negative
-    going triangular waveform which is superposed on a positive
-    going input signal applied to a diode the average value of the
-    output voltage is proportional to the square of the input
-    voltage

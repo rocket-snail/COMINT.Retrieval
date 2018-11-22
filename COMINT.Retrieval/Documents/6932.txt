@@ -1,2 +1,0 @@
-synthesis of feedback control system by phase angle loci
-    a modification of evans root locus method

@@ -1,6 +1,0 @@
-theory of the anisotropy of the width of ferromagnetic
-    resonance absorption lines the dependence of the width of a
-    radio frequency resonance absorption line on the internal field
-    is derived from the landau lifshits equation and examples of
-    ferrites with single axis and cubic symmetry are
-    examined

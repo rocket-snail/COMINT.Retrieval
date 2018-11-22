@@ -1,8 +1,0 @@
-new types of dc amplifier the reflex monitor system a
-    correcting amplifier or monitor identical to the input stage of
-    the main amplifier corrects alternately its own drift and that
-    of the main amplifier a differential input is used which
-    rejects in phase drift components and residual drifts are
-    balanced between the two amplifiers full details are given of a
-    practical circuit which has certain advantages over the simpler
-    cascade balance system described in part above

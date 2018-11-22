@@ -1,6 +1,0 @@
-shock waves in nonlinear transmission lines and their
-    effect on parametric amplification the propagation of a
-    periodic signal on a transmission line with a nonlinearity in
-    the distributed capacitance is examined the signal is deformed
-    during its propagation and em shock waves are generated the
-    subsequent growth and decay of the shock are analysed

@@ -1,9 +1,0 @@
-theory of total reflection the theory of total reflection
-    of an elliptically polarized plane wave is developed from
-    expressions for the energy density and the poynting vector
-    using the notation of the earlier paper results indicate that
-    at total reflection the mean flow of energy in the refracted
-    wave contains a com ponent normal to the plane o incidence this
-    component is zero in non total reflection and in two special
-    cases its magnitude is proportional to the wavelength in the
-    first medium

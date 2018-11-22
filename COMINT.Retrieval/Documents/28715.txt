@@ -1,8 +1,0 @@
-explanation of the inaccuracy of secondary electron
-    measurements a recording arrangement used for the measurements
-    is described a variation of the secondary electron ratio with
-    beam density was observed in several metals this variation is
-    probably due to the formation of positive ions at the target
-    when this is taken into account the secondary electron velocity
-    distribution is found to b independent of temperature in the
-    range contrary to several other published results

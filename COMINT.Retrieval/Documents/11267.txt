@@ -1,3 +1,0 @@
-use of a computing machine as a mechanical dictionary the
-    time required to locate a stored word is reduced by applying
-    binary division principles in the searching process

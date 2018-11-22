@@ -1,4 +1,0 @@
-on the problem of pulsed oscillations in ruby masers the
-    nonlinearity necessary for the existence of a pulsed mode of
-    operation is shown to be due to the interaction between the
-    electrons and the distant nuclei

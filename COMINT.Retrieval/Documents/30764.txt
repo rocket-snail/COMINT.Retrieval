@@ -1,3 +1,0 @@
-the relation between rain current and rate of rainfall
-    consideration of the drop size distribution in rain leads to a
-    relation very similar to the first of simpsons formulae

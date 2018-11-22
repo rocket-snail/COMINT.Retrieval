@@ -1,7 +1,0 @@
-the polar guide a constant resistance wave guide filter
-    the filter described comprises a circular waveguide with spaced
-    radial line cavities by means of which a linearly polarized
-    input wave is converted to a circularly polarized wave and
-    subsequently re converted the device can handle high powers a
-    design for a television vestigial sideband filter is
-    described

@@ -1,5 +1,0 @@
-a general theory of magnetic double resonance the theory
-    describes a system consisting of two interacting different
-    species of spin one being saturated by a strong resonant
-    radiation field and the other being detected by a weak field
-    see also

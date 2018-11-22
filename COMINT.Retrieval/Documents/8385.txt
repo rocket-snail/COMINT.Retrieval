@@ -1,6 +1,0 @@
-a matched amplifier using two cascaded esaki diodes a
-    circuit consisting of a quarter wave transmission line whose
-    ends are terminated by negative conductances is discussed and
-    its characteristics calculated a amplifier using two esaki
-    diodes has been found to have a gain of with a noise figure
-    of

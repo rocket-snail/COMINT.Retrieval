@@ -1,5 +1,0 @@
-ionic conductivity of highly ionized plasmas values of
-    plasma resistivity as measured by a current entering and
-    leaving the plasma and the flow velocity in hydrogen at various
-    gas pressures are given together with a discussion of the
-    theoretical aspects of the problem

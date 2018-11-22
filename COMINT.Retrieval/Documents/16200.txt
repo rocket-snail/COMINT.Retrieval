@@ -1,3 +1,0 @@
-on hybrid transformers design formulae are derived from
-    basic assumptions and the properties and some common uses of
-    these circuit elements are discussed

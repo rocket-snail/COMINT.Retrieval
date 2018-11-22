@@ -1,6 +1,0 @@
-thickness shear vibrations of piezoelectric crystal
-    plates with incomplete electrodes the method developed in above
-    is applied to determine the influence of electrode length on
-    thickness shear frequencies for a partially coated crystal
-    these frequencies depend on the coupling between the coated and
-    uncoated portions considered as separate systems

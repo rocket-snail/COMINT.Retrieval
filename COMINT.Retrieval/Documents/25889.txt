@@ -1,9 +1,0 @@
-inter reciprocity applied to electrical networks a new
-    concept inter reciprocity is introduced which is useful in the
-    study of nonreciprocal networks when a particular topological
-    operation termed transposition is performed on a given linear
-    network the initial network and the resulting transposed
-    network are said to be inter reciprocal application of the
-    theory to a variety of general and special circuit problems is
-    illustrated the noise properties of gyrator triode and
-    transistor networks are discussed

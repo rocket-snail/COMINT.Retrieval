@@ -1,6 +1,0 @@
-deduction of ionospheric electron content from the
-    faraday fading of signals from artificial earth satellites a
-    method is described for determining horizontal variations in
-    the ionosphere both above and below maximum ionization results
-    are compared with values of electron content deduced from
-    ionograms

@@ -1,7 +1,0 @@
-the noise temperature of cascade connected amplifiers a
-    formula is derived for the noise temperature of a cascade
-    connected amplifier with negative conductances as active
-    elements this permits a simple graphical representation of
-    noise characteristics examples are given of parametric
-    amplifier stages and the influence of isolators and circulators
-    on noise temperature and bandwidth is discussed

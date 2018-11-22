@@ -1,8 +1,0 @@
-unambiguous choice of arrow direction for currents and
-    voltages in quadripoles with applications to directional
-    quadripoles and gyrators it is recommended that the positive
-    direction of the voltage arrow should always point from
-    positive to o negative charge with quadripole diagrams the
-    output current arrow should poin away from the quadripole
-    simplifications of network analysis resulting from adoption of
-    this convention are indicated

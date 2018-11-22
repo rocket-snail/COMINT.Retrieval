@@ -1,6 +1,0 @@
-agris-international information system for the
-    agricultural sciences and technology. an account of the need
-    for agris, its development, projects being carried out by agris
-    member countries, agris information services, caris (current
-    agricultural research information system), and future
-    prospects.

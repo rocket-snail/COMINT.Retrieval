@@ -1,4 +1,0 @@
-scattering potential in fully ionized gases a discussion
-    of recent methods for calculating a the scattering potential
-    and b the probability that a test particle experiences an
-    electrical field of magnitude

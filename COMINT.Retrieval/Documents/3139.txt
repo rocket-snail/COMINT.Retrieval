@@ -1,7 +1,0 @@
-decision table' a tool of systems study. describes the
-    purpose and use of decision tables. decision tables can be
-    effective instruments for communication between librarians and
-    computer programmers. this tabular approach can be used not
-    only to express the decision logic in its simplest form, but
-    can also be of immense help in the analysis of a decision
-    problem.

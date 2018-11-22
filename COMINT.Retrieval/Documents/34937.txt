@@ -1,5 +1,0 @@
-an alternating voltage source of high stability at
-    standard frequency description of a three phase constant
-    voltage source provided by a synchronous generator with quartz
-    clock controlled frequency developed for testing ac precision
-    instruments

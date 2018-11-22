@@ -1,5 +1,0 @@
-the logic potential of molecular electronics in the
-    multicollector transistor methods of applying the techniques of
-    molecular electronics to form logic circuits are discussed with
-    emphasis on the two collector transistor of the logical effects
-    of more collectors are briefly considered

@@ -1,4 +1,0 @@
-the radio source in the direction of the galactic centre
-    observations of radio flux densities at frequencies from to
-    show that the radiation could originate from a nonthermal
-    source lying behind ionized hydrogen

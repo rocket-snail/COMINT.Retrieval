@@ -1,6 +1,0 @@
-a load sharing matrix switch a matrix switch winding
-    pattern has been developed which allows the power from several
-    pulse generators to be combined in a single high power pulse to
-    drive a computer core type storage system this pulse may be
-    directed into one of a group of outputs an example with outputs
-    is given

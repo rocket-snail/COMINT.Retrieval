@@ -1,2 +1,0 @@
-coulomb wave functions (algorithm 300 [s22]) april, 1967
-    gunn, j. h. ca670408b jb march 23, 1978 4:06 pm

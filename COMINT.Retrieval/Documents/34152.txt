@@ -1,7 +1,0 @@
-calculation of transient phenomena in electrically short
-    networks by means of fourier integrals fourier integrals are
-    applied to the determination of the frequency spectra of
-    periodic functions nonperiodic functions including step
-    functions the results are used in discussion of the distortion
-    and initial conditions in networks to which an impulse voltage
-    is applied

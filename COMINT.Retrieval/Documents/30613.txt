@@ -1,6 +1,0 @@
-fundamentals in the synthesis of loss free quadripoles
-    from lines with continuous non uniformities the synthesis is
-    facilitated by appropriate choice of line coordinates and a
-    polynomial representation of the characteristic impendance
-    application to problems of wide band transformation and
-    matching are illustrated

@@ -1,6 +1,0 @@
-the law of small variations in characteristics and its
-    application to nonlinear and linear networks current changes
-    resulting from small variations in characteristics in nonlinear
-    dc networks can be calculated approximately by reference to an
-    equivalent circuit examples of linear networks considered are a
-    wheatstone bridge circuit and reactance two poles

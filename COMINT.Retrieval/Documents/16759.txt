@@ -1,3 +1,0 @@
-a method for the systematic calculation of an electron
-    optically effective field distribution with specified imaging
-    properties analysis is given for a purely magnetic field

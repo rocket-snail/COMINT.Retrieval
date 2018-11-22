@@ -1,7 +1,0 @@
-author indexing. indexing terms supplied by authors can
-    increase subject control of their documents. the terms can be
-    used in the creation of indexes, abstracts, and other devices
-    for information retrieval in the special library. an
-    examination of the american mathematical society author
-    indexing programme suggests that contributions of authors
-    enhance the indexing efforts of editors.

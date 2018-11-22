@@ -1,8 +1,0 @@
-the conductivity tensor of electron plasmas in the
-    presence of a constant magnetic field assuming the mean
-    collision frequency to be independent of velocity it is shown
-    that the form of the ct of velocity it is shown that the form
-    of the conductivity tensor given by jacel and kahan above
-    differs from that given by huxley of in order to represent the
-    magnetoresistance terms correctly by jancel and kahans method
-    closer approximation is necessary

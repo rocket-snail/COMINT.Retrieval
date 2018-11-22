@@ -1,6 +1,0 @@
-a new method for the calculation of profiles from
-    ionospheric curves the basic integral for virtual height has
-    bee rearranged so that the integrand is a function of phase
-    refractive index instead of group refractive index this
-    technique avoids an infinity in the integrand at the reflection
-    condition

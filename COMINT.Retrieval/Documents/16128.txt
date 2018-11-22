@@ -1,5 +1,0 @@
-the diffraction of electromagnetic waves at rectangular
-    apertures in plane metal screens an approximation method of
-    calculating the diffraction field is applied to the case of
-    rectangular apertures results are compared with those obtained
-    experimentally

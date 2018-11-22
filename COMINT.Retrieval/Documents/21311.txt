@@ -1,2 +1,0 @@
-stabilization by zener diodes elementary design
-    principles are discussed

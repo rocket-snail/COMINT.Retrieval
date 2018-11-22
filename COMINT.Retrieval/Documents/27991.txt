@@ -1,8 +1,0 @@
-scattering of plane waves by locally homogeneous
-    dielectric noise when plane waves are scattered by locally
-    homogeneous dielectric noise random refractive index
-    fluctuations and observed in the fraunhofer region it is found
-    that the local structure of the noise determines the average
-    scattered power received at a fixed point whereas its overall
-    structure determines the space correlations of the radiation
-    received at two different points

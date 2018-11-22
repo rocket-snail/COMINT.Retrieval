@@ -1,6 +1,0 @@
-anomalous electron scattering in metals a semi
-    theoretical equation was proposed previously to account
-    qualitatively for the thermoelectric power of metals and alloys
-    particularly at low temperatures the consequences of this
-    equation are now examined quantitatively in relation to
-    experimental data on alloys of copper

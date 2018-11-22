@@ -1,5 +1,0 @@
-nonlinear effects of crystalline anisotropy on
-    ferrimagnetic resonance analysis shows that the magnetic
-    resonance frequency depends quadratically upon the precession
-    amplitude to lowest order this can cause a foldover of the
-    resonance line

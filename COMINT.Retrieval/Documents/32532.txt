@@ -1,3 +1,0 @@
-tunnel diodes increase digital circuit switching speeds
-    tunnel diodes are used with transistors in high speed switching
-    circuits suitable for pulse generator operation

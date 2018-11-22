@@ -1,7 +1,0 @@
-high frequency gas discharge plasma in hydrogen the
-    microwave field strength required to maintain a hydrogen plasma
-    in the steady state is calculated from theory based on a
-    solution of the boltzmann transport equation the results are in
-    satisfactory agreement with measurements made in a resonant
-    cavity at different values of pressure and plasma
-    concentration

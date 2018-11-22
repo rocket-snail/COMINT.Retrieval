@@ -1,5 +1,0 @@
-synthesis of passive quadripoles it is shown that any
-    passive a quadripole can be constituted by combining a two
-    terminal network with a t or network the whole comprising four
-    two terminal physically realizable networks with complex
-    impedance

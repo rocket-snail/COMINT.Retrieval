@@ -1,4 +1,0 @@
-vhf broad band variable group delay equalizers the two
-    designs described are for links using telephony channels or
-    line subcarrier colour television telephony channels or line
-    subcarrier colour television

@@ -1,4 +1,0 @@
-general physical relations in ladder type filters the
-    improvement of filter characteristics by mismatch conditions
-    between the ladder sections is considered and a design method
-    is outlined

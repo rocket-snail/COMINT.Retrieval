@@ -1,2 +1,0 @@
-phase shift oscillator indicates radar range firing range
-    information is conveyed by a variable af note

@@ -1,6 +1,0 @@
-a method for measuring the conductivity in a high
-    electron density plasma the interaction between the solenoidal
-    electric field and a circular cylindrical plasma column is used
-    as the basis for the design of a pulse operated bridge suitable
-    for transient measurements of conductivity in high density
-    plasma

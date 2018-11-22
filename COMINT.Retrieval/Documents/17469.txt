@@ -1,3 +1,0 @@
-current limited rectifiers a description is given of a
-    class of rectifier circuits that limit their output current to
-    a specified maximum applications are suggested

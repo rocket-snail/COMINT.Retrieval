@@ -1,9 +1,0 @@
-an introduction to new media in japan. the captain
-    interactive videotex and the teletext and telescan distributed
-    videotex systems are described. interactive cable
-    communications systems using conventional coaxial techniques
-    and glass fibre technology and the video response system are
-    discussed. the state of technical development at the japanese
-    newspapers and their attitudes to communications developments
-    are considered and the problems associated with the typesetting
-    of japanese characters explained.

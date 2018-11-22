@@ -1,5 +1,0 @@
-push pull amplifier balance negative voltage feed back
-    may be applied independently to the two sides of a push pull
-    amplifier circuit by the insertion of an inductance and shunt
-    resistance network in the lead to the primary centre tap of the
-    output transformer

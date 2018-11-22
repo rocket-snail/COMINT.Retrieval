@@ -1,5 +1,0 @@
-a note on the design of transductors for maximum power
-    transfer magnetic amplifiers giving maximum power output for a
-    given size of core are designed by known graphical and
-    numerical methods theoretical and experimental results are
-    compared

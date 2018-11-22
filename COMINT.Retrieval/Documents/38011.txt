@@ -1,5 +1,0 @@
-sudden amplitude variations of sputnik signals two
-    distinct causes of drop outs in the signal received from are
-    identified a change in transmitter characteristics and a
-    localized absorbing or scattering region in the
-    ionosphere

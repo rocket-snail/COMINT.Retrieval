@@ -1,9 +1,0 @@
-tuning of a rectangular parallelepiped cavity resonator
-    with a circular metallic post a relation is derived between the
-    resonance frequency and small displacements of a post
-    projecting into the resonator using a perturbation formula due
-    to slater of the calculation is carried out to the first order
-    for a rectangular cavity operating in the mode the result is
-    compared with a similar relation for a right circular cylinder
-    whose length is varied by a plunger completely closing one
-    end

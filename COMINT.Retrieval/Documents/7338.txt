@@ -1,8 +1,0 @@
-some factors affecting the radio determination of
-    meteoric velocities questions raised by hoffmeister of february
-    are discussed further deceleration of meteors along the path
-    prior to the point of measurement may br an important factor
-    techniques for measuring the deceleration over an appreciable
-    path length by the radio amplitude time method require to be
-    developed existing techniques may be failing to detect faint
-    meteors with hyperbolic orbits

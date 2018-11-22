@@ -1,4 +1,0 @@
-cosmic ray instrumentation in the first us earth
-    satellite the instrumentation was designed for conservation of
-    electrical power and for stable and reliable operation over a
-    wide range of temperatures

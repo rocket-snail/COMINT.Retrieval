@@ -1,8 +1,0 @@
-computations of electron density distributions in the
-    ionosphere making full allowance for the geomagnetic field
-    jacksons method of for computing the distributions from records
-    has been slightly modified for use on an electronic computer
-    each reduction takes about secs it is assumed that the electron
-    density between two layers falls to of the lower layer value
-    night time distributions for brisbane australia are found to be
-    nearer to the chapman than to the parabolic form

@@ -1,3 +1,0 @@
-transistorized current stabilizers for electromagnets of
-    medium power to methods of computing the characteristics and
-    determining the stability are given

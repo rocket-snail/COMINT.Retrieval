@@ -1,5 +1,0 @@
-study of online instruction methodologies for the dtic
-    training program. this report presents results of a study of
-    various instruction methods currently in use to teach people
-    how to access and search computer-stored bibliographic-type
-    data bases in an on-line mode.

@@ -1,6 +1,0 @@
-radiation in a plasma part cherenkov effect a linear
-    continuum theory in which the em and electroacoustic waves set
-    up in a plasma by arbitrary change and current sources are
-    found from maxwells equations the results are similar to those
-    of pines and bohm or although the latter start from the
-    particle viewpoint

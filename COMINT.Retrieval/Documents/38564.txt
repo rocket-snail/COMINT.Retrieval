@@ -1,6 +1,0 @@
-an integrated system for conducting chemical and
-    biological searches. describes the chemical and biological
-    search capabilities of the rohm and haas agricultural chemicals
-    computerized information system (accis). chemical searches are
-    interactive and biological searches are in batch mode (although
-    an interactive facility is planned).

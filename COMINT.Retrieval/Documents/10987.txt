@@ -1,5 +1,0 @@
-a variable bandwidth a band pass filter a method is
-    described whereby several bandwidths may be ot obtained in an
-    lc filter employing one set of inductors only the design of a
-    typical filter with an actual plot of its attenuation
-    characteristic is included

@@ -1,5 +1,0 @@
-double excitation in decimetre wave oscillators with
-    coaxial lines the simultaneous oscillation at a frequency
-    corresponding to a setting of about in a disk seal triode
-    oscillator tuned to is investigated and the calculations are
-    verified by experiment

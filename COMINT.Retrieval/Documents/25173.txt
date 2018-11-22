@@ -1,8 +1,0 @@
-the solar flare type variation in geomagnetic field and
-    the integrated electrical conductivity of the ionosphere part
-    assuming that the solar flare type of variation of the
-    geomagnetic field is caused by anomalous increase of the
-    electrical conductivity of the ionosphere treatment based on
-    the dynamo theory gives a value for the integrated conductivity
-    of the ionosphere of the order of which is in good agreement
-    with the value deduced from ionospheric observations

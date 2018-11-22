@@ -1,8 +1,0 @@
-some aspects of half wave magnetic amplifiers the
-    performance of half wave magnetic amplifiers is analysed and a
-    theory presented which allows for a finite control circuit
-    resistance or rectifier reverse conductance and imperfect core
-    properties experimental results obtained with amplifiers using
-    different cores show good agreement with theory various methods
-    of bias are reviewed and a conductance controlled amplifier is
-    described

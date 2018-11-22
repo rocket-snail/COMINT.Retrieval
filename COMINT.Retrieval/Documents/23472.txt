@@ -1,6 +1,0 @@
-computer application to library circulation control.
-    discusses a possible implementation of an on-line circulation
-    control system, covering design objectives; system overview;
-    hardware and associated costs; implementation details; charge,
-    discharge, renewal, and hold request transactions;
-    reservations; and batch processing.

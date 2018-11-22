@@ -1,2 +1,0 @@
-synthesis of compensation networks for carrier frequency
-    servomechanisms

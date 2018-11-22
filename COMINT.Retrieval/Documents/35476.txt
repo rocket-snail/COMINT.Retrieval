@@ -1,3 +1,0 @@
-the general motion of conduction electrons in a uniform
-    magnetic field with application to the diamagnetism of
-    metals

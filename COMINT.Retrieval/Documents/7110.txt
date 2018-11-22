@@ -1,4 +1,0 @@
-paramagnetic maser oscillator analysis an equation for
-    the output waveform is derived and numerical solutions obtained
-    using a computer good agreement with experiment is given for
-    steady state and field swept oscillators

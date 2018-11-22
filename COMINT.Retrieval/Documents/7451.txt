@@ -1,7 +1,0 @@
-frequency stability of point contact transistor
-    oscillators the duality relation between circuits using the
-    voltage controlled negative impedance base input characteristic
-    and those using the current controlled negative impedance
-    emitter input or collector input characteristic is demonstrated
-    stabilization criteria for both cases are derived analytically
-    and are confirmed experimentally

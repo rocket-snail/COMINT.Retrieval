@@ -1,5 +1,0 @@
-the motion of charged particles in weakly variable
-    magnetic fields analysis is simplified by considering in place
-    of the actual particle which follows a helical path an
-    equivalent particle following a mean path and having a magnetic
-    moment

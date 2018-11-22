@@ -1,8 +1,0 @@
-resonant dielectric amplifier frequency response
-    discussion of an amplifier of the type in which the capacitance
-    of a nonlinear capacitor excited to resonance by a carrier wave
-    is modulated by a carrier wave is modulated by a signal voltage
-    and an amplified output is obtained by subsequent demodulation
-    with a carrier circuit q value of the carrier frequency must be
-    of the order of the response to be flat up to signal
-    frequencies of

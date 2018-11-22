@@ -1,4 +1,0 @@
-broad band amplifier for radar and scatter the design of
-    a low noise two stage amplifier and mixer for the range is
-    described overall power gain is with noise figures varying from
-    to over the frequency band

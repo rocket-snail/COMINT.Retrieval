@@ -1,5 +1,0 @@
-applications of tensor theory to linear electronic
-    circuits an explanation of tensor concepts and their general
-    application to valve circuits with examples illustrating the
-    determination of input impedance and gain of feedback cathode
-    follower and grounded grid circuits

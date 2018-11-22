@@ -1,6 +1,0 @@
-the ionospheric e layer at cape hallett ionograms were
-    examined and the e layer critical frequencies of those
-    unaffected by ionization movements were compared with those
-    expected on a simple chapman model agreement was good when an
-    electron recombination process was considered for the
-    model

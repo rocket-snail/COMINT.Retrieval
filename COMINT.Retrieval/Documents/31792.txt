@@ -1,8 +1,0 @@
-on the world wide distribution of the coefficients a and
-    b in the relation where sunspot number are separated into
-    components which are constant and those which vary diurnally
-    and annually see of examination of these components for
-    stations shows a geomagnetic latitude control of the constant
-    component while there is no significant difference between
-    control by geomagnetic or geographic latitude for the varying
-    components

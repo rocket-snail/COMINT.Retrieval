@@ -1,6 +1,0 @@
-the electric field of conductors arranged parallel to
-    conducting planes intersecting at a given angle convenient
-    formulae are obtained by considering the field as the resultant
-    of those due to the multiple reflections of the conductor in
-    the intersecting planes these formulae are shown to agree with
-    those derived by the method of conformal transformation

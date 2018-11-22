@@ -1,3 +1,0 @@
-how to design broadband microwave cavities design
-    criteria for rhumbatrons of cylindrical and prismatic form are
-    given with a numerical example for each type

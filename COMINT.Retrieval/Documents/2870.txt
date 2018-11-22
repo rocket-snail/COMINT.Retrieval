@@ -1,3 +1,0 @@
-temperature distribution in a electrically heated
-    filament a practical general solution is given for a filament
-    of finite length heated in vacuo

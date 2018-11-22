@@ -1,6 +1,0 @@
-transistor terminal switches discussion showing how the
-    blocking voltage concept may be applied to obtain negative
-    resistance characteristics using a junction transistor a point
-    contact transistor a modified double base diode or a modified
-    tetrode a few applications mainly in telephone systems are
-    indicated

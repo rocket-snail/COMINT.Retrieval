@@ -1,5 +1,0 @@
-fast transistorized time to pulse height converter a
-    converter of simple design is described having a timebase and
-    giving a resolution of using conventional scintillation
-    counters it was used to analyse particle beams by time of
-    flight measurements

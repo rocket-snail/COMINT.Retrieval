@@ -1,6 +1,0 @@
-influence of light on the mechanism of gas discharges
-    results of previous experimental work are reviewed the
-    variation of the discharge current with the intensity and
-    frequency of the incident light and in particular the reversal
-    of this current variation in a certain voltage range are
-    interpreted in terms of space charge effects

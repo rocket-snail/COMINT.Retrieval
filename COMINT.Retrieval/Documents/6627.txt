@@ -1,3 +1,0 @@
-the design of an electrodynamic multiplier development of
-    a design described earlier for use in a differential
-    analyser

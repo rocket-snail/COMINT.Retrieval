@@ -1,4 +1,0 @@
-a semiconductor diode multivibrator a circuit is
-    described using one double base diode see eg of together with
-    one ordinary diode and only three resistors and one
-    capacitor

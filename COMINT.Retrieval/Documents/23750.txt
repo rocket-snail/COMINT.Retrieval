@@ -1,9 +1,0 @@
-radiation from molecules in the presence of a strong high
-    frequency field it is shown that in addition to an absorption
-    of the energy at a frequency where are energy levels of the
-    molecule emission takes place at a frequency which is a
-    function of the matrix element of the dipole moment
-    corresponding to the transition and the field strength of the
-    field in a typical case and the field strength is the value of
-    is then approximately the radiation is only present if the
-    elements and are not equal to zero

@@ -1,4 +1,0 @@
-an accurate electronic multiplier an account of
-    developments of the time division multiplier described by a
-    design giving long term stability and increased speed of
-    operation is described

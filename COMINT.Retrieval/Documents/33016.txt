@@ -1,4 +1,0 @@
-a multi decade predetermined counter the automatic four
-    decade counter described is a modified version of that noted in
-    of february the maximum counting rate is per sec and the
-    minimum duration of a complete cycle of counts is ms

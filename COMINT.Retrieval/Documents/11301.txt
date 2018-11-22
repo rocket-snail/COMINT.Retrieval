@@ -1,6 +1,0 @@
-cars' computer assisted referee selection. describes the
-    use of a computer-based text-editor for selection of reviewers
-    for scientific journals. there is a discussion of the needs for
-    computer assistance, and of the results obtained using the
-    described system. suggestions are offered for generalisation to
-    different fields.

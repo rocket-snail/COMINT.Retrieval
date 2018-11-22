@@ -1,3 +1,0 @@
-electron inertia and terrestrial magnetism analysis shows
-    that electron inertia effects make no appreciable contribution
-    to the geomagnetic field

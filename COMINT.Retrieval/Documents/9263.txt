@@ -1,7 +1,0 @@
-coupling of cathode followers in dc amplifiers a
-    symmetrical phase reversal circuit is described which together
-    with screen coupled cathode follower stages has resulted in the
-    development of an amplifier operated from a single source
-    giving a gain of db and having a flat response up to kcs the
-    level of the fluctuation noise voltage is almost too low to be
-    measurable

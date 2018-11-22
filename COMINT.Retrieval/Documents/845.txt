@@ -1,6 +1,0 @@
-radiation measurements of kilometres altitude at
-    equatorial latitudes the relative fluxes energy spectra and
-    angular distributions of electrons and protons determined
-    during three flights are reported the electron spectrum appears
-    to be softer than that expected from a neutron beta decay
-    origin

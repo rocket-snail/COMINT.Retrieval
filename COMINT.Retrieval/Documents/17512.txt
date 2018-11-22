@@ -1,4 +1,0 @@
-solving noise problems in digital computer memories
-    details are given of a coincident current storage system in
-    which strobe pulses are obtained directly from driven
-    cores

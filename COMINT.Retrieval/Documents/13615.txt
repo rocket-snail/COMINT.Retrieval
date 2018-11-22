@@ -1,5 +1,0 @@
-mutual correlation of fluctuation type interference at
-    the output of frequency filters the method is discussed of
-    determining the interference correlation function for two
-    filters forming the loads of a two frequency channel receiving
-    system with or without detector

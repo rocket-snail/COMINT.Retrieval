@@ -1,8 +1,0 @@
-nonlinear effects in electron plasmas a mathematical
-    study of three groups of effects namely the excitation of
-    harmonics coherent interaction and incoherent interaction
-    complications of finite boundaries external fields non zero
-    temperature multistream flow and collisions are ignored the
-    main interest is in the incoherent interaction which results in
-    spectral decay and damping effects are compared with
-    experimental data

@@ -1,7 +1,0 @@
-high speed magnetic amplifiers units based on ramseys
-    half wave amplifier are discussed and the development of a new
-    series of amplifiers is described the basic type is a reversing
-    phase input reversing dc output amplifier circuit modifications
-    are explained for obtaining reversing dc output fr reversing dc
-    input and reversing phase ac or reversing polarity dc output
-    other possible modifications are indicated

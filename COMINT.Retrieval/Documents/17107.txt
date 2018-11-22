@@ -1,5 +1,0 @@
-a wide band voltage controlled oscillator continuously
-    variable frequency control of an lc oscillator over the range
-    is obtained by electronic switching of a number of fixed
-    capacitors across the inductance the number of depending on a
-    dc control signal voltage

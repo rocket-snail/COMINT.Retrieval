@@ -1,6 +1,0 @@
-transistor amplifiers common base versus common emitter
-    the gain stability and frequency response of the two circuits
-    are compared theoretically and experimentally if a generator
-    with a relatively low impedance is used these characteristics
-    need be no worse for the common emitter than for the common
-    base amplifier

@@ -1,8 +1,0 @@
-neutralizing pentodes in radar if stages the effects of
-    grid plate capacitance are cancelled without use of additional
-    components tapped coils or balanced tuned circuits by using as
-    neutralizing capacitor a screen bypassing capacitor providing
-    slightly less than complete bypassing experimental methods are
-    described for determining the required values of the
-    neutralizing capacitors for radar and television if
-    amplifiers

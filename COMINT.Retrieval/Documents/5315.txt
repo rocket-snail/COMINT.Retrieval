@@ -1,4 +1,0 @@
-the relation between various types of plasma oscillation
-    a dispersion relation is derived which applies to plasma
-    oscillations electron and ion oscillations of the larmor type
-    and to magneto hydrodynamic waves

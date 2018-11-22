@@ -1,8 +1,0 @@
-ionized irregularities and wing motion in the ionosphere
-    the motion of irregularities in electron density are studied on
-    the basis of a three dimensional model electrodynamic effects
-    are slight in the e region under magnetically quiet conditions
-    but are appreciable in the f region and even in the e region
-    for disturbed conditions at high latitudes a general discussion
-    on the stability and lifetime of regions of irregular electron
-    density is given

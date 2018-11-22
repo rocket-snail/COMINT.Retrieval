@@ -1,9 +1,0 @@
-a broad band coaxial stark cell for microwave
-    spectroscopy the cell consists of a coaxial structure long the
-    outer conductor being of brass tube and the inner of brass rod
-    the ends are vacuum sealed only a single wave transmission mode
-    is possible in the operation range the application of a voltage
-    between the conductors at some predetermined repetition rate
-    modifies the variation of the absorption with the frequency of
-    the rf wave field thus facilitating detection of resonance see
-    also

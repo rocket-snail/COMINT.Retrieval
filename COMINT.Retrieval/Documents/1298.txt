@@ -1,8 +1,0 @@
-structure generation on the basis of bct representation
-    of chemical structures. a method of structure generation based
-    on bct (block-cutpoint tree) representation of chemical
-    structures has been developed. the generation program is a part
-    of the automatic structure analysis system of mass spectra
-    (asasmas) and is used when a set of the inferred substructures
-    are given as input data. the input substructures are
-    represented by means of bct.

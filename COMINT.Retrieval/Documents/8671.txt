@@ -1,2 +1,0 @@
-noise figure for a travelling wave parametric amplifier
-    of the coupled mode type

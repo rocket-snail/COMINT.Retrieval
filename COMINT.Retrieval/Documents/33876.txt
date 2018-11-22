@@ -1,9 +1,0 @@
-universal high speed digital computers a decimal storage
-    system discussion three decimal digit storage systems using cr
-    tubes are described the best compromise as regards speed of
-    operation storage capacity and reliability is obtained with a
-    cr tube screen comprising ten separate elements in a serially
-    controlled store holding words of decimal digits the digit
-    period was and could be reduced to these results compare
-    favourably with those for the binary store used in the
-    manchester university computer

@@ -1,8 +1,0 @@
-noise from hot cathode discharges experiments with
-    mercury vapour tubes in which anode glow disturbances were
-    eliminated show that low frequency noise in an unsaturated
-    discharge is due to a coherent random fluctuation of the whole
-    plasma probably caused by fluctuations of the cathode sheath
-    under certain conditions another effect was distinguished which
-    may e be due to fluctuations of sheaths on the probes used or
-    on the tube walls

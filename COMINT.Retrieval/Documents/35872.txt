@@ -1,3 +1,0 @@
-thermomagnetic properties of thin metallic films theory
-    presented by is extended to cover cases involving temperature
-    gradients

@@ -1,7 +1,0 @@
-tymnet-the evolution of a computer communications
-    network. presents the communication problem facing tymshare
-    from its 1st day of operation in 1966-the need to economically
-    connect a user's terminal to the timesharing host computer-and
-    describes the sequence of solutions leading to the creation of
-    tymnet as it exists today. also explores the refinements of
-    tymnet's dynamic routing system and problems of growth.

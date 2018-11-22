@@ -1,4 +1,0 @@
-the influence of lattice vebrations on energy and
-    lifetime of the exciton the exciton is treated as a system of
-    two particles with coulomb potential interaction which are
-    coupled to the quantized field of lattice vibrations

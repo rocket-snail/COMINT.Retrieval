@@ -1,5 +1,0 @@
-a correction of the thomson formula for the coefficient
-    of three body recombination between electrons and ions comment
-    on the method of deriving thomsons formula of pointing out two
-    objections to the expression used for effective mean free
-    path

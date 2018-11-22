@@ -1,5 +1,0 @@
-how transistors operate under atomic radiation results of
-    tests on an amplifier detector system show that degrading
-    effects of irradiation can be controlled to some degree by
-    negative feedback measurements were also made on a single
-    separate transistor and a coaxial cable

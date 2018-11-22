@@ -1,3 +1,0 @@
-the design of all pass low pass and band pass filters
-    with a tchebycheff type approximation of constant group
-    delay

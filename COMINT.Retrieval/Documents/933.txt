@@ -1,6 +1,0 @@
-online i&r in your library: the state of the art. the
-    potential for using on-line information retrieval and other
-    computerised techniques for information storage and handling in
-    a community information service is described. specifications
-    for computer hardware and software suitable for a referral
-    centre are tabulated.

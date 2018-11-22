@@ -1,6 +1,0 @@
-an alternative approach to the realization of network
-    transfer functions the n path filter a t me varying network
-    consisting of n parallel transmission paths each containing
-    input and output modulators is described and analysed some
-    practical applications are discussed in detail and experimental
-    verification is presented

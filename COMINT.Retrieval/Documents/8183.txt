@@ -1,5 +1,0 @@
-variation of secondary emission with primary electron
-    energy a simple formula is given relating secondary emission to
-    primary electron energy which is more in agreement with
-    experimental results for and than previous theoretical
-    formulae

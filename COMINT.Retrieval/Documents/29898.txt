@@ -1,2 +1,0 @@
-remarks on algol and symbol manipulation september, 1959
-    green, j. ca590905 jb march 22, 1978 4:47 pm

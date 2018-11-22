@@ -1,4 +1,0 @@
-noise properties of lc oscillators previous analyses
-    based on the concepts of forced oscillations and disturbed free
-    oscillations of are discussed the extent of the am and the fm
-    resulting from the presence of noise is examined

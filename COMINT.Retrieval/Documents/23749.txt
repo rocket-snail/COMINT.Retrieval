@@ -1,4 +1,0 @@
-radio detection of silent satellites t brief description
-    of the characteristics of reflected signals from a standard
-    frequency transmitter within the skin distance received on mcs
-    see also ofkraus dreese

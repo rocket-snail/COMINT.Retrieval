@@ -1,4 +1,0 @@
-nonlinear time dependent plasma oscillations the laplace
-    transform technique used to solve the the problem of the first
-    order motions in an unbounded rarified electron plasma is
-    modified to solve the problem to arbitrarily high order

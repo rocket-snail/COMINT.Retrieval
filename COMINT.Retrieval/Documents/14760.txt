@@ -1,5 +1,0 @@
-analysis of smooth type atmospheric waveforms over traces
-    are analysed in an attempt to resolve previous conflicting
-    results of and of caton and pierce the precise nature of
-    observations necessary for the accurate analysis and reliable
-    detection of deviations from simple theory is indicated

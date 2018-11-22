@@ -1,5 +1,0 @@
-particle motion in the equatorial plane of a dipole
-    magnetic field for the motion of a high energy particle in a
-    dipole field a correction to the usual drift velocity is given
-    the new result must be used when the radius of gyration of the
-    particle approaches the scale of the field

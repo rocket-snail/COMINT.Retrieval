@@ -1,5 +1,0 @@
-atmospheric attenuation of solar millimeter wave
-    radiation measurements have been made of the absorption of
-    solar radiation by atmospheric water vapour at wavelengths down
-    to about the results are combined with theoretical formulae for
-    the absorption spectrum of water vapour

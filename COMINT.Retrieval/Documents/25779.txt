@@ -1,4 +1,0 @@
-some energy relations for rc networks certain relations
-    are established and associated with the compact rc network
-    whose open circuit impedance parameters have residues that
-    possess the same ratio at corresponding poles

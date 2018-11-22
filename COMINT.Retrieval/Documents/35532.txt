@@ -1,8 +1,0 @@
-new active circuit element using the magneto resistive
-    effect a basic circuit is considered comprising a bridge with
-    resistance arms lying in toil in the bridge diagonal analysis
-    indicate that bistable operation is possible with reasonably
-    short resolving time it may be necessary to operate at low
-    temperature a design is described using layers in gaps of
-    shaped electromagnets tristable operation is possible but not
-    practical

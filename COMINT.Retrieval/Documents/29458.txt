@@ -1,6 +1,0 @@
-critical remarks on the calculation of true heights the
-    conditions are given and discussed which permit an unambiguous
-    solution of the integral equation of ionospheric virtual height
-    practical procedures and possible sources of error are
-    indicated with some proposals for improved methods of
-    evaluation

@@ -1,5 +1,0 @@
-giant spin density waves an analytical treatment of
-    energy states in an electron gas in which the lowest energy
-    state is proved not to be the hertree fock ground state but to
-    have a spiral antiferromagnetic structure implications of this
-    are discussed

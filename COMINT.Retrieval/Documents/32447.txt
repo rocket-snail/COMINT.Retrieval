@@ -1,2 +1,0 @@
-synthesis of transfer functions with poles restricted to
-    the negative real axis comment on of and authors reply

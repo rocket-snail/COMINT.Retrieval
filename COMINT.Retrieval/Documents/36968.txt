@@ -1,7 +1,0 @@
-divided output transformers to overcome self capacity in
-    the primary winding of an af output transformer at high
-    frequencies the output from the final stage may be fed to two
-    transformers one for the low frequency and the other for the
-    high frequency range this overcomes the necessity for a single
-    high quality transformer and the output can be fed directly to
-    two separate loudspeakers

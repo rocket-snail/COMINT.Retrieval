@@ -1,3 +1,0 @@
-review of the present state of crystal control and
-    frequency synthesis description of basic circuits constituting
-    various frequency synthesizing systems

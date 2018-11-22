@@ -1,6 +1,0 @@
-the design of low frequency high pass filters the design
-    of a twin network incorporated in a feedback amplifier circuit
-    is discussed and details are given relating frequency response
-    to phase shift in the amplifier the use of compensating
-    sections for securing a flat pass band characteristic is
-    considered and a practical example is worked out

@@ -1,7 +1,0 @@
-sawtooth generators with commercial type values for
-    producing deflection voltages of high amplitude and extremely
-    short duration the circuit of a special high speed oscillograph
-    with a time base resolution of is described which was used for
-    examining the waveforms produced by various pulse generators
-    investigated pulse amplitudes of with rise time and have been
-    obtained

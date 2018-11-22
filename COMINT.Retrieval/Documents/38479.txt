@@ -1,8 +1,0 @@
-magnetic effects in a plasma column irradiated with
-    microwaves the radius of gyration of a plasma column is
-    determined by imparting a coherent circular orbital motion to
-    the electrons in the column at its principal resonance
-    frequency this is accomplished by irradiating the column with
-    two incoming waves of the same frequency but out of phase when
-    the electric fields are correctly aligned a magnetic moment is
-    developed

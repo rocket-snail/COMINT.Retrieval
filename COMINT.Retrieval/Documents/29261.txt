@@ -1,7 +1,0 @@
-an analysis of parametric amplification in periodically
-    loaded transmission lines the propagating structure is
-    considered as a lossless transmission line periodically loaded
-    with nonlinear capacitance in the form of back biased
-    semiconductor diodes information is given about the relation of
-    diode parameters spacing and circuit parameters to the gain and
-    bandwidth of the structure

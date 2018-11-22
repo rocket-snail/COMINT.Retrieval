@@ -1,6 +1,0 @@
-the persistor a superconducting memory element the
-    persistor consists of a superconducting inductor in parallel
-    with a normally superconducting element a current pulse causes
-    a current to be established in the persistor another similar
-    pulse causes no change but one of opposite sign reverses the
-    current

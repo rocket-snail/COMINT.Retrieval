@@ -1,4 +1,0 @@
-oscillations in direct current glow discharges
-    experimental results are given concerning the stable
-    oscillations with the same period which occur in the current
-    and in the light emitted by the positive column

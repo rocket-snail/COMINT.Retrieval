@@ -1,7 +1,0 @@
-a general steady state analysis of power frequency
-    relations in time varying reactances this analysis produces the
-    manley rowe results as special cases an energy coefficient is
-    derived which specifies the behaviour of an individual
-    frequency transformation the modes in which an individual
-    transformation can operate are described and related to a wide
-    range of varying reactance devices

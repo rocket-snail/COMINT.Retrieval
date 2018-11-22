@@ -1,4 +1,0 @@
-characteristics for half wave rectifier circuits voltage
-    regulation characteristics form factor first harmonic and peak
-    current values are given for half wave rectifiers with common
-    type loads all in non dimensional variables

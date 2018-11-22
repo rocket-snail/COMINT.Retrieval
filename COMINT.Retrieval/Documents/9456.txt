@@ -1,2 +1,0 @@
-back scattering from a conducting cylinder with a
-    surrounding shell

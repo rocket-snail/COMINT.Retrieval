@@ -1,7 +1,0 @@
-gain stability of feedback amplifiers by proper choice of
-    the phase single of the loop gain either the magnitude or the
-    phase angle of the amplifier gain may be made independent to a
-    first order of changes in the active elements th general theory
-    is developed results obtained with an experimental amplifier
-    show that over a narrow frequency range the unit can be made as
-    stable as the passive components in the feedback network

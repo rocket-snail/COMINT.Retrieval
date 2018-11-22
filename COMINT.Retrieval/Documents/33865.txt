@@ -1,7 +1,0 @@
-transistor frequency standard this unit designed
-    primarily for geophysical prospecting has a printed circuit
-    base and uses transistors in all stages accuracy is within part
-    in over the range f to f an oscillator is followed by a pulse
-    forming amplifier and first divider stage then by two dividers
-    in parallel whose outputs are mixed to obtain an u output
-    frequency of cs

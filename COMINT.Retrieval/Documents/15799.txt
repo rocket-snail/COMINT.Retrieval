@@ -1,5 +1,0 @@
-methods of calculating atmospheric densities from
-    satellite orbit data formulae relating atmospheric density to
-    the rate of change of period of a satellite as obtained by
-    various workers are reviewed and are shown to be in sufficient
-    agreement to meet practical needs

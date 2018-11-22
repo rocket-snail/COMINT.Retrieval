@@ -1,4 +1,0 @@
-new bistable high speed multi purpose device operating
-    conditions for an eccles jordan circuit using two type triode
-    hexode valves are noted with suitable diode limiting consistent
-    operation is maintained at pulse rates sec

@@ -1,8 +1,0 @@
-the growth f of an electron avalanche retarded by its own
-    space charge the calculation presented shows how the ionization
-    coefficient and the total multiplication in the avalanche vary
-    with the distance travelled when the positive ions formed have
-    an appreciable effect the time taken for an avalanche to
-    develop is also calculated the cases of constant field at
-    electrodes and constant potential between them are considered
-    assuming plane parallel geometry

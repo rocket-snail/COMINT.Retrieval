@@ -1,4 +1,0 @@
-certain asymptotic relations between frequency and time
-    functions the relations are considered with reference to
-    networks to which a transaent is applied and including the
-    effect of group delay

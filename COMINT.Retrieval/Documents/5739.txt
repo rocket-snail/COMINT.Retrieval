@@ -1,4 +1,0 @@
-a multiple channel dc recording system describes an am
-    system with tape noise cancellation enabling up to twelve
-    channels to be recorded on a conventional single track recorder
-    together with speech and timing signals

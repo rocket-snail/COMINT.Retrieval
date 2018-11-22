@@ -1,5 +1,0 @@
-a test of a procedure for easy estimation of
-    representative monthly electron density profiles for the
-    ionosphere the profile produced from the mean of the daily
-    virtual height curves is well within one standard deviation of
-    the mean of the individual profiles

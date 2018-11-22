@@ -1,9 +1,0 @@
-maintenance of the organic chemical producers data base.
-    describes the maintenance and operation of the organic chemical
-    producers data base from march 79 to december 80. during this
-    period the ocpdb, an automated chemical information system
-    developed for the us environmental protection agency, was
-    expanded and updated by radian corporation. concurrently, the
-    data base provided users with economic, toxicity, use, and
-    production information about more than 600 industrial organic
-    chemical products.

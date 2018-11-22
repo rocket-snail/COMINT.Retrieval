@@ -1,9 +1,0 @@
-correlation of amplitude and phase fluctuations in wave
-    propagation in a statistically inhomo geneous medium the cases
-    considered are the correlation of fluctuations of amplitude and
-    phase at a single receiving point and the correlation of
-    amplitude pr phase fluctuations at different receiving points
-    in the case of large sized inhomogeneities the correlation
-    between the amplitude or phase fluctuations extends over a
-    range of the same order as the correlation between the random
-    inhomogeneities of the medium itself

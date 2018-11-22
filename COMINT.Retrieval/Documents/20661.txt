@@ -1,2 +1,0 @@
-one aspect of minimum noise figure microwave mixer
-    design

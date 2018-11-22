@@ -1,5 +1,0 @@
-microwave ferrite modulators for high signal frequencies
-    methods are suggested for avoiding ferromagnetic resonance skin
-    effects are overcome by using the waveguide as a modulating
-    helix performance details of two experimental modulators for x
-    band frequencies are given

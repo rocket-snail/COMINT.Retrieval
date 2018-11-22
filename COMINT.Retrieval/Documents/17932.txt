@@ -1,8 +1,0 @@
-limit of applicability of the method of smooth
-    perturbations i the problem of wave propagation through a
-    medium with inhomogeneities mean square values of the phase and
-    amplitude fluctuations and of the amplitude correlation
-    function are discussed conditions are determined under which
-    the effect of the layer with inhomogeneities on the traversing
-    radiation can be replaced by the perturbation action of an
-    equivalent phase screen

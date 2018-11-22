@@ -1,6 +1,0 @@
-transistor amplifier cut off frequency the effect of the
-    positive feedback associated with the internal base resistance
-    of a transistor on its cut off frequency is analysed expansion
-    of the expression for current gain in a taylor series shows
-    that only the phase shift in is important in reducing the cut
-    off frequency

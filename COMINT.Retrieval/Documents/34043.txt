@@ -1,6 +1,0 @@
-magnetocompressiona disturbance in a tepid plasma the
-    examination of steady state pulses travelling at right angles
-    to a magnetic field in a cold plasma is extended to a tepid
-    plasma a linear and quasi nonlinear analysis is given from
-    which it is shown that pulses exist when the disturbance speed
-    is supersonic

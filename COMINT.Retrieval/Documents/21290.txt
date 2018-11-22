@@ -1,7 +1,0 @@
-design issues of protocols for computer mail. presents
-    major design considerations for the development of
-    international computer mail protocols. a simplified functional
-    model for computer mail systems is introduced to serve as the
-    basis of the discussion of the protocols. the computer mail
-    protocol is aimed at noninteractive communication between
-    message system users.

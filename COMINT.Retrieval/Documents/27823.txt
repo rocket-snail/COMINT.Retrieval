@@ -1,6 +1,0 @@
-a videodisc interface unit. the lister hill national
-    center for biomedical communications of the national library of
-    medicine has developed a prototype microprocessor based
-    videodisc interface unit (viu). the viu enables a high-level
-    computer control of the mca industrial videodisc player for a
-    host processor or terminal (2see also1 next abstract).

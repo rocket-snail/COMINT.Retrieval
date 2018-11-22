@@ -1,3 +1,0 @@
-loss and phase of simple equalizers approximate
-    computations are performed using the first one or two terms of
-    a rapidly convergent power series expansion

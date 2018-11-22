@@ -1,5 +1,0 @@
-an analysis of a persistent super current memory cell a
-    theoretical model of a storage cell based on thin films of
-    superconductors is discussed an experimental device built to
-    resemble the model was found to have the predicted
-    behaviour

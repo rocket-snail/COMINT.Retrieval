@@ -1,9 +1,0 @@
-issues and applications of microcomputers for libraries.
-    contribution to an issue devoted to papers presented at the
-    canadian library association annual conference, june 81.
-    examines the impact of microcomputers on libraries, and argues
-    that their introduction represents a critical point for
-    information professionals. discusses the applications of
-    microcomputers as part of a reference service management
-    system, information retrieval systems, and for external on-line
-    access.

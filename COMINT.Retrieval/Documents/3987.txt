@@ -1,5 +1,0 @@
-electrical and thermal currents in a slightly io ionized
-    gas a general solution is given of the boltzmann transfer
-    equation for electrons under the influence of ac and dc
-    electric fields a magnetic field and a temperature
-    gradient

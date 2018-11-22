@@ -1,5 +1,0 @@
-note on the resistance network analogue solution of field
-    problems f spherical symmetry results of a previous paper of
-    april are applied to the derivation of design formulae for a
-    resistance chain analogue for solving the equation div k grad u
-    in cases of spherical symmetry

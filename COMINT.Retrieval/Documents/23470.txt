@@ -1,7 +1,0 @@
-ferrite attenuators in helixes directional attenuation
-    has been observed using a cylinder fitting closely round a
-    helix attenuation frequency curves are shown for two values of
-    axial magnetic field and attenuation magnetic field curves are
-    shown for frequencies of and the directional effect is
-    considerably higher than indicated by elementary theory the
-    reason for the discrepancy is discussed

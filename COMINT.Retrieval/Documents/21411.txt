@@ -1,5 +1,0 @@
-direct exchange in ferromagnets evaluation for all
-    internuclear spacings of the direct exchange integral occurring
-    in the heisenberg theory of ferromagnetism leads to the
-    conclusion that direct exchange is not responsible for
-    ferromagnetism in ferromagnetic metals

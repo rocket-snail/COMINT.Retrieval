@@ -1,7 +1,0 @@
-leaving lola for wln. describes the conversion by
-    washington state university library from their own library
-    on-line acquisitions subsystem (lola) to the bibliographic and
-    acquisitions subsystems of the washington library network.
-    provides statistics on the conversion and discusses the
-    conversion of accounting and vendor data together with the
-    testing and final conversion in 1978.

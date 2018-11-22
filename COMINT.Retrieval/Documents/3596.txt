@@ -1,7 +1,0 @@
-a new dc level control for adaptive systems a novel
-    electronic circuit is described and analysed which maintains
-    the potential drop across a load constant to within a fraction
-    of while permitting the dc level of the load to be varied
-    through a wide range the circuit requires only standard
-    tolerance electronic components and high precision is obtained
-    by an error compensation technique

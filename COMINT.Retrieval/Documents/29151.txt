@@ -1,4 +1,0 @@
-design and application of a digital differential analyser
-    the principles of operation and limitations of a digital
-    incremental computer are given and fields of research in which
-    its accuracy and speed would be useful are suggested

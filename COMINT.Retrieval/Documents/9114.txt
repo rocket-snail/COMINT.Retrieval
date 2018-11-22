@@ -1,3 +1,0 @@
-russian circuit notations the methods adopted for
-    indicating the values of resistors and capacitors on russian
-    circuit diagrams are explained

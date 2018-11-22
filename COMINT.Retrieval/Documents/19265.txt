@@ -1,6 +1,0 @@
-the temperature of the f region of the upper atmosphere
-    as deduced from ionospheric measurements chapmans theory has
-    been extended to include the variation of an attachment like
-    loss coefficient with height in the f region application of the
-    theory to data obtained in the form of kelso distributions
-    shows that the region may be regarded as isothermal

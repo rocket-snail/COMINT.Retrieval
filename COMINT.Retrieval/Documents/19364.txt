@@ -1,3 +1,0 @@
-the edge condition in diffraction problems the
-    diffraction of an em wave by a perfectly conducting solid is
-    considered

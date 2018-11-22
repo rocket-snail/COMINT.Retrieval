@@ -1,5 +1,0 @@
-general approximation method for solving diffraction
-    problems a system of integro differential equations is
-    established for the boundary values a known variational
-    principle is used fo calculating certain functionals
-    involved

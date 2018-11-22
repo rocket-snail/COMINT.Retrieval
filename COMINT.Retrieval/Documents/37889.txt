@@ -1,7 +1,0 @@
-the transfluxor a magnetic gate with stored variable
-    setting the transfluxor is a device comprising a magnetic core
-    with two or more apertures the core material having a nearly
-    rectangular hysteresis loop switching and storage operations
-    are performed by controlled transfer of the flux from leg to
-    leg of the core the operation of a two aperture device is
-    described in detail

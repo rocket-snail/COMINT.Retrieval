@@ -1,5 +1,0 @@
-on the dipole resonant mode of an ionized gas column
-    calculations show that the multiple resonances found by were
-    created by the discontinuities in their approximation to the
-    gaussian function and that the actual gaussian distribution
-    exhibits only one resonance

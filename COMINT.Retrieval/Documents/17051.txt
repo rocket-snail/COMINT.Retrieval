@@ -1,2 +1,0 @@
-functional circuit diagrams shortened version of paper
-    abstracted in of january

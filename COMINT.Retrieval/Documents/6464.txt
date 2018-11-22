@@ -1,3 +1,0 @@
-equations for designing transistor power supplies basic
-    design equations and graphs for transistor d c d c converters
-    are given

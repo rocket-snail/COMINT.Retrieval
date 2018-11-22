@@ -1,4 +1,0 @@
-equivalence of two terminal networks simple procedure is
-    indicated for synthesizing or recognizing or recognizing
-    equivalent two terminal networks containing three or more
-    circuit elements

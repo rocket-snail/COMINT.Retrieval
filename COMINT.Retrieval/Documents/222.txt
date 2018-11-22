@@ -1,7 +1,0 @@
-geomagnetic and ionospheric phenomena associated with
-    nuclear explosions magnetograms and ionograms recorded at
-    stations in the central pacific ocean have been analysed for
-    the periods covering the explosions on and august some
-    geomagnetic variation could be explained by a dynamo effect
-    associated with wind velocities of miles sec and a ten fold
-    increase in electrical conductivity

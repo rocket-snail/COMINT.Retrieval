@@ -1,4 +1,0 @@
-magnetic amplifier two speed servo system a system is
-    described in which two half wave bridges type magnetic
-    amplifier stages drive a full wave slave type output stage
-    design data are presented for a number of systems

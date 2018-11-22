@@ -1,6 +1,0 @@
-the measure of activity of oscillators and the
-    performance index the measure of activity of an oscillator is
-    defined as the ratio of grid voltage amplitude to anode current
-    amplitude in crystal controlled oscillators it is proportional
-    to the crystal performance index the measure of activity is
-    evaluated for several common types of oscillator

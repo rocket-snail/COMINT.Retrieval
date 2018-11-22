@@ -1,4 +1,0 @@
-an audio frequency phase modulator using pulse techniques
-    the range of phase shift of the carrier is and departure from
-    linearity as a function of the magnitude of modulation input is
-    less than

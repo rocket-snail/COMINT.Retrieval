@@ -1,7 +1,0 @@
-effect of specimen shape on ferromagnetic resonance in a
-    strong radio frequency field an analysis of the exact solutions
-    of the landau lifshits equations an expression is derived for
-    the threshold field above which instability in the motion of
-    the magnetization vector begins for resonance field strengths
-    the height of the absorption peak decreases and its width
-    increases

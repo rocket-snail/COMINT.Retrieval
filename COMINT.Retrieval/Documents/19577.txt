@@ -1,6 +1,0 @@
-parallel ferroresonant feedback type trigger circuit
-    consisting of an ac winding on a ferromagnetic core shunted by
-    a capacitance with auxiliary windings for excitation and
-    polarization may be adjusted to present two and in certain
-    conditions three stable states curves are given showing the
-    influence of the various parameters

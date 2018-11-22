@@ -1,6 +1,0 @@
-on the lunar semidiurnal variation of the d and f layers
-    the variations at freiburg genoa and leopoldville are compared
-    with those obtained by other authors magnetic dip rather than
-    geomagnetic latitude controls the variation in the f layer the
-    amplitude of the variation is plotted against magnetic
-    dip

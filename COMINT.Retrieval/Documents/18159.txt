@@ -1,5 +1,0 @@
-the single ended diode phase sensitive detector the
-    transform ratios for the two diodes are found to vary with
-    signal level the nonlinearity in the output is evaluated and a
-    table is given for assessing the performance of a given
-    detector

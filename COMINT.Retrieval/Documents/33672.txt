@@ -1,6 +1,0 @@
-at general motors wp-input produces colour slides.
-    financial and other data stored in the computer are retrieved
-    and processed on word processors in the form of tables and
-    graphs for presentation at executive meetings. the output from
-    the word processor is passed through equipment designed to
-    produce colour slides.

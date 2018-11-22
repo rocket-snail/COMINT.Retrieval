@@ -1,2 +1,0 @@
-networks with maximally flat delay corrections to paper
-    noted in of

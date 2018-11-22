@@ -1,5 +1,0 @@
-an ultrastable keyed vfo high stability is achieved by
-    constructing the variable tuned circuit which has a high q and
-    is of rigid construction as a single unit separate from the
-    remainder of the oscillator clickless keying is obtained by a
-    relatively small change in screen grid potential

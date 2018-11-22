@@ -1,5 +1,0 @@
-the use of geostationary satellites for the study of
-    ionospheric electron content and ionospheric radio wave
-    propagation a proposed experiment for measuring the total
-    electron content of the ionosphere and for propagation
-    studies

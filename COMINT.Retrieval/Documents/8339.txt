@@ -1,6 +1,0 @@
-novel microwave resonator a cavity resonator designed at
-    the national bureau of standards based on fabry perot
-    interferometer technique consists of two perforated sheets of
-    meta square forming the ends of a box microwave energy beamed
-    on one end with correct end spacing produces a resonance q of
-    about

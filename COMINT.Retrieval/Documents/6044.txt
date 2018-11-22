@@ -1,4 +1,0 @@
-an analysis of a cylindrical cavity with radial vanes the
-    procedure involves the use of variational methods for obtaining
-    successively better approximations to the resonance frequencies
-    and the field configuration

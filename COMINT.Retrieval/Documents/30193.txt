@@ -1,7 +1,0 @@
-coupled lines as high frequency transformer systems
-    comprising two parallel two conductor lines r are considered
-    voltage and current distribution and input impedance are
-    calculated in terms of terminating impedance overlap length and
-    coupling an indication is given of the requirements to be
-    satisfied for wide band operation and some particular
-    arrangements are discussed

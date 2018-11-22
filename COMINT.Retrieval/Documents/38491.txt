@@ -1,4 +1,0 @@
-electrical fluctuations and thermal radiation text of a
-    lecture giving a broad nonmathematical review of theoretical
-    work on thermal fluctuations noise with particular reference to
-    the uhf region

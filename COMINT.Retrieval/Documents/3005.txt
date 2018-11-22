@@ -1,5 +1,0 @@
-geometrical representation of the maxwell field in
-    minkowski space the electromagnetic field tensor of a classical
-    charged particle is associated with the orientation and density
-    of a family of two dimensional surfaces radially distributed
-    about the world line of the particle in minkowski space

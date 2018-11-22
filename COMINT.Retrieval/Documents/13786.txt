@@ -1,3 +1,0 @@
-feedback coupling in circuits with crystal triodes
-    circuit design methods are described and the formulae derived
-    are tabulated

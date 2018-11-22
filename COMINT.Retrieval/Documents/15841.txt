@@ -1,9 +1,0 @@
-resource notebook on organization. focuses on improvement
-    of library organisation. the introduction provides background
-    and a review of analytical methods. the first section provides
-    examples of data gathering tools and approaches to gathering
-    information. the second group of documents illustrates methods
-    of describing and analysing library organisational structures
-    and relationships, and the final section contains examples of
-    recommendations for change and improvement which have been made
-    by libraries. report not available from ntis.

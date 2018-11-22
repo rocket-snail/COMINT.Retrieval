@@ -1,4 +1,0 @@
-modified romberg quadrature(algorithm [d1]) june, 1969
-    fair weather, g. numerical integration, romberg quadrature,
-    trapezoid values, rectangle values, error bound 5.16 ca690610
-    jb february 17, 1978 9:55 am

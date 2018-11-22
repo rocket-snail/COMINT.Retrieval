@@ -1,5 +1,0 @@
-electron phonon interaction in metals the role of
-    electron electron interactions in determining th electron
-    phonon interaction in metals is investigated by extending the
-    bohm pines collective description to take into account the
-    ionic motion

@@ -1,4 +1,0 @@
-suppression of overtones of thickness shear and flexural
-    vibrations of crystal plates analysis showing how electrodes
-    coated on the surfaces of thickness shear plates may be shaped
-    so that only one resonance mode is excited

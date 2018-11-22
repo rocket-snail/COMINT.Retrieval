@@ -1,6 +1,0 @@
-the solar ray spectrum and the density of the upper
-    atmosphere data derived from rocket experiments give a measure
-    of the flux density of solar rays incident on the layer from
-    the rate of ray absorption at heights between and the
-    atmospheric density is computed to be about one third of the
-    current rocket panel average values

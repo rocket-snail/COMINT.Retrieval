@@ -1,3 +1,0 @@
-amplifier compensates for speech level variations an
-    automatic gain adjusting amplifier produces constant output
-    without peak clipping for input variations of forty db

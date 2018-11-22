@@ -1,8 +1,0 @@
-calculation of the magnetic field in the ferromagnetic
-    layer of a magnetic drum the variation of the field with
-    permeability air gap layer thickness and other factors is
-    investigated assuming the ferromagnetic layer to be of low
-    permeability spinel material while the problem is nonlinear the
-    linear approximation is satisfactory in some cases numerical
-    computations are presented for the drum used in the swedish
-    computer besk

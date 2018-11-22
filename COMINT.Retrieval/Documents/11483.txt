@@ -1,4 +1,0 @@
-the magnetic field in the layer at dakar the
-    gyrofrequency is calculated from observed values of and its
-    variations as a function of reflection height and time are
-    analysed

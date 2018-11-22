@@ -1,3 +1,0 @@
-etched circuits a brief note on the technograph system
-    for producing printed circuits and components with special
-    reference to the production of mains transformers

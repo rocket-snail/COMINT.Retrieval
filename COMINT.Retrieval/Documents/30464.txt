@@ -1,7 +1,0 @@
-the visually impaired library user. about 0.2% of the
-    australian population is estimated to be 'legally blind' and a
-    further 1% to suffer impairment severe enough to disable them
-    in daily living but not to the extent of 'legal blindness'.
-    reviews the types of impairment and their effects and the aids
-    used to help the visually handicapped to operate in a world
-    designed for normal vision.

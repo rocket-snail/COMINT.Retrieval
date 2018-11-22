@@ -1,3 +1,0 @@
-digital memory system keeps circuits simple a magnetic
-    disk memory of to words capacity using simple control and
-    selection circuits

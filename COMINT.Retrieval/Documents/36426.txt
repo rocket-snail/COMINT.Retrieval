@@ -1,7 +1,0 @@
-investigation of the relative positions of solar radio
-    storm sources and of associated optical centres of activity a
-    comparison has been made between the mean positions of radio
-    storm centres observed sunspots results show a systematic
-    difference between the apparent and true positions of the
-    former and for more intense storm centres a directivity effect
-    with latitude

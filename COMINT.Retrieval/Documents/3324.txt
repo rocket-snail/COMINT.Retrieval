@@ -1,4 +1,0 @@
-measurement of interplanetary electron density from the
-    earth radio astronomy techniques for density measurement in
-    free space the solar corona and the lunar electron atmosphere
-    are discussed and a solar wind plasma model is examined

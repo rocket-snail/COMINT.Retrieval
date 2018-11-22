@@ -1,5 +1,0 @@
-active networks deals with circuits including valves
-    transistors and other devices there a sections on the
-    principles of analogue computers servo systems and wave shaping
-    circuits as well as on general aspects of amplifiers and
-    oscillators

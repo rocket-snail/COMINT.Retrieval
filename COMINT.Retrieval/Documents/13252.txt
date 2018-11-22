@@ -1,7 +1,0 @@
-instability of spin waves and magnetostatic modes in a
-    microwave magnetic field applied parallel to the dc field two
-    methods of calculating the instability threshold are described
-    a plane wave analysis strictly applicable only in an infinite
-    medium and a more rigorous theory in which the boundary
-    conditions at the surface of the sample are taken into
-    account

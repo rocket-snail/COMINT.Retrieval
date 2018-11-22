@@ -1,7 +1,0 @@
-measurements of the pressure in the upper atmosphere a
-    description is given of a container with recording instruments
-    which after release from a rocket record the pressure of the
-    upper atmosphere a comparison is made between pressure
-    measurements obtained in usa and ussr at pressure and
-    temperature variations at different heights are shown
-    graphically

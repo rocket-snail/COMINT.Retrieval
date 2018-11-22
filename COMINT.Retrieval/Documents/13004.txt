@@ -1,9 +1,0 @@
-a theory of ionospheric currents associated with aurorae
-    the current distributions induced by dynamo action in a sheet
-    of partially ionized gas moving with uniform velocity across a
-    perpendicular magnetic field are derived for the case where the
-    gas contains an elliptical region of greater ionization density
-    on the basis of the theory the average ionospheric current
-    flowing along a long homogeneous arc is calculated and some
-    results predicted by the theory are compared with observational
-    evidence

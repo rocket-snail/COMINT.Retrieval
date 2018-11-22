@@ -1,4 +1,0 @@
-orbital behaviour of earth satellites sources of
-    perturbation are considered with particular attention to the
-    effect of the oblateness of the earth for which an analysis is
-    developed n and recent contributions are reviewed

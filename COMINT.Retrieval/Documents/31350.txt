@@ -1,4 +1,0 @@
-the first boundary value problem of maxwells equations
-    mathematical analysis of the generation of oscillations in an
-    em system by an external source such as excitation of a cavity
-    resonator by means of a waveguide feeder

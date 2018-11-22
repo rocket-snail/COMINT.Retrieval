@@ -1,4 +1,0 @@
-oscillations in a plasma in a weak magnetic fiel
-    oscillations of two types were observed in a discharge tube
-    these are interpreted as the plasma type oscillation and the
-    cyclotron resonance oscillation

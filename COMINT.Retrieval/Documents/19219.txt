@@ -1,5 +1,0 @@
-strategic petroleum reserve data acquisition system. the
-    strategic petroleum reserve data acquisition system is a
-    general purpose, digital data acquisition system designed for
-    field use in the doe's strategic petroleum reserve testing and
-    monitoring programme.

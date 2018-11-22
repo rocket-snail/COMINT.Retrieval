@@ -1,7 +1,0 @@
-control of thyratrons by small signals variations of the
-    phase of the control grid voltage enables the power supplied by
-    a thyratron to an external circuit to be varied continuously
-    over a wide range the results obtained with small control
-    voltages indicate that although signals as small as may be
-    permissible when the thyratron forms part of a feedback system
-    large signals should be used whenever possible

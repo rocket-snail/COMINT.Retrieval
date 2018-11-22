@@ -1,6 +1,0 @@
-incorporation of an ombudsman model into i&r
-    programs. examines the applicability of an ombudsman function
-    within a conventional information and referral structure.
-    defines and reviews the historical development of the ombudsman
-    concept, and interfaces this concept with the realities of
-    i&r functions, funding and client needs.

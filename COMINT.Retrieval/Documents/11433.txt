@@ -1,4 +1,0 @@
-one tunnel diode flip flop hf behaviour the switching
-    speed of the circuit discussed in of is determined the use of
-    the circuit as rf detector and high speed counter is
-    suggested

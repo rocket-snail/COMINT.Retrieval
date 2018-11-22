@@ -1,4 +1,0 @@
-equivalent equalizer networks the various types of
-    frequency response curves obtainable with practical networks of
-    the derivative equalizer type are analysed and the equivalent
-    constant resistance networks are determined

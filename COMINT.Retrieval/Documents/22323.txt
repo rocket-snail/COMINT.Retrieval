@@ -1,4 +1,0 @@
-transistor operating conditions the use of the collector
-    current voltage characteristic curves in the designs of earthed
-    base transistors amplifiers is discussed and numerical examples
-    are given

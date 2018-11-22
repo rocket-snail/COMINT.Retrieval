@@ -1,5 +1,0 @@
-raising the cut off frequency of transistors results of
-    experiments with and transistors support herzogs calculations
-    of the rise of cut off frequency attainable by connecting a
-    neutralizing inductance in parallel with the capacitance
-    between collector and emitter

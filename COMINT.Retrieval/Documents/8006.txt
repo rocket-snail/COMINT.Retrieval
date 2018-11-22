@@ -1,3 +1,0 @@
-rational interpolation by continued fractions (algorithm
-    18) september, 1960 floyd, r. w. ca600907 jb march 20, 1978
-    8:44 pm

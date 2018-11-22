@@ -1,2 +1,0 @@
-power spectra of temperature humidity and refractive
-    index from aircraft and tethered balloon measurements

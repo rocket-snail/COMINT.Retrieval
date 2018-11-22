@@ -1,3 +1,0 @@
-distributed amplifiers some new methods for controlling
-    gain frequency and transient responses of amplifiers having
-    moderate bandwidths

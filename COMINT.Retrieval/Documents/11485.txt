@@ -1,8 +1,0 @@
-derivation of equivalence theorem of a weakly coupled
-    electromagnetic cavity resonator system a general proof of the
-    equivalence between a system of weakly coupled cavities and a
-    system of coupled resonant lcr circuits is derived from
-    maxwells equations by means of a first order perturbation
-    calculation the frequency dependence of the system is deduced
-    from the equation of state the case of two coupled cavity
-    resonators is considered in an example

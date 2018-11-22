@@ -1,7 +1,0 @@
-preliminary results from the space probe pioneer fifth
-    cosmic ray measurements show that a forbush decreases are not
-    dependent on the presence of the earths field as they occur out
-    in space b solar flare particles producing polar cap absorption
-    are not stored in the geomagnetic field and c solar production
-    of energetic electrons is not restricted to periods of flare
-    activity

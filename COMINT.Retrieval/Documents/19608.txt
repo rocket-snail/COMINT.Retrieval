@@ -1,4 +1,0 @@
-distortion in transistor amplifiers an analysis of the
-    distortion in low level grounded emitter stages due to input
-    circuit nonlinearity and to variations of collector to base
-    current gain

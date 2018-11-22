@@ -1,5 +1,0 @@
-properties of hook transistors in switching and
-    amplifying circuits an analysis is given of the most
-    significant properties of hook and pnpn transistors in common
-    base common emitter and commmon collector configurations
-    stagger tuned transistor video amplifiers

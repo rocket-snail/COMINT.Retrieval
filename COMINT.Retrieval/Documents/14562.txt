@@ -1,6 +1,0 @@
-some design considerations for high frequency transistor
-    amplifiers the interaction between output and input due to
-    internal feedback in the transistor is illustrated and design
-    data are developed for networks used to overcome this many
-    practical amplifiers are simple and require a minimum of design
-    effort

@@ -1,6 +1,0 @@
-delay line subcarrier discriminator the frequency
-    discriminator described uses a multivibrator triggered by the
-    direct input signal and stopped by the delayed signal producing
-    pulses whose spacing is a function of signal phase designed
-    primarily for telemetering it is useful also for automatic
-    correction of wow and flutter in tape recorders

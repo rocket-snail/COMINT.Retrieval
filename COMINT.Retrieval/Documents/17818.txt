@@ -1,5 +1,0 @@
-normalized phase and gain derivatives as an aid in
-    evaluation of fm distortion the method previously described for
-    evaluating the distortion for the quasistationary condition of
-    is extended to take account of the finite rate of variation of
-    the input signal frequency

@@ -1,7 +1,0 @@
-digital optical recording, principles and possible
-    applications. digital optical recording is a new technology
-    based on the capabilities of a diode laser to melt holes in a
-    tellurium layer. 25,000 pages can be written onto a dor disc. a
-    set of dor discs can form the backbone of an electronic
-    document storage system which can be applied in various
-    archival applications.

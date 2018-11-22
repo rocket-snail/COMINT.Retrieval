@@ -1,2 +1,0 @@
-equivalent admittance impedance and scattering
-    matrices

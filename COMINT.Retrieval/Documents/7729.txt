@@ -1,5 +1,0 @@
-effect of space charge in cold cathode gas discharges
-    townsends basic ionization equations for cold cathode
-    discharges between parallel plates are modified by poissons
-    equation to account for space charge effects numerical
-    calculations have been made for argon

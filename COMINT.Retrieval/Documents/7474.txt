@@ -1,4 +1,0 @@
-thin absorbent films the problem of optimum thickness in
-    connection with a classification of these films theoretical
-    note on determining the film thickness for which the absorption
-    of an incident plane em wave is a maximum

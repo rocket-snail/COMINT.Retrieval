@@ -1,5 +1,0 @@
-determination of the input impedance of linear
-    quadripoles by a graphical method the data required are the
-    characteristic impedance the load or terminal impedance and the
-    propagation constant of the quadripole two examples are worked
-    out

@@ -1,2 +1,0 @@
-pulse method for the amplification of af oscillations the
-    advantages and efficiency of a pwm method are discussed

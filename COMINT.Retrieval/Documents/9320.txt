@@ -1,6 +1,0 @@
-electrical integration methods following brief
-    theoretical discussions of the rc miller and wiegand hansen of
-    integrators a new quasi exact integrator circuit is described
-    and both an approximate and an exact theory are given the
-    errors inherent in the various methods are discussed and graphs
-    for their estimation are given

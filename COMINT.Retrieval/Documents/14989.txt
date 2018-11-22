@@ -1,3 +1,0 @@
-quality control of ionograms description of an instrument
-    for making quick accurate checks of receiver and display
-    characteristics

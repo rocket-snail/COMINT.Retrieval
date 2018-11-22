@@ -1,5 +1,0 @@
-measuring the doppler frequency shift on satellite
-    transmissions the use of a phase locked oscillator for
-    observation of doppler shift in transmissions in the range is
-    described and the effect of signal modulation on the accuracy
-    of measurements is illustrated by examples

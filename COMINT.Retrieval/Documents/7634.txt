@@ -1,6 +1,0 @@
-the design of quadripoles in the case of symmetrical
-    quadripoles by writing where and are the impedance parameters
-    defined earlier of general expressions are derived by a matrix
-    treatment for the current and voltage in a ladder network in
-    which the characteristic impedance term z occurs in the first
-    degree

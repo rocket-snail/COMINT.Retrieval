@@ -1,2 +1,0 @@
-the use of a reflected code in digital control
-    systems

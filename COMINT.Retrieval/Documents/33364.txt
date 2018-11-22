@@ -1,6 +1,0 @@
-probabilistic models of indexing and searching. describes
-    the authors' work to bring together the 2 strands of research
-    on indexing and searching and their progress towards the
-    development and testing of a model (within the framework of the
-    probabilistic theory of document retrieval) which makes optimum
-    use of within-document frequencies in searching.

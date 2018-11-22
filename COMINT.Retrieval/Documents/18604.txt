@@ -1,8 +1,0 @@
-the attenuation of alfven waves when the collision
-    frequency in an ionized gas is smaller than the wave frequency
-    it is not permissible to treat the gas as a continuous fluid
-    the equations for alfven waves are obtained by working with
-    distribution functions the results illustrate the behavior of a
-    gas when the collision frequency is low and may have
-    applications in the interstellar gas or in the earths outer
-    atmosphere

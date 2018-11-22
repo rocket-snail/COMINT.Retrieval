@@ -1,7 +1,0 @@
-high frequency filter problems in television transmitters
-    coaxial line filters for the partial suppression of the lower
-    sideband are discussed particular attention is paid to
-    arrangements suitable for high level modulation in which the
-    filter is spatially separated from the output stage and its
-    input impedance is maintained constant over the frequency
-    band

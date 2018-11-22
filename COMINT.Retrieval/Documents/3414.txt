@@ -1,3 +1,0 @@
-note on the iterated network and its application to
-    differentiators an alternative proof is given of the formula
-    for a power of a matrix recently given by pease of

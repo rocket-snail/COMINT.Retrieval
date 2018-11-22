@@ -1,3 +1,0 @@
-new wide range oscillator technique a modification of the
-    wien bridge rc oscillator circuit is used in an instrument with
-    a range of

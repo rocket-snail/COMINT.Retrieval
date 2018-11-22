@@ -1,4 +1,0 @@
-extension of the concept of the time constant examples of
-    the application of a general expression for the time constant
-    are illustrated in cases where the function is not
-    exponential

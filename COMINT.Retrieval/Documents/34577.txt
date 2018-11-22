@@ -1,3 +1,0 @@
-use of a diode ring as a four quadrant multiplier the
-    operation of a diode ring as a passive analogue multiplier is
-    analysed

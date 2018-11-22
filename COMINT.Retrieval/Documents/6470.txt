@@ -1,4 +1,0 @@
-a nonlinear effect in transistor amplifiers with feedback
-    the nonlinear effect described in an earlier paper of is
-    analysed it is attributed to to variations of carrier transit
-    time with transistor collector voltage

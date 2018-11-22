@@ -1,4 +1,0 @@
-reducing distortion in class b amplifiers linearization
-    is accomplished by a nonlinear compensation network containing
-    diodes the calculations for an af amplifier with distortion are
-    described

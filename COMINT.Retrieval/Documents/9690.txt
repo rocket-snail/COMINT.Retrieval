@@ -1,3 +1,0 @@
-equilibrium conditions for electron beams the conditions
-    are determined for a beam in which the density of secondary
-    particles is much greater than that of primary electrons

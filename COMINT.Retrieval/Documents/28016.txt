@@ -1,6 +1,0 @@
-saturation effects in ferrite frequency doublers
-    operating in the uniform precession mode three distinct
-    saturation mechanisms occurring in ferrite frequency doublers
-    are described an approximate nonlinear equation of motion
-    including the effect of the reaction field is obtained and
-    solved for a particular case

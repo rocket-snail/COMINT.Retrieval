@@ -1,8 +1,0 @@
-generalized appleton hartree equation for any degree of
-    ionization and application t the ionosphere the equation
-    derived is applicable to any variation of electron collision
-    frequency with electron speed and any degree of ionization
-    results for the ionosphere are compared with experimental data
-    e layer results can be explained by assuming a electron
-    temperature several times higher than the gas
-    temperature

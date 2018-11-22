@@ -1,8 +1,0 @@
-reciprocity relations in active terminal elements it is
-    shown by matrix analysis that under small signal conditions an
-    active element such as a valve or transistor can be represented
-    by an equivalent circuit comprising a triangle of resistances
-    and a three terminal gyrator the active element is stable if
-    one ad only one of the resitances is negative it is shown that
-    the property of nonreciprocity is essential for an active three
-    terminal element to be stable

@@ -1,5 +1,0 @@
-selective special amplifier for a frequency of the design
-    is discussed of a four stage amplifier for use with a capacitor
-    pick up capacitance due to variation of external gas pressure
-    are in the amplification is sufficient to give an output
-    galvanometer reading for an input of across a resistance

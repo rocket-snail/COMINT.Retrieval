@@ -1,7 +1,0 @@
-move over electronic mail here comes viewdata. the
-    development of prestel is traced. details of the prestel
-    service, information providers, costs, and some problems are
-    discussed. at present, the largest of the information providers
-    is fintel which provides analyses of industry and finance, etc.
-    rival viewdata systems, development by france, canada, and
-    sweden, are among other topics examined.

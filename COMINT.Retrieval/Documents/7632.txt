@@ -1,6 +1,0 @@
-preliminary report on positional fluctuations of solar
-    radio sources on mc an analysis indicates that the magnitude of
-    the positional fluctuations is less when the solar rf source is
-    closely connected with a magnetic field in the active region no
-    increase in the magnitude of positional fluctuations was found
-    on as the source moved towards the solar limb

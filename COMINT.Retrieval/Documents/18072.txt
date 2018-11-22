@@ -1,7 +1,0 @@
-on some aspects of matrix calculus applied to local
-    oscillation in nonlinear circuits the application of matrix
-    methods to the analysis of oscillating circuits with an
-    impressed signal of lowamplitude is considered the
-    representation of amplitude and phase modulation in co ordinate
-    form is illustrated and examples are given of the use of these
-    methods in problems of oscillator stabilization

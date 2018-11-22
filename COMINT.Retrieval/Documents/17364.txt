@@ -1,6 +1,0 @@
-synthesis of poles by networks containing the minimum
-    number of elements the method of r brune is extended to the
-    synthesis of passive poles the procedure is illustrated for
-    after splitting off a series resistance the number of elements
-    in the pole can be reduced and by repeating this procedure the
-    pole of zero order can be realized as shown

@@ -1,5 +1,0 @@
-theory of electrochemical diodes a theoretical analysis
-    is given of the behaviour of an electrochemical diode based on
-    the equation of diffusion of ions the non ohmic characteristic
-    the shunting effect observed with a rapidly changing voltage
-    and the rectifying action are determined

@@ -1,8 +1,0 @@
-f region triple splitting measurements of the direction
-    of arrival of z echoes have been made at hobart tasmania the
-    results indicate that f region triple splitting is caused by
-    back scattering from a rough layer the directions observed are
-    consistent with the assumption tht reflection at the z level
-    occurs when the angle of incidence is such that the wave normal
-    becomes parallel to the geomagnetic field at the ordinary level
-    of reflection

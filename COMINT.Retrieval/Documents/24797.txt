@@ -1,4 +1,0 @@
-solar cells for communication satellites in the van allen
-    belt the power output of solar cells on satellites is degraded
-    by radiation damage on passing through the van allen belts
-    methods of overcoming this are discussed

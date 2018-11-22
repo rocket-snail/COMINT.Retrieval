@@ -1,3 +1,0 @@
-restrictions on the natural frequencies of an network
-    theory is developed suitable for application in the synthesis
-    of passive and active networks

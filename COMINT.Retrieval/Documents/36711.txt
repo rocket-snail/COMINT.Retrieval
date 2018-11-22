@@ -1,9 +1,0 @@
-measuring the effectiveness of shielding materials a
-    method developed at the us naval research laboratory is
-    described only a small sample of the material under test eg
-    wire mesh or conducting coating is needed the sample is
-    inserted between two shield cans containing transmitting and
-    receiving aerials respectively and the attenuation increase
-    produced by the sample is observed the frequency range
-    investigated is it may be s possible to extend the method to
-    higher frequencies by using waveguide technique

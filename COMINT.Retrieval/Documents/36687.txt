@@ -1,4 +1,0 @@
-high frequency transistor filter synthesis two canonical
-    ladder structures of hybrid two and hybred t type are
-    considered the intrinsic feedback factor is ignored examples of
-    cascaded structures are given

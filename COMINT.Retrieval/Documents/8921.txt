@@ -1,2 +1,0 @@
-calculation of inductance of toroids with rectangular
-    cross section and few turns

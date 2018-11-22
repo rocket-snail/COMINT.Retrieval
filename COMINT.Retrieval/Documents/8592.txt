@@ -1,5 +1,0 @@
-parametric amplification using low frequency pumping
-    describes how low frequency pumping is possible if two pumping
-    sources are used in conjunction with a nonlinear reactance
-    having an odd order nonlinearity an analysis of the equivalent
-    circuit is given

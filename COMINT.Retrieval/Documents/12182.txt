@@ -1,9 +1,0 @@
-method for generating a chemical reaction index for
-    storage and retrieval of information. a new method for indexing
-    chemical reactions is described. the calculation of a reaction
-    connectivity index results in a unique number. this number does
-    not provide hierarchical or relational information. it encodes
-    the concept of the reaction process in a unique identifier
-    which is suggested for use, much as the cas registry number is
-    used, to optimise ease of storage, manipulation, and retrieval
-    from large computer files.

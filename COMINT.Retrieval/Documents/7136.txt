@@ -1,2 +1,0 @@
-complete elliptic integral (algorithm 149) april, 1963
-    thacher, h. c. ca630415 jb march 14, 1978 12:14 pm

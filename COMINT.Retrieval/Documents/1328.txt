@@ -1,6 +1,0 @@
-a survey of delay lines for digital pattern storage a
-    review of em and ultrasonic delay lines for use over a wide
-    range of delay times wire type acoustic delay lines using
-    magnetostrictive transducers acoustic lines using liquids or
-    solids as delay media and both the continuous and lumped
-    parameter types of em delay line are examined

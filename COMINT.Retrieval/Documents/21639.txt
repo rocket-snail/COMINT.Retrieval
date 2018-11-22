@@ -1,6 +1,0 @@
-theory of the high frequency discharge in gases at low
-    pressures determination of starting conditions continuation of
-    work reported previously the importance of secondary emission
-    from the walls is emphasized experimental and theoretical
-    curves of starting voltage as a function of pressure for
-    frequencies of and are compared

@@ -1,5 +1,0 @@
-semiconductor networks for microelectronics both active
-    and passive components are fabricated in a single crystal
-    semiconductor wafer the development from a circuit diagram by
-    combining vxide masking diffusion metal deposition alloying and
-    surface shaping is described

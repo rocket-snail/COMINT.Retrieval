@@ -1,9 +1,0 @@
-measurement of ionospheric electron densities using an rf
-    probe technique the probe consists of a dipole operating at mcs
-    and has been flown in a rocket over fort churchill above km it
-    behaves as a capacitor the capacitance of which is telemetered
-    to the ground the local electron density in the ionosphere may
-    be calculated from these values by using a simplified form of
-    the appleton hartree equation the electron densities obtained
-    using such probes are in good agreement with those obtained by
-    normal methods

@@ -1,8 +1,0 @@
-the adjustment of control systems for quick transien
-    response a theoretical investigation indicates that for a large
-    class of linear systems the error due to a transient
-    disturbance is dependent on only one system parameter the
-    settling time constant and that the quickest approach to
-    correction is obtained when the system is adjusted so as to be
-    quasicritically damped the adoption of quasicritical damping as
-    a design criterion for stability is recommended

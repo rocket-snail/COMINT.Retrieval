@@ -1,5 +1,0 @@
-guidance of radio whistlers by the earths magnetic field
-    in an anisotropic medium there is for each frequency an
-    emission angle of such a value that the ray propagates strictly
-    along the line of magnetic force with a velocity which is
-    independent of frequency

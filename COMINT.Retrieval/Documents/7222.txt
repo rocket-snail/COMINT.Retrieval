@@ -1,4 +1,0 @@
-a crystal triode push pull amplifier the amplifier
-    described uses two point contact transistors and is capable of
-    delivery up to output power at an efficiency of a power gain of
-    at harmonic distortion is obtained

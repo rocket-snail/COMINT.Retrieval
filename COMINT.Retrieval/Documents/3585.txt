@@ -1,9 +1,0 @@
-private videotex systems and access via public services.
-    while the initial concept of videotex was that of a home
-    information retrieval service, in practice videotex services
-    are of much interest to business users. private videotex
-    systems are being introduced to complement public services.
-    they may be implemented in several different ways-on dedicated
-    computers accessed via the public telephone or data networks,
-    or via a gateway facility on a public service. examines these
-    approaches, and in particular their relative costs.

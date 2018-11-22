@@ -1,2 +1,0 @@
-pulse permeability and losses in magnetic materials
-    subjected to rectangular dc pulses

@@ -1,9 +1,0 @@
-methods of systems analysis for investigation into
-    library systems. a systems approach based on an analysis of
-    library activities represents a starting point assuring wide
-    theoretical generalisation of the acquired knowledge while
-    allowing a continuous link with reality. a library system, by
-    its specific character, is part of a wide community system,
-    fulfilling specific tasks in the society. the concept 'library
-    system' is defined and other issues concerning the theory of
-    library systems investigated.

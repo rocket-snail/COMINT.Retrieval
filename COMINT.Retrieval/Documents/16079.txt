@@ -1,4 +1,0 @@
-note on geomagnetic disturbance as an atmospheric
-    phenomenon possible relations between ionospheric winds and
-    atmospheric electric currents associated with magnetic storms
-    are briefly discussed

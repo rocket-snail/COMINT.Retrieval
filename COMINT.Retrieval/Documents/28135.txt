@@ -1,5 +1,0 @@
-synthesis of driving foint impedances with active rc
-    networks a general metrod is presented for realizing any real
-    rational driving point function using rc networks and one type
-    of active element leading to a simple structure biquadratic
-    impedance functions are considered in detail

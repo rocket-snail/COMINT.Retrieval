@@ -1,7 +1,0 @@
-geomagnetic field and ionospheric drift drift
-    measurements at new delhi do not show the semi diurnal
-    periodicity which would be expected if the drifts were in the
-    form of lunar or solar tides some correlation with the magnetic
-    index k is looked for but is not found except on disturbed days
-    when the northward velocity of the north south component
-    increases with increasing k

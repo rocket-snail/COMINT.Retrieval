@@ -1,5 +1,0 @@
-determination of illumination conditions and periods of
-    an artificial satellite in shadow and in sunlight a method of
-    determining the illumination conditions of a satellite is
-    described and a brief analysis of the paths of th first three
-    soviet satellites is given

@@ -1,3 +1,0 @@
-a cathode ray tube output for a digital computer a
-    variety of displays can be programmed and are photographed by a
-    camera controlled by the computer

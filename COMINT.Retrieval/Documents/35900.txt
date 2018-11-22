@@ -1,3 +1,0 @@
-new form of plasma dispersion formula usable for analogue
-    computing a correction term is derived which takes into account
-    the influence of a magnetic field

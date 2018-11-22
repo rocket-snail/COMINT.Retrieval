@@ -1,3 +1,0 @@
-magnetostatic modes of a ferromagnet slab the
-    characteristic modes of a thin slab magnetized in its plane are
-    obtained in the magnetostatic limit

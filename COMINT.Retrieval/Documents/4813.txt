@@ -1,3 +1,0 @@
-an efficient prime number generator (algorithm r357)
-    august, 1973 demorgan, r. m. ca730812 jb january 23, 1978 10:31
-    am

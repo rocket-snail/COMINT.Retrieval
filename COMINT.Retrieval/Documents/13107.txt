@@ -1,5 +1,0 @@
-optimum capacitor charging efficiency for space systems
-    several theorems for the perfect time shaped source voltages
-    which optimize the efficiency of energy transfer from source to
-    load are derived the practical application of the theorems is
-    discussed

@@ -1,5 +1,0 @@
-compensation of the effect of temperature on the
-    reference voltage of transistor stabilized power supplies the
-    voltage temperature characteristic of the reference is
-    compensated by that of the base emitter region of the
-    transistor error amplifier

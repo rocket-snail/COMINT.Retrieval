@@ -1,5 +1,0 @@
-a successful version of the beevers macewan fourier
-    synthesizer using dekatron counters a fourier synthesizer is
-    described which allows a possible harmonics to be specified
-    with amplitudes ranging from units both positive and negative
-    harmonic components are acceptable see also of

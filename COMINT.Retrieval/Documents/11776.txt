@@ -1,5 +1,0 @@
-true height and thickness of the ionospheric e layer a
-    method proposed by schmerling has been applied to calculations
-    of the true height and thickness of the e layer results given
-    for a single daytime period show irregularities in the fine
-    structure of the layer

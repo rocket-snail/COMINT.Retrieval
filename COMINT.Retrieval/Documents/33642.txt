@@ -1,6 +1,0 @@
-variations in the orbit of the echo satellite minitrack
-    observations of the echo satellite show that owing to the suns
-    radiation pressure the perigee distance and eccentricity of the
-    orbit are varying at rates which are in good agreement with the
-    theoretical rates the observations also lead to a value for
-    atmospheric density at a height of km

@@ -1,5 +1,0 @@
-the influence of modulation on the recording of resonance
-    phenomena curves based on the standard resonance curve of a
-    simple harmonic oscillator are given as an aid to the
-    construction of spectrographs and the analysis of recorded
-    spectra

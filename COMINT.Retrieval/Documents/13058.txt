@@ -1,4 +1,0 @@
-determination of the orbit of an artificial satellite
-    theory of a method depending on doppler measurements at four
-    stations no initial assumptions about the orbit are
-    required

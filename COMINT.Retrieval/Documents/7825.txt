@@ -1,4 +1,0 @@
-a transistor gating matrix for a simulated warfare
-    computer brief description of a circuit devised in which used a
-    matrix of point contact transistors amplification of signals
-    was also achieved

@@ -1,4 +1,0 @@
-characteristics of the magnetic attenuator at uhf the
-    design of the field controlled attenuator previously described
-    by reggia is discussed and performance data are given for
-    attenuators using various ferromagnetic materials

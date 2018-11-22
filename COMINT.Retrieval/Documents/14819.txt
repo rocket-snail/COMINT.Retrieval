@@ -1,3 +1,0 @@
-gamma function with arbitrary precision (algorithm 309
-    [s14]) august, 1967 filho, a. m.s. schwachheim, g. ca670808 jb
-    february 27, 1978 4:10 pm

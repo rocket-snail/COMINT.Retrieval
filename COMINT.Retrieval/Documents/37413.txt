@@ -1,5 +1,0 @@
-a solenoid delay line with constant delay description of
-    a compact delay line which consists of a solenoid wound on a
-    ceramic tube of high dielectric constant with a metal core
-    delay can be made independent of frequency with an appropriate
-    tube core diameter ratio

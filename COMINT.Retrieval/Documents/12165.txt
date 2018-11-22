@@ -1,9 +1,0 @@
-synthesis of constant time delay networks the synthesis
-    of low pass filters to have a symmetrical transient response
-    such as is desirable in television receivers is investigated
-    the desired frequency response is expanded in a fourier series
-    circuit elements corresponding to the terms of the series are
-    constituted by sections of delay lines which are appropriately
-    combined to give the desired overall response low pass band
-    pass and band stop filters are considered results obtained with
-    experimental filters are discussed

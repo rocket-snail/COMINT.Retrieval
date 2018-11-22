@@ -1,7 +1,0 @@
-multiple coincidence circuit a general purpose transistor
-    coincidence circuit accepting up to five input signals with
-    three simultaneous outputs is described it features a special
-    discriminator which operates on the leading edge of the input
-    signals or the passage through zero on the trailing edge the
-    discriminator bias can be varied over a wide range without
-    affecting the circuit recovery time

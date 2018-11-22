@@ -1,3 +1,0 @@
-choice of collector load resistance for minimum harmonic
-    distortion a graphical method for calculating the optimum load
-    to minimize harmonic distortion in transistor amplifiers

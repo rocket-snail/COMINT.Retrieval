@@ -1,5 +1,0 @@
-photoconductivity as a function of optical absorption a
-    theoretical analysis of the dependence of photoconductivity on
-    optical absorption based on the concept of a schubweg or mean
-    range for the optically liberated charge carriers of each
-    sign

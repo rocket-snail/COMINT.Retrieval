@@ -1,3 +1,0 @@
-uhf magnetic attenuator construction details and
-    performance curves are given for attenuators of the type
-    previously described of

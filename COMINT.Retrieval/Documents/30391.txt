@@ -1,7 +1,0 @@
-a self consistent calculation of the dissociation of
-    oxygen in the upper atmosphere a model is considered similar to
-    that previously proposed of but with the requirement of
-    radiative energy balance abandoned and with a particular
-    temperature distribution assumed calculations indicate a much
-    narrower dissociation region occurring at a lower
-    altitude

@@ -1,8 +1,0 @@
-the use of the kerr effect for studying the magnetization
-    of a reflecting surface if a domain wall moving in an
-    alternating field crosses a small area illuminated with plane
-    polarized light the change in intensity of the reflected light
-    passing through a nearly crossed analyser can be detected by
-    use of a photo multiplier cell and by amplification of the
-    alternating component of its output signal experimental results
-    agree well with theoretical predictions see also

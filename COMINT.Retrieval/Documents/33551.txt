@@ -1,8 +1,0 @@
-antiope teletext captioning. digital captioning can be
-    used in teletext systems and the advantages of this technique
-    over conventional captioning are explained. didon is used by
-    antiope for captioning. the user selects the page required and
-    the captions can be transmitted in a variety of formats and
-    languages. the captions may be situated anywhere on the
-    teletext page and may appear in different places on the screen
-    at different times.

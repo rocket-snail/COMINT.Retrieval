@@ -1,4 +1,0 @@
-theory of impurity resistance in metals a many body
-    technique is developed for the calculation f the dc resistivity
-    of a fermi fluid in the presence of a few randomly distributed
-    fixed impurities

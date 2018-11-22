@@ -1,3 +1,0 @@
-a random pulse generator with variable mean rate method
-    of producing a random pulse train with predetermined
-    statistical properties

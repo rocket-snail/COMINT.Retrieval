@@ -1,5 +1,0 @@
-the effect of cathode impedance on the frequency
-    stability of linear oscillators long term frequency instability
-    due to the growth of an interface layer between oxide coating
-    and cathode may be reduced by suitably adjusting the ratio of
-    anode to grid voltages

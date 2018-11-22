@@ -1,6 +1,0 @@
-electromagnetic fields of axial symmetry bounded by a
-    cone and a sphere the radiation field of a floating magnetic
-    current ring in a space enclosed by spheres and cones is
-    calculated this solution is extended to certain limiting
-    conditions of direct bearing on em radiation from aerials in
-    free space

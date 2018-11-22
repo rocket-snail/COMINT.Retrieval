@@ -1,7 +1,0 @@
-application of complex symbolism to linear variable
-    networks the theory developed is based on frequency domain
-    analysis equations are derived for networks containing one
-    linear variable element the value of which varies periodically
-    and is capable of being developed in a fourier series the
-    usefulness of these equations for computations of magnetic and
-    dielectric modulators and amplifiers is indicated

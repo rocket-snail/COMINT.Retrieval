@@ -1,9 +1,0 @@
-the investigation of ionospheric absorption by a new
-    automatic method part measurements on oblique incidence
-    broadcast signals apparatus similar to that described in part
-    of june is used for recording the strength of a signal received
-    from a distant transmitter by reflection from the ionosphere
-    comparison of the vertical incidence records with
-    simultaneously obtained oblique incidence records is expected
-    to facilitate the investigation of winds in the
-    ionosphere

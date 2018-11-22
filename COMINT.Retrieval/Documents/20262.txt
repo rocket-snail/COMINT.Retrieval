@@ -1,6 +1,0 @@
-on the geometry of radio reflections from aurora the
-    observed characteristics of auroral radar echoes are explained
-    by assuming that echoes arise by means of volume scattering
-    from configurations of ionization similar to those observed
-    visually the importance of allowing for the radar pulse length
-    and aerial beam width is stressed

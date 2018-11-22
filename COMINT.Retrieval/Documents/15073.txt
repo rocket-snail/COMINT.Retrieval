@@ -1,4 +1,0 @@
-investigation of a plasma column continuously fed and
-    subjected to a magnetic field first order approximations for
-    the diffusion velocities manifestation of a frontier
-    zone

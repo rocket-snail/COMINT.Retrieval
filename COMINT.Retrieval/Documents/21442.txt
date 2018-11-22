@@ -1,7 +1,0 @@
-high power radio frequency broad band transformers the
-    design of wide band transformers composed of simple
-    transmission line elements and capable of handling radio
-    frequency power of the order of is discussed examples are given
-    of devices matching ohm coaxial cable to balanced pair
-    transmission lines with a standing wave ratio of less than over
-    the band

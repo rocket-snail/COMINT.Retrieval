@@ -1,8 +1,0 @@
-relaxation oscillations and noise from low current arc
-    discharges noise measurements were made on arcs using various
-    electrode materials and gases over the frequency range the
-    results for al electrodes in air are plotted in comparison with
-    the computed spectrum pulses generated in the circuit formed by
-    the series limiting resistor and the capacitance across the
-    discharge are considered responsible for most of the
-    noise

@@ -1,4 +1,0 @@
-digital techniques for small computations a special
-    digital method of computing simple algebraic functions with one
-    to four variables is described and analysed the method is
-    particularly suited to division and root extraction

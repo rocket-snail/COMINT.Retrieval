@@ -1,4 +1,0 @@
-the doppler effect and inertial systems the minimum range
-    equation for the general case of curved orbits of satellite and
-    observer is compared with the equation valid for inertial
-    systems

@@ -1,5 +1,0 @@
-theory of electron phonon interactions the theory has
-    been formulated for nonpolar crystals in terms of a new set of
-    basic states whose wave functions are essentially bloch
-    functions that deform with the lattice a result of this is a
-    generalization of the deformation potential theorem

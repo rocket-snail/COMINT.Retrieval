@@ -1,6 +1,0 @@
-macro- and microthesauri' changes occurring in
-    mesh-derived thesauri and a solution to some related search
-    handicaps. explores changes that can occur during the creation
-    of a derivative thesaurus. a term translation dictionary is
-    proposed to aid mesh-trained and other searchers who would be
-    using the cancer information thesaurus.

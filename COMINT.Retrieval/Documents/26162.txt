@@ -1,6 +1,0 @@
-pulling phenomena in valve oscillators a general theory
-    of pulling effects is derived on the basis of band filter
-    theory these effects are calculated as a function of detuning
-    and degree of coupling between similar and dissimilar
-    oscillator circuits a mechanical analogue of a pulled
-    oscillating system is described

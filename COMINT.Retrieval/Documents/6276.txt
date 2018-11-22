@@ -1,2 +1,0 @@
-note on the optimum input winding resistance of a
-    magnetic amplifier employing voltage feedback

@@ -1,3 +1,0 @@
-high level oscillator for nuclear resonance a
-    modification of the cathode coupled circuit see og of which
-    functions at rf levels in the range

@@ -1,4 +1,0 @@
-electric field measurements in the stratosphere above the
-    exchange layer the field decreases monotonically up to the
-    limit of measurements made in and the measured and calculated
-    values are in good agreement

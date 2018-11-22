@@ -1,5 +1,0 @@
-microwave carrier modulation demodulation amplifiers and
-    logic circuits applications of parametric amplifiers are
-    described in wide band video modulation demodulation amplifiers
-    and ultra high speed logic circuits with possible repetition
-    rates of the order of

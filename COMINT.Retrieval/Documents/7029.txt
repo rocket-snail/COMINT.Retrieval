@@ -1,3 +1,0 @@
-coherent light amplification in optically pumped vapour
-    using the strong line to produce a population inversion in the
-    vapour a gain of is predicted for a cell

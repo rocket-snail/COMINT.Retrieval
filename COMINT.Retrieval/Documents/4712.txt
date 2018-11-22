@@ -1,5 +1,0 @@
-perturbations in perigee height of vanguard one the
-    effect of solar radiation pressure on the perigee height of
-    satellite is considered the inclusion of this effect leads to
-    closer agreement between observed orbital data and theoretical
-    results

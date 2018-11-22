@@ -1,3 +1,0 @@
-distortion of arbitrary waveforms by resonance sections
-    the method developed earlier for rc sections is extended to
-    sections including an inductance

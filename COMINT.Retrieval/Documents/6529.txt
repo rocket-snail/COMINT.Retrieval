@@ -1,6 +1,0 @@
-an approximate method of estimating the size and shape of
-    the stationary hollow carved out in a neu ral ionized stream of
-    corpuscles impinging on the geomagnetic field a two dimensional
-    case is considered in which the permanent field is due to a
-    current acting perpendicular to the stream the breadth of the
-    hollow at infinity is shown to be finite

@@ -1,7 +1,0 @@
-a stable voltage controlled logarithmic attenuator the
-    variable impedance element is a triode operated so that the
-    cathode impedance varies approximately inversely as the
-    transconductance stabilization is achieved by the use of dc
-    feedback with a suitable increase in loop gain design procedure
-    is given for both high and low input types experimental results
-    are discussed

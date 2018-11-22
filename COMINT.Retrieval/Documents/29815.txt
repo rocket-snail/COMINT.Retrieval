@@ -1,3 +1,0 @@
-push pull audio amplifier theory a mathematical analysis
-    is given applicable to all classes of th epush pull amplifier
-    assuming nonlinear valve characteristics

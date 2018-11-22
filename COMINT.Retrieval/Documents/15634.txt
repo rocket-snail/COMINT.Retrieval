@@ -1,5 +1,0 @@
-shift of nuclear quadrupole resonance frequency by
-    electric field a linear shift in the line in is observed when a
-    field of several is applied parallel to the crystal axis the
-    line shape becomes asymmetric and is attributed to unresolved
-    line splitting

@@ -1,7 +1,0 @@
-model for the surface potential barrier and the periodic
-    deviations in the schottky effect the model is based on the
-    quantum mechanical calculation by bardeen on the form of the
-    potential at the surface of a sodium like metal and the
-    analysis of sachs and dexter on the quantum limits of the image
-    face theory the periodic deviations are recalculated and
-    results compared with previous theory and experiment

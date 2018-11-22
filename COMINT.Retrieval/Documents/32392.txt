@@ -1,5 +1,0 @@
-the positional accuracy of the twenty five m radio
-    telescope of the bonn observatory the tracking system and its
-    adjustment and control are described details are also given of
-    the alignment of the telescope axes and the correction of
-    mechanical inaccuracies of the reflector structure

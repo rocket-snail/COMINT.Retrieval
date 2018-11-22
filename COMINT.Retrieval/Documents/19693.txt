@@ -1,4 +1,0 @@
-description of the electromagnetic field by means of
-    matrices the properties of matrix tensors are briefly
-    considered and the quantities characterizing an e m field are
-    then expressed in matrix form

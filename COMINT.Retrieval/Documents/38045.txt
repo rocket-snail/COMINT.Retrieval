@@ -1,6 +1,0 @@
-a possible explanation of th long duration radar echoes
-    of ionized trails in the upper atmosphere in ionospheric
-    regions where the plasma frequency is near the frequency of the
-    incident wave the local wavelength of the latter is very long
-    and the destructive interference of the fields scattered from
-    the dispersed trail is less effective

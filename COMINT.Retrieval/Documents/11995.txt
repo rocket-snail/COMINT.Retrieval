@@ -1,4 +1,0 @@
-designing transistor circuits sequential circuits parts
-    bistable flip flop a stable and monostable multivibrator
-    blocking oscillator and negative resistance circuits and
-    transistor reactor combinations are discussed

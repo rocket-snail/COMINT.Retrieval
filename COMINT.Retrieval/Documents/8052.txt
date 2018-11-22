@@ -1,7 +1,0 @@
-low power blocking oscillators information of use in
-    final adjustment of blocking oscillators particularly as
-    regards requirements for short rise times and narrow pulses is
-    reviewed a linearized equivalent circuit is used to derive an
-    explicit expression for pulse duration which gives results in
-    agreement with experiment particularly when the grid coupling
-    capacitor is small

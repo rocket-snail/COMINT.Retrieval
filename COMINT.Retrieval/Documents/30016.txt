@@ -1,4 +1,0 @@
-transistor invertors and rectifier filter units details
-    are given of a symmetrical push pull circuit with improved
-    output waveform and a bridge connection for very high output
-    power both operate from a supply

@@ -1,3 +1,0 @@
-detection of submillimetre solar radiation preliminary
-    results are presented which indicate regions of transmission in
-    the wavelength range

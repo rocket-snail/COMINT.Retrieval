@@ -1,7 +1,0 @@
-ignition of electric discharge in gases by audio
-    frequency current in tubes with external and internal
-    electrodes an experimental investigation is reported of the
-    dependence of ignition and discharge conditions on the
-    frequency of the applied voltage up to tubes filled with or at
-    a pressure with either plane or external annular electrodes
-    were used results are presented graphically

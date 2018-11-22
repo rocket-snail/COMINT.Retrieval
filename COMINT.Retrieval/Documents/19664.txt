@@ -1,5 +1,0 @@
-a three level solid state maser nonmathematical
-    description of three level maser operation including a
-    mechanical analogy some constructional details and operating
-    characteristics of a particular model amplifying at are
-    given

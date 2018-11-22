@@ -1,8 +1,0 @@
-direct measurement of charged particles associated with
-    auroral zone radio absorption rocket observations of electrons
-    with energy and protons with energy are described during ascent
-    the electron flux showed large and rapid fluctuations which are
-    consistent with a columnar structure while the proton intensity
-    was relatively steady an estimate is made of the integral
-    electron energy spectrum and the angular distribution of both
-    electrons and protons are examined

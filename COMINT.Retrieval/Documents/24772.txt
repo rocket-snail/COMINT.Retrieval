@@ -1,6 +1,0 @@
-a simplified form of the relativistic electromagnetic
-    equations maxwells equations are expressed in the form of a
-    single four vector density equation in which the field tensor
-    has only three distinct complex components the number of
-    equations is reduced but all the usual classical formulae may
-    be obtained by separating the real and imaginary parts

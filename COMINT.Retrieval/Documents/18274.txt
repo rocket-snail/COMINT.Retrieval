@@ -1,3 +1,0 @@
-magnetics for computers a survey of the state of the art
-    a review of the application of magnetic materials to storage
-    and switching devices

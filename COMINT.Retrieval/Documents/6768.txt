@@ -1,7 +1,0 @@
-toward usable user studies. a management-oriented model
-    for describing and studying information behaviour is proposed.
-    several hypotheses derived from the model are tested using a
-    data base describing the information-related attitudes and
-    behaviours of some 560 scientists and engineers working in a
-    variety of settings and roles. all but one of the hypotheses
-    were confirmed, adding support to the model.

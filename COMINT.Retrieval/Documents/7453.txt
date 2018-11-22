@@ -1,4 +1,0 @@
-millimetre wave harmonic generation in ferrites a
-    ferroxcube doubler driven at a fundamental of was found to have
-    a minimum conversion loss of when the output waveguide was
-    polarized parallel to the input

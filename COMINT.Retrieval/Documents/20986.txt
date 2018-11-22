@@ -1,5 +1,0 @@
-absolute electron intensities in the heart of the earths
-    outer radiation zone previous estimates from geiger counters of
-    the electron flux above are shown to be too large by a factor
-    of the high count rates are due not to electron bremsstrahlung
-    but to directly penetrating electrons of energy

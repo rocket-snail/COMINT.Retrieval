@@ -1,5 +1,0 @@
-theory of probe in plasma part an expression is derived
-    for the electron current into a spherical probe which is at the
-    potential of the space in an undisturbed electron plasma the
-    dependence of the current on the probe dimensions and the
-    electron mean free path i is indicated

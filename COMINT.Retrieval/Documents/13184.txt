@@ -1,5 +1,0 @@
-a simple mains unit for highly constant alternating
-    voltages and currents a unit giving a voltage continuously
-    variable up to and currents up to is described the voltage
-    varying not more than with mains voltage variations up to and
-    mains frequency variations up to

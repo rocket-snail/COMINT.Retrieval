@@ -1,8 +1,0 @@
-action of periodic telegraphy signals on cascaded rlc
-    resonant circuits the response to rectangular trapezoidal and
-    sine squared pulses of a cascaded arrangement of up to three
-    similar tuned circuits is investigated theoretically and the
-    results compared with the response of a single tuned circuit of
-    the effect of a bandwidth and signal repetition frequency is
-    studied from the point of view of using the circuit for fourier
-    analysis and for reception of telegraphy

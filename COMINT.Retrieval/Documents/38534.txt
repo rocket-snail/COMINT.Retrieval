@@ -1,2 +1,0 @@
-methods for improving the frequency stability of
-    transmitters

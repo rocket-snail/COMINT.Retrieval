@@ -1,6 +1,0 @@
-measurement of microwave diffraction from a long slit in
-    a thin conducting plane an outline is given f of technique used
-    to produce a uniform incident plane wave results of
-    measurements of the intensity of the diffraction field are
-    shown graphically for longitudinal and transverse polarization
-    of the incident wave

@@ -1,8 +1,0 @@
-the field emission initiated vacuum arc part experiments
-    on arc initiation the experiments were carried out under
-    conditions of high vacuum and clean cathode surface results
-    show that breakdown is immediately preceded by recognizable
-    emission anomalies that breakdown occurs at a critical current
-    density of the order of for applied microsecond pulses in the
-    range and that breakdown is independent of cathode
-    bombardment

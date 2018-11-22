@@ -1,7 +1,0 @@
-transmission and reflection of electromagnetic waves at a
-    plasma boundary for arbitrary angles of incidence a plane em
-    wave horizontally or vertically polarized incident at an
-    arbitrary angle on a flat plasma boundary is investigated
-    numerical results showing variation of attenuation and phase
-    power entering the plasma and ellipticity of the reflected wave
-    are presented

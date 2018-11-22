@@ -1,4 +1,0 @@
-alternatives to the wien bridge oscillator circuits with
-    two gang control having higher output voltages and greater
-    selectivity than the basic wien ridge circuit are
-    described

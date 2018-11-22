@@ -1,9 +1,0 @@
-a theorem on ideal transformer networks by applying the
-    principle of duality to an impedance inversion network a
-    general theorem on ideal transformation of voltage current and
-    both voltage and current is derived provided the resistive
-    components of reactors are sufficiently small the theorem may
-    be applied in designing networks which can be tuned by a single
-    control through a range of frequencies with fixed
-    transformation ratio to give a variable transformation ratio at
-    a fixed frequency

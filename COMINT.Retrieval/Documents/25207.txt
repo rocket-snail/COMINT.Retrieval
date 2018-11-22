@@ -1,7 +1,0 @@
-characteristic energy loss of electrons passing through
-    metal foils momentum exciton model of plasma oscillations
-    previous work is extended to obtain a unified theory of
-    collective and individual electron effects in the excitation of
-    a degenerate electron gas by fast incident electrons the theory
-    is equivalent to the screening out by the incident
-    electrons

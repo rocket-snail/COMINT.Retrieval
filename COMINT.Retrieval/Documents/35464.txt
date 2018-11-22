@@ -1,6 +1,0 @@
-on the reflection of electromagnetic waves from a medium
-    excited by acoustic waves theory is developed for the variation
-    of density and temperature in a liquid caused by an acoustic
-    wave generating regions of maximum and minimum dielectric
-    constant modulation of a wave reflected from an acoustically
-    disturbed water surface is observed

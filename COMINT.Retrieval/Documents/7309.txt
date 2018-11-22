@@ -1,6 +1,0 @@
-investigation of special frequency dividers with large
-    dividing ratio two frequency dividers and one pulse counter are
-    developed on the basis of kroebels work these give stable
-    dividing ratios of and at input pulse frequencies of and
-    respectively the counter can handle irregular pulses spaced at
-    intervals of

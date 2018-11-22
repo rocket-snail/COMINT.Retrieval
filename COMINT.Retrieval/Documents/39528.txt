@@ -1,2 +1,0 @@
-gain measurements of large aerials used in interferometer
-    and cross type radio telescopes

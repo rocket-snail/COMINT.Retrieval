@@ -1,5 +1,0 @@
-use of greens function in the solution of ionospheric
-    diffusion problems the mathematical analogy between diffusion
-    of ions in the ionosphere and heat conduction in a rod is used
-    to solve the problem of diffusion with an attachment type law
-    of electron loss

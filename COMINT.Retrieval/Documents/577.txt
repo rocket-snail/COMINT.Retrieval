@@ -1,8 +1,0 @@
-theory of the work function of metals the polarizing
-    action of individual electrons on the distribution of the
-    remaining electrons in the conduction band is investigated by
-    means of extended thomas fermi statistics and the effect on the
-    magnitude of the work function is calculated in alkali metals
-    the work function is determined largely by this polarization
-    effect image force and only l slightly by the electrostatic
-    double layer at the metal boundary

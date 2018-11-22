@@ -1,4 +1,0 @@
-a small high voltage regulated power supply with variable
-    output the design of a regulating circuit operating in the
-    range is described which uses a beam tetrode as a series
-    regulator and two double triodes in the feedback circuit

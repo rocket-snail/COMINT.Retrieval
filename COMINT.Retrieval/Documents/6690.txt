@@ -1,5 +1,0 @@
-earth satellites and geodesy examination of possible
-    methods for determining geocentric coordinates of points on the
-    earths surface from observations of the moon and artificial
-    earth satellites the determination of the difference between
-    ephemeris and universal time is considered

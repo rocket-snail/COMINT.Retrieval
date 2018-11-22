@@ -1,7 +1,0 @@
-the use of hospital in-patient data in the analysis of
-    the injuries sustained by road accident casualties. this study
-    aimed at compiling from existing hospital casualty records and
-    police accident records a data set containing information on
-    the nature of injuries to road accident casualties and on the
-    circumstances of the accident in which each casualty was
-    injured.

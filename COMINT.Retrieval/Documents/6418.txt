@@ -1,3 +1,0 @@
-filter helix travelling wave tube part the filter helix a
-    new circuit element for travelling wave amplifiers and
-    oscillators

@@ -1,5 +1,0 @@
-the imaginary part of the characteristic impedance in the
-    pass band of filter circuits the use of filter circuits with
-    complex characteristic impedance in the pass band extends the
-    number of possible bridge type filters filters with variable
-    pass ab band can be realised

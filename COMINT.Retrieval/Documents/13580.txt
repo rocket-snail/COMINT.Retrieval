@@ -1,2 +1,0 @@
-propagation of an electromagnetic impulse in a medium
-    with dielectric losses

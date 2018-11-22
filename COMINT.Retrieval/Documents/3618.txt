@@ -1,6 +1,0 @@
-electrically controlled audio filters design theory based
-    on the work linvill is presented for a low pass and a high pass
-    filter both having cut off frequencies continuously variable
-    between the cut off characteristic may be controlled by the
-    signal for investigating the structure of speech signals
-    experimental results are reported

@@ -1,5 +1,0 @@
-some possible arrangements of parametric amplifiers
-    employing lower frequency pumping two arrangements are analysed
-    in desail a combination of a mixer and an amplifier using one
-    pump and two idlers b combination of a mixer and an amplifier
-    using two pumps and two idlers

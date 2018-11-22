@@ -1,7 +1,0 @@
-linear power amplifiers using dynistors or trinistors the
-    use of two or three terminal semiconductor switching devices
-    with a pulse network in series with the output of a magnetic
-    amplifier transducer acting as an amplitude phase converter is
-    described these amplifiers are much smaller than conventional
-    magnetic amplifiers of comparable maximum output power
-    resistive or inductive loads can be used

@@ -1,4 +1,0 @@
-study of the new model of the ionosphere the variation
-    with height of the electron density is calculated for three
-    cases and good agreement is obtained between the model and the
-    results of moon echo observations

@@ -1,6 +1,0 @@
-the distortion of frequency modulated oscillations due to
-    asymmetry in two circuit filter networks second and third order
-    distortion factors for quasi static and dynamic distortion
-    conditions are calculated using formulae derived from a series
-    expansion of the filter phase and attenuation
-    characteristics

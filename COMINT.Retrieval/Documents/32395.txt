@@ -1,5 +1,0 @@
-frequency control of magnetic multivibrators a basic
-    circuit is developed allowing output frequency to be controlled
-    continuously or in steps over a wide frequency range variations
-    of the circuit provide similar controls of output
-    amplitude

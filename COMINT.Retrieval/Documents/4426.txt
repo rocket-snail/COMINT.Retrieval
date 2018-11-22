@@ -1,3 +1,0 @@
-skin effect with shock waves approximate formulae are
-    given for the skin effect in a cylindrical conductor traversed
-    by a shock wave

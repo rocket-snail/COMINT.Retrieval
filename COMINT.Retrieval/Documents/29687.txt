@@ -1,9 +1,0 @@
-mobile communication systems. january, 1975-january 1981
-    (citations from the international information service for the
-    physics and engineering communities data base). describes the
-    design and applications of various types of mobile
-    communication equipment and mobile communication systems. among
-    the systems discussed are satellite communication systems for
-    mobile terminals, maritime mobile systems, and military mobile
-    systems. performance evaluation for both the equipment and
-    systems are covered.

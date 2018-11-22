@@ -1,5 +1,0 @@
-pulse generator for the production of a spectrum with
-    constant amplitude in the frequency range the equipment
-    described conforms to the german specifications for radio
-    interference measuring sets five different pulse repetition
-    frequencies can be selected in the range

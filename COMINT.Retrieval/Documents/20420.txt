@@ -1,3 +1,0 @@
-position of point relative to polygon (algorithm 112)
-    december, 1962 hacker, r. ca621218 jb march 17, 1978 4:54
-    pm

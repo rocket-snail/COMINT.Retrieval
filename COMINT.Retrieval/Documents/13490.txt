@@ -1,5 +1,0 @@
-component tolerance effects in feedback amplifiers
-    analysis relating to and feedback networks is given resistor
-    variation produces no asymmetry of the response curve in this
-    respect the feedback amplifier is superior to the stagger tuned
-    amplifier

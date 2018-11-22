@@ -1,5 +1,0 @@
-germanium power rectifiers the production and
-    characteristics of junction rectifiers capable of handling
-    current densities of the order of at an ambient temperature of
-    are described and compared with those of other rectifiers some
-    suitable circuits are indicated

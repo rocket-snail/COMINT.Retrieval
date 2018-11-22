@@ -1,4 +1,0 @@
-internal resistance of dry cells a description of a
-    simple nondestructive pulse technique for investigating the
-    effect of a momentary or continuous discharge on internal
-    resistance for a more detailed account see

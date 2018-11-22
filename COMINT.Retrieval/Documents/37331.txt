@@ -1,6 +1,0 @@
-the influence of grid current upon valve oscillator
-    frequency analysis indicates tht when the intensity of
-    harmonics in the oscillator anode and grid circuits is low the
-    fundamental component of grid current is the main factor
-    influencing oscillation frequency grid current harmonics have b
-    a greater influence than anode current harmonics

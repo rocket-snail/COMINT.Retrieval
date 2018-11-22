@@ -1,4 +1,0 @@
-average forces in electromagnetic systems for ar a linear
-    and loss free system it is shown that the time average force
-    can be expressed in directly measurable circuit theory
-    parameters

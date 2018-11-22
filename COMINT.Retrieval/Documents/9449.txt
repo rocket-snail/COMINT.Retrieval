@@ -1,5 +1,0 @@
-unilateralization of junction transistor amplifiers at
-    high frequencies neutralization of the inherent internal
-    feedback of the junction transistor is provided by applying
-    external feedback practical circuits are illustrated and their
-    performance characteristics discussed

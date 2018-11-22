@@ -1,3 +1,0 @@
-electronic switch a switching circuit for two waveform
-    display with a single beam cro uses a conventional
-    multivibrator for generating the switching voltages

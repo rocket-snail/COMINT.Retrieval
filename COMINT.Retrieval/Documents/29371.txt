@@ -1,6 +1,0 @@
-a wide band frequency modulated system with asymmetrical
-    phase oscillator an analytical investigation is made of the
-    operation of the oscillator symmetrical and asymmetrical
-    arrangements are compared as regards linearity of modulation
-    modulation sensitivity and frequency stability in a
-    system

@@ -1,4 +1,0 @@
-theory of a monolithic null device and some novel
-    circuits a semiconductor structure which behaves as a twin t
-    filter network is described and applied to a tuned amplifier
-    oscillator and transducer

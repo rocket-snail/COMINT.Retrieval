@@ -1,5 +1,0 @@
-a determination of ionospheric winds for a hour period
-    results are given of an analysis using the method proposed by
-    court of the fading records obtained at spaced receivers during
-    an arbitrarily chosen period a diurnal variation of wind
-    direction appears to be indicated

@@ -1,7 +1,0 @@
-the optimum line width for the transition used in a
-    reflection cavity maser amplifier the line of the amplifying
-    transition in a reflection cavity maser is shown to have an
-    optimum value which will give maximum amplification bandwidth
-    at a fixed gain difficulties associated with achieving the
-    optimum line width in practice for the paramagnetic maser are
-    briefly discussed

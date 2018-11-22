@@ -1,3 +1,0 @@
-investigation of relaxation in magnetic resonance by the
-    method of forced transient precession a method is described for
-    measuring directly the relaxation time in liquids

@@ -1,5 +1,0 @@
-operating characteristics of a molecular beam maser
-    general expressions for the emitted power and the frequency
-    pulling in an ammonia maser have been deduced the operating
-    characteristics of the maser have been deduced by introducing a
-    mean square time of flight of molecules in the cavity

@@ -1,6 +1,0 @@
-travelling ionospheric disturbances in the f region data
-    obtained from april to march on the horizontal movements of the
-    disturbances are analysed for a single radio frequency the
-    monthly means of direction show a seasonal change from in
-    winter to in summer with a small change in mean speed from to
-    km min respectively

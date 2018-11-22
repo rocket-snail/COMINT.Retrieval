@@ -1,8 +1,0 @@
-agc by means of miniature ntc resistors with heating
-    element the negative temperature coefficient resistors are
-    surrounded by the heating element and enclosed in an evacuated
-    glass tube the resistor being included in the input circuit of
-    an amplifier and the heating element in the output circuit to
-    obtain efficient agc practical circuit details are given and
-    operating characteristics of the ntc resistors are shown
-    graphically

@@ -1,7 +1,0 @@
-electron spin resonance absorption in metals part
-    experimental measurements were made on li na k be mg al pd and
-    w over the temperature range using a cavity resonator technique
-    at frequencies of and the dimensions of the specimens were in
-    some cases large and in others small compared with skin depth
-    the results are compared with those predicted by dysons
-    theory

@@ -1,7 +1,0 @@
-the resistance network a simple and accurate aid to the
-    solution of potential problems a method applicable to two
-    dimensional problems and to three dimensional problems where
-    there is rotational symmetry is described in either case
-    laplaces equation for given boundary conditions reduces to a
-    differential equation involving two independent variables
-    only

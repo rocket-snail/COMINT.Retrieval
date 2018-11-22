@@ -1,4 +1,0 @@
-a new method for measuring the attachment of slow
-    electrons in gases simultaneous measurements of attachment
-    coefficient and the ratio of drift velocity to diffusion
-    coefficient are reported

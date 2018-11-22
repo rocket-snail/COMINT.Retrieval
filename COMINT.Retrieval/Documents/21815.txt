@@ -1,8 +1,0 @@
-effect of circular field on form of longitudinal
-    magnetization curve the variation was investigated
-    experimentally of the magnetization of an iron tube placed in a
-    coaxial magnetic field combined with a circular field produced
-    by a current flowing in a conductor placed along the axis of
-    the tube the results which are presented graphically are of
-    interest in the construction of transformers for amplification
-    of weak currents

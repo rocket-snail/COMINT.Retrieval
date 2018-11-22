@@ -1,7 +1,0 @@
-effects of harmonics on the frequency of oscillation as
-    well as on the asymmetry of the resonance curves the nonlinear
-    equations representing the free and synchronized oscillations
-    are transformed into linear equations with periodically varying
-    coefficients and complete solutions are obtained the relation
-    between frequency variation and harmonic content is derived
-    experimental results supporting the theory are reported

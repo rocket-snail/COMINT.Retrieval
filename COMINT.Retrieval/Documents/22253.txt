@@ -1,9 +1,0 @@
-measurement of reference transactions' an in-depth
-    statistical study of demand and capacity in twenty-two
-    libraries over a two-year period. describes a study of the
-    volume of reference transactions in ohio state university
-    library system's department libraries in 1977 and 1978.
-    discusses the results and concludes that it is possible to
-    predict the volume of reference questions with some accuracy
-    and that meaningful interpretation of the totals can be
-    made.

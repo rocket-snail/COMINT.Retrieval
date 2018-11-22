@@ -1,3 +1,0 @@
-model of the ionosphere electron density data obtained by
-    a russian rocket can be correctly interpreted by the f layer
-    model proposed in the

@@ -1,2 +1,0 @@
-theory of magnetohydrodynamic waves using the energy
-    pulse tensor of abraham

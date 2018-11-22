@@ -1,8 +1,0 @@
-a comparative study of document retrieval systems of
-    nursing interest. (edd thesis-the american university,
-    washington dc). a comparative analysis of 4 major computerised
-    document retrieval systems and a manual system containing
-    bibliographic citations to the nursing and nursing-related
-    literature-eric, international nursing index, medline, national
-    health planning information center, and social science citation
-    index. medline was found to be the most effective.

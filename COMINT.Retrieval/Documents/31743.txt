@@ -1,6 +1,0 @@
-reduction of the noise figure of an amplifier by a
-    negative conductance in its input circuit the lowest noise
-    figure is obtained when the negative conductance is infinitely
-    great in practice a minimum noise figure exists only if the
-    lowest permissible value of stability or bandwidth is
-    given

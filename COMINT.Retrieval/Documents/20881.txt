@@ -1,2 +1,0 @@
-the use of nonlinear tachometric feedback to improve the
-    transient response of a servomechanism

@@ -1,5 +1,0 @@
-an improved automatic method for measurement of
-    ionospheric absorption pulses are transmitted at vertical
-    incidence at a rate f one per second and the mean echo
-    amplitude over an interval of about one minute is
-    recorded

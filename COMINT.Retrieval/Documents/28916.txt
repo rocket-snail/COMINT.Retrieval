@@ -1,6 +1,0 @@
-vacuum fluctuation noise the possibility of observing
-    vacuum fluctuations by measuring the resultant electron stream
-    noise when an electron stream interacts with a damped
-    oscillator is discussed an electron stream i shown to provide a
-    means of precise measurement of the mean square noise emf for
-    certain modes the circuit must be at low temperature

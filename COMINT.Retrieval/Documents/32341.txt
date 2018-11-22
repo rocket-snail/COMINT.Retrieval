@@ -1,3 +1,0 @@
-the analysis of night time records a correction of
-    electron density profiles for errors due to underlying
-    ionization by the use of the extraordinary ray

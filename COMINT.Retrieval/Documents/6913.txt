@@ -1,2 +1,0 @@
-galvanomagnetic oscillators the type of hall effect
-    oscillator described has an efficiency of

@@ -1,4 +1,0 @@
-ionospheric limitations on attainable satellite potential
-    consideration of the potentials attainable by a satellite in
-    the ionosphere when continuous streams and pulsed streams of
-    charged particles are ejected from it

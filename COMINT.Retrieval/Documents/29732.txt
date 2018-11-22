@@ -1,6 +1,0 @@
-calculation of the ac resistance of a solid conductor
-    with rectangular cross section the joule effect losses are
-    calculated starting from maxwells equations ad making
-    assumptions corresponding to those for the case of a circular
-    cross section the results are compared with those obtained by
-    investigating penetration depth

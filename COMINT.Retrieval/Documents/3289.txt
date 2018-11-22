@@ -1,5 +1,0 @@
-corkscrew a device for changing the magnetic moment of
-    charged particles in a magnetic field a helical field source is
-    described which produces a monotonic increase or decrease in
-    the transverse energy of a particle moving initially in the
-    uniform field along the helix axis

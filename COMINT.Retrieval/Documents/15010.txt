@@ -1,5 +1,0 @@
-an indirect method for the exact solution of the
-    oscillator equation by establishing the characteristic of the
-    oscillator in the phase plane exact solutions of the nonlinear
-    differential equation involved can be found the characteristics
-    of these solutions are discussed for english

@@ -1,8 +1,0 @@
-diffusion of ions in a static f region the vertical
-    diffusion of ions under the action of gravity and a rate of
-    electron loss which decreases exponentially with height is
-    shown to correspond to heat conduction in a rod with a heat
-    source distribution and radiation from the lateral surface
-    electron density is determined as a time periodic function of
-    the height and is expressed in the form of an infinite
-    series

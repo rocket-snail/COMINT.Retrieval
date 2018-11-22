@@ -1,6 +1,0 @@
-the operation of generators for steep fronted waves when
-    the self inductance of the generator is taken into account in
-    the analysis a third order differential equation is obtained
-    simplification is introduced by taking advantage of a
-    particular solution graphical methods of investigation based on
-    the work of bergeron are also outlined

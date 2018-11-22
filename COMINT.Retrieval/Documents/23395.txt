@@ -1,3 +1,0 @@
-methods of synchronizing the observations of a sterics
-    network methods in use in the british network are
-    described

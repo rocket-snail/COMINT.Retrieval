@@ -1,2 +1,0 @@
-large signal behaviour of directly heated thermistors
-    part of a study of thermistor circuits part

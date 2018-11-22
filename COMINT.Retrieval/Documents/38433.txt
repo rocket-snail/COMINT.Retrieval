@@ -1,6 +1,0 @@
-selecting rc values for active filters the circuit
-    configuration described facilitates the design of filters with
-    zero transmission at either infinite or zero frequency
-    component values are determined from the symmetry of the
-    network voltage transfer function by the technique of
-    coefficient matching

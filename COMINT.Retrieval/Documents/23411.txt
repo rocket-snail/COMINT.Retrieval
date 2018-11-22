@@ -1,5 +1,0 @@
-an iterative method for network synthesis the numerical
-    method described is based on the complex critical frequencies
-    of the insertion loss function applications to networks with up
-    to four poles and four zeros and to a crystal filter are
-    illustrated

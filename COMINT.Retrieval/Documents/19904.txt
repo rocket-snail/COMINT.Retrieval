@@ -1,2 +1,0 @@
-nets composed of parts of circles for the approximate
-    solution of field problems

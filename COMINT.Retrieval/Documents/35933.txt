@@ -1,8 +1,0 @@
-decision support systems in libraries. following a review
-    of the contributions of computers and managerial
-    science/operations research to the management of libraries,
-    this paper introduces the concept of decision support systems.
-    dss, a blending of these techniques, can lead to more effective
-    decisions by library managers. a case study of the utilisation
-    of a dss in the budgeting process of a medium sized library
-    illustrates the process. report not available from ntis.

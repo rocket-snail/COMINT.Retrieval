@@ -1,6 +1,0 @@
-a method of measuring the potential distribution in a
-    cylindrical rf cavity containing plasma an ion beam is directed
-    through the plasma and the position velocity and direction of
-    the beam at the points of entry and exit are determined by
-    varying the input parameter the potential of a particular point
-    inside the plasma can be computed

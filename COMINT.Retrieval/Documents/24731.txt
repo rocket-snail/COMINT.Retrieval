@@ -1,3 +1,0 @@
-a practical electromechanical filter details of materials
-    and fabrication techniques are given for narrow band torsional
-    filters

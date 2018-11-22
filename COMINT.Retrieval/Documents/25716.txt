@@ -1,6 +1,0 @@
-some measurements of high latitude ionospheric a theory
-    of absorption and a technique of measurement are described
-    observations at have shown that marked differences can occur in
-    disturbed periods between stations km apart most of the
-    absorption occurs below the e region and it correlates well
-    with the geomagnetic k index

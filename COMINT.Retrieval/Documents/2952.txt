@@ -1,2 +1,0 @@
-representation of switching circuits by binary decision
-    programs

@@ -1,6 +1,0 @@
-direct reading electronic correlator paper strip
-    recordings of two functions r are read photo electrically and
-    the electrical signals thus obtained are converted into pulses
-    which when coincident actuate a computer the correlation delay
-    time can be varied up to any value from a lower limit set by
-    the recording speed

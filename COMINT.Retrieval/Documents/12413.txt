@@ -1,4 +1,0 @@
-an astable four region multivibrator the multivibrator
-    operation of a four region semiconductor structure is analysed
-    and its temperature instability is discussed results obtained
-    with a five region structure are also given

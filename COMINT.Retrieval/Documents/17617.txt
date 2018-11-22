@@ -1,3 +1,0 @@
-realizing boolean connectives on the ibm 1620 july, 1963
-    hellerman, h. senzig, d. n. ca630706 jb march 14, 1978 8:44
-    am

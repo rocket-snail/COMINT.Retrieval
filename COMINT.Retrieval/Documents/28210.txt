@@ -1,3 +1,0 @@
-directional coupling with transmission lines adaptation
-    of devices developed in connection with waveguides to forms
-    with open wire lines for use at lower radio frequencies

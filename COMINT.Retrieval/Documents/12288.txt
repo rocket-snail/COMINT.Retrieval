@@ -1,4 +1,0 @@
-absorption of electromagnetic radiation by an electron
-    gas using the greens function formulation of the many body
-    problem the total absorption cross section for a photon by an
-    electron gas is calculated in the high density limit

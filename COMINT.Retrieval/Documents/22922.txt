@@ -1,4 +1,0 @@
-a tuning fork filter an introduction to the use of a
-    tuning fork filter as a circuit element and a complete
-    description of a particular unit its derivation and the
-    correlation between theory and measurement

@@ -1,4 +1,0 @@
-some transmission line devices for use with
-    millimicrosecond pulses a phase inverter impedance transformers
-    and a valve heater isolating transformer are described all
-    comprising coaxial cable sections

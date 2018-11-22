@@ -1,8 +1,0 @@
-on artificial geomagnetic and ionospheric storms
-    associated with high altitude explosions the electron density
-    in the outer ionosphere sudden changes in the virtual height of
-    radio waves reflected from the e region of the ionosphere it is
-    shown that the lower level reflections are from thin layers
-    within the normal e region the changes in amplitude are used to
-    deduce the thickness of these layers and the electronic
-    collision frequency in the e region

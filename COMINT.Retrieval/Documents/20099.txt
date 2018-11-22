@@ -1,7 +1,0 @@
-extension of the generalized phase diagram method for
-    studying the stability of linear systems extension of work
-    reported previously a rule for interpreting the phase diagram
-    leading to a simpler method of application is described the
-    damping necessary to ensure stability is investigated by a
-    graphical method an analytical method is developed using a
-    characteristic algebraic equation with real coefficients

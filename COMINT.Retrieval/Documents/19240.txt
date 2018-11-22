@@ -1,3 +1,0 @@
-comments on the performance of pentode output stages
-    except from book of the phillips series of books on electronic
-    valves of

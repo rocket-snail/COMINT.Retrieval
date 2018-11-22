@@ -1,5 +1,0 @@
-noise and stability of negative conductance amplifiers
-    calculations of lowest noise figure attainable from stability
-    considerations are in agreement with results of an earlier
-    analysis of but the lowest possible noise figure is obtained at
-    the expense of stability

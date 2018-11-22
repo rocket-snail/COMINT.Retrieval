@@ -1,8 +1,0 @@
-corner plots an approximation to the shape of the actual
-    response curve for rl and rc circuits is obtained by suitable
-    combinations of straight lines called corner plots the
-    parameters involved are defined and rules for their
-    determination by inspection of the circuit derived the method
-    is not restricted to impedances but may also be applied to
-    network transfer functions and is discussed in bodes network
-    analysis and feedback amplifier design chapter

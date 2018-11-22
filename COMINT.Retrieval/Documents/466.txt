@@ -1,7 +1,0 @@
-oscillations in a plasma with oriented dc magnetic field
-    the angular dependence of the double resonances representing
-    coupling of a low energy plasma and cyclotron oscillations is
-    studied for all orientations of the dc electric and magnetic
-    fields using a nonlinear phenomenological approach conditions
-    favourable for manifestation of these modes are
-    indicated

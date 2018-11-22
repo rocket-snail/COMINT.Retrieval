@@ -1,9 +1,0 @@
-research into teleconferencing. video teleconferencing
-    offers potential to reduce costs involved in bringing
-    individuals from distant locations together for a conference. a
-    teleconference system connects several sites by video, audio,
-    and/or data channels. this report describes research by
-    decisions and designs, inc., involving the design,
-    construction, demonstration and evaluation of a video
-    teleconference system that enhances the communication
-    capability available with current systems.

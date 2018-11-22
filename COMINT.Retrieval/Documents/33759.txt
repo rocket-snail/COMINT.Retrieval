@@ -1,7 +1,0 @@
-effect of geophysical factors on the motion of a
-    satellite the orbital calculations based on the use of
-    differential equations in terms of elliptical osculating
-    elements depend on the accurate estimation of geophysical
-    factors such as air resistance and gravitational anomalies the
-    determination of these factors from satellite observations is
-    considered

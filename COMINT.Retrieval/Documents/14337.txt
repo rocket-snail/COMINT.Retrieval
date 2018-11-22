@@ -1,7 +1,0 @@
-a permanent high speed store for use with digital
-    computers information is stored in the form of spots arranged
-    in a co ordinate grid on a slide and is picked up by a flying
-    spot system reliable operation should be possible with a digit
-    spacing of if phosphors with low decay time are used advantages
-    of the system are high storage density and commercial
-    availability of the components

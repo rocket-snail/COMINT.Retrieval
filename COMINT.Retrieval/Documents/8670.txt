@@ -1,5 +1,0 @@
-variational treatment of warm electrons in nonpolar
-    crystals deviations from ohms law in nonpolar crystals are
-    treated by the variational method for the case of weak fields
-    the second order term in the electrical conductivity is
-    calculated

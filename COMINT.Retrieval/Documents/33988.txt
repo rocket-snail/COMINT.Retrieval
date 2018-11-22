@@ -1,8 +1,0 @@
-the audio frequency negative feedback amplifier as a
-    filter circuit a single stage rc feedback amplifier is
-    represented by an equivalent damped parallel lc circuit and a
-    locus diagram for amplification is constructed the method is
-    applied to a two stage amplifier an expression analogous to
-    form factor in filter theory being derived in terms of feedback
-    ratio this is useful for determining the effect of feedback on
-    the frequency characteristic in af amplifier design

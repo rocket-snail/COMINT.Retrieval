@@ -1,5 +1,0 @@
-diffraction by cylindrical reflectors measurements of the
-    near zone diffracted field of a cylindrical reflector with a
-    line source at the centre agree with calculations using
-    geometrical optics current the equivalent line currents give
-    slightly better agreement

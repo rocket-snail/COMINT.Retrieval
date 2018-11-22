@@ -1,8 +1,0 @@
-the spectrum of the electron density fluctuations in the
-    ionosphere the fluctuations are assumed to arise from the
-    vertical transport of small pockets of air in the presence of a
-    non adiabatic temperature gradient and vertical gradients o
-    mean electron density a preliminary account of the theory of
-    the spectrum o the fluctuations is given with references to the
-    application of the results to ionospheric and tropospheric
-    scattering of radio waves see also of

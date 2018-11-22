@@ -1,7 +1,0 @@
-the theory and design of cathode follower output stages
-    limitations imposed on the design of cathode follower stages
-    feeding loads with an earthy a end are noted procedures are
-    outlined for choice of valve for a particular service and then
-    completing the circuit design under the conditions that the
-    specified maximum anode current and anode dissipation are not
-    exceeded and that linear operation is achieved

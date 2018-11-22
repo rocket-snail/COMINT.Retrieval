@@ -1,7 +1,0 @@
-electron ion recombination coefficients in nitrogen and
-    oxygen microwave determinations of electron density decay
-    during the afterglow following ionization of gas in a cavity
-    and simultaneous identification of the afterglow positive ion
-    current by an rf type mass spectrometer provide information
-    from which recombination coefficients can be assigned to
-    particular positive ion species

@@ -1,7 +1,0 @@
-thickness shear and flexural vibrations of a circular
-    disk antisymmetrical modes of vibration in a quartz disk are
-    investigated by considering the simpler corresponding case of
-    an isotropic disk differences between the frequency spectrum in
-    this case and in that of the rectangular plate are due to the
-    presence of thickness twist modes in addition to the thickness
-    shear and flexural modes

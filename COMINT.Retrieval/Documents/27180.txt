@@ -1,4 +1,0 @@
-project echo boresight cameras cameras are attached to
-    the project echo transmitting and receiving antennas at holmdel
-    for recording the position of the satellite an exposure of sec
-    at was used at frames sec

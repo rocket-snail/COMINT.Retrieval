@@ -1,6 +1,0 @@
-negative and oscillatory longitudinal magnetoresistance a
-    report on the result of numerical calculations of
-    semiconductors and semimetals for the case in which electron
-    scattering is due to the acoustic modes of the lattice
-    vibrations and the magnetic field is so large that the
-    quantization of the electron orbit is important

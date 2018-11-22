@@ -1,4 +1,0 @@
-noise measure of lossy tunnel diode amplifier stages the
-    influence of circuit losses and the diode series resistance on
-    the noise figure of tunnel diode amplifiers is considered the
-    calculation is repeated for a stage parallel circuit

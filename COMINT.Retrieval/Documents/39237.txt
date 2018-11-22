@@ -1,7 +1,0 @@
-evaluation and implementation of topological codes for
-    online compound search and registration. a topological search
-    code has been found to have high discriminatory power within
-    large sets of disparate structures. the technique has been
-    implemented in a pharmaceutical company's computerised chemical
-    information system, for interactive registration and structure
-    search.

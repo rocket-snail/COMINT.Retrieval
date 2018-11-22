@@ -1,7 +1,0 @@
-method of measurement of the velocity of high energy
-    electrons formulae relating the beam voltage to the oscillation
-    frequency in carcinotrons and loaded waveguide linear
-    accelerators are used to determine the electron velocity the
-    only apparatus required is a wavemeter together with a small
-    line velocities approaching that of light are treated
-    relativity effects are taken into account

@@ -1,6 +1,0 @@
-observations on the possible influence of cosmic
-    radiation on transistor life in space satellites the
-    concentration of cosmic radiation in the van allen belts and
-    the possible effect of this on transistors in communications
-    satellites are discussed with reference to observational
-    results

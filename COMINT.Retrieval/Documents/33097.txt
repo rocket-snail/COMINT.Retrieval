@@ -1,5 +1,0 @@
-frequency stability of oscillators with large grid and
-    anode capacitances general analysis is given for the clapp
-    circuit various factors affecting the frequency and the optimum
-    distribution of instability components among the circuit
-    elements and supply voltages are discussed

@@ -1,8 +1,0 @@
-a note on the evaluation of the response of a nonlinear
-    element to sinusoidal and random signals a method is developed
-    based upon a mathematical technique described by lewis which is
-    particularly useful for the analysis of nonlinear control
-    systems simple cursors may be constructed to determine the
-    effective gain of the nonlinear unit the application to
-    hysteretic nonlinearities and the response to random signals is
-    illustrated

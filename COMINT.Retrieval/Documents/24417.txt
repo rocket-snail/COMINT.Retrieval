@@ -1,5 +1,0 @@
-variation of diffusion after effect field with induction
-    as a consequence of the different behaviour of and walls the
-    curve representing the variation of diffusion after effect
-    field with induction exhibits two horizontal regions this is
-    confirmed experimentally

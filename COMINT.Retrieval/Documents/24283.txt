@@ -1,5 +1,0 @@
-antiferromagnetism and ferrimagnetism of non stoichmetric
-    compounds a simple quantitative treatment is given of the
-    magnetic properties of a substance containing vacancies
-    enabling the most important magnetic properties of many non
-    stoichiometric compounds to be interpreted

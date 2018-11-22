@@ -1,7 +1,0 @@
-monotonic transient response restrictions are derived
-    which must be placed on the poles and zeros of the system
-    function of a linear system with lumped constants in order that
-    the response of the system to a step function drive shall be
-    monotonic system functions having up to three s zeros are
-    considered a method of dealing with systems containing more
-    than three zeros is explained

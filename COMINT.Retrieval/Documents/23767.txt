@@ -1,6 +1,0 @@
-some novel circuits employing cold cathode tubes the
-    circuits described are based on cold cathode diodes and triodes
-    the diode being used to stabilize the anode breakdown voltage
-    of the triodes details are given of a stable relaxation
-    oscillator a voltage discriminator trigger circuits a staircase
-    waveform generator and decade counters

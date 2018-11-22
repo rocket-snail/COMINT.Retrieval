@@ -1,5 +1,0 @@
-wide band amplification at high frequencies a transmitter
-    incorporating a wide band amplifier covering is described
-    distributed amplification is used with artificial transmission
-    lines in which the shunt capacitances are provided by the
-    interelectrode capacitances of the values

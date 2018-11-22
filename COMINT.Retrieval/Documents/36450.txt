@@ -1,4 +1,0 @@
-fundamental solution of the vectorial wave equation in
-    spherical coordinates two families of vectors are determined
-    which under certain conditions together form an orthonormalized
-    system tied to the geometry of a sphere

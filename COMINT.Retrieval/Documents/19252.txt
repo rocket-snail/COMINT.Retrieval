@@ -1,7 +1,0 @@
-interaction of an electron beam with a fully ionized
-    plasma an electron beam modulated at microwave frequency passes
-    through a thermal plasma critical frequency cyclotron frequency
-    gain in beam modulation amplitude is measured theory is
-    outlined which predicts gain for with a maximum at preliminary
-    experiments agree with theoretical predictions a measured gain
-    at is reported

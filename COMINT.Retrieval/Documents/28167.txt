@@ -1,4 +1,0 @@
-theory of the travelling wave parametric amplifier the
-    theory is based on a nonlinear distributed capacitance excited
-    by a travelling wave losses in lhe capacitance and the effects
-    of saturation on large signals are considered

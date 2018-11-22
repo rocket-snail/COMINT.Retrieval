@@ -1,4 +1,0 @@
-resonance absorption of sunlight in twilight layers
-    calculations are made relevant to the determination of the
-    thickness of the atmospheric sodium layer which appears to be
-    located at a height between and

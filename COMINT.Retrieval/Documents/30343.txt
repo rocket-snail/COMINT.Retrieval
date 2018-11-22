@@ -1,8 +1,0 @@
-double scattering of electrons with a dipole moment
-    quantum mechanical analysis of the case where magnetic and
-    electric fields are present between the two targets gives the
-    same results as are obtained by treating the electrons as
-    classical spinning tops with magnetic moments and classical
-    electric dipoles interaction between electron beam and magnet
-    the diffraction effect noted when an electron beam grazes a
-    sharp edge of a magnet is described and interpreted

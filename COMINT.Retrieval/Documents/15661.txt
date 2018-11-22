@@ -1,4 +1,0 @@
-frequency control of an oscillator by nuclear magnetic
-    resonance a description of a simple superregenerative
-    oscillator that produces a coherent signal at the magnetic
-    resonance frequency of a sample in its coil

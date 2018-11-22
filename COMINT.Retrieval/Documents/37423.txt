@@ -1,6 +1,0 @@
-an equalizing network for carrier type feedback control
-    systems the analysis of an active high q rlc circuit shows that
-    it permits lag compensation of carrier type feedback control
-    systems through direct operation on the system actuating signal
-    the use of this circuit in an instrument type velocity servo
-    reduces the steady state error by a factor of at least

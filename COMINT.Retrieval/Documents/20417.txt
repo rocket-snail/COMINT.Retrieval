@@ -1,7 +1,0 @@
-radiation transfer and the possibility of negative
-    absorption in radio astronomy conditions are discussed under
-    which negative absorption can arise at radio wavelengths when
-    the medium will behave like an amplifier to the incident
-    radiations the necessary conditions can be met in cases where
-    the dominant radiation process is due to the cherenkov effect
-    gyro radiation or synchrotron type radiation

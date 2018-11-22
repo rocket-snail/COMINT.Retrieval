@@ -1,4 +1,0 @@
-the dispersion equation for plasma waves the validity of
-    different formulae is discussed when collisions are infrequent
-    no dispersion equation exists except in special cases see also
-    of

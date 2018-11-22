@@ -1,3 +1,0 @@
-experiences with mechanical band filters problems arising
-    in the construction of electromechanical filters are discussed
-    and some practical types of filter are described

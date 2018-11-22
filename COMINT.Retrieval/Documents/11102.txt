@@ -1,6 +1,0 @@
-definition and measurement of the mean field of pulse
-    type atmospherics the mean effect on a receiver with tuned
-    circuits and linear detection of short pulses at is very
-    similar to that of an em field with an effective electric
-    component eing the effective height of the aerial for the
-    aerial for the frequency to which the receiver is tuned

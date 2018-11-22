@@ -1,4 +1,0 @@
-scattering of microwaves from a cylindrical plasma in the
-    born approximation part earlier work is extended to the case of
-    a plasma scattering the spherical waves radiating from an
-    electric dipole

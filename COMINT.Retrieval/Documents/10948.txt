@@ -1,5 +1,0 @@
-analysis of quality factor of annular core inductors a
-    summary of formulae used to determine factor is supplemented
-    with a discussion of optimum design procedures in particular
-    eddy currents and dielectric losses and the effects of
-    distributed capacitance are considered

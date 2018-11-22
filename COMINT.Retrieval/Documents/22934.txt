@@ -1,5 +1,0 @@
-switching processes in dc circuits with nonlinear
-    resistance and nonlinear inductance normalized differential
-    equations are derived for the analysis of switching processes
-    involving nonlinear resistances with semiconductor or valve
-    type characteristics

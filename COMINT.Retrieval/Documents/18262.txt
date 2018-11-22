@@ -1,5 +1,0 @@
-revised data for the mean sunspot curve when the data for
-    the present nearly concluded year cycle are included with those
-    for the seventeen preceding cycles the mean curve exhibits a
-    slightly steeper rise and a slightly shallower fall thus
-    increasing its asymmetry

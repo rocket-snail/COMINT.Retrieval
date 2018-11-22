@@ -1,7 +1,0 @@
-the ionic conductivity of dilute potassium chloride
-    solutions at centimetric wavelengths measurements on solutions
-    in the concentration range normal at a frequency of indicate
-    the existence of a strong dispersion region at concentrations
-    below normal which may be explained in terms of the
-    perturbations by the applied field of a shell of water
-    molecules surrounding the ion at a mean distance of

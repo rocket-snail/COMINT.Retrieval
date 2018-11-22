@@ -1,3 +1,0 @@
-concertina phase splitter the performance of the circuit
-    is analysed with particular regard to the frequency range of
-    operation

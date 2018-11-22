@@ -1,2 +1,0 @@
-a new magnetic controlled rectifier power amplifier with
-    a saturable reactor controlling on time

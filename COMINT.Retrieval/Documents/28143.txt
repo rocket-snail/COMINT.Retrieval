@@ -1,5 +1,0 @@
-transient behaviour of the ohmic contact the behaviour of
-    ohmic injecting contacts is analysed for transient currents at
-    a fixed voltage these occur when the free carrier density in
-    the solid is changed by some exciting agent as in
-    photoconductivity or bombardment induced conductivity

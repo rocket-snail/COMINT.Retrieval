@@ -1,5 +1,0 @@
-general survey of the operating principles of electrical
-    analogue computers a survey with particular reference to
-    computers constructed by the societe d electronique et d
-    automatisme difficulties encountered in studying the accuracy
-    of these machines are discussed

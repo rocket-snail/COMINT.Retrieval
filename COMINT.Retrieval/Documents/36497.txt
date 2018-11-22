@@ -1,5 +1,0 @@
-accurate determination of the capacitance of rectangular
-    parallel plate capacitors the subarea method is recast and
-    applied to derive a universal curve for a square plate
-    capacitor values calculated by other methods are
-    compared

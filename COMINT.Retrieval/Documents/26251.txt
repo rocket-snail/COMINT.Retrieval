@@ -1,3 +1,0 @@
-some results of direct probing in the ionosphere results
-    of electron density measurements at two frequencies using two
-    different rf impedance probe techniques are given

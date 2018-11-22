@@ -1,6 +1,0 @@
-the problem of diffraction of electromagnetic waves at a
-    perfectly conducting plane ring theoretical treatment of the
-    diffraction of plane em waves assuming a ring of internal
-    radius and width much greater than the wavelength integral
-    equations for the shadow currents are given from which the
-    total current flowing in the screen is determined

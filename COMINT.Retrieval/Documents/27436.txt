@@ -1,3 +1,0 @@
-ultralinear cathode follower six valves are use in a
-    white follower circuit to give unity gain an output impedance
-    of and intermodulation distortion

@@ -1,9 +1,0 @@
-an integral equation governing electromagnetic waves the
-    problem discussed is that of determining the solution of the
-    helmholtz equation for the region outside a simple closed curve
-    boundary at which values of u or its normal derivatives are
-    prescribed by introducing a suitable parameter constructed by
-    conformal mapping the problem is reduced to a new fredholm
-    integral equation whose solution is independent of conditions
-    inside the boundary scattering cross section is
-    discussed

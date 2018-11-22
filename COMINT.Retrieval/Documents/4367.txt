@@ -1,3 +1,0 @@
-the compensation of wide band amplifiers at high
-    frequencies analysis is given for various coupling arrangements
-    including and special two and four terminal networks

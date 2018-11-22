@@ -1,5 +1,0 @@
-the noise temperature of a plasma using a current source
-    method an expression for noise temperature is derived identical
-    with that for plasma radiation temperature derived by bekefi et
-    al but valid under more general assumptions the application of
-    the expression is not confined to transparent plasmas

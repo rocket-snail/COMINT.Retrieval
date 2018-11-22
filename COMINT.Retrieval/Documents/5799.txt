@@ -1,6 +1,0 @@
-magnetic control of the variations of the critical
-    frequency of the f layer of the ionosphere the true magnetic
-    latitude reference is shown to give more satisfactory results
-    than the idealized geomagnetic latitude reference when
-    considering diurnal and latitudinal variations of f at low
-    latitudes

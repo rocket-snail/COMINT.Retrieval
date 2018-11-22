@@ -1,7 +1,0 @@
-pseudo rectification and detection by simple e bilateral
-    nonlinear resistors an analysis of ac dc converting circuits
-    using symmetrical nonlinear resistors the operation of which
-    may be largely independent of temperature two applications are
-    described for developing the hv focusing potential bias for a
-    picture tube and for improving the detection threshold of a
-    photoelectric sensing device

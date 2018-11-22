@@ -1,8 +1,0 @@
-multistage amplifier output impedance based on the result
-    that the ratio of the net amplification to the parallel output
-    impedance of a simple amplifier is the same with and without
-    voltage feedback a simple expression is obtained relating the
-    parallel output impedance to the amplifier constants for the
-    multistage amplifier with overall feedback the design of an
-    amplifier with a gain of and a parallel output impedance of is
-    discussed briefly

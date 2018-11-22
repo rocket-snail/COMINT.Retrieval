@@ -1,7 +1,0 @@
-whats' new in word/text processing. the technologies of
-    data, word, and text processing are merging and this
-    development will eventually lead to the fully integrated
-    office. complete integration should bring about considerable
-    improvement in efficiency and a reduction in cost of office
-    personnel. provides an overview of the latest developments
-    designed for the integrated office of the future.

@@ -1,6 +1,0 @@
-properties of the upper atmosphere and their relation to
-    the radiation belts of the earth a new theory is outlined which
-    gives the distribution of density with altitude for a planetary
-    exosphere in the absence of thermodynamic equilibrium the
-    results differ considerably from those based on a hydrostatic
-    equation

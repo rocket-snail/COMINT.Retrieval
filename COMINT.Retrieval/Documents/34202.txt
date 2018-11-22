@@ -1,6 +1,0 @@
-transistor cascode circuit improves automatic gain
-    control in amplifiers an improved method with circuit details
-    for applying agc to transistor if tuned amplifiers is described
-    the effects of changes in the transistor parameters with change
-    of operating point on the q factor and the centre frequency of
-    the tuned circuits are minimized

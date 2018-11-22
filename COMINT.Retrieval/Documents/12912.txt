@@ -1,9 +1,0 @@
-formulae for ladder filters four related sets of explicit
-    formulae for the elements of a basic low pass filter network
-    are presented with a common notation three of the sets have
-    been published previously of norton of of belevitch the fourth
-    being new all have reference to the image parameter theory due
-    to norton and darlington of if corresponding formulae could be
-    found for a general type of filter with response depending on
-    jacobian sn elliptic functions they would represent a
-    considerable contribution to filter design technique

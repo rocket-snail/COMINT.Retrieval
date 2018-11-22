@@ -1,5 +1,0 @@
-novel valve circuits a review of valve circuits operated
-    under unusual conditions in respect of bias anode and screen
-    voltages and of input and coupling arrangements as in pulse
-    squaring and gating circuits and electrometer
-    applications

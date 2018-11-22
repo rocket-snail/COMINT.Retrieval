@@ -1,4 +1,0 @@
-the distribution of meteor masses for sporadic meteors
-    and three showers distributions of maximum line densities in
-    meteor trails are derived from radio echo data for sporadic and
-    shower meteors

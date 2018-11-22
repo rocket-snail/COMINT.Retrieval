@@ -1,6 +1,0 @@
-various ways of using cavity resonators in paramagnetic
-    resonance note on operating conditions for greatest sensitivity
-    in signal detection the cavity resonator not being matched to
-    the guide cases considered are oscillator tuned to cavity
-    resonance frequency ratio of reflected to incident power and
-    oscillator frequency varying around resonance frequency

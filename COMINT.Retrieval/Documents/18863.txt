@@ -1,8 +1,0 @@
-word processing' an introduction and appraisal.
-    identifies and describes the facilities available for
-    mechanising and automating library and information services
-    using word processing systems-text storage and searching, order
-    processing and budget control, preparation of catalogues,
-    circulation control, periodicals control and circulation,
-    information storage and retrieval system use, and possible
-    future uses.

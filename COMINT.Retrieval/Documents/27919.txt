@@ -1,6 +1,0 @@
-digital analogue converter provides storage a
-    transistorized converter changes eight binary bits received in
-    parallel from a shift register to steps in amplitude of a sine
-    wave one binary bit is used to obtain phase information
-    operation operation is performed within a sampling period
-    occurring at an average rate of

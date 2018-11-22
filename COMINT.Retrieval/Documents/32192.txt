@@ -1,7 +1,0 @@
-oclc's role in the conser project. the conser project was
-    established by the council on library resources, inc., to
-    develop a high quality data base of serial cataloguing
-    information. oclc hosts the bibliographic data base and is
-    responsible for the day-to-day administration of the project.
-    the oclc on-line union catalog is the result of cooperation
-    between libraries and the conser project.

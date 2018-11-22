@@ -1,6 +1,0 @@
-experimental verification of the wave mechanical theory
-    of field electron emission methods described br are used to
-    calculate the current density and field strength at a tungsten
-    point and hence to estimate the accuracy of results obtained
-    previously consideration is extended to the case when the
-    tungsten is coated with foreign atoms

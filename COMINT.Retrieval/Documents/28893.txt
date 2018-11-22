@@ -1,7 +1,0 @@
-on subharmonic synchronization of nearly linear systems
-    analysis is presented for a slightly nonlinear oscillator
-    driven at a frequency near a multi le of its natural frequency
-    the system corresponding to the equation where the forcing term
-    is of the order of unity conditions for obtaining a response at
-    angular frequency are investigated by expanding y in a series
-    in

@@ -1,8 +1,0 @@
-resonant cavity measurements of the relative permittivity
-    of a d c discharge measurements at and on low pressure d c
-    discharges in a mixture of hg vapour alone decrease of
-    permittivity with increase of discharge current was noted in
-    all cases in case the cavity q factor exhibited a minimum at a
-    value of discharge current depending on the resonance frequency
-    this is attributed to electron resonance theory of the method
-    is given

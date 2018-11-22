@@ -1,8 +1,0 @@
-integro differential equations and babinets principle for
-    plane screens with directional conductivity analysis is
-    presented for diffraction by screens formed of parallel
-    conducting wires four cases are distinguished a finite parallel
-    wire screen alone nondirectionally conducting screen surrounded
-    by an infinite parallel wire screen cases and are complementary
-    in the sense of babinets principle so also are cases and there
-    is no special relation between cases and or and

@@ -1,5 +1,0 @@
-lunar occultation of a radio source by observation of the
-    times of disappearance and reappearance of a radio star behind
-    the moon the position of the source can be obtained with great
-    accuracy taking into account all sources of error the estimated
-    position is probably correct to within of arc

@@ -1,8 +1,0 @@
-interpretation of cosmic noise measurements at from
-    satellite and the analysis given is based on the assumption
-    that observed variations in signal strength were due to three
-    causes variation of radiation resistance o the aerial with the
-    dielectric constant of the surrounding ionosphere restriction
-    of the angular aperture at the aerial due to ionospheric
-    refraction and polarization and variation of cosmic noise power
-    over the sky

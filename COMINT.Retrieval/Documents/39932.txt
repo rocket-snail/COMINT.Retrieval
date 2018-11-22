@@ -1,5 +1,0 @@
-an extremely wide a band tunable s band parametric
-    amplifier the range covered is by mechanically tuning the pump
-    circuit and shifting the frequency of the pump source by the
-    latter means alone the amplifier can be tuned over a
-    band

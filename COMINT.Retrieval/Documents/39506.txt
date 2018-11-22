@@ -1,4 +1,0 @@
-latitude and altitude distribution of geomagnetically
-    trapped protons a theory is derived for a geometrical injection
-    coefficient of trapped protrons of cosmic ray origin calculated
-    distributions resemble contours obtained experimentally

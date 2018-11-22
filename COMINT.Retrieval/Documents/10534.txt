@@ -1,2 +1,0 @@
-servomechanism transient performance from decibel log
-    frequency plots discussion

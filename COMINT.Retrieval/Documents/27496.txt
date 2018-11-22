@@ -1,5 +1,0 @@
-one design method of band pass filter for vhf design
-    formulae for band pass filters constructed of two wire and
-    coaxial cables are derived and numerical examples are given the
-    theoretical and experimental results are in fair
-    agreement

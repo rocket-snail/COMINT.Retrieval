@@ -1,5 +1,0 @@
-bridge stabilized ultrasonic oscillator good frequency
-    stability and low harmonic distortion are obtained by arranging
-    a wienbridge rc oscillator so that no arm of the bridge is
-    hunted by a low impedance an oscillator with five overlapping
-    ranges covering is described

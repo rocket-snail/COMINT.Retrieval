@@ -1,8 +1,0 @@
-the design of a practical dc amplifier based on the
-    second harmonic type of magnetic modulator discussion
-    description of the development of an amplifier based on the
-    work of williams and noble of including details of a oscillator
-    with second harmonic distortion a low pass filter to prevent
-    power from the oscillator reaching the dc source a phase
-    sensitive rectifier switching and overall dc negative feedback
-    arrangements

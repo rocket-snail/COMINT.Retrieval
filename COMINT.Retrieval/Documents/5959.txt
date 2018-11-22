@@ -1,6 +1,0 @@
-fluid self excited dynamo the possibility that a simply
-    connected perfectly conducting fluid body could generate an
-    increasing external magnetic field by acting as a self excited
-    dynamo is demonstrated by exhibiting a cycle of motions that
-    doubled the external field each cycle the essential feature of
-    the motion is that interior points become surface points

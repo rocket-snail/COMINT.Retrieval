@@ -1,5 +1,0 @@
-occurrence of vavilov cerenkov radiation in a high
-    temperature plasma analytical results indicate that radiation
-    is not emitted by a particle moving through a high temperature
-    plasma at a velocity lower than the mean thermal velocity of
-    plasma electrons

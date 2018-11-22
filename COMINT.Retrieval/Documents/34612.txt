@@ -1,6 +1,0 @@
-computer program for management of a bibliographic data
-    base. the computerised bibliography allows the indexing and
-    retrieval of scientific research papers, for intense short-term
-    efforts through the use of a large mainframe in the batch mode.
-    criteria are entered through keypunched cards and the computer
-    produces the requested subsets.

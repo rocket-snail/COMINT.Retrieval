@@ -1,4 +1,0 @@
-servomechanisms a survey design techniques discussed
-    include frequency and time analysis and statistical methods an
-    indication is given of problems not yet solved
-    references

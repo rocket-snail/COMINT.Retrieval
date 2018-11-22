@@ -1,8 +1,0 @@
-the problem of the optical constants of conductors a
-    mathematical analysis showing that the optical constants of an
-    isotropic conductor comprise in addition to the index of
-    refraction and of the absorption coefficient two real
-    quantities corresponding to a complex boundary impedance the
-    real part of this boundary impedance represents the surface
-    losses in the conductor and the imaginary part of the
-    dielectric constant the volume losses

@@ -1,4 +1,0 @@
-mechanical damping due to magnetic processes the causes
-    of magnetic damping are analysed with reference to theoretical
-    and experimental investigations by various authors the
-    technical implications of these effects are discussed

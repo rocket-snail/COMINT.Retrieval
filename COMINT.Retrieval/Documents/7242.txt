@@ -1,5 +1,0 @@
-punched card calculating machines as aids in the
-    calculation of filters the use of commercial type punched card
-    calculators for solving numerical problems involved in
-    insertion loss filter theory is discussed and
-    illustrated

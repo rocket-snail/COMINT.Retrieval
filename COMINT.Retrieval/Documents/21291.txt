@@ -1,5 +1,0 @@
-the low frequency scattering by a perfectly conducting
-    strip previous approximate solutions have not been satisfactory
-    as no expansion parameter suitable for all terms has been found
-    results of an analysis suitable for thin cylinders and
-    arbitrary angles of incidence are given

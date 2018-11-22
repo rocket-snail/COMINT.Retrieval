@@ -1,3 +1,0 @@
-least squares fit by orthogonal polynomials (algorithm 28
-    [e2]) may, 1967 makinson, g. j. ca670506c jb march 23, 1978
-    4:02 pm

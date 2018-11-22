@@ -1,4 +1,0 @@
-equivalent circuits using negative two pole elements
-    calculations for three pole and multipole networks are
-    simplified by substitution of equivalents some of which have
-    negative values

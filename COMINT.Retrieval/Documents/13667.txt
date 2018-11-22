@@ -1,5 +1,0 @@
-controlled transductors analysis of the behaviour of the
-    single core auto self excited transductor is made for the
-    condition when the control circuit has finite resistance
-    control of full wave transductors and some push pull circuits
-    with half wave and full wave outputs are referred to

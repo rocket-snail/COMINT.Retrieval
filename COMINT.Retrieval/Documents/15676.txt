@@ -1,8 +1,0 @@
-initial conditions in transient analysis in a paper on
-    network theory of lee and macdonald indicated the equivalence
-    of a charged capacitor and the series combination of an
-    uncharged capacitor and a battery extension of this idea to
-    consideration of inductors leads to a simple method of
-    analysing initial conditions the method is elucidated by two
-    theorems and examples the laplace transform treatment is
-    used

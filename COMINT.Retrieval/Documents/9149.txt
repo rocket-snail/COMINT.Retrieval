@@ -1,4 +1,0 @@
-the matrix approach to filters and transmission lines use
-    of matrices provides a direct and flexible method of treatment
-    a simple graphical procedure is indicated for investigating
-    filter characteristics

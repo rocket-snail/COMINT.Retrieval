@@ -1,8 +1,0 @@
-electron emission from metal surfaces after mechanical
-    working measurements were made on various metals in gas at a
-    pressure of about torr using an electron multiplier the
-    surfaces were abraded with a steel brush within the vessel
-    emission time curves are shown for pb ca al and na the activity
-    of the elements is correlated with their position in the
-    periodic system oxidation may be the cause of the emission but
-    no explanation of the mechanism is yet available

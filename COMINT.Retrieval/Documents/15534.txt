@@ -1,7 +1,0 @@
-thermoelectric phenomena in strong magnetic fields in
-    metals possessing various mermi surfaces the asymptotic
-    variation of the thermoelectric force peltier and thomson
-    coefficients for metals with closed fermi surfaces and open
-    surfaces of the corrugated cylinder and space net types is
-    investigated on the basis of the quasiclassical theory of
-    kinetic phenomena

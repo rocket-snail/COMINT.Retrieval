@@ -1,8 +1,0 @@
-transmission of electromagnetic waves through pairs of
-    parallel wire grids an analytical solution is obtained for the
-    power transmission coefficient of a double grid system
-    transmission coefficients are plotted as functions of the
-    integrid spacing for different wire spacing and angles of tilt
-    the curves are compared with those obtained by measurement at
-    cm using wire of radius cm agreement is good until the wire
-    spacing approaches reasons for this divergence are noted

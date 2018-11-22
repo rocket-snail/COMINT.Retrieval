@@ -1,7 +1,0 @@
-a case study in automated acquisitions' northwestern
-    university library. describes the acquisitions subsystems of
-    notis (northwestern on-line totally integrated system) with
-    emphasis on some of the factors that should be considered by
-    any library planning to automate acquisitions. the history and
-    development of the system and some of the problems encountered
-    are also noted.

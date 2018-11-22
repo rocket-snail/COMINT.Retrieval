@@ -1,6 +1,0 @@
-the design and operation of transistor converters
-    circuits are discussed in which a junction transistor is made
-    to oscillate and thus to chop the current from a battery the
-    chopped current is fed to a transformer or ringing choke and
-    the stepped up voltage output is rectified and smoothed design
-    procedures are described in detail see also of

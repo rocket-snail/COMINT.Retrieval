@@ -1,4 +1,0 @@
-oscillator systems including elements having inertia
-    analysis is given for oscillator circuits both with and without
-    valves including elements whost resistance varies with
-    temperature

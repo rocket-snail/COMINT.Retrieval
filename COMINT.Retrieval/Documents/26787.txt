@@ -1,4 +1,0 @@
-network synthesis with negative resistors the theory is
-    presented of the incorporation of the negative resistor as a
-    basic circuit element in problems of linear network analysis
-    and synthesis nine circuit theorems are given

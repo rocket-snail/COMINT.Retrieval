@@ -1,6 +1,0 @@
-a high speed binary counter based on frequency script
-    techniques an extension of previous experimental investigations
-    into bistable oscillators fast counting circuits using eit
-    tubes a theoretical investigation into the use of type eit
-    counter tubes at pulse repetition frequencies up together with
-    a practical design of circuit

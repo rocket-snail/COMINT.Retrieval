@@ -1,4 +1,0 @@
-asymptotic expansions of solutions of the equation
-    investigated is important in the theories of wave propagation a
-    direct method is developed for obtaining more general
-    asymptotic expansions than those given previously

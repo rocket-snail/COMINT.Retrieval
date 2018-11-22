@@ -1,9 +1,0 @@
-some reflections on citation habits in psychology.
-    citations appearing in the pages of a single journal, journal
-    of educational psychology, were counted for the years
-    1960-1979. the results were compared with those found by using
-    networks of journals and with the number of abstracts published
-    by psychological abstracts during the same period. in both
-    cases the results tend to show that the relationship between
-    citation habits and the volume of literature available for
-    citing is not very close.

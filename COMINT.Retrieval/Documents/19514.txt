@@ -1,6 +1,0 @@
-parallel four terminal networks a simple relation exists
-    between the output input voltage ratio for any number of four
-    terminal networks in parallel and their parameters of output
-    admittance and short circuit transfer admittance the relation
-    enables the voltage ratio to be stated without solving the
-    networks

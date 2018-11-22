@@ -1,5 +1,0 @@
-the smoothing of non formulated experimental laws by an
-    averaging operation involving no spurious deviations a section
-    of an experimental curve comprising points is assimilated to a
-    second degree polynomial and the required ordinates are hence
-    calculated without introducing spurious undulations

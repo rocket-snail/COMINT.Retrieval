@@ -1,4 +1,0 @@
-swept langmuir probe system for intense gas discharges
-    apparatus including a low impedance voltage sweep generator and
-    a logarithmic amplifier is described for measurement of
-    electron temperatures up to and ion densities up to

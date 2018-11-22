@@ -1,8 +1,0 @@
-analysis of the dc characteristic of selenium rectifiers
-    the method of analysis given permits the separation of the
-    various physical phenomena in the rectification process an
-    empirical equation for a limited section of the rectifier
-    characteristic is derived the reduction of the slopof the
-    logarithmic characteristic relative to the theoretical value is
-    attributed to the effect of the contact of se with the n type
-    intermediate layer of and

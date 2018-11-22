@@ -1,7 +1,0 @@
-the physical interpretation of the self acceleration of
-    electrons the forces governing the motion of electrons are most
-    easily understood if the point electron is considered as the
-    limiting case of the finite size electron for self acceleration
-    to occur it is not essential that the field energy be infinite
-    but it is important that the mechanical mass of the electron by
-    negative

@@ -1,5 +1,0 @@
-current integration with solion liquid diodes the
-    construction and characteristics of electrochemical diodes
-    using iodine potassium iodide solution are described see of
-    these can be used as electrical current integrators and flow or
-    pressure detectors

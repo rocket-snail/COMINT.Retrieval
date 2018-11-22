@@ -1,4 +1,0 @@
-the stabilization of control systems with backlash using
-    a high frequency on off loop an auxiliary loop is used to drive
-    the motor across backlash in the gear whenever the motor and
-    load tend to separate

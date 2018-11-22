@@ -1,5 +1,0 @@
-possible methods of obtaining active molecules for the
-    molecular generator the use is suggested of an auxiliary field
-    to produce resonance transitions between the energy levels in
-    the molecules such as to increase the fraction of active
-    molecules in the beam

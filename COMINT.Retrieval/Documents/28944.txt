@@ -1,9 +1,0 @@
-study and evaluation of the microphony due to vibration
-    of the plates of a variable capacitor capacitance variations
-    due to vibrations are investigated by observing the results
-    distortion the latter being evaluated from the ratio between
-    the third harmonic and the fundamental when a signal of
-    amplitude about is applied this ratio is expressed as a
-    function of the q of the measuring circuit details of which
-    have been given previously of and the effect of variations of
-    supply voltage is shown in curves

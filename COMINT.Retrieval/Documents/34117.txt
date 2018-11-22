@@ -1,8 +1,0 @@
-interferometer using two aerials with variable spacing at
-    the nancay radio astronomy station radiation it received by two
-    parabolic reflectors which can be moved along a track a signal
-    from a common lacal oscillator is transmitted by coaxial cables
-    to the aerial sites multiplied and mixed with the received
-    signals resulting signals are conveyed via the same caeles to a
-    correlator detector results obtained with the apparatus are
-    shown

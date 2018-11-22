@@ -1,7 +1,0 @@
-monovibrator has fast recovery time use of complementary
-    transistors decreases recovery time of monostable multivibrator
-    this prevents erratic operation when circuit is used in a
-    television sync generator since both transistors are off during
-    timing cycle circuit is relatively insensitive to transistor
-    variations and operates reliably from to for input frequencies
-    from to

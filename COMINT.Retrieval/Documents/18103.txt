@@ -1,7 +1,0 @@
-distributed amplifier theory matrix algebra is used to
-    analyse operating conditions in the anode line the manner in
-    which the amplifier gain depends on grid and anode line
-    terminations and propagation constants number of valves and
-    grid driving voltage is indicated experimental results obtained
-    with a six valve amplifier provide general confirmation for the
-    theory

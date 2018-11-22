@@ -1,4 +1,0 @@
-transformer design for zero impedance amplifiers
-    lamination weight reductions of up to may be obtained without
-    increased distortion in a transformer designed for an zero
-    impedance output stage design formulae are given

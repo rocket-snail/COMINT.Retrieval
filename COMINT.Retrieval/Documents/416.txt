@@ -1,5 +1,0 @@
-word generator for digital testing a beam switching tube
-    supplies arbitrary nine bit words at pulse rates from a few to
-    for testing and evaluating digita systems pulse shape can be
-    varied from spike to square wave by changing plug in
-    capacitors

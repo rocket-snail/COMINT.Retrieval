@@ -1,8 +1,0 @@
-evaluation of the effectiveness of automated information
-    systems in libraries. considers criteria for the evaluation of
-    the effectiveness of automated information systems in
-    libraries, and proceeds to investigate in detail the selection
-    effectiveness of the system, i.e. the relevance of its output,
-    its information effectiveness, and the quality, scope and form
-    of inputs as well as the quality of the information content of
-    documents retrieved.

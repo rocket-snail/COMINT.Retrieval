@@ -1,4 +1,0 @@
-an electromagnetic clutch for high accelerations
-    unidirectional and bidirectional models are discussed of a
-    clutch with many possible applications in the digital computer
-    field

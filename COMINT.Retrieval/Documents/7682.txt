@@ -1,9 +1,0 @@
-oclc serials advisory committee meetings. in 1980, oclc
-    reactivated its serials advisory committee, after a 3-year
-    hiatus. the group of about 20 members representing networks
-    from across the usa met 3 times in 7 months. all indications
-    are that oclc intends to improve the serials control subsystem
-    and make it a viable option to other methods of serials
-    management. discusses developments in the subsystem such as 2
-    new variable fields in the local data record-the summary copy
-    holdings and summary institutions holdings.

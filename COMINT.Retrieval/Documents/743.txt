@@ -1,9 +1,0 @@
-the behaviour of metallic contacts at low voltages in
-    adverse environments the problem discussed is that of obtaining
-    a metal to metzl contact mechanically when the contacts are
-    contaminated by dust or grease or are coated with films
-    produced by absorption tarnishing or corrosion various types of
-    contact are considered principles are outlined which provide a
-    basis for design and testing a new technique is described for
-    the continuous dry lubrication of sliding contacts in
-    mechanical and electrical systems

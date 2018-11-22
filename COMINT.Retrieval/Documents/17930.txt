@@ -1,4 +1,0 @@
-three branch reactive sections for ladder filters with
-    one or two cut off frequencies a graphical method is proposed
-    for the synthesis of three branch networks consisting of
-    reactances which have no mutual inductive coupling

@@ -1,5 +1,0 @@
-photoelectronic circuit applications the characteristics
-    of switching circuits using combinations of electroluminescent
-    cells and photoconductors are discussed applications are
-    described in computer operations where the highest speed is not
-    essential

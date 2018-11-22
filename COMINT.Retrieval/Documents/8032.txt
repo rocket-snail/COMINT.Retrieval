@@ -1,5 +1,0 @@
-the perfectly conducting ring subjected to high frequency
-    currents and magnetic fields detailed analysis of the
-    interaction of current and field for a ring of circular cross
-    section with current flowing in a conductor along its axis
-    carryii g a c

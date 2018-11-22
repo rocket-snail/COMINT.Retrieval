@@ -1,3 +1,0 @@
-calculation of contact potentials a formula is derived
-    for the contact potential between two metals from consideration
-    of ermi energy levels and surface thermal electron flux

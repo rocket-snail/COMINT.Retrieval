@@ -1,7 +1,0 @@
-on asynchronous action an analysis is made of quenching
-    and excitation of oscillations by an external oscillation of
-    unrelated frequency the excitation depends only on the transfer
-    of the position of equilibrium across the bifurcation point in
-    the stability diagram and is hence observed only in hard
-    systems whereas quenching can occur in hard and in soft
-    systems

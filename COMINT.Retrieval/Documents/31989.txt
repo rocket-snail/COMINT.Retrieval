@@ -1,5 +1,0 @@
-theory of auroral bombardment the theory covers the drift
-    motions of particles in a dipole field perturbations of the
-    pitch angles produced by local magnetic and electric fields the
-    growth of electrostatic potential and perturbations of drift
-    motions by magnetic disturbances and electric fields

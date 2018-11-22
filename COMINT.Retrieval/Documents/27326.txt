@@ -1,3 +1,0 @@
-noise performance theory of esaki tunnel diode amplifiers
-    theory indicates that low noise figures can be achieved only
-    with some sacrifice in gain stability or bandwidth

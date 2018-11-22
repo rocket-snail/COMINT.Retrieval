@@ -1,6 +1,0 @@
-design of symmetrical bridge type electrical filters by
-    the operating parameter theory design formulae are developed
-    and tabulated for symmetrical low pass filters of degrees and
-    for attenuation characteristics with given zeros and poles a
-    review of the theoretical foundations is based on work by cauer
-    of and by darlington of

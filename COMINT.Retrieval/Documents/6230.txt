@@ -1,9 +1,0 @@
-a new ionosphere sounder frequency sweep apparatus
-    covering the range is described the aerial circuit is
-    eliminated the high impedance rhombic aerial being directly
-    matched to the power valves the frequency range is covered in
-    the other circuits in two wavebands each with a ratio quick
-    waveband changing is achieved by means of carbon brushes
-    rotating with the variable capacitors the transmitter and
-    receiver have a common oscillator the power supply arrangements
-    are particularly described the unit is of small size

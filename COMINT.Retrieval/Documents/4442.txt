@@ -1,9 +1,0 @@
-an approximate method for obtaining transient response
-    from frequency response a rapid method for finding the
-    transient response of a linear system whose frequency response
-    is known numerically but not as an analytical function involves
-    use of a specially constructed transparent cursor the technique
-    can also be used to deal with the inverse problem or to derive
-    a analytical function representing the behaviour of a system of
-    which either the frequency response or the transient response
-    has been measured

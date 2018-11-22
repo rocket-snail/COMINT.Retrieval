@@ -1,7 +1,0 @@
-electrical breakdown at very low gas pressures a
-    discussion in terms of atomic collision data of problems
-    involved in the interpretation of an observed anomaly in the
-    variation of breakdown strength with pressure and in the
-    estimation of the pressure at which breakdown would occur if it
-    were due solely to ionizing collisions in the body of the
-    gas

@@ -1,5 +1,0 @@
-amplitude scintillation of extraterrestrial radio waves
-    at ultra high frequency measurements are described which show
-    that at latitude ionospheric scintillation effects are still
-    significant at when the radio star is near the northern
-    horizon

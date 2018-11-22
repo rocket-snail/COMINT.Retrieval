@@ -1,5 +1,0 @@
-tantalum electrolytic capacitors a general review of
-    types of electrolytic capacitors and problems of design
-    manufacture and testing of ta types data are presented for
-    three csf capacitors having volumes of and cm with average
-    capacitances of and respectively at operation

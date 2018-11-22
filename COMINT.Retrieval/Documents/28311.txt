@@ -1,6 +1,0 @@
-the logical design of a simple general purpose computer
-    the logical design described here is used in minac partially
-    constructed at the california institute of technology and lgp
-    manufactured by librascope inc these serial binary digital
-    computers make use of magnetic drum bulk storage and use three
-    circulating registers and fifteen flip flops

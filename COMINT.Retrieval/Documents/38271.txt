@@ -1,6 +1,0 @@
-an electronic generator for functions of two independent
-    variables a unit built at the chalmers university of technology
-    is described the function is recorded on a photographic plate
-    in the form of variable width columns these are scanned by a
-    tube the output is either in the form of width modulated pulses
-    or in the form of a voltage proportional to the function

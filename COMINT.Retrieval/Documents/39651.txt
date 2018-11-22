@@ -1,5 +1,0 @@
-pulsed analogue computer for simulation of aircraft a
-    description is given of the logical design of a computer for
-    solving the nonlinear differential equations encountered in the
-    simulation of aircraft performance under various flight
-    conditions

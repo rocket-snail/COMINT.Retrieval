@@ -1,7 +1,0 @@
-charge and magnetic field interaction with satellites
-    when satellite motion is parallel to a magnetic field the
-    satellite will become negatively charged to a potential for
-    motion perpendicular to the field this will be modified by an
-    induced e m f which may be as large as per metre of satellite
-    length the drag caused by induced currents is found to be
-    negligible except for very large satellites

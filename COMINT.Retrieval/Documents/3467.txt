@@ -1,8 +1,0 @@
-the effects of terminations and dissipation on the
-    insertion loss of some simple ladder filters by using special
-    terminations the selectivity of these filters can be improved
-    and elements with relatively low values of q can be used
-    insertion loss curves indicating the combined effects of the
-    terminations and of dissipation in the filter elements are
-    presented in a form applicable to low pass high pass and band
-    pass filters of several types

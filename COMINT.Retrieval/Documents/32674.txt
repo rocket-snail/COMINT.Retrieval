@@ -1,5 +1,0 @@
-on the scattering of spherical waves by a cylindrical
-    object analysis indicates that the ratio of the amplitude of
-    the scattered field for a spherical incident wave to that for a
-    plane wave is equal to where is the distance of the source and
-    that of the observer from the cylinder axis

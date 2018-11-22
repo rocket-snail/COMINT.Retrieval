@@ -1,5 +1,0 @@
-influence of hall effect on the induced current in the
-    earth owing to magnetic disturbances earlier theory of the
-    origin of geomagnetism is modified by allowing for hall effect
-    which accelerates the build up of induced currents in the
-    earths crust

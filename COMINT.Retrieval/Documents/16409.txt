@@ -1,4 +1,0 @@
-some mechanisms of failure of capacitors with mica
-    dielectrics an analysis of failures with a description of some
-    methods of examination and dissection giving minimum loss of
-    evidence

@@ -1,7 +1,0 @@
-a theory of radar reflection from the moon and planets
-    relations between the surface statistics of an irregular radar
-    target and the angular power spectrum and autocorrelation
-    function of the reflected signal are derived the spatial
-    correlation function is also computed the theory is used to
-    investigate the small scale structure of the moons
-    surface

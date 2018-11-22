@@ -1,3 +1,0 @@
-linear pulse forming circuits synthesis of delay line
-    networks description of synthesis procedure for delay systems
-    used in processing continuous trace radar information

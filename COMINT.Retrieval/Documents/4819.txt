@@ -1,5 +1,0 @@
-radiation from a current carrying ring which moves
-    uniformly in a plasma located in a magnetic field estimation of
-    losses due to vavilov cherenkov radiation for a current
-    carrying ring which moves uniformly in a plasma perpendicular
-    to its plane and parallel to an external magnetic field

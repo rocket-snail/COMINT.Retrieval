@@ -1,6 +1,0 @@
-methods of improving the stability in devices based on
-    the hall effect the investigation shows that the main reasons
-    for the temperature instability in these devices are the
-    inhomogeneity of the crystal lattices of the sample the
-    rectification and the insufficient equipotentiality of the hall
-    contacts

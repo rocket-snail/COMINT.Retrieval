@@ -1,7 +1,0 @@
-using i&r data for planning: the process, problems,
-    and potentials. outlines steps leading to the development of a
-    computerised community data system based on the collection and
-    distribution of' (1) resource data; and (2) client
-    demographics, needs and unmet needs, information secured
-    through an information and referral network, and provided to
-    agencies, funders and planners.

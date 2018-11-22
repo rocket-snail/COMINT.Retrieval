@@ -1,5 +1,0 @@
-formulas for computing capacitance and inductance a
-    collection of explicit formulae in terms of elementary
-    functions legendre polynomials and functions and elliptic
-    functions formulae for mutual inductance and for the forces
-    acting between current carrying coils are also given

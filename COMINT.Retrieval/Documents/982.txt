@@ -1,4 +1,0 @@
-proposed method for tuning a maser cavity a method is
-    described for determining the small difference between the
-    cavity resonance frequency and the frequency of the microwave
-    spectral line

@@ -1,6 +1,0 @@
-automated text editing. 1964-may 1981 (citations from the
-    ntis data base). this bibliography of federally-funded research
-    presents citations covering automatic text editing and
-    composing. programming techniques are covered for applications
-    such as report, index, and table generation, as well as list
-    processing.

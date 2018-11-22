@@ -1,7 +1,0 @@
-a ten kilowatt low pass filter the filter is designed for
-    use in the aerial feed lines of transmitters working in the
-    frequency range and discriminates by about against any
-    frequencies in the television band which may be present as
-    harmonics in measuring the effectiveness of the filter account
-    must be taken of radiation from sources other than the
-    aerial

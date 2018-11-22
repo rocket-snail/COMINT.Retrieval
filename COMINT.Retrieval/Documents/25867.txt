@@ -1,5 +1,0 @@
-analysis of a semiconductor multivibrator with emitter
-    capacitance an analysis of an emitter coupled transistor
-    multivibrator showing the effect of emitter capacitance in
-    increasing the thermal stability of the pulse duration
-    parameters

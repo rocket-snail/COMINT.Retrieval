@@ -1,6 +1,0 @@
-an expert system as an online search intermediary.
-    examines the application of artificial intelligence to on-line
-    search systems by the development of expert systems which can
-    be interposed between the user and the search system. the
-    expert system would serve as an alternative to a human
-    intermediary.

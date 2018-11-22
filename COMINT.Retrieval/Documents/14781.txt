@@ -1,4 +1,0 @@
-semiconductor solar energy converters a concise review of
-    the physical fundamentals includes brief discussions of radiant
-    energy absorption in semiconductors the effect of junctions and
-    the energy conversion efficiency

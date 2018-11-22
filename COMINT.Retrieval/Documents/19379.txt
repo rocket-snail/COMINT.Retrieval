@@ -1,5 +1,0 @@
-recombination in the upper ionosphere at sunrise and
-    before noon the loss of electrons in the f layer will occur as
-    a result of dissociative recombination of the recombination
-    coefficient will increase linearly with temperature and the
-    rate of production of electrons will be proportional

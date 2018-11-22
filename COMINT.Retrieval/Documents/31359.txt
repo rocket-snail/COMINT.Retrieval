@@ -1,8 +1,0 @@
-determination of the location of the ionospheric current
-    system responsible for geomagnetic effects of solar flares the
-    height of the flare current system is calculated by a method
-    depending on the time of maximum intensity of a geomagnetic
-    flare effect and the enhancement of electron density at the
-    relevant level if the flare current system forms part of the
-    current system its height is but if it is independent its
-    height is about km

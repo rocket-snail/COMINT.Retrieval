@@ -1,5 +1,0 @@
-the construction and operation of the manchester
-    university computer the account particularly stresses
-    techniques used to achieve reliability and ease of maintenance
-    and includes details of the performance over a period of about
-    weeks see also above

@@ -1,4 +1,0 @@
-proposals for the statistical treatment of geomagnetic
-    micropulsations a system of classification is suggested in
-    which the magnitude duration and regularity of the pulsation
-    trains are assessed semi quantitatively

@@ -1,4 +1,0 @@
-representation of experimental results by equations new
-    useful formulae methods are outlined for determining the
-    coefficients of equations fitting a series of observed values
-    weighted or not weighted

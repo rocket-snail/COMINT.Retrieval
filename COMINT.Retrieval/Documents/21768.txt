@@ -1,5 +1,0 @@
-scattering of microwave radiation by a plasma column
-    experiments conducted by to determine the angular distribution
-    of the em radiation scattered by the positive column of a
-    mercury discharge under resonant conditions are described
-    results support the theory of mackinson and slade

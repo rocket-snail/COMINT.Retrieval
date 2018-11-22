@@ -1,4 +1,0 @@
-a tunable maser amplifier with large bandwidth the
-    bandwidth is at gain with a bath temperature of k the centre
-    frequency is tunable in the range operation depends on a phonon
-    saturation mechanism in a ruby crystal

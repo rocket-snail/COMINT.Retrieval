@@ -1,6 +1,0 @@
-the forward characteristic of the diode theory for the
-    diffused junction diode indicates thet the forward
-    characteristic should be similar to that of the simple diode
-    until the current density approaches lnoma ies in the
-    characteristic at low current densities are unrelated to the
-    presence of the weakly middle region

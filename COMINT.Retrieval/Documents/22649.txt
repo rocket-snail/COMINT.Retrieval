@@ -1,5 +1,0 @@
-study of horizontal drifts in the e region of waltair
-    results obtained over a period including the steady hr and hr
-    components found by harmonic analysis are presented other drift
-    results an the e region drifts deduced from variations are
-    quoted for comparison

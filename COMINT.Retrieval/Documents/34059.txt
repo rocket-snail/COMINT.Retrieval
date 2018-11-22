@@ -1,6 +1,0 @@
-a model of the f region above h f the electron density
-    distribution above the f layer maximum is approximated using a
-    chapman distribution the scale height has been chosen to agree
-    with the sparse data available for this region this
-    approximation has been used to extrapolate vertical incidence
-    ionospheric data for a chain of observatories

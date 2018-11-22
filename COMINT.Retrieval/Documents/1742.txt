@@ -1,6 +1,0 @@
-cross relaxation masers the ways in which ruby spinel
-    rutile and emerald can amplify at frequencies small compared
-    with their zero field splitting frequencies are surveyed cross
-    relaxation is shown to give a two fold improvement in maser
-    performance analytic expressions for the energies are
-    given

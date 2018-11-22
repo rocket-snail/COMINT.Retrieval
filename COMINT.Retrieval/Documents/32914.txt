@@ -1,4 +1,0 @@
-absorption and reflection spectrum of a plasma a re
-    evaluation of the experimental results of rommel and dattner
-    and a development of theory to account for additional resonance
-    peaks

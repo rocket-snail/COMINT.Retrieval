@@ -1,9 +1,0 @@
-design considerations for direct coupled transistor
-    amplifiers it is shown that the maximum obtainable signal drift
-    ratio of an amplifier is achieved by choosing the optimum
-    source resistance the signal drift capability of a transistor
-    and the optimum source resistance are nearly the same for the
-    three configurations common emitter common collector and common
-    base negative feedback can change the optimum source resistance
-    and generally degrades the signal drift ratio improved signal
-    drift ratio can be obtained at reduced emitter currents

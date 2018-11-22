@@ -1,6 +1,0 @@
-theoretical views on drift measurements the conversion of
-    the amplitude pattern drift at the ground as sampled by three
-    closely spaced receivers to the true drift in the ionosphere
-    requires the ionosphere requires the determination of auto and
-    cross correlation functions problems in relating ground pattern
-    drift to ionospheric drift are stated

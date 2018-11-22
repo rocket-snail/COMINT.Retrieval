@@ -1,4 +1,0 @@
-a temperature stabilized photo transistor relay circuit a
-    photo transistor and an ordinary junction transistor are used
-    in a long tailed pair arrangement to reduce the variation in
-    dark current

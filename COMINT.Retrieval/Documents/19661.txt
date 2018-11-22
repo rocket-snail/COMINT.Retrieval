@@ -1,9 +1,0 @@
-atmospheric radio noise at frequencies between and the
-    results are described in terms of a voltage envelope at the
-    output of a narrow band receiver between points the rms voltage
-    deduced by integrating the measured amplitude distributions
-    varies between four and eight times the average voltage the
-    noise is always much more impulsive than fluctuation noise the
-    structure of the voltage envelope is considered in two ways the
-    amplitude distribution of pulse peaks and the amplitude
-    distribution of voltage see also of

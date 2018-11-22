@@ -1,3 +1,0 @@
-matching and bandwidths formulae and curves are given for
-    the bandwidth of different arrangements for input and output
-    matching of single stage and band pass filters

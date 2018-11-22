@@ -1,2 +1,0 @@
-the transfer function as a tool in the analysis of a
-    resistance capacitance coupled voltage amplifier

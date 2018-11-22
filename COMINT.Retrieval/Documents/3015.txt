@@ -1,5 +1,0 @@
-new rocket measurement of ionospheric currents near the
-    geomagnetic equator rocket borne magnetometer measurements
-    indicating current sheets at heights of and are described
-    comparison with other data indicate that at km only half the
-    total current system had been penetrated

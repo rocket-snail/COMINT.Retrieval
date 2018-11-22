@@ -1,3 +1,0 @@
-volume density of reflection points of meteor trails in
-    radio links the procedure developed for back scatter systems
-    above is applied to the case of forward scatter links

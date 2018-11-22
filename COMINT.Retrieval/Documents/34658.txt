@@ -1,5 +1,0 @@
-the electrical breakdown of gases in nonuniform fields at
-    low pressure breakdown voltages between coaxial cylinders were
-    investigated for air hr h and he the results obtained support
-    the view that the same primary and secondary ionization
-    processes are involved as for uniform fields

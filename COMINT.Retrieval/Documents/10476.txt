@@ -1,9 +1,0 @@
-radiation produced by an electron beam passing through a
-    dielectric medium an electron beam passing through a dielectric
-    medium may produce an instability that is associated with the
-    growth of longitudinal waves having a velocity close to the
-    velocity of the beam if homogeneities are present these
-    longitudinal waves may be converted into transverse waves and
-    radiated into space thus there is a possibility of a luminous
-    effect at bohr frequencies that differ from the vavilov
-    cherenkov frequencies

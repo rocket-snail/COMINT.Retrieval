@@ -1,4 +1,0 @@
-equivalent circuits of noisy networks equivalent circuits
-    for a combination of amplifiers attenuators and terminations
-    are presented and a new method for the precision measurement of
-    noise figure is described

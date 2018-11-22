@@ -1,5 +1,0 @@
-some devices for the stark modulation milli meter wave
-    spectrograph an overall sensitivity of about in the wave range
-    is attained as a result of appropriate design of stark cell
-    frequency multiplier lock in detector and square wave
-    generator

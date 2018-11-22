@@ -1,5 +1,0 @@
-occultation of a radio source by the solar corona
-    measurements of radio noise flux from taurus a when its angular
-    separation from the sun is very small suggest that partial wide
-    angle scattering has occurred due to electron density
-    irregularities in the solar corona

@@ -1,5 +1,0 @@
-experimental investigation of change of magnetic flux in
-    a wire when one domain is remagnetized the problem which is of
-    importance in magnetic recording was investigated theoretically
-    by rytov the calculated and experimental results are in good
-    agreement

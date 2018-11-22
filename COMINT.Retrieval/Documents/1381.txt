@@ -1,9 +1,0 @@
-magneto ionic theory of weakly ionized gases in the
-    presence of an oscillating electric field and a constant
-    magnetic field the velocity distribution functions for a
-    nonuniformly ionized gas are calculated by solving the
-    boltzmann differential equations explicit expressions are
-    derived for the magneto ionic conductivity the dielectric
-    tensor the hall effect the deflection of the electron beam and
-    the generalization of langevins mobility formula comparison is
-    made with other methods of calculation

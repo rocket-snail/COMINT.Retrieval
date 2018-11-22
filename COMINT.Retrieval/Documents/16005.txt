@@ -1,5 +1,0 @@
-health information system transferability evaluation
-    (dissertation). the research develops a predictive evaluation
-    model designed to assist a decision maker in estimating the
-    resource costs required to transfer a computerised information
-    system into a specified environment.

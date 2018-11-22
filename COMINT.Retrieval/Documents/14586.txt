@@ -1,4 +1,0 @@
-diffraction by an imperfectly conducting right angled
-    wedge an exact solution is given for the diffraction of the fie
-    d of an electric line current by an imperfectly conducting
-    wedge of exterior angle

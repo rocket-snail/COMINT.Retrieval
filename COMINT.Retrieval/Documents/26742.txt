@@ -1,9 +1,0 @@
-non-roman records and automated cataloguing. paper
-    presented to the asian cataloguing workshop, 20th biennial
-    conference, library association of australia, canberra, aug 79.
-    increasingly, north american libraries in general and canadian
-    libraries in particular are turning to automated bibliographic
-    data bases to support their cataloguing efforts. discusses the
-    varied and unsettled situation regarding the relation of these
-    libraries' bibliographic records for non-roman materials to
-    this automation effort.

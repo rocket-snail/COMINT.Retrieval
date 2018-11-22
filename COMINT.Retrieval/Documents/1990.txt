@@ -1,3 +1,0 @@
-crout with equilibration and iteration (algorithm 135)
-    november, 1962 mckeeman, w. m. ca621107 jb march 17, 1978 6:51
-    pm

@@ -1,7 +1,0 @@
-raising the cut off frequency of transistors the cut off
-    frequency of transistor operation is raised by neutralizing the
-    collector capacitance by means of inductance connected between
-    collector and emitter calculations of the bandwidth between the
-    points on both sides of the resonant frequency are made for
-    grounded base grounded emitter and grounded collector
-    arrangements

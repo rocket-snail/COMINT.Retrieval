@@ -1,2 +1,0 @@
-dioptrics of electron and ion beams with circular
-    principal paths

@@ -1,4 +1,0 @@
-satellite doppler measurements and the ionosphere
-    simultaneous doppler measurements of satellite at frequencies
-    of and were shown to be in agreement with an approximate model
-    of the ionosphere for the same period

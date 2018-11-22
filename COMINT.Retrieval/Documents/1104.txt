@@ -1,7 +1,0 @@
-video involvement for libraries' a current awareness
-    package for professionals. compares and updates articles that
-    appeared in 2american libraries1 between apr 79 and oct 80.
-    articles range from basic topics, such as video hardware,
-    software and terminology; to information on actual video use in
-    schools, public libraries, universities and private
-    organisations.

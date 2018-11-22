@@ -1,9 +1,0 @@
-effect of a radio pulse signal on resonant circuits
-    calculations are made of the time required to establish the
-    signal in a circuit of given bandwidth and time constant it is
-    not possible to establish any simple relation between these
-    parameters except in the case when the signal frequency is the
-    same as the resonance frequency the influence f of signal
-    duration is studied the results are of importance in connection
-    with radiotelegraphy and explain the occurrence of maxima at
-    the beginning n and end of each signal

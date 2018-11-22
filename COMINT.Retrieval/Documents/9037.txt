@@ -1,6 +1,0 @@
-the arithmetic element of the ibm type computer a storage
-    circuit giving a delay is described its output is at either or
-    used in conjunction with direct coupled diode switching this
-    arrangement leads to simplifications in shifting registers and
-    in performing division and testing for zero in the
-    accumulator

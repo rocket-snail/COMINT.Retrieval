@@ -1,8 +1,0 @@
-theory of the cathode sheath in a low density gas
-    discharge the space charge equations of a low density gas
-    discharge are derived and applied to the study of potential
-    distributions in the cathode sheath one conclusion is that a
-    positive column will begin to evolve when the number of
-    ionization mean free paths in the discharge gap is of the same
-    order as the square root of the ratio of electron to positive
-    ion mass

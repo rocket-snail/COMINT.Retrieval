@@ -1,3 +1,0 @@
-physical and electrical properties of silicon rectifiers
-    for communications applications small junction type diodes with
-    a current carrying capacity of up to a are considered

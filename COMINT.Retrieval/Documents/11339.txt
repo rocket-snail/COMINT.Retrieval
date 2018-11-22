@@ -1,4 +1,0 @@
-a method for measuring temperature directly in the upper
-    atmosphere with a rocket borne magnetic mass spectrometer gas
-    temperature is determined from the variation of the flux of
-    neutral particles entering the instrument

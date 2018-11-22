@@ -1,8 +1,0 @@
-electromagnetic properties of plasmas conditions for the
-    propagation of longitudinal and transverse em waves are
-    considered taking account of the effect of collisions on
-    electron velocities and assuming no applied magnetic field the
-    mobility coefficient relating the electric field to the mean
-    velocity imparted by it to the electrons and dispersion
-    formulae linking wavelength and frequency of the propagated
-    disturbance are derived

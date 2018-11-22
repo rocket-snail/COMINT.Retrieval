@@ -1,5 +1,0 @@
-a universal printed circuit the universal printed circuit
-    board has a standard pattern of parallel wires on one side and
-    is useful at the design stage when prototypes are required for
-    testing since circuit changes may be made with relative
-    ease

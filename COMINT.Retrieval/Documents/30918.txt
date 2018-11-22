@@ -1,7 +1,0 @@
-an analogue solution of the continuity equation of the
-    ionospheric f region an electromechanical analogue computer is
-    used to solve an idealized f layer continuity equation the
-    results show how the layer above the f peak is mainly
-    controlled by vertical diffusion of ionization and below the
-    peak by the production and loss processes the machine can also
-    simulate the effect of a solar eclipse

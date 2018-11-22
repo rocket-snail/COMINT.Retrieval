@@ -1,6 +1,0 @@
-the equatorial sporadic e layer and the electrojet data
-    from three chains of stations near the magnetic equator but at
-    different longitudes have been studied and from them it has
-    been possible to deduce information about the extent of the
-    electrojet its seasonal changes and its variations with sunspot
-    number and longitude

@@ -1,8 +1,0 @@
-travelling wave tube system having m ultiplied gain
-    advantage is taken of the wide frequency band of travelling
-    wave valves to obtain increases gain by heterodyning the output
-    to a different frequency and then feeding it to the valve again
-    the system is useful in microwave relay stations where it is in
-    any case necessary to change the carrier frequency to prevent
-    feedback from the transmitting aerial to the receiving
-    aerial

@@ -1,4 +1,0 @@
-a circuit for the limitation of discharge in gm counters
-    a two valve feedback amplifier is used to limit the discharge
-    to a small part of the total length of the wire full
-    sensitivity being restored in about

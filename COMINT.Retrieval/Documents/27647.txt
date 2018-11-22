@@ -1,9 +1,0 @@
-library data collection handbook. describes basic
-    management information useful in academic, public, school, and
-    special libraries. an underlying premise of the handbook is
-    that all types of libraries have a common set of functions,
-    purposes, and resources which outweigh the differences in
-    setting, size, or organisational goals. presents a set of
-    categories of information that are judged to be important in
-    describing the library, and provides definition of those
-    categories.

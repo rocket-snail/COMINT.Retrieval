@@ -1,8 +1,0 @@
-temperatures in the high atmosphere temperature
-    distribution is discussed in relation to rocket and radio
-    observations on the assumption that heating of the ionosphere
-    is due primarily to solar radiation and that temperature
-    distribution is controlled by thermal conduction a model is
-    presented which indicates a very rapid temperature rise between
-    and km this would produce a density distribution in agreement
-    with observations

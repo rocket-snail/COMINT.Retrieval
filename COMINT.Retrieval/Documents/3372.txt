@@ -1,2 +1,0 @@
-theory of electrical conductivity of anisotropic
-    inhomogeneous media

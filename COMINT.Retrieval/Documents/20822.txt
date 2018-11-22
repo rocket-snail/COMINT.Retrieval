@@ -1,3 +1,0 @@
-regulated power supplies a brief review is made of
-    various types of stabilized power supply leading to the closed
-    loop series regulator for which design details are given

@@ -1,7 +1,0 @@
-falkirk district libraries' on-line information retrieval
-    project, march 1980-september 1981. reviews the establishment
-    and operation of on-line information services at falkirk
-    district libraries as part of the phase 2 british library
-    research and development project to study the provision of
-    on-line information retrieval services in public
-    libraries.

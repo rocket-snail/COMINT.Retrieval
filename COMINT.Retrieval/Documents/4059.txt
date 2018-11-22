@@ -1,4 +1,0 @@
-design of cavity resonators with maximum q factor summary
-    of theory and design formulae for cylindrical cavity resonators
-    with details of constructional features and coupling
-    arrangements

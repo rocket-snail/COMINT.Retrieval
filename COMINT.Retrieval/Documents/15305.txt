@@ -1,4 +1,0 @@
-a block diagram approach to network analysis an extension
-    of the method described by graybeal to electrical networks with
-    examples of application in the analysis of ladder bridged t and
-    parallel t networks

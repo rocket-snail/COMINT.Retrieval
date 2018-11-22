@@ -1,9 +1,0 @@
-heavy duty high stability dc power supplies series valve
-    stabilizers are considered as a simple step by step development
-    of the cathode follower by shunting a resistor or barretter
-    across the series valve substantially constant loads of several
-    amperes can be stabilized to per cent full circuits are given
-    of two typical units providing outputs of and watts with
-    efficiencies of and per cent respectively the latter includes a
-    device providing audible warning when supply voltage variations
-    exceed the range stabilized automatically

@@ -1,6 +1,0 @@
-motion of a satellite around an unsymmetrical central
-    body if a central body does not have an inversion centre the
-    eccentricity of a satellite orbit varies periodically with low
-    frequency and large amplitude details are worked out for a
-    central body composed of a large spherical mass and a small
-    point mass contained somewhere within it

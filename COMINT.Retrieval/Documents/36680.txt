@@ -1,6 +1,0 @@
-measurement of electrostatic fields in the upper layers
-    of the earths atmosphere the charge acquired by a body located
-    in a plasma is examined an instrument measuring the field
-    potential in the ionosphere is described electrostatic field
-    variations due to moving rockets or satellites are
-    considered

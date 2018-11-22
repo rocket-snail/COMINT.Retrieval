@@ -1,5 +1,0 @@
-band pass filters using strip line techniques practical
-    details are given of materials and dimensions for uhf filters
-    and for matching them to coaxial lines typical units have mid
-    band insertion loss with attenuation at off mid band
-    frequency

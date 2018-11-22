@@ -1,6 +1,0 @@
-observations on the ionospheric f layer at night part
-    height of maximum ionization critical frequency and semi
-    thickness of f layer at night measurements taken at cambridge
-    england agree with those for other stations the scale height
-    determined from the semi thickness of the layer is too small
-    when compared with rocket and satellite observations

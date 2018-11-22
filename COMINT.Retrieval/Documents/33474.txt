@@ -1,4 +1,0 @@
-theory of spin wave interactions in ferro and antiferro
-    magnetism mathematical treatment of spin wave theory for a
-    ferromagnetic model giving results in agreement with
-    dysons

@@ -1,4 +1,0 @@
-an investigation into some aspecst of diode quantizing
-    circuits quantization is defined and work in the field is
-    reviewed three circuits are compared theoretically and by
-    measurement and possible applications are described

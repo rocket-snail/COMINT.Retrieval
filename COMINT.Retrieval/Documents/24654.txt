@@ -1,5 +1,0 @@
-a binary weighted current decoder a method for driving cr
-    rubes from digital equipment is described in which the
-    deflection yoke is fed directly from binary weighted constant
-    current sources design considerations are outlined and a
-    comparison is made with other methods

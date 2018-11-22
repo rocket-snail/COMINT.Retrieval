@@ -1,2 +1,0 @@
-an optimal discrete stochastic process servomechanism an
-    extension of mills theorem

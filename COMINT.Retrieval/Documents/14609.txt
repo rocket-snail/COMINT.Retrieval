@@ -1,8 +1,0 @@
-the mechanism of subharmonic generation in a feedback
-    system analysis is given for nonlinear feedback systems using
-    the description function method subharmonics are produced as a
-    result of mu modification of the response of the nonlinear
-    element by the input signal conditions are derived for the
-    absence of subharmonic oscillations theoretical and
-    experimental results for a particular unit with an
-    approximately cubic characteristic are in agreement

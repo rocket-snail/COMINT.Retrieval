@@ -1,8 +1,0 @@
-audiovisual documents in the automated system of the
-    slovak national bibliography. the slovak national bibliography
-    (snb) now includes audio-visual documents in a new series, j.
-    the definition of these documents and the criteria for their
-    inclusion in this series are given. the input data as well as
-    the future output of this series are discussed. basic
-    information concerning the technology used by the information
-    system of the snb is presented.

@@ -1,7 +1,0 @@
-a statistical theory of ionospheric drifts a statistical
-    study of the fluctuations in plasma density is used in an
-    attempt to interpret drift velocities it is assumed that the
-    ionization is transported by a turbulent flow in the neutral
-    air under the action of the magnetic field and the dynamo
-    electric field the application of the theory to different
-    heights in the ionosphere is examined

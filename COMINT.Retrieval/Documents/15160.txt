@@ -1,3 +1,0 @@
-normalization of the frequency dependence of impedance
-    and amplifier circuits outline of generalized circuit
-    theory

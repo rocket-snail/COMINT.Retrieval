@@ -1,6 +1,0 @@
-operating characteristics of an ammonia beam maser the
-    simple theory is expanded to predict the angular distribution
-    of the molecules leaving the collimator and the effect of the
-    focuser on the velocity distribution comparison with
-    experimental data shows the importance of collisions and beam
-    divergence

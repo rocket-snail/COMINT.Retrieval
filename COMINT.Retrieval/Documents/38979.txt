@@ -1,7 +1,0 @@
-the amplification of a magnetic field by a high current
-    discharge it is shown theoretically that a helical current flow
-    discharge is set up by a longitudinal magnetic field in which
-    the plasma pressure is balanced by electrodynamic forces the
-    direction of the helix is such that the initial longitudinal
-    field is amplified some experimental evidence supports this
-    theory

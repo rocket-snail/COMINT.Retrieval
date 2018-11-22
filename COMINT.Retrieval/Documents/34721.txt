@@ -1,7 +1,0 @@
-parametric circuits with nonlinear reactances and
-    resistances equivalent circuits of nonlinear reactances and
-    resistances ar derived for calculations on parametric
-    amplifiers expressions giving the circuit voltages are
-    tabulated for parametric amplifiers up converters and down
-    converters of the dynatron type and the non linear capacitance
-    type

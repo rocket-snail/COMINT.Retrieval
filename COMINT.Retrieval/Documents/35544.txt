@@ -1,5 +1,0 @@
-fast gray wedge analyser for high input rates a full
-    description is given of the circuits and operation of a pulse
-    height analyser designed for positive input pulses at rates up
-    to with less than distortion of the spectrum the resolution is
-    approximately

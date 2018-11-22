@@ -1,3 +1,0 @@
-the geometrical quadripole representation of the double
-    transformer the representation is effected by adapting the
-    technique described previously

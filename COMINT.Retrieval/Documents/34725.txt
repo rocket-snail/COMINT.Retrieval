@@ -1,4 +1,0 @@
-microwave filters theory of filters comprising coaxial
-    lines and or waveguides is developed by reference to equivalent
-    lumped constant circuits band pass and band stop filters of
-    ladder amplifier and bridge types are discussed

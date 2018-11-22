@@ -1,6 +1,0 @@
-distortion in pentode voltage amplifiers characteristics
-    are given which show that for a fixed screen voltage the
-    distortion varies rapidly with changes in grid bias whilst if
-    the screen voltage is supplied via a series resistance there is
-    a compensating action which maintains the distortion at an
-    almost constant value

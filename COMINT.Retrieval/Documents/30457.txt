@@ -1,4 +1,0 @@
-some aspects of feedback in transistor amplifiers the
-    design of an amplifier with high input impedance is described
-    and problems peculiar to the use of feedback in transistor
-    circuits are discussed

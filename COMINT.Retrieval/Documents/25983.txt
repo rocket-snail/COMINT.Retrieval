@@ -1,4 +1,0 @@
-induction by an oscillating magnetic dipole over a two
-    layer ground expressions for the mutual electromagnetic
-    coupling between two small loops and for the self impedance of
-    a loop over a two layer earth are derived

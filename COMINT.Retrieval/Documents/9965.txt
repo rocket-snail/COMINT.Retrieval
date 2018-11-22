@@ -1,3 +1,0 @@
-theory of wave propagations in a gyromagnetic medium the
-    theory presented is relevant to propagation in ferrites byt the
-    physical nature of ferrites is not discussed

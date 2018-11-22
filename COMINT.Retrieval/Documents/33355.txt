@@ -1,4 +1,0 @@
-electronic equalizer description of an af amplifier with
-    variable boost or attenuation at both the low and high
-    frequency ends of the response characteristic typical response
-    curves of the amplifier are shown

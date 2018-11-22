@@ -1,6 +1,0 @@
-the success-breeds-success phenomenon and bibliometric
-    processes. success-breeds-success phenomenon is described by
-    single- and multiple-urn models. it is shown that these models
-    lead to a negative binomial distribution for the total number
-    of successes and a zipf-mandelbrot law for the number of
-    sources contributing a specified number of successes.

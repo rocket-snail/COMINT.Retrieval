@@ -1,4 +1,0 @@
-pull in frequency of the phase controlled oscillator the
-    pull in frequency derived by goldstein and confirmed
-    experimentally by byrne is lower than that recently derived by
-    rey of january

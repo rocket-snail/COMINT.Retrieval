@@ -1,9 +1,0 @@
-reference materials in a telephone reference service' a
-    model for telereference. presents a description of a telephone
-    reference service and the reference materials used in answering
-    patrons' queries. the discussion focuses on the application of
-    the experience of telephone reference librarians to the
-    development of computerised systems such as telereference. it
-    is suggested that selection of information sources to include
-    data bases would be facilitated by an examination of reference
-    materials currently used in ready-reference services.

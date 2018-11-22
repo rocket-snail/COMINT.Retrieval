@@ -1,9 +1,0 @@
-universal formulae for the calculation of simple filters
-    transfer properties and input impedance are given as functions
-    of normalized frequency for filters with up to four tuned
-    circuits for arbitrary ratio between source impedance and
-    terminating impedance the calculations take account of circuit
-    losses the formulae are evaluated and represented in curves
-    details of the calculation are shown for a four circuit and
-    pass filter a table is given of the most important filter
-    circuits with the associated formulae and definitions

@@ -1,8 +1,0 @@
-fused quartz ultrasonic delay line memory the digit
-    storage unit described is of the type comprising a slab of
-    fused quartz providing a folded transmission path methods are
-    indicated for eliminating spreading of the ultrasonic beam and
-    mode conversion at the reflecting surfaces thus reducing the
-    intensity of spurious signals an ultrasonic frequency of is
-    used and pulses with a dynamic range of can be stored at
-    rates

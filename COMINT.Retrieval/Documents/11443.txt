@@ -1,5 +1,0 @@
-wide band amplifiers tuned or aperiodic using transistors
-    up to stabilization of circuits against varying ambient
-    temperature frequency compensation in aperiodic amplifiers
-    design of distributed amplifiers and gain control of tuned
-    amplifiers are examined

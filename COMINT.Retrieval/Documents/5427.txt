@@ -1,4 +1,0 @@
-a phase sensitive interferometer technique for the
-    measurement of the fourier transforms of spatial brightness
-    distributions of small angular extent the rf interferometer
-    described consists of three aerial systems tuned to

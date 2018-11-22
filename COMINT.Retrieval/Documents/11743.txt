@@ -1,2 +1,0 @@
-subharmonics in a series nonlinear circuit as influenced
-    by initial capacitor charge

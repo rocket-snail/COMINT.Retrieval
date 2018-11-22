@@ -1,4 +1,0 @@
-transistor constant volume amplifier design and circuit
-    details of a microphone amplifier providing substantially
-    similar output signal levels for various speech input
-    levels

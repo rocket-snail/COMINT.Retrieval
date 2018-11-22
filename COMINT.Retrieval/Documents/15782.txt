@@ -1,2 +1,0 @@
-matrix permutation (algorithm 230) june, 1964 boothroyd,
-    j. ca640606 jb march 9, 1978 9:36 pm

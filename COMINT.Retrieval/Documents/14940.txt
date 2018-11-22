@@ -1,3 +1,0 @@
-gamma function with controller accuracy (algorithm 225
-    [s14]) october, 1964 bray, t. a. ca641011 jb march 9, 1978 4:44
-    pm

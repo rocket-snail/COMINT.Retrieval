@@ -1,1 +1,0 @@
-correcting for gaussian aerial smoothing

@@ -1,4 +1,0 @@
-faraday effect in the transmissions from fast spinning
-    satellites a note on signal strength variations for the case of
-    a satellite rotation period small compared to the faraday
-    fading period

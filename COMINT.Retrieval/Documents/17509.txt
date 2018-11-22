@@ -1,6 +1,0 @@
-maximum power in termination impedors an analytical proof
-    that power is a maximum when the resistive component of the
-    load is equal to the internal resistance of the source and the
-    reactive components cancel out the principle can be extended to
-    the case of a quadripole by reformulating the helmholtz
-    equations

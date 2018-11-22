@@ -1,5 +1,0 @@
-gain measurements on a pulsed ferromagnetic microwave
-    amplifier the amplifier operates in the quasi degenerate mode
-    in which one cavity serves as the resonant circuit for both the
-    signal and the idle frequency fields a second cavity is used
-    for the pump signal which is pulsed

@@ -1,7 +1,0 @@
-memoranda of law' problems and alternatives in
-    establishing manual and automated retrieval systems. legal
-    memoranda, generated in-house, are important research sources
-    in a law library. the problems of setting up manual retrieval
-    systems and computerised systems, based on word processors and
-    minicomputers, are discussed along with the use of subject
-    indexing and subject heading lists.

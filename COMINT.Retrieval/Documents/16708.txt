@@ -1,9 +1,0 @@
-report on the feasibility study and pilot project for a
-    directory of sources of technical digests. project designed to
-    estimate the size of a directory of sources of technical
-    digests (i.e. state of the art reviews) and the effort and cost
-    required to compile it, as well as attitudes of experts in
-    appropriate fields towards it. results show that there are no
-    major obstacles to producing such a publication but casts
-    doubts on whether it would attract sufficient demand to justify
-    the costs involved.

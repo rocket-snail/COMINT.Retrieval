@@ -1,5 +1,0 @@
-transistor equations formulae giving circuit voltage and
-    current gain and impedance characteristics in terms of
-    transistor parameters are tabulated for grounded base grounded
-    emitter and grounded collector transistor amplifier
-    circuits

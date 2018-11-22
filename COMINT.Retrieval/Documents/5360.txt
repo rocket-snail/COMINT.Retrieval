@@ -1,5 +1,0 @@
-construction of a logarithmic wide band amplifier the
-    equipment described has a gain of about amplification is linear
-    for input voltages up to and proportional within db to the
-    logarithm of the input voltage from to frequency response is
-    linear from to

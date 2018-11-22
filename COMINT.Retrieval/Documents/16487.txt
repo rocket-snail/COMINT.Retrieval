@@ -1,7 +1,0 @@
-theory of nonreciprocal circuits with equal input and
-    output frequency using nonlinear semiconductor elements the
-    quadripole equations and transfer gain are derived for
-    nonreciprocal amplifiers which consist of tunnel diode or
-    parametric diode converter stages in cascade connection see
-    also of january matching and decoupling problems are considered
-    for various circuit configurations

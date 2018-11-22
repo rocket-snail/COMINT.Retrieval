@@ -1,4 +1,0 @@
-wide range voltage stabilizers a unit is described based
-    on a circuit by admiraal which gives a stabilized output
-    voltage adjustable within the range with maximum load current
-    of the stabilization ratio is about

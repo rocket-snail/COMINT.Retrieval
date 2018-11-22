@@ -1,8 +1,0 @@
-noise power radiated by tropical thunderstorms lightning
-    discharge phenomena are reviewed and an expression is derived
-    for the average electric field due to a stroke the power at the
-    source corresponding to the noise field strength measurements
-    of which were reported previously of january is hence evaluated
-    over the frequency range the noise power varies as discharges
-    within the cloud or into the air are the main noise
-    sources

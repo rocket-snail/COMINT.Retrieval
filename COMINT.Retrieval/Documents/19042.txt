@@ -1,7 +1,0 @@
-comparison of hierarchical cluster analysis techniques
-    for automatic classification of chemical structures. several
-    hierarchical cluster analysis methods were applied to a set of
-    benzenoid compounds by using structural features automatically
-    derived from wiswesser line notation. comparions of the
-    differences in classification, due to choice of clustering
-    algorithm and data standardisation technique, were made.

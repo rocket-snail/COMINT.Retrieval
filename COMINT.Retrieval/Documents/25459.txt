@@ -1,4 +1,0 @@
-interpretation of em values for electrons in crystals the
-    e values obtained by brown and barnett of march are shown to be
-    in agreement with established theory if the mass of the holes
-    is considered to be negative

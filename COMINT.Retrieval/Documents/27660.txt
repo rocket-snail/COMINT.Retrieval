@@ -1,9 +1,0 @@
-ionospheric height measurement by the method of delayed
-    coincidence an outline description with block diagram is given
-    of equipment in use at an indian station for regular
-    observation of lunar tides in the upper atmosphere the
-    apparatus can be readily adapted for automatic recording of
-    curves the method is basically as described previously but the
-    technique has been improved giving an accuracy within good
-    results are obtained even in the presence of heavy
-    atmospherics

@@ -1,7 +1,0 @@
-geometrical transformation of impedance diagrams the
-    limited impedance range of the normal circle diagram
-    representation of impedances is noted a second type of circle
-    diagram can be constructed in which all possible impedance
-    values satisfying the required conditions lie within the unit
-    circle its construction by means of riemanns number sphere is
-    required

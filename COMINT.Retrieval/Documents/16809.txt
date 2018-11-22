@@ -1,8 +1,0 @@
-homogeneous dynamos and terrestrial magnetism solutions
-    of maxwells equations are obtained for a sphere of electrically
-    conducting fluid in which there are specified velocities
-    solutions exist when harmonics up to degree four are included
-    but for a greater number of harmonics the convergence of
-    solutions has not been proved orders of magnitude are derived
-    for a number of quantities connected with the dynamo theory of
-    terrestrial magnetism

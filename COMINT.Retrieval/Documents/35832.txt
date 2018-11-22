@@ -1,6 +1,0 @@
-use of a bridge circuit for supplying several loads
-    independently from a common voltage source a circuit suitable
-    for measurement purposes and adapted for both dc and ac
-    supplies has the source arranged in one arm of a bridge and two
-    loads respectively in the two diagonals modification to
-    accomodate more loads is indicated

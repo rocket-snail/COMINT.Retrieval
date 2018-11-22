@@ -1,3 +1,0 @@
-pulse generator uses junction transistors a transistor
-    circuit is described giving pulses of duration at repetition
-    rates of pulses with internal delays of of

@@ -1,4 +1,0 @@
-some saturation phenomena in servo mechanisms with
-    emphasis on the tachometer stabilized system analytical methods
-    of dealing with frequency response and transient response are
-    described and various saturation effects are explained

@@ -1,7 +1,0 @@
-a transistor pulse amplifier using external regenerated
-    pulses having desired waveforms as required in synchronous
-    serial computers are obtained by means of a circuit using a
-    point contact transistor operated as an over driven amplifier
-    with external feedback provision is made for synchronizing the
-    output pulses with a master clock transformer coupling provides
-    dc restoration

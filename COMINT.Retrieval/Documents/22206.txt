@@ -1,4 +1,0 @@
-analysis of a single ended push pull audio amplifier
-    analysis is given for the circuit described by peterson and
-    sinclair of linear valve characteristics and small signals are
-    assumed some experimental results are reported

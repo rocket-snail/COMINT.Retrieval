@@ -1,5 +1,0 @@
-on the design of small economical radio frequency eht
-    supplies particular attention is given to the design of the
-    high voltage transformer the type of stabilized eht generator
-    described is suitable for operation at frequencies greater
-    than

@@ -1,6 +1,0 @@
-transients in nonlinear servomechanisms with filters
-    continuing previous work of equations are derived for amplitude
-    and elongation a complex function of time for the case of small
-    damping and a new construction o for point to point tracing of
-    the xt curve is indicated which furnishes a new criterion of
-    stability of steady states of oscillation

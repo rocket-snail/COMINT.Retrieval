@@ -1,5 +1,0 @@
-triggered microsecond sweep generators hard valve
-    balanced output and single ended sweep generators are described
-    using miller integrator feedback for linearization both are
-    capable of providing a sweep in applications in high speed
-    photography are indicated

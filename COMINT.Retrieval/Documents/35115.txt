@@ -1,7 +1,0 @@
-paramagnetic resonance and polarization of nuciei in
-    metals a theory of paramagnetic resonance is proposed based on
-    simultaneous solutions of maxwells equations and the kinetic
-    equation for the density operator it is shown that the
-    polarization varies with depth and also that the paramagnetic
-    resonance gives rise to selective transparency in metallic
-    films

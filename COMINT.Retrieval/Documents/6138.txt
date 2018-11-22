@@ -1,8 +1,0 @@
-the linear distortion of fm signals in band pass filters
-    for large modulation frequencies the linear distortion of a fm
-    signal in a highly selective band pass filter follows almost
-    exactly the static response curve of the network provided the
-    following conditions are fulfilled the modulation frequency is
-    not less than two thirds of the semi bandwidth the modulation
-    index does not exceed unity the network q is sufficiently
-    large

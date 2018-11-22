@@ -1,7 +1,0 @@
-three updateable microfiche systems. presents a
-    collective description and discussion of 3 updateable
-    microfiche systems-the a.b. dick system 200 record processor,
-    the microx system ii, and the microvonics file, with details of
-    basic design, recording technologies, operation, input
-    accepted, microfiche formats, titling, accessories and
-    prices.

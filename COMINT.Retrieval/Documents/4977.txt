@@ -1,7 +1,0 @@
-a new application of the faraday magneto optical effect
-    for diagnostic measurements of transient magnetic fields by a
-    combination of streak and optical interference fringe
-    techniques with the magneto optical method described it is
-    possible to determine field geometry space time distribution of
-    electron number density in a high density plasma and line
-    integrated variations of magnetic field

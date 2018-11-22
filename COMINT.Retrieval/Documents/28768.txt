@@ -1,6 +1,0 @@
-new text and message services. analyses the requirements
-    for message services and briefly surveys the types of facility
-    now provided by public and private services. outlines some
-    actions being considered by the public carriers and suggests
-    services which could become widely available within the next 5
-    years.

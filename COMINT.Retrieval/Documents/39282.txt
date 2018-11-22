@@ -1,8 +1,0 @@
-measurement of the relaxation time by modulation of the
-    radio frequency field and detection of the he variation of
-    magnetization with the controlling field an extension of the
-    method described by whitfield and redfield of is proposed using
-    a much higher modulating frequency under these conditions
-    variations in the signal induced in the pick up coil may be
-    used to determine three methods of detecting the signal are
-    examined

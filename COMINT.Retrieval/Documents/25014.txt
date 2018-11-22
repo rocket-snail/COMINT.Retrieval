@@ -1,5 +1,0 @@
-single turn recording heads results of an experimental
-    approach to the development of a single turn head for a
-    magnetic drum storage system are noted optimum values of drum
-    plating thickness gap width and write current are shown in
-    gtaphs

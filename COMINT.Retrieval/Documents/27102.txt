@@ -1,3 +1,0 @@
-amplitude frequency characteristics of ladder networks
-    suitable mainly as a reference work for telecommunication
-    engineers

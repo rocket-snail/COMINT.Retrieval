@@ -1,5 +1,0 @@
-the general theory of the motions of ions and electrons
-    in gases the chief formulae for the drift velocities and
-    diffusion coefficients of ions and electrons in gases are
-    derived in general form by the application of dynamical
-    principles

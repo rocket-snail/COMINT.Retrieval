@@ -1,3 +1,0 @@
-correlation coefficients with matrix multiplication
-    (algorithm 39) march, 1961 sassouni, p. ca610309 jb march 17,
-    1978 12:37 am

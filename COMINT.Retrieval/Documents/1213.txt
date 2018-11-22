@@ -1,7 +1,0 @@
-possibility of luminescent quantum yields greater than
-    unity it is shown that an excited sensitizer can transfer its
-    energy simultaneously to two activators under suitable
-    conditions leading to two emitted photons per incident higher
-    energy photon the probability of this transfer process is
-    computed and the process is shown to be experimentally
-    feasible

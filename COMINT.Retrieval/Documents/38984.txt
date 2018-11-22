@@ -1,8 +1,0 @@
-kinetic temperature of electrons in metals and anomalous
-    electron emission the effect of strong electric fields on
-    metals is to raise the temperature of the electrons above that
-    of the lattice the symmetrical part of the electron energy
-    distribution is a ferm distribution function the asymmetric
-    part is negligible in the cases considered quantitative
-    estimates of the effect of the electron temperature rise on
-    conduction and emission are briefly discussed

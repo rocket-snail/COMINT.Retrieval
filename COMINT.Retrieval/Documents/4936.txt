@@ -1,5 +1,0 @@
-all magnetic audio amplifier three cascaded magnetic
-    frequency triplers are used to provide a carrier from a line
-    frequency used with a carbon microphone and a two stage
-    magnetic amplifier the system gives and audio output power of
-    with linear operation over the range cs

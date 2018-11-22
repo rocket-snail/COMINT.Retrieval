@@ -1,4 +1,0 @@
-variational principle for transport phenomena the
-    variational principle for interband scattering is derived and
-    generalized by the introduction of an external magnetic field
-    and lattice vibrations

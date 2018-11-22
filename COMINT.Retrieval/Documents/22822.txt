@@ -1,6 +1,0 @@
-the effects of incomplete resolution on surface
-    distributions derived from strip scanning observations with
-    particular reference to an application in radio astronomy the
-    limitations of one dimensional scanning methods for measuring
-    surface distribution particularly that of radio brightness over
-    the suns disk are discussed

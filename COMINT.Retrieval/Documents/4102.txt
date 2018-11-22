@@ -1,4 +1,0 @@
-an analogue computer for evaluating radar performance
-    describes briefly the basic design of an analogue computer
-    developed to evaluate the statistical information needed to
-    assess radar tracking performance

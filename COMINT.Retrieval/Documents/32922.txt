@@ -1,6 +1,0 @@
-effect of pressure on the resistance of a thermistor
-    measurements at constant temperatures from and pressures up to
-    show that the relative diminution of the resistance of a
-    thermistor for a given change of pressure is practically
-    independent of temperature and is given by the formula p being
-    expressed in kg cm

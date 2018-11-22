@@ -1,8 +1,0 @@
-international cooperation in library automation. paper
-    presented at the international workshop on chinese library
-    automation, taipei, taiwan, 14-19 feb 81. points out that
-    international cooperation in library automation has emphasised
-    cooperation in the development of standards that would
-    facilitate automation projects rather than the active
-    development of such projects. describes the areas in which
-    standards have been implemented or are being developed.

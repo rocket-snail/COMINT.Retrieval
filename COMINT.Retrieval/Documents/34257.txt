@@ -1,4 +1,0 @@
-vavilov cherenkov effect and bohr radiation produced by a
-    beam of charged particles in a dispersive medium an extension
-    of earlier work with particular reference to instabilities and
-    coupling effects

@@ -1,8 +1,0 @@
-the cherenkov effect in composite isotropic media a
-    theoretical investigation based on the invariance of maxwells
-    equations the case of two coaxial dielectrics and permeable
-    cylinders with a common cylindrical interface and a charged
-    particle moving along their common axis is considered results
-    are discussed with particular reference to cherenkov radiation
-    at radio and microwave frequencies the effect of coherence on
-    the output of the emitted radiation is outlined

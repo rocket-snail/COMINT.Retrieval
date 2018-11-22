@@ -1,6 +1,0 @@
-nuclear magnetic resonance maser a detailed investigation
-    of a two level weak field maser type self oscillator based on
-    nuclear spin rotation in a circulating liquid under conditions
-    of rapid adiabatic passage through resonance applications for
-    magnetic field and relaxation time measurements are
-    discussed

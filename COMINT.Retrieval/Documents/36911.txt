@@ -1,6 +1,0 @@
-microwave parametric subharmonic oscillators for digital
-    computing a variable capacitance oscillator with output
-    frequency is described and its use for amplifying scaling and
-    performing logic functions is discussed the advantages of
-    carrier over base band systems for high speed computing are
-    mentioned see above

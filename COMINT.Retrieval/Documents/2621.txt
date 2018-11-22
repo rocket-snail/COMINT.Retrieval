@@ -1,5 +1,0 @@
-relations between the electric and magnetic fields of
-    very long period induced in a medium of variable conductivity a
-    model of ground conductivity distribution is derived which
-    closely represents the conditions indicated by observations of
-    geomagnetic and geoelectric pulsations

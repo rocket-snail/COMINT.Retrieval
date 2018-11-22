@@ -1,9 +1,0 @@
-automatic tuning control of hf generators with varying
-    load the phase relation between the primary voltage and the
-    secondary current of the output transformer of a crystal driven
-    generator is used for automatic control of the tuning of the
-    output circuit under varying load conditions control is
-    effected via a bridge type of phase measurement unit using a
-    pair of type eq enneodes which acts on a control unit using a
-    pair of type pl thyratrons circuit details photographs and
-    performance figures are given

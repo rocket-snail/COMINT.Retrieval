@@ -1,6 +1,0 @@
-noise in maser amplifiers theory and experiment the
-    theoretical treatment is based on an equivalent microwave
-    circuit the effective input noise temperature of a reflection
-    type beam maser was found experimentally to be which is in
-    agreement with theory an upper limit of for the beam
-    temperature was deduced

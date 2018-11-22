@@ -1,8 +1,0 @@
-determination of position on the earth from a single
-    visual observation of an artificial satellite if a reliable
-    orbit is available and an observation of the satellite against
-    a background of of stars can be made to an accuracy within and
-    timed to the position of the observer can be determined with
-    sufficient accuracy for navigation purposes a single visual
-    observation of echo provides the reference in a worked
-    example

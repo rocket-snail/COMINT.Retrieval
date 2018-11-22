@@ -1,4 +1,0 @@
-circuit protection for a transistorized magnetic core
-    memory the system protects the storage elements against fault
-    currents as low as even though the normal operating current
-    is

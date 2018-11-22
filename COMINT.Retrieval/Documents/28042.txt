@@ -1,5 +1,0 @@
-propagation constants for electromagnetic waves in weakly
-    ionized dry z air data are given for dry air at ionospheric
-    temperatures in the presence of a magnetic field the magnitude
-    and energy dependence of the electron collision frequency are
-    also derived

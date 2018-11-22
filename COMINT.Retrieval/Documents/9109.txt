@@ -1,5 +1,0 @@
-three valve preamplifier a description and performance
-    specification of a circuit with inputs and crystal pickups tape
-    recorder and radio receiver simultaneous outputs for tape
-    recording and for a power amplifier are provided see also
-    of

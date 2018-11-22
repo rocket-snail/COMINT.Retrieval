@@ -1,3 +1,0 @@
-reversals of the earths magnetic field calculations made
-    by rikitake have been extended by the use of a digital
-    computer

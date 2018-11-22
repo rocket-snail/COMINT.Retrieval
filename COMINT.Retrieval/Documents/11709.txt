@@ -1,6 +1,0 @@
-a statistical study of ionospheric drifts measured by the
-    radio star scintillation technique the method gives the ew
-    component of the drift velocity throughout the day this
-    component is commonly found to reverse suddenly near but the
-    complementary reversal occurs at a less definite time during
-    the following day

@@ -1,5 +1,0 @@
-comparison of the sensitivities of paramagnetic electron
-    resonance spectrographs in the band modification of the
-    coupling between a waveguide and a cavity is discussed for the
-    following cases negligible background noise signal intensity of
-    the same order as background noise

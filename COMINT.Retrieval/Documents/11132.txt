@@ -1,5 +1,0 @@
-low pass filters for metre waves filters intended for
-    suppression of harmonics in measurements and having cut off
-    frequencies of about comprise three sections with lumped
-    constant components the construction and method of adjustment
-    are described

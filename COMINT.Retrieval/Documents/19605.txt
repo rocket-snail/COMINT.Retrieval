@@ -1,4 +1,0 @@
-passage of a nonlinear oscillatory system through
-    resonance a mathematical analysis of a nonlinear oscillator
-    with one degree of freedom which can be described by a
-    hamiltonian

@@ -1,4 +1,0 @@
-investigations on voltage transformers a conductance
-    diagram is developed to show directly the variation of
-    secondary voltage and phase angle as a function of the load its
-    application in transformer design is illustrated

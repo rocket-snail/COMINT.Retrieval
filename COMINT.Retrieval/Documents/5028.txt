@@ -1,4 +1,0 @@
-a provisional ground conductivity map for canada the
-    derivation of the map is discussed results are given of
-    propagation measurements over the great lakes region to
-    determine the conductivity of fresh water areas

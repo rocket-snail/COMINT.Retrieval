@@ -1,4 +1,0 @@
-the passage of electrons through a rectangular potential
-    barrier with a small cylindrical inhomogeneity a treatment of
-    the tunnel effect in electron emission by first order
-    perturbation theory

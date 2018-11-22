@@ -1,8 +1,0 @@
-physics of thin metal and semiconductor films a survey of
-    work on formation structure and electrical properties of thin
-    metal and semiconductor films surface states and their effect
-    on the properties of semiconductor films theoretical work on
-    thin metal films the present position is briefly but critically
-    discussed and in particular the points of agreement and
-    disagreement between experimental results and theory are
-    noted

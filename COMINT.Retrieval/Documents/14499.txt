@@ -1,2 +1,0 @@
-the parallel t resistance capacitance network correction
-    to paper abstracted in

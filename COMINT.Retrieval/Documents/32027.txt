@@ -1,8 +1,0 @@
-internetworking in packet switched communications' first
-    report on the royal signals and radar establishment-arpa
-    collaborative program. the reliable connection of a pilot
-    packet switched network to the arpa catanet system is
-    described. how this interconnection was achieved, including the
-    network configurations involved, the host and network protocols
-    used, and the performance measurements obtained are
-    given.

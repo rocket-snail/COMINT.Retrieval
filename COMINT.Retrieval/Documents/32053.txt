@@ -1,4 +1,0 @@
-design of wide band rc amplifiers discussion of
-    multistage amplifier with inductive equalization in the anode
-    circuit the effect of negative feedback in the cathode line is
-    examined

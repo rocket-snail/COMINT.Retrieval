@@ -1,5 +1,0 @@
-the limits of the regions of stability of the normal
-    state in certain ferroresonant circuits the unequal voltage
-    distribution between the two identical resonance circuits
-    referred to in of may is explained by periodic variations in
-    coil inductance

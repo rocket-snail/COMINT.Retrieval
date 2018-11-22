@@ -1,4 +1,0 @@
-magnetic amplifiers in bistable operation flip flop
-    operation can be achieved by over regenerative feedback the
-    relation of the switching cycle to the steady state transfer
-    characteristic is examined

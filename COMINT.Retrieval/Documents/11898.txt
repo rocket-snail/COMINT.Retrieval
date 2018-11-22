@@ -1,7 +1,0 @@
-report of a workshop on multilingual systems. report of a
-    workshop on multilingual systems held at dunchurch industrial
-    staff college on 6-7 oct 75. the aims of the workshop were to
-    assess the state of the art of multilingual systems both in the
-    uk and in europe, to ascertain current areas of research, to
-    bring together those active in the field and to provide a forum
-    for the exchange of expertise.

@@ -1,4 +1,0 @@
-harmonic generators for the band description of two
-    signal generators covering the ranges and they incorporate a
-    klystron oscillator and si diode frequency multipliers
-    of

@@ -1,5 +1,0 @@
-an extension of the circle and sphere theorems theory
-    relating to cylinders and spheres immersed in two and three
-    dimensional electric fields is extended to include certain
-    other boundaries along which either the electric potential or
-    the current function takes a constant value

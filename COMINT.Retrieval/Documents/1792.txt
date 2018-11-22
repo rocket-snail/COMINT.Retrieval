@@ -1,7 +1,0 @@
-on extraordinary phenomena in a nonlinear forced
-    oscillation the nonlinear forced oscillation represented by is
-    discussed transforming the equation to the variational form the
-    ritz method is applied to obtain the solution in the form of a
-    fourier series in which extraordinary points of two different
-    kinds are distinguished this method is applied to find the jump
-    voltage of a circuit containing an iron cored reactor

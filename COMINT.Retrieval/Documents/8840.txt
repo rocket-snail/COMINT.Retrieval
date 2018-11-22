@@ -1,3 +1,0 @@
-the analogy between the weissfloch transformer and the
-    ideal attenuator reflection coefficient transformer and an
-    extension to include the general lossy two port

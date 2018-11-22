@@ -1,7 +1,0 @@
-latitude and diurnal variations of air densities from to
-    as derived from the orbits of discoverer satellites an analysis
-    of orbital information obtained from nine discoverer satellites
-    shows that variations in air density between day and night in
-    the region curves of daytime density plotted against height
-    indicate the possibility of a region of local heating at which
-    disappears at night

@@ -1,7 +1,0 @@
-automatic power plant for telecommunications
-    installations the development of multichannel radio telephone
-    services capable of unattended operation for long periods has
-    led to the need for automatic generators of electric power some
-    of the factors in the design of diesel power plants are
-    considered both mains standby and dual alternator systems are
-    discussed

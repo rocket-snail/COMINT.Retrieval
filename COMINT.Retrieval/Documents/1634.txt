@@ -1,4 +1,0 @@
-on the theory of cross relaxation in maser materials the
-    cross relaxation rate is calculated by the method of moments
-    taking into account the effect of the crystal line electric
-    field

@@ -1,5 +1,0 @@
-the self charge spreading of a fucused electron beam
-    simple formulae derived from wave mechanical considerations are
-    obtained for the upper limitems of the self charge effects ie
-    spreading of beam and displacements of image plane and
-    fraunhofer plane

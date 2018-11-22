@@ -1,5 +1,0 @@
-the single electrode discharge at pressures from a few
-    millimetres of mercury to atmospheric pressure at the frequency
-    of experiments were conducted with discharges in air n and ar
-    to investigate the characteristics of the torch
-    discharge

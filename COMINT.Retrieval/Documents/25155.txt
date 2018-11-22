@@ -1,8 +1,0 @@
-field aligned ionospheric irregularities and the
-    scintillation of satellite radio transmissions observations of
-    radio transmissions from made at brisbane during july september
-    have been analysed results indicate that the scintillation
-    activity associated with propagation along the lines of the
-    earths magnetic field is more pronounced than that associated
-    with other directions of propagation the results are in
-    agreement with those of rush and colin

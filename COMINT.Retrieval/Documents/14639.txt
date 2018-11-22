@@ -1,4 +1,0 @@
-frequency stability of a stable multivibrators using
-    transistors the dependence of multivibrator frequency on
-    transistor characteristics and operating conditions is
-    investigated and rules for an optimum design are derived

@@ -1,4 +1,0 @@
-diagnostic programmes for the illiac a detailed
-    description is given of a leapfrog programme for detecting
-    faults this ensures that every component of the computer is
-    tested under all the different conditions of use

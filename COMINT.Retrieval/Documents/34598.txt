@@ -1,3 +1,0 @@
-transfluxor frequency memory a transfluxor is used as the
-    frequency control component of a magnetically coupled
-    multivibrator

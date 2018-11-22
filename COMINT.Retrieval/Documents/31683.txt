@@ -1,2 +1,0 @@
-an analogue computer for investigating the directivity
-    characteristics of complex arrays of unit aerials

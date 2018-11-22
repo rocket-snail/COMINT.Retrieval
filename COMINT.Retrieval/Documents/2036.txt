@@ -1,2 +1,0 @@
-satellite borne instrumentation for observing flux of
-    heavy primary cosmic radiation

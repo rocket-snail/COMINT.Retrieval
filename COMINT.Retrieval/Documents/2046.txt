@@ -1,5 +1,0 @@
-reversible dekatron counters bidirectional coupling in
-    multistage counters is achieved without the use of gating
-    circuits by providing the dekatrons with separate terminals for
-    the two transfer electrodes between the ninth and zero
-    cathodes

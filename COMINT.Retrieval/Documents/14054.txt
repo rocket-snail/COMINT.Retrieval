@@ -1,3 +1,0 @@
-a new use of the junction transistor as a pulse width
-    modulator the base pulse current is modulated in a common
-    emitter configuration

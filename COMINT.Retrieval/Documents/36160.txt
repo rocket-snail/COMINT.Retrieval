@@ -1,4 +1,0 @@
-polarization and angular extent of radiation from jupiter
-    it is found that the source is strongly linearly polarized
-    especially in the outer regions which extend to about three
-    times the diameter of the planet

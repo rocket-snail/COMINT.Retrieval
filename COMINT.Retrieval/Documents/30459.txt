@@ -1,3 +1,0 @@
-class amplifier and oscillator design charts are
-    presented for simplifying the design procedure using a method
-    based on that of

@@ -1,5 +1,0 @@
-electrohydromagnetic waves in a fully ionized gas part
-    one transport equations are used to determine coefficients
-    which are generalizations for any frequency of electric field
-    of the parallel pedersen and hall conductivities applications
-    are discussed

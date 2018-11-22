@@ -1,5 +1,0 @@
-outer radiation belt and solar proton observations with
-    explorer during march april a preliminary summary of observed
-    counting rates which includes rate time plots for typical
-    passes some of the fluctuations in the outer belt during the
-    observation period are referred to briefly

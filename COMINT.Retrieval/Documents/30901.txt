@@ -1,3 +1,0 @@
-inverse of a finite segment of the hilbert matrix
-    (algorithm 50) january, 1962 randell, b. ca620113 jb march 20,
-    1978 4:31 pm

@@ -1,6 +1,0 @@
-wave propagation in a partially ionized medium
-    theoretical treatment of the propagation and damping of low
-    frequency waves in an infinite uniform partially ionized medium
-    in a longitudinal magnetic field tso two longitudinal modes one
-    an acoustic wave and two transverse uncoupled modes are
-    identified

@@ -1,4 +1,0 @@
-des gning transformers for blocking oscillators design
-    procedure based on four common circuits is given the pulse
-    shape is calculable and a size reduction over previous units is
-    obtained with a type core

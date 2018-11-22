@@ -1,5 +1,0 @@
-internal alternating current resistance and reactance of
-    conductors of circular cross section a numerical table is
-    presented for simple and accurate calculations for solid
-    conductors and for thin or thick tubes proximity effect is
-    neglected

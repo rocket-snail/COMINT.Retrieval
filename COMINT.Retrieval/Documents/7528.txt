@@ -1,5 +1,0 @@
-vibration filters the application of vibration
-    galvanometers as narrow band electrical filters is considered
-    theoretically experimental results for frequencies of are
-    tabulated and presented graphically the corresponding band
-    widths varied between

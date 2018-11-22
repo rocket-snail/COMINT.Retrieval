@@ -1,8 +1,0 @@
-variations in the positive ion concentration with
-    altitude from data of mass spectrometry measurements on the
-    third satellite mass spectrometer measurements of the ion
-    concentration are compared with measurements of electron
-    concentration obtained from radio observations of the first and
-    third soviet satellites and with measurements of positive ion
-    concentration obtained with positive ion traps installed on the
-    third soviet satellite

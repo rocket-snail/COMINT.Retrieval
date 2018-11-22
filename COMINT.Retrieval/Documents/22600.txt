@@ -1,5 +1,0 @@
-variable conductance sampling switch weighted sums are
-    produced of discrete samples from continuous voltage waveforms
-    by varying the rate at which the integrating capacitor can
-    charge the switch has been operated randomly and cyclically at
-    rates between and sec

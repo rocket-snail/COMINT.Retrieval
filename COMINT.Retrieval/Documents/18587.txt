@@ -1,4 +1,0 @@
-equatorial spread f and f layer heights extension of
-    earlier work to include a study of the high correlation between
-    the rise in height of the f layer just after local sunset and
-    the subsequent occurrence of spread f

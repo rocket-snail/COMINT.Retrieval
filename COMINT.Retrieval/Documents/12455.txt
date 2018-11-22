@@ -1,4 +1,0 @@
-shaping of distributed rc networks an improvement in the
-    attenuation factor of a phase shift network from to appears to
-    be possible if the conventional uptapered section network is
-    replaced by a tapered distributed network

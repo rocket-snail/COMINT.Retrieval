@@ -1,5 +1,0 @@
-the determination of ionospheric electron content by
-    observation of faraday fading fading was observed on satellite
-    signals derived electron densities agreed with those deduced
-    form vertical incidence soundings up to the maximum of the f
-    layer

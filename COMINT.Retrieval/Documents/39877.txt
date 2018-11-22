@@ -1,7 +1,0 @@
-transient conditions by transformation of the fourier
-    integrals to obtain a series development of bessel functions
-    expressions have been derived for certain transient response
-    characteristics these included the response of a low pass and a
-    high pass lc ladder filter and of a homogeneous transmission
-    line to unit step and sinusoidal voltage input when the system
-    is terminated by its image impedance

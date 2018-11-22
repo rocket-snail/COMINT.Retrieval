@@ -1,9 +1,0 @@
-some designs of ladder filter results obtained and
-    methods of calculation the principle of matching half sections
-    and transforming impedances in designing filters with a minimum
-    number of components is illustrated in two examples a narrow
-    band band pass filter for and a filter with a pass band centred
-    on formulae relating to the transformation of t type
-    quadripoles to type and vice versa and to various types of
-    quadripoles for impedance matching are collected in
-    appendices

@@ -1,7 +1,0 @@
-subaudio oscillator tunes to cycles a beat frequency
-    oscillator using carrier frequencies of about provides an
-    output of up to constant within over the frequency range with
-    per hour drift and distortion the need for low frequency
-    amplification is avoided by the use of a high level mixer
-    circuit consisting of two se rectifiers with balancing
-    adjustment to eliminate the d c component

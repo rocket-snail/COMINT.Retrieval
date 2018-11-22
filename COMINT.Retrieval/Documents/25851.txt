@@ -1,6 +1,0 @@
-a myriabit magnetic core matrix memory description of an
-    experimental information storage system providing random access
-    to any one of bits in a few microseconds the system is an
-    extension of that previously described by papian of details are
-    given of the cores which are of ferromagnetic ceramic material
-    and of diameter in and of the operation of the array

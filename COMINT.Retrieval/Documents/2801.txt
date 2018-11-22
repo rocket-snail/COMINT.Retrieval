@@ -1,6 +1,0 @@
-low frequency transistor oscillators theoretical
-    treatment of a junction transistor oscillator for frequencies
-    of a few frequency and amplitude stability conversion
-    efficiency and the conditions governing starting are considered
-    a practical circuit design is derived and experimental results
-    are given

@@ -1,2 +1,0 @@
-the linearized transfer function of a phase locked loop
-    containing an if amplifier

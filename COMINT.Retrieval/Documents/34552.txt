@@ -1,7 +1,0 @@
-the theory of the reflectivity of metals the reflectivity
-    of an ideal metal for infrared radiation is calculated by a
-    quantum mechanics method results agree with those obtained by
-    dingle of using classical methods the diffuse reflection wave
-    functions correspond more closely than the specular reflection
-    wave functions to the actual electronic wave functions as
-    indicated by experimental results

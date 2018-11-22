@@ -1,5 +1,0 @@
-effects of dispersion and focusing on the production of
-    optical harmonics the generation of blue light by the incidence
-    of red light from a ruby laser upon quartz and kdp is examined
-    particular attention is giten to the variation in blue light
-    intensity with crystal orientation

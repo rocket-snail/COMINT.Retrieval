@@ -1,5 +1,0 @@
-parametric circuits with nonlinear inductances in the
-    lower frequency range extension of earlier analysis of to cover
-    nonlinear inductances and their application in amplifiers up
-    converters and down converters results of experiments using a
-    ferrite core as nonlinear element at af are discussed

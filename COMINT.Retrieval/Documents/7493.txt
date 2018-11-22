@@ -1,3 +1,0 @@
-a double pumping scheme applicable to low frequency
-    masers note on a parallel pumping system of importance for low
-    frequency operation of a ruby maser

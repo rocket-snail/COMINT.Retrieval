@@ -1,6 +1,0 @@
-some variational problems connected with the launching of
-    an artificial earth satellite a mathematical analysis of the
-    best angle of elevation for a rocket which is required to put a
-    satellite into an orbit with minimum fuel consumption and
-    allowing for a variable gravitational field and the rotation of
-    the earth

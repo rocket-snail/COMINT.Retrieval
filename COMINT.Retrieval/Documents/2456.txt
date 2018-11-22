@@ -1,3 +1,0 @@
-the maser a review of development describing the
-    principles of molecular beam negative temperature optically
-    pumped and solid state masers

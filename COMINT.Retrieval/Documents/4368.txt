@@ -1,7 +1,0 @@
-a new automatic frequency regulation system brief
-    description of a system for stabilizing the output of a k band
-    klystron the error signal is derived from a phase comparison of
-    a driving signal with the rectified microwave signal reflected
-    from a dimension modulated reference cavity the resonance
-    frequency of the cavity is controlled by a driven rochelle salt
-    crystal

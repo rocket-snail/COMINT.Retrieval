@@ -1,4 +1,0 @@
-a photocell amplifier for infra red spectroscopy
-    description of a highly linear amplifier for use at a chopping
-    frequency of gain variation is for variation of supply
-    voltage

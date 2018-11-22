@@ -1,8 +1,0 @@
-design of low pass amplifiers for fast transients the
-    proposed synthesis of an interstage coupling network for wide
-    band low pass amplifiers is based on darlingtons design method
-    of some practical details are given of a amplifier
-    experimentally determined phase and amplitude characteristics
-    are presented graphically oscillograms of the transient
-    response are shown details are also given of the design of a
-    phase correction network

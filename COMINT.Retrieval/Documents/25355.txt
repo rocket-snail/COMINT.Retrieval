@@ -1,7 +1,0 @@
-meteor radiant determination from high echo rate
-    observations a simplified analysis is given of the clegg method
-    for delineating meteor radiants from radar observations see of
-    a further analysis reveals a new and faster method of
-    interpreting the data contained in meteor echo records this
-    method is applicable when sensitive equipment is employed and
-    the resulting echo rate is very high

@@ -1,4 +1,0 @@
-a solution of the integral equation a method involving
-    power series expansions is given for solving the integral
-    equation one advantage of the method is the use of a set of
-    master curves which applies for all stations

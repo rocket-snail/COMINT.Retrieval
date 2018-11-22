@@ -1,5 +1,0 @@
-magnetic shift register correlator printed decimal digits
-    are easily recognised by a magnetic shift register using
-    digital to analog converters at each stage recognition is
-    obtained using a waveform fitting function instrumented with
-    the shift register for correlation

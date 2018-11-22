@@ -1,7 +1,0 @@
-crystal diodes in voltage dividers in particular for
-    increasing the linearity and slope of static and dynamic
-    characteristics hf voltage dividers are discussed comprising a
-    diode in series with a passive element the voltage division
-    ratio being varied by suitably controlling the diode
-    applications to reactance valve fm circuits are
-    described

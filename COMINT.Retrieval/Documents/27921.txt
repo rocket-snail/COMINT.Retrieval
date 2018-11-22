@@ -1,6 +1,0 @@
-an amplifier with low dissipation and short rise time for
-    crt by using electron multiplier valves in an amplifier for
-    scintillation counter pulses a gain of about and rise time of
-    are obtained with only a few valves details are given of a
-    circuit for a negative pulse input giving an output of
-    about

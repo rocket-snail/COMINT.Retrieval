@@ -1,6 +1,0 @@
-radio propagation measurements using the explorer
-    satellite coherent signals at and were emitted by the satellite
-    the results gave electron densities of about at above the earth
-    this is higher than expected and may have been influenced by an
-    intense geomagnetic storm or by the need to make large
-    corrections

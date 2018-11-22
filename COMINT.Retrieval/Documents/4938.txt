@@ -1,4 +1,0 @@
-a general thesaurus for the german library. pilot study.
-    the kind and form of the terms used by the deutsche bibliothek
-    (db) were analysed for subject description and tested for their
-    suitability as elements of a general library thesaurus.

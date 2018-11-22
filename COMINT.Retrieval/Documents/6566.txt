@@ -1,7 +1,0 @@
-rocket measurements of flayer electron density and their
-    interpretation theoretical considerations about the shape of
-    the electron density profile near the f peak are compared with
-    data obtained from rockets of march the results are consistent
-    with day and night temperatures of about an respectively
-    numerical values of the loss coefficient and other parameters
-    are given

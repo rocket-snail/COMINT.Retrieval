@@ -1,4 +1,0 @@
-ionospheric drifts at xamagawa in japan drift speeds
-    diurnal variations of the drift vector and the relation between
-    speed and geomagnetic activity are discussed using results
-    obtained during about one year from august

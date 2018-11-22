@@ -1,7 +1,0 @@
-the remington rand type electronic computer construction
-    and operation are described of a machine of moderate size for
-    accounting purposes using thermionic valves and cold cathode
-    gas diodes programming is directed by means of plug boards
-    there are calculating steps and special steps and special steps
-    each step is automatically tested by a reverse process a
-    reproduce feature is included

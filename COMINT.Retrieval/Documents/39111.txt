@@ -1,5 +1,0 @@
-use of chebychev polynomials in thin film computations
-    from herpins expression for the mth power o a multilayer matrix
-    very simple closed formulas are derived for the matrices and
-    optical constants of any multilayer with a periodic
-    structure

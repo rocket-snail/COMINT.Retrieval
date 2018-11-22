@@ -1,4 +1,0 @@
-ladder networks with similar quadripole sections formulae
-    for the section input and output currents and voltages and
-    input impedances are derived directly from kirchhoffs laws
-    using determinants

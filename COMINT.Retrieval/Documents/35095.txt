@@ -1,8 +1,0 @@
-publishing. read all about it. brief descriptions of 2
-    packages for magazine publishers with internal data processing
-    facilities' csc group's sirius b reader enquiry system and
-    subscription package, as used by the builder ltd, publishers of
-    2building1; and security computing services' periodic
-    publishing system, a suite of 5 inter-related program modules
-    (order entry and invoicing, financial accounting, subscription
-    maintenance, wholesaling, and reader enquiry service).

@@ -1,4 +1,0 @@
-the fourth reflection condition for electromagnetic waves
-    in a plasma the introduction of a term generally neglected in
-    applying boltzmanns equation modifies the expression for
-    refractive index normally used in magneto ionic theory

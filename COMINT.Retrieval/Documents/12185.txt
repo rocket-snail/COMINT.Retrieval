@@ -1,4 +1,0 @@
-response of a thermocouple circuit to non steady currents
-    a general expressions for the transient response is derived and
-    applied to several special forms of time dependent
-    current

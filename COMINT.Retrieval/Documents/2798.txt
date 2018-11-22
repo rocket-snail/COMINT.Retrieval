@@ -1,4 +1,0 @@
-propagation of electromagnetic surface wave along wedge
-    surfaces the conditions under which surface waves can be
-    excited by a plane em wave incident on a wedge are
-    determined

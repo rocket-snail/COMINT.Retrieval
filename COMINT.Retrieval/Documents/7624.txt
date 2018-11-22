@@ -1,3 +1,0 @@
-possibility of free oscillations in a variable parameter
-    resonant system comprehensive general analysis is presented for
-    time variable linear systems

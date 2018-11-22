@@ -1,4 +1,0 @@
-an introduction to the theory of solid state masers basic
-    theory is summarized and used to evaluate the engineering
-    characteristics of a travelling wave maser employing the comb
-    type of slow wave guide

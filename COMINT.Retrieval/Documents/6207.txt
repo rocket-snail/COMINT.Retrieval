@@ -1,8 +1,0 @@
-hampshire social services department on-line information
-    system. describes the background to the setting up of the
-    original batch system in 1974 and reviews progress in
-    developing an on-line version. this not only improves levels of
-    accuracy in client records but has also allowed the
-    introduction of new fields and facilities such as vacancy
-    searching. it is planned to install visual display units in
-    area offices in 1982.

@@ -1,2 +1,0 @@
-steady state and transient analysis of an idealized
-    series connected magnetic amplifier

@@ -1,9 +1,0 @@
-a high efficiency high quality audio frequency power
-    amplifier the circuit uses a type valve as phase inverter
-    amplifier driver stage direct coupled to two output beam
-    tetrodes operating in class b push pull with db of feedback the
-    output transformer has a bifilar wound primary and the feedback
-    winding is electrostatically shielded from the secondary but
-    very closely coupled to it full power output is at frequencies
-    design of the circuits and performance details are
-    described

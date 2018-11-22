@@ -1,4 +1,0 @@
-the radiation from a charged particle passing through a
-    plate expressions are derived for the fourier components of the
-    radiation field in the space in front of and behind a
-    dielectric plate in vacuum

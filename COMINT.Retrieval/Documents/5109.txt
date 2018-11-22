@@ -1,9 +1,0 @@
-literary concordances' a guide to the preparation of
-    manual and computer concordances. comments on 6 areas of
-    fundamental concern to concordance compilers' selection of base
-    text; arrangement of concordances; organisation of entries;
-    comprehensiveness; provision of statistical aids; and
-    additional editorial matter. also mentions special kinds of
-    concordances. robert l. oakman describes the cocoa (count and
-    concordance generation on atlas) program package developed at
-    the uk atlas computer laboratory.

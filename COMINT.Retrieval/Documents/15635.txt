@@ -1,6 +1,0 @@
-the eccles jordan circuit with transistors for high speed
-    counters a static analysis of a transistor flip flop circuit is
-    given and the counting frequency limits for high speed counters
-    consisting of balanced flip flop elements are discussed
-    circuits operating at frequencies in excess of are
-    described

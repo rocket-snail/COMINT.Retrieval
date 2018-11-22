@@ -1,5 +1,0 @@
-relaxation times in magnetic resonance the effect of
-    motion of the absorption centres on the width of resonance
-    lines is discussed on the basis of a random walk model and a
-    simple picture is presented of the electron relaxation
-    processes

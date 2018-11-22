@@ -1,9 +1,0 @@
-demagnetization coefficients of high permeability cores
-    experimental determination of the dependence of demagnetization
-    coefficients on geometrical dimensions of solid or laminated
-    cores of rectangular cross section and solid or hollow
-    cylindrical cores a semi empirical formula for calculating the
-    demagnetization coefficient of cylindrical rectangular cross
-    section and ellipsoidal cores is given and the calculated
-    results are shown to be in good agreement with
-    measurements

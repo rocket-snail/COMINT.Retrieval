@@ -1,5 +1,0 @@
-active high frequency spectrometers for ionospheric
-    sounding part selection of the echo signals from the noise
-    background the prior knowledge of echo properties such as
-    periodicity signal shape rf phase and direction of arrival may
-    be used to improve ionospheric recording methods

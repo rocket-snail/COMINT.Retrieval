@@ -1,4 +1,0 @@
-plasma oscillations in external fields for a weak
-    electric field the usual method of analysis valid for zero
-    field can be applied the formation of ion waves and their time
-    variation are considered

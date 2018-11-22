@@ -1,2 +1,0 @@
-a consistency condition for electron wave
-    functions

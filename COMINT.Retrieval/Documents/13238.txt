@@ -1,4 +1,0 @@
-application of hansens theory to the motion of an
-    artificial satellite in thn gravitational field of the earth a
-    numerical theory suitable for solution by computer which has
-    been applied in the vanguard program

@@ -1,3 +1,0 @@
-designing grounded grid amplifiers with controlled gain a
-    six stage low noise if amplifier with microminiature ceramic
-    triodes is described

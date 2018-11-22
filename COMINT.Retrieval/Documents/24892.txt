@@ -1,6 +1,0 @@
-multiple scattering by a random stack of dielectric slabs
-    when the number of slabs is large the neumann series for the
-    mean square transmission and reflection coefficients converges
-    much more rapidly than would be inferred from the smallness of
-    the perturbation of the incident field by the scattering
-    medium

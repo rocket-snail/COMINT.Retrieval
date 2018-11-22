@@ -1,3 +1,0 @@
-the statistics of plasma fundamental dynamic equations
-    are derived comprising a system of partial differential
-    equations

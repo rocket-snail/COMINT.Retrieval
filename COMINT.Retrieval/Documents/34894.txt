@@ -1,9 +1,0 @@
-a variational formulation of the multi stream electro
-    dynamic field equations a non relativistic approximation to
-    diracs new variational formulation of the single stream
-    electrodynamic field equations is presented using vector
-    notation and mks units throughout the hamilton jacobi theory of
-    a rotational space charge stream is developed the variational
-    formulation is generalized to the multi stream case both for a
-    finite number and a non denumerably infinite number of
-    streams

@@ -1,5 +1,0 @@
-a determination of the principal plane of the galaxy data
-    from the leiden and sydney surveys of the milky way have been
-    used to determine the position of the plane of the neutral
-    hydrogen layer which is found to be exceedingly flat over the
-    galaxy within kiloparsecs from the centre

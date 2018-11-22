@@ -1,5 +1,0 @@
-magnetic and dielectric elements for computers a survey
-    of the applications of materials with rectangular hysteresis
-    loops two classes are distinguished namely those depending on a
-    high ratio of remanence to saturation and those for which the
-    squareness ratio is important

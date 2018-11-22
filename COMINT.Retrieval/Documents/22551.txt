@@ -1,6 +1,0 @@
-mechanisms of creation of i nospheric inhomogeneities
-    results of approximate calculations indicate that a negative
-    temperature gradient of about deg cm or greater at a height of
-    about could result in thermal convection current such as would
-    produce inhomogeneities and high velocity winds in the
-    ionosphere the temperature at km is assumed to be about

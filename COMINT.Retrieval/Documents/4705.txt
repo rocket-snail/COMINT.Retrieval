@@ -1,3 +1,0 @@
-how ring counters work basic thyratron and thermionic
-    valve circuits are described and reference is made to the use
-    of the circuit as an electronic rotary switch

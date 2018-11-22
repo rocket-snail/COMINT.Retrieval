@@ -1,3 +1,0 @@
-investigation of an apparatus for recording atmospherics
-    an analysis of an integrating circuit with a long time constant
-    and its response to a series of pulses

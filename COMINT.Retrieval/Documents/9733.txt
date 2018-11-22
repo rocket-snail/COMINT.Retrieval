@@ -1,6 +1,0 @@
-derivation of the boltzmann transport equation for
-    inelastic collisions a quantum mechanical treatment similar to
-    that developed by kohn and luttinger for elastic collisions of
-    for fermi dirac particles the scattering in the collision terof
-    the transport equation is restricted to unoccupied states
-    only

@@ -1,3 +1,0 @@
-the problem of nonlinear signal distortion in ring
-    modulators theoretical and experimental investigation
-    particularly of third order distortion

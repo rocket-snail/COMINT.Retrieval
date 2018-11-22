@@ -1,3 +1,0 @@
-on an iterative method for nonlinear vibrations analysis
-    of a method giving results analogous to those obtained by
-    duffings method

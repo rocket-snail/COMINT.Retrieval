@@ -1,6 +1,0 @@
-audio automatic volume control systems applications of a
-    vc are noted and various circuits are reviewed methods of
-    eliminating audible thump occurring on application of a direct
-    control voltage of deriving the control voltage and of reducing
-    time delay are discussed measurement techniques are
-    outlined

@@ -1,7 +1,0 @@
-statistics of the ising ferromagnet the ising model is
-    treated by synthesizing a cluster treatment with the spherical
-    model which is used to determine approximately the molecular
-    field acting on the cluster and the effective interactions
-    between dipoles of the cluster the method is applied to the
-    square net and to the cubic lattice and the critical
-    temperatures are obtained

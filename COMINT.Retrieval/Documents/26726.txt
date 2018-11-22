@@ -1,5 +1,0 @@
-effective circuit bandwidth for noise with a power law
-    spectrum analysis is developed for a tuned rlc circuit for
-    noise with a frequency spectrum given by an arbitrary power law
-    the effective bandwidth is presented in terms of that for white
-    noise

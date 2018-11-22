@@ -1,4 +1,0 @@
-a new type of rc oscillator a circuit requiring a much
-    smaller amount of valve amplification than the usual phase
-    shift oscillator uses a specially designed twin t feedback
-    network

@@ -1,6 +1,0 @@
-anomalous skin effect in ferromagnetics a brief
-    mathematical analysis of the anomalous skin effect which is
-    present in ferromagnetic materials at resonance at low
-    temperature and at high frequencies when the depth of the skin
-    layer is of the order of the length of a free path of the
-    conduction electrons

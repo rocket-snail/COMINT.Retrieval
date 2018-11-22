@@ -1,5 +1,0 @@
-radio detection of the planet saturn brief report of the
-    detection of cm radiation from saturn using an x band ruby
-    maser in a modified dicke type radiometer system installed on
-    an ft paraboloid a peak aerial temperature of was obtained
-    indicating an equivalent black body disk temperature of

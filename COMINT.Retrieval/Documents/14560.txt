@@ -1,6 +1,0 @@
-general power relationships for positive and negative
-    nonlinear resistive elements the method developed by manley and
-    rowe for the treatment of reactive elements is extended to
-    resistors relations are derived which yield modulation
-    efficiency efficiency of harmonic generation and stability
-    criteria

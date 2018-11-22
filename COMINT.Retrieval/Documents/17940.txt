@@ -1,6 +1,0 @@
-the structure of the iterative matrix of reactance
-    quadripoles with a given derived circuit or a given
-    characteristic function the relations between the structure of
-    the characteristic function the irerative matrix and the
-    derived circuit or canonical ladder network are established and
-    the results are tabulated

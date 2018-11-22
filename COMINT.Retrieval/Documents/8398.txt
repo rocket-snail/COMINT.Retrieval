@@ -1,7 +1,0 @@
-the calculation of static and dynamic amplitude and
-    frequency distortion of frequency modulated oscillations with
-    the transmission factor given in series form the cases of
-    frequency amplitude and limiting distortion distortion due to
-    non ideal limiting conditions are investigated to derive
-    general expressions for the treatment of signal
-    distortion

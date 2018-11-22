@@ -1,4 +1,0 @@
-collective excitations of electrons in degenerate bands
-    part spin waves in stoners model of ferromagnetism spin waves
-    in the collective electron model of ferromagnetism are
-    derived

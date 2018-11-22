@@ -1,8 +1,0 @@
-an analog to digital converter a device for giving the
-    angular position of a slowly rotating shaft as a binary number
-    uses a mechanical counter which goes from zero to full capacity
-    during one revolution of the shaft the counter may comprise a
-    series of cams associated with switches on application of a
-    reading pulse the number registered by the counter is made
-    available as a pattern of pulses the arrangement being suitable
-    as an input device for a digital computer

@@ -1,9 +1,0 @@
-initial transients in some special passive networks with
-    amplitude and frequency modulation it is shown that for
-    multistage selective circuits there is an optimum coupling for
-    which the output corresponding to unit step input is aperiodic
-    and free from overshoot the performance of two frequency shift
-    circuits is studied and the existence of an optimum ratio of
-    shift to keying frequency is demonstrated a formula is derived
-    for calculating distortion factor for two circuit band pass
-    filters with

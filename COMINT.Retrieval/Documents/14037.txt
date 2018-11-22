@@ -1,4 +1,0 @@
-damping method in the theory of electrical conductivity a
-    method as suggested for calculating the conductivity tensor
-    similar to the time fluctuation method used in quantum field
-    theory

@@ -1,3 +1,0 @@
-a nearly optimum wide band degenerate parametric
-    amplifier a double resonator single diode design with bandwidth
-    of

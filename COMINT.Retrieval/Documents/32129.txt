@@ -1,6 +1,0 @@
-representation of experimental results by equations an
-    analytical method is discussed for determining the form of the
-    equation representing the measurements of a dependent variable
-    as a function of an independent variable the accuracy with
-    which values can hence be found for the numerical coefficients
-    is examined

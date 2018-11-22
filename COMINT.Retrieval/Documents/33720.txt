@@ -1,8 +1,0 @@
-on asymptotic series fo functions occurring in the theory
-    of diffraction of waves by wedges an asymptotic expansion of
-    the integral expression for diffraction by a wedge at distances
-    large compared with is obtained as the sum of a fresnel
-    integral as leading term and an asymptotic series of inverse
-    powers of the distance for small values of the distance the
-    expansion takes the form of a series involving bessel
-    functions

@@ -1,8 +1,0 @@
-selection of molecular fragment features for
-    structure-activity studies in antitumour screening. the
-    national cancer institute developmental therapeutics program
-    screens about 13,000 compounds per year for antitumour activity
-    in a mouse prescreen. a method for predicting activity uses
-    molecular fragment features of potential acquisitions. this
-    paper covers some details about how the set of features was
-    chosen, filling a gap in earlier publications.

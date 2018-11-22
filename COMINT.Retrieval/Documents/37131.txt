@@ -1,7 +1,0 @@
-the electromagnetic field in the plane of a circular
-    aperture due to incident spherical waves measurements were made
-    of the field in an aperture of diameter cm illuminated with
-    radiation of wavelength from small radiators at various
-    distances results are shown graphically the curves obtained can
-    be represented approximately by a modified form of andrews
-    equation of

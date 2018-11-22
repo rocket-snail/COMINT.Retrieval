@@ -1,6 +1,0 @@
-theory of single resonance parametric amplifiers a
-    parametric amplifier that supports a resonance at the idler
-    frequency only is capable of unlimited gain when operated
-    either as a straight through amplifier or as a lower sideband
-    ur converter this makes feasible a continuously tunable
-    parametric receiver

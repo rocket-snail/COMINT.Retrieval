@@ -1,5 +1,0 @@
-field intensities and charge densities in thunderclouds
-    calculations based on the assumption that the thundercloud is
-    ellipsoidal give the maximum field strength in the cloud as and
-    the charge density as cm the conditions under which lightning
-    discharges may be initiated are discussed

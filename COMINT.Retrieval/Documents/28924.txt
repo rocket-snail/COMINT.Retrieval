@@ -1,7 +1,0 @@
-a unidirectional attenuator with delay line and ferrite
-    element for the frequency band the attenuation afforded by
-    various devices comprising ferrite tubes surrounding helical
-    lines and in turn surrounded by tubular magnets was
-    investigated experimentally results are presented graphically
-    the attenuation obtained with the final design was about in the
-    forward direction and in the blocking direction

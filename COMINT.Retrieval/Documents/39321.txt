@@ -1,6 +1,0 @@
-determination of energy and phase characteristics of
-    electrical filters the leontovich theorem which states that in
-    nondissipative media the velocity is applied to the case of a
-    filter considered as an equivalent waveguide system the
-    velocity of propagation of energy can be calculated when the
-    dispersion is known

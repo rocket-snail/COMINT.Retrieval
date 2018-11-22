@@ -1,9 +1,0 @@
-servo control of the position and size of an optical
-    scanning system a method of controlling the position and size
-    of a television type raster relative to arbitrary references by
-    means of four servo mechanisms is described one of the
-    applications of such a system is that of a reading device for
-    punched cards a system for reading any one of a stack of cards
-    without removing the selected card has been developed using the
-    servo controlled raster the design of the servo mechanisms for
-    this application is described in detail

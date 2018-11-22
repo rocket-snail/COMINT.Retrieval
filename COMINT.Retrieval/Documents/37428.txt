@@ -1,5 +1,0 @@
-an approximation method for the treatment of spherical
-    aberration of objectives using the methods of communication
-    theory the surface of the objective is divided into zones and a
-    simple formula is derived for evaluating the brightness
-    distribution in the image plane

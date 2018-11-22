@@ -1,4 +1,0 @@
-the breakdown strength of capacitors a formula for
-    breakdown field strength is derived which contains the
-    coefficient of thermal conductivity the dielectric constant and
-    a factor giving carrier mobility

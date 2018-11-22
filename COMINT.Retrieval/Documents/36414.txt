@@ -1,7 +1,0 @@
-a chemical approach to the treatment of electronic spin
-    in semiconductors a method due to fowler in which the electrons
-    and the neutral and ionized donors are treated as chemical
-    entities affords a simple approach in the nondegenerate case
-    the results obtained agree with those of landsberg of when the
-    occurrence of neutral donors containing a unpaired and paired
-    electrons is taken into account

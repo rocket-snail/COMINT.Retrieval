@@ -1,5 +1,0 @@
-on the additivity of photocurrent and secondary electron
-    current measurements on ai provide confirmation of the
-    existence of additivity as asserted by ekertova and contrary to
-    the findings of dember which may have been affected by an
-    internal photoeffect in the oxide layer of the target

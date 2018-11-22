@@ -1,4 +1,0 @@
-a swiss analogue computer an electromechanical system is
-    described in which quantities are represented by ac voltage
-    amplitudes and by the angle of rotation of shafts in a servo
-    system

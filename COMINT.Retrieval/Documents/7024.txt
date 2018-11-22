@@ -1,9 +1,0 @@
-some results on the cross capacitances per unit length of
-    cylindrical three terminal capacitors with thin dielectric
-    films on their electrodes the concept of power at complex
-    frequencies the significance of the term negative resistance is
-    discussed with regard to two different aspects one is the
-    behaviour of twopole networks with sinusoidal oscillators and a
-    negative slope characteristic the other is the case of
-    exponentially decaying oscillations where phase shifts greater
-    between current and voltage may arise

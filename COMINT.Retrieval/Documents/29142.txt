@@ -1,6 +1,0 @@
-pulse frequency multiplication and division by delay
-    lines analysis is given for simple arrangements of lumped
-    element lc lines for multiplication lines with linear
-    characteristics are suitable for division a nonlinear device eg
-    a pentode must be included in this case the input may be
-    sinusoidal

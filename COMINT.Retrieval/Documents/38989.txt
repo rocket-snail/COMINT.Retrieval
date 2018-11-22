@@ -1,8 +1,0 @@
-charge localization on the surface of oxide coated
-    cathodes anomalous results obtained while using the kelvin
-    method of determining contact potential differences are
-    investigated very high contact potential differences which
-    occur only after the passage of a discharge are attributed to
-    both positive ions and electrons which remain on the oxide
-    surface for long periods depending on the conductivity of the
-    oxide

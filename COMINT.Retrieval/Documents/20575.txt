@@ -1,6 +1,0 @@
-a unifying theory of high latitude geophysical phenomena
-    and geomagnetic storms a convection system set up in the
-    magnetosphere by viscous interaction between the magnetosphere
-    and a solar wind or by other sources could account for a wide
-    variety of observed high latitude geophysical phenomena and
-    storm time variations

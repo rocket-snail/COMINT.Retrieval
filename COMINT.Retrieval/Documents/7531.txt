@@ -1,4 +1,0 @@
-a voltage controlled continuously variable low pass
-    filter the filter has a octave cut off characteristic and the
-    cut off frequency at is continuously variable from to by a
-    control voltage variation of v

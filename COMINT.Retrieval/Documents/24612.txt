@@ -1,7 +1,0 @@
-diffraction of electromagnetic waves by two parallel half
-    planes the field of a plane wave diffracted by the edges of two
-    parallel conducting sheets has been measured close to the
-    diffracting edges for various spacings between the sheets
-    experimental results for a spacing of one wavelength are
-    compared with values derived from theory presented by clemmow
-    of the agreement is satisfactory

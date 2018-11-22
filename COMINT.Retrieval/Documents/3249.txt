@@ -1,6 +1,0 @@
-theoretical interpretation of field emission experiments
-    experimental results obtained by various workers on field
-    emission from tungsten and barium on tungsten surfaces are
-    discussed in relation to theories regarding the nature of the
-    surface potential barrier and the distortion of the field by
-    space charge

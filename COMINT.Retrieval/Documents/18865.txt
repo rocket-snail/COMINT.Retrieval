@@ -1,3 +1,0 @@
-atmospheric densities at heights of km atmospheric
-    densities determined from changes in the orbits of earth
-    satellites are discussed

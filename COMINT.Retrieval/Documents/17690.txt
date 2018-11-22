@@ -1,5 +1,0 @@
-ceramic capacitors a complete substitute for paper and
-    mica capacitors the electrical characteristics of paper mica
-    and ceramic capacitors are compared performance tests on
-    receivers before and after substituting ceramic for paper
-    capacitors show no significant difference

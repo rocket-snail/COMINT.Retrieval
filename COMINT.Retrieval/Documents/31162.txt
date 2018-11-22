@@ -1,6 +1,0 @@
-the generation of short high power pulses by means of
-    spark gap switches the characteristics of the discharge current
-    in spark gap circuits aoe calculated tests were made on a
-    triggered pulse generator caicuit comprising two series
-    connected spark gaps equipment used and results obtained are
-    described

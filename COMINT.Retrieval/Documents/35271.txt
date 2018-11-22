@@ -1,8 +1,0 @@
-direct voltage stabilizers in the range with particular
-    reference to degenerative systems the maximum usable loop gain
-    depends on the frequency response of the system in practice
-    loop gains of the order of are possible the effects of mains
-    voltage and load current fluctuations are reduced by this
-    factor reference elements are reviewed but electron energy
-    analysers give comparable stability with smaller size and
-    current drain

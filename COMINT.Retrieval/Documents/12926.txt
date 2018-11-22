@@ -1,7 +1,0 @@
-a carrier energized bistable circuit using variable
-    capacitance diodes a variable capacitance junction diode when
-    used in a simple circuit driven from a high frequency source
-    can cause that circuit to have a bistable characteristic
-    suitable for dynamic storage or to have a sensitive output
-    input characteristic suitable for control or detection
-    purposes

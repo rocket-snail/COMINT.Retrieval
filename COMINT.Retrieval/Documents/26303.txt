@@ -1,2 +1,0 @@
-study of the selective fading appearing on the fct
-    traces

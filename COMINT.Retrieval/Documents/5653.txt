@@ -1,6 +1,0 @@
-the time behaviour of logarithmic amplifier input
-    circuits the nonlinear nature of the logarithmic amplifier
-    input circuit causes the time constant to vary with current and
-    three definitions of effective time constant are examined based
-    on an analysis of the time behaviour of the input circuit to a
-    step change of input current

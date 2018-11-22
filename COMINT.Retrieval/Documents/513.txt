@@ -1,6 +1,0 @@
-keeping track of earth satellites details are given of an
-    interferometer type aerial array having dipoles proximity
-    coupled to a two wire transmission line a receiver with inputs
-    switched at is used to detect signals below receiver noise
-    level calibration methods are described and some transit
-    passage records accurate to within sec are shown

@@ -1,7 +1,0 @@
-pulse compression a method is described for compressing
-    frequency modulated rf pulses ie shortening them and increasing
-    their amplitude by passing them through a delay distortion
-    network consisting of a chain of lattice quadripoles the theory
-    outlined is based on work by caucer published posthumously its
-    practical application in the field of radar should result in
-    higher resolving power for a given signal noise ratio

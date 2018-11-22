@@ -1,7 +1,0 @@
-the incidence of meteor particles upon the earth radio
-    echo rates for both shower and sporadic meteors measured at
-    adelaide with cw equipment are applied to the calculation of
-    the incident flux above limiting brightnesses in the region of
-    dependence of ionizing probability on velocity is discussed and
-    the fluxes and densities agree reasonably well with independent
-    evaluations from visual meteor rates

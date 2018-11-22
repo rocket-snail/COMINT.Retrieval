@@ -1,3 +1,0 @@
-pro and con on seven different methods of printed wiring
-    the basic techniques for each method are described and compared
-    a table of relevant us patents is included

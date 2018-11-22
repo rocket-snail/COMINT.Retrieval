@@ -1,5 +1,0 @@
-incoherency of pulse echoes and the measurement of
-    ionospheric absorption incoherently scattered energy gives rise
-    to errors in absorption measured by the pulse echo method
-    calculations of the magnitude of the error are confirmed by
-    experimental observations

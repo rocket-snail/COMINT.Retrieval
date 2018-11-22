@@ -1,4 +1,0 @@
-the calculation of build up processes in networks with
-    stagger tuned individual circuits and large relative bandwidths
-    the response to switching on transients of two and three stage
-    networks is calculated

@@ -1,9 +1,0 @@
-automated system of library and information services at
-    wroclaw polytechnic. wroclaw polytechnic's automated system of
-    library and information services (automatyczne przetwarzanie
-    informacji naukowej-apin) is aimed at the improvement of
-    documental information support given to both faculty and
-    students and is a leading system within poland's programme of
-    information service automation. describes apin's sdi, research
-    results information, signal information, cataloguing, and
-    information retrieval systems.

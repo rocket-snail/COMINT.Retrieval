@@ -1,7 +1,0 @@
-an analogue reciprocal function unit for use with pulsed
-    signals a monostable multivibrator operates so that the width
-    of the pulse generated is approximately inversely proportional
-    to the peak voltage of an input pulse the pulse width variation
-    is converted to a corresponding amplitude variation of sawtooth
-    output pulses by means of a constant velocity timebase
-    circuit

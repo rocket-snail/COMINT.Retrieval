@@ -1,5 +1,0 @@
-a computer oriented toward spatial problems a stored
-    program computer is described which can handle spatial problems
-    by operating directly on information in planar form without
-    scanning or other methods for transforming the problem into
-    some other domain

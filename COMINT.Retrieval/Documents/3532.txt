@@ -1,8 +1,0 @@
-voltage reference node description of a general method of
-    analysing linear networks by nodal analysis without specifying
-    the node to which all voltages are referred the network can be
-    represented by an indefinite admittance matrix which can be
-    brought to a definite form by omitting the row and column
-    corresponding to a specified reference node the method is
-    useful for dealing with valve circuits with earthed grid or
-    earthed anode stages or with no earthed electrodes

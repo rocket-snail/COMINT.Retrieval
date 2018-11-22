@@ -1,8 +1,0 @@
-on a macroscopic measurement of the spin of
-    electromagnetic radiation the spin of em radiation may be
-    deduced from the torque exerted at microwave frequencies by a
-    circularly polarized wave upon a screen which can conduct
-    current only parallel to a given direction see of calculations
-    are made of the angular momentum and scattering cross sections
-    of the screen and the feasibility of an accurate experiment is
-    discussed

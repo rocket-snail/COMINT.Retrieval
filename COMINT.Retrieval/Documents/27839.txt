@@ -1,8 +1,0 @@
-systems approach to design and retrieval of information
-    in large organizations. defines the parameters of the system
-    known as a library; identifies the components of a large
-    organisation's information system; presents the case for
-    computerisation of information storage and retrieval; and
-    discusses different aspects of information systems (equipment,
-    retrieval process, generic searches, and on-line
-    systems).

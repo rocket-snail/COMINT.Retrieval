@@ -1,5 +1,0 @@
-the order of complexity of electrical networks an
-    expression for the order i e the number of natural frequencies
-    is derived for a rlc network complete sets of dynamically
-    independent network variables are obtained from the network
-    equations

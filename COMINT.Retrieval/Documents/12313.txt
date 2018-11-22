@@ -1,6 +1,0 @@
-horizontal drifts and temperature in the lower part of
-    region e drift velocities deduced from the fading of cw signals
-    at oblique incidence are related to results obtained using
-    other techniques a minimum velocity at km is indicated and a
-    possible connection with a temperature minimum at the same
-    height is discussed

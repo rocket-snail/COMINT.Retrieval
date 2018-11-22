@@ -1,4 +1,0 @@
-statistical computers as applied to industrial control
-    principles and circuit techniques are discussed applications
-    described include the control of the diameter of extruded
-    plastic cable sheating

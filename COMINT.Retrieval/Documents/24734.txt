@@ -1,7 +1,0 @@
-image parameter theory for mechanical quadripoles in
-    compressional or torsional oscillation the equivalence of the
-    parameters of a mechanical system transmitting compressional or
-    torsional oscillations and the parameters of an electrical
-    transmission line is established the design of mechanical
-    filters is described and design formulae with response
-    characteristics are given for the basic filter sections

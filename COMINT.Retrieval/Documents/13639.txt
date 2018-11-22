@@ -1,9 +1,0 @@
-a travelling wave ferromagnetic amplifier amplification
-    of signal power can be obtained in a propagating structure
-    which is partially or totally embedded in a ferromagnetic
-    medium it is shown that one form of the structure possesses two
-    propagating modes and can also support a travelling wave
-    supplied by a local oscillator which provi es through the
-    magnetic changes a time varying coupling between the two
-    propagating modes the principle of operation is illustrated by
-    a simple transmission line model

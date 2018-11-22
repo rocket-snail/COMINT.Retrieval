@@ -1,7 +1,0 @@
-the second fundamental theorem of electrical networks an
-    independent proof is given of a theorem which states for the
-    norton nodal representation the relations previously proved by
-    ingram and cramlet of for the thevenin mesh representation the
-    nodal equations of kron as given by le corbeiller of are
-    deduced by a method similar to that of synge the relation
-    between the nodal and mesh theorems is discussed

@@ -1,6 +1,0 @@
-the absorption and reflection of microwave radiation by a
-    mercury vapour discharge results of measurements at show that
-    with increasing discharge current the real component of the
-    complex conductivity of the discharge increases almost linearly
-    the imaginary component which is negative increasing
-    nonlinearly ad and less rapidly

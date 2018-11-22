@@ -1,9 +1,0 @@
-polar ionospheric spread echoes and radio frequency
-    properties of ice shelves records from three stations in the
-    antarctic and one drifting stations in the antarctic and one
-    drifting station in the arctic show that downward radiation
-    from an ionosonde aerial is reflected from sea water under the
-    ice an interference pattern is established from which it is
-    possible to determine the thickness and dielectric constant of
-    the ice and the direction from which ionospheric spread echoes
-    arise

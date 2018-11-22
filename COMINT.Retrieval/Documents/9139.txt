@@ -1,9 +1,0 @@
-radar observations of the second russian earth satellite
-    sputnik an analysis of observations made with the steerable
-    radio telescope at jodrell bank at frequencies of and results
-    suggest that the observed fading characteristics were due
-    mainly to rotation of the satellite and from a study of the
-    scattering area it is concluded that the satellite was a long
-    object having a reradiation polar diagram with one major and
-    many minor lobes there was no evidence that the satellite
-    produced any ionization

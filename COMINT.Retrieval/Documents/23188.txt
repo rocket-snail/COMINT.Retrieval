@@ -1,5 +1,0 @@
-toroids of square loop ferrite material as switching
-    elements a differential equation is derived wi which described
-    magnetic reversal processes in square loop ferrites neglecting
-    the effect of eddy currents the application of this analysis to
-    practical switching circuits is considered

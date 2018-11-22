@@ -1,7 +1,0 @@
-a simplified method of solving linear and nonlinear
-    systems the method described uses the transform directly to
-    determine the responses of linear and nonlinear systems
-    approximately the solutions are given as time series
-    representing the values of the response at equally spaced
-    instants both constant and time varying systems are
-    considered

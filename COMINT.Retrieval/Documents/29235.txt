@@ -1,8 +1,0 @@
-the theory of ferromagnetic resonance at high signal
-    powers it is shown that two anomalous effects in the microwave
-    absorption of ferromagnets are connected with two kinds of
-    instability of the uniform precessional motion of the total
-    magnetization against certain spin wave disturbances the
-    susceptibilities are calculated for the final state attained by
-    the medium with high signal levels and are shown to agree with
-    experiment

@@ -1,4 +1,0 @@
-an improved algorithm to produce complex primes
-    (algorithm 401 $a1)) november, 1970 bratley, p. number theory,
-    prime numbers, complex numbers 5.39 ca701112 jb february 9,
-    1978 4:28 pm

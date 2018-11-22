@@ -1,4 +1,0 @@
-highly stable medium voltage direct and alternating
-    sources for test purposes a review of methods of stabilizing
-    supply voltages up to about and a note on methods of measuring
-    small changes of alternating voltage see also of

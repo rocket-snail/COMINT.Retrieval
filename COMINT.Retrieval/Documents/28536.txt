@@ -1,4 +1,0 @@
-short time transients in solar noise histograms have been
-    made from observations at dwingeloo holland rebers theory that
-    there is a linear relation between wavelength and duration of
-    pips is not confirmed at this frequency

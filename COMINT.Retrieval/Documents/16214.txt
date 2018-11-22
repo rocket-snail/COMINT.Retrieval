@@ -1,4 +1,0 @@
-the numerical calculation of filter circuits with
-    generalized parameters using modern theory with special
-    attention to cauers work corrections to paper abstracted in
-    of

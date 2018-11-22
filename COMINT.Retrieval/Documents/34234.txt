@@ -1,2 +1,0 @@
-theory of the discharge potential for coaxial cylindrical
-    electrodes in a transverse magnetic field

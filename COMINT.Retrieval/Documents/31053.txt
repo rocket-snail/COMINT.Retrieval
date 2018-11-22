@@ -1,3 +1,0 @@
-automatic data reduction of spot diagram information the
-    redistribution of energy falling on a photo cathode during
-    scanning by a mechanical image dissector is evaluated

@@ -1,3 +1,0 @@
-aspects on wide band parametric travelling wave
-    amplifiers methods are described for calculating amplification
-    bandwidth phase conditions and noise figure

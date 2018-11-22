@@ -1,4 +1,0 @@
-apparatus for microwave spectroscopy the design of a
-    spectrograph using stark modulation and a crystal or bolometer
-    detector is discussed and a detailed description is given of a
-    particular equipment

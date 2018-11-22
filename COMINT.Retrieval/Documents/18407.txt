@@ -1,3 +1,0 @@
-information flow and analysis' theory, simulation and
-    experiments. 2. simulation, examples and results. for part 1 of
-    this study 2see1 previous abstract.

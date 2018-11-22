@@ -1,8 +1,0 @@
-use pattern of indian institute of technology delhi
-    library' a survey. describes briefly a survey conducted at the
-    i.i.t. delhi library to find out the use pattern of the
-    library. it starts with the purpose of data collection and
-    explains methodology used, period of data, tabulation and
-    results obtained. based on findings, some important
-    observations relating to the functioning of the library were
-    made to make its services more need oriented.

@@ -1,7 +1,0 @@
-some characteristics and limitations of capacitor and
-    resistor components six types of film dielectric capacitors are
-    examined with respect to their performance specifications for a
-    new and reliable type of metallized paper capacitor at the
-    pilot plant development stage are given a satisfactory method
-    for power rating of precision bobbin resistors is
-    explained

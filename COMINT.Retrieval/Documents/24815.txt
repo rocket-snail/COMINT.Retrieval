@@ -1,6 +1,0 @@
-a selective detector amplifier for an amplifier is
-    described for use as a detector in bridge or other measurements
-    where a null indication is required tuning is accomplished by
-    means of parallel t feedback networks including only resistors
-    and capacitors noise is equivalent to an input signal of
-    across

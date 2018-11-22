@@ -1,8 +1,0 @@
-odd integer magnetic frequency multipliers for various
-    applications in the frequency f range frequency multiplication
-    can be performed more efficiently by magnetic than by
-    electronic equipment the operation of the magnetic m multiplier
-    is analysed and experimental units are described for higher
-    multiples multistage arrangements are preferred harmonic
-    distortion can be kept low by suitable choice of core
-    materials

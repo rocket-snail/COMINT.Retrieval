@@ -1,6 +1,0 @@
-contribution to the theory of ferroelectric polarization
-    curves the principles of the polarization theory for single and
-    many domain ferroelectric crystals with one or two curie points
-    are developed for weak strong and medim fields in contrast to
-    magnetization curve theory rotation can be neglected in the
-    first approximation

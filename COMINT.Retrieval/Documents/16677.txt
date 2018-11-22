@@ -1,5 +1,0 @@
-principles and application of electronic analogue
-    computers typical examples of electrical analogues and the
-    equipment for producing them are discussed and general design
-    considerations are presented the saunders roe general purpose
-    analogue computer is described

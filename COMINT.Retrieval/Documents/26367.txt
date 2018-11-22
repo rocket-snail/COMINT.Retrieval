@@ -1,5 +1,0 @@
-the behaviour of a nonlinear transistor amplifier in the
-    region of its stability limit an extension of earlier work the
-    limit of stability of the amplifier is established from the
-    form of the solution of a first order differential equation
-    describing the amplifier

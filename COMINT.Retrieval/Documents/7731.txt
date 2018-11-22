@@ -1,6 +1,0 @@
-analogue machine for calculation of the complex index of
-    a body from its reflection coefficient a resistance network is
-    discussed by means of which the phase shift of light reflected
-    by a body can be calculated if the reflection coefficient is
-    known for all wavelengths the refractive index can hence be
-    determined

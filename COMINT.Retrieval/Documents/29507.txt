@@ -1,5 +1,0 @@
-designing transistor circuits sinusoidal transistor
-    oscillators a criterion for the generation of a single
-    sinusoidal waveform is developed from linear network theory and
-    applied to basic transistor oscillator circuits practical
-    problems of distortion are discussed

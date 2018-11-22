@@ -1,9 +1,0 @@
-field dependence of magnetoconductivity a theoretical
-    calculation is made of the dependence of the elements of the
-    conductivity tensor on the magnetic field for the case of a
-    crystal with arbitrary energy band structure the results are
-    the same as would be given by a superposition of electron gases
-    whose cyclotron frequencies are related harmonically the
-    strengths of the harmonics depend on the band structure the
-    diagonal of the conductivity tensor are monotonically
-    decreasing functions of the magnetic field strength

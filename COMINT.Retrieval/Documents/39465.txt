@@ -1,7 +1,0 @@
-use of logarithmic notation in science and engineering a
-    unit for general logarithmic systems is proposed termed the jot
-    the notation used is but the word jot is normally omitted
-    advantages of the system are simplicity of calculation economy
-    of notation simplification of units and simplification of
-    representation of errors examples of use of the notation are
-    given

@@ -1,5 +1,0 @@
-motions of material particles in the field of an
-    electromagnet description and discussion of two different
-    effects observed when ferromagnetic particles of order of
-    magnitude cm are exposed to fields of strength up to oersted in
-    the air gap of a magnet

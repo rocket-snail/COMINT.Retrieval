@@ -1,6 +1,0 @@
-two simple types of feedback amplifier for the relaying
-    of television signals over coaxial cables discussion a method
-    is described for applying negative feedback to flatten the gain
-    frequency characteristic of stage amplifiers using tuned anode
-    intervalve couplings resonant at the mid band frequency two
-    typical amplifiers are described

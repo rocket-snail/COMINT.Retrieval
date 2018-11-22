@@ -1,8 +1,0 @@
-some factors influencing choice of host systems. choosing
-    a suitable on-line host system is becoming an increasingly
-    complex procedure. a set of criteria is suggested as a
-    framework to help in decision making. the importance of
-    identifying the specific needs of the user is stressed and the
-    matching of these requirements to considerations such as range
-    of data bases offered, command language, methods of access as
-    well as economics and quality of service is examined.

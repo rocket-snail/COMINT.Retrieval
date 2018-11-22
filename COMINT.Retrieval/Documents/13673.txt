@@ -1,2 +1,0 @@
-negative feedback transistor amplifiers design data are
-    given for high fidelity af amplifiers

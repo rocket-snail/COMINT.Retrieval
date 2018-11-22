@@ -1,5 +1,0 @@
-structure of shock waves in a plasma investigation of a
-    shock wave in a plasma taking account of the difference in
-    electron and ion temperatures three cases are examined
-    nonstationary shock wave stationary shock wave in a strong
-    magnetic field

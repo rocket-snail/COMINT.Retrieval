@@ -1,4 +1,0 @@
-extension of fermats principle to group propagation time
-    continuation of work noted in of it is shown by analysis that
-    the difference between the group propagation times for two real
-    paths joining the same two points is zero

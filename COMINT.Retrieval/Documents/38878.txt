@@ -1,4 +1,0 @@
-recording rf spectrometer for nuclear quadrupole zeeman
-    spectra circuit details are given of semiautomatic apparatus in
-    continuous operation for recording chlorine resonances in the
-    region

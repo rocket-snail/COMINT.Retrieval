@@ -1,7 +1,0 @@
-dynamics of corona discharge between cylindrical
-    electrodes the screening action of the space action of the
-    space charge is responsible for the constancy and stability of
-    the average discharge current fluctuations are explained as a
-    response of the system having a definite resonance frequency to
-    the statistical fluctuations of the photoelectric current
-    theoretical predictions are confirmed by experiment

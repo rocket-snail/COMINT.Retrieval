@@ -1,7 +1,0 @@
-kilovolt delta function generator a pulse is generated in
-    a circuit comprising two series connected hydrogen thyratrons
-    arranged to constitute the inner conductor of a coaxial line it
-    is passed through of cable to a delta function generator which
-    includes a pulse sharpening gap and differentiating stub this
-    generator reduces the pulse rise time to and the pulse width to
-    mus pulses of ither polarity may be obtained

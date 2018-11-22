@@ -1,5 +1,0 @@
-the theory of artificial satellites in terms of the
-    orbital true longitude previous theory of has been developed in
-    terms of orbital true longitude and leads to faster convergence
-    for large eccentricities and to a smaller number of terms in
-    the series representing the perturbations

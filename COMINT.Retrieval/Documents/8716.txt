@@ -1,5 +1,0 @@
-dependence of the electric strengths of liquids on
-    electrode spacing measurements have been made on hexane heptane
-    and tetradecane using electrode spacings of the electric
-    strengths are found to vary inversely with the logarithm of the
-    separation as predicted by theory

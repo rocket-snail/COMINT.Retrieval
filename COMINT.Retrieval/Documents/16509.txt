@@ -1,5 +1,0 @@
-theory of excited plasma waves the excitation of
-    oscillations in a uniform plasma by an injected electron beam
-    is considered and the frequency phase velocity and time rate of
-    growth of the excited waves are derived as functions of the
-    wave number

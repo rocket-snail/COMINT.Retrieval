@@ -1,2 +1,0 @@
-duality relations between threshold type switching
-    functions and their application to problems of synthesis

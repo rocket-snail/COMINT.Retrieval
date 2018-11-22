@@ -1,6 +1,0 @@
-transistor negative impedance converters improved
-    converters of the general type described by merrill of are
-    obtained by using transistor circuits in place of th original
-    valve circuits the characteristics obtained are highly stable
-    various practical circuits are illustrated and discussed and
-    application in telephone repeaters are described

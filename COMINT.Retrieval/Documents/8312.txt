@@ -1,4 +1,0 @@
-relaxation times in lead film superconductive storage
-    elements an experiment is described to measure the critical
-    current of a pb film crowe cell during the first microsecond
-    after switching different substrates are used

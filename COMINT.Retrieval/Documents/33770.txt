@@ -1,5 +1,0 @@
-high frequency electronic counter a circuit suitable for
-    the frequency divider following the subcarrier generator in a
-    colour television receiver is based on a triggered binary
-    cascade with feedback the high counting rate is achieved by
-    incorporating a gating arrangement

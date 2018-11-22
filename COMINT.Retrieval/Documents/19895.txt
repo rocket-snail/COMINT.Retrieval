@@ -1,5 +1,0 @@
-discharge phenomena in lorentz type plasmas investigation
-    of electron distribution in the presence of a magnetic field a
-    partial differential equation derived by kahan and jancel is
-    integrated for the case where the collision frequency is
-    constant

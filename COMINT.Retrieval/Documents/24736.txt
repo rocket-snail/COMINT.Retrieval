@@ -1,8 +1,0 @@
-reaction concept in electromagnetic theory a mathematical
-    definition is given of a physically observable quantity termed
-    the reaction which is a measure of the force exerted by one em
-    source on another the concept is used to obtain expressions for
-    scattering coefficients transmission coefficients and aperture
-    impedances the advantage of using this concept rather than the
-    variational approach is illustrated by treating the problem of
-    scattering by a dielectric body

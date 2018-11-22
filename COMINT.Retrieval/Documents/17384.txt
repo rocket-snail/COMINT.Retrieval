@@ -1,7 +1,0 @@
-integrating automation at virginia tech. describes the
-    development of an integrated library processing system at the
-    carol m. newman library of virginia polytechnic institute and
-    state university. the virginia tech library system (vtls) will
-    eventually incorporate circulation control, acquisitions, and
-    serials control, as well as an on-line catalogue. mentions
-    on-line linkage with oclc and the use of marc records.

@@ -1,7 +1,0 @@
-design of low pass ladder networks to work between
-    unequal resistances discussion of conversion data to enable
-    formulae established in an earlier pp paper of to be used ror
-    cases of unequal terminating resistances curves are presented
-    relating the ratio of input and output branch resistances to
-    the ratio of input and output decrement for up to five branches
-    see also of february

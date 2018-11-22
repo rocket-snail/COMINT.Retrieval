@@ -1,6 +1,0 @@
-a potential microwave compu er element a bistable
-    oscillator frequency script system is described which uses a
-    tunnel diode as the active element a switching time of the
-    order of cycles is required for resonance frequencies of
-    operation at has been demonstrated and operation at is
-    suggested

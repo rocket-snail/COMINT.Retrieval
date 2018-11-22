@@ -1,7 +1,0 @@
-waves in a rarefied ionized gas propagated transverse to
-    an external magnetic field three modes of plane waves in which
-    the perturbed magnetic field is parallel to the external
-    magnetic field can be propagated transverse to the external
-    magnetic field in a collision free and fully ionized gas in the
-    hf limit the three modes behave respectively as em electron
-    sound and ion sound waves

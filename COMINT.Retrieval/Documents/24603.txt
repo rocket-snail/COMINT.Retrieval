@@ -1,7 +1,0 @@
-thermodynamics and statistical mechanics of a three level
-    maser the analysis gives results which agree with those
-    obtained by solving the rate equations explicit expressions are
-    also obtained for the internal energy heat capacity and entropy
-    the calculations are extended to include spontaneous emission
-    and cross relaxation as well as the usual thermal
-    relaxation

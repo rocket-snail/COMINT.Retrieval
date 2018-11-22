@@ -1,4 +1,0 @@
-the square wave generator the circuit of a multivibrator
-    type of generator with stabilized input is shown and a complete
-    analysis based on the characteristics of the double triode type
-    is given

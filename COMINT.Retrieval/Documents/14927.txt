@@ -1,9 +1,0 @@
-theory of electrostatic fields in the ionosphere at polar
-    and middle geomagnetic latitudes analysis of the elongated es
-    fields which provide the coupling in the dynamo motor concept
-    of the e and f regions the es field is taken to be of arbitary
-    horizontal scale and numerical solutions are determined for the
-    attenuation of the field wi h a horizontal scale as small as or
-    can extend from to height with a reduction of only about but
-    the coupling efficiency is critically dependent on ionospheric
-    conditions

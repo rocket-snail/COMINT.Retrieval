@@ -1,5 +1,0 @@
-a method for integrating maxwells equations maxwells
-    equations for propagation of waves are integrated for the case
-    where the functions representing the wave contours are
-    separable applications are discussed showing the relation
-    between the theory and geometrical optics

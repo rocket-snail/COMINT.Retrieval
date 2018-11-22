@@ -1,6 +1,0 @@
-an attempt to detect linearly polarized radio emission
-    from the galaxy a paraboloidal reflector was used at a
-    frequency of with receiver bandwidth of plots of position angle
-    of the plane of polarization against time are given for regions
-    near and show that its variation is in the direction to be
-    expected from the ionospheric data

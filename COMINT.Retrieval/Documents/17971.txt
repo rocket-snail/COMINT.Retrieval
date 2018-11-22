@@ -1,2 +1,0 @@
-analysis of a single ended push pull audio
-    amplifier

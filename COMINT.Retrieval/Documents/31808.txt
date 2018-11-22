@@ -1,7 +1,0 @@
-effect of moving striations on microwave conductivity of
-    a coaxial discharge experiments were made with a discharge tube
-    arranged so that part of the discharge path fills a gap along
-    the inner conductor of a coaxial line the results indicate a
-    marked variation of the microwave conductivity as striations
-    move past the gap the effect may be strong enough to use for
-    switching purposes

@@ -1,3 +1,0 @@
-design of unequal q double tuned transformers equations
-    and design curves are given which should simplify calculations
-    of certain of the transformer characteristics

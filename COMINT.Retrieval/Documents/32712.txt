@@ -1,8 +1,0 @@
-polarization of the echoes from the ionosphere details
-    are given of an improved type of radio polarimeter similar in
-    principle to that evolved by eckersley and farmer for operation
-    in conjunction with high resolution sounding equipment with
-    this arrangement it is possible to separate normal echoes from
-    those received from thin layers or cloud type irregularities
-    photographs of some observed polarization patterns are
-    reproduced and briefly discussed

@@ -1,3 +1,0 @@
-the frequency and time characteristics of all pass
-    filters for delay equalization in television transmission the
-    basic circuits given by bunemann are considered

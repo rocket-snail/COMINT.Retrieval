@@ -1,4 +1,0 @@
-the behaviour of magnetic systems with dilution
-    generalization of the bethe peierls weiss method to the case of
-    alloys and application to the dilution of classical heisenberg
-    ferromagnets with nearest neighbour interaction only

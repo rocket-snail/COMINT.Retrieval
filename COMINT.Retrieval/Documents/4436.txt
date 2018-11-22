@@ -1,4 +1,0 @@
-radial hydromagnetic oscillations the equation of motion
-    of radial hydromagnetic oscillations of a plasma confined by an
-    axial magnetic field is integrated and shown to give good
-    agreement with experiment

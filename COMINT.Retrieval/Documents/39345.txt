@@ -1,4 +1,0 @@
-phase considerations in degenerate parametric amplifier
-    circuits a theoretical examination of the negative resistance
-    in the signalling circuit as a function of the phase angle
-    between the pump and signal voltages

@@ -1,3 +1,0 @@
-programmed methods for printer graphical output
-    september, 1962 garfinkel, d. ca620902 jb march 17, 1978 8:56
-    pm

@@ -1,6 +1,0 @@
-the velocity distribution of sporadic meteors part
-    calculation of the theoretical distributions a general method
-    is described for estimating the field of view of any aerial
-    system and hence of predicting the ratio of true to observed
-    hourly numbers for particles of different velocity and flight
-    direction part above

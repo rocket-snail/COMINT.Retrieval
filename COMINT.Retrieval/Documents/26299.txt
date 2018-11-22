@@ -1,4 +1,0 @@
-the magnetic field in the vicinity of obliquely
-    magnetized cylindrical bodies the field distribution has been
-    calculated and plotted for three different cases of oblique
-    magnetization

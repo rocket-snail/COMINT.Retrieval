@@ -1,4 +1,0 @@
-old and new methods for designing composite high
-    frequency filter circuits and their application to filter
-    circuits with low relative bandwidth correction to paper
-    abstracted in of january

@@ -1,7 +1,0 @@
-on the line width in ferromagnetic resonance it is
-    suggested that the line width is modified by a nonuniformity of
-    the demagnetization field throughout the specimen it is shown
-    that the broadening is greater for a disk magnetized normal to
-    its plane than for one magnetized in its plane and also that
-    the effect would be greater for ferrites than metals both
-    results are in agreement with experiment

@@ -1,5 +1,0 @@
-some performance parameters of silicon junction power
-    rectifiers the temperature dependence of the characteristics of
-    rectifiers and temperature control in terms of thermal
-    resistance are discussed a method is given for the calculation
-    of power dissipation and ratings

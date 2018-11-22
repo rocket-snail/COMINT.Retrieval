@@ -1,5 +1,0 @@
-an analytical solution for the effect of space charge in
-    cold cathode gas discharges by using a simple mathematical
-    model an analytical solution for the varney space charge
-    equation is obtained this is in good agreement with the exact
-    solutions computed by ward

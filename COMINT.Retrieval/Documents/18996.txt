@@ -1,4 +1,0 @@
-vertically travelling shock waves in the ionosphere
-    ionospheric phenomena at vertical incidence observed in the
-    vicinity of ground based atomic explosions are interpreted in
-    terms of acoustic and hydromagnetic wave propagation

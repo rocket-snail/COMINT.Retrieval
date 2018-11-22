@@ -1,2 +1,0 @@
-a method for testing and establishing the rating of
-    semiconductor rectifiers under dynamic conditions

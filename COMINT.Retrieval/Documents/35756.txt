@@ -1,6 +1,0 @@
-an appraisal of photon counter measurements of upper
-    atmosphere parameters a model atmosphere has been computed from
-    measurements of density and o concentration using rocket borne
-    photon counters near km inconsistencies have appeared and it is
-    concluded that the density at km is higher than that found
-    using photon counters

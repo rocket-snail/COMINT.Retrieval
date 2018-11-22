@@ -1,8 +1,0 @@
-an apparent relationship between geomagnetic disturbances
-    and changes in atmospheric circulation at millibars contour
-    length and trough indices are used as a measures of atmospheric
-    disturbance over north america and the eastern pacific ocean
-    these features were studied for periods following geomagnetic
-    disturbances from to march there appears to be a significant
-    relation between geomagnetic activity and the development some
-    days later of wave phenomena at the level

@@ -1,3 +1,0 @@
-designing transistor circuits switching statics the basic
-    switching properties of junction transistors are examined and
-    examples of single and multiple switches are given

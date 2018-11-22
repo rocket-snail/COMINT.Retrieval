@@ -1,3 +1,0 @@
-nonlinear distortion of transistorized amplifiers sources
-    of distortion are examined and methods are suggested for
-    minimizing their effects

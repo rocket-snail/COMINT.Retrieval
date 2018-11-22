@@ -1,5 +1,0 @@
-some recent improvements in low power pulse generators
-    three miniature thyratron circuits used as submodulators for
-    radar transmitters are described high stability free running
-    and triggered versions are discussed with methods of overcoming
-    duty ratio limitations of the valves used

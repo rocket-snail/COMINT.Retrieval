@@ -1,3 +1,0 @@
-calculation of the thermal conductivity of an ionic
-    current a th rmal conductivity tensor for the ionic part of a
-    plasma is derived from kinetic theory

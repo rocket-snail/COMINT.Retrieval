@@ -1,6 +1,0 @@
-propagation of plane electromagnetic waves in
-    inhomogeneous media the laws of propagation along the direction
-    are derived for infinite inhomogeneous media in which
-    dielectric constant and electrical conductivity are functions
-    of and the magnetic permeability is constant homogeneous media
-    are treated as special cases

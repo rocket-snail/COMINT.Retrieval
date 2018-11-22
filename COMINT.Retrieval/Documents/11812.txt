@@ -1,5 +1,0 @@
-a new method for the analysis of ionospheric records a
-    method is given for a calculating the real heights of
-    reflection in the ionosphere from the observed virtual heights
-    the real height is assumed to be a polynomial in the plasma
-    frequency

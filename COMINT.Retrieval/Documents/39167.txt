@@ -1,6 +1,0 @@
-a magslip isograph the terms of a polynomial equation to
-    be solved are represented by alternating voltages of varying
-    time phases obtained from magslip transmitters the instrument
-    described is capable of solving sixth degree equations having
-    real coefficients and may be used for the e valuation of
-    polynomials

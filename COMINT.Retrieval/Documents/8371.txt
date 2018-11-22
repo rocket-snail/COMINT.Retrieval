@@ -1,8 +1,0 @@
-telematics and long-distance transmission (in french).
-    the development of telematics in france is analysed. analogue
-    and digital transmission systems are considered along with the
-    state-of-the-art in cable tv, satellite transmission, telex,
-    facsimile transmission, teleconferencing, teletext and
-    viewdata, electronic funds transfer and a new development in
-    telephone sets. the history of telecommunications via orbital
-    satellites is also outlined.

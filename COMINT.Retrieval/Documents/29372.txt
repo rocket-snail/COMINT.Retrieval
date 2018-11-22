@@ -1,7 +1,0 @@
-the temperature dependence of the capacity of the copper
-    oxide rectifier the variation of the capacitance at the metal
-    semiconductor boundary is calculated on the assumption that it
-    is caused by the temperature variation of the free charge
-    carrier concentration in the semiconductor the calculated
-    results are compared with experimental results for the
-    temperature range from

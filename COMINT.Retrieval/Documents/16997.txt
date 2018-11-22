@@ -1,9 +1,0 @@
-theory and examples of application of a circuit element
-    with distributed resistance and distributed capacitance the
-    component considered consists of a ceramic plate of high
-    dielectric constant with a resistive coating on one side and a
-    highly conductive coating on the other side this circuit
-    element is equivalent to an infinite number of cascade
-    connected filter sections applications discussed include a low
-    pass and a rejection filter and a frequency control element for
-    an oscillator

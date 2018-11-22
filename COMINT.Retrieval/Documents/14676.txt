@@ -1,5 +1,0 @@
-the simulation of neutral elements y electrical networks
-    based on multi aperture magnetic cores the basic operations of
-    multilevel storage gating controlling threshold level and
-    summation are common to many simulating networks and can be
-    attained by use of multi aperture magnetic cores

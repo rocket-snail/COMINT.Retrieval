@@ -1,8 +1,0 @@
-the universal relay computer of the institute for low
-    frequency engineering at the vienna technische hochschule the
-    simple binary scale digital computer described was primarily
-    designed to demonstrate principles for the basic arithmetical
-    operations and the extraction of t roots the input is via
-    perforated tape and electromechanical relays are used both in
-    the store and the computer parts the times required are for
-    addition and for multiplication

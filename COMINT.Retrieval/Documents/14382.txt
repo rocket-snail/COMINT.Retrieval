@@ -1,7 +1,0 @@
-effect f the geomagnetic field on the absorption of short
-    waves in the ionosphere vertical incidence an approximate
-    formula for the index of refraction is used to calculate the
-    coefficient of absorption for five frequencies around the
-    results are sensibly the same as those obtained by use of the
-    rigorous appleton hartree formula those previously given by
-    argence mayot and rawer or of are about higher

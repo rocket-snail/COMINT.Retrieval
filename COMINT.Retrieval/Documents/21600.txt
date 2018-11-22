@@ -1,7 +1,0 @@
-latitude variation of day cosmic ray intensity decreases
-    the latitude variation of decreases in cosmic ray intensity due
-    to the modulation effects of a geocentric nebula of disordered
-    magnetic fields has been measured experimental data provided by
-    neutron monitor observations during the period of intense solar
-    activity show that equatorial variations exceed calculated
-    values by a factor of two or more

@@ -1,5 +1,0 @@
-transistor operating points a theoretical and
-    experimental investigation is reported of the relation between
-    the junction transistor noise and gain and the collector to
-    base voltage the results are used in the design of a high gain
-    low noise amplifier

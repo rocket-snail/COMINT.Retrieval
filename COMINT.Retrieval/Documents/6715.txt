@@ -1,8 +1,0 @@
-hit rates of radio propagation disturbance warnings and
-    swi warnings in order to improve the hit rate defined as the
-    number of hits divided by the number of issued forecasts it is
-    suggested that long distance propagation characteristics should
-    be studied to account for the fall in hit rate in winter that
-    forecasting should be reduced to three or four days ahead and
-    that although swi warnings are fairly good there should be a
-    further study of solar radio noise

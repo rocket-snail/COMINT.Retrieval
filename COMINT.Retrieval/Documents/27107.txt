@@ -1,7 +1,0 @@
-electromagnetic fields in a ferromagnetic medium with
-    particular reference to harmonic distortion due to hysteresis
-    the frequency dependence of the third order distortion factor
-    of an inductor at low flux densities is studied theoretically
-    an analogue method is described which enables the study to be
-    extended experimentally to large flux densities and complex
-    input waveforms

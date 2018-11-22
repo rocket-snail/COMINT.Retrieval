@@ -1,5 +1,0 @@
-optical detection of magnetic resonance in alkali metal
-    vapour the apparatus is described together with experimental
-    conditions under which signals have been observed a possible
-    application of the technique is the measurement of weak
-    magnetic fields

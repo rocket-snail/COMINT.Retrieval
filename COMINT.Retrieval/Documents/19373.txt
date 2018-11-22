@@ -1,7 +1,0 @@
-oscillations of a plasma beam in a magnetic field at
-    frequencies close to the cyclotron frequency a method is
-    described by which plasma oscillations have been observed in
-    hydrogen at frequencies lower than the ion cyclotron
-    frequencies the absorption of r f power by ions which rotate in
-    the magnetic field is detected by the change in q of an
-    oscillator circuit

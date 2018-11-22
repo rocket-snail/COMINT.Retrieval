@@ -1,4 +1,0 @@
-a high speed permanent storage device a digital computer
-    storage system is described using a magnetic core matrix of in
-    combination with the threaded core system used in the bell
-    computer model the capacity is about a million bits

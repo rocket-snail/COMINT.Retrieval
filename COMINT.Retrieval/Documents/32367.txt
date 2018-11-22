@@ -1,6 +1,0 @@
-high speed analogue digital converter details are given
-    of a fully transistorized unit for the conversion of pulse
-    amplitude data to numbers of pulses use is made of a tunnel
-    diode transistor combination in the blocking oscillator circuit
-    to produce oscillations at a frequency of or mc the overall
-    dead time of the converter is reduced by times

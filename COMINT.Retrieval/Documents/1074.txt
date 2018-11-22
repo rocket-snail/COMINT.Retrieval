@@ -1,2 +1,0 @@
-synthesis of amplifiers with triple tuned coupled
-    circuits

@@ -1,7 +1,0 @@
-charged particle variations in the outer van allen zone
-    during a geomagnetic storm fluctuations in the particle fluxes
-    and local magnetic field were observed by explorer at km during
-    the geomagnetic storm of august and found to be correlated the
-    numbers of low energy particles decreased and high energy
-    particles increased the results are consistent with the
-    theories of dessler an parker of

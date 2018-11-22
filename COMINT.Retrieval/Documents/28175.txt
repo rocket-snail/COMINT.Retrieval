@@ -1,7 +1,0 @@
-method of solving a class of axially symmetric problems
-    in the theory of potential and application to the design of
-    electron optical lenses a class of problems arising in the
-    calculation of es fields with rotational symmetry is considered
-    if the systems satisfy certain conditions they can be treated
-    by a method of successive approximations which are obtained by
-    solving a plane es problem

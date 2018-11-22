@@ -1,4 +1,0 @@
-nol vector airborne magnetometer type the instrument
-    previously described has been modified so as to be suitable for
-    use in all latitudes and to simplify the reduction of
-    results

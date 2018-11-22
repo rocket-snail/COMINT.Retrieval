@@ -1,5 +1,0 @@
-scattering of radio waves by electrons above the
-    ionosphere by measuring the overall intensity of the scattered
-    spectrum it should be possible to estimate electron density and
-    temperature if better resolution were possible the atomic
-    weights of the ions present could be obtained

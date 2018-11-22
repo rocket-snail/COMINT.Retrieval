@@ -1,6 +1,0 @@
-a rank-frequency model for scientific productivity. the
-    model depends on the definitions of 'a contribution' and 'rank'
-    of an author. 3 estimation procedures are illustrated and 4
-    other scientific productivity studies and 2 data sets on
-    canadian mathematicians are shown to fit this rank-frequency
-    relationship adequately.

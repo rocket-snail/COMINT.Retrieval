@@ -1,9 +1,0 @@
-diffusion and elastic collision losses of the fast
-    electrons in plasmas when the energy spectrum in ne at mm hg
-    pressure can be separated into a primary high energy and a
-    secondary low energy maxwellian group then the mean free path
-    of the fast electrons can be evaluated by use of the diffusion
-    law is found to be independent of the plasma density it is
-    remarkable that there is little interaction between fast and
-    slow groups even when the density of the slow one becomes
-    comparable to or even higher than that of the fast group

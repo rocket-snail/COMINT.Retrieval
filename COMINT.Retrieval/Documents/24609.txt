@@ -1,6 +1,0 @@
-low level magnetic amplifier a two stage push pull
-    amplifier is described in which a high degree of negative
-    feedbacks is used obtain stability and linearity with high
-    input impedance by careful balancing of components the zero
-    drift measured in terms of input power is reduced to the order
-    of

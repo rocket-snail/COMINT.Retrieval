@@ -1,9 +1,0 @@
-permuted medical subject headings, 1982. permuted medical
-    subject headings, 1982, is a computer-generated display of all
-    terms, i.e. descriptors and cross-references, in the alphabetic
-    list of the national library of medicine's medical subject
-    headings (mesh) for 1982, as well as all citation type, check
-    tag, and geographic descriptors in the annotated alphabetic
-    mesh, 1982. the permuted mesh takes each significant word that
-    appears in each mesh term and then lists all the mesh terms in
-    which that word appears.

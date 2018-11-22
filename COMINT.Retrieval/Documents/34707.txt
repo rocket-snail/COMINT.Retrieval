@@ -1,2 +1,0 @@
-unbalanced rlc networks containing only one resistance
-    and one real transformer

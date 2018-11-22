@@ -1,6 +1,0 @@
-plasma containment by r f and d c field combinations the
-    advantages are discussed of supplementing d c with r f fields
-    which are sometimes more effective and possibly more stable the
-    design of r f plugs for sealing the ends of a plasma column
-    contained by a d c magnetic field is given in some
-    detail

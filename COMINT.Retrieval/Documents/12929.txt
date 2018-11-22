@@ -1,3 +1,0 @@
-a sawtooth crystal calibrator circuit and construction
-    details of a sawtooth generator triggered from a crystal and
-    giving detectable harmonics up to

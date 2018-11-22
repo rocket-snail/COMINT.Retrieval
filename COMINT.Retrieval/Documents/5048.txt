@@ -1,5 +1,0 @@
-three examples of electrical servomechanism engineering
-    servo mechanism system design problems treated by graphical
-    methods which are explained include regulation of the output
-    voltage of a constant speed independently excited dc generator
-    and two cases of motor speed control

@@ -1,3 +1,0 @@
-a variable diode parametric standing wave amplifier
-    details are given of experimental work on the type of amplifier
-    discussed by landauer

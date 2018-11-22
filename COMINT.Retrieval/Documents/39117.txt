@@ -1,6 +1,0 @@
-dimensional relations in magnetohydro dynamics an
-    analysis is made of dimensional relations characteristic of
-    phenomena in fluids in the absence of instabilities conditions
-    favourable for accelerating particles to the higher cosmic ray
-    energies can exist only when the linear dimensions fo the fluid
-    are very large

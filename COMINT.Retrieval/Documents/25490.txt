@@ -1,3 +1,0 @@
-the analysis of three terminal null networks a simple
-    method of analysis is presented the twin t and bridged t
-    networks are treated as examples

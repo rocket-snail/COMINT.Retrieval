@@ -1,6 +1,0 @@
-saturable transformer switches a switch using cores in a
-    balanced saturable transformer is considered an on off
-    impedance ratio adequate for switching magnetic recording heads
-    for reading and writing operations can be obtained circuits are
-    described for operation of a matrix selection system with a
-    switching time of a few tens of microseconds

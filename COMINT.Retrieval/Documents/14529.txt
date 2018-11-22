@@ -1,4 +1,0 @@
-transistor choppers for stable dc amplifiers two fused
-    junction transistors driven at power frequency are used in a
-    switching circuit for converting weak dc input signals into
-    proportional square wave ac signals

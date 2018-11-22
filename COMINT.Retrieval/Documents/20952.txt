@@ -1,6 +1,0 @@
-microwave method for measuring the probability of elastic
-    collision of electrons in a gas a plasma in a dc magnetic field
-    has a transverse condductivity component whose reactive part
-    depends on the magnetic field by measuring the magnetic field
-    necessary to make the reactive part zero the probability of the
-    elastic collision of electrons in he is obtained

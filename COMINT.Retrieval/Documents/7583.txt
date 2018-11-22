@@ -1,3 +1,0 @@
-propagation of electromagnetic waves in a multistream
-    medium at gyromagnetic resonance formulae are derived for the
-    dispersion and the gyromagnetic resonance effects

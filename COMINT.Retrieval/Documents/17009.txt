@@ -1,5 +1,0 @@
-microwave cavity resonators as circuit elements the
-    differential equation for the equivalent circuit of a double
-    loop coupled cavity resonator is derived by using lagranges
-    equation and maxwells equations the losses in the walls and the
-    q of the cavity operating in the te mode are evaluated

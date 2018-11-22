@@ -1,5 +1,0 @@
-high temperature operation of metallized paper capacitors
-    discussion of results obtained with capacitors impregnated with
-    aerolene a solid polyester which permits operation at without
-    derating and up to with a derating of the capacitance value at
-    being higher than at room temperature

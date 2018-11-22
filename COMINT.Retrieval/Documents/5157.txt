@@ -1,4 +1,0 @@
-elimination of coupling problems in multistage magnetic
-    amplifiers operational principles and design criteria are
-    considered for two stage half wave and full wave amplifiers
-    with synchronous switch coupling

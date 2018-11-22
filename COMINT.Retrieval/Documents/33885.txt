@@ -1,8 +1,0 @@
-angular diameter measurements of the radio sources cygnus
-    and cassiopeia on a wavelength of cm results given in each case
-    for two directions at right angles show that cassiopeia is
-    circularly symmetrical and approximately the same size at metre
-    wavelengths while cygnus is markedly asymmetrical with a major
-    axis which may be slightly larger at the shorter wavelength the
-    position angle of this major axis is is measurement equipment
-    is described

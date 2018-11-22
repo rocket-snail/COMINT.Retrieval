@@ -1,5 +1,0 @@
-switching elements consisting of photoconductors and
-    triggered neon lamps the properties of combinations of
-    photoconductors with normal and triggered neon lamps are
-    discussed some requirements of the lamp characteristics are
-    given

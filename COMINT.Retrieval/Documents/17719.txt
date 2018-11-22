@@ -1,4 +1,0 @@
-theory of the prediction and filtering of stationary time
-    series according to norbert wiener digest of wieners book the
-    extrapolation interpolation and smoothing of stationary time
-    series with engineering applications of

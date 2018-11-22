@@ -1,9 +1,0 @@
-some circuit considerations of the transistor a detailed
-    discussion of the single stage transistor amplifier and in
-    particular of the unity coupler condition stability criteria
-    are also discussed since four useful varieties of a single
-    stage amplifier exist a two stage amplifier can take different
-    forms these are divided into four groups high power gain low
-    terminating resistance high terminating resistance and
-    bilateral type the latter is an emitter base base emitter
-    circuit and is suitable for obtaining high gains

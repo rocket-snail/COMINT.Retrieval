@@ -1,2 +1,0 @@
-hankel function (algorithm 124) september, 1962 schaefer,
-    l. j. ca620908 jb march 17, 1978 7:34 pm

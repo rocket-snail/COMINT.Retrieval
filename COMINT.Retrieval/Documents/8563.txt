@@ -1,4 +1,0 @@
-statistical models of ferrimagnetism a theoretical
-    discussion of the properties of some idealized ferrimagnetic
-    crystals the lattice being considered divided into two
-    sublattices

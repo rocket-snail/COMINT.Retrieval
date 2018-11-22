@@ -1,8 +1,0 @@
-magnetic storms in interplanetary space as observed by
-    pioneer v a positive correlation is found between the
-    interplanetary field measured at the satellite and the
-    planetary magnetic index during the flight of pioneer from
-    launch on march to the end of april magnetic storms at the
-    satellite occur at the same time as earth storms although there
-    is a slight delay towards the end of the period of
-    telemetry

@@ -1,4 +1,0 @@
-universal tape amplifiers for digital data systems read
-    and write amplifiers covering a wide range of input
-    characteristics can be used with both return to zero and non
-    return to zero pulse techniques at rates up to

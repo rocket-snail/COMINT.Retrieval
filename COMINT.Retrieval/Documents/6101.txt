@@ -1,4 +1,0 @@
-measurement of the doppler fizeau effect with artificial
-    satellites a simple method is described for measuring the
-    doppler frequency within comparison with the signal from a
-    calibrated oscillator

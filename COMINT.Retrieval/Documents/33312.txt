@@ -1,4 +1,0 @@
-improved variable power supply a modification of walkers
-    circuit of is described which provides direct voltage outputs
-    from to together with heater supplies inherent regulation is as
-    good at as at

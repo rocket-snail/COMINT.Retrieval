@@ -1,9 +1,0 @@
-audio-visual material in academic libraries (in arabic).
-    emphasises the importance of having audio-visual materials in
-    any library collection, and lists some of the problems that a
-    library may face when building an av collection. some solutions
-    may be the provision of technical facilities, provision of
-    space to accommodate the hardware, provision of professional
-    and trained personnel to operate and teach others in the use of
-    equipment, and selection and bibliographic control of av
-    material.

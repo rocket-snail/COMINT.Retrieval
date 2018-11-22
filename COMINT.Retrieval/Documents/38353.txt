@@ -1,5 +1,0 @@
-mathematical analysis of pulse networks linear systems
-    are analysed which comprise an element capable of converting a
-    continuous input function into pulses of any desired shape a
-    pulse network equation is derived which is applicable to closed
-    loop control systems

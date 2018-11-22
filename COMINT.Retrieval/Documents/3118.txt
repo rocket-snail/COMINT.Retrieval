@@ -1,3 +1,0 @@
-use of the boltzmann equation for the study of ionized
-    gases of low density the behaviour of the gas in a strong
-    magnetic field is discussed

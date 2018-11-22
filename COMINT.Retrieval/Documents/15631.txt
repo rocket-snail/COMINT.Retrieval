@@ -1,9 +1,0 @@
-searching biases in large interactive document retrieval
-    systems. the way that individuals construct and modify search
-    queries on a large interactive document retrieval system is
-    subject to systematic biases similar to those that have been
-    demonstrated in experiments on judgments under uncertainty.
-    these biases are shared by both naive and sophisticated
-    subjects and cause the inquirer to construct and modify queries
-    inefficiently. a searching algorithm is suggested that helps
-    the inquirer to avoid the effect of these biases.

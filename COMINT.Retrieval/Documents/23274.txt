@@ -1,6 +1,0 @@
-effect of valve noise on oscillators the magnitudes of
-    the valve shot effect and circuit thermal noise in oscillators
-    are compared when the oscillatory circuit is connected to the
-    grid the valve noise is relatively negligible when the
-    oscillatory circuit is connected to the anode the valve noise
-    preponderates

@@ -1,3 +1,0 @@
-attenuation equalizers the performance of various
-    commonly used equalizer networks is discussed and a chart
-    method of computing their insertion loss is presented

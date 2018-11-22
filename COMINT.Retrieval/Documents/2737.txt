@@ -1,6 +1,0 @@
-instability of antiferromagnetic screw type structure of
-    an electron gas an analysis by the self consistent field method
-    of a screw type structure in a free electron gas such as that
-    proposed by overhauser proves that it is always unstable the
-    susceptibility of such a gas is also derived by the same
-    method

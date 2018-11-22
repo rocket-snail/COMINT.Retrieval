@@ -1,5 +1,0 @@
-adiabatic rapid passage in ruby at wavelengths
-    performance data are giten on a two level ruby maser operating
-    at with a modulated magnetic field and using the crystal as a
-    resonant cavity as an amplifier it has a gain of and bandwidth
-    as an oscillator it has an output of

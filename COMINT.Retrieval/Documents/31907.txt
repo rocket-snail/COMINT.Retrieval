@@ -1,4 +1,0 @@
-satellite power supply has variable pulse width a
-    detailed circuit description of a short circuit proof dc to dc
-    converter of high efficiency with an input voltage of the
-    output voltage is held at a power out of

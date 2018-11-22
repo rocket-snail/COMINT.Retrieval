@@ -1,8 +1,0 @@
-refraction of very high frequency radio signals at
-    ionospheric heights calculations relevant to the radio tracking
-    of space vehicles show that refractive errors due to the
-    troposphere rapidly decrease with increasing elevation angle
-    while those due to the ionosphere initially increase the with
-    elevation angle and then decrease gradually the elevation angle
-    error is plotted for realistic models of the ionosphere and
-    troposphere

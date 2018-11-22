@@ -1,6 +1,0 @@
-modes of operation of a valve oscillator the operation of
-    a tuned grid oscillator is described mathematically by the
-    differential equation where is proportional to the capacitor
-    voltage is the derivative of the anode current with respect to
-    and and are constants dependent on the circuit parameters the
-    equation is solved assuming to be small

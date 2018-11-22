@@ -1,5 +1,0 @@
-on the application of an electronic differential analyser
-    for finding the roots of a polynomial a transfer function is
-    used with the polynomial as numerator and another suitable
-    function as denominator the roots are given by the zeros of the
-    system

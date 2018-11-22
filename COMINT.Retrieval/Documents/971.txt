@@ -1,5 +1,0 @@
-multichannel drives for transmitters and receivers in the
-    hf band methods of tuning accurately to a prescribed frequency
-    are described as applied to a diversity oscillator with manual
-    tuning an automatically tuned airboard received transmitter
-    drive

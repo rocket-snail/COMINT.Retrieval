@@ -1,5 +1,0 @@
-a four pole analysis for transistors an algebraically
-    convenient analysis for four pole networks is presented based
-    upon determinant techniques it is applied to transistor
-    circuits and introduces two new comprehensive parameters for
-    the transistor

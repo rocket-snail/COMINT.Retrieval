@@ -1,7 +1,0 @@
-a workshop on qualitative information retrieval, november
-    18-20, 1980. work in the office of administration on the
-    development of a non-intermediated information retrieval system
-    led to consideration of the problem of information retrieval
-    when controlled vocabulary fails. discussion of that problem
-    led to the development of a typology of such failures and to an
-    examination of methods of resolving the problems.

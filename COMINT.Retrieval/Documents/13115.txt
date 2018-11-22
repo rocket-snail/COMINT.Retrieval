@@ -1,3 +1,0 @@
-narrow band filtering of random signals shows that the
-    output of a narrow band filter is not necessarily more gaussian
-    than the input

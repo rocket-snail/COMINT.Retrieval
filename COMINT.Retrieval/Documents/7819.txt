@@ -1,4 +1,0 @@
-transistor power supply for geiger counters a unit is
-    described comprising junction transistors in a class c
-    amplifier circuit operating from a battery and supplying
-    at

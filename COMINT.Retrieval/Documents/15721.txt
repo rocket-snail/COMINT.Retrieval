@@ -1,5 +1,0 @@
-cathode work function sparking potentials and secondary
-    ionization coefficients for oxide coated cathodes in hydrogen
-    the contact potential difference between oxide coated cathodes
-    and a gold reference surface has been measured using the kelvin
-    technique

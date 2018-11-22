@@ -1,7 +1,0 @@
-an experimental investigation of subharmonic oscillations
-    in a nonlinear system forced subharmonic oscillations in a
-    circuit containing an iron core are studied damping is reduced
-    by means of feedback so that measurements can be effected at
-    very low driving voltages and subharmonics up to the ninth
-    results are in good agreement with theory developed by
-    lundquist for low driving voltages

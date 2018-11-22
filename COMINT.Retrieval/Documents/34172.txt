@@ -1,6 +1,0 @@
-the application of a pattern recognition technique to the
-    synthesis of coding circuits if the coding processes considered
-    are regular and predictable then corresponding translating
-    circuits can be determined to illustrate the technique a
-    pattern recognition method is applied to two coding
-    problems

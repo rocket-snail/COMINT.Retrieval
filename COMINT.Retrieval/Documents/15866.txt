@@ -1,4 +1,0 @@
-a twin t rc oscillator the design of a oscillator similar
-    to that described by francini and zaccheroni of is briefly
-    discussed performance characteristics are presented graphically
-    the frequency is variable over a limited range

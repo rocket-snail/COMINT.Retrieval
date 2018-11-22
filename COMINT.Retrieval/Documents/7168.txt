@@ -1,5 +1,0 @@
-transistors theory and application part equivalent
-    transistor circuits and equations relations between transistor
-    parameters circuit elements and performance are derived by
-    application of kirchhoffs mesh equations for the transistor equ
-    valent circuit part of november

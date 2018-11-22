@@ -1,6 +1,0 @@
-a relation between ionospheric drifts and atmospheric
-    dynamo current systems geomagnetic data suggest that the focus
-    of the atmospheric dynamo current system moves from north to
-    south of sydney as solar activity increases this would explain
-    the reversal in the direction of ionospheric drifts at sydney
-    during recent years

@@ -1,5 +1,0 @@
-valve oscillators with voltage controlled frequency
-    dependence a discussion of various circuits in which reactance
-    is varied by application of control voltage and a comprison of
-    their performance in respect of band width and output at medium
-    and high frequencies

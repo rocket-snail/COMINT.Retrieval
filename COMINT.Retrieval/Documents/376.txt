@@ -1,9 +1,0 @@
-interpretation of measurements on the ionosphere f layer
-    the maximum ionization level of the f layer is often located
-    within the lower part of the f layer so that echo sounding
-    yields a continuous curve for the f and f layers with a more or
-    less marked maximum or merely a point of inflection indicating
-    the virtual height of the f layer is not clearly defined a
-    correction is required the sign of which depends on th the
-    theory accepted for the origin of the f layer mohlers theory of
-    gives results in good agreement with observations

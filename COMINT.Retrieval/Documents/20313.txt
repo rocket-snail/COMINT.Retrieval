@@ -1,8 +1,0 @@
-theory of the thermistor as an electric circuit element a
-    study of thermistor circuits fundamental relevant physical and
-    mathematical concepts are presented the dissipated poer rather
-    than the thermistor temperature is taken as th basic variable
-    the power balance equation is presented in a form introducing
-    the thermal time constant and is used to develop equivalent
-    circuits for thermopositive and thermonegative resistors
-    permitting calculation of superposed variable states

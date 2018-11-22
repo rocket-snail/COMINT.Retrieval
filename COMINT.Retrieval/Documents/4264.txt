@@ -1,3 +1,0 @@
-noise theory for hot electrons nyquists theorem is
-    extended to the case in which the distribution of electrons is
-    disturbed by a steady electric field

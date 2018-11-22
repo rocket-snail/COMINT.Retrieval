@@ -1,4 +1,0 @@
-transistor circuits by appropriate use of transformers
-    transistor circuits having characteristics similar to those of
-    ordinary valves can be obtained calculations are given for
-    several particular cases

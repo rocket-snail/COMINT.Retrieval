@@ -1,5 +1,0 @@
-electrical analog computing machine for solving linear
-    equations and related problems a computer for solving equations
-    with ten variables by a new iteration method is described in
-    addition to the solution the machine gives the largest
-    eigenvalue of the matrix of the linear system

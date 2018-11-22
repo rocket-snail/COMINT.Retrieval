@@ -1,5 +1,0 @@
-a special time discriminating selector for electronic
-    pulses a circuit is described which is able to select the last
-    of a series comprising an arbitrary number of pulses
-    distributed in an arbitrary number of pulses distributed in an
-    arbitrary way within a fixed time interval

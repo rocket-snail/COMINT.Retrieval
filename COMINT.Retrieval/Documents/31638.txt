@@ -1,7 +1,0 @@
-theory of the compensated delay line analysis based on an
-    equivalent ladder network indicates that for a certain
-    compensating capacitance a constant delay can be obtained over
-    a predetermined frequency range calculations are made for
-    compensating rectangular plate capacitors results are presented
-    in a graph useful for design the results are in good agreement
-    with those of kallmann of and others

@@ -1,4 +1,0 @@
-langmuir probe measurements in the ionosphere
-    measurements are described of electron temperature and positive
-    ion number density of the e layer above fort churchill manitoba
-    on november

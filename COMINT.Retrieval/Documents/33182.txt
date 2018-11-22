@@ -1,3 +1,0 @@
-interpolation, differentiation, and integration
-    (algorithm 77) november, 1963 hennion, p. e. ca631108 jb march
-    13, 1978 3:45 pm

@@ -1,5 +1,0 @@
-introduction to the use of electronic tubes in pulse
-    techniques circuit phenomena produced by switching are briefly
-    reviewed and the operation of valves as nonlinear or switching
-    elements is discussed as an introduction to the consideration
-    of some well known pulse circuits

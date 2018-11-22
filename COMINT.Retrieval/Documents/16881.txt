@@ -1,2 +1,0 @@
-an exact theory of n component steady state operators for
-    linear circuits

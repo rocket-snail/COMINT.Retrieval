@@ -1,4 +1,0 @@
-interaction between waves and electrons with some remarks
-    on superconductivity discussion of interactions occurring
-    between elastic waves and free electrons in metal particularly
-    below the debye temperature

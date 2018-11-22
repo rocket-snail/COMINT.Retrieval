@@ -1,7 +1,0 @@
-diffraction by an imperfectly conducting half plane at
-    oblique incidence the exact solution has been obtained for the
-    problem of a plane wave incident at an oblique angle on a
-    metallic half plane the analysis requires the solution of
-    coupled wiener hopf integral equations for the electric and
-    magnetic current distributions excited on the surface of the
-    half plane

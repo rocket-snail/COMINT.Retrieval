@@ -1,6 +1,0 @@
-ferromagnetic relaxation part theory of the relaxation of
-    the uniform precession and the degenerate spectrum in
-    insulators at low temperatures scattering by surface polishing
-    imperfections equalization of degenerate mode populations and
-    raman scattering are considered theoretically and compared with
-    experiment

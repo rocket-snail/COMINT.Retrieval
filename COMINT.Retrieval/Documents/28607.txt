@@ -1,2 +1,0 @@
-free path formulae for the coefficient of diffusion d and
-    velocity of drift of ions and electrons in gases

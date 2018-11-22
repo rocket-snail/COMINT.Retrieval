@@ -1,6 +1,0 @@
-variation of the dispersion of radio whistlers during
-    magnetic storms the whistler dispersion shows a special
-    decrease at poitiers after the commencement of an intense
-    magnetic storm the decrease is not observed for lesser storms
-    this is possibly due to the existence of favoured paths which
-    move to lower latitudes as the storm intensity increases

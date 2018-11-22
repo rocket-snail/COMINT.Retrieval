@@ -1,5 +1,0 @@
-the calculation of the centre limb variations and the one
-    dimensional intensity profiles at and cm for a rotationally
-    symmetric corona model at constant temperature the calculated
-    results are compared with those obtained from measurements by
-    christiansen warburton and was

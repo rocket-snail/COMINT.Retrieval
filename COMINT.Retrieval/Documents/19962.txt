@@ -1,7 +1,0 @@
-acceleration of charged particles in travelling or stand
-    ng electromagnetic waves the average lorentz force acting on a
-    charged particle in an e m field depends on the resonance
-    properties of the motion of the particles and on the spread in
-    their transverse momentum conditions under which continuous
-    acceleration can be achieved by spatial variation of the
-    particle oscillation parameters are discussed

@@ -1,3 +1,0 @@
-a simple current stabilizer for electromagnets the design
-    of a stabilizing circuit operating with an amplidyne generator
-    is described

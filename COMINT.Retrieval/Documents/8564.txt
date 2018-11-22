@@ -1,9 +1,0 @@
-magnetic fields in small ferrite bodies with applications
-    to microwave cavities containing such bodies an analysis is
-    presented of the field inside small spheres and cylinders of
-    ferrite excited by circularly of linearly polarized magnetic
-    fields in cavities the formulae derived are used to calculate
-    the detuning and change of value of the cavity on introducing
-    the ferrite body or conversely to determine the ferrite
-    permeability tensor from the observed changes in the cavity
-    characteristics

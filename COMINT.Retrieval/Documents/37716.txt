@@ -1,4 +1,0 @@
-observations of discrete radio sources at a frequency of
-    an interferometer system with long integration times is used to
-    determine the flux densities of eleven sources relative to
-    cygnus a

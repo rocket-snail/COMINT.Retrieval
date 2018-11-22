@@ -1,9 +1,0 @@
-ionospheric reflection coefficients at vlf from sferics
-    measurements the magnitude of the ionospheric reflection
-    coefficient as a function of ff frequency is calculated from
-    individual spectral analysis of the ground wave and the once
-    reflected sky wave results are compared with those obtained
-    using an ionospheric model the success of the method depends
-    upon the accurate location of the source and the correct
-    selection of strokes which contain only appreciable vertical
-    currents in the discharge column

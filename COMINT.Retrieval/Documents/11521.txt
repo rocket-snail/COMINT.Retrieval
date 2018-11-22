@@ -1,6 +1,0 @@
-simultaneous pulled oscillations in a triode oscillator
-    incorporating two oscillatory circuits simultaneous oscillation
-    at two frequencies is possible and owing to mutual pulling both
-    frequency and amplitude modulation occur a physical explanation
-    of the pulling of a nonlinear oscillator by an external input
-    signal is given

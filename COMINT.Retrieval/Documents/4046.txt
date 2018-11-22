@@ -1,8 +1,0 @@
-emergence into vacuum of the cherenkov radiation produced
-    by longitudinal waves in a medium the em radiation of an
-    electron moving into a vacuum from a medium with spatial
-    dispersion is considered under certain conditions in addition
-    to the transition radiation there is cherenkov radiation from
-    longitudinal waves in the medium at large distances from the
-    interface this radiation is a spherical wave confined to a
-    narrow range of frequencies near the plasma frequency

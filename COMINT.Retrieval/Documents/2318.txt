@@ -1,5 +1,0 @@
-requirements of an up-to-date central patent collection.
-    examines the acquisition scope, equipment, retrieval and
-    storage facilities of an ideal patents management system, the
-    fulfilment of which could lead to an up-to-date central patents
-    collection in hungary.

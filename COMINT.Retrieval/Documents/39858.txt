@@ -1,5 +1,0 @@
-galactic radiation at radio frequencies part the sea
-    interferometer the factors governing the interference pattern
-    of a lloyds mirror type of interferometer at frequencies
-    between and are discussed and three systems for reducing the
-    effect of background noise are described

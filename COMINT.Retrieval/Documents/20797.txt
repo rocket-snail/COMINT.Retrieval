@@ -1,3 +1,0 @@
-q multiplication with transistors two transistor circuits
-    are described with negative impedance stable to within over a
-    temperature range

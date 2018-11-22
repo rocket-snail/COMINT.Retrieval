@@ -1,6 +1,0 @@
-a fast counter for adding and subtracting randomly
-    related pulse trains the circuits shown have a high speed of
-    count propagation through a binary or binary decimal counter
-    and are able to deal with random pulses on each line
-    irrespective of the degree overlap or separation of the
-    pulses

@@ -1,7 +1,0 @@
-some notes on the properties and manufacture of
-    piezoelectric quartz crystals the frequency stability
-    temperature coefficient and activity of quartz resonators are
-    discussed and the relation between these properties n and the
-    oscillation frequency of a circuit including the crystal is
-    examined the performance of some typical units is shown
-    graphically

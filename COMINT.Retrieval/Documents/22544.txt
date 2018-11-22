@@ -1,6 +1,0 @@
-spectral response of solar cell structures measurements
-    on si cells with the pn junction to below the surface show that
-    the short wave response is relatively increased by making the
-    junction close to the surface and the long wave response by
-    making it deeper effects of rough and smooth surfaces were also
-    studied

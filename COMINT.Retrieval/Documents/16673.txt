@@ -1,7 +1,0 @@
-communication between the architect and the librarian.
-    examines the respectives roles of the architect and the
-    librarian in the planning of a library building. concludes
-    that, whatever design a library is to take, effective
-    communication between the librarian and the architect is an
-    essential ingredient for greater success and more positive
-    results.

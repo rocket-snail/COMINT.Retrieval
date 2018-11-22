@@ -1,2 +1,0 @@
-symmetrical transistors as ac or dc switches and their
-    applications in modulator and demodulator circuits

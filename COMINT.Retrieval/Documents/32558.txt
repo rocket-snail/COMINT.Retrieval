@@ -1,4 +1,0 @@
-magnetic amplifiers as control components the advantages
-    and limitations of magnetic amplifiers for voltage and current
-    control switching and amplifying are compared with those of
-    various other devices important properties are tabulated

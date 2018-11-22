@@ -1,8 +1,0 @@
-some passive networks under transient conditions two
-    groups of passive quadripoles are defined by their transfer
-    functions those approximating to an ideal delay line those
-    producing a gaussian waveform from an input pulse of
-    sufficiently short duration a method of synthesizing such
-    networks given the attenuation and phase shift coefficients is
-    based on a continued fraction expansion of the quotient of a
-    hypergeometric function

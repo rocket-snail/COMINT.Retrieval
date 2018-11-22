@@ -1,3 +1,0 @@
-an investigation of nonlinear distortion in grid
-    modulated oscillators caused by the bottom bend of the static
-    valve characteristic

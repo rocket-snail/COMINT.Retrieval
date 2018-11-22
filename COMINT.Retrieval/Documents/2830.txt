@@ -1,7 +1,0 @@
-pseudoresonant and phase shifting quadripoles as
-    frequency determining elements in rc oscillators rc oscillators
-    with a sinusoidal output are divided into two main groups
-    according to the type of rc network they include equivalent
-    circuits are obtained and simple expressions are derived for
-    the frequency of stable oscillation and for the condition for
-    self excitation

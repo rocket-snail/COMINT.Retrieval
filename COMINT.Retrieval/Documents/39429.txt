@@ -1,3 +1,0 @@
-theory of the anomalous skin effect in a magnetic field
-    extension of work by euter and sondheimer to take account of
-    the effect of a steady magnetic field

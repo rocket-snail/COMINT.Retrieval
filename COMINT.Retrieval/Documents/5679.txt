@@ -1,5 +1,0 @@
-quantum theory of the high frequency conductivity of
-    metals development of the theory of conductivity of a metal in
-    a high frequency em field and a constant magnetic field the
-    amplitude of the quantum oscillations in the high frequency
-    case is usually larger than in the static case

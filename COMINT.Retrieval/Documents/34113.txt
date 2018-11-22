@@ -1,5 +1,0 @@
-total electromagnetic cross sections of imperfectly
-    conducting cylinders experimental and theoretical results are
-    discussed for the case of scattering from cylinders with length
-    comparable to and with diameter small compared with the
-    wavelength of illumination

@@ -1,6 +1,0 @@
-statistical study of electron avalanches in gaseous
-    discharge for low pressures the pulse size distribution at
-    potentials below the breakdown value agreed with that given by
-    the townsend theory assuming the absence of space charge at
-    atmospheric pressure the discharge was modified probably by
-    space charge and pulse size tended to become uniform

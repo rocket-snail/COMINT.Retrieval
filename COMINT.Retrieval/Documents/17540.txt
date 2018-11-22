@@ -1,8 +1,0 @@
-sputtering as a possible mechanism for increase of
-    ionization in the vicinity of low altitude satellites an
-    increase in ionization above ambient may occur at distances of
-    up to mean path from the satellite ionization potentials of the
-    injected atoms ar to those of the ambient species the
-    probability of any collision leading to ionization should
-    exceed with the model proposed for the mechanism to be of
-    interest

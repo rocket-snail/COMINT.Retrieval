@@ -1,4 +1,0 @@
-space charge effects in electron optical systems a
-    discussion of spherical aberration in beams exhibiting a waist
-    conditions for transition from waist to cross over are examined
-    experimental results support the theory

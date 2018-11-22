@@ -1,5 +1,0 @@
-a tunnel diode univibrator and pulse height discriminator
-    an adaptation of the tunnel diode oscillator circuit above and
-    its operation in conjunction with a biased backward diode see
-    are described applications in pulse shaping and fast
-    coincidence technique are noted

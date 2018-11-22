@@ -1,8 +1,0 @@
-interpretation of smooth type atmospheric waveforms
-    accurate waveguide or pulse reflection analysis of the regular
-    type of smooth waveform reveals a subdivision termed pseudo
-    regular this type can be satisfactorily explained using
-    waveguide or pulse reflection theory of propagation when
-    complicated source conditions are considered and the discharge
-    in the lightning channel is not assumed to be effectively
-    instantaneous

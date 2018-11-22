@@ -1,4 +1,0 @@
-frequency division by carrier storage a circuit using a
-    junction diode with forward bias that produces output pulses at
-    half the frequency of a input sinusoidal voltage is described
-    possible computer applications r are noted

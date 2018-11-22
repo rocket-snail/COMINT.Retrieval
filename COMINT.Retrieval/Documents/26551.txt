@@ -1,6 +1,0 @@
-using hall generators as contactless commutators a
-    sampling rate in excess of is achieved by feeding a signal
-    voltage into one input of a hall generator and a switching
-    waveform into the other amplification must be used to recover
-    the signal loss but only one amplifier is needed regardless of
-    the number of inputs

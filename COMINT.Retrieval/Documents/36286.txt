@@ -1,4 +1,0 @@
-an electronic timer with voltage control of setting a new
-    grid controlled bootstrap circuit with common cathode trigger
-    provides accurately controlled time delays up to about
-    seconds

@@ -1,6 +1,0 @@
-a new phenomenon of electron emission from thin mercury
-    films report of an experimental investigation of film emission
-    in a specially designed discharge tube indicating that neither
-    extremely high current densities nor cathode evaporation are
-    intrinsic requirements for emission from liquid metal
-    surfaces

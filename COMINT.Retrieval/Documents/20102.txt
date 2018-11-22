@@ -1,6 +1,0 @@
-oscillations of an electron ion plasma investigation of
-    the spectrum of longitudinal oscillations for the case of low
-    temperature fermi distribution and high temperature maxwell
-    distribution for low values o the wave vector the dispersion
-    equation has two branches corresponding to optical and acoustic
-    modes

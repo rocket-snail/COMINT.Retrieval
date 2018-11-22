@@ -1,3 +1,0 @@
-high speed microwave switching of semiconductors a
-    microwave switch using an n type ge diode has been shown to
-    give pulse rise and decay times as low as

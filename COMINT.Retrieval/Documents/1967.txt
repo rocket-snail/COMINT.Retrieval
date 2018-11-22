@@ -1,5 +1,0 @@
-the hydrogen ion effect in whistler dispersion careful
-    analysis of four low altitude whistlers shows deviations at low
-    frequencies from the law const this observation is explained in
-    terms of a simple atmospheric model in which the gas above
-    about is mainly hydrogen

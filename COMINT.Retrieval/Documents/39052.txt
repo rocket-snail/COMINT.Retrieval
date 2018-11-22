@@ -1,7 +1,0 @@
-approximation errors in diode function generators errors
-    resulting from fitting a piecewise linear function to a smooth
-    curve are discussed in relation to analogue computor
-    applications a simple integral based on best fis criteria will
-    give the relation between number of segments and error and also
-    the breakpoints between segments numerical results are given
-    for typical functions

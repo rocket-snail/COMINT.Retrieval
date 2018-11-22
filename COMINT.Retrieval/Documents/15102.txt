@@ -1,4 +1,0 @@
-empirical laws for information systems design. surveys
-    and assesses empirical laws and theories which information
-    science provides for information system design including
-    bradford's law, lotka's law and zipf's law.

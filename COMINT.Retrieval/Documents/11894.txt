@@ -1,5 +1,0 @@
-automatic input equipment for commercial data processing
-    systems magnetic equipment for reading documents with
-    characters and symbols printed in magnetic ink is described
-    with a high speed transportation arrangement characters can be
-    read and documents handled per second

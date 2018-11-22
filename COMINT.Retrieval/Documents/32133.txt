@@ -1,3 +1,0 @@
-parametric amplifier improves troposcatter system design
-    details are given of an amplifier operating at which improves
-    the performance of an existing communications receiver

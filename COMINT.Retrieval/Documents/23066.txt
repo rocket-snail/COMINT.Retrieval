@@ -1,5 +1,0 @@
-analog computer for the differential equation a high
-    precision electromechanical system developed from that
-    mentioned previously uses a torsion pendulum whose motion
-    corresponds to the given expression the solutions are obtained
-    from photographic records of the motion

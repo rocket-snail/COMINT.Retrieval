@@ -1,4 +1,0 @@
-possible low noise electron beam plasma amplifier low
-    noise amplification of space charge waves should be achieved by
-    interaction between electron beam and plasma in the negative
-    glow region of a cold cathode discharge

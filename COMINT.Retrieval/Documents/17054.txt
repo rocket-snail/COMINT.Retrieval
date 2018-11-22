@@ -1,4 +1,0 @@
-parametric amplifiers theoretical comparison of gain
-    bandwidth noise and stability of the negative resistance
-    amplifier and upper or lower sideband converters experimental
-    results are also reported for english version

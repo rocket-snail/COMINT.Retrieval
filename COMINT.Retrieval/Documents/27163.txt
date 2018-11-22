@@ -1,2 +1,0 @@
-crout with pivoting (algorithm 16) march, 1961 thacher
-    jr., h. c. ca610313 jb march 17, 1978 12:32 am

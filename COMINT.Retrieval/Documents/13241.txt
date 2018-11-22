@@ -1,4 +1,0 @@
-graphical designing of transistor oscillators a method is
-    described which is simple but yields results accurate enough
-    for most engineering design calculations a design example is
-    given for a crystal controlled oscillator to operate at

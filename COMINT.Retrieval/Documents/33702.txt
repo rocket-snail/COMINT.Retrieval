@@ -1,6 +1,0 @@
-contribution to the mathematical description of
-    relaxation oscillations differences and similarities between
-    oscillations of relaxation and of van der pol type are
-    discussed relaxation oscillations can be represented by the van
-    der pol equation if th self inductance term in the latter is
-    neglected and a suitable transformation is made

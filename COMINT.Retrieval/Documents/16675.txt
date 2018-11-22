@@ -1,9 +1,0 @@
-improved lock in amplifier a stable sinusoidal voltage
-    drives a square wave generator whose output is applied to the
-    anodes of a pair of i diodes in phase opposition the signal is
-    applied to the anodes of a pair of diodes in phase opposition
-    the signal is applied to the diode cathodes in equal phase the
-    dc output voltage developed between the two cathodes is
-    directly proportional to the signal and is largely independent
-    of the input noise level the value of the stable voltage and
-    the valve parameters

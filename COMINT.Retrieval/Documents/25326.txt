@@ -1,4 +1,0 @@
-characteristics of a high solar conversion efficiency
-    gallium arsenide pn junction spectral emissivity and response
-    data are given for photocells which have an open circuit
-    voltage of about and short circuit current density cm

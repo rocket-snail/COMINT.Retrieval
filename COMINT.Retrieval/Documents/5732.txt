@@ -1,5 +1,0 @@
-design of bistable switching circuits using junction
-    transistors the relations between the different parameters
-    which affect the switching circuit may be obtained by plotting
-    on the same diagram a load line and the theoretical curve of
-    the static characteristic of the circuit

@@ -1,8 +1,0 @@
-radio scintillations of satellite graphical recordings of
-    the signal from satellite are reproduced the scintillations
-    observed are correlated with scintillations of cosmic rf
-    sources recorded during the same period results indicate that
-    the ionospheric irregularities responsible for the
-    scintillations must lie below km corresponding recordings from
-    satellite show significantly less scintillation activity at
-    perigee than on preceding and following days

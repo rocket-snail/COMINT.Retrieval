@@ -1,3 +1,0 @@
-study of the induced electrodeless discharge in neon
-    induction heating theory is used to study the conductivity in
-    the induced discharge at a frequency of

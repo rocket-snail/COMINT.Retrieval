@@ -1,8 +1,0 @@
-characteristics of ultrasonic delay lines using quartz
-    and barium titanate ceramic transducers equivalent circuit
-    based analysis developed previously of fagen is extended to
-    deal with metal delay media and with as well as quartz
-    transducers calculations are made of the decrease in loss due
-    to a decrease in the impedance of the delay medium and of the
-    increase in bandwidth due to an increase in its
-    impedance

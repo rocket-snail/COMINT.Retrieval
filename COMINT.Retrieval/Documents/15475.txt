@@ -1,3 +1,0 @@
-designing transistorized voltage regulators a detailed
-    analysis of the design of a dc series regulator with
-    temperature compensation

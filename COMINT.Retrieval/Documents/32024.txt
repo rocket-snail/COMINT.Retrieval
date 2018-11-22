@@ -1,5 +1,0 @@
-discrimination between chromospheric eruptions associated
-    with geomagnetic disturbances during the present solar maximum
-    an analysis of observations from april to march shows that some
-    but not all solar flares are accompanied by a marked increase
-    of rf noise at about mcs

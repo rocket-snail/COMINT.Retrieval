@@ -1,3 +1,0 @@
-a distributed circuit pulse height analyser a
-    multichannel analyser using distributed circuits and having a
-    resolving time of is briefly described

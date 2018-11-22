@@ -1,4 +1,0 @@
-voltage and current stabilizers for laboratory use a
-    systematic exposition of the principal types of stabilizer
-    divided into three main classes direct feedback and other
-    types

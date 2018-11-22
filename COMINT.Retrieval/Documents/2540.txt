@@ -1,9 +1,0 @@
-theory of maximally flat and quasi tchebycheff filters
-    the synthesis of a quadripole with a prescribed attenuation
-    function is described this function has to satisfy certain
-    conditions the synthesis s is carried out for maximally flat
-    and quasi tchebycheff low pass filters the results being
-    presented in curves suitable for calculating the values of the
-    circuit components the treatment is extended to band pass
-    filters by means of a well known frequency
-    transformation

@@ -1,2 +1,0 @@
-transistor audio amplifiers only junction transistors are
-    considered

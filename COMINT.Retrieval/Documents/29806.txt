@@ -1,7 +1,0 @@
-ansi z39.42 and oclc' oclc's implementation of the
-    american national standard institute's serial holdings
-    statements at the summary level. describes the adoption of the
-    american national standard institute's standard, for describing
-    serials holdings at the summary level, by online computer
-    library center (oclc). this forms part of oclc's potential to
-    become a nationwide union catalogue of periodicals.

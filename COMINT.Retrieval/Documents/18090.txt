@@ -1,8 +1,0 @@
-theory of the contact between a metal and a semiconductor
-    for a large contact potential difference the iv characteristic
-    for the contact between a metal and a semiconductor is
-    calculated for the case when the contact potential difference
-    is so great that the type of conduction of the semiconductor
-    near the contact is altered from the electron to the hole type
-    the calculations cover the cases of plane knife edge and needle
-    types of contact

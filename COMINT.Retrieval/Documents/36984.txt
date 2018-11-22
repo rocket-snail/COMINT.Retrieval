@@ -1,3 +1,0 @@
-electrical conduction phenomena in anisotropic media part
-    strongly convergent solutions of linear operational equations
-    particularly of blochs integral equations

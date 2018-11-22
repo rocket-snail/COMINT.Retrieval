@@ -1,7 +1,0 @@
-remarks on the mass energy and momentum of photons
-    electrons and other elementary particles relations between the
-    corpuscular velocity of a particle and the phase velocity of
-    the corresponding wave are considered and the theoretical
-    equivalence of particle and wave are discussed with reference
-    to a possible experimental verification of the particle
-    concept

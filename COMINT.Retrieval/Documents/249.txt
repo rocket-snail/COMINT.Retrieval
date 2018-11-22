@@ -1,6 +1,0 @@
-conical coaxial capacitors and their advantages in an
-    example cited the ratios of maximum to minimum capacitance for
-    disk cylindrical and conical capacitors are respectively an
-    approximate equation is derived for the conical capacitor and
-    close agreement is shown between computed and measured values
-    of capacitance

@@ -1,4 +1,0 @@
-stable low cost oscillator description of a crystal
-    controlled transistorized oscillator with frequency stability
-    within part in per day at normal room temperatures total weight
-    of oven and oscillator is

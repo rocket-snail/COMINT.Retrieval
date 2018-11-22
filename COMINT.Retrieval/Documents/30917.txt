@@ -1,4 +1,0 @@
-theory of maser oscillation the experimentally observed
-    amplitude modulated nature of the signal from an inverted spin
-    system undergoing maser oscillation or coherent spontaneous
-    emission is explained

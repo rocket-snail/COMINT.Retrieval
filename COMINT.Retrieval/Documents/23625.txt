@@ -1,5 +1,0 @@
-a librarian's primer on financial ratios. discusses 4
-    basic sources of information on financial ratios (the ratios
-    which express the relationships about a company's or industry's
-    assets and liabilities) in terms of types of ratios covered,
-    presentation of ratios and number of industries covered.

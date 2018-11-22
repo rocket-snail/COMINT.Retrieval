@@ -1,6 +1,0 @@
-investigation of auroral echoes part ratios of measured
-    echo signal strength at and showed that the frequency
-    dependence of the reflection e coefficient is qualitatively e
-    plained b by either an inverse law partial reflection from
-    large surfaces or an exp law scattering from field aligned
-    irregularities

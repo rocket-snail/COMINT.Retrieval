@@ -1,9 +1,0 @@
-large amplitude hydromagnetic waves above the ionosphere
-    arguments are presented for the existence of waves of amplitude
-    about times that of geomagnetic fluctuations at the earths
-    surface it is assumed that the latter are generated at six to
-    ten earth radii and carried to earth by the waves it is
-    suggested that the waves produce irregularities in electron
-    density which cause radio star scintillation and that they are
-    also responsible for high intensity particle radiation above
-    about km

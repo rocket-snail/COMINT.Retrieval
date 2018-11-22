@@ -1,9 +1,0 @@
-electromagnetic signals from nuclear explosions in outer
-    space x rays produced by a nuclear burst in outer space cause
-    polarization currents in the medium which if distributed
-    anisotropically will emit em radiation a rough calculation
-    indicates that a detectable signal is produced at a range of
-    from a burst of x ray energy equivalent to ton of high
-    explosive the signal power varies as the square of the electron
-    density so this effect may provide a sensitive measure of the
-    electron density in outer space

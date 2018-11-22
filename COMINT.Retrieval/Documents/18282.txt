@@ -1,2 +1,0 @@
-analysis of nonlinear servos by phase plane delta
-    method

@@ -1,6 +1,0 @@
-a resonance phenomenon in electrodeless hf gas discharges
-    with superposed magnetic field experiments in atmospheres of h
-    and ar are described which show that the resonance effect
-    previously noted of koch and neuert is associated with a sharp
-    drop between two peaks in the intensity of the emitted light it
-    occurs always at the same value of the field strength

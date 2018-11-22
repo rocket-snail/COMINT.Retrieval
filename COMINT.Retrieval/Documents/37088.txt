@@ -1,6 +1,0 @@
-transistorized pulse amplifier instead of pulse
-    transformers drift transistors with high cut off frequencies
-    are used in diode logic circuits with input pulses the total
-    rise and fall times are less than the delay between input and
-    output pulses varying from to according to load
-    conditions

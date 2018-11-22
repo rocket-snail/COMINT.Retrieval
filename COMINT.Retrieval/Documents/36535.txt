@@ -1,3 +1,0 @@
-improving gain control of transistor amplifiers better
-    temperature stability and z lower noise figure are obtained by
-    using separate agc loops for each stage

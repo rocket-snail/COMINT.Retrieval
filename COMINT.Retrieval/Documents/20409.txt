@@ -1,9 +1,0 @@
-the double resonance in the secondary of a system of two
-    circuits with inductive coupling the resonance condition is
-    defined in terms of the primary and secondary impedances and
-    the mutual inductance the variation of secondary current with
-    the coupling frequency and series capacitance is determined in
-    the case of a variable frequency with fixed coupling a
-    graphical method is used to derive equal current curves by
-    means of these a region can be defined within which two
-    resonance peaks occur

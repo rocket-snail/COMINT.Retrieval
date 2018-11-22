@@ -1,5 +1,0 @@
-ionospheric self demodulation and self distortion of
-    radio waves demodulation was observed only at low modulation
-    frequencies the magnitude of the effect agreed with that
-    predicted by theory and was also what would have been expected
-    from results obtained in cross modulation experiments

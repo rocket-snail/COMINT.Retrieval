@@ -1,5 +1,0 @@
-the laws of summation for tilt rise time and overshoot
-    particularly in amplifier circuits the time function parameters
-    of pulses applied to cascade connected quadripoles are
-    calculated an improved summation law for the rise time is
-    derived

@@ -1,9 +1,0 @@
-diffraction of electromagnetic waves according to
-    braunbeks approximation braunbeks approximation method is
-    applied to problems of e m wave diffraction in particular to
-    that of a linearly polarized plane wave normally incident on a
-    circular aperture in a perfectly conducting plane screen and on
-    a perfectly conducting plane circular disk the near field
-    distribution is calculated and compared with results of the
-    rigorous method of solution and of kirchhoffs approximation
-    other approximation methods are discussed

@@ -1,5 +1,0 @@
-compensation for changes in base to emitter voltage with
-    temperature an economical method of compensating power
-    transistor circuits consists including in the emitter circuit
-    metallic resistors having small positive temperature
-    coefficients

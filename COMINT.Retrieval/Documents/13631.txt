@@ -1,2 +1,0 @@
-arccosin (algorithm 206) september, 1963 konda, m.
-    ca630915 jb march 13, 1978 7:26 pm

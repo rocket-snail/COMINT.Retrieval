@@ -1,3 +1,0 @@
-temperature compensated crystal oscillators in the method
-    described a passive network containing a thermistor is enclosed
-    in the same envelope as the crystal

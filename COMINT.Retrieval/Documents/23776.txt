@@ -1,4 +1,0 @@
-the operation of the current type self balancing magnetic
-    amplifier a theoretical analysis giving the voltage gain and
-    time constant in terms of the circuit parameters within the
-    range of ideal components the input impedance is zero

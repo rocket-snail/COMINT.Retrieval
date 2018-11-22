@@ -1,6 +1,0 @@
-the calculation of the electron density in the ionosphere
-    from elevation angle measurements on artificial satellites when
-    a transmitting satellite travels below the peak of the f layer
-    measurements of the angle of arrival of the received signal
-    show a minimum the value of which is related to the local
-    satellite electron density

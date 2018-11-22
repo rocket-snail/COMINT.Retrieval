@@ -1,5 +1,0 @@
-the behaviour of a plasma under the influence of a
-    standing electromagnetic wave in the absence of a constant
-    magnetic field the physics of the radial confinement of an
-    ionized plasma in an em field are examined for a cylindrical
-    cavity excited in the modes

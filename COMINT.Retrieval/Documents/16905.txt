@@ -1,4 +1,0 @@
-a variational approach to correlation in an electron gas
-    a periodic electron density is allowed and it is proved that
-    there exist one particle states energetically more favourable
-    than the usual plane wave orbitals

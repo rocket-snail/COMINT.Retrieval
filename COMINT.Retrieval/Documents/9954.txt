@@ -1,5 +1,0 @@
-all about word processors. presents a general overview of
-    word processing systems (features, types, applications,
-    advantages, planning considerations, and future outlook) and
-    tabulates features and characteristics of stand-alone and
-    shared logic systems marketed by over 50 vendors.

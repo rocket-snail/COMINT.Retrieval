@@ -1,3 +1,0 @@
-neoc the solution of the schrodinger equation for finite
-    systems with special reference to the motion of electrons in
-    coulomb electric fields and uniform magnetic fields

@@ -1,7 +1,0 @@
-studies of externally heated hot cathode arcs the low
-    voltage form of the ball of fire mode discussion in terms of a
-    model based on the observation that the stream of electrons
-    entering the ball plasma from the cathode plasma is scattered
-    so completely that the electrons within the ball have a
-    maxwellian energy distribution theoretical predictions are
-    compared with probe measurements

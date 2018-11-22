@@ -1,2 +1,0 @@
-an extension of the mode theory to periodically
-    distributed parametric amplifiers with losses

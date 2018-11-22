@@ -1,4 +1,0 @@
-design of an emitter current controlled common emitter
-    transistor if amplifier stage input and output impedances and
-    their influence on the bandpass characteristics are studied the
-    stage is suitable for broadcast receivers

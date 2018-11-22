@@ -1,4 +1,0 @@
-the diffraction of electromagnetic waves by a circular
-    cylinder in a homogeneous half space a solution is obtained for
-    the distortion by a cylindrical inhomogeneity below the surface
-    of the earth of an em field produced by a point source

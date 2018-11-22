@@ -1,4 +1,0 @@
-impedance matched or optimum examples are given of
-    situations where matched impedance is the ideal condition and
-    of cases in which other impedance relations prove to be
-    better

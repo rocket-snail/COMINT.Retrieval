@@ -1,4 +1,0 @@
-simplification of equations for the distribution function
-    of electrons in a plasma an analysis based on the boltzmann
-    kinetic equation considering initially a spatially homogeneous
-    plasma located in electric and magnetic fields

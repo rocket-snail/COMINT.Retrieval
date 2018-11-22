@@ -1,5 +1,0 @@
-scattering from a small anisotropic ellipsoid scattering
-    of an electromagnetic wave by a small ellipsoid having tensor
-    permeability and dielectric properties is dealt with by
-    expanding the fields as power series in consideration has been
-    given to the first three terms of the expansion

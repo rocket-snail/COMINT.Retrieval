@@ -1,7 +1,0 @@
-absorption of electromagnetic waves by means of lossy
-    resonant slots very thin microwave absorbers can be constructed
-    by using a sheet of resistive with tuned slots at a distance in
-    front of a metal plate the bandwidth can be increased by the
-    insertion of a grid of dipoles and the effects of polarization
-    are minimized if circular slots are used see also of
-    june

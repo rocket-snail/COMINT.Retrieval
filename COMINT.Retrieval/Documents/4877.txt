@@ -1,3 +1,0 @@
-investigation of the single ended push pull amplifier
-    theoretical and practical design aspects of various versions of
-    this type f af amplifier are considered

@@ -1,4 +1,0 @@
-parametric amplification and conversion in propagating
-    circuits using nonlinear reactances the case of a time varying
-    reactance coupling three propagating circuits is
-    analysed

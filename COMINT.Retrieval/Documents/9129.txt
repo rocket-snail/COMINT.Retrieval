@@ -1,8 +1,0 @@
-diode amplifier outline of the properties and
-    applications of amplifiers based on the reverse transient
-    phenomenon associated with the high degree of carrier storage
-    in an junction diodes thr frequency of the power supply must
-    not be less than that of the modulating signal such amplifiers
-    can be used as pulse repeaters in flip flop circuits or as wide
-    band flat response amplifiers faster operation can be obtained
-    with than with diodes

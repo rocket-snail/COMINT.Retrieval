@@ -1,6 +1,0 @@
-graphical analysis of some transistor switching circuits
-    methods are described for generating the entire input
-    characteristics for the various terminals of a transistor and
-    graphical methods of analysis are applied to a base input
-    amplifier a collector to emitter direct coupled switching
-    circuit a collector to base direct coupled circuit

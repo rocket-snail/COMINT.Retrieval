@@ -1,5 +1,0 @@
-anisotropy in ionospheric diffraction and its effect on
-    drift measurement a method of analysis is developed in which
-    five statistical parameters and a few simple formulae are used
-    and which takes into account te effects of random motion as
-    well as anisotropy

@@ -1,6 +1,0 @@
-viewdata in action' a comparative study of prestel.
-    collected papers on viewdata, and particularly prestel,
-    reviewing the technical, editorial, and pictorial aspects of
-    the medium. an international section provides a comparison of
-    viewdata developments in the usa, canada, japan, west germany,
-    finland and france.

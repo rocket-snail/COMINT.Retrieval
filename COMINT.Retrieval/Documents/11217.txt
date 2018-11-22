@@ -1,6 +1,0 @@
-conditions in the outer ionosphere it is found that the
-    electron concentration in the outer ionosphere decreases with
-    the height considerably less rapidly than it increases at lower
-    levels the values obtained show that at the concentrations of
-    electrons and neutral particles are of the order of and per cm
-    respectively

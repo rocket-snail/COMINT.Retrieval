@@ -1,3 +1,0 @@
-digitizer to tape punch coupling unit the output in
-    twelve binary digits of a digitizer is briefly stored before
-    operating a high speed five track tape punch

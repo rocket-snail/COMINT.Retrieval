@@ -1,6 +1,0 @@
-rectifier modulators a method for reducing the complexity
-    of equations for the series rectifier modulator without undue
-    loss of accuracy is postulated the simplified equations are
-    shown to be soluble by successive approximations the process is
-    applied to a modulator with a constant resistance termination b
-    purely capacitive termination

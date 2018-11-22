@@ -1,3 +1,0 @@
-some properties of resonance line shape functions
-    mathematical discussion of the broadening of spectral
-    lines

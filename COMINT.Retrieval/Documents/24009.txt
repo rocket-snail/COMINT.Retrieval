@@ -1,3 +1,0 @@
-overload protection for transistor voltage regulators
-    various circuit modifications are described for protection
-    against overload

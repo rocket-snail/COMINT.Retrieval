@@ -1,4 +1,0 @@
-the design and performance of a simple vlf oscillator
-    using a wien rc network for frequency control the oscillator
-    covers the range in finite steps with a maximum output of into
-    a load

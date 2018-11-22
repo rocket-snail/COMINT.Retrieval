@@ -1,9 +1,0 @@
-the nulos project. discusses the nulos (national union
-    list of serials) project in papua new guinea, 1st planned in
-    1974. it is a computer-produced list of serial holdings of
-    libraries within papua new guinea. the present programme,
-    written in cobol, allows only a 93-character input. describes
-    nulos 2, due for completion in late 1980, with details of title
-    repetition, type size, vertical listing and cross references;
-    and nulos 3, the proposed 3rd edition of the catalogue,
-    scheduled for 1982.

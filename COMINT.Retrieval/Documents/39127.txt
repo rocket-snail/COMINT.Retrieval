@@ -1,6 +1,0 @@
-the forming of the negative electrode of electrolytic
-    capacitors an examination is made of the conditions under which
-    undesired forming occurs formulae are presented for the
-    decrease of the capacitance on repeated dis charging these
-    enable load behaviour to be predicted and optimum design to be
-    attained the theory is supported by experimental results

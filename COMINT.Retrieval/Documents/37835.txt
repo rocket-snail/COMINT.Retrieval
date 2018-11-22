@@ -1,3 +1,0 @@
-designing for low level inputs difficulties arising in
-    low level input instrumentation and methods of checking and
-    evaluating the performance of such equipment are given

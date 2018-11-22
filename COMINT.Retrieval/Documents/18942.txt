@@ -1,6 +1,0 @@
-polarization effects on the brightness waves of
-    electroluminescence the observed cyclical variation of
-    brightness of electroluminescent systems excited by sinusoidal
-    fields is shown to be related to polarization effects of the
-    type discussed eg by jaffe in connection with semi
-    conductors

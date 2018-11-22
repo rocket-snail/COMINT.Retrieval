@@ -1,3 +1,0 @@
-reactance transistor frequency deviation curves
-    calculated from the theoretical output admittance are compared
-    with measurements for oscillator circuit

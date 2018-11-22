@@ -1,3 +1,0 @@
-the design and testing of an electronic simulator for a
-    hydraulic remote position control servo mechanism discussion on
-    of

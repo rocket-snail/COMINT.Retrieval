@@ -1,7 +1,0 @@
-on the nature of the discrete radio sources investigation
-    of results of measurements of radio noise from a source in
-    cassiopeia shows that the noise may be due to interaction of
-    cosmic ray electrons with the local magnetic field if the
-    average value of the latter is of the oder of gauss the rf
-    power received shoul then vary at leastas rapidly as below a
-    critical frequency in the range

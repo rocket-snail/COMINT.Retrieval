@@ -1,5 +1,0 @@
-the spectra of radio stars by considering all available
-    measurements on the flux density of cassiopeia a it is
-    concluded that its spectrum obeys a simple power law using this
-    law the spectra and special indices of radio stars are derived
-    including cygnus a virgo a and taurus a

@@ -1,8 +1,0 @@
-ettec n the dependence of the decay times of space
-    charges by the static characteristic in intermittent discharges
-    the validity of the hypothesis previously formulated has been
-    investigated experimentally measured decay times depend on the
-    external circuit associated with the discharge tube but the
-    existence of an inherent decay time dependent only on the
-    static characteristic of the tube is indicated an empirical
-    method is developed for calculating decay times

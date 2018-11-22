@@ -1,7 +1,0 @@
-an integrable case of electron motion in electric and
-    magnetic field the case is considered of a two dimensional
-    electric field with the potential given by applied together
-    with a uniform magnetic field in the direction the path of an
-    electron is an ellipse whose centre moves in a hyperbola the
-    electron may drift into regions of higher or lower
-    potential

@@ -1,5 +1,0 @@
-the dispersion of s whistlers compared with the
-    geomagnetic latitudes of their sources observational results
-    are presented which indicate that the geomagnetic latitude of
-    lightning discharges is a factor determining the dispersion
-    constant of the related whistlers

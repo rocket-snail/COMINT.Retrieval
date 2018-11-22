@@ -1,4 +1,0 @@
-the effective electrical constants of soil at low
-    frequencies a possible explanation is presented for the large
-    appa rent dielectric constants which occur at frequencies of
-    the order of

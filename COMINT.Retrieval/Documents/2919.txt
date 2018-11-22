@@ -1,3 +1,0 @@
-surface distributions of fixed charges and poynting
-    vector in a system of permanent volume currents theoretical
-    study of conditions in a hollow cylindrical conductor

@@ -1,3 +1,0 @@
-variable magnetic amplifier a method is described for
-    varying the current gain by means of a variable impedance in
-    parallel with the feedback rectifiers

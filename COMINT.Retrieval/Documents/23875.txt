@@ -1,3 +1,0 @@
-a numerical method for the determination of a two pole
-    function which approximates a given complex function in a band
-    of real frequencies

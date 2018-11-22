@@ -1,4 +1,0 @@
-design of computer circuits for reliability factors
-    influencing the choice of components and precautions taken
-    during the initial circuit design and mechanical construction
-    of the edsac machine are described

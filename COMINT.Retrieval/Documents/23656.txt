@@ -1,3 +1,0 @@
-reversible dekatron counter a counter circuit is
-    described which has two inputs one of which allows addition to
-    and the other subtraction from an existing count

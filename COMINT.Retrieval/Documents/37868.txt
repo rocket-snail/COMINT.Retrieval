@@ -1,2 +1,0 @@
-the design of two section symmetrical zobel filters for
-    tchebycheff insertion loss

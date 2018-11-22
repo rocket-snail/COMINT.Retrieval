@@ -1,7 +1,0 @@
-wafer coil development for inductive components the
-    automatic production of coils made of insulated metal foil
-    instead of wire is described the roll of foil is sliced into
-    thin wafers which can be connected in series to obtain the
-    required inductance physical and electrical characteristics are
-    similar to those of wirewound coils closer spacing of turns is
-    possible than with printed circuit techniques

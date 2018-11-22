@@ -1,8 +1,0 @@
-effect of temperature on photo voltaic solar energy
-    conversion theoretical investigation of the behaviour of
-    materials with band gaps varying over a temperature range show
-    that the best conversion performance is obtained for the ideal
-    junction current it is degraded by the presence of
-    recombination current experimental data are given for si gaas
-    and cds cells and are compared with theoretical
-    expectations

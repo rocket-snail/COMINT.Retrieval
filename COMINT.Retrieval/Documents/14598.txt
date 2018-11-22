@@ -1,6 +1,0 @@
-a theory of ferromagnetism a theory is formulated that
-    when applied to iron making use only of spectroscopic data for
-    the fe atom gives a value of bohr magnetons for the saturation
-    magnetic moment per iron atom and a value of for the curie
-    temperature these values are in reasonable agreement with the
-    experimental values of magnetons and

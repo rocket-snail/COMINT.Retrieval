@@ -1,3 +1,0 @@
-tamm equations of state of electrons at the surface of a
-    crystal and surface oscillations of lattice atoms a review
-    about half of the references are to russian work

@@ -1,2 +1,0 @@
-gauss's method (algorithm 107) july, 1962 counts, j. w.
-    ca620709 jb march 17, 1978 8:33 pm

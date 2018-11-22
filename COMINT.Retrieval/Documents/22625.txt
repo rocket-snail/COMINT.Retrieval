@@ -1,9 +1,0 @@
-audio frequency filters using negative feedback the
-    operation is described of a two valve amplifier with a series
-    resonance circuit across the cathode impedance of each of the
-    two valves and a parallel resonance circuit in the anode
-    circuit of the first valve a band pass filter with a flat
-    topped response curve is obtained by adjusting the resonance
-    frequency of the cathode circuit of the second valve to be
-    intermediate to the cathode circuit and anode circuit resonance
-    frequencies of the first valve

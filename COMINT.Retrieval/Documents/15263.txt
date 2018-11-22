@@ -1,8 +1,0 @@
-multiple element interferometer for locating sources of
-    solar noise at the interferometer uses five aerials each with a
-    paraboloidal reflector of diameter arranged at intervals of m
-    the distribution of brightness observed at over the quiet sun
-    is consistent with the conclusions that the diameter of the rf
-    disk is about greater than that of the optical disk and the
-    outer ring is about times brighter than the optical disk of
-    uniform temperature about

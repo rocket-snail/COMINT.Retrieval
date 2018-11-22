@@ -1,7 +1,0 @@
-the cathode coupled multivibrator considered as a coupled
-    pair of two therminal networks the multivibrator is considered
-    as an active two terminal network with negative differential
-    resistance together with a passive two terminal network
-    formulae derived on this basis for determining the
-    multivibrator operating characteristics give results in close
-    agreement with experimental values

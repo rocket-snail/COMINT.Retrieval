@@ -1,8 +1,0 @@
-interference spectra and aerial filters a note on the
-    problem of the simultaneous operation of directional radio
-    systems with pulse modulation the design of continuously
-    tunable multi circuit diplexing filters for communication
-    systems is discussed a frequency separation of is assumed
-    between the associated transmitter and receiver and the
-    asymmetrical nature of the transmitter spectrum is taken into
-    account

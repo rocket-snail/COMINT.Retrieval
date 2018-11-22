@@ -1,6 +1,0 @@
-energy levels of conduction electrons in a magnetic field
-    the energy levels can be obtained simply if the spherical
-    approximation is made for the band structure the free energy
-    due to small departures from this assumption may be estimated
-    using perturbation theory inclusion of spin orbit coupling
-    gives the factor as a function of position in the band

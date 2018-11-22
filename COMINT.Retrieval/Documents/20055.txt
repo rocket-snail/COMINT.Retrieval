@@ -1,4 +1,0 @@
-a differentiating equalizer with transistors the
-    equipment described is designed for emphasizing the upper
-    frequencies of the video signal band withou phase
-    distortion

@@ -1,7 +1,0 @@
-limit cycle period of nonlinear oscillation the problem
-    is discussed with reference to previous work on the solution of
-    the van der pol equation a formula is derived for the limit
-    cycle period which is applicable both for small and large
-    values of corresponding respectively to quasi sinusoidal and
-    relaxation oscillations results obtained from various formulae
-    are compared in a table

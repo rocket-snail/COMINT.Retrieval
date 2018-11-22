@@ -1,2 +1,0 @@
-new method for the observation of hyperfine structure of
-    in a maser oscillator

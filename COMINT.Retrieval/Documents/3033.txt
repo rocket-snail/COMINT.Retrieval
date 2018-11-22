@@ -1,8 +1,0 @@
-definition of the ideal transformer and the ideal gyrator
-    by their impedance transforming properties the fundamental
-    difference between the two networks is that the input impedance
-    of the ideal transformer is directly proportional to the load
-    impedance while for the ideal gyrator the proportionality is
-    inverse the ideal gyrator can be completely defined as a
-    passive linear loss free quadripole with frequency independent
-    transforming properties

@@ -1,3 +1,0 @@
-the use of electron diffraction for magnetic analysis
-    brief note on a method of evaluating magnetic field strength
-    from the eccentricity of superposed diffraction rings

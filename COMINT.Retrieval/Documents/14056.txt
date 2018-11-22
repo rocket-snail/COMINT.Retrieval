@@ -1,6 +1,0 @@
-asymptotic formulas for diffraction by parabolic surfaces
-    asymptotic solutions to the wave equation are found at a
-    boundary consisting of a paraboloid of revolution or a
-    parabolic cylinder the results are applied to the reflection at
-    such surfaces of incoming plane waves or divergent waves from a
-    point or line on the axis of the surface

@@ -1,9 +1,0 @@
-on the measurement of the average time delay in secondary
-    emission the time delay of the secondary emission is measured
-    by comparing the duration of short bursts of primary emission
-    with the duration of the corresponding bursts of secondary
-    emission the primary bursts are produced by deflecting a beam
-    across an aperture at high speed while the secondary beam is
-    scanned over eg a fluorescent screen the duration of the
-    secondary pulses is longer than that of the primaries by an
-    amount which depends on the accelerating voltage

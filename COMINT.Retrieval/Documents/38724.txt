@@ -1,8 +1,0 @@
-the theory of the anomalous k skin effect in metals for
-    obliquely incident radiation the effective surface impedance of
-    a metal varies with the direction of polarization of incident
-    radiation in the upper visible and ultraviolet ranges formulae
-    for refractive indices reflectivities and principal angles at
-    oblique incidence are derived in terms of two surface
-    impedances experimental results are in good agreement with the
-    theory

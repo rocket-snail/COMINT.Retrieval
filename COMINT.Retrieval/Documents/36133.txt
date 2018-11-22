@@ -1,6 +1,0 @@
-junction transistor circuits application of the pnp
-    junction type transistor in single stage and cascaded
-    amplifiers and in lf and rf oscillators is described and
-    illustrated by eight circuit diagrams the transistor collector
-    characteristics and operating data and typical circuit
-    component values are given

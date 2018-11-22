@@ -1,5 +1,0 @@
-harmonic generation with ideal rectifiers the harmonic
-    cannot be generated with an efficiency exceeding at least of
-    the power converted to d c and harmonics is d c dissipation
-    this cannot be reduced by an arrangement of selective
-    circuits

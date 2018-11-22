@@ -1,5 +1,0 @@
-a special purpose analogue digital converter for use in
-    analysing tape recordings f of time multiplex telemetry signals
-    one channel is analysed at each playback and known transducer
-    nonlinearities and drifts of gain and level are
-    compensated

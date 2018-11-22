@@ -1,7 +1,0 @@
-velocity distribution of electrons in presence of an
-    alternating electric field and constant magnetic field two
-    cases are considered theoretically the electric field varies
-    sinusoidally and te variation is amplitude modulated case is of
-    interest in the investigation of ionospheric crossmodulation
-    the effect of collisions between electrons is taken into
-    account

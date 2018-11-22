@@ -1,8 +1,0 @@
-investigation of nonreciprocal quadripoles in the
-    centimetre wave range devices based on the faraday rotation of
-    guided waves are investigated see eg of a method is developed
-    for determining the quadripole parameters of these devices a
-    waveguide arrangement adapted for measurements on gyrators is
-    described results are given for a gyrator using ferroxcube iv
-    factors to be considered in designing gyrators for particular
-    applications are indicated see also of

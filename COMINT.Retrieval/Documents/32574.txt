@@ -1,4 +1,0 @@
-a general network theorem the realization of the
-    transmission factor of a four terminal network with lumped
-    circuit elements by a passive symmetrical quadripole and a
-    transformer is discussed

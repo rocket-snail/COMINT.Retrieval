@@ -1,4 +1,0 @@
-a low frequency selective amplifier analysis similar to
-    that for a simple resonant circuit is presented for a feedback
-    amplifier design and performance of an amplifier with a
-    resonance frequency of about are outlined

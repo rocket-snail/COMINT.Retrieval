@@ -1,5 +1,0 @@
-a broad band tunnel diode amplifier a first order theory
-    for an amplifier using tunnel diodes is presented the series
-    resistance and inductance of the diodes is neglected except
-    where stability is concerned the amplifier could be built using
-    strip or coaxial lines

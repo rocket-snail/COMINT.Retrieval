@@ -1,3 +1,0 @@
-functional specification of a promis instance system.
-    volumes 1 and 2. for abstracts of earlier studies see 80/2168,
-    81/441 and 81/442.

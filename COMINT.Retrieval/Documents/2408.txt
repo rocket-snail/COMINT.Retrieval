@@ -1,6 +1,0 @@
-radiation by charged particles passing through an
-    electron plasma in an external magnetic field coupling between
-    the longitudinal plasma wave and the transverse em wave
-    modifies the nature of the radiation at particle velocities
-    greater than that required for the excitation of plasma waves a
-    non cherenkov type of radiation will occur

@@ -1,3 +1,0 @@
-excitation of oscillations in a plasma layer development
-    of a linearized theory of plasma oscillations excited by an
-    electron beam injected into a uniform plasma

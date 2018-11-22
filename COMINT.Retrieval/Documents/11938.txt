@@ -1,5 +1,0 @@
-parametric amplifier for space probe tracking description
-    of the parametric amplifier used with th jodrell bank radio
-    telescope for reception of the pioneer v space probe signals
-    from distances of over miles a description of a parametric
-    amplifier tester using transistors is included

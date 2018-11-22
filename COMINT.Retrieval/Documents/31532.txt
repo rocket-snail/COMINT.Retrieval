@@ -1,5 +1,0 @@
-molecular beam resonances in oscillatory fields of
-    nonuniform amplitudes and phases the transition probability
-    equations are reduced to forms which are suitable for digital
-    computer calculations a computer program for the calculation of
-    the shapes of the resonances is described

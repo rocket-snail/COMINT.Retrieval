@@ -1,9 +1,0 @@
-a model for the solar enhanced region at centimeter range
-    derived from partial eclipse observations records taken at
-    three japanese observatories on frequencies between and during
-    the partial eclipse of the sun on show a marked decrease on the
-    observed flux during the period when a large sunspot group was
-    eclipsed the location size and brightness distribution of the
-    enhanced radiation region are derived a model for the quiet sun
-    having a bright region near the limb on the equator is also
-    suggested

@@ -1,3 +1,0 @@
-tunable l band ruby maser the product of voltage gain and
-    bandwidth was measured over the frequency range in a maser at
-    temperatures of and

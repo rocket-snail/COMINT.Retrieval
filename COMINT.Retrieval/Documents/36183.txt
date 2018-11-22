@@ -1,2 +1,0 @@
-a method of calibrating centimetric radiometers using a
-    standard noise source

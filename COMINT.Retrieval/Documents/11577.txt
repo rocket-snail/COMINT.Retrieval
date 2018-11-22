@@ -1,5 +1,0 @@
-proposal for a nuclear quadrupole maser it is suggested
-    that certain substances exhibiting pure quadrupole transitions
-    have the requisite properties for maser operation the
-    differences between masers based on these substances and on
-    paramagnetic solids are discussed

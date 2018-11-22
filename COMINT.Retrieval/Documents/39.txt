@@ -1,6 +1,0 @@
-electron densities in the ionosphere a fresh
-    interpretation of data obtained from rocket measurements bassed
-    on a breakdown in the independence of propagation of the
-    magneto ionic components of a signal transmitted from the
-    rocket gives an electron density curve in agreement with
-    records

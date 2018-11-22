@@ -1,6 +1,0 @@
-explicit formulas for tschebyscheff and butterworth
-    ladder networks a new set of simple formulae has been found for
-    the element values in a tchebycheff or butterworth ladder
-    network which apply when the degree of the denominator of the
-    transfer function is odd and the reflection coefficient has
-    zeros alternating in the left and right half planes

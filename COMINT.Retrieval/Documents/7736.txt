@@ -1,9 +1,0 @@
-quantum chemistry literature data base. the quantum
-    chemistry literature data base (qcldb) contains literature
-    concerning computations of atomic and molecular electronic
-    structures. approximately 2000 literature references published
-    from jan 77 to june 79 have been collected from 19
-    internationally well-known core journals. keys to references
-    are computational methods, basis sets, and calculated
-    properties and printout is by author and compound
-    indexes.

@@ -1,3 +1,0 @@
-analysis and synthesis of electrical circuits by means of
-    an electrolyte tank experimental procedure for solving network
-    problems is described

@@ -1,5 +1,0 @@
-note on a proposed three component aeromagnetometer by
-    identifying stairs photographed with a small nonmagnetic camera
-    mounted on the fluxgate gimbal mechanism of a total force
-    aeromagnetometer it is possible to find the magnetic
-    declination and dip

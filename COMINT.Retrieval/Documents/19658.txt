@@ -1,6 +1,0 @@
-the sibil system (lausanne). the sibil on-line
-    computerised system for acquisitions, cataloguing, and lending
-    is being developed by the canton and university library of
-    lausanne. provides a general description of the system,
-    outlines current developments, and highlights the problems to
-    be overcome if the system is adopted by other libraries.

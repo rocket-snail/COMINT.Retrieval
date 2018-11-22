@@ -1,3 +1,0 @@
-topological ordering for pert networks (algorithm 219)
-    december, 1963 kase, r. h. ca631208 jb march 13, 1978 2:56
-    pm

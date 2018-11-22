@@ -1,8 +1,0 @@
-vector modifications inherent in the doppler effect for
-    waves propagated in a dielectric medium the propagation of
-    plane em waves in a moving medium is characterized by four
-    vectors as compared with two for a stationary medium because
-    the directions of the electric and magnetic fields no longer
-    coincide with the respective inductions relations between these
-    vectors are derived and their physical significance is
-    discussed

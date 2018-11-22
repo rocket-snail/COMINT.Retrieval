@@ -1,8 +1,0 @@
-the influence of domain structure on the magnetization
-    curves of single crystals neels model for the domain structure
-    of a single crystal of iron in the form of a strip parallel to
-    the direction was used in the calculation of magnetization
-    curves depend explicitly on the width of the crystal comparison
-    between the calculated curve and experimental results for a si
-    fe crystal shows good agreement particularly at low field
-    values

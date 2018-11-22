@@ -1,4 +1,0 @@
-supply for precision measurement a low impedance
-    generator giving a highly stable comprehensive supply over the
-    frequency range is based on a wien bridge oscillator with
-    stabilized dc supplies

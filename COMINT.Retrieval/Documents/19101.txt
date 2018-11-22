@@ -1,8 +1,0 @@
-applications of the piezoelectric equations of state
-    application of the general linear piezoelectric equations of
-    state of to plates and thin bars particular stress and strain
-    systems are considered a uniform notation is introduced for the
-    elastic and piezoelectric constants used the relation between
-    dielectric constant at constant stress and at constant strain
-    is investigated electromechanical coupling factor is
-    discussed

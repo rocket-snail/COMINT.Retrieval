@@ -1,4 +1,0 @@
-theory of the nernst effects in ferromagnetic metals on
-    the basis of a two band model with one band nearly empty and
-    the other nearly fully occupied theory for the nernst effect
-    can be derived simply from that for the hall effect

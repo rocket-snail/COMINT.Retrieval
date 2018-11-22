@@ -1,9 +1,0 @@
-zzzz. the swedish government has, through the delegation
-    for scientific and technical information, appointed a committee
-    to plan a system of central libraries. firstly, an inventory
-    and analysis of the swedish information system will be carried
-    out; then a model for a central library system will probably be
-    tested; and finally the committee will produce a proposal for
-    such a system, with each central library responsible for a
-    certain area of the total national holdings of scientific and
-    technical literature.

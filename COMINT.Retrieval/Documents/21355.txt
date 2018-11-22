@@ -1,3 +1,0 @@
-comparison of phase difference and doppler shift
-    measurements for studying ionospheric fine structure using
-    earth satellites

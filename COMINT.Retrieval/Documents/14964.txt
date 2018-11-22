@@ -1,6 +1,0 @@
-single ended push pull output stages the development of
-    low dc resistance pentodes and high resistance moving coil
-    loudspeakers has made possible the construction of
-    transformerless output stages several types of which are
-    described the paper is based on the work of w aschermann and j
-    rodrigues de miranda see of

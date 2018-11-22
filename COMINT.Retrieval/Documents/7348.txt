@@ -1,2 +1,0 @@
-theory of the aurora based on magnetic self focusing of
-    solar ion streams

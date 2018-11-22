@@ -1,5 +1,0 @@
-scale of ten counting unit using four double triodes
-    description of a scale of circuit converted to scale of ten
-    operation by means of feedback from the fourth to the second
-    stage ge crystals being used for the feedback coupling and for
-    that between the first and second stage

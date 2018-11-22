@@ -1,9 +1,0 @@
-the solar control of the e and f layers at high latitudes
-    the monthly mean critical frequencies of the e and f layers at
-    high latitudes vary diurnally with solar zenith angle according
-    to a modified chapman law measurements of the seasonal latitude
-    and solar cycle phase dependence of the e layer sensitivity to
-    solar zenith angle and subsolar frequency are shown graphically
-    in the auroral zone e layer sensitivity to solar zenith angle
-    is very low but to the north of the zone it has the chapman
-    theoretical value

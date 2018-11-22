@@ -1,3 +1,0 @@
-the stability of plasma configurations of cylindrical
-    symmetry with volume currents the stability is investigated by
-    the method of small perturbations

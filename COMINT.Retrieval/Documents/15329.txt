@@ -1,9 +1,0 @@
-public library group weekend school, 3rd to 6th april:
-    man, machines and management. summaries of papers presented at
-    the weekend school, which were as follows: blaise: a green
-    paper, by david martin; the textual revolution, by anthony
-    smith; teletext and viewdata, by jim bruce; how to use an
-    'on-line' reference library' an examination of the kinds of
-    information available from lockheed dialog, by brian collinge;
-    manpower, machines and management, by john adair; and word
-    processing and handling, by t. morgan.

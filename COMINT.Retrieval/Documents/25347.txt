@@ -1,8 +1,0 @@
-a low-cost system for producing machine-readable
-    abstracts. describes geo systems' purpose built system centred
-    on a word processor and designed to allow input from distant
-    stations and output of both camera-ready copy and standard
-    computer tapes for indexes and retrieval purposes. the emphasis
-    is on a relatively cheap and simple system, and it is concluded
-    that the total cost will add no more than 2.5% to the cost of
-    each abstract.

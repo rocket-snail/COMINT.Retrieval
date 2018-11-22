@@ -1,5 +1,0 @@
-wide band balun transformer description of a balun
-    transformer developed for use with a cro deflection amplifier
-    bandwidth extends from below to above input impedance data and
-    pulse response characteristics are shown one balun coil can be
-    used alone as a passive wide band pulse inverter

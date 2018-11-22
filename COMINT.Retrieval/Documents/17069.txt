@@ -1,9 +1,0 @@
-in france its teletel. details are given of the videotex
-    test carried out in france, called the teletel 3v test, in
-    which 2,500 volunteer houses are linked to a nationwide network
-    of information services. teletel is based on france's antiope
-    standard and in the test there are 60,000 precomposed pages
-    which can be accessed by the user, who is linked by telephone
-    lines to cii-honeywell bull mini 6 computers in the teletel
-    computer centre in velizy. the reaction of some of the test
-    users is reported.

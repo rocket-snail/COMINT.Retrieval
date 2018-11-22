@@ -1,8 +1,0 @@
-evidence of harmonics in the spectrum of a solar radio
-    outburst measurements of rf outbursts on november and may show
-    a dynamic spectrum comprising two widely spaced frequency bands
-    having a drift with time from high to low frequencies the ratio
-    between frequencies of corresponding peaks was close enough to
-    to suggest a harmonic relation between the bands the emission
-    may take place in the corona at frequencies equal to the
-    natural plasma frequency and its harmonics

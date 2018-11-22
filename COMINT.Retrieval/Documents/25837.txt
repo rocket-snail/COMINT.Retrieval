@@ -1,7 +1,0 @@
-student's guide to some libraries in sussex. intended to
-    help the purposive user to identify those sussex libraries
-    which have stock relevant to his needs. comprises 3 sections'
-    resources-an alphabetical list of subjects giving at least 1
-    library for each subject; key-indicates location of libraries;
-    and directory-providing general information about each
-    library.

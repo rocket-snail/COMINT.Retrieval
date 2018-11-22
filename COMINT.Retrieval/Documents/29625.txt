@@ -1,3 +1,0 @@
-demodulator limiter for control system signals
-    description of transistor circuit for automatic control systems
-    which acts as limiter during modulation or demodulation

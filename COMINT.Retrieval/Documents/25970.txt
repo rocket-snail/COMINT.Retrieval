@@ -1,4 +1,0 @@
-determination of radio propagation elements due to an
-    artificial earth satellite a simple formula is given expressing
-    path length for determining the virtual position of a radiating
-    source

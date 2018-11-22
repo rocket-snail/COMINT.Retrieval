@@ -1,3 +1,0 @@
-a comparison of intracloud and cloud to ground lightning
-    discharges experimental results are discussed together with
-    possible discharge mechanisms

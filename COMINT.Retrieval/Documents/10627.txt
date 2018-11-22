@@ -1,4 +1,0 @@
-designing transistor circuits small signal parameters and
-    equivalent circuits the merits of various equivalent circuits
-    for transistors are discussed with emphasis on the common base
-    derived y h and t arrangements

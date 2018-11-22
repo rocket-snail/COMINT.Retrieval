@@ -1,6 +1,0 @@
-transistor nor circuit design a nor circuit gives a
-    signal output only when no input signal is present in
-    examination of transistor characteristics gives a stable design
-    for an arbitrary number of inputs and outputs on a single type
-    transistor crosstalk factor and speed of operation are
-    considered

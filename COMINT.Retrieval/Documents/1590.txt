@@ -1,4 +1,0 @@
-magnetic damping of rotation of satellite from radio
-    observation of vanguard i eddy current induction theory gives a
-    value for the mean magnetic field normal to the spin apis of
-    the satellite

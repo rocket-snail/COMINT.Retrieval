@@ -1,7 +1,0 @@
-simultaneous partial absorption reflection and
-    transmission of a uniform plane wave by a thin metal layer
-    simple analysis is used to derive expressions for the energy
-    reflected transmitted and absorbed for a normally incident wave
-    for given conductivity the absorbed energy has a maximum value
-    of half the incident energy at a particular value of thickness
-    the reflected and transmitted energies being then equal

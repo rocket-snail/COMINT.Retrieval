@@ -1,4 +1,0 @@
-digital computer plug in units and associated equipment
-    basic circuits etched on small boards are plugged into standard
-    contact receptacles of which are combined in a sub rack
-    assembly complete with power wiring

@@ -1,5 +1,0 @@
-a note on the group refractive index of the ionosphere
-    for zero collisional frequency a difference between the general
-    expressions for the group refractive index derived by unz and
-    murty and khastgir of is due to an error in sign in the
-    former

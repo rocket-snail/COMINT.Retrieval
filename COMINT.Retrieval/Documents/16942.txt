@@ -1,4 +1,0 @@
-tracking orbits of man made moons description of the
-    minitrack interferometer type system designed to measure
-    satellite position to an accuracy within seconds of arc with a
-    time precision of one millisecond

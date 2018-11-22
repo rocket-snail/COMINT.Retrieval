@@ -1,3 +1,0 @@
-new high speed counter divider the unit will count and
-    divide by any number up to at operation at frequencies up to
-    should be possible

@@ -1,9 +1,0 @@
-readability and semantic redundancy threshold. using a
-    semantic definition of redundancy (adapted from communication
-    theory), relates the readability threshold to a redundancy
-    threshold and defines readability through redundant semantic
-    features, the extent of their intersection, and the critical
-    interval between recurrences. readability thus consists of a
-    balance between a supersaturation of interconnected items and a
-    subsaturation of compatible items which can be interpreted as a
-    proportion.

@@ -1,5 +1,0 @@
-a transistor remote amplifier a portable pre amplifier
-    using point contact transistors is described precautions
-    necessary to avoid damage to the transistors during
-    construction of the equipment and during use are
-    indicated

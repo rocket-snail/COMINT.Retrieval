@@ -1,7 +1,0 @@
-components for severe conditions of use a discussion of
-    the factors to be considered in the design of capacitors and
-    resistors for use under extreme temperature and humidity
-    conditions particularly when the components are required to be
-    as small as possible the use of ceramic covered wire for the
-    windings of transformers etc to withstand high temperatures is
-    mentioned

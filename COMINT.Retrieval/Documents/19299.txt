@@ -1,5 +1,0 @@
-method of measuring ionospheric winds by fading at spaced
-    receivers current statistical methods of measurement are
-    critically reviewed and compared as a result a method is
-    suggested that may be less laborious than the autocorrelation
-    methods but of comparable accuracy see eg of

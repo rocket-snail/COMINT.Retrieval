@@ -1,9 +1,0 @@
-the electronic archive of the ansa news agency. ansa; a
-    cooperative of 46 italian publishers owning 50 daily newspapers
-    and its work are described. the problems of disseminating large
-    quantities of news material and of storing it in the microfilm
-    archive are considered. the installation of an ibm 4341 system
-    integrated with the electronic message routing system and
-    working the ibm data base programme package stairs to give an
-    electronic archive system is discussed. the capabilities of the
-    system and future expansion plans are also considered.

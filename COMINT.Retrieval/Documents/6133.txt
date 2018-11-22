@@ -1,6 +1,0 @@
-adhesives for library binding. discusses the different
-    types of adhesives which are available to binders for use in
-    putting the sequence of printed pages together to form a book.
-    describes the use, and appropriate applications of' animal
-    glue; starch pastes; synthetic resin emulsions; and hot metal
-    adhesives.

@@ -1,4 +1,0 @@
-measurement of the rapid fluctuations of the earths
-    magnetic field a ferroxcube probe in circuit with a
-    photoelectric fluxmeter of sauzade may be used to observe
-    fluctuations at frequencies up to cs

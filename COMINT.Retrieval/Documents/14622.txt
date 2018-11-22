@@ -1,6 +1,0 @@
-a method for investigating amplifying circuits with
-    characteristic equations of the third degree for short build up
-    times a method is proposed in which a number of difficulties in
-    design are eliminated as an example results are given of an
-    investigation of a correction circuit using an inductance in
-    the grid circuit

@@ -1,6 +1,0 @@
-the geometrical representation of combined linear
-    quadripoles concepts of non euclidean geometry are used the
-    representation of reactance quadripoles by a rigid system of
-    two straight transformation lines and the determination of
-    impedance transformations from geometrical reflections afford
-    useful methods for treating composite quadripoles

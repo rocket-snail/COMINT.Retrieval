@@ -1,5 +1,0 @@
-analysis of the emissive phase of a pulsed maser a
-    discussion of the emission from a matched cavity at
-    paramagnetic resonance results are given for transverse moment
-    output field output power and power gain as a function of
-    time

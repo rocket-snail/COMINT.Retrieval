@@ -1,4 +1,0 @@
-coupling coefficients of ladder networks with maximally
-    flat amplitude response the coefficients are expressed in terms
-    of the dissipations in the input and output branches using a
-    generalized theory of greens method of solution

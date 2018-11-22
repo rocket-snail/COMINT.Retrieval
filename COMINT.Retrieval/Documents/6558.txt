@@ -1,3 +1,0 @@
-on reciprocity theorems in electromagnetic theory five
-    different types of sources of em fields are considered and the
-    corresponding reciprocity theorems stated

@@ -1,8 +1,0 @@
-a note on thermodynamics of the harmonic oscillator with
-    radiation damping it is shown that the impedance of an
-    irreversible thermodynamical system must be positive and real
-    the argument is based on representation of the system by
-    langevin equations of the second order corresponding to the
-    construction of any passive network from elementary rlc
-    circuits the conclusion is illustrated by an examination of the
-    properties of the harmonic oscillator

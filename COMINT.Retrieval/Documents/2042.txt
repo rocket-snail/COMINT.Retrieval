@@ -1,2 +1,0 @@
-a reciprocity theorem for the electromagnetic field
-    scattered by an obstacle

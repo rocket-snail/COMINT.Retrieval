@@ -1,8 +1,0 @@
-tatolectromagnetic field equations for a moving medium
-    with hall conductivity the well known equation representing the
-    electromagnetic field in a moving isotropic conductor is
-    adapted to treat the case of an anisotropic conductor such as
-    an ionized gas moving in a strong magnetic field by introducing
-    a tensor conductivity the modified equation is used to analyse
-    astrophysical problems including the propagation of
-    magnetohydrodynamic waves

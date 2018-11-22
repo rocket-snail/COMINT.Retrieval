@@ -1,4 +1,0 @@
-theory of magnetostatic modes in long axially magnetized
-    cylinders the characteristic equation determining the eigen
-    frequencies of the magnetostatic modes is derived from the
-    equations of motion and the boundary conditions

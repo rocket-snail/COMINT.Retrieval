@@ -1,9 +1,0 @@
-videotex dossier' us wired and broadcast services. this
-    survey of world videotex systems includes descriptions of the
-    main experiments and projects, and information on particular
-    companies' interests. antiope, prestel and telidon are
-    discussed. legal problems with videotex in the usa are
-    discussed and experiments with broadcast systems around the usa
-    are described. nonbroadcast systems, electronic newspaper
-    projects, teleshopping, captioning and other teletext schemes
-    are also discussed.

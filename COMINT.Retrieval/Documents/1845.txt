@@ -1,5 +1,0 @@
-low noise transistor amplifier stages with negative
-    feedback theoretical investigation of the grounded emitter
-    connection with feedback resistance in the emitter circuit the
-    relation of source impedance to optimum noise figure is
-    determined

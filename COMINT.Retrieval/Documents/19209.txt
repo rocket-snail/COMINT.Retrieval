@@ -1,5 +1,0 @@
-electron beam excitation of a fabry perot interferometer
-    energy is extracted from a modulated electron beam by injecting
-    the beam diagonally t through dielectric between the plates of
-    the interferometer an output power of about at has been
-    obtained

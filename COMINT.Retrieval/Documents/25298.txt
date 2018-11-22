@@ -1,6 +1,0 @@
-broadband rotary waveguide attenuator the attenuator
-    comprises three collinear sections of round waveguide each with
-    a resistive film arranged in a diametral plane the middle
-    section is rotated to obtain the desired attenuation some
-    performance figures are given for an experimental model the
-    characteristics are independent of frequency

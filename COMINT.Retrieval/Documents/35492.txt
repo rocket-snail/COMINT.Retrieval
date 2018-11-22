@@ -1,7 +1,0 @@
-computerized text management. some applications of
-    computerised text management (cim) are considered, with
-    particular reference to the advanced text management system, a
-    software package supplied by ibm. a description is given of how
-    data bases were set up at one traffic engineering department in
-    the us and at the department of social services. the benefits
-    of ctm are summarised.

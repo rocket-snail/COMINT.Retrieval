@@ -1,6 +1,0 @@
-wide rf level rf unit for an nmr spectrometer this unit
-    makes use of a crystal controlled oscillator for frequency
-    stability and positive feedback to increase the effective q of
-    the sample rf coil the circuit is well suited to saturation
-    studies and relaxation time measurements in nuclear magnetic
-    resonance investigations

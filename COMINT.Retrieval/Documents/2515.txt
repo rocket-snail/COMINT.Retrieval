@@ -1,6 +1,0 @@
-improved stabilization from a voltage regulator tube by
-    using a suitable barretter in place of the resistor usually
-    connected in series with a voltage regulator tube a definite
-    improvement in performance is obtained the barretter type of
-    circuit is most useful when the load current is relatively
-    high

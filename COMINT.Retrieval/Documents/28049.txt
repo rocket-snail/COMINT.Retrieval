@@ -1,4 +1,0 @@
-using divider vernier to synchronize pulses the vernier
-    adds or deletes pulses at the input of frequency dividers thus
-    enabling the output to be precisely synchronized eg to the wwv
-    second pulses

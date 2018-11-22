@@ -1,3 +1,0 @@
-theoretical study and method of operation of a
-    logarithmic integrator description of a computer circuit based
-    on a diode pump action

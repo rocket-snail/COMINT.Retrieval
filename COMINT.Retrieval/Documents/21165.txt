@@ -1,7 +1,0 @@
-graphical determination of the operating characteristic
-    of a magnetic amplifier a method of constructing a performance
-    characteristic for a magnetic amplifier is described based on
-    the equivalent circuit derived earlier of october bernard and
-    pio taking account of the nonlinearity of the associated
-    rectifier and expressing output current as a function of
-    current in the control circuit

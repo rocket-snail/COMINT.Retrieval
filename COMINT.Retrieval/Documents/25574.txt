@@ -1,8 +1,0 @@
-authors and names' multiple pseudonyms in aacr2. the
-    history of cataloguing pseudonyms is reviewed. aacr2 reverses a
-    century-long cataloguing practice by allowing authors who use
-    several pseudonyms to be entered in the catalogue under each
-    name. this violates the catalogue's objectives as formulated by
-    lubetzky and is contradictory to aacr2's own internal logic.
-    the number of disadvantages to this rule far outweigh any
-    advantages. it should be replaced.

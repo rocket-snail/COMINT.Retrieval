@@ -1,8 +1,0 @@
-on the theory of amplitude distribution of impulsive
-    random noise and its application to the atmospheric noise
-    atmospheric noise is considered to be a superposition of
-    sources of independent randomly occurring poisson noise wave
-    packets theoretical amplitude distributions from both discrete
-    and continuous spatial distributions of sources are compared
-    with actual noise measurements with considerable
-    agreement

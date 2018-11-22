@@ -1,7 +1,0 @@
-parametric circuits at low frequencies using ferrites and
-    thin magnetic films the design of parametric circuits
-    incorporating ferrite cores and films with nonlinear
-    characteristics is discussed films appear to be more suitable
-    for operation at higher frequencies an advantage of the use of
-    ferrite and magnetic film devices is their resistance to
-    nuclear radiation

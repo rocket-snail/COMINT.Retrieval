@@ -1,4 +1,0 @@
-the diffraction at apertures in nonplanar screens the
-    approximation method given is applied to the case of a circular
-    aperture in a funnel shaped screen for a scalar plane wave and
-    for an e m plane wave propagating in the axial direction

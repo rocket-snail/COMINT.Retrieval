@@ -1,5 +1,0 @@
-coupling mechanisms between longitudinal and transverse
-    waves in a plasma the possible coupling mechanisms are deduced
-    on the basis of fundamental plasma equations the existence of a
-    nonlinear internal coupling effect is proved which can cause em
-    radiation

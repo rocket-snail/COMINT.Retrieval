@@ -1,3 +1,0 @@
-tunneling from an independent particle point of view
-    calculation of wave functions for tunnelling problems with
-    applications

@@ -1,5 +1,0 @@
-transistor circuit design using modified hybrid
-    parameters methods are described for calculating modified
-    hybrid parameters and approximate expressions applicable to the
-    design of practical one and two stage amplifiers with feedback
-    are given

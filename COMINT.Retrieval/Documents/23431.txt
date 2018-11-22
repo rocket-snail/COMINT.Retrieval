@@ -1,9 +1,0 @@
-the variation with current and inductance of metal
-    transfer between platinum contacts continuation of
-    investigation described previously of warham curves of the net
-    transfer are given for currents and inductances in the ranges
-    and respectively four different types of transfer termed bridge
-    short arc long arc and reversed short arc may be involved the
-    results indicate that the life of pt contacts could be improved
-    by controlling the effective circuit inductance at break to
-    about

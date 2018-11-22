@@ -1,5 +1,0 @@
-new approaches to the amplification of microwaves the
-    basic principles governing the operation of two new types of
-    molecular microwave amplifier the maser and the parametric
-    amplifier are described both types of amplifier have relatively
-    narrow bandwidths but excellent noise properties

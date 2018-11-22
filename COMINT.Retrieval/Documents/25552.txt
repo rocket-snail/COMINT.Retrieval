@@ -1,5 +1,0 @@
-retardation effects caused by ferrite sample size on the
-    frequency shift of a resonant cavity expressions are derived
-    using perturbation theory for the frequency shift of a
-    circularly polarized resonant microwave cavity due to insertion
-    of a small ferrite sample

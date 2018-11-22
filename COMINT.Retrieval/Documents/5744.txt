@@ -1,4 +1,0 @@
-a magnetic associative memory a computer storage system
-    is described in which data flow in and out on the basis of
-    content rather than location a small experimental model of the
-    system using ferrite cores is also described

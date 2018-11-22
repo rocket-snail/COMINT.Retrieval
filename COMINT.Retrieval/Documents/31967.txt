@@ -1,7 +1,0 @@
-exceptionally stable regulated power supply for
-    electrometer tubes description of a two stage regulator circuit
-    delivering about at with the output regulated to within several
-    parts per million for line voltage changes of drift of the
-    output voltage is about parts per million per hour theory
-    construction details and results of performance tests are
-    given

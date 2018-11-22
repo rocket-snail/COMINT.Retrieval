@@ -1,4 +1,0 @@
-planar transistors in microwatt logic circuitry the
-    application of the uhf si transistor to logic circuits at very
-    low power is discussed a four stage shift register is described
-    which operates at per transistor stage

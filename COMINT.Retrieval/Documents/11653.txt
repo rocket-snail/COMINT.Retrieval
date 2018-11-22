@@ -1,2 +1,0 @@
-a definition of passive linear networks in terms of time
-    and energy

@@ -1,9 +1,0 @@
-a new self excited square wave transistor power
-    oscillator the basic circuit uses a push pull arrangement of
-    power transistors in conjunction with a transformer consisting
-    of a centre tapped primary centre tapped feedback and output
-    winding and a single source an explanation of the operation and
-    oscillograms of waveforms obtained are presented good
-    efficiency is obtained over a frequency range the range has
-    been extended up to with reduced efficiency application to
-    conversion of power is discussed

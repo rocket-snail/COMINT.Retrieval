@@ -1,4 +1,0 @@
-electric field distribution in polarized photoconductors
-    the distribution is determined from changes which occur in the
-    persistent polarization see of under various polarizing
-    conditions

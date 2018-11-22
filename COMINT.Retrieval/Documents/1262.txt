@@ -1,8 +1,0 @@
-the effect of inductance on fine transfer between
-    platinum contacts an investigation was made with pt contacts in
-    a circuit breaking currents of the order of the circuit
-    inductance was varied from to measurements of the volume
-    transferred and examination of the surface structure indicate
-    that there are two types of transfer true bridge transfer
-    independent of inductance and short arc transfer dependent on
-    the inductance

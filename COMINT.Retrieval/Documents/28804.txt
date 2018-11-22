@@ -1,5 +1,0 @@
-frequency aging of high frequency plated crystal units
-    the aging process is discussed in terms of contamination of the
-    quartz crystal the influence of various production methods is
-    examined data obtained with units in metal and glass enclosures
-    are presented graphically

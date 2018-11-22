@@ -1,4 +1,0 @@
-volt second transfer efficiency in fast response magnetic
-    amplifiers part as a design parameter the relation between volt
-    seconds and ampere turns is confirmed by measurements on a
-    specially designed magnetic amplifier part of july

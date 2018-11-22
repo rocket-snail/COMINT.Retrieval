@@ -1,7 +1,0 @@
-possibility of determining the potential distribution of
-    a plasma from the characteristics of the noise generated in a
-    gaseous discharge a note of noise measurements made on oxide
-    cathode discharges in krypton at pressures and at discharge
-    currents the variation of potential along the axis of the
-    discharge is in close agreement with results obtained by
-    conventional probe methods

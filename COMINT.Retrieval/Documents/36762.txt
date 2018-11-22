@@ -1,9 +1,0 @@
-removal of an inconsistency in the theory of diffraction
-    in certain cases the integral equations involved in analysis of
-    the diffraction of small amplitude acoustic or em waves give a
-    solution which does not satisfy the boundary conditions imposed
-    but which agrees with the solution found by other means this
-    inconsistency is removed if different boundary conditions are
-    imposed in the formulation of the problem this is illustrated
-    by discussion of two dimensional diffraction of a plane em wave
-    by a perfectly conducting semi infinite plane

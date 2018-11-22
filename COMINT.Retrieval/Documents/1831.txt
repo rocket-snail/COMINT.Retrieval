@@ -1,2 +1,0 @@
-input data organization in fortran october, 1962
-    yarbrough, l.d. ca621006 jb march 17, 1978 7:20 pm

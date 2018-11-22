@@ -1,3 +1,0 @@
-analysis of the full wave magnetic amplifier circuits
-    considering the change of the width of the dynamic hysteresis
-    loop

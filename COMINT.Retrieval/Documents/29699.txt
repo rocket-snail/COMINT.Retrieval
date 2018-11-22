@@ -1,5 +1,0 @@
-compensation for fluctuations in the anode current of a
-    valve due to heating in the method described an antiphase
-    rectified voltage proportional to heater current variations is
-    applied to the control grid of the valve to stabilize the anode
-    current

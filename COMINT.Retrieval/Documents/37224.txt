@@ -1,7 +1,0 @@
-junction transistors at high frequencies methods of
-    stabilizing transistor amplifiers are discussed and formulae
-    are presented for calculating the characteristics of a linear
-    amplifier at any frequency and for determining the principal
-    parameters of junction transistors with common emitter common
-    base or common collector connections curves are given of
-    maximum gain as a function of frequency

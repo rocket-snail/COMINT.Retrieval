@@ -1,4 +1,0 @@
-the development of a new method of circuit analysis in
-    ladder networks the method outlined is applied to networks
-    consisting of tandem connected l sections calculations are
-    simpler than in conventional methods

@@ -1,5 +1,0 @@
-input and output devices for computers the following
-    papers were presented at a symposium held in london the
-    transport of paper tape in digital computation a high speed
-    tape reader a new cards per minute card reader high speed
-    printers

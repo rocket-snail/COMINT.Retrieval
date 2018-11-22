@@ -1,7 +1,0 @@
-quantum oscillations of the high frequency surface
-    impedance a quantum mechanical formula is derived and cases
-    involving constant magnetic fields both parallel and inclined
-    to the surface are considered from an experimental study of
-    surface impedance in a strong magnetic field the shape of the
-    fermi surface and the velocity of the electrons in it can be
-    determined

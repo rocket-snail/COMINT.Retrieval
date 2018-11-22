@@ -1,6 +1,0 @@
-oscillations of a cylindrical cavity in a completely
-    ionized plasma investigation of the oscillations of a
-    cylindrical cavity in a perfectly conducting plasma with
-    applied magnetic field the system is shown to be stable and
-    under certain conditions waves cannot propagate along the
-    cavity

@@ -1,5 +1,0 @@
-two theorems on two terminal electrical networks given
-    that the impedance of the network is a rational function zs of
-    the complex frequency and putting it is shown that for networks
-    consisting of reactances only and resistances together with
-    reactances of one kind

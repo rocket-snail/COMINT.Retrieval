@@ -1,4 +1,0 @@
-the pn junction on a variable reactance device for fm
-    production a transistor modulator for a carrier frequency is
-    described which gives good fm with negligible am change in
-    modulating signal produces a deviation of

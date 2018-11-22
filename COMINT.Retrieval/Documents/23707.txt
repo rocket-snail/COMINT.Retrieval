@@ -1,2 +1,0 @@
-theory of ultrasonic attenuation in metals and magneto
-    acoustic oscillations

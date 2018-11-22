@@ -1,7 +1,0 @@
-multistage resonance absorbers for centimetre
-    electromagnetic waves a three stage dipole resonance absorber
-    is drived from the two stage absorber described in of schmitt
-    by the addition of a second dipole grid at a distance of in
-    front of the metal surface the frequency characteristics of the
-    reflection coefficient are calculated and compared with the
-    results of measurements

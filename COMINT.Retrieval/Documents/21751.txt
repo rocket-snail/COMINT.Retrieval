@@ -1,4 +1,0 @@
-degenerative pentode equivalent circuit analysis and
-    discussion based on two forms of equivalent circuit of a
-    pentode arrangement with feedback via cathode lead
-    impedance

@@ -1,8 +1,0 @@
-method of calculating electromagnetic fields excited by
-    an alternating current in stratified media the expressions for
-    the field due to a dipole in the boundary of a stratified half
-    space are developed in a form suitable for evaluation by a
-    modern computer the characteristics of the strata are assumed
-    to be independent of time and of the field the permeability is
-    constant and the conductivities are arbitrary the conductivity
-    of the surface layer is finite

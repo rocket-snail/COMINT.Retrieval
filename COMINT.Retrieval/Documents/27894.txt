@@ -1,4 +1,0 @@
-the effects of betatron accelerations upon the intensity
-    and energy spectrum of magnetically trapped a particles the
-    effects of change of magnetic field on th energy spectrum are
-    calculated

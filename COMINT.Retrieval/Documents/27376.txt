@@ -1,8 +1,0 @@
-library education statistical report 1980. this report,
-    the 1st in a series of annual statistical surveys, is designed
-    to present statistical information about library education in
-    the usa and canada. the report is divided into 5 sections'
-    faculty, by russell e. bidlack; students, by carol l. learmont;
-    income and expenditures, by james krikelas; curriculum, by
-    elspeth pope; continuing education, by timothy w.
-    sineath.

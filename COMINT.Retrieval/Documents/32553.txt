@@ -1,9 +1,0 @@
-library systems analysis 1: the objectives. examines the
-    steps involved in drawing up a statement of objectives for a
-    library system as a preliminary to carrying out an analysis of
-    the system. discusses the definition of: internal objectives,
-    which are determined by interviewing, job analysis, flow
-    charting, and the development of decision tables; and external
-    objectives, which are concerned with the efficient organisation
-    of the 3 main library functions-collection, storage, and rapid
-    retrieval of material.

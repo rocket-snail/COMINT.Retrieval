@@ -1,4 +1,0 @@
-design of wide band tuned amplifiers amplifiers with
-    schienemann butterworth and tchebycheff band pass
-    characteristics are considered in detail and formulae design
-    curves and numerical examples are given

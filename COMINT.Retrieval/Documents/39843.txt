@@ -1,5 +1,0 @@
-a saturable core modulation integrator a circuit is
-    discussed which illustrates the use of saturable core reactors
-    for operating directly on a modulation carrier use is made of
-    the ability of a saturable reactor to convert a voltage
-    integral to a magnetic flux and store it until required

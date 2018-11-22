@@ -1,6 +1,0 @@
-energy and duration of a sudden ionospheric disturbance a
-    study was made of the maximum amount of energy which might be
-    absorbed by the atmosphere down to during a sudden ionospheric
-    disturbance assuming that the ionization is caused by lyman
-    radiation from the sun and that all oxygen present is ionized
-    the energy absorbed by the sunlit hemisphere is ergs

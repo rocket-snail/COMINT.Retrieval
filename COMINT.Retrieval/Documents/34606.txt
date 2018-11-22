@@ -1,4 +1,0 @@
-character generator for digital computers a monoscope
-    lube apparatus is described which operates in the speed range
-    of computers and storage devices and provides read out directly
-    on a c r o or on paper

@@ -1,8 +1,0 @@
-containment of a fully ionized plasma by radio frequency
-    fields a fully ionized plasma is treated as a compressible loss
-    free dielectric in a rf field it is shown that there are steady
-    forces which may be used to confine a body of dense plasma in a
-    conducting cavity resonant in a suitable mode a particular
-    solution the e cut off mode for which extensive numerical
-    calculations have been made is discussed in some detail and
-    interpreted in terms of possible physical experiments

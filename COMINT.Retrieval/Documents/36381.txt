@@ -1,4 +1,0 @@
-electron and ion runaway in a fully ionized gas part two
-    an extension of the treatment presented in part one to give a
-    more exact estimate of the runaway rate under the action of a
-    weak electric field

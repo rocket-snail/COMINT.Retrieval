@@ -1,4 +1,0 @@
-temperature fields in electrical coils numerical
-    solutions the computation of the steady temperature fields in
-    coils by the relaxation method is described and
-    illustrated

@@ -1,4 +1,0 @@
-ht supply units for television receivers equipped with
-    silicon diodes a short survey of semiconductor rectifiers is
-    given and design parameters for rectifier circuits and rc
-    smoothing networks are discussed

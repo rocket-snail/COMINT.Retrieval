@@ -1,3 +1,0 @@
-direct metering for a transformer analogue computer
-    descriptions are given of the phase shift and combining
-    networks of the witton network analyser wina

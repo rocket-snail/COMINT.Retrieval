@@ -1,5 +1,0 @@
-the radio brightness distributions over four discrete
-    sources of cosmic noise the experimentally determined isophotes
-    obtained from measurements with a variable aerial spacing radio
-    interferometer at are compared with the optical features of the
-    nebulae

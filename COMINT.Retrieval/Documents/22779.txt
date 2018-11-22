@@ -1,7 +1,0 @@
-breakdown of a gas subject to crossed electric fields
-    experiments with various gases show that breakdown in a
-    resonator subjected to voltage pulses with a repetition
-    frequency of is not helped by application of alternating fields
-    of frequency or perpendicular to the main field even when such
-    fields are only a little below the value at which they would
-    cause breakdown if acting alone

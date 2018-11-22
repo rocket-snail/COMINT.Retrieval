@@ -1,3 +1,0 @@
-criterion of uniqueness for the solutions of maxwells
-    equations a linear medium characterized by the absence of
-    dielectric or magnetic hysteresis is considered

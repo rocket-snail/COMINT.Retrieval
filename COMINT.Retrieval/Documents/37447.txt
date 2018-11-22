@@ -1,4 +1,0 @@
-a versatile forcing function generator an electronic
-    generator for use with analogue computers which produces sine
-    square triangular ramp step or impulse functions over the range
-    to an accuracy within

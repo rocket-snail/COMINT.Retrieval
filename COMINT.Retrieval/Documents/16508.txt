@@ -1,2 +1,0 @@
-feedback theory further properties of signal flow graphs
-    continuation of theory presented previously

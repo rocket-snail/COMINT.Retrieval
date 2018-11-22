@@ -1,9 +1,0 @@
-information and referral services: the resource file. at
-    the present time there is a surge of interest in information
-    and referral (i&r) services. this manual is part of a
-    series of publications that is intended to respond to that
-    interest and to provide a solid base for a comprehensive
-    approach to the promises and the problems of i&r services.
-    it has been prepared to fill a critical need' to provide
-    detailed procedures of a method for gathering, storing, and
-    retrieving information about human services.

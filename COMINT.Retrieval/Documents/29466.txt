@@ -1,4 +1,0 @@
-the reliability and life of impregnated paper capacitors
-    the construction of paper capacitors and the problems
-    associated with failure in them are reviewed possible methods
-    of prolonging life and reducing failures are discussed

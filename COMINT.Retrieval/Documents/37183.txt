@@ -1,8 +1,0 @@
-the frequency response of a certain class of nonlinear
-    feedback systems a method is described for predicting the
-    frequency response of feedback systems including one single
-    valued nonlinear element followed by a low pass filter the
-    conditions giving rise to gain discontinuity or jump phenomenon
-    are investigated experimental results obtained with an
-    electronic servo simulator justify the use of the analytical
-    technique

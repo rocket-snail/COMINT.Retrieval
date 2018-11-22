@@ -1,4 +1,0 @@
-maximum total energy of the van allen radiation belt the
-    results of the spherical harmonic analysis of the geomagnetic
-    field show an upper limit for the ener y that can be stored in
-    the van allen radiation belt

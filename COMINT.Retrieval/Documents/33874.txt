@@ -1,4 +1,0 @@
-semi asymptotic series for the diffraction of a plane
-    wave by a cylinder the technique described previously involving
-    watson transform is used to develop series up to where and is
-    the radius of the cylinder

@@ -1,7 +1,0 @@
-doe's energy data base (edb) versus other energy-related
-    data bases' a comparative analysis. the release of the doe
-    energy data base to commercial services in 1980 raised an
-    immediate question in the minds of some searchers' how does
-    this new data base fit into the spectrum of already-available
-    data bases. the investigation attempts to resolve this
-    question.

@@ -1,6 +1,0 @@
-scattering of electromagnetic waves from concentric
-    infinite cylinders the solution for the scattering of radiant
-    energy in the form of electromagnetic waves by concentric
-    isotropic infinitely long circular cylinders is given for the
-    incident energy travelling perpendicular to the cylinder
-    axis

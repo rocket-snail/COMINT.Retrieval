@@ -1,5 +1,0 @@
-possible causes of geomagnetic fluctuations having a six
-    second period the fluctuations described by duffus et al may be
-    due to small oscillations of the earths crust microseisms or
-    more probably atmospheric oscillations with the same period
-    microbaroms

@@ -1,7 +1,0 @@
-self oscillatory systems with two degrees of freedom at
-    multiple frequencies mathematical analysis of the operation of
-    an oscillator using two coupled tuned circuits resonating at
-    frequencies one of which is an approximate multiple of the
-    other expressions are derived for the oscillator frequencies
-    and their instability as a function of the instability of the
-    tuned circuits and the supply voltages

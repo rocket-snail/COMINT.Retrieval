@@ -1,6 +1,0 @@
-radio echo observations of venus a description of the
-    equipment used and a discussion of the results of observations
-    at kodrell bank no echoes stronger than the noise level of the
-    receiver were observed an analysis of the signals received was
-    therefore made with integrating equipment and the results
-    compared with those of price et al

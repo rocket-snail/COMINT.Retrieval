@@ -1,4 +1,0 @@
-diurnal variation of deviative absorption in the f region
-    of the ionosphere note of absorption measurements near the
-    critical frequency daytime reduction of deviative absorption is
-    ascribed to thermal expansion of the f layer

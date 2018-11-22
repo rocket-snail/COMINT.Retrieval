@@ -1,7 +1,0 @@
-frequency stabilization of a reflex klystron oscillator
-    part of the klystron output is fed to a cylindrical resonator
-    one of whose ends is constituted by a diaphragm which is
-    vibrated at about kcs the detected output from the resonator
-    which varies with shift of the klystron frequency is fed to a
-    lock in amplifier to produce a control voltage which is added
-    to the klystron reflector voltage

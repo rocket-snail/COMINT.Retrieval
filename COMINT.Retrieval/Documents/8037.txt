@@ -1,2 +1,0 @@
-asymptotic development of double integrals encountered in
-    diffraction theory

@@ -1,5 +1,0 @@
-study f of the electromagnetic field produced bya
-    magnetic doublet in the presence of two medi separated by a
-    plane surface a rigorous treatment for the general case of a
-    doublet with its axis at any angle to the surface between the
-    media the effects of special media are also considered

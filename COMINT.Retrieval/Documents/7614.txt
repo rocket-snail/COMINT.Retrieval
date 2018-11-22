@@ -1,9 +1,0 @@
-frequency stepper for radio propagation tests full
-    circuit details are given of a stepped frequency exciter unit
-    controlling a pulse transmitter and receiver at widely
-    separated locations the range is covered in steps at sec
-    intervals and crystals are used as reference frequency sources
-    and frequency control is achieved by means of a beam deflection
-    tube transmitter and receiver circuits are briefly described
-    the transmitter radiates pulses with repetition frequency or
-    and output power

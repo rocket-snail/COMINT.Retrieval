@@ -1,5 +1,0 @@
-the lifetime of radiation belt protons with energies
-    between and m the charge exchange lifetime of protons in the
-    val allen radiation belts is calculated using experimentally
-    measured cross sections these values are compared with
-    estimates of coulomb scattering lifetimes

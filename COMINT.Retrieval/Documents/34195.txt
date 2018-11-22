@@ -1,8 +1,0 @@
-ba conference '81. report of some sessions at the 1981
-    booksellers association conference, including that on
-    machine-readable codes (mrcs) (pp 1714-1716) which dealt with
-    the representation on books of isbns in both ocr-a and the
-    bar-code form of the european article numbering association;
-    technical aspects of using mrcs; the current and intended use
-    of mrcs by uk publishers; benefits of mrcs; and the possibility
-    of showing prices in mrc format.

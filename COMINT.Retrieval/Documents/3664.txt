@@ -1,4 +1,0 @@
-an improved film cryotron and its application to digital
-    computers a crossed film cryotron formed by deposition on an
-    insulated superconductor is described and its operation is
-    analysed

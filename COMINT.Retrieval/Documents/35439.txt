@@ -1,9 +1,0 @@
-a unified patient information system. the health service
-    information steering group (the korner group) was set up at the
-    beginning of 1980. it was to be concerned with all aspects of
-    information for health service management, with the exception
-    of public health and epidemiological data. so far, sub-groups
-    have been set up to review particular types of information.
-    summarises the work of group a, which has just been reported
-    and deals with information about patients and the facilities
-    they use.

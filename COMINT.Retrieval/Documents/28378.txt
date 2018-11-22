@@ -1,6 +1,0 @@
-field electron emission and work function of crystal
-    surfaces the field close to the surface is determined by
-    measurements on models in an electrolyte tank formulae are
-    derived for the density of the field emission current these are
-    verified by field electron microscope observations on w
-    crystals

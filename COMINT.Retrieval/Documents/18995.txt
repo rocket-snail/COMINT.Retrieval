@@ -1,8 +1,0 @@
-admittance and transfer function of a multimesh
-    resistance capacitance filter network the impedance function of
-    an n mesh rc network is expressed as a recurring continued
-    fraction which is then resolved into the quotient of two
-    polynomials the admittance function being the reciprocal of
-    this quotient the transfer function is then determined the
-    corresponding formulae for an n mesh cr network are
-    derived

@@ -1,5 +1,0 @@
-computer technology and the library' an introduction. a
-    general introduction to the various forms of library
-    automation, describing hardware and software, modes of computer
-    operation (including on-line and batch processing), networks,
-    and prospects for the future.

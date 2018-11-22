@@ -1,6 +1,0 @@
-national energy information system basic concepts. the
-    basic concepts on which the national energy information system
-    (neis) rests are described and clarified. the neis was
-    originally created under congressional mandate to collect,
-    process, and disseminate data useful for analysis of energy
-    supply and consumption issues.

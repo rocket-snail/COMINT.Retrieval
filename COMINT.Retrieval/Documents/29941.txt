@@ -1,6 +1,0 @@
-some studies on delayed feedback circuits by inserting
-    delayed signals along with the main signal to be observed an
-    improvement in signal noise ratio can be achieved other
-    applications of this circuit are for producing artificial
-    reverberation as a narrow band filter and as a short time
-    storage circuit

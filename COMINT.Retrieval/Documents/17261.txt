@@ -1,8 +1,0 @@
-a high speed logic system using magnetic elements and
-    connecting wire only square loop magnetic elements having multi
-    aperture or multipath variations of the toroid shape are used
-    to provide unilateral information flow properties information
-    bit rates above have been obtained with commercial ferrite
-    material advantages include simplicity of wiring and the
-    inherent nondestructive read out properties of the
-    system

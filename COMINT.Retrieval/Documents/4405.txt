@@ -1,8 +1,0 @@
-arctic measurements of electron collision frequencies in
-    the d region of the ionosphere simultaneous measurement of
-    refractive indices and the difference in the absorption of the
-    two magneto ionic components of a signal transmitted from a
-    rocket allowed the electron collision frequency profile to be
-    determined the results of two midday flights indicate that the
-    frequencies are lower by a factor of three than the unpublished
-    theoretical values calculated by nicolet

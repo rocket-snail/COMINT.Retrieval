@@ -1,7 +1,0 @@
-an rms sensitive phase shifting circuit a circuit
-    delivering an output whose phase depends on the rms value of
-    the input uses a tungsten filament diode as rms current
-    detector the diode is operated with voltage on the anode n and
-    a voltage derived from the ac component of anode current is
-    added to a fixed voltage to give the resultant variable phase
-    output applications for control purposes are mentioned

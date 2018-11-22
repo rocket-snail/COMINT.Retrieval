@@ -1,3 +1,0 @@
-a magnetic amplifier commutating and pulse width encoding
-    circuit description of a circuit designed for telemetry
-    applications

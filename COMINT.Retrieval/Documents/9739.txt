@@ -1,9 +1,0 @@
-contact noise composition resistors is considered as
-    consisting of a number of parallel circuits each containing an
-    equal number of particles and the same number of contacts of
-    equal resistance it is shown that the noise energys of such a
-    homogeneous system is equal to that of a single contact and
-    that for a given gradient of the applied direct voltage it is
-    determined by the degree of dispersion and the specific
-    resistance of the conductor material expressions are also
-    derived for heterogeneous systems and imperfect contacts

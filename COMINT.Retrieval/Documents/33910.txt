@@ -1,7 +1,0 @@
-measurement of the size and electrification of droplets
-    in cumuliform clouds charge distributions in clouds with fair
-    weather electric fields at a mountain site in the united states
-    were gaussian with symmetry about zero charge thundercloud
-    droplets were highly electrified and in a given volume could be
-    all negatively or all positively charged or a mixture of the
-    two

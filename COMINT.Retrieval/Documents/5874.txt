@@ -1,3 +1,0 @@
-influence of an electric field on an optical absorption
-    edge the absorption edge displacement in a crystal with
-    external field strength of the order is interpreted

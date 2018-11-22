@@ -1,5 +1,0 @@
-amplifiers with quasi constant gain various methods are
-    considered whereby the overall gain of an amplifying system may
-    be held approximately constant despite variations in the
-    parameters of the amplifying units incorporated in the
-    system

@@ -1,7 +1,0 @@
-motion of charged particles in a homogeneous magnetic
-    field with superposed magnetic field of linear current and
-    electric field of cylindrical capacitor the problem considered
-    theoretically by kelman and rodnikova is extended to include
-    the effect of a magnetic field parallel to the axia of the
-    cylinder calculated results for several particular cases are
-    presented graphically

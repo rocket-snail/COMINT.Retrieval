@@ -1,7 +1,0 @@
-study of atmospheric ions in a nonequilibrium system the
-    variation with time of the concentration of small ions in the
-    atmosphere in a nonequilibrium system has been determined
-    theoretically and in two sets of experiments if the atmosphere
-    is relatively unpolluted equilibrium conditions may not be
-    restored after disturbance until a time of about minutes has
-    elapsed

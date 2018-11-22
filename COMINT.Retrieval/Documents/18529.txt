@@ -1,7 +1,0 @@
-the use of isbns compared with keywords as means of
-    retrieving bibliographic records on-line. (project undertaken
-    for the bnb research fund, jan-nov 79) report of an experiment
-    designed to quantify the times taken to retrieve bibliographic
-    records at an on-line terminal using international standard
-    book numbers and keywords. the overall ratio in favour of
-    searching by isbn was found to be 1'1&.912.

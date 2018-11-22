@@ -1,9 +1,0 @@
-the electric strength of air in nonuniform fields at
-    radio frequencies measurements were made of the breakdown
-    potential of atmospheric air between a cylinder and an axial
-    wire over the frequency range the breakdown voltage is about
-    below the value at and decreases at the average rate of per as
-    the frequency is raised above this point the results are
-    explained by a modified townsend theory the discharge occurs
-    during the part of the cycle when the wire is positive with
-    respect to the cylinder

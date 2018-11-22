@@ -1,4 +1,0 @@
-stepped waveguide transformers and filters a review of
-    recent developments in the synthesis of stepped quarter wave
-    transformers and half wave filters is given a recent paper by
-    holte and lambert of is discussed

@@ -1,5 +1,0 @@
-general expression for the group refractive index of the
-    ionosphere a general expression for the group refractive index
-    of the ionosphere is found in which wave frequency electron
-    density and collision frequency magnetic field and direction of
-    propagation are variables

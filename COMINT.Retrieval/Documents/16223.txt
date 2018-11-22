@@ -1,5 +1,0 @@
-normalized filter design the design chart presented for
-    composite low pass filters permits predetermining the
-    attenuation characteristic from trial design six normalized
-    designs are presented as examples to cover a practical range of
-    stop band loss

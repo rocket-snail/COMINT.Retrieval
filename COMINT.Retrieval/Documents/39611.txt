@@ -1,5 +1,0 @@
-response of a quadripole to discontinuous signals the
-    phenomenon of gibbs and methods of generalized summation
-    mathematical analysis with application to the design of
-    quadripoles with good transmission characteristics for square
-    wave signals

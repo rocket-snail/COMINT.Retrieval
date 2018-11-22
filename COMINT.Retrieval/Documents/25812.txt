@@ -1,5 +1,0 @@
-empirical and theoretical bases of zipf's law. reviews
-    research into zipf's law and concludes that there are, at
-    present, few applications of the law to the design of
-    information systems but that such applications may develop in
-    the future.

@@ -1,4 +1,0 @@
-persistent current memory circuit difficulties predicted
-    by crittenden et al with regard to the use of in persistor
-    switch elements are disproved by results obtained with
-    persistatron elements made of thin films

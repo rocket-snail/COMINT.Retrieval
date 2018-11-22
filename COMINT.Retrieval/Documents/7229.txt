@@ -1,5 +1,0 @@
-the time sequence and amplitude distribution of
-    barkhausen jumps report on discussion of results obtained in
-    investigations of the magnetization of fe ni alloy wire
-    specimens to determine the dependence of barkhausen jump
-    characteristics on field strength and specimen shape

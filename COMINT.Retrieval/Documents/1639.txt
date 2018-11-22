@@ -1,5 +1,0 @@
-some considerations on the stability of electrical
-    circuits a definition of stability based on an integral
-    equation is proposed it is considered to be more general in
-    applicability than the definitions of bode and james and
-    weiss

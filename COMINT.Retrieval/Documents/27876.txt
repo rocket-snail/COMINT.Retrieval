@@ -1,3 +1,0 @@
-transistorized crystal controlled marginal oscillator
-    circuit details of a small non microphonic oscillator unit for
-    nuclear magnetic resonance observations

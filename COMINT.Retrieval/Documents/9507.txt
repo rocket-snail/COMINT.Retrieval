@@ -1,4 +1,0 @@
-a design for an automatic graph plotter transistors and
-    printed circuits are used in equipment based on digital
-    techniques points may be plotted at a rate of three per second
-    with an accuracy within

@@ -1,4 +1,0 @@
-discovering data communications. discusses the
-    advantages, applications, and latest advances of local area
-    networks and their future as commercial business
-    systems.

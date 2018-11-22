@@ -1,4 +1,0 @@
-magnetic head reads tape at zero speed design details of
-    a system enabling recorded hf signals to be played back at
-    speeds low enough for the output to be fed to a pen recorder
-    without deterioration in signal noise ratio

@@ -1,3 +1,0 @@
-newton interpolation with forward divided differences
-    (algorithm 169) september, 1963 thacher jr., h. c. ca630925 jb
-    march 13, 1978 7:13 pm

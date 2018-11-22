@@ -1,9 +1,0 @@
-electrostatic averaged boundary conditions for wire mesh
-    a brief review is given of the existing methods for determining
-    the screening effect of a mesh and a general derivation is
-    proposed of the boundary condition for a mesh by the method of
-    averaging the field the results obtained are applied to the
-    determination of the screening effect of an earthed uniform
-    spherical mesh with respect to a charge or a dipole placed at
-    the centre and also to the determination of the effective
-    potential in a triode see also below

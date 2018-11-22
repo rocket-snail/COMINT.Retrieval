@@ -1,5 +1,0 @@
-the plasma resonator the interaction between an ionized
-    gas column and an electromagnetic wave in a waveguide is
-    studied at cm effects examined include the influence of the
-    discharge current gas collisions decay times of electron
-    density and modulation of the rf power

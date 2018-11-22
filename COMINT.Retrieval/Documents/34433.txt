@@ -1,7 +1,0 @@
-filters with very narrow pass band variable on the
-    principle of the fabry perot interferometer analysis is given
-    for a narrow band rf amplifier with n equal stages each
-    comprising a valve and a three mesh cr phase shift network
-    maximum gain is obtained at a frequency slightly different from
-    that for which the phase shift is a relative bandwidth of is
-    attainable with stages

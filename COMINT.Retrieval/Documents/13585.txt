@@ -1,5 +1,0 @@
-wide band analysis of valve phase splitting circuits
-    accurate and approximate design data are developed and compared
-    with results of measurements near ideal operating conditions
-    can be obtained up to a fow megacycles with suitable load
-    impedances

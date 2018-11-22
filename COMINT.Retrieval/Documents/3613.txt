@@ -1,5 +1,0 @@
-fluctuations in amplification of quanta with application
-    to maser amplifiers expressions for the probability
-    distribution of quanta for the average values and for the
-    fractional fluctuation are developed and applied to maser type
-    amplifiers

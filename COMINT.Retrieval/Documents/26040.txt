@@ -1,5 +1,0 @@
-a simple circuit for producing a voltage proportional to
-    the width of a repetitive pulse details are given of a circuit
-    for deriving a direct voltage from train pulses of width
-    proportional to the flow rate of a liquid the voltage drives an
-    integrating motor via a push pull cathode follower

@@ -1,4 +1,0 @@
-magnetoplasma reflection in solids the splitting of the
-    reflection edge at the plasma frequency in the presence of a
-    magnetic field has been used to measure the effective mass of
-    the electrons

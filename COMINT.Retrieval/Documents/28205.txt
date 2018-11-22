@@ -1,5 +1,0 @@
-symmetrical lattice filters the calculation and field of
-    utility of standard types of lattice filter are discussed and
-    permissible approximations are indicated classification based
-    on image parameters is proposed on the lines of the system used
-    in a previous paper on ladder filters

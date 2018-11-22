@@ -1,8 +1,0 @@
-an ionospheric disturbance index a three hourly index
-    with a range based on the variation of the critical frequency
-    and the height of the f layers has been developed a positive
-    correlation of was found between the lincoln indices and the
-    amberley geomagnetic k indices for the period between october
-    and september the seasonal variation between the i and k
-    indices was investigated and a comparison with radio
-    disturbance conditions made

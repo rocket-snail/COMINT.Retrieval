@@ -1,5 +1,0 @@
-analogue multiplier and function generator with cathode
-    ray tube a capacitive pick up device is mounted outside the cr
-    tube in front of the screen it is easily replaced so that the
-    same tube can be used as multiplier or for generating different
-    types of functions

@@ -1,6 +1,0 @@
-the mavar a low noise microwave amplifier the operation
-    of the maver mixer amplification by variable reactance requires
-    a lossless nonlinear reactance exhibiting negative resistance
-    under certain conditions low noise amplification is achieved at
-    room temperature the performance and the operation of the main
-    types of parametric amplifier are outlined

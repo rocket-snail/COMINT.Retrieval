@@ -1,4 +1,0 @@
-parametric amplification by charge storage both
-    parametric amplification and subharmonic oscillation can be
-    obtained through charge storage effects suing the circuit
-    described

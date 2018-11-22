@@ -1,5 +1,0 @@
-negative resistance and hot electrons characteristics of
-    ho electrons are analysed for negative resistance regions
-    electrons in a homogeneous semiconductor are assumed to
-    interact only with acoustic phons and charged centres of heavy
-    mass which could be ionized impurities or heavy holes

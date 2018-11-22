@@ -1,8 +1,0 @@
-analysis of multivelocity electron beams by the density
-    function method mathematical techniques useful in the solution
-    and interpretation of the density function equations as applied
-    to multivelocity electron beam problems are presented with some
-    conclusions about the nonconservative nature of signal or noise
-    propagation along a multivelocity beam the paper serves as a
-    background for a detailed calculation of noise propagation
-    through the gun region of an electron beam

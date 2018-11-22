@@ -1,5 +1,0 @@
-pulse height analyzer the equipment based on wilkinsons
-    conversion principle of has resolution linearity and stability
-    to within it can deal with input pulses at a rate of several
-    thousand per second recording is made on teledeltos paper at a
-    rate of up to pulses sec

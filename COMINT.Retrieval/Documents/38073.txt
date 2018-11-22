@@ -1,6 +1,0 @@
-cafs 800' some principles and practices. describes the
-    fundamentals of the contents addressable file store system and
-    the icl cafs 800 system, and its applicability to text
-    retrieval and data processing. it gives examples of its use in
-    a bureau environment, and summarises the experience of
-    operating such a device for a year.

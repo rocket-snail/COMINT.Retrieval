@@ -1,5 +1,0 @@
-new medium cost amplifier of unusual performance
-    description with circuit details of an amplifier with the
-    necessary flexibility and performance for most high fidelity
-    applications only standard readily available valves are
-    used

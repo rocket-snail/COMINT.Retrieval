@@ -1,7 +1,0 @@
-ionospheric drifts at brisbane measurements over a year
-    period show that speeds are less than those observed at higher
-    altitudes the e region and solar harmonics show large seasonal
-    phase changes in the northward component the phase for the
-    northward component in summer is in fair agreement with higher
-    latitudes the f region harmonic seasonal change is greater in
-    the eastward than in the northward component

@@ -1,7 +1,0 @@
-applications of nonlinear magnetics it is shown how
-    saturable core reactors may be used in such applications as
-    counters timers voltage and current references frequency
-    multipliers firing circuits for thyratrons and ignitrons pulse
-    shaping circuits for magnetrons rectifying circuits bistable
-    flip flops frequency detectors and square wave
-    oscillators

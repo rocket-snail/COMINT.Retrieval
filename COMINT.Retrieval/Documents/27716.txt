@@ -1,6 +1,0 @@
-investigation of the performance of coupled cavity maser
-    type amplifiers part a general formula is developed to
-    determine the equivalent noise temperature and gain stability
-    of several elementary structures by comparing these results
-    interesting features of multicavity masers are
-    demonstrated

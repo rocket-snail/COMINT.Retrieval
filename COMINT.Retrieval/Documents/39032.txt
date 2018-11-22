@@ -1,4 +1,0 @@
-on the screening of impurity potential by conduction
-    electrons a modified thomas fermi method is used to calculate
-    the impurity potential and it is shown that similar results are
-    obtained by the method of nakajima and bardeen and pines

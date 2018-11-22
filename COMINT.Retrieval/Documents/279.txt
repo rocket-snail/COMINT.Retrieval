@@ -1,7 +1,0 @@
-automated standing order system, blackwell north america.
-    the computerised standing order system, developed by richard
-    abel & co. and bought by blackwell north america, is
-    described. problems encountered during the conversion from the
-    manual to automated system are described, together with details
-    of the operation of the system. consideration is given to
-    possible future developments.

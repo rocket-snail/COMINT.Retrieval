@@ -1,5 +1,0 @@
-vertical distribution of radio refractive index in the
-    medium height of atmosphere an examination of radiosonde and
-    captive balloon data from japanese stations indicates an
-    exponential variation for the lower atmosphere but not for the
-    upper

@@ -1,5 +1,0 @@
-time scale and gain influence on servo performance the
-    criterion previously applied in determining normalized transfer
-    function coefficients of august can also usefully be applied in
-    the selection of optimum gain or time scale for second or third
-    order servo mechanisms

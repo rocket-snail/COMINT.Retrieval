@@ -1,2 +1,0 @@
-polynomial evaluation revised july, 1963 eisman, s. h.
-    ca630705 jb march 14, 1978 8:46 am

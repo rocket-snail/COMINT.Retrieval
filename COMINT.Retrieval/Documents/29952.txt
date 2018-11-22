@@ -1,4 +1,0 @@
-transmission coefficient for a system of parallel slits
-    in a thin plane screen an extension of earlier work on the
-    scattering of em waves to include more than two parallel slits
-    in a perfectly conducting screen

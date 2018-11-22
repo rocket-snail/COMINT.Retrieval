@@ -1,7 +1,0 @@
-temperature rise of solid junctions under pulse load the
-    magnitude and duration of current pulses are correlated with
-    temperature rise in the junction use of successive
-    approximations assuming that various parts of a body are not
-    yet subjected to a temperature increase or have already reached
-    a temperature differential corresponding to the steady state
-    reduces the problem to a simple case of heat diffusion

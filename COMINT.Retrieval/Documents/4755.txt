@@ -1,2 +1,0 @@
-composition generator (algorithm 72) august, 1962
-    collison, d. m. ca620823 jb march 17, 1978 9:29 pm

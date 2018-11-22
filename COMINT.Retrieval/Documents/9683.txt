@@ -1,8 +1,0 @@
-dielectric changes of electroluminescent phosphor during
-    illumination measurements were made of the dielectric
-    properties of electro luminescent films composed as described
-    previously above for different values of applied voltage at and
-    for various wavelengths and intensities of illumination the
-    dielectric constant depends markedly on the illumination the
-    magnitude of the variations depending critically on the applied
-    voltage the effect exhibits a maximum at about

@@ -1,7 +1,0 @@
-stability of a plasma sheet in time periodic magnetic
-    fields the behaviour of a thin sheet of electrons in a time
-    varying square wave magnetic field is investigated and it is
-    shown that the growth of an initial disturbance in the first
-    half period is entirely annulled in the second both the
-    displacements and velocities returning to their initial
-    values

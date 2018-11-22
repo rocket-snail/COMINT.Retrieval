@@ -1,3 +1,0 @@
-radio engineering use of the cayley klein model of three
-    dimensional hyperbolic space applications to the solution of
-    network problems are outlined see also

@@ -1,3 +1,0 @@
-representation of electromagnetic field by retarded
-    potentials applications considered include a boundary problem
-    and the equation of motion of electron gas in vacuo

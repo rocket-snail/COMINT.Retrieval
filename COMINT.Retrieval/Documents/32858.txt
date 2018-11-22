@@ -1,8 +1,0 @@
-solid state maser amplifier the operation of a solid
-    state maser amplifier at is described a dual frequency cavity
-    containing paramagnetic potassium chromicyanide in an
-    isomorphous cobalt diluent is used at k the upper three of the
-    four energy levels of the cr ion are used spin state
-    populations are inverted by saturating the resonance absorption
-    at the experimental observations of the maser both as an
-    amplifier and as an oscillator are compared with theory

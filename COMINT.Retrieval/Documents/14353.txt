@@ -1,4 +1,0 @@
-day sky brightness to measurements made with rocket borne
-    stereocameras suggest that the brightness is due entirely to
-    rayleigh scattering by air molecules there is no evidence of
-    high altitude clouds

@@ -1,4 +1,0 @@
-method of determining the cathode fall in a glow
-    discharge a brief account is given of a method involving the
-    use of a hot cathode discharge intive column surrounding the
-    cold cathode in the other arm

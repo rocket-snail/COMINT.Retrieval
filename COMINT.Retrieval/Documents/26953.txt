@@ -1,6 +1,0 @@
-the scattering of waves at an uneven surface an
-    approximate method is proposed for calculating the field of
-    acoustic and electromagnetic waves scattered by an uneven
-    surface the irregularities being large in comparison with the
-    wavelength particular cases considered include that of
-    sinusoidal corrugations

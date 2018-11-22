@@ -1,4 +1,0 @@
-theory of galvanomagnetic phenomena in metals the theory
-    is developed without making any special assumptions regarding
-    the conduction electron dispersion law and the form of the
-    collision integral

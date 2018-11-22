@@ -1,6 +1,0 @@
-an approximate graphical analytical method for plotting
-    the frequency characteristics of a linear system from its
-    transient characteristic the method proposed is based on the
-    approximation of the area under the given curve by a sum of
-    triangles it is of importance in the design of automatic
-    regulation systems

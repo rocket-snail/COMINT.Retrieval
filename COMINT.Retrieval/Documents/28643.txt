@@ -1,9 +1,0 @@
-electron energy distributions in uniform electric fields
-    and the townsend ionization coefficient the second order
-    differential equation which expresses the equilibrium
-    conditions of an electron swarm in a uniform electric field in
-    a gas the electrons suffering both elastic and inelastic
-    collisions with the gas molecules is solved using the jeffreys
-    or wkb method of approximation the theory is illustrated by a
-    comparison of calculated and observed results for
-    hydrogen

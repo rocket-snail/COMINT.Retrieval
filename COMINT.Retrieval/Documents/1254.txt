@@ -1,7 +1,0 @@
-the noise generated in a coil with a ferro magnetic core
-    the discussion presented indicates that when there is no
-    varying or alternating magnetization of the core the noise can
-    be calculated from the nyquist formula provided that the
-    resistance of the coil is measured using an alternating voltage
-    of such magnitude that the magnetization process remains
-    linear

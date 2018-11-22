@@ -1,9 +1,0 @@
-oscillator with a or tbl transmitting valve details are
-    given of the construction of a self excited oscillator using
-    either a water cooled or an air cooled high power transmitting
-    valve illustrations are given of the special anode grid and
-    cathode grid circuit arrangements and of the method of coupling
-    used for a water cooled dummy load consisting of a shorted
-    coaxial line the power dissipated in the load about is
-    estimated from the rise in temperature and rate of flow of the
-    cooling water

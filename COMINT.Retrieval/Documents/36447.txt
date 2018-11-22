@@ -1,6 +1,0 @@
-conductivity of plasmas to microwaves plasma
-    conductivities for electrons with a maxwellian energy
-    distribution are evaluated for the cases in which the collision
-    cross section independent of the velocity and inversely
-    proportional to the velocity the corresponding distribution
-    functions of relaxation times are discussed

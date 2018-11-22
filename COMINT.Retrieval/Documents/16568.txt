@@ -1,7 +1,0 @@
-circuit conditions for parametric amplification it is
-    shown that signals may be amplified in a circuit which consists
-    exclusively of passive elements if a nonlinear or time varying
-    reactance is present the circuit conditions which must be
-    satisfied are established and the differences between
-    parametric amplifiers and mixers or modulators are
-    discussed

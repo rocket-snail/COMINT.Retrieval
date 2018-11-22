@@ -1,3 +1,0 @@
-the general expression of the diurnal variation of the
-    atmospheric electric field considering the influence of the
-    eddy diffusion near the ground

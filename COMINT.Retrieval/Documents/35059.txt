@@ -1,7 +1,0 @@
-certain phenomena observed on coupling an oscillator and
-    a tube of ionized gas introduced in the oscillator inductance
-    an experimental study is reported in which an oscillator coil
-    carrying a current surrounds an energized gas discharge tube
-    the effects of the hf current on the discharge are considered
-    in particular the luminous effects and the maintenance of the
-    discharge after the energizing voltage is removed

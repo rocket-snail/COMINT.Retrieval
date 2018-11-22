@@ -1,4 +1,0 @@
-circuits for producing high negative conductance several
-    arrangements using two triodes are illustrated negative
-    conductances of the order of can be produced stable oscillators
-    can be made to operate with a supply voltage of or less

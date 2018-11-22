@@ -1,5 +1,0 @@
-the simulation of equations with analogue computers
-    detailed description of the principles of operation of the
-    various computer elements giving examples of programming and
-    computation with reference to an american electronic analogue
-    computer

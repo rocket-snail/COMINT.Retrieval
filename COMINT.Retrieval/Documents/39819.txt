@@ -1,5 +1,0 @@
-the lorenz number the theory of the lorenz number of a
-    conducting crystal is developed for the band and one electron
-    models of the electron assembly with certain approximations the
-    lorenz number is found to be equal to the mean square
-    fluctuation of the thermoelectric power

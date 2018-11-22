@@ -1,6 +1,0 @@
-megavolt electronics cherenkov coupler for the production
-    of millimetre and submillimetre waves cherenkov radiation at
-    the watt level can be produced and beamed by passing a high
-    harmonic electron beam through a mm hole in a large specially
-    shaped teflon cone the measured radiated power shows good
-    agreement with theory

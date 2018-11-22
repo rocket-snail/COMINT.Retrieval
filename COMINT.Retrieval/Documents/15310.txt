@@ -1,5 +1,0 @@
-on the extension of the principle of imaginary power
-    balance of harmonics to circuits with continuous spectra
-    extension of the principles given in a previous paper on the
-    interdependence of frequency variations and harmonic content in
-    oscillators

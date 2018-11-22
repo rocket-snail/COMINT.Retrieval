@@ -1,5 +1,0 @@
-relaxation equations for two magnon and magnon phonon
-    processes in ferrimagnetic resonance equations giving the
-    relaxation behaviour of the magnetization in the case of
-    ferrimagnetic resonance are derived from quantum mechanical
-    rate equations for spin wave magnons

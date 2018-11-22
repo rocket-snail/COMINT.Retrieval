@@ -1,5 +1,0 @@
-variation with temperature of quartz resonator
-    characteristics calculations based on the temperature variation
-    of the piezoelectric constants of and quartz resonators
-    indicate that the and resonators are particularly suitable for
-    use in filters at temperatures as high as or over

@@ -1,5 +1,0 @@
-investigation of coupled electrical circuits with
-    constant lumped parameters under variable conditions part
-    analysis involving the inverse laplace transform is presented
-    for determining the current in the secondary circuit numerical
-    examples are given

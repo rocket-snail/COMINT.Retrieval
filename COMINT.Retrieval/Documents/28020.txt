@@ -1,4 +1,0 @@
-variation of inductance by dielectrics in particular
-    plasmas a qualitative interpretation of the frequency changes
-    in oscillatory circuits which are coupled to electrodeless gas
-    discharges see eg above

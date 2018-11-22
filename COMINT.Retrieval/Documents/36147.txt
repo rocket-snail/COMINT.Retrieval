@@ -1,9 +1,0 @@
-on the stability of distributions of the type described
-    by trueswell. application of rules for weeding that are based
-    upon the unequal distribution of demand over the collection
-    require that the distribution remain stable over time. a
-    mathematical expression is derived that tests that stability.
-    verification of the expression is not inordinately time
-    consuming and is very easy in the case of automated circulation
-    systems. the technique was first introduced by richard w.
-    trueswell un 2american documentation1 (16) 1965, 20-25.

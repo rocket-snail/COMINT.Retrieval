@@ -1,5 +1,0 @@
-nonlinearity of propagation in ferrite media measurements
-    are reported emphasizing the need to take account of
-    nonlinearity effects when designing microwave ferrite devices
-    for use at high peak power levels the results are applicable
-    for conditions remote from gyromagnetic resonance

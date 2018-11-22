@@ -1,5 +1,0 @@
-the saturation effect in a system with three energy
-    levels mathematical analysis of the effect of a high frequency
-    alternating field with given harmonics on a system with three
-    energy levels expressions are derived for dielectric constant
-    or permeability applicable to maser operation

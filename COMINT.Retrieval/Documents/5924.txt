@@ -1,5 +1,0 @@
-database on micros quart in a pint pot?. despite their
-    inherent constraints, microcomputer-based data base management
-    systems are adequate for many small businesses. advantages
-    include smaller and cheaper hardware and software than that
-    required for mainframe-based systems.

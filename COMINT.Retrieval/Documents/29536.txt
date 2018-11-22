@@ -1,5 +1,0 @@
-deviation from matthiessens rule and lattice thermal
-    conductivity of alloys the difference in the ideal electronic
-    thermal conductivity between an alloy and a pure metal can be
-    estimated from the corresponding difference in the ideal
-    electrical resistivity using the wiedemann franz law

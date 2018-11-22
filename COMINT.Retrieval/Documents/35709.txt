@@ -1,7 +1,0 @@
-some results of the determination of the electron
-    concentration of the outer regions of the ionosphere by
-    observations of the radio signals from the first earth
-    satellite the method of calculating the path of the radio waves
-    in the outer ionosphere is described the electron
-    concentrations determined for heights between and which vary
-    between and are tabulated

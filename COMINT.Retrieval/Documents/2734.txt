@@ -1,4 +1,0 @@
-reduction of the minimum striking voltage of hydrogen
-    thyratrons an auxiliary tripping circuit is described by means
-    of which the output voltage of a line type thyratron pulse
-    generator is made continuously variable from

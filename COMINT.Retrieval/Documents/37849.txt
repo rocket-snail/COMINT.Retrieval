@@ -1,4 +1,0 @@
-longitudinal ferrimagnetic resonance susceptibility
-    components are calculated for a triangular ferrimagnetic system
-    when the oscillating field is parallel to both the constant
-    field and the net magnetization

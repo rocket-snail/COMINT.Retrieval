@@ -1,5 +1,0 @@
-simple periodic behaviour of the ring modulator an
-    analysis of ring modulator theory where the signal and carrier
-    frequencies are equal or one is a multiple of the other curves
-    are given for determining the performance of frequency dividers
-    of the miller type

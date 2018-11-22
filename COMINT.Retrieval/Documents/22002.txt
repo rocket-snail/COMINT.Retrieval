@@ -1,4 +1,0 @@
-current flow in cylinders the mixed boundary value
-    problem of the flow of current into a right circular cylinder
-    through a perfectly conducting coaxial disk electrode at one
-    end is solved approximately

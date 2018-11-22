@@ -1,5 +1,0 @@
-method of reducing zero f error and drift in breaker type
-    dc amplifiers thermal emfs in the input transformer are
-    cancelled y by using a double pole double throw input chopper
-    and connecting a high quality capacitor in series with the
-    winding

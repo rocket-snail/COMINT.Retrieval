@@ -1,4 +1,0 @@
-damping coefficient of vibrating electrons a druyvesteyn
-    distribution is substituted for the assumed maxwellian
-    distribution in the derivation of the damping coefficient of
-    vibrating electrons the consequences are discussed

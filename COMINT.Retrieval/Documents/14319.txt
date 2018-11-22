@@ -1,5 +1,0 @@
-transfer characteristics of permalloy tape toroidal cores
-    of small tape thickness and with square hysteresis loop
-    analysis of core characteristic allowing for the previous
-    history of the core and for inertia effects the treatment is
-    similar to that used by chen and papoulis of and

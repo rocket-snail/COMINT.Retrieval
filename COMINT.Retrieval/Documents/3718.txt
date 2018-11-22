@@ -1,4 +1,0 @@
-stacked valve circuits an analysis by means of feedback
-    theorems and modified equivalent circuits application of the
-    method to the cascade amplifier and the cathode follower
-    circuits is given in detail

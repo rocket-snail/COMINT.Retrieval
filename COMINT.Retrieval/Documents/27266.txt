@@ -1,4 +1,0 @@
-design data for ladder networks design data for networks
-    with up to nine branches and attenuation curves for networks
-    with up to eleven branches are presented in expansion of
-    previous work

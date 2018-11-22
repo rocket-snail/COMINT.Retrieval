@@ -1,4 +1,0 @@
-synthesis of n port active rc networks it is proved that
-    n is the sufficient and in general minimum number of con rolled
-    sources required to relize an arbitrary matrix of real rational
-    functions as a transformerless active rc n port network

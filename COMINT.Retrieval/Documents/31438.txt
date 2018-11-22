@@ -1,3 +1,0 @@
-transistor phase locked oscillators an analysis followed
-    by detailed design data for two systems one operating at and
-    the other at mcs

@@ -1,6 +1,0 @@
-on the magnetization of toroids with one and two air gaps
-    a method is proposed for calculating the leakage coefficient in
-    the case of a toroid with one large air gap and an experimental
-    formula is derived for determining the average leakage
-    coefficient for the cases of toroids with one air gap and with
-    two diametrically opposite air gaps

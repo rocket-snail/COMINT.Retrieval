@@ -1,6 +1,0 @@
-a second contribution to the solution of the rukop
-    problem re examination of the problem of the dynatron driven
-    series circuit and the arc driven parallel circuit abstracts
-    nyquists stability criterion is applied to the equivalent
-    circuit and the necessary and sufficient conditions for
-    excitation of oscillations are determined

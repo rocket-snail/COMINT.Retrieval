@@ -1,5 +1,0 @@
-the optimization of a class of nonlinear filters a
-    mathematical treatment shows that use of the nonlinear filter
-    gives a significant improvement in mean square error even when
-    signal and noise have the same spectral densities optimization
-    is not unduly difficult

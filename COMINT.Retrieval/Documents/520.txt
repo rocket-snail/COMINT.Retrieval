@@ -1,4 +1,0 @@
-rocket electron density measurements at fort churchill
-    canada a discussion of the results of a rocket flight during
-    quiet ionospheric conditions using the two frequency phase
-    comparison technique of seddon of

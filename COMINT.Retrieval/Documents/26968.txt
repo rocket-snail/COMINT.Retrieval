@@ -1,5 +1,0 @@
-relaxation phenomena in diode parametric amplifiers
-    oscillations have been observed in parametric amplifiers under
-    certain conditions with cw pump sources the effect varies with
-    pump power being a relaxation oscillation at lower pump power
-    and a stable oscillation when this is increased

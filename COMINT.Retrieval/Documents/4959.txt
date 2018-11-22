@@ -1,8 +1,0 @@
-radio emission from the andromeda nebula observations
-    have been made at a wavelength of with interferometers of
-    different resolving powers to determine the distribution of
-    radio brightness accross the nebula the results suggest the
-    existence of a hitherto unexpected population of radio sources
-    a similar population in our own galaxy might also account for a
-    large part of the so called isotropic component of cosmic radio
-    emission

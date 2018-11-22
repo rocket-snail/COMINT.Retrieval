@@ -1,7 +1,0 @@
-a frequency eliminating transconductance bridge
-    description of a bridge circuit which completely eliminates a
-    single frequency component n and also partially suppresses a
-    band of frequencies whose width can be varied within wide
-    limits by suitable choice of circuit parameters applications to
-    ripple elimination n and to band elimination amplifiers are
-    discussed

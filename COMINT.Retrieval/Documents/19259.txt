@@ -1,6 +1,0 @@
-the refractive indices of water vapour air oxygen
-    nitrogen and argon at experiments indicate that the refractive
-    indices of water vapour air anden are modified at microwave
-    frequencies in the manner to be expected from dipole theory the
-    values for nitrogen and argon should not vary with frequency
-    and this is confirmed

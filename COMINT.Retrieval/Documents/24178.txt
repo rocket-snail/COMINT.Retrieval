@@ -1,4 +1,0 @@
-pulsed x band epr spectrometer a description of the
-    design and operation of an electron paramagnetic resonance
-    spectrometer for observation of spin echoes in the
-    submicrosecond time domain

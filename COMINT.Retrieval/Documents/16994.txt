@@ -1,4 +1,0 @@
-forward scatter of radio signals via meteor trails and
-    short lived solar radio bursts certain features of reported
-    solar rf bursts may be due to the reflection of broadcast
-    signals from meteor trails in the radiometer aerial beam

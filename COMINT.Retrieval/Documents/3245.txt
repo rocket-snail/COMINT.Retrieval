@@ -1,4 +1,0 @@
-the dynamic hysteresis loop as a cause of the free
-    demagnetization in magnetic amplifiers self demagnetization
-    effects are considered with reference to a hysteresis loop
-    modified as a result of eddy current losses

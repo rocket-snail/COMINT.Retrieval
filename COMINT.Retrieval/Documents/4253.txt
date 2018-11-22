@@ -1,9 +1,0 @@
-the importance of frequency rate indication in the
-    control of the national grid description of the construction
-    and use of equipment indicating time error mains frequency
-    error and rate of change of mains frequency the unit comprises
-    a mains frequency the unit comprises a mains driven and a
-    tuning fork controlled motor both coupled to a differential
-    gear whose output shaft moves only when the mains frequency
-    differs from systems of differentiators and geared counters
-    operate the indicating instruments

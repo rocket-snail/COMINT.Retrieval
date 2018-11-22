@@ -1,5 +1,0 @@
-propagation of microwaves through a magnetoplasma and a
-    possible method for determining the electron velocity
-    distributions a study of propagation of circularly polarized
-    waves parallel to the magnetic field giving special attention
-    to the extraordinary ray

@@ -1,8 +1,0 @@
-effect of vertical drifts on the nocturnal ionization of
-    the lower ionosphere vertical ionic drifts present in quiet
-    conditions and enhanced during a magnetic storm result in a
-    vertical redistribution of ionization and thus change the
-    apparent recombination coefficient at a given height the
-    resulting n profiles are calculated and shown to explain the
-    sudden cessation of night time echoes of lf radio waves at
-    times of magnetic disturbance reported by linquist

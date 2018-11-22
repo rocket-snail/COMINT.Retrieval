@@ -1,7 +1,0 @@
-drift observations evaluated by the method of similar
-    fades a regular interference model is considered as opposed to
-    the usual purely random model some of the observed features are
-    well explained by a model which lies between these two views
-    provided a finite lifetime is assumed for the irregularities
-    large changes of drift velocity can be explained by assuming
-    small vertical velocities

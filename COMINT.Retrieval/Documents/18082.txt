@@ -1,4 +1,0 @@
-a digital computer store with very short read time each
-    binary cell is formed by two sets of windings coupled or not
-    coupled by a linear ferrite a unit store has been
-    constructed

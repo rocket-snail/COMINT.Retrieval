@@ -1,8 +1,0 @@
-the usbc and control of the bibliographic database. a
-    number of problems have arisen by the use of isbn for
-    computerised bibliographic records. the need for a control
-    number that is not subject to misapplication either by human
-    error or through faults in its structure has led to the concept
-    of the universal standard book code (usbc). the structure and
-    function of usbc is described briefly and the ability of usbc
-    to detect duplicates in data bases is highlighted.

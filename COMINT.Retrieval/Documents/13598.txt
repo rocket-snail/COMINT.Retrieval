@@ -1,5 +1,0 @@
-determination of nuclear moments from hertzian spectra
-    discussion of the interaction between nucleus and electron and
-    an account of the principal methods apart from resonance
-    methods of applying microwave spectroscopy to the determination
-    of nuclear moments

@@ -1,9 +1,0 @@
-on the power spectrum of solar radio outburst and its
-    relation to swf dellinger phenomenon and geomagnetic storm
-    solar radio outbursts are classified according to their power
-    spectra those with power spectra increasing towards lower
-    frequencies are associated with magnetic storms but not with
-    sids while those with spectra increasing towards higher
-    frequencies are associated with sids without an accompanying
-    magnetic storm outbursts with flat power spectra appear to
-    combine the attributes of the other two types

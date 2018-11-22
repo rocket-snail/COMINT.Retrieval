@@ -1,8 +1,0 @@
-the network synthesis on the insertion loss basis methods
-    of synthesis of most important network functions are derived in
-    terms of the steady state network performance realization
-    procedures are explained and expressed in explicit formulae for
-    direct application to the design of conventional ladder
-    structures with an arbitrary number of branches the symmetrical
-    and the inverse impedance low pass networks are solved in
-    detail

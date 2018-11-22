@@ -1,3 +1,0 @@
-analog computers for the engineer a rewiew of computer
-    techniques with tabulated data for some commercially available
-    types

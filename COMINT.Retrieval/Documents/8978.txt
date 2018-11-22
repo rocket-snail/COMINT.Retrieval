@@ -1,4 +1,0 @@
-investigations of the ionosphere by means of an
-    artificial earth satellite a description of methods based on
-    the doppler effect in which correct results depend on the
-    appropriate choice of the two frequencies used

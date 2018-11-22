@@ -1,5 +1,0 @@
-average kinetic energy of diffusing particles in
-    discharge and electron tubes for particles flowing under a
-    concentration gradient or across a region of a small field in
-    the body of a gas the mean kinetic energy of particles with a
-    maxwellian velocity distribution is

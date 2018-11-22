@@ -1,7 +1,0 @@
-a note on the design of conditionally stable feedback
-    systems formulae are presented which relate parameters of the
-    loop transfer function of a conditionally stable system to the
-    relative stability of the system transfer function the
-    condition is determined for which the system bandwidth is a
-    minimum when the loop transfer function is required to have a
-    specified value at a particular frequency

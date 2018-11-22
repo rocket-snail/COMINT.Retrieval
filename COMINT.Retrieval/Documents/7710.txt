@@ -1,4 +1,0 @@
-e magnetic and negative electric feedback improve
-    performance of single stage magnetic servo amplifier driving
-    two phase induction motor and standard position
-    servomechanism

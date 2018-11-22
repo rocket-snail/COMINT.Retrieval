@@ -1,6 +1,0 @@
-the a c writing method for magnetic core matrices
-    description of a writing method suitable for operation in a
-    system using parametron devices two alternating currents of
-    frequency respectively produce an asymmetrical field in a
-    toroidal core one of the writing currents is also used for
-    reading

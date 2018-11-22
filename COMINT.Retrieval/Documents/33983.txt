@@ -1,6 +1,0 @@
-pulse duration and repetition rate of a transistor
-    multivibrator expressions are derived for the pulse duration
-    and repetition rate of an astable oscillatory multivibrator
-    circuit using a point contact transistor the formulae are
-    confirmed experimentally for repetition rates from to per sec
-    and pulse durations from to

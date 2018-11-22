@@ -1,8 +1,0 @@
-a model of solar flare induced ionization in the d region
-    the energy distribution of the x radiation in the range was
-    estimated from rocket measurements during a class flare on
-    august simultaneous measurements of cosmic noise at showed the
-    changes in d layer absorption during the flare the absorption
-    can be accounted for by assuming a recombination coefficient of
-    about and an electron density profile which varies linearly
-    from at

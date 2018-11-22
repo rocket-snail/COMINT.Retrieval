@@ -1,4 +1,0 @@
-polycathode counter tube applications the use of
-    dekatrons in millisecond timers batching counters and cro time
-    markers is described the basic decade units are capable of
-    counting up to per sec see also

@@ -1,5 +1,0 @@
-bistable systems of differential equations with
-    applications to tunnel diode circuits a mathematical theory is
-    developed for nonlinear circuits with at least two stable
-    steady states the theory is applied in detail to circuits
-    containing one or two tunnel diodes

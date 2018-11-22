@@ -1,8 +1,0 @@
-interferometric spectroscopy in the far infra red the
-    response of a thermal detector to the resultant of two
-    interfering infrared beams wal measured using a reflection
-    interferometer with the path difference varied up to the
-    spectral information is displayed in a fourier transform
-    obtained by analysis of the resultant intensity path difference
-    curve an instrument with aperture has been made for studying
-    atmospheric transmission at submillimetre wavelengths

@@ -1,5 +1,0 @@
-silicon junction diodes as variable capacitors
-    expressions are given defining barrier width and junction
-    capacitance and methods of measuring the latter are suggested
-    various applications of diode capacitors are described the
-    temperature dependence of the capacitance is a hanicap

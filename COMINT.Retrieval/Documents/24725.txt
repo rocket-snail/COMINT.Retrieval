@@ -1,6 +1,0 @@
-use of servo techniques in the design of amplitude
-    stabilized oscillators expressions for the oscillation
-    amplitude in terms of the stabilizing signal voltage are
-    derived and the amplitude stabilizing system is discussed as a
-    negative feedback loop experimental and theoretical results for
-    a high q oscillator are compared

@@ -1,8 +1,0 @@
-electrical and mechanical analogies an introduction to
-    the study of general problems concerning electrical networks
-    and mechanical systems whose operation is governed by linear
-    laws matrix symbolism is explained by examples and a table of
-    elementary electrical and mechanical analogues is given
-    application of the theory is made to discussion of the
-    characteristics of transducers such as loudspeakers and
-    piezoelectric or magnetostrictive generators

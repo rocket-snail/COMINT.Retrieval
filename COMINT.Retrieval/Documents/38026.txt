@@ -1,6 +1,0 @@
-experiments on the regeneration of binary microwave
-    pulses a device consisting of a waveguide hybrid junction with
-    a si crystal diode in each arm working at signal frequency
-    gives sufficient regeneration to permit transmission of signals
-    over a long chain of repeaters providing that the signal noise
-    ratio at each repeater

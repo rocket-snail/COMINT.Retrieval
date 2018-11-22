@@ -1,7 +1,0 @@
-thin film cryotrons discussion of the characteristics of
-    evaporated superconductive films as applied to cryotrons and
-    details of a thin film cryotron made by vacuum deposition which
-    is much smaller than the wire wound component the performance
-    of this cryotron is given and it is applied to flip flop
-    circuits finally its use in ring oscillators is analysed by two
-    different methods

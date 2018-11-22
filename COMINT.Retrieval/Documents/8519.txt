@@ -1,6 +1,0 @@
-the nonlinear theory approach to resistance capacitance
-    oscillators exact calculations can be made using nonlinear
-    theory based on the balance of the reactive power of the
-    harmonics involved the analysis indicates that the frequency
-    stability when operating near the limit conditions is generally
-    better with rc than with cr networks

@@ -1,6 +1,0 @@
-note on the role of small layers with irregular surfaces
-    in the formation of sporadic e layers irregularities in the
-    refractive index of the troposphere have been represented by a
-    model which has now been adapted to the e layer the reflection
-    coefficients calculated using the model are of the right order
-    of magnitude

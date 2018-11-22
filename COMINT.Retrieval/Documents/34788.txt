@@ -1,7 +1,0 @@
-rlc lattice networks a method for synthesizing open
-    circuited lattice networks to have a required transfer
-    impedance is based on the partial fraction expansion of the
-    given function no mutual inductances are used and series
-    resistance is associated with all the self inductances so that
-    low q coils may be used a numerical example is worked
-    out

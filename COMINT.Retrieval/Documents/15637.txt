@@ -1,6 +1,0 @@
-wide band limiter circuits for frequency modulation a
-    systematic analysis with special reference to multiplex
-    requirements the general characteristics of a limiter are
-    defined and two types considered in detail a grid limiter and a
-    crystal diode limiter circuit arrangements giving best results
-    for large bandwidths are discussed

@@ -1,7 +1,0 @@
-diffraction of a pulse by a resistive half plane the two
-    dimensional diffraction problem acoustic or em in which the
-    incident pulse front is parallel to the edge of a half plane is
-    solved by assuming dynamic similarity in the solu ion relations
-    between the problem and the three dimensional problem which
-    arises when a plane pulse is incident obliquely at the edge of
-    a resistive half plane are discussed

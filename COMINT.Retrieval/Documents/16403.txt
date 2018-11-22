@@ -1,2 +1,0 @@
-splitting of electron spin resonance lines by an applied
-    electric field
