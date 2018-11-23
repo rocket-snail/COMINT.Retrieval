@@ -1,15 +1,13 @@
 %%Parameters:
-original_audio_dir = 'D:\Data\COMINT.Retrieval\Test';
-noisy_audio_dir = 'D:\Data\COMINT.Retrieval\Test\Noise';
+original_audio_dir = 'D:\Data\COMINT.Retrieval\Windows\Speech';
+noisy_audio_dir = 'D:\Data\COMINT.Retrieval\Windows\Noise\1';
 
 block_length_noise = 50000;
-noise_factor = 0.01;
-
-
+noise_factor = 1;
 
 %Load directory and add files to string array
 files = dir(original_audio_dir);
-for i = 1:length(filemat)
+for i = 1:length(files)
     file = files(i);
     path = strcat(file.folder, '\', file.name);
     if ~endsWith(file.name, '.wav')
