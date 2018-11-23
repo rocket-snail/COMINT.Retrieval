@@ -42,7 +42,7 @@ namespace COMINT.Retrieval.Speech.Engines
                         }
                         sb.Append(content.Text);
                     }
-                    catch (Exception ex)
+                    catch (Exception)
                     {
                         break;
                     }

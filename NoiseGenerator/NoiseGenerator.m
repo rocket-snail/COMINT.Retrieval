@@ -1,34 +1,33 @@
 %%Parameters:
-original_audio_dir = 'D:\Repos\COMINT.Retrieval\Workplace\Documents\audio';
-noisy_audio_dir = 'D:\Repos\COMINT.Retrieval\Workplace\Noise';
+original_audio_dir = 'D:\Data\COMINT.Retrieval\Test';
+noisy_audio_dir = 'D:\Data\COMINT.Retrieval\Test\Noise';
 
 block_length_noise = 50000;
-noiseFactor = 1;
+noise_factor = 0.01;
 
 
 
 %Load directory and add files to string array
-filemat = dir(original_audio_dir);
-files = strings (1,length(filemat)-2)';
-for i = 3:length(filemat)
-    files(i-2) = strcat(filemat(i,1).folder,"\",filemat(i,1).name);
-end
-
-%Create noised wav-file for each audiofile
-for k = 1 : length(files)
+files = dir(original_audio_dir);
+for i = 1:length(filemat)
+    file = files(i);
+    path = strcat(file.folder, '\', file.name);
+    if ~endsWith(file.name, '.wav')
+        continue
+    end
     % Read in audio file
-    curfile = char(files(k));
-    [perfectSound, freq] = audioread(curfile);
+    fprintf('Transform file: %s\n', path);
+    [sound, freq] = audioread(path);
     
     %Generate noise matrix
-    matrix = zeros(1, length(perfectSound));
+    matrix = zeros(1, length(sound));
     n = 1;
     p = 1;
-    while n < length(perfectSound)
+    while n < length(sound)
         x = int32(rand * block_length_noise);
         temp = (-1)^p;
         for i = 1 : x
-            if n < length(perfectSound) && temp == 1
+            if n < length(sound) && temp == 1
                 matrix(n) = temp;
             end
             n = n + 1;
@@ -38,10 +37,13 @@ for k = 1 : length(files)
     matrix = matrix.';
     
     %Multiply nosie matrix with original audio file
-    noisySound = perfectSound .* (~matrix .* noiseFactor) +  (0.1 * randn(length(perfectSound), 1)) .* matrix;
+    noise = (0.1 * randn(length(sound), 1)) .* matrix;
+    no_noise = ones(length(sound), 1) - (matrix * noise_factor);
+    
+    noise_sound = (sound .* no_noise) + noise;    
     %Write noise audiofile
-    file = strcat(noisy_audio_dir, '\noised_', num2str(noiseFactor), '_', num2str(block_length_noise), '_',  filemat(k+2,1).name);
-    audiowrite(file, noisySound, freq);
-    fprintf(strcat('finished ', num2str(k), ' output: %s\n'), file);
+    file = strcat(noisy_audio_dir, '\', 'Noise_', num2str(noise_factor), '_', num2str(block_length_noise), '_',  file.name);
+    audiowrite(file, noise_sound, freq);
+    fprintf('Finhsed with output: %s\n', file);
 end
 

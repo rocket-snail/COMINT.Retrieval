@@ -14,7 +14,7 @@ namespace COMINT.Retrieval.Speech
         {
             var basePath = Directory.GetCurrentDirectory() + @"\\..\\..\\..\\..\\Workplace\\";
             var mode = Mode.TextToSpeech;
-            var tool = Tool.Google;
+            var tool = Tool.Windows;
 
             ISpeechEngine engine;
             switch (tool)
@@ -32,12 +32,15 @@ namespace COMINT.Retrieval.Speech
             switch (mode)
             {
                 case Mode.TextToSpeech:
-                    Transformer.TextToSpeech(engine, basePath + "Documents");
+                    Transformer.TextToSpeech(engine, @"D:\Data\COMINT.Retrieval\Documents");
                     break;
                 case Mode.SpeechToText:
                     Transformer.SpeechToText(engine, basePath + "Noise");
                     break;
             }
+            Console.WriteLine("**********************");
+            Console.WriteLine("****** FINISHED ******");
+            Console.WriteLine("**********************");
             Console.ReadLine();
         }
     }
