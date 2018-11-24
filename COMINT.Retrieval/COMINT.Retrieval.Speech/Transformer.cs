@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 using COMINT.Retrieval.Speech.Engines;
+using COMINT.Retrieval.Speech.Helpers;
 using Newtonsoft.Json;
 
 namespace COMINT.Retrieval.Speech

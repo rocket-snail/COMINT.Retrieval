@@ -10,5 +10,7 @@ namespace COMINT.Retrieval.Speech.Engines
         void GenerateSpeech(string content, string file);
 
         void GenerateText(FileInfo input, string file);
+
+        void UploadFiles(string path);
     }
 }

@@ -1,0 +1,2 @@
+analysis and design of a circuit and a net
+ minimum output pulse-width 300 have been obtained

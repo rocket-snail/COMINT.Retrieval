@@ -50,5 +50,10 @@ namespace COMINT.Retrieval.Speech.Engines
                 File.WriteAllText(file, sb.ToString());
             }
         }
+
+        public void UploadFiles(string path)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

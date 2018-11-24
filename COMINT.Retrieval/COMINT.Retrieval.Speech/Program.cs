@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
-using System.Runtime.InteropServices;
+using System.Linq;
 using COMINT.Retrieval.Speech.Engines;
 
 namespace COMINT.Retrieval.Speech
 {
-    enum Mode {TextToSpeech, SpeechToText }
+    enum Mode {TextToSpeech, SpeechToText, Upload }
     enum Tool { Windows, Google }
 
     public class Program
@@ -13,8 +13,17 @@ namespace COMINT.Retrieval.Speech
         static void Main(string[] args)
         {
             var basePath = Directory.GetCurrentDirectory() + @"\\..\\..\\..\\..\\Workplace\\";
-            var mode = Mode.TextToSpeech;
-            var tool = Tool.Windows;
+            var mode = Mode.SpeechToText;
+            var tool = Tool.Google;
+            var path = @"D:\Data\COMINT.Retrieval\Google\Noise\1";
+
+            if (args.Any())
+            {
+                mode = (Mode)Enum.Parse(typeof(Mode), args[0]);
+                tool = (Tool)Enum.Parse(typeof(Tool), args[1]);
+                path = args[2];
+            }
+
 
             ISpeechEngine engine;
             switch (tool)
@@ -32,10 +41,13 @@ namespace COMINT.Retrieval.Speech
             switch (mode)
             {
                 case Mode.TextToSpeech:
-                    Transformer.TextToSpeech(engine, @"D:\Data\COMINT.Retrieval\Documents");
+                    Transformer.TextToSpeech(engine, path);
                     break;
                 case Mode.SpeechToText:
-                    Transformer.SpeechToText(engine, basePath + "Noise");
+                    Transformer.SpeechToText(engine, path);
+                    break;
+                case Mode.Upload:
+                    engine.UploadFiles(path);
                     break;
             }
             Console.WriteLine("**********************");

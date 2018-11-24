@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using Google.Cloud.Speech.V1;
+using Google.Cloud.Storage.V1;
 using Google.Cloud.TextToSpeech.V1;
 
 namespace COMINT.Retrieval.Speech.Engines
@@ -12,6 +13,8 @@ namespace COMINT.Retrieval.Speech.Engines
     class GoogleSpeechEngine : ISpeechEngine
     {
         public string Name => "Google";
+
+        private const string Bucket = "comint-retrieval-data";
 
         public void GenerateSpeech(string content, string file)
         {
@@ -47,12 +50,16 @@ namespace COMINT.Retrieval.Speech.Engines
         public void GenerateText(FileInfo input, string file)
         {
             var speech = SpeechClient.Create();
-            var response = speech.Recognize(new RecognitionConfig()
+
+            var operation = speech.LongRunningRecognize(new RecognitionConfig()
             {
                 Encoding = RecognitionConfig.Types.AudioEncoding.Linear16,
                 SampleRateHertz = 24000,
                 LanguageCode = "en",
-            }, RecognitionAudio.FromFile(input.FullName));
+            }, RecognitionAudio.FromStorageUri($"gs://{Bucket}/{input.Name}"));
+            operation = operation.PollUntilCompleted();
+            var response = operation.Result;
+
             var sb = new StringBuilder();
             foreach (var result in response.Results)
             {
@@ -60,6 +67,20 @@ namespace COMINT.Retrieval.Speech.Engines
                 sb.AppendLine(content.Transcript);
             }
             File.WriteAllText(file, sb.ToString());
+        }
+
+        public void UploadFiles(string path)
+        {
+            var storage = StorageClient.Create();
+            foreach (var file in Directory.GetFiles(path))
+            {
+                using (var stream = File.OpenRead(file))
+                {
+                    var name = Path.GetFileName(file);
+                    storage.UploadObject(Bucket, name, null, stream);
+                    Console.WriteLine($"Uploaded to {Bucket}: {name}");
+                }
+            }
         }
     }
 }

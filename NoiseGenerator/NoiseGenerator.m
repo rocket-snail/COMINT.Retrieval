@@ -1,9 +1,9 @@
 %%Parameters:
 original_audio_dir = 'D:\Data\COMINT.Retrieval\Windows\Speech';
-noisy_audio_dir = 'D:\Data\COMINT.Retrieval\Windows\Noise\1';
+noisy_audio_dir = 'D:\Data\COMINT.Retrieval\Windows\Noise\0.5';
 
 block_length_noise = 50000;
-noise_factor = 1;
+noise_factor = 0.5;
 
 %Load directory and add files to string array
 files = dir(original_audio_dir);

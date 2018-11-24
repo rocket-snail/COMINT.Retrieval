@@ -1,0 +1,3 @@
+bibliography of literature on mathematical simulation
+    about items are listed including books conference reports and
+    papers about references are to russian literature
