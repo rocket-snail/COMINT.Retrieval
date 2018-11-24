@@ -63,8 +63,11 @@ namespace COMINT.Retrieval.Speech.Engines
             var sb = new StringBuilder();
             foreach (var result in response.Results)
             {
-                var content = result.Alternatives.OrderByDescending(a => a.Confidence).First();
-                sb.AppendLine(content.Transcript);
+                if (result.Alternatives.Any())
+                {
+                    var content = result.Alternatives.OrderByDescending(a => a.Confidence).First();
+                    sb.AppendLine(content.Transcript);
+                }
             }
             File.WriteAllText(file, sb.ToString());
         }
