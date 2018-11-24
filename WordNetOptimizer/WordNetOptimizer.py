@@ -13,10 +13,8 @@ __author__ = "kaufmann-a@hotmail.ch"
 
 nltk.download('wordnet')
 
-inputdirGoogle = "../Workplace/Google/Text"
-outputdirGoogle = "../Workplace/Google/Syns"
-inputdirWindows = "../Workplace/Windows/Text/1"
-outputdirWindows = "../Workplace/Windows/Syns/1"
+inputdir = "../Workplace/Google/Text"
+outputdir = "../Workplace/Google/Syns"
 
 
 def read_files(filestoread, inputdirectory, outputdirectory):
@@ -44,11 +42,8 @@ def add_synonyms_to_wordarray(wordarray):
 
 if __name__ == '__main__':
     print('Loading data', file=sys.stderr)
-    "Process files Google"
-    filesToRead = [f for f in listdir(inputdirGoogle) if isfile(join(inputdirGoogle, f))]
-    read_files(filesToRead, inputdirGoogle, outputdirGoogle)
+    "Process files"
+    filesToRead = [f for f in listdir(inputdir) if isfile(join(inputdir, f))]
+    read_files(filesToRead, inputdir, outputdir)
     print('Finished google files')
-    "Process files WIndows"
-    filesToRead = [f for f in listdir(inputdirWindows) if isfile(join(inputdirWindows, f))]
-    read_files(filesToRead, inputdirWindows, outputdirWindows)
-    print('Finished windows files')
+
