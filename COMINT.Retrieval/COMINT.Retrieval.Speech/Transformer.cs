@@ -33,7 +33,7 @@ namespace COMINT.Retrieval.Speech
             {
                 existingFiles = Directory.GetFiles(outputPath).Select(x => new FileInfo(x)).ToList();
             }
-            var i = 0;
+
             var files = new List<FileInfo>();
 
 
@@ -47,7 +47,6 @@ namespace COMINT.Retrieval.Speech
                 engine.GenerateSpeech(content, outputFile);
                 Console.WriteLine($"Converted text to speech: {outputFile}");
                 files.Add(new FileInfo(outputFile));
-                i++;
             });
             return files;
         }
@@ -65,7 +64,6 @@ namespace COMINT.Retrieval.Speech
                 Directory.CreateDirectory(outputPath);
             }
 
-            var i = 0;
             var files = new List<FileInfo>();
 
             var existingFiles = new List<FileInfo>();
@@ -77,13 +75,12 @@ namespace COMINT.Retrieval.Speech
             var items = Directory.GetFiles(path).Select(x => new FileInfo(x)).ToList()
                 .Where(y => !existingFiles.Any(x => x.Name.StartsWith(y.Name)));
 
-            Parallel.ForEach(items, new ParallelOptions { MaxDegreeOfParallelism = 50 }, (item) =>
+            Parallel.ForEach(items, new ParallelOptions { MaxDegreeOfParallelism = 20 }, (item) =>
             {
                 var outputFile = Path.Combine(outputPath, $"{item.Name}_{engine.Name}.txt");
                 engine.GenerateText(item, outputFile);
                 Console.WriteLine($"Converted speech to text: {outputFile}");
                 files.Add(new FileInfo(outputFile));
-                i++;
             });
 
             return files;

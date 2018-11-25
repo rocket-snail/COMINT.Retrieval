@@ -41,8 +41,14 @@ def add_synonyms_to_wordarray(wordarray):
     return tempSynonymsArray
 
 if __name__ == '__main__':
+    print('Argument List:', str(sys.argv))
     print('Loading data', file=sys.stderr)
-    "Process files"
+    if len(sys.argv) >= 3:
+        inputdir = sys.argv[1]
+        outputdir = sys.argv[2]
+    print('Input Directory: ', inputdir)
+    print('Output Directory: ', outputdir)
+    
     filesToRead = [f for f in listdir(inputdir) if isfile(join(inputdir, f))]
     read_files(filesToRead, inputdir, outputdir)
     print('Finished google files')
