@@ -1,7 +1,0 @@
-effects of diffusion of electrons near the magnetic
-    equator if it is assumed that ionization in the f layer is
-    produced according to chapmans law then as the magnetic equator
-    is approached the rate of increase in ionization wil exceed any
-    decrease due to the effects of vertical diffusion described by
-    schmerling of the hypothesis of vertical diffusion does not
-    therefore account for the geomagnetic anomaly

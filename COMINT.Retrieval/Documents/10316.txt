@@ -1,9 +1,0 @@
-an electronic random selector criteria for recognition of
-    random series are stated and methods for producing such series
-    are discussed a description is given of an arrangement in which
-    pulses are applied to a circuit which is gated periodically any
-    pulse passing tr through the gate triggers a multivibrator
-    which is in turn coupled to a pair of mechanical registers two
-    such circuits make up the complete selector enabling four
-    mechanical registers to operate use of the selector in
-    psychical research is mentioned

@@ -1,6 +1,0 @@
-filters built from coaxial conductors zobels method of
-    filter design is applied to coaxial line filters considering
-    the impedance of the line as a function of frequency
-    characteristics can therefore bermined for the entire frequency
-    range design data are shown in a series of tables and four
-    types of filter section are discussed in detail

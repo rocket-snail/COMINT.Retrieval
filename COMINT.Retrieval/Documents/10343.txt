@@ -1,5 +1,0 @@
-determination of the characteristic impedance of any
-    quadripole at microwave frequencies measurements made on the
-    quadripole under certain load conditions are used in
-    determining the characteristic impedance by a graphical
-    method

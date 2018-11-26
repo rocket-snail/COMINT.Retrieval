@@ -1,4 +1,0 @@
-the transfer function of networks without mutual
-    reactance extension of analysis presented previously the theory
-    is applicable generally to two terminal pair networks synthesis
-    procedure is illustrated by examples

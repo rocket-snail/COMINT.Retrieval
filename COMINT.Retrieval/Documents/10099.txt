@@ -1,3 +1,0 @@
-possibilities of realizing logic boolean functions by
-    means of rectangular magnetic networks the network consists of
-    idealized transfluxors with rectangular hysteresis loop

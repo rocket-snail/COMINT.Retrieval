@@ -1,6 +1,0 @@
-the design of zig zag filters formulae are derived for
-    the computation of a filter with a known distribution of cut
-    off and peak attenuation frequencies and given image impedances
-    the matching conditions between the sections and the method of
-    determining the order of sections in a ladder network by means
-    of a zig zag diagram is explr design is given

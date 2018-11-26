@@ -1,7 +1,0 @@
-double doppler study of meteoric echoes both the
-    amplitude and phase of the signal returned from a meteor trail
-    can be determined independently by use of a twin channel
-    doppler system details of which are presented the technique has
-    direct application to the determination of the drift of meteor
-    trails and to analysis of the spectra of echoes which exhibit
-    amplitude fading

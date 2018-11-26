@@ -1,5 +1,0 @@
-measurement of cosmic noise at low frequencies above the
-    ionosphere a description of the basic design features of a mcs
-    frequency sweep radiometer the equipment is to be launched as
-    an artificial satellite for the measurement of cosmic
-    noise

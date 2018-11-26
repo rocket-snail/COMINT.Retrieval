@@ -1,5 +1,0 @@
-ladder networks with tchebycheff characteristic ladder
-    networks without poles are considered with tchebycheff transfer
-    function for inputs from a generator with finite internal
-    impedance or from ideal current or voltage generators design
-    formulae are tabulated

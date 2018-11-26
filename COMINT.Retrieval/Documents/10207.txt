@@ -1,4 +1,0 @@
-new method for calculating wave functions in crystals and
-    molecules advantage is taken of crystal symmetry to construct
-    wave functions which are best described as the smooth part of
-    symmetrized bloch functions

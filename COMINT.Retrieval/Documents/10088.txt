@@ -1,2 +1,0 @@
-chebyshev polynomial coefficients (algorithm 227) may,
-    1964 cyvin, s. j. ca640509 jb march 9, 1978 11:57 pm

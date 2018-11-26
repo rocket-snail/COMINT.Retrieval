@@ -1,7 +1,0 @@
-an approximate method of obtaining the transient response
-    from the frequency response the method is based on expressing
-    the transient response in terms of the real part of the
-    frequency response function which is plotted on a logarithmic
-    frequency scale and approximated by a series of straight line
-    segments a is calculated from the slopes of these
-    segments

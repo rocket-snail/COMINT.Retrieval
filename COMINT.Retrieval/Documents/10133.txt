@@ -1,4 +1,0 @@
-stable power supplies for microwave standards a
-    description of the power supply system for operating the
-    klystron frequency standards at the national bureau of
-    standards

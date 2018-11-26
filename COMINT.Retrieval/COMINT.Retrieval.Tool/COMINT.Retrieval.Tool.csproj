@@ -4,15 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F6C2386E-CD6B-47CD-8A9E-6DCFFAEE765D}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>COMINT.Retrieval.Common</RootNamespace>
-    <AssemblyName>COMINT.Retrieval.Common</AssemblyName>
+    <ProjectGuid>{6A15F1E7-9007-46D0-9A90-E4C32B8782EF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>COMINT.Retrieval.Tool</RootNamespace>
+    <AssemblyName>COMINT.Retrieval.Tool</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +23,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -46,16 +48,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Extensions\DictionaryExtensions.cs" />
-    <Compile Include="Extensions\FileInfoExtensions.cs" />
-    <Compile Include="Helpers\StringHelper.cs" />
-    <Compile Include="Helpers\TrecHelper.cs" />
-    <Compile Include="Models\EngineResult.cs" />
-    <Compile Include="Models\TrecElement.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\COMINT.Retrieval.Common\COMINT.Retrieval.Common.csproj">
+      <Project>{F6C2386E-CD6B-47CD-8A9E-6DCFFAEE765D}</Project>
+      <Name>COMINT.Retrieval.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\COMINT.Retrieval.Engine\COMINT.Retrieval.Engine.csproj">
+      <Project>{44B9BDA6-544D-4793-ABA5-847F52A8585B}</Project>
+      <Name>COMINT.Retrieval.Engine</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

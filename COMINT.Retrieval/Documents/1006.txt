@@ -1,2 +1,0 @@
-energy band structure of solids from a perturbation on
-    the empty lattice

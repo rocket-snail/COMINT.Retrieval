@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Dynamic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Xml.Linq;
+using System.Collections.Generic;
+
 using COMINT.Retrieval.Speech.Engines;
 using COMINT.Retrieval.Speech.Helpers;
-using Newtonsoft.Json;
 
 namespace COMINT.Retrieval.Speech
 {
@@ -84,24 +82,6 @@ namespace COMINT.Retrieval.Speech
             });
 
             return files;
-        }
-
-        public static void TrecToDocuments(string trecFile)
-        {
-            const string outputPath = "C:\\Users\\david\\source\\repos\\COMINT.Retrieval\\COMINT.Retrieval\\Documents";
-
-            var doc = XDocument.Load(trecFile);
-            var jsonText = JsonConvert.SerializeXNode(doc);
-            dynamic dyn = JsonConvert.DeserializeObject<ExpandoObject>(jsonText);
-            foreach (var item in dyn.TREC)
-            {
-                foreach (var document in item.Value)
-                {
-                    var outputFile = Path.Combine(outputPath, $"{document.recordId}.txt");
-                    File.WriteAllText(outputFile, document.text);
-                    Console.WriteLine($"Write file: {outputFile}");
-                }
-            }
         }
     }
 }

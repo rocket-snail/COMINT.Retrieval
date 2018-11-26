@@ -1,5 +1,0 @@
-induction in a conducting sheet by a small current
-    carrying loop analytical solutions are derived for the cases
-    where the loop axis and the plane of the conducting sheet are
-    mutually perpendicular parallel the results are applicable to
-    problems of electrical shielding and prospecting

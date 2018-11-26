@@ -1,6 +1,0 @@
-low frequency prototype travelling wave reactance
-    amplifier the circuit of an amplifier with special junction
-    diode nonlinear capacitors in a semidistributed transmission
-    line is described performance data at a signal frequency of
-    show midband gains of with overall effective input noise
-    temperatures of about

@@ -1,2 +1,0 @@
-analogue multipliers and squarers using a multigrid
-    modulator

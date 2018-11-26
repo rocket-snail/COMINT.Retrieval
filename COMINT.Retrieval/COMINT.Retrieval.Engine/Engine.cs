@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Threading.Tasks;
 using COMINT.Retrieval.Common.Extensions;
 using COMINT.Retrieval.Common.Helpers;
 using COMINT.Retrieval.Common.Models;
@@ -22,9 +23,9 @@ namespace COMINT.Retrieval.Engine
 
         public Dictionary<FileInfo, double> DocumentNormIndex { get; set; }
 
-        private const string SystemName = "MyLittleRetrieve";
+        private string SystemName { get; }
 
-        public RetrievalEngine(IEnumerable<string> documents)
+        public RetrievalEngine(IEnumerable<string> documents, string systemName = "MyLittleRetrieve")
         {
             Documents = new Dictionary<string, (FileInfo, string)>();
             NonInvertedIndex = new Dictionary<FileInfo, Dictionary<string, int>>();
@@ -32,6 +33,8 @@ namespace COMINT.Retrieval.Engine
             QueriesIndex = new Dictionary<(string, string), Dictionary<string, int>>();
             IdfIndex = new Dictionary<string, double>();
             DocumentNormIndex = new Dictionary<FileInfo, double>();
+
+            SystemName = systemName;
 
             InitializeDocuments(documents.ToList());
             CalculateIndices();
@@ -43,6 +46,8 @@ namespace COMINT.Retrieval.Engine
             {
                 return;
             }
+
+            //Parallel.ForEach(documents, (document) =>
             foreach (var document in documents)
             {
                 var file = new FileInfo(document);
@@ -55,6 +60,7 @@ namespace COMINT.Retrieval.Engine
                     NonInvertedIndex.Increment(file, token);
                 }
             }
+            //);
         }
 
         private void CalculateIndices()
@@ -74,7 +80,7 @@ namespace COMINT.Retrieval.Engine
             }
         }
 
-        private void LoadQuery(params string[] files)
+        public void LoadQuery(params string[] files)
         {
             foreach (var query in files)
             {

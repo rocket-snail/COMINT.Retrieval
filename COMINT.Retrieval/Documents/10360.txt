@@ -1,2 +1,0 @@
-approximating nonlinear functions by shunt loading tapped
-    potentiometers in analogue computing machines

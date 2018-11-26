@@ -1,2 +1,0 @@
-the propagation of electron space charge waves in
-    waveguides and tubes with periodic structure

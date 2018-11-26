@@ -1,3 +1,0 @@
-a ring modulator with integrated filters a losslrdd four
-    terminal frequency translating network is proposed which avoids
-    using a transformer between rectifiers and filters

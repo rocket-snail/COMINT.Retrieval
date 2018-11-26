@@ -1,6 +1,0 @@
-the noise power bandwidths of iterated low pass rc
-    filters the noise power bandwidths of n section low pass rc
-    filters are calculated exactly from the transfer function for n
-    to an asymptotic expression is derived for the band width when
-    the number of sections is large and then the bandwidth is
-    inversely proportional to n

@@ -1,4 +1,0 @@
-experimental investigation of the motions of electrons in
-    a gas in the presence of a magnetic field the aim of this
-    investigation was to verify the theory given by huxley
-    and

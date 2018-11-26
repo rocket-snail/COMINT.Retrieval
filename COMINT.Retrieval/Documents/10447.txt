@@ -1,7 +1,0 @@
-constant resistance modulators zobels constant resistance
-    networks are interpreted in terms of constancy with time when
-    the elements of the network are time variable and
-    simultaneously in the same network the original conception of
-    constancy with frequency when the elements are frequency
-    variable may be realized the application to rectifier
-    modulators is examined

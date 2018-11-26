@@ -1,5 +1,0 @@
-constant current operation of power amplifiers a class a
-    amplifier is discussed which is designed to be nearly
-    independent of variations in valve characteristics cathode
-    follower drivers are used together with balanced feedback and a
-    x separate feedback phase inverter see also of june

@@ -12,6 +12,13 @@ namespace COMINT.Retrieval.Speech
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("COMINT.Retrieval.Speech");
+            Console.WriteLine("Argument 1: Mode");
+            Console.WriteLine("Argument 2: Tool");
+            Console.WriteLine("Argument 3: Path");
+            Console.WriteLine("****************************************");
+
+
             var basePath = Directory.GetCurrentDirectory() + @"\\..\\..\\..\\..\\Workplace\\";
             var mode = Mode.SpeechToText;
             var tool = Tool.Google;

@@ -1,6 +1,0 @@
-electronic yellow pages (prospectus only). the possible
-    future for electronic yellow pages is examined. the state of
-    the art is described, followed by an account of videotex
-    systems. the way in which yellow pages and such systems may
-    interact is discussed. the implications of electronic yellow
-    pages for major companies involved are examined.

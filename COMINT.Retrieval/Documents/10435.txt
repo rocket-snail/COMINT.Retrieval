@@ -1,6 +1,0 @@
-an input amplifier for a pulse height analyser the
-    analyser described can be gated by pulses coincident with the
-    pulses to be measured the error introduced being of the maximum
-    output pulse height variation of the input amplification
-    enables the scale to be expanded for detailed examination of
-    part of a spectrum

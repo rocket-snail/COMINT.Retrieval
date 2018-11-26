@@ -1,3 +1,0 @@
-selective high frequency amplification with tunnel diodes
-    the design of a vhf fm tuner using tuner using tunnel diodes is
-    detailed

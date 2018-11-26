@@ -1,6 +1,0 @@
-the use of double triodes in high gain low frequency
-    amplifiers the type of amplifier stage employing a double
-    triode is described in which one triode section provides a high
-    dynamic load resistance for the plate circuit of the other an
-    amplifier utilizing three such stages and possessing a gain of
-    the order of is described

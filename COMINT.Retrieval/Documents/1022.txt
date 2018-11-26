@@ -1,8 +1,0 @@
-nonlinear electromechanical systems by an extension of
-    lienards graphical method abstracts only two or three coplanar
-    curves need be traced for a complete topological study of the
-    stability conditions for systems represented by equations of
-    the types results of a detailed analysis are applied to the
-    case of a filtered oscillator of may and of june a much shorter
-    version of the first part of this paper was given in
-    paris

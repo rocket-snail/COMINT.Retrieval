@@ -1,7 +1,0 @@
-magnetic effects in the f region of the ionosphere night
-    time values of f at stations in the south of africa are found
-    to decrease with increasing values of the equivalent planetary
-    daily amplitude the magnetic control of night time ionization
-    could account for the day to day correlation of values the
-    relation of ionospheric and magnetically quiet days is
-    discussed

@@ -1,8 +1,0 @@
-thermal and gravitational atmospheric oscillations
-    ionospheric dynamo effects included the resonance theory of
-    gravitational and thermal oscillations in a rotating atmosphere
-    is extended to include an electron and positive ion gas with a
-    permanent magnetic field superposed expressions are obtained
-    for the variation with height of the electric field current
-    density and ion drift velocitile some comparisons are made with
-    observed ionospheric data

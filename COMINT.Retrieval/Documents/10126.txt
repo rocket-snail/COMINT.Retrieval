@@ -1,4 +1,0 @@
-a new electrostatic influence machine description of the
-    principles of operation the construction and performance of a
-    rotary machine operating at atmospheric pressure and giving
-    voltages up to

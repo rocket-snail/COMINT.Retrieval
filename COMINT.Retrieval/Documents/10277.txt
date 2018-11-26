@@ -1,2 +1,0 @@
-design of a timing device and nonlinear units for an
-    electronic differential analyser

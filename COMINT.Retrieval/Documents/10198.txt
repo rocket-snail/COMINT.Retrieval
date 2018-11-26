@@ -1,7 +1,0 @@
-elements of boolean algebra for the study of information
-    handling systems terminology symbols definitions and proofs of
-    basic theorems of boolean algebra are given as a preliminary to
-    the use of this algebra for studying methods of minimizing the
-    number of physical elements required on information handling or
-    computing systems the method is illustrated by examples of
-    design of computer circuits

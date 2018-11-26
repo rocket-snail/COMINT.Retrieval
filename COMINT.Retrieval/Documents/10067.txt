@@ -1,9 +1,0 @@
-realist valiant 18 microfiche reader. the realist valiant
-    18 is a large, table-top model microfiche reader, designed
-    primarily for viewing 2 source document pages simultaneously in
-    full-size enlargement. presents a specification summary, and
-    details of basic design, set-up, operation, electrical
-    requirements, controls, microforms accepted, magnifications,
-    screen type and size, image quality, image rotation and
-    scanning, indexing and retrieval aids, maintenance, and the
-    warranty.

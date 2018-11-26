@@ -1,5 +1,0 @@
-editex' a telex text-editor based on an 8085
-    microprocessor (in dutch). a microprocessor-based text editor
-    specially developed to add text editing capabilities to
-    currently used telex machines without any necessary technical
-    changes is described.

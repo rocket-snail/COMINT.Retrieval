@@ -1,4 +1,0 @@
-solar stream distortion of the geomagnetic field and
-    polar electrojets the geomagnetic field distortion may
-    introduce longitudinal field gradients which will lead to
-    electrojet current systems of the form observed

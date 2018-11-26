@@ -1,8 +1,0 @@
-bifurcation and other irregularities of the ionospheric f
-    layer splitting is considered to occur when the excess of
-    energy of each ionizing photon over the ionizing potential is
-    transformed into heat on account of the quasi neutrality the
-    rarefaction of the gas at the maximum of ionization can create
-    a small secondary minimum of electron density which separates
-    the f layer into f this secondary minimum of electron density
-    appears just at the maximum of electron production

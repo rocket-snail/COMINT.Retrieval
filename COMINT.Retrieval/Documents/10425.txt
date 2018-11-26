@@ -1,3 +1,0 @@
-a minimal spanning tree clustering method (algorithm
-    r479) february, 1975 magnuski, h. s. ca750210 jb january 12,
-    1978 2:52 pm

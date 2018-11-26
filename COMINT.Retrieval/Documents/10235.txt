@@ -1,5 +1,0 @@
-quantum theory of the refractive index a perturbation
-    theory is used to obtain a unitary transformation which
-    approximately diagonalizes the total hamiltonian for a system
-    made up of a radiation field in interaction with gas
-    molecules

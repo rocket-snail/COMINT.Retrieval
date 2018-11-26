@@ -1,6 +1,0 @@
-solar proton impact zones the trajectories of charged
-    particles in a magnetic dipole field are calculated numerically
-    and applied to data on the relative number of impacts in the
-    northern and southern geomagnetic hemispheres depends strongly
-    on season low energy protons are focused into i small impact
-    areas on the earth

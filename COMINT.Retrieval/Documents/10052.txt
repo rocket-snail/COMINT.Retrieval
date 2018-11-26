@@ -1,6 +1,0 @@
-ibm displaywriter).d escribes the ibm displaywriter
-    system. its most basic model is a single station stand alone
-    unit, comprising a keyboard, display station, text pack, single
-    disk drive, printer, and an electronic module. prices and
-    specifications are given. up to 3 workstations may share 1
-    printer. describes the system components and functions.

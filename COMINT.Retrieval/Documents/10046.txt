@@ -1,8 +1,0 @@
-solar flare effect in the f layer of the ionosphere is
-    plotted as a function of local mean time where is the
-    difference between the measured critical frequency and the
-    normal value based on that measured one hour previously the
-    plot for the period of the intense solar flare of february
-    shows a positive pulse of amplitude followed by a second
-    smaller pulse later an analysis of the statistics of the
-    fluctuations in has been made

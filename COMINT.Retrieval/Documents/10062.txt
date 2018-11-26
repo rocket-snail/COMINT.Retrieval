@@ -1,6 +1,0 @@
-extension of nonreciprocal ferrite devices to the
-    frequency range calculations indicate that devices such as
-    circulators of reasonable dimensions can be designed for
-    operation at frequencies below by using static magnetic fields
-    of intensity greater than required for ferromagnetic
-    resonance

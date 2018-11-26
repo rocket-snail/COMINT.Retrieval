@@ -1,3 +1,0 @@
-the pulsed ruby maser as a light amplifier using a ruby
-    maser oscillator as a light source a net gain of two was
-    observed

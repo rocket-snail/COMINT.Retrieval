@@ -1,5 +1,0 @@
-the necessary and sufficient conditions for the physical
-    relizability of a rank field impedance admittance matrix in the
-    form of a passive multipole it is proved that every positive
-    real matrix of rank where m is a finite integral number can be
-    physically realized in the form of a passive multipole

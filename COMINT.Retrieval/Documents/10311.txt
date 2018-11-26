@@ -1,8 +1,0 @@
-modulation distortion in frequency modulation by special
-    frequency band the distortion factors are calculated which
-    arise in two three or four double tuned critically coupled band
-    filters used in f m receivers under the assumption of
-    linearized phase characteristics and for two different
-    selectivity specifications the amplitudes of combination tones
-    are calculated for the case of three filters when two f m
-    signals are applied

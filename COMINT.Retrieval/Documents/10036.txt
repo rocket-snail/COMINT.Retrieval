@@ -1,9 +1,0 @@
-radar determination of the height of disappearance of
-    meteor trails of known radiant observations were made during
-    the period august at meudon using radar equipment operating on
-    a wavelength of with a peak power of about curves representing
-    the time variation of the distance of the theoretically nearest
-    reflection point for various values of the height at which the
-    trails disappear are shown together with observed nearest
-    reflection points from the comparison it is deduced that the
-    mean value of h is about km

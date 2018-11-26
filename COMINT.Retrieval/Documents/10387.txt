@@ -1,4 +1,0 @@
-higi frequency limit of bremsstrahlung in the sauter
-    approximation the photoelectric process is shown to be inverse
-    to the process of x ray emission at the high frequency limit of
-    the spectrum

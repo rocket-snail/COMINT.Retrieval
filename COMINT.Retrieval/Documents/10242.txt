@@ -1,5 +1,0 @@
-group refractive index of the ionosphere at low frequency
-    a general expression for the group refractive index at l f is
-    obtained which for the limiting case when electron collisional
-    frequency is small is identical with an approximate expression
-    due to gibbons and rao

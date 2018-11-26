@@ -18,6 +18,21 @@ namespace COMINT.Retrieval.Common.Models
 
         public string File { get; set; }
 
+
+#pragma warning disable 659
+        public override bool Equals(object obj)
+#pragma warning restore 659
+        {
+            if (!(obj is TrecElement other))
+            {
+                return false;
+            }
+
+            return Equals(Query, other.Query) &&
+                   Equals(Rank, other.Rank) &&
+                   Equals(Document, other.Document);
+        }
+
         public int CompareTo(TrecElement other)
         {
             if (Rank > other.Rank)
@@ -29,6 +44,11 @@ namespace COMINT.Retrieval.Common.Models
                 return 1;
             }
             return 0;
+        }
+
+        public override string ToString()
+        {
+            return $"{Query} {Q0} {Document} {Rank} {RSV} {System}";
         }
     }
 }

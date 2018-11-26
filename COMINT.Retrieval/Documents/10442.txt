@@ -1,5 +1,0 @@
-a superconductor in a high frequency field an equation is
-    derived which describes the behaviour of a superconductor in a
-    high frequency field and the frequency and temperature
-    dependence of the impedance of a bulk superconductor are
-    evaluated

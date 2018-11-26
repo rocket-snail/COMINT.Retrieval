@@ -1,5 +1,0 @@
-an experimental study on the ampere turn gain of ordinary
-    saturable reactors measurements show that great improvements in
-    performance of dc instrument transformers can be obtained by
-    slightly increasing the effective ratio of primary to secondary
-    turns and applying a properly rated ac bias circuit

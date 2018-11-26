@@ -1,9 +1,0 @@
-medical documentation services through satellites in
-    kuwait (in arabic). kuwait has become one of the countries to
-    receive medlars by satellite, and there is an on-line system
-    between the kuwait university hospital and the national library
-    of medicine (nlm) in the usa. it receives index medicus, and
-    enquiries can be transmitted directly from medlars through the
-    on-line system. sdi and off-line services are also available.
-    medlars coverage includes cancerline, toxline and
-    chemline.

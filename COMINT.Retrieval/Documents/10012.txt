@@ -1,5 +1,0 @@
-a circuit with several stable state using tunnel diodes
-    the circuit has four stable states the time required for a
-    change of state being of the order of it can serve as a fast
-    pre storage device for a multichannel analyser or as the basic
-    unit of an associated address scaler

@@ -1,7 +1,0 @@
-computer applications in acquisitions and cataloguing
-    with special reference to marc. explains what marc tapes are;
-    marc record format; and searching marc tapes for a particular
-    record. discusses the use of marc in computerised acquisitions
-    and cataloguing procedures. briefly describes the ohio college
-    library center and birmingham libraries co-operative
-    mechanization project computerised cataloguing services.

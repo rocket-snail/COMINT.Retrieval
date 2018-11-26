@@ -1,4 +1,0 @@
-the folded tree the problem of constructing circuits to
-    perform certain functions such as switching functions is
-    treated by representing the circuits by vertex diagrams of
-    which the folded tree is a particular form

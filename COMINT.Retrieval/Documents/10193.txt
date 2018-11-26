@@ -1,4 +1,0 @@
-the agrimeter for continuous recording of the atmospheric
-    electric field description of an instrument based on
-    measurement of the bound charge on a portion of the earths
-    surface
