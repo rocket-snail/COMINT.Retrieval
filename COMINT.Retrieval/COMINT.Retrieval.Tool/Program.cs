@@ -23,6 +23,7 @@ namespace COMINT.Retrieval.Tool
             var documentsPath = @"C:\Data\COMIT.Retrieval\Google_1";
             var queriesFile = @"C:\Data\COMIT.Retrieval\irg_queries.trec";
             var outputPath = @"C:\Data\COMIT.Retrieval";
+            var outputPath = @"C:\Data\COMIT.Retrieval";
             if (args.Any())
             {
                 documentsPath = args[0];
